@@ -1,0 +1,49 @@
+metric,value
+file,1i8xlgz.csv
+title,"Sony’s next flagship noise-canceling headphones might be close to launch | An FCC filing may have given us our first look at Sony’s WH-1000XM6 headphones, including the possibility of detachable earpads."
+rows,202
+num_posts,1
+num_comments,201
+unique_authors,137
+max_depth,5
+avg_comment_words,54.17
+median_comment_words,44.0
+max_comment_words,350
+positive_count,37
+negative_count,164
+neutral_count,0
+positive_pct,18.408
+negative_pct,81.592
+neutral_pct,0.0
+topic_1_keywords,"bose, name, something, time, changing, start, pronounce, human"
+topic_1_label,bose name change
+topic_2_keywords,"use, still, headphones, headset, would, battery, xm2, bluetooth"
+topic_2_label,xm2 bluetooth headsets use still
+topic_3_keywords,"like, noise, headphones, anc, get, even, xm4s, better"
+topic_3_label,xm4s sound better than a cd
+topic_4_keywords,"get, people, time, dont, party, detachable, earpads, like"
+topic_4_label,earpads are detachable
+topic_5_keywords,"case, headphones, much, fold, dont, similar, better, still"
+topic_5_label,headphones fold and fold
+topic_6_keywords,"headphones, bluetooth, xm4, sound, ive, never, end, theyre"
+topic_6_label,ipods and headphones sound ipods
+top_ngram_1,high end (14)
+top_ngram_2,wish hadnt (12)
+top_ngram_3,hadnt degraded (12)
+top_ngram_4,degraded foldability (12)
+top_ngram_5,foldability headphones (12)
+top_ngram_6,battery still (12)
+top_ngram_7,wish hadnt degraded (12)
+top_ngram_8,hadnt degraded foldability (12)
+top_ngram_9,degraded foldability headphones (12)
+top_ngram_10,headphones giving (11)
+ner_1,X|MISC|42
+ner_2,XM|MISC|27
+ner_3,Sony|ORG|22
+ner_4,Bluetooth|MISC|14
+ner_5,XM5|MISC|11
+ner_6,XM2|MISC|8
+ner_7,Android|MISC|8
+ner_8,Bose|ORG|7
+ner_9,XM|ORG|6
+ner_10,XM3|MISC|6

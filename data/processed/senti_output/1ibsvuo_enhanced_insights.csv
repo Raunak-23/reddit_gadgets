@@ -1,0 +1,49 @@
+metric,value
+file,1ibsvuo.csv
+title,AMD RX 9000 series will focus on desktop GPUs first — RDNA 4 mobility offerings to follow later
+rows,20
+num_posts,1
+num_comments,19
+unique_authors,16
+max_depth,5
+avg_comment_words,49.95
+median_comment_words,23.0
+max_comment_words,170
+positive_count,3
+negative_count,16
+neutral_count,0
+positive_pct,15.789
+negative_pct,84.211
+neutral_pct,0.0
+topic_1_keywords,"cards, amd, thats, card, get, popular, used, become"
+topic_1_label,card get popular
+topic_2_keywords,"amd, nvidia, mention, owning, market, hear, id, end"
+topic_2_label,nvidia mentions the end of the market
+topic_3_keywords,"water, gpu, make, compete, waters, wet, card, nvidia"
+topic_3_label,nvidia gpu compete in water
+topic_4_keywords,"water, 4060, amd, gpu, end, havent, doesnt, seen"
+topic_4_label,water hasnt seen in the end of the gpu
+topic_5_keywords,"7900xt, 4080, 600, bought, ti, vram, oc, matches"
+topic_5_label,"ti, vram, matches"
+topic_6_keywords,"wet, waters, around, link, homie, 600, card, water"
+topic_6_label,a link to a homie in water
+top_ngram_1,easier get (5)
+top_ngram_2,cheap cards (5)
+top_ngram_3,become popular (5)
+top_ngram_4,popular powerful (5)
+top_ngram_5,powerful cards (5)
+top_ngram_6,become popular powerful (5)
+top_ngram_7,popular powerful cards (5)
+top_ngram_8,waters wet (4)
+top_ngram_9,amd gpu (4)
+top_ngram_10,low end (4)
+ner_1,AMD|ORG|8
+ner_2,Nvidia|ORG|5
+ner_3,R|MISC|2
+ner_4,Intel|ORG|2
+ner_5,##90|MISC|1
+ner_6,AM|MISC|1
+ner_7,660|MISC|1
+ner_8,##uce Michael|PER|1
+ner_9,##D|ORG|1
+ner_10,Lol|ORG|1

@@ -1,0 +1,49 @@
+metric,value
+file,1ghcjv5.csv
+title,"Sony was working on the PS5 Pro before the PS5 even launched: ""We design everything with having 1 ahead in our mind"""
+rows,163
+num_posts,1
+num_comments,162
+unique_authors,118
+max_depth,7
+avg_comment_words,57.51
+median_comment_words,38.0
+max_comment_words,379
+positive_count,29
+negative_count,133
+neutral_count,0
+positive_pct,17.901
+negative_pct,82.099
+neutral_pct,0.0
+topic_1_keywords,"ps5, even, pro, concept, next, price, shit, people"
+topic_1_label,"ps5 even, concept, price"
+topic_2_keywords,"consoles, thats, games, pc, game, much, way, would"
+topic_2_label,pc game would be much more fun
+topic_3_keywords,"consoles, pc, already, playstation, exclusive, ps6, development, design"
+topic_3_label,ps6 is the exclusive game console
+topic_4_keywords,"every, make, dont, time, games, version, designed, audi"
+topic_4_label,audi 's version of audi
+topic_5_keywords,"dolby, thing, mean, xbox, license, play, ps3, cant"
+topic_5_label,xbox ps3 cant
+topic_6_keywords,"sony, think, like, afford, company, must, incredibly, ever"
+topic_6_label,sony thinks like a company must ever
+top_ngram_1,xbox 360 (13)
+top_ngram_2,every company (12)
+top_ngram_3,dolby vision (12)
+top_ngram_4,company dont (11)
+top_ngram_5,dont hear (11)
+top_ngram_6,hear audi (11)
+top_ngram_7,audi engineers (11)
+top_ngram_8,engineers completely (11)
+top_ngram_9,completely surprised (11)
+top_ngram_10,surprised told (11)
+ner_1,Sony|ORG|46
+ner_2,PS3|MISC|26
+ner_3,PS5|MISC|21
+ner_4,PS6|MISC|18
+ner_5,S|MISC|13
+ner_6,Audi|ORG|12
+ner_7,Microsoft|ORG|12
+ner_8,Nvidia|ORG|10
+ner_9,Xbox|ORG|10
+ner_10,PC|MISC|10

@@ -1,0 +1,47 @@
+metric,value
+file,1i245b9.csv
+title,"A Game Boy Speedometer, Just Because You Can"
+rows,16
+num_posts,1
+num_comments,15
+unique_authors,14
+max_depth,3
+avg_comment_words,20.27
+median_comment_words,16.0
+max_comment_words,56
+positive_count,1
+negative_count,14
+neutral_count,0
+positive_pct,6.667
+negative_pct,93.333
+neutral_pct,0.0
+topic_1_keywords,"cuz, speed, better, phrased, cause, would, king, whats"
+topic_1_label,king of a king
+topic_2_keywords,"better, reason, even, need, cuz, cause, phrased, would"
+topic_2_label,cause and reason
+topic_3_keywords,"cuz, speed, better, phrased, cause, would, king, whats"
+topic_3_label,king of a king
+topic_4_keywords,"possible, person, might, ever, hard, looking, love, incredibly"
+topic_4_label,incredibly hard looking person
+topic_5_keywords,"speed, unlaiden, whats, gameboy, average, king, youre, know"
+topic_5_label,unlaiden kings unlaiden
+topic_6_keywords,"wrapped, turn, time, lamps, pole, readjust, telephone, magnifier"
+topic_6_label,a light bulb wrapped in a light pole
+top_ngram_1,even need (3)
+top_ngram_2,need better (3)
+top_ngram_3,better reason (3)
+top_ngram_4,even need better (3)
+top_ngram_5,need better reason (3)
+top_ngram_6,whats average (3)
+top_ngram_7,average speed (3)
+top_ngram_8,speed unlaiden (3)
+top_ngram_9,unlaiden gameboy (3)
+top_ngram_10,whats average speed (3)
+ner_1,##tor|ORG|1
+ner_2,African|MISC|1
+ner_3,Cuz|MISC|1
+ner_4,Do|MISC|1
+ner_5,Etsy|ORG|1
+ner_6,European|MISC|1
+ner_7,Unihertz Jelly Max|MISC|1
+ner_8,Worlds Smallest 5G Smartphone|MISC|1

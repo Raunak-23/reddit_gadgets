@@ -1,0 +1,49 @@
+metric,value
+file,1gn4xjo.csv
+title,"According to Google’s own data, overheating issues with Tensor have proved to be the biggest reason for Pixel returns."
+rows,38
+num_posts,1
+num_comments,37
+unique_authors,30
+max_depth,3
+avg_comment_words,55.7
+median_comment_words,47.0
+max_comment_words,167
+positive_count,2
+negative_count,35
+neutral_count,0
+positive_pct,5.405
+negative_pct,94.595
+neutral_pct,0.0
+topic_1_keywords,"pixel, phones, hardware, nexus, actually, often, keep, brand"
+topic_1_label,pixel is a brand that is often kept in the nexus
+topic_2_keywords,"reseted, pixel, phone, used, id, bluetooth, warranty, year"
+topic_2_label,pixel phone resets pixel phone
+topic_3_keywords,"phone, like, camera, use, wars, im, cringe, using"
+topic_3_label,phone likes using camera
+topic_4_keywords,"overheating, galaxy, iphone, issue, devices, common, also, time"
+topic_4_label,overheating on iphone and other devices
+topic_5_keywords,"android, phones, people, phone, bought, ever, google, buy"
+topic_5_label,Google buys phones for people
+topic_6_keywords,"pixel, car, 6a, overheating, phone, overheat, significantly, moved"
+topic_6_label,pixel overheating mobile phone overheating
+top_ngram_1,people continue (16)
+top_ngram_2,continue buy (16)
+top_ngram_3,buy googles (16)
+top_ngram_4,googles phones (16)
+top_ngram_5,phones boggles (16)
+top_ngram_6,boggles mind (16)
+top_ngram_7,people continue buy (16)
+top_ngram_8,continue buy googles (16)
+top_ngram_9,buy googles phones (16)
+top_ngram_10,googles phones boggles (16)
+ner_1,Google|ORG|18
+ner_2,Google|MISC|18
+ner_3,iPhone|MISC|10
+ner_4,Pixe|MISC|4
+ner_5,##l|ORG|4
+ner_6,##us|ORG|3
+ner_7,Blue|MISC|3
+ner_8,Galaxy|MISC|3
+ner_9,Pixel 7|MISC|3
+ner_10,Galaxy|ORG|3

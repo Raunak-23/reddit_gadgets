@@ -1,0 +1,49 @@
+metric,value
+file,1kp1j0o.csv
+title,Sound-tracking headphones let you eavesdrop in multiple languages
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,16
+max_depth,3
+avg_comment_words,11.19
+median_comment_words,8.0
+max_comment_words,38
+positive_count,2
+negative_count,14
+neutral_count,0
+positive_pct,12.5
+negative_pct,87.5
+neutral_pct,0.0
+topic_1_keywords,"runexpectedseinfeld, conversation, costanza, frank, use, wonder, quickly, rich"
+topic_1_label,frank ran expectedseinfeld conversation
+topic_2_keywords,"wonder, salon, nail, quickly, rich, ladies, hate, many"
+topic_2_label,beauty salons and salons
+topic_3_keywords,"wear, alabama, wait, cant, runexpectedseinfeld, conversation, costanza, frank"
+topic_3_label,frank frank waits for a meeting in alabama
+topic_4_keywords,"conversation, runexpectedseinfeld, costanza, frank, use, wonder, quickly, rich"
+topic_4_label,frank and frank talk in conversation
+topic_5_keywords,"use, costanza, frank, runexpectedseinfeld, wonder, quickly, nail, rich"
+topic_5_label,frank ranexpectedseinfeld
+topic_6_keywords,"runexpectedseinfeld, conversation, costanza, frank, use, wonder, quickly, rich"
+topic_6_label,frank ran expectedseinfeld conversation
+top_ngram_1,use frank (4)
+top_ngram_2,frank costanza (4)
+top_ngram_3,use frank costanza (4)
+top_ngram_4,wonder many (3)
+top_ngram_5,many rich (3)
+top_ngram_6,rich ladies (3)
+top_ngram_7,ladies quickly (3)
+top_ngram_8,quickly hate (3)
+top_ngram_9,hate nail (3)
+top_ngram_10,nail salon (3)
+ner_1,Frank Costanza|PER|4
+ner_2,##einfeld|ORG|1
+ner_3,##gi|ORG|1
+ner_4,##ian|MISC|1
+ner_5,Alabama Louisiana|LOC|1
+ner_6,Alabama|LOC|1
+ner_7,Babel Fish|MISC|1
+ner_8,Runexpectedseinfeld Capital R|ORG|1
+ner_9,g|ORG|1
+ner_10,iMessage|ORG|1

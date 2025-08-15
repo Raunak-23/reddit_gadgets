@@ -1,0 +1,49 @@
+metric,value
+file,1hvzom7.csv
+title,"Lenovo Legion Go S with Valve's SteamOS is official, expected to launch in May"
+rows,71
+num_posts,1
+num_comments,70
+unique_authors,39
+max_depth,9
+avg_comment_words,58.13
+median_comment_words,51.0
+max_comment_words,164
+positive_count,11
+negative_count,59
+neutral_count,0
+positive_pct,15.714
+negative_pct,84.286
+neutral_pct,0.0
+topic_1_keywords,"use, isnt, deck, like, os, linux, restricted, system"
+topic_1_label,linux isnt and linux isnt
+topic_2_keywords,"touch, deck, pads, windows, use, games, steam, never"
+topic_2_label,Steam game uses pad pads on windows
+topic_3_keywords,"steam, get, still, deck, flathub, installing, havent, could"
+topic_3_label,steam and flathub installed on deck
+topic_4_keywords,"pc, games, handheld, playing, players, destroy, stupid, mk"
+topic_4_label,"Nintendo DS: Nintendo DS, Nintendo DS, Nintendo DS"
+topic_5_keywords,"flight, want, sim, im, deck, steam, sims, especially"
+topic_5_label,sims for flight
+topic_6_keywords,"steamdeck, legion, im, battery, go, steam, see, performance"
+topic_6_label,"steamdeck, legion, battery, performance"
+top_ngram_1,steam deck (23)
+top_ngram_2,touch pads (14)
+top_ngram_3,legion go (9)
+top_ngram_4,file system (9)
+top_ngram_5,pc games (8)
+top_ngram_6,play flight (7)
+top_ngram_7,stupid playing (6)
+top_ngram_8,playing pc (6)
+top_ngram_9,games handheld (6)
+top_ngram_10,handheld mk (6)
+ner_1,Linux|MISC|19
+ner_2,Windows|MISC|14
+ner_3,Steam Deck|ORG|13
+ner_4,Valve|ORG|10
+ner_5,SteamOS|MISC|9
+ner_6,Steam|ORG|9
+ner_7,Legion|ORG|5
+ner_8,Flat|ORG|5
+ner_9,Microsoft|ORG|5
+ner_10,Deck 2|MISC|4

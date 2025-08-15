@@ -1,0 +1,49 @@
+metric,value
+file,1hskmmd.csv
+title,"Newly finalized BTF 3.0 standard simplifies cable management in DIY PC builds | New backside 50-pin motherboard connector supplies up to 1,500W"
+rows,40
+num_posts,1
+num_comments,39
+unique_authors,24
+max_depth,9
+avg_comment_words,93.72
+median_comment_words,84.0
+max_comment_words,191
+positive_count,4
+negative_count,35
+neutral_count,0
+positive_pct,10.256
+negative_pct,89.744
+neutral_pct,0.0
+topic_1_keywords,"gaming, tdp, load, thats, 330w, 575w, fluid, power"
+topic_1_label,"Gaming, tdp, load, fluid, power"
+topic_2_keywords,"problem, power, much, people, volts, decades, 7800x3d, need"
+topic_2_label,power problems in volts
+topic_3_keywords,"1500w, limit, gpus, dont, first, 575w, melted, safety"
+topic_3_label,gpus melted in safety
+topic_4_keywords,"thats, 15, power, kilowatts, nope, space, heater, around"
+topic_4_label,space heaters around the heater
+topic_5_keywords,"asus, motherboard, like, buy, pay, standerd, connector, bespoke"
+topic_5_label,Asus motherboard likes to buy and pay
+topic_6_keywords,"power, get, pc, watts, cant, keep, statement, every"
+topic_6_label,watts and cants for every pc
+top_ngram_1,get power (13)
+top_ngram_2,15 kilowatts (12)
+top_ngram_3,much power (12)
+top_ngram_4,pc get (10)
+top_ngram_5,pc get power (10)
+top_ngram_6,nope 15 (8)
+top_ngram_7,space heater (8)
+top_ngram_8,heater thats (8)
+top_ngram_9,nope 15 kilowatts (8)
+top_ngram_10,space heater thats (8)
+ner_1,Asus|ORG|8
+ner_2,As|MISC|4
+ner_3,ASUS|ORG|3
+ner_4,Intel|ORG|2
+ner_5,National Electric Code|MISC|2
+ner_6,North America|LOC|2
+ner_7,PC|MISC|2
+ner_8,north American|MISC|2
+ner_9,US|LOC|2
+ner_10,##D|ORG|1

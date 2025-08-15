@@ -1,0 +1,49 @@
+metric,value
+file,1k1gejw.csv
+title,First folding color e-reader breaks cover
+rows,55
+num_posts,1
+num_comments,54
+unique_authors,44
+max_depth,7
+avg_comment_words,40.22
+median_comment_words,32.0
+max_comment_words,146
+positive_count,9
+negative_count,45
+neutral_count,0
+positive_pct,16.667
+negative_pct,83.333
+neutral_pct,0.0
+topic_1_keywords,"screen, middle, ereader, line, dont, like, close, hold"
+topic_1_label,ereader doesn't like to close
+topic_2_keywords,"point, unfortunate, selling, broken, headline, cover, bad, username"
+topic_2_label,a typo in a cover
+topic_3_keywords,"want, device, ereader, folding, book, technology, fact, legitimately"
+topic_3_label,book is a device that is used to fold books
+topic_4_keywords,"pages, turn, one, dont, factory, well, way, reddit"
+topic_4_label,reddit 's a good way to turn one off
+topic_5_keywords,"would, folding, ereader, like, least, first, think, thought"
+topic_5_label,ereader likes folding ereader
+topic_6_keywords,"cover, still, make, screen, headline, dead, trying, boop"
+topic_6_label,boop boops make headlines
+top_ngram_1,line middle (12)
+top_ngram_2,dont think (8)
+top_ngram_3,broken cover (7)
+top_ngram_4,get might (6)
+top_ngram_5,might want (6)
+top_ngram_6,want screen (6)
+top_ngram_7,screen real (6)
+top_ngram_8,real estate (6)
+top_ngram_9,estate without (6)
+top_ngram_10,without larger (6)
+ner_1,Reddit|ORG|4
+ner_2,Kindle|MISC|3
+ner_3,JFC|ORG|2
+ner_4,4chan|ORG|2
+ner_5,Col|MISC|1
+ner_6,Fold|MISC|1
+ner_7,First Orange Juice Factory|ORG|1
+ner_8,Comics|ORG|1
+ner_9,Into|MISC|1
+ner_10,Galaxy Fold|MISC|1

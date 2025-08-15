@@ -1,0 +1,49 @@
+metric,value
+file,1l2ecu4.csv
+title,This New Retro Handheld Is Nostalgia Bait for Early-2000s Sliding Phones
+rows,114
+num_posts,1
+num_comments,113
+unique_authors,88
+max_depth,10
+avg_comment_words,50.54
+median_comment_words,31.0
+max_comment_words,540
+positive_count,23
+negative_count,58
+neutral_count,32
+positive_pct,20.354
+negative_pct,51.327
+neutral_pct,28.319
+topic_1_keywords,"phone, color, like, m2, 2002, phones, flip, remember"
+topic_1_label,i like the color of the phone
+topic_2_keywords,"go, psp, really, like, thumb, never, real, time"
+topic_2_label,psp 's not real
+topic_3_keywords,"remember, psp, go, play, phones, droid, xperia, 3310"
+topic_3_label,psp remember xperia 3310
+topic_4_keywords,"want, like, devices, phone, people, form, something, came"
+topic_4_label,like the device
+topic_5_keywords,"screen, retro, would, thats, get, one, bit, phone"
+topic_5_label,idk idk idk idk idk idk idk
+topic_6_keywords,"2000s, phones, sliding, early, late, im, mistaken, flip"
+topic_6_label,phone flips early in 2000s
+top_ngram_1,psp go (53)
+top_ngram_2,early 2000s (25)
+top_ngram_3,sliding phones (24)
+top_ngram_4,phones late (22)
+top_ngram_5,late 2000s (22)
+top_ngram_6,phones late 2000s (22)
+top_ngram_7,2000s im (21)
+top_ngram_8,im mistaken (21)
+top_ngram_9,mistaken early (21)
+top_ngram_10,2000s flip (21)
+ner_1,PSP Go|MISC|43
+ner_2,PSP|MISC|7
+ner_3,Xperia|ORG|6
+ner_4,Motorola|ORG|6
+ner_5,Switch|MISC|5
+ner_6,An|MISC|4
+ner_7,PS|ORG|4
+ner_8,Sanyo|ORG|4
+ner_9,NGage|ORG|3
+ner_10,L|MISC|3

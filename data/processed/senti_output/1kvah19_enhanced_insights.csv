@@ -1,0 +1,49 @@
+metric,value
+file,1kvah19.csv
+title,Realtek's 10 Dollars tiny 10GbE network adapter is coming to motherboards later this year
+rows,200
+num_posts,1
+num_comments,199
+unique_authors,111
+max_depth,10
+avg_comment_words,75.36
+median_comment_words,61.0
+max_comment_words,336
+positive_count,14
+negative_count,185
+neutral_count,0
+positive_pct,7.035
+negative_pct,92.965
+neutral_pct,0.0
+topic_1_keywords,"enough, isnt, 10gb, nas, bandwidth, need, home, would"
+topic_1_label,"nas, nas, need"
+topic_2_keywords,"house, dont, home, people, issues, new, lanes, ethernet"
+topic_2_label,ethernet issues in house
+topic_3_keywords,"1gbps, get, fibre, wifi, youre, dont, even, max"
+topic_3_label,ipvs get 1gbps
+topic_4_keywords,"would, dont, speed, intel, really, lanes, use, going"
+topic_4_label,"if you want to go to a lanes, you need to use intel"
+topic_5_keywords,"nas, like, would, 10, really, port, storage, youre"
+topic_5_label,nas likes 10 things to do in port
+topic_6_keywords,"10gbe, intel, realtek, said, cheap, good, ive, nas"
+topic_6_label,"10gbe, realtek, said, cheap, good, i"
+top_ngram_1,10gb silly (24)
+top_ngram_2,sorta also (23)
+top_ngram_3,also isnt (23)
+top_ngram_4,isnt 1gb (23)
+top_ngram_5,1gb enough (23)
+top_ngram_6,enough 90 (23)
+top_ngram_7,90 25 (23)
+top_ngram_8,25 enough (23)
+top_ngram_9,enough rest (23)
+top_ngram_10,rest 10 (23)
+ner_1,NAS|ORG|35
+ner_2,Intel|ORG|25
+ner_3,Realtek|ORG|23
+ner_4,Internet|MISC|9
+ner_5,Ether|MISC|7
+ner_6,N|ORG|6
+ner_7,US|LOC|5
+ner_8,Australia|LOC|4
+ner_9,N|MISC|4
+ner_10,Ethernet|MISC|3

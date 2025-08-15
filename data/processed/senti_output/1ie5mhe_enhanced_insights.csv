@@ -1,0 +1,49 @@
+metric,value
+file,1ie5mhe.csv
+title,"Backdoor found in two healthcare patient monitors, linked to IP in China"
+rows,284
+num_posts,1
+num_comments,283
+unique_authors,182
+max_depth,11
+avg_comment_words,77.34
+median_comment_words,42.0
+max_comment_words,449
+positive_count,23
+negative_count,260
+neutral_count,0
+positive_pct,8.127
+negative_pct,91.873
+neutral_pct,0.0
+topic_1_keywords,"china, traffic, network, data, chinese, people, products, internet"
+topic_1_label,"China, data, products, internet"
+topic_2_keywords,"im, could, healthcare, die, think, already, bad, edit"
+topic_2_label,i could die in a hospital
+topic_3_keywords,"people, im, get, things, know, one, stuff, thats"
+topic_3_label,i am a iii
+topic_4_keywords,"im, like, cant, shit, anything, school, china, file"
+topic_4_label,"i like shit , anything , school , china"
+topic_5_keywords,"data, thats, us, medical, would, china, even, people"
+topic_5_label,China would be the only country with medical data
+topic_6_keywords,"got, never, school, like, different, network, computers, blah"
+topic_6_label,blah
+top_ngram_1,im saying (25)
+top_ngram_2,block traffic (20)
+top_ngram_3,traffic tofrom (20)
+top_ngram_4,tofrom china (20)
+top_ngram_5,china network (20)
+top_ngram_6,block traffic tofrom (20)
+top_ngram_7,traffic tofrom china (20)
+top_ngram_8,tofrom china network (20)
+top_ngram_9,dont think (14)
+top_ngram_10,got caught (14)
+ner_1,China|LOC|144
+ner_2,US|LOC|48
+ner_3,Chinese|MISC|47
+ner_4,America|LOC|26
+ner_5,Russia|LOC|18
+ner_6,American|MISC|13
+ner_7,Bomberman|MISC|9
+ner_8,NSA|ORG|9
+ner_9,Internet|MISC|8
+ner_10,TikTok|ORG|8

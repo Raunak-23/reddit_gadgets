@@ -1,0 +1,49 @@
+metric,value
+file,1hy6omg.csv
+title,World’s first 3D-printed microscope made in under 3 hours / The microscope cost less than £50 to build using an open-source design and a common 3D printer.
+rows,47
+num_posts,1
+num_comments,46
+unique_authors,30
+max_depth,7
+avg_comment_words,86.78
+median_comment_words,76.0
+max_comment_words,350
+positive_count,8
+negative_count,38
+neutral_count,0
+positive_pct,17.391
+negative_pct,82.609
+neutral_pct,0.0
+topic_1_keywords,"microscope, design, lenses, one, magnification, thats, making, optics"
+topic_1_label,optics: a microscope with a lens
+topic_2_keywords,"camera, microscope, printed, 3d, illumination, lens, optical, use"
+topic_2_label,3D printing of lens and optical lens
+topic_3_keywords,"3d, something, stuff, like, cost, cheaper, low, printer"
+topic_3_label,3d printing costs less than printing
+topic_4_keywords,"printing, 3d, complex, full, time, parts, things, step"
+topic_4_label,3D printing: a complex 3D printing
+topic_5_keywords,"formlabs, resin, printer, well, source, better, know, printed"
+topic_5_label,print a formlab for printer
+topic_6_keywords,"democratizing, science, 3d, dont, overpriced, statements, engineered, real"
+topic_6_label,democratizing science and 3d
+top_ngram_1,3d printed (40)
+top_ngram_2,printed microscope (21)
+top_ngram_3,3d printed microscope (21)
+top_ngram_4,29x magnification (12)
+top_ngram_5,camera microscopes (11)
+top_ngram_6,interesting project (10)
+top_ngram_7,project dont (10)
+top_ngram_8,dont really (10)
+top_ngram_9,really see (10)
+top_ngram_10,see supposed (10)
+ner_1,Raspberry Pi|MISC|10
+ner_2,HardwareX|ORG|4
+ner_3,Elegoo Mars 2|MISC|3
+ner_4,UK|LOC|2
+ner_5,Wright Brothers|ORG|2
+ner_6,Shelby Cobra|MISC|2
+ner_7,##tor|ORG|1
+ner_8,Oak Ridge National Laboratory|ORG|1
+ner_9,Lo|ORG|1
+ner_10,Gail McConnell|PER|1

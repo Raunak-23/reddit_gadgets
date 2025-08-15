@@ -1,0 +1,1001 @@
+{
+  "post": {
+    "title": "HDMI 2.2 standard finalized: doubles bandwidth to 96 Gbps, 16K resolution support",
+    "author": "chrisdh79",
+    "id": "1lk91nd",
+    "score": 1261,
+    "created_utc": 1750866076.0,
+    "selftext": "",
+    "num_comments": 119,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1lk91nd/hdmi_22_standard_finalized_doubles_bandwidth_to/"
+  },
+  "comments": [
+    {
+      "id": "mzptmal",
+      "author": "Shoelebubba",
+      "body": "Back when 2.1 released, they forced a label that clearly stated that \u201cthis cable meets the 2.1 standard\u201d and it worked fine if you bought one with the holographic sticker just like they are with 2.2.   \n    \nThen the HDMI Forum watered down the 2.1 spec to where people could slap the label onto cables that had some of the 2.1 features and instead you had to look for the 48gbps bandwidth of the spec list.    \n     \n   Here\u2019s hoping that doesn\u2019t repeat and that the implementation in AVRs and TVs isn\u2019t as buggy as it was when 2.1 released.",
+      "score": 490,
+      "created_utc": 1750866808.0,
+      "replies": [
+        {
+          "id": "mzq04sz",
+          "author": "igby1",
+          "body": "Cable makers love confusion though because it results in people buying more cables.",
+          "score": 242,
+          "created_utc": 1750868628.0,
+          "replies": [
+            {
+              "id": "mzqkitg",
+              "author": "mlorusso4",
+              "body": "Or they can overcharge for shitty cables. People will go looking for a 2.1 cable, see the \u201creal\u201d 2.1 is say $20, and the lesser 2.1 cable is $18. So they\u2019ll buy the $18 one thinking it\u2019s the same but a little cheaper. Whereas if it was labeled as say 2.0.5, they could only sell it for $15",
+              "score": 88,
+              "created_utc": 1750874179.0,
+              "replies": []
+            },
+            {
+              "id": "mzqzpx9",
+              "author": "pyrogeddon",
+              "body": "We can\u2019t keep letting Big Cable get away with it",
+              "score": 32,
+              "created_utc": 1750878485.0,
+              "replies": []
+            },
+            {
+              "id": "mzsr0jc",
+              "author": "angrydeuce",
+              "body": "Dude I remember working at compusa back in the day, those $100 monster cables, we paid like $3 for them.\u00a0 If theyre able to sell them to a retail chain for $3 a piece and still be in business, that tells you how little they must have cost to make in the first place...$100 fuckin dollars those retailed for lol\n\n\nImagine how cheap they can make the like $20-$30 dollar cables, its got to be like pennies a piece.\n\n\nThis is also precisely why every electronics store always hounded the shit out of you to buy cables and accessories.\u00a0 They probably make more money in total for the HDMI cable then they do for the 90\" 4K HDR TV.",
+              "score": 20,
+              "created_utc": 1750897914.0,
+              "replies": [
+                {
+                  "id": "mzssj8p",
+                  "author": "igby1",
+                  "body": "\"They probably make more money in total for the HDMI cable then they do for the 90\" 4K HDR TV.\" - so spendy TVs are the \"loss-leader\" in that scenario?",
+                  "score": 6,
+                  "created_utc": 1750898434.0,
+                  "replies": [
+                    {
+                      "id": "mzt1krq",
+                      "author": "angrydeuce",
+                      "body": "Basically yeah.  Margins on big ticket hardware items are (at least were, my knowledge of retail is out of date by nearly 20 years now) next to nothing because that's what brings people in the door.  This is also why they push the extended warranties and add-on skus so hard...that's where all the money is.  \n\nThe extended warranties are almost 100% profit, for every person that actually makes use of it after they buy, there are 4 or more that don't, so that's literally free money right there, which is why they *really* lean on those in big box electronic stores.  But all that incidental stuff that people would buy around a major hardware purchase, that's where they got their money.  Someone wants a new $300 printer?  Better add on the $25 USB cable (cost $1.17), a full set of ink cartridges for $35 bucks each (cost $7.46), a couple $4.99 reams of paper (cost .87 cents), maybe some really fancy high end $30 for 20 sheets of photo paper (cost $9.47)...and of course the exceptional value of the $69.99, 3-year extended service plan that you probably will forget you even bought when it dies a year and a half from now.\n\nOnline shopping is a much bigger player these days than it was then of course so things may not be the same as they used to be back then, but while the margin might not be as crazy as it was back in those days due to the increase in competition, Im positive they're still making more profit as a percentage on the dinky shit than they ever were on the big ticket items.",
+                      "score": 6,
+                      "created_utc": 1750901519.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n07v12a",
+                  "author": "ghost_of_mr_chicken",
+                  "body": "I was sent out to install a home theater setup years ago. The salesman sold 6 HDMI cables for their bluray, cable box, and monitor out feed. I got in trouble when I told the customer to return 3 of the cables. Apparently, I was supposed to find empty inputs to plug them into...",
+                  "score": 1,
+                  "created_utc": 1751105346.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mztjwqa",
+              "author": "Substantial__Unit",
+              "body": "God I love wired HDMI, Ethernet etc but wireless shit is great. Remember trying to show family a video on a cam corder and you needed like 5 cables?",
+              "score": 3,
+              "created_utc": 1750908097.0,
+              "replies": []
+            },
+            {
+              "id": "mztdadp",
+              "author": "StitchTheRipper",
+              "body": "Where should I start if I want to learn? I\u2019ve got a weak base knowledge when it comes to hardware but I\u2019m so sick of all the cables in my life",
+              "score": 2,
+              "created_utc": 1750905583.0,
+              "replies": []
+            },
+            {
+              "id": "mzsp2t1",
+              "author": "UpsetKoalaBear",
+              "body": "People say this but the thing is, the average person doesn\u2019t care much for HDMI 2.2. \n\nLiterally the only reason you\u2019d care about the bandwidth of the cable you have purchased is because you have a specific reason for getting a higher bandwidth capable cable. In which case, you\u2019re going to check the spec sheet to see what the bandwidth actually is. \n\nYour average person is just going to see HDMI, and plug that in. They don\u2019t particularly care.\n\nIt\u2019s not like USB-C where you might have a ton of cables lying around and a load of devices that support it, plus you only really buy a new cable if one breaks of whatever else. \n\nMost people just buy a HDMI cable when they need it or just use the one that comes in the box for a certain product and the odds of it breaking are incredibly low because people aren\u2019t constantly unplugging and replugging a HDMI cable.",
+              "score": 1,
+              "created_utc": 1750897251.0,
+              "replies": [
+                {
+                  "id": "mzstjgq",
+                  "author": "igby1",
+                  "body": "Perhaps I mistakenly projected my own cable overbuying on to the rest of humanity. :-)\n\nThe only thing I'd add to what you said is the average person *will* pay more attention to HDMI cable specs if their old cable isn't working with a newer device.",
+                  "score": 2,
+                  "created_utc": 1750898774.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mzqflme",
+          "author": "NuclearReactions",
+          "body": "That forum sounds dumb as all fucks, maybe they should join reddit instead like we all did 10 years ago?\n\nSeriously though, that sounds like the most imbecile thing to do. Defeats the purpose of having a label and defining a standard.\n\nThe day HDMI gets replaced with dport or a new open source standard we will all be happier.",
+          "score": 22,
+          "created_utc": 1750872855.0,
+          "replies": [
+            {
+              "id": "mzqozlv",
+              "author": "Wakkit1988",
+              "body": "GPMI is likely to supplant HDMI. It has two types of ports associated with it, the first is proprietary connector, and the second is a standard USB-C. With both displayport and GPMI capable of using USB-C, they will pretty much solidify USB-C as the dominant port for media.\n\nhttps://www.cnx-software.com/2025/04/07/gpmi-is-a-chinese-alternative-to-hdmi-and-displayport-with-up-to-192-gbps-bandwidth-480w-power-delivery/",
+              "score": 16,
+              "created_utc": 1750875426.0,
+              "replies": [
+                {
+                  "id": "mzr7z7l",
+                  "author": "NuclearReactions",
+                  "body": "I've heard of it! The power delivery on these things sounds crazy! Hope it gets through",
+                  "score": 7,
+                  "created_utc": 1750880866.0,
+                  "replies": [
+                    {
+                      "id": "mzr9hwl",
+                      "author": "Wakkit1988",
+                      "body": "There's a big push right now to try and make all consumer electronics use USB-PD if possible. It allows for a singular product design globally that only requires a local universal adapter to provide power for the device.\n\nI would not be shocked if we see wall outlets with PD and regular sockets together in the very near future.\n\nWith batteries used in conjunction with PD, there are very few devices that can't be powered in this manner.\n\nHaving your media connector also power the monitor reduces the number of power connectors required by the setup, potentially reducing the total number to one, just for the device processing the media. This is an excellent cost and space-saving improvement.",
+                      "score": 6,
+                      "created_utc": 1750881303.0,
+                      "replies": [
+                        {
+                          "id": "mzrjoe5",
+                          "author": "sump_daddy",
+                          "body": "There have been power outlets with PD for some time now, at least in north america (assuming similar are available for other regions) [T5636-W - 60W (6A) USB Dual Type-C/C Power Delivery Wall Outlet Charger with 15A Tamper-Resistant Outlet in White - Leviton | Products](https://leviton.com/products/t5636-w)\n\nquestion is, how much demand is there to replace existing infrastructure",
+                          "score": 4,
+                          "created_utc": 1750884185.0,
+                          "replies": [
+                            {
+                              "id": "mzrm0yw",
+                              "author": "Wakkit1988",
+                              "body": ">question is, how much demand is there to replace existing infrastructure\n\nA lot, since it's fully backward compatible and can easily be implemented going forward. \n\nAlso, I'm not referring to the 60w, I'm referring to the 240w.",
+                              "score": 4,
+                              "created_utc": 1750884842.0,
+                              "replies": [
+                                {
+                                  "id": "mzrorns",
+                                  "author": "sump_daddy",
+                                  "body": "Its going to take another few revs of GaN tech to get a 240w version that fits in a one gang like that.",
+                                  "score": 3,
+                                  "created_utc": 1750885622.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mzspyn8",
+                  "author": "ilep",
+                  "body": "Another proprietary connector, as if we didn't have enough already..\n\nSeriously, there is already DP and USB, there is no need for \\*another\\* \"standard\".\n\nInsert obligatory standards-related joke here..",
+                  "score": 5,
+                  "created_utc": 1750897552.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mzr5pdx",
+          "author": "Jbstargate1",
+          "body": "Is there any visual difference at the moment using a 2.1 vs the 2.1 watered down one? Or is there a performance hit?",
+          "score": 2,
+          "created_utc": 1750880212.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzpxogo",
+      "author": "thedoc90",
+      "body": "Can't wait for them to refuse to allow me to use these features because of my operating system.",
+      "score": 153,
+      "created_utc": 1750867944.0,
+      "replies": [
+        {
+          "id": "mzq8hfm",
+          "author": "LupusDeusMagnus",
+          "body": "Which OS doesn\u2019t allow that?",
+          "score": 17,
+          "created_utc": 1750870938.0,
+          "replies": [
+            {
+              "id": "mzq9240",
+              "author": "thedoc90",
+              "body": "The company that owns hdmi doesn't allow recent revisions to function fully on any open source OS. Anything above I think 4k 120hz requires displayport on linux.",
+              "score": 92,
+              "created_utc": 1750871094.0,
+              "replies": [
+                {
+                  "id": "mzqsado",
+                  "author": "MrChip53",
+                  "body": "DisplayPort to get away from the HDMI limits? Why do they impose that artificial limit?",
+                  "score": 19,
+                  "created_utc": 1750876363.0,
+                  "replies": [
+                    {
+                      "id": "mzr7pwm",
+                      "author": "thedoc90",
+                      "body": "HDMI Forum has rejected all attempts at hdmi 2.1 implementation in open source\u00a0 projects to date.",
+                      "score": 53,
+                      "created_utc": 1750880791.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mzvlgyk",
+                      "author": "swarmy1",
+                      "body": "They don't want to make the code to support the newer HDMI protocols open source.",
+                      "score": 7,
+                      "created_utc": 1750943549.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mzrn1yl",
+                  "author": "LupusDeusMagnus",
+                  "body": "Lack of support and jankiness is an integral part of the Linux experience. It builds character, you can change your DE and all, but ultimately, you have to conform to the system.",
+                  "score": -17,
+                  "created_utc": 1750885131.0,
+                  "replies": [
+                    {
+                      "id": "mzryhqf",
+                      "author": "roronoakintoki",
+                      "body": "In this case, however, it really is utter bullshit. There is (was) intention and engineering effort to support this.\n\n[Ars Technica --- HDMI Forum to AMD: No, you can\u2019t make an open source HDMI 2.1 driver ](https://arstechnica.com/gadgets/2024/02/hdmi-forum-to-amd-no-you-cant-make-an-open-source-hdmi-2-1-driver/)\n\n> [...] he said that AMD got \"the basic functionality up and running, now we have to go through each of the features with legal and determine if/how we can expose them while still meeting our obligations.\" \n\n> [...] \"The HDMI Forum has rejected our proposal unfortunately.\" [...]",
+                      "score": 20,
+                      "created_utc": 1750888558.0,
+                      "replies": [
+                        {
+                          "id": "mzsh5h4",
+                          "author": "thedoc90",
+                          "body": "yep, and if someone were to say reverse engineer support and try to push it to the kernel HDMI Forum might well cease and desist the project.",
+                          "score": 8,
+                          "created_utc": 1750894595.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n02fwdg",
+          "author": "xroche",
+          "body": ">Can't wait for them to refuse to allow me to use these features because of my operating system.\n\nThis is by design. HDMI is a patent scam. Every new version introduces new ones, forcing any vendor to pay expensive licensing fees.\n\nThey absolutely don't want open source to mess with their little profitable business.",
+          "score": 6,
+          "created_utc": 1751033261.0,
+          "replies": []
+        },
+        {
+          "id": "mzzhf4g",
+          "author": "CosmicCreeperz",
+          "body": "Pretty sure you will never have a reason to use 16k over HDMI.  TV manufacturers have mostly given up on 8k.  Ultrawide high res high refresh monitors will be the only use and that will just be DP.",
+          "score": 2,
+          "created_utc": 1750985885.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzpupdh",
+      "author": "None",
+      "body": "Once TV catches up, not only will you be able to see the pores of the actors, youll be able to see the blood supply beneath!",
+      "score": 31,
+      "created_utc": 1750867110.0,
+      "replies": [
+        {
+          "id": "mzq4ilx",
+          "author": "dramafan1",
+          "body": "Unless the production crew puts too much airbrushing that it becomes too cartoonish up close. I welcome more natural appearances because that\u2019s life.",
+          "score": 10,
+          "created_utc": 1750869847.0,
+          "replies": [
+            {
+              "id": "mzqc97j",
+              "author": "adrianipopescu",
+              "body": "yeah we both know we\u2019re getting bad ai upscaling and even worse ai filters that make everything even more uncanny valley",
+              "score": 2,
+              "created_utc": 1750871958.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mzpypo1",
+      "author": "ChiefStrongbones",
+      "body": "video card: 1x HDMI 3x Displayport\n\nmonitor: 1x Displayport 2x HDMI",
+      "score": 81,
+      "created_utc": 1750868233.0,
+      "replies": [
+        {
+          "id": "mzqumaq",
+          "author": "Kyrond",
+          "body": "Video card: 3 monitors via DP, 1 TV via HDMI\n\nMonitor: PC via DP, console and laptop via HDMI",
+          "score": 23,
+          "created_utc": 1750877033.0,
+          "replies": []
+        },
+        {
+          "id": "mzsidhr",
+          "author": "4kVHS",
+          "body": "TV: 4x HDMI, 0x DP",
+          "score": 7,
+          "created_utc": 1750894995.0,
+          "replies": []
+        },
+        {
+          "id": "mztjqnn",
+          "author": "ElusiveGuy",
+          "body": "Most video card ports are DP++, which supports native HDMI signals with a passive adapter.\n\n\nOn the monitor side, professional monitors tend to come with more (or only) DP ports, while consumer models tend to come with more HDMI.\u00a0",
+          "score": 6,
+          "created_utc": 1750908031.0,
+          "replies": []
+        },
+        {
+          "id": "mzr7iiy",
+          "author": "Fredasa",
+          "body": "I'm just happy TVs will now have a compelling reason to offer something above 160Hz.  I'd rather that the inevitable crosstalk between monitors and TVs not result in my next display carrying a monitor-like price tag just because it's a lot bigger than a monitor.",
+          "score": 2,
+          "created_utc": 1750880732.0,
+          "replies": []
+        },
+        {
+          "id": "mzr06ee",
+          "author": "thismustbethe",
+          "body": "Same lol except my monitor has 1dp 3hdmi. Ridiculous",
+          "score": 3,
+          "created_utc": 1750878616.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzprttd",
+      "author": "paractib",
+      "body": "These cables are going to be expensive as hell aren\u2019t they.",
+      "score": 95,
+      "created_utc": 1750866311.0,
+      "replies": [
+        {
+          "id": "mzpsbx3",
+          "author": "Kwinza",
+          "body": "If you want to run 4k@240hz, cable cost is the least of your concerns.",
+          "score": 170,
+          "created_utc": 1750866451.0,
+          "replies": [
+            {
+              "id": "mzpvsdf",
+              "author": "RinchanNau",
+              "body": "I am looking forward to my 16k capable nvidia GPU for $20k retail and $30k after markups which will require a 4 1000w PSU setup with 4 12vhpwr connectors that are all prone to melting and burning down my home. \n\nBut yea. Let\u2019s worry about the cable being $30.",
+              "score": 69,
+              "created_utc": 1750867412.0,
+              "replies": [
+                {
+                  "id": "mzpwp48",
+                  "author": "Norseman84",
+                  "body": "It's like canceling a 1000$ order because the shipping is like 10$.",
+                  "score": 31,
+                  "created_utc": 1750867669.0,
+                  "replies": [
+                    {
+                      "id": "mzqaivp",
+                      "author": "alwaysmyfault",
+                      "body": "Hey, you'd be surprised.\n\n\nBack in the day when HDTVs were new and you had to pay an extra $10 a month for the HD package from your cable company, I sold a lot of TV's to people who would inevitably call and complain that their TV looked like shit.\n\n\nAfter some talking, I'd find out they were still on the SD package, and they refused to upgrade to the HD package because they didn't want to pay another $10/mo for the HD package.\u00a0\n\n\nSo yeah, people will be fine paying 1000, 2000 dollars for something, but they'll be absolute cheapskates when it comes to spending an extra $10.",
+                      "score": 16,
+                      "created_utc": 1750871492.0,
+                      "replies": [
+                        {
+                          "id": "mzqdm2c",
+                          "author": "Norseman84",
+                          "body": "I'm not surprised, the shipping fee is something I know people have cancelled an order over. It's funny human nature. You should have done a 1099 or 2099 dollar deal with HD cable included and people would be fine with it again.",
+                          "score": 7,
+                          "created_utc": 1750872318.0,
+                          "replies": [
+                            {
+                              "id": "mzqdvyr",
+                              "author": "alwaysmyfault",
+                              "body": "Yup.\n\nI feel like people look at the shipping fee like they look at a convenience fee from Ticketmaster.\n\nIf they just baked that cost into the item itself and offered free shipping, people would be much more willing to buy it.",
+                              "score": 6,
+                              "created_utc": 1750872393.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mzy3m5k",
+                              "author": "parisidiot",
+                              "body": "i was ready to drop $2k on a bed frame, but the shipping fee was $800. i've shipped freight across the country. it does not cost $800 to ship a flat pack bed frame, even if the bed frame is solid wood or metal.\n\ni was so offended i bought a similar bedframe off of facebook marketplace for $90 lol",
+                              "score": 2,
+                              "created_utc": 1750969583.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mzq7d2s",
+                  "author": "tauwyt",
+                  "body": "Don't forget you'll need to get an electrician out to get a new circuit just to power that beast.",
+                  "score": 2,
+                  "created_utc": 1750870632.0,
+                  "replies": []
+                },
+                {
+                  "id": "mzqcx14",
+                  "author": "PervertedPineapple",
+                  "body": "I'm waiting for the budget option, the RTX 6070, to completely obliterate the 5090 by having 8x performance with FG5. Only for the low low cost of $1849.\n\nWhat? It's cheaper than a 5090!",
+                  "score": 1,
+                  "created_utc": 1750872134.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mzpxbp0",
+              "author": "robotzor",
+              "body": "I'm sitting around waiting for 5090 prices to stabilize to even sniff 4k144 lol",
+              "score": 5,
+              "created_utc": 1750867847.0,
+              "replies": [
+                {
+                  "id": "mzq00hk",
+                  "author": "RyanK_Cs",
+                  "body": "For what it's worth, I sometimes supersample to 4k on my 1080p 144hz monitor [rx 6800xt] with games like far cry to remove distant aliasing, and what I do is try to get it to push between 60-72 and then use Lossless Scaling to double the visual framerate. I've also seen a couple people on the LS sub doing exactly that. So if you don't mind the potential of occasional minor artifacts, that would be my solution.",
+                  "score": 2,
+                  "created_utc": 1750868595.0,
+                  "replies": [
+                    {
+                      "id": "mzq3bx1",
+                      "author": "Hukthak",
+                      "body": "Interesting. What kind of artifacts have you encountered?",
+                      "score": 1,
+                      "created_utc": 1750869516.0,
+                      "replies": [
+                        {
+                          "id": "mzq8l0h",
+                          "author": "RyanK_Cs",
+                          "body": "Doing 72 to 144 all native [1080p for me] as an example, occasionally during a jump cut or quick scene switch you'll see it \"morph\" from the previous to next shot, which is very quick but still noticeable. And at very high motion like a dragonball game, things might look a little odd, sorta like the smoothing effect some televisions have. sometimes it confuses things like the cross hair, or very close parallel lines like a shipping crate or fence, But in 90 percent of use cases, as long as its around 60fps and no lower than 35fps, it usually comes out pretty great. 72 to 144 usually comes out fantastic. If you have a card that can handle 4k 60-72fps stable with a bit of overhead left for FG, you'll get good results out of the box. bear in mind though, if a game has dlss and you're on a Nvidia card, that will just objectively work better overall. LS is good for literally any video content or program that doesn't have fg features, though it's results come pretty close just eyeballing it.",
+                          "score": 2,
+                          "created_utc": 1750870965.0,
+                          "replies": [
+                            {
+                              "id": "mzqbyci",
+                              "author": "Hukthak",
+                              "body": "Thanks for the feedback!",
+                              "score": 1,
+                              "created_utc": 1750871879.0,
+                              "replies": [
+                                {
+                                  "id": "mzqcyjd",
+                                  "author": "RyanK_Cs",
+                                  "body": "No problem! i recommend LS to anyone who wants their card to poke in to a higher tier without forking out a ton of cash. i personally use it because FG'ing to 144 is a little easier on the power bill than full speed in most cases :)",
+                                  "score": 1,
+                                  "created_utc": 1750872145.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mzqbv7h",
+                  "author": "bbrroonnssoonn",
+                  "body": "dlss on a 5080 can accomplish this",
+                  "score": 1,
+                  "created_utc": 1750871856.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mzq1dmx",
+              "author": "bingojed",
+              "body": "We\u2019re going to need local AI to generate the the video from a lower resolution stream.",
+              "score": 2,
+              "created_utc": 1750868971.0,
+              "replies": []
+            },
+            {
+              "id": "mzql3r9",
+              "author": "SystemofCells",
+              "body": "I've got a 3080 with a 1440p 165hz monitor, a system I built in 2020. It still works great for me, I'm not upgrading until I can target 4K/120 for newer games (with DLSS) or 4K/240 for older games.",
+              "score": 1,
+              "created_utc": 1750874337.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mzqcnid",
+          "author": "OtterishDreams",
+          "body": "If you have to  ask.....",
+          "score": 5,
+          "created_utc": 1750872065.0,
+          "replies": []
+        },
+        {
+          "id": "mzq38sd",
+          "author": "novakk86",
+          "body": "Expensive? They're gonna be 15cm long",
+          "score": 8,
+          "created_utc": 1750869492.0,
+          "replies": [
+            {
+              "id": "mzqd4et",
+              "author": "popeter45",
+              "body": "at this point they should just roll out a fully fiber optic standard",
+              "score": 9,
+              "created_utc": 1750872188.0,
+              "replies": [
+                {
+                  "id": "mzqd8fx",
+                  "author": "novakk86",
+                  "body": "This",
+                  "score": 2,
+                  "created_utc": 1750872218.0,
+                  "replies": [
+                    {
+                      "id": "mzqgvbe",
+                      "author": "popeter45",
+                      "body": "a optic system would work so well \n\nas well as smaller cables, if using a standard connector like SC/APC you could chain them\n\nmecanical optical switching is rather easy and could work both ways making switches/KVM's cheaper and no need to mess with EDID\n\nand could multiplex stuff like Audio/USB",
+                      "score": 1,
+                      "created_utc": 1750873193.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mzrhx74",
+                  "author": "funnyfarm299",
+                  "body": "You can already buy 100% fiber HDMI cables.",
+                  "score": 2,
+                  "created_utc": 1750883691.0,
+                  "replies": [
+                    {
+                      "id": "mzrks4h",
+                      "author": "popeter45",
+                      "body": "but its still copper HDMI at each end with fiber optic hdmi cables being fixed length as everything is non standard \n\nim meaning a fiber interface the entire way",
+                      "score": 1,
+                      "created_utc": 1750884495.0,
+                      "replies": [
+                        {
+                          "id": "mzzg48i",
+                          "author": "CosmicCreeperz",
+                          "body": "And they are expensive since they are active ie powered by definition.",
+                          "score": 2,
+                          "created_utc": 1750985425.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mzpudg3",
+      "author": "CoronaMcFarm",
+      "body": "Displayport is a much better standard, due to the shitty licensing for HDMI.",
+      "score": 65,
+      "created_utc": 1750867017.0,
+      "replies": [
+        {
+          "id": "mzqcp2f",
+          "author": "Fractured_Senada",
+          "body": "Unfortunate that my TV doesn't have Displayport.",
+          "score": 10,
+          "created_utc": 1750872076.0,
+          "replies": [
+            {
+              "id": "n03jrer",
+              "author": "get_homebrewed",
+              "body": "which is hilarious since basically everything, including TVs, use it internally.",
+              "score": 1,
+              "created_utc": 1751044616.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mzq131h",
+          "author": "zadye",
+          "body": "and i have been saying this for years, i would rather use DP over HDMI",
+          "score": 16,
+          "created_utc": 1750868890.0,
+          "replies": []
+        },
+        {
+          "id": "mzri4hi",
+          "author": "funnyfarm299",
+          "body": "Locking connectors suck for consumer devices though. I would rather the cable come out than knock my game console on the floor.",
+          "score": 2,
+          "created_utc": 1750883749.0,
+          "replies": [
+            {
+              "id": "mztkagt",
+              "author": "ElusiveGuy",
+              "body": "You can get cables with and without locking so it ends up being more a choice than anything.\u00a0",
+              "score": 8,
+              "created_utc": 1750908246.0,
+              "replies": []
+            },
+            {
+              "id": "mzvlwza",
+              "author": "swarmy1",
+              "body": "Locking is not mandatory for display port. The majority of mine don't\u00a0",
+              "score": 2,
+              "created_utc": 1750943696.0,
+              "replies": [
+                {
+                  "id": "mzvro6c",
+                  "author": "funnyfarm299",
+                  "body": "Huh. I've never seen a Displayport cable without the locking connector and I work in the industry.",
+                  "score": 1,
+                  "created_utc": 1750945591.0,
+                  "replies": [
+                    {
+                      "id": "n03juzr",
+                      "author": "get_homebrewed",
+                      "body": "I've never seen one with and I operate in the consumer industry",
+                      "score": 2,
+                      "created_utc": 1751044644.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mzpr603",
+      "author": "chrisdh79",
+      "body": "From the article: Following the standard's debut at CES 2025, HDMI 2.2 has now been finalized by the HDMI Forum. The full spec confirms much of what we heard six months ago, including doubling the maximum bandwidth of HDMI 2.1 to 96 Gbps \u2013 more than DisplayPort.\n\nWhile using HDMI 2.2 does not require a new connector, taking advantage of all its best features requires a new Ultra96 cable \u2013 a reference to its maximum bandwidth. 96Gbps is double the 48Gbps max bandwidth of HDMI 2.1 and is more than the 80Gbps supported by DisplayPort 2.1.\n\nThat amount of bandwidth will allow for some monstrous resolution and refresh rate combinations, including 4K at up to 240Hz and 8K at up to 60Hz in 4:4:4 format at up to 12-bit color depth. It also supports 12K@120Hz and 16K@60Hz with DSC (Display Stream Compression).\n\nFollowing the issue of HDMI 2.1-branded cables not meeting the standard's spec, the Ultra96 cables themselves will clearly be labeled with the name, and manufacturers will be required to test each one individually. The cables will also be certified by the HDMI Forum.\n\nBuyers of an Ultra96 Certified Cable can use the HDMI Forum's labelling program to confirm it's the real thing by scanning the QR code on the box.\n\nHDMI 2.2 also introduces Latency Indication Protocol (LIP). This improves audio and video synchronization, especially for multi-device systems such as those with AV receivers or a soundbar. LIP could be especially useful to those whose systems can't seem to precisely synchronize the dialogue being heard with the actors' mouth movements.\n\nHDMI 2.2 is backward compatible, so the cables will work with anything featuring an older HDMI port.\n\nThe first HDMI 2.2 devices are expected to arrive during the final quarter of 2025. AMD is rumored to support the standard in the next Radeon UDNA GPUs, though they might be limited to a maximum of 80Gbps, according to prolific leaker Kepler.",
+      "score": 14,
+      "created_utc": 1750866131.0,
+      "replies": []
+    },
+    {
+      "id": "mzq2jg2",
+      "author": "feartheoldblood90",
+      "body": "Last I checked 8K was barely a thing. Shit, 4K isn't even completely ubiquitous. Is there really a demand for 16K?",
+      "score": 14,
+      "created_utc": 1750869297.0,
+      "replies": [
+        {
+          "id": "mzq5jz9",
+          "author": "Doppelfrio",
+          "body": "I think it\u2019s just buzzwords to represent how powerful the cable is. The more likely use is for higher frame rates for 4K",
+          "score": 17,
+          "created_utc": 1750870135.0,
+          "replies": []
+        },
+        {
+          "id": "mzqjx9u",
+          "author": "superbikelifer",
+          "body": "4k 120hz 4:4:4 breaches the current bandwidth so yes this is needed right now even for consoles.",
+          "score": 5,
+          "created_utc": 1750874018.0,
+          "replies": []
+        },
+        {
+          "id": "mzqrkfz",
+          "author": "CrumbsCrumbs",
+          "body": "You want the standards set ahead of the demand, so that once 16K monitors are being sold the early adopters will be sure that the new cable works with the new monitor, etc.",
+          "score": 6,
+          "created_utc": 1750876152.0,
+          "replies": []
+        },
+        {
+          "id": "mzvmf0j",
+          "author": "swarmy1",
+          "body": "For regular consumer hardware the demand is probably very low, but there are plenty of business or specialized applications where having higher resolution would be convenient. The standards also need to be set long before the hardware is on the shelves.",
+          "score": 0,
+          "created_utc": 1750943863.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzpzr01",
+      "author": "moredrinksplease",
+      "body": "Gonna be great for that 720p broadcast",
+      "score": 8,
+      "created_utc": 1750868521.0,
+      "replies": [
+        {
+          "id": "mzq4xym",
+          "author": "Doppelfrio",
+          "body": "Or Netflix in \u201c4K\u201d",
+          "score": 6,
+          "created_utc": 1750869965.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzq3rpq",
+      "author": "sump_daddy",
+      "body": "\"HDMI 2.2 also introduces Latency Indication Protocol (LIP). This improves audio and video synchronization, especially for multi-device systems such as those with AV receivers or a soundbar. LIP could be especially useful to those whose systems can't seem to precisely synchronize the dialogue being heard with the actors' mouth movements.\"\n\nsure, lets not bother solving this with devices that just work consistently, lets expect two or more devices to start using this new standard and then they can talk to each other to explain how fucked up theyre going to make the whole process.\n\nsounds lovely.",
+      "score": 8,
+      "created_utc": 1750869638.0,
+      "replies": [
+        {
+          "id": "mzr383p",
+          "author": "PatNMahiney",
+          "body": "Latency is inevitable. You can try to reduce it, sometimes at great cost, but it will always be there. At least this is offering a possible solution.",
+          "score": 3,
+          "created_utc": 1750879490.0,
+          "replies": []
+        },
+        {
+          "id": "mzrig8o",
+          "author": "funnyfarm299",
+          "body": "I'm 99% sure there was already a lip sync function in the HDMI standard.\n\nNow is when someone posts the XKCD about new standards.",
+          "score": 1,
+          "created_utc": 1750883843.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzq1bay",
+      "author": "kayson",
+      "body": "Hard pass. I'll stick with DisplayPort which is open source, instead of HDMI with its terrible licensing and royalties. It's a real shame HDMI became the defacto standard for TVs, game consoles, etc.\u00a0",
+      "score": 14,
+      "created_utc": 1750868953.0,
+      "replies": [
+        {
+          "id": "mzq9ptj",
+          "author": "Neo_Techni",
+          "body": "> It's a real shame HDMI became the defacto standard for TVs, game consoles, etc. \n\nas someone who lost a DP port cause of that damned locking mechanism, no. It's a shame DP keeps getting pushed when HDMI is the standard.",
+          "score": -2,
+          "created_utc": 1750871275.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzpzqt1",
+      "author": "Munkeyman18290",
+      "body": "Lol, does real life even run at 16k?",
+      "score": 6,
+      "created_utc": 1750868519.0,
+      "replies": [
+        {
+          "id": "mzr0oim",
+          "author": "davidbernhardt",
+          "body": "I\u2019m waiting for 32k.",
+          "score": 2,
+          "created_utc": 1750878760.0,
+          "replies": []
+        },
+        {
+          "id": "mzq7khq",
+          "author": "Persellianare",
+          "body": "Since we don't see in resolution it's easier to demonstrate through megapixels, the human eye can see up to about 576 megapixels and 16k res is about 132 megapixels.",
+          "score": 0,
+          "created_utc": 1750870688.0,
+          "replies": [
+            {
+              "id": "mzq9jqi",
+              "author": "shpongolian",
+              "body": "Does that include our entire periphery? Cause even if our brains are taking in signals at that fidelity we\u2019re def not comprehending anything outside of focus at that resolution. Is it just based on the total number of cones in our eyes, each cone being a subpixel?",
+              "score": 0,
+              "created_utc": 1750871229.0,
+              "replies": [
+                {
+                  "id": "mzqdf79",
+                  "author": "thisischemistry",
+                  "body": "It's complicated:\n\nhttps://9meters.com/technology/highest-resolution-the-eye-can-see\n\n> A 576-megapixel resolution means that in order to create a screen with a picture so sharp and clear that you can't distinguish the individual pixels, you would have to pack 576 million pixels into an area the size of your field of view. To get to his number, Dr. Clark assumed optimal visual acuity across the field of view; that is, it assumes that your eyes are moving around the scene before you. But in a single snapshot-length glance, the resolution drops to a fraction of that: around 5\u201315 megapixels.\n\nSo, if you can scan your eye around a little then you get close to that theoretical maximum. However, a quick glance is more like 10 megapixels.\n\nAlso:\n\n> While 4K resolutions provide a very detailed image for average viewers, 16K resolutions exceed the detail the human eye can perceive at typical viewing distances. Therefore, most people may not notice significant improvements with higher resolutions like 16K.",
+                  "score": 3,
+                  "created_utc": 1750872268.0,
+                  "replies": []
+                },
+                {
+                  "id": "mzqe8nw",
+                  "author": "Persellianare",
+                  "body": "Good question and also a difficult one to answer since you can't really compare megapixels/resolutions to human sight in a 1:1 kind of way since we don't see in megapixels but is the closest example to use. I would assume it probably doesn't include our entire periphery because the wider you go the bigger the reduction would be.\n\nI came across this [link](http://www.clarkvision.com/imagedetail/eye-resolution.html), from a reddit that breaks down the math. I didn't read too far into it because it's a little beyond my understanding.",
+                  "score": 1,
+                  "created_utc": 1750872488.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mzpursa",
+      "author": "AutomaticTreat",
+      "body": "So maybe we\u2019ll see 8k120 in 10 years?",
+      "score": 5,
+      "created_utc": 1750867128.0,
+      "replies": []
+    },
+    {
+      "id": "mzqpx6q",
+      "author": "Dayzlikethis",
+      "body": "I was just starting to get know 2.1",
+      "score": 2,
+      "created_utc": 1750875686.0,
+      "replies": []
+    },
+    {
+      "id": "mzr19ju",
+      "author": "empyrean2k",
+      "body": "Can we seriously just remove the bonk on switching between hdr/sdr/frame rates. The one thing that makes tv apps better than using an external box.",
+      "score": 2,
+      "created_utc": 1750878925.0,
+      "replies": []
+    },
+    {
+      "id": "mzraijb",
+      "author": "dayeye2006",
+      "body": "Noob q , hows the Linux support look like",
+      "score": 2,
+      "created_utc": 1750881590.0,
+      "replies": []
+    },
+    {
+      "id": "mzu39xl",
+      "author": "DontPeek",
+      "body": "I just want CEC to work...",
+      "score": 2,
+      "created_utc": 1750916774.0,
+      "replies": []
+    },
+    {
+      "id": "mzq0xuw",
+      "author": "zadye",
+      "body": "the name is too easy. we need a 2.2a-z and version numbers to indicate nothing",
+      "score": 1,
+      "created_utc": 1750868849.0,
+      "replies": []
+    },
+    {
+      "id": "mzr7ua0",
+      "author": "glizard-wizard",
+      "body": "that\u2019s it?",
+      "score": 1,
+      "created_utc": 1750880826.0,
+      "replies": []
+    },
+    {
+      "id": "mzr966o",
+      "author": "TheGreatBenjie",
+      "body": "Cool can't wait to wait 5 years to finally get hardware that implements this all while hearing about the next best thing I'll need to wait 5 years for.",
+      "score": 1,
+      "created_utc": 1750881210.0,
+      "replies": []
+    },
+    {
+      "id": "mzrq9q9",
+      "author": "TheGreatDez",
+      "body": "16K resolution LOL",
+      "score": 1,
+      "created_utc": 1750886062.0,
+      "replies": []
+    },
+    {
+      "id": "mzrvhlq",
+      "author": "draconic86",
+      "body": "8K is already unnecessary. 16K *has* to be a joke.",
+      "score": 1,
+      "created_utc": 1750887637.0,
+      "replies": []
+    },
+    {
+      "id": "mzt9hve",
+      "author": "AtWorkButSendNudes",
+      "body": "I just hope the DisplayPort standard increase on transmission rate too, I'm loving all these high hz monitors out now.",
+      "score": 1,
+      "created_utc": 1750904227.0,
+      "replies": []
+    },
+    {
+      "id": "mzu88cy",
+      "author": "futzlarson",
+      "body": "Thank god, now I can finally..um\u2026what exactly does this enable?",
+      "score": 1,
+      "created_utc": 1750919378.0,
+      "replies": [
+        {
+          "id": "n0cvr61",
+          "author": "TurnToShadow",
+          "body": "4k 240",
+          "score": 1,
+          "created_utc": 1751171508.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n0aja8g",
+      "author": "bleaucheaunx",
+      "body": "With the exact same connector and NO labeling anywhere on the cable",
+      "score": 1,
+      "created_utc": 1751139818.0,
+      "replies": []
+    },
+    {
+      "id": "n0df87g",
+      "author": "Snoopedoodle",
+      "body": "Only 6 years after Displayport",
+      "score": 1,
+      "created_utc": 1751181856.0,
+      "replies": []
+    },
+    {
+      "id": "n0grzhq",
+      "author": "notaged",
+      "body": "Let me guess, thicker wires ?",
+      "score": 1,
+      "created_utc": 1751229165.0,
+      "replies": []
+    },
+    {
+      "id": "mzq53uf",
+      "author": "ZuLuuuuuu",
+      "body": "How do they achieve the faster speeds? I hope the cables which are already quite thick, don't get thicker.",
+      "score": 1,
+      "created_utc": 1750870011.0,
+      "replies": [
+        {
+          "id": "mzrf3sv",
+          "author": "Keyframe",
+          "body": "raise up the frequency!",
+          "score": 2,
+          "created_utc": 1750882898.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mzqbrba",
+      "author": "thisischemistry",
+      "body": "I'm surprised laws haven't been passed to roll it all into USB-C!\n\n(yes, sarcasm for the people who can't detect such things)",
+      "score": 1,
+      "created_utc": 1750871827.0,
+      "replies": []
+    },
+    {
+      "id": "mzrxkyc",
+      "author": "phxrising85",
+      "body": "So my 1080p with tons of compression Hulu will look terrible still",
+      "score": 1,
+      "created_utc": 1750888280.0,
+      "replies": []
+    },
+    {
+      "id": "mzsfq9a",
+      "author": "Greenscreener",
+      "body": "But with the same shitty connector???",
+      "score": 1,
+      "created_utc": 1750894133.0,
+      "replies": []
+    }
+  ]
+}

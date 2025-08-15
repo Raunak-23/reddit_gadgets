@@ -1,0 +1,49 @@
+metric,value
+file,1ho9he9.csv
+title,Microsoft's potential answer to the PlayStation 5 DualSense controller revealed in patent
+rows,495
+num_posts,1
+num_comments,494
+unique_authors,301
+max_depth,35
+avg_comment_words,63.84
+median_comment_words,53.0
+max_comment_words,356
+positive_count,60
+negative_count,434
+neutral_count,0
+positive_pct,12.146
+negative_pct,87.854
+neutral_pct,0.0
+topic_1_keywords,"controller, stick, controllers, years, like, xbox, use, battery"
+topic_1_label,xbox uses a stick and a battery
+topic_2_keywords,"people, dont, games, controller, stick, rough, years, xbox"
+topic_2_label,xbox games don't stick
+topic_3_keywords,"controllers, xbox, never, people, stick, drift, ive, issues"
+topic_3_label,xbox controllers never drift
+topic_4_keywords,"controller, dont, care, triggers, game, stick, elite, xbox"
+topic_4_label,controller cares about what triggers games
+topic_5_keywords,"controller, game, use, good, like, right, dont, years"
+topic_5_label,controllers use games to make sense
+topic_6_keywords,"controller, stick, drift, controllers, xbox, one, id, make"
+topic_6_label,xbox controllers make drift
+top_ngram_1,stick drift (241)
+top_ngram_2,xbox controllers (119)
+top_ngram_3,ive never (81)
+top_ngram_4,xbox controller (67)
+top_ngram_5,never gotten (62)
+top_ngram_6,never issues (62)
+top_ngram_7,gotten stick (60)
+top_ngram_8,gotten stick drift (60)
+top_ngram_9,drift xbox (59)
+top_ngram_10,stick drift xbox (59)
+ner_1,Xbox|MISC|206
+ner_2,PS5|MISC|48
+ner_3,Xbox|ORG|36
+ner_4,Microsoft|ORG|28
+ner_5,PC|MISC|28
+ner_6,Sony|ORG|27
+ner_7,PS3|MISC|25
+ner_8,360|MISC|20
+ner_9,Nintendo|ORG|19
+ner_10,PS|MISC|17

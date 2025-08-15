@@ -1,0 +1,188 @@
+{
+  "post": {
+    "title": "The AMD Radeon RX 9060 XT Is Finally Confirmed",
+    "author": "a_Ninja_b0y",
+    "id": "1krrq3v",
+    "score": 201,
+    "created_utc": 1747811641.0,
+    "selftext": "",
+    "num_comments": 21,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1krrq3v/the_amd_radeon_rx_9060_xt_is_finally_confirmed/"
+  },
+  "comments": [
+    {
+      "id": "mthquw9",
+      "author": "Xero_id",
+      "body": "What is with this gen and not wanting to go above 16gb vram. It won't even affect pricing for 4gb more.",
+      "score": 75,
+      "created_utc": 1747842824.0,
+      "replies": [
+        {
+          "id": "mtkrfmc",
+          "author": "Affectionate-Memory4",
+          "body": "For AMD it's the bus width. They have 256-bit busses on the 9070 cards, and 128-bit on the 9060 cards. The 9070GRE is the only weird one at 192-bit.\n\nTo do 16GB with the 9070(XT), it's just 8x 2GB modules like normal. The 16GB 9060XT gets the same number of modules, just with 2 per memory controller in a clamshell mount.mounting.\n\nThe only other capacity AMD really could've done on these cards would've been to make a 32GB 9070 variant, which does exist as the R9700. I guess a 24GB 9070GRE variant would also be possible as well.",
+          "score": 59,
+          "created_utc": 1747875630.0,
+          "replies": [
+            {
+              "id": "mtn6eh6",
+              "author": "joomla00",
+              "body": "I prefer all the non stop conspiracy theories than technical understanding of the issue",
+              "score": 39,
+              "created_utc": 1747916653.0,
+              "replies": [
+                {
+                  "id": "mtn6ipd",
+                  "author": "Affectionate-Memory4",
+                  "body": "Based",
+                  "score": 9,
+                  "created_utc": 1747916697.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mtvemzz",
+              "author": "xantec15",
+              "body": "Are there not 4GB modules? Or are they just prohibitively expensive?",
+              "score": 1,
+              "created_utc": 1748021926.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mtidndl",
+          "author": "alman12345",
+          "body": "AI",
+          "score": 10,
+          "created_utc": 1747849304.0,
+          "replies": [
+            {
+              "id": "mtj735a",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 6,
+              "created_utc": 1747857755.0,
+              "replies": [
+                {
+                  "id": "mtj8ogh",
+                  "author": "alman12345",
+                  "body": "Yeah, essentially they\u2019re stingy because they want to upsell customers on more expensive cards (regardless of the fact the lower end cards typically just need more VRAM to be viable). To offer 20GB of VRAM on a 60 class would kneecap their highest end products, it\u2019s the same reason a 24GB 3090 still commands $650-$700 used despite being almost half a decade old and a 5080 only has 16GB. \n\nAi can also work across multiple GPUs, but that doesn\u2019t mean as much when even most server boards will only support up to 4 discrete GPUs (without exotic riser configurations). The VRAM on consumer cards is artificially kept low to prevent them from competing.",
+                  "score": 24,
+                  "created_utc": 1747858217.0,
+                  "replies": [
+                    {
+                      "id": "mtl359b",
+                      "author": "jaredongwy",
+                      "body": "Low key if this is the reason, I'm ok with it. If AI buys up all the consumer grade cards, the prices would be too high bc of the demand.",
+                      "score": 0,
+                      "created_utc": 1747879743.0,
+                      "replies": [
+                        {
+                          "id": "mtlinhg",
+                          "author": "tehrysta",
+                          "body": "AI cards use the same fab space as consumer cards so they already are buying them all out effectively. It's why stock levels are so atrocious.",
+                          "score": 3,
+                          "created_utc": 1747885474.0,
+                          "replies": [
+                            {
+                              "id": "mtn68dr",
+                              "author": "joomla00",
+                              "body": "Things can always be worse",
+                              "score": 1,
+                              "created_utc": 1747916588.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mtgtc66",
+      "author": "PARANOIAH",
+      "body": "No chance of a 9080XTX? :(",
+      "score": 10,
+      "created_utc": 1747832677.0,
+      "replies": [
+        {
+          "id": "mtht7d1",
+          "author": "Naxirian",
+          "body": "AMD aren't doing high end this gen",
+          "score": 19,
+          "created_utc": 1747843498.0,
+          "replies": [
+            {
+              "id": "mtlbvbp",
+              "author": "_RADIANTSUN_",
+              "body": "10080 better have 96 GB",
+              "score": 3,
+              "created_utc": 1747882834.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mtkr93t",
+          "author": "ArseBurner",
+          "body": "AFAIK it wasn't in the pipeline, and it's probably too late to start working on it now.",
+          "score": 1,
+          "created_utc": 1747875567.0,
+          "replies": []
+        },
+        {
+          "id": "mtkahey",
+          "author": "GaRGa77",
+          "body": "Maybe",
+          "score": 0,
+          "created_utc": 1747869767.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mthfzd8",
+      "author": "Shatterphim",
+      "body": "So they're banking on it undercutting the ti versions.",
+      "score": 3,
+      "created_utc": 1747839715.0,
+      "replies": [
+        {
+          "id": "mtie6dh",
+          "author": "alman12345",
+          "body": "Yep, the AMD strategy has not ever changed. This card will likely perform in line with a 5060 Ti for $80 (18.6%) less, similar to the 7900 XTX being $200 (16.6%) less than the 4080 for just about the same performance.",
+          "score": 12,
+          "created_utc": 1747849452.0,
+          "replies": [
+            {
+              "id": "mtnpukc",
+              "author": "OffbeatDrizzle",
+              "body": "This new line of AMD cards have been such a good deal compared to Nvidia because you are actually able to buy them...",
+              "score": 5,
+              "created_utc": 1747923208.0,
+              "replies": [
+                {
+                  "id": "mtnqgd2",
+                  "author": "alman12345",
+                  "body": "Both the 5070 Ti and the 9070 XT have been coming back in stock recently (with the 5070 Ti about $100 more expensive), and the 5070 FE was up at actual MSRP for hours the other day making it a better FPS/$ proposition than either of AMD\u2019s GPUs at their $700-ish prices. I don\u2019t believe there have been any stock issues with the 60 class cards, they\u2019re just expensive for what they are and the 9060 XT will likely barely improve upon that.",
+                  "score": 1,
+                  "created_utc": 1747923390.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1grq021.csv
+title,Xbox CEO Phil Spencer Says There Will 'Definitely' Be Future Consoles
+rows,315
+num_posts,1
+num_comments,314
+unique_authors,207
+max_depth,9
+avg_comment_words,63.65
+median_comment_words,45.5
+max_comment_words,551
+positive_count,48
+negative_count,234
+neutral_count,32
+positive_pct,15.287
+negative_pct,74.522
+neutral_pct,10.191
+topic_1_keywords,"xbox, one, consoles, word, games, future, know, people"
+topic_1_label,xbox one
+topic_2_keywords,"xbox, sony, games, console, playstation, microsoft, better, service"
+topic_2_label,"xbox, sony, games, console, microsoft"
+topic_3_keywords,"games, xbox, one, series, make, console, really, microsoft"
+topic_3_label,microsoft games xbox one series
+topic_4_keywords,"360, ps3, sony, gaming, xbox, much, new, games"
+topic_4_label,"Xbox 360, PlayStation 3, PlayStation 3, Xbox, Xbox"
+topic_5_keywords,"consoles, time, console, pc, next, make, money, years"
+topic_5_label,pcs make money in years
+topic_6_keywords,"games, steam, buy, play, run, series, make, pc"
+topic_6_label,Steam buys games for pc
+top_ngram_1,xbox one (66)
+top_ngram_2,one xbox (53)
+top_ngram_3,word one (52)
+top_ngram_4,word one xbox (52)
+top_ngram_5,xbox xbox (38)
+top_ngram_6,one xbox xbox (34)
+top_ngram_7,xbox xbox one (29)
+top_ngram_8,future consoles (27)
+top_ngram_9,consoles one (26)
+top_ngram_10,one ever (26)
+ner_1,Sony|ORG|120
+ner_2,Xbox|MISC|106
+ner_3,Xbox|ORG|95
+ner_4,Microsoft|ORG|59
+ner_5,Xbox 1|MISC|50
+ner_6,PS3|MISC|42
+ner_7,PlayStation|ORG|41
+ner_8,360|MISC|40
+ner_9,Nintendo|ORG|27
+ner_10,One|MISC|25

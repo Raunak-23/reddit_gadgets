@@ -1,0 +1,1008 @@
+{
+  "post": {
+    "title": "Nvidia RTX 5090 owner reports MSI's yellow-tipped 12V-2\u00d76 power cable melted despite foolproof design | \"Almost\" foolproof",
+    "author": "chrisdh79",
+    "id": "1kbey37",
+    "score": 769,
+    "created_utc": 1746015275.0,
+    "selftext": "",
+    "num_comments": 120,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1kbey37/nvidia_rtx_5090_owner_reports_msis_yellowtipped/"
+  },
+  "comments": [
+    {
+      "id": "mpu2kgc",
+      "author": "bielgio",
+      "body": "A couple of years ago we got a new proposal for PC power supply standard, it would use 24v for high power application like GPU and CPU, instead we got high efficiency stand-by power and connectors melting",
+      "score": 126,
+      "created_utc": 1746018902.0,
+      "replies": [
+        {
+          "id": "mpua3v5",
+          "author": "ChoMar05",
+          "body": "The problem is that PCs are a very \"legacy\" market. Everything is supported very long. And while you can get cheap adapters for other old things, like PCI and IDE (even more so when those technologies where used parallel to what we have now) building a PSU with 12 and 24v and maintaining high efficiency while staying in the form factor will probably be very expensive. So you'll have to switch GPU, CPU, PSU, and probably fans (unless the Mainboard transforms that voltage, which probably will hurt efficiency) and additional stuff like drives or RGB. I mean, it's still not a bad idea, but every time someone tried to implement a completely incompatible standard in the PC Market, they failed, so I can see why no one is doing it.",
+          "score": 47,
+          "created_utc": 1746021378.0,
+          "replies": [
+            {
+              "id": "mpug6cd",
+              "author": "bielgio",
+              "body": "The proposed standard were fully compatible \n\nToday we could fit two 1kw units in the same form factor for the same price as 1kw consumer unit, server standard shows that",
+              "score": 36,
+              "created_utc": 1746023249.0,
+              "replies": [
+                {
+                  "id": "mpvvmkk",
+                  "author": "akeean",
+                  "body": "Have you *seen* prices for \"server standard\" hardware?",
+                  "score": 24,
+                  "created_utc": 1746038174.0,
+                  "replies": [
+                    {
+                      "id": "mpw6ymp",
+                      "author": "LordOverThis",
+                      "body": "That isn\u2019t much of a counterpoint in a thread discussing \u00a0RTX 5090s lol",
+                      "score": 36,
+                      "created_utc": 1746041519.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mpyf028",
+              "author": "re_carn",
+              "body": "Legacy in PCs is pretty one-way: you could connect, for example, an old motherboard to a new power supply, but the other way around won't work (there's no extra power connector for the CPU). And that was fine with everyone. Adding new connectors for connecting high-consumption devices would not create any problem: if you want a new video card, buy a new power supply unit (this is relevant even without the new standard).",
+              "score": 6,
+              "created_utc": 1746067626.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mpumxup",
+          "author": "xroche",
+          "body": ">A couple of years ago we got a new proposal for PC power supply standard, it would use 24v for high power application like GPU and CPU\n\nVery na\u00efve question: we do have -12V along with +12V, so technically we should already have 24V available ?",
+          "score": 8,
+          "created_utc": 1746025241.0,
+          "replies": [
+            {
+              "id": "mpuqcd0",
+              "author": "masteryoda34",
+              "body": "The -12V rail on PSUs can typically only handle a few Watts.",
+              "score": 21,
+              "created_utc": 1746026236.0,
+              "replies": []
+            },
+            {
+              "id": "mpuw8wp",
+              "author": "bielgio",
+              "body": "The -12v rail don't have to handle a lot of amps per the standard and is only available for the motherboard",
+              "score": 11,
+              "created_utc": 1746027940.0,
+              "replies": [
+                {
+                  "id": "mpx8k00",
+                  "author": "TooStrangeForWeird",
+                  "body": "They all have a - connection. Whether it's a 5v (drives and such) or 12v (PCIe connector, CPU 4/8 pin) they still have a -. So not just the motherboard.",
+                  "score": -2,
+                  "created_utc": 1746052947.0,
+                  "replies": [
+                    {
+                      "id": "mpxqfo5",
+                      "author": "redittr",
+                      "body": "You are thinking of negative as 0 volts being the only possibility.  \nThe difference between -0v and +12v is +12volts.  \nThe difference between -12v and -0v is +12volts.  \nThe difference between -12v and +12v is +24volts.\n\nAs mentioned, currently this rail only can provide a small amount of power.",
+                      "score": 6,
+                      "created_utc": 1746059000.0,
+                      "replies": [
+                        {
+                          "id": "mpycgog",
+                          "author": "TooStrangeForWeird",
+                          "body": "It provides no power at all. Do you know how electricity works? Not trying to be mean, but you seem to be under the impression that the negative (or neutral) wire provides power.... It doesn't. \n\nThere isn't \"positive\" and \"negative\" electricity. Positive is where the electrons are flowing *from*, and negative is where they flow *to*. \n\nIt's easier to think of it as a loop, where your device (like a processor) just uses some of that electricity. The rest of it just flows \"back down\" the loop. \n\nIt's a simplified explanation, but AC power (like for your house) is pretty much exactly that. DC currents (like computers use) are slightly more  complicated; it's the same idea overall though.",
+                          "score": -5,
+                          "created_utc": 1746066693.0,
+                          "replies": [
+                            {
+                              "id": "mpz4wec",
+                              "author": "hi_there_im_nicole",
+                              "body": "This whole comment is very inaccurate. \n\nWhat matters is the voltage potential between two conductors. It doesn't have to be a \"positive\" wire and a ground wire- it can be any wires at different voltages. You could even use a +12v and a +5v wire, and you'd get 7 volts across them. Any electrical device connected across this circuit can't even tell the lower voltage wire isn't at ground potential without a ground reference. It doesn't matter at all.\n\nThis principle is how North American houses get 240v for large appliances like electric stoves, dryers, and water heaters. There is no 240v line running to the house. Instead, the appliance is connected across two split-phase 120v conductors. Being 180\u00b0 out of phase with each other, at a point in time one is at +120 volt potential while the other is at -120 volts, giving the appliance a total of 240 volts (RMS).\n\nIt's a neat way to make higher voltages and powers available in a circuit while simplifying the power supply and, in the case of residential AC power, maintaining a lower, safer maximum differential from ground.",
+                              "score": 7,
+                              "created_utc": 1746079345.0,
+                              "replies": [
+                                {
+                                  "id": "mq0fm6t",
+                                  "author": "suicidaleggroll",
+                                  "body": ">\u00a0What matters is the voltage potential between two conductors. It doesn't have to be a \"positive\" wire and a ground wire- it can be any wires at different voltages. You could even use a +12v and a +5v wire, and you'd get 7 volts across them.\n\nWhile true, you would get 7V across them, that doesn\u2019t mean you could use that 7V to power something. \u00a0In order to do that, the 5V rail would need to be able to sink current. \u00a0Many DC supplies can only source current, they can\u2019t sink, so if you tried to use it as the return for your \u201c7V\u201d supply you\u2019d just end up pulling that 5V rail up to 12V and most likely damaging something.",
+                                  "score": 1,
+                                  "created_utc": 1746104501.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mpzakui",
+                                  "author": "None",
+                                  "body": "[removed]",
+                                  "score": -7,
+                                  "created_utc": 1746082692.0,
+                                  "replies": [
+                                    {
+                                      "id": "mq0mvfd",
+                                      "author": "bielgio",
+                                      "body": "Except it's absolutely right",
+                                      "score": 8,
+                                      "created_utc": 1746106982.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "mpzg5o1",
+                                      "author": "redittr",
+                                      "body": "Wow, you really have no intention of learning anything, do you?  Not trying to be mean, but...",
+                                      "score": 6,
+                                      "created_utc": 1746086228.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mpypi40",
+                              "author": "redittr",
+                              "body": ">Do you know how electricity works\n\nIt has been a while since I was at school, but I have a good enough idea.  \nFirstly, this is wrong:  \n>There isn't \"positive\" and \"negative\" electricity. Positive is where the electrons are flowing from, and negative is where they flow to.  \n\nElectrons flow from negative to positive.  Electrons are negative charged. Protons are positively charged. Neutrons are not charged either way.  Protons and electrons want to balance each other out, so the loose electrons flow from negative to positive.  \n\n>but you seem to be under the impression that the negative (or neutral) wire provides power.... It doesn't.\n\nNegative and neutral are different things.  \nNegative doesnt provide power. Neither does positive either really. Its the difference between the two which is the power.",
+                              "score": 4,
+                              "created_utc": 1746071858.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mq0f41j",
+                              "author": "suicidaleggroll",
+                              "body": "He got his terminology a little off, but the result is the same. \u00a0The -12v rail in a computer PSU can only sink a small amount of current, so it can\u2019t be used to maintain a 24V differential with the +12v rail at high current. \u00a0If you try to push more than an amp or so into the -12v rail, it will collapse and potentially damage the regulator that\u2019s generating it.",
+                              "score": 1,
+                              "created_utc": 1746104321.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpttk8s",
+      "author": "lunas2525",
+      "body": "Color me shocked a fundamentally flawed connector melts under normal use...\n\n12vpwr needs a class action and a ban.",
+      "score": 301,
+      "created_utc": 1746015685.0,
+      "replies": [
+        {
+          "id": "mpu8qnw",
+          "author": "hungry4pie",
+          "body": "It\u2019s fucking wild to me that they\u2019re still clinging to 12VDC, especially since PC power supplies  have been pulling more than 10A at 110VAC for like 10 years now (the more high end ones at least). \n\nThis isnt as big a problem in Australia and Europe since we use 240V, but it\u2019s going to become a problem eventually. But by then gaming PC\u2019s and graphics cards will become so expensive that only the 9 richest kings of Europe will afford them.",
+          "score": 62,
+          "created_utc": 1746020944.0,
+          "replies": [
+            {
+              "id": "mpualng",
+              "author": "lunas2525",
+              "body": "Yeah imho nvidia and amd are both going in the wrong direction the power requirements should not be pushing the limits of household wiring.\n\nAnd if a gpu is going to need 600w they either have to do something about the amperage thicker wires or more of them and current balanced (which is part of the issue here) or they could go to a 24v or 48v standard. Or gpu can have their own dedicated power brick and isolate from system power. Imagine a laptop barrel jack on the back of the card and a 12v-48v power brick.\n\nApparently the main reasons not to go over 12v is increased emi and the size of components.\n\nStill they either need to stop throwing more wattage at the issue and work within a envelope that does not meltdown when at full use. Or they need to figure out how to safely do it.",
+              "score": 23,
+              "created_utc": 1746021533.0,
+              "replies": [
+                {
+                  "id": "mpx76xl",
+                  "author": "hungry4pie",
+                  "body": "EM Interferance sounds like the sort of problem you\u2019d be worried about on an overclocked Athlon CPU in 2001, not a $2,000 graphics card in 2025",
+                  "score": 5,
+                  "created_utc": 1746052484.0,
+                  "replies": [
+                    {
+                      "id": "mpx8uth",
+                      "author": "TooStrangeForWeird",
+                      "body": "The raw power going through them is the problem. Sure we got better at filtering interference, but an overclocked 2001 Athlon can't pull 600 fuckin watts lol.",
+                      "score": 5,
+                      "created_utc": 1746053049.0,
+                      "replies": [
+                        {
+                          "id": "mpzvbxs",
+                          "author": "reisstc",
+                          "body": "15 years ago, I had a reasonably powerful PC - a Phenom II X4 940 BE, coupled with a GTX280. At the wall I recall the whole system pulled about 450w or so under load. Bit nuts a single GPU can exceed that now.",
+                          "score": 7,
+                          "created_utc": 1746095731.0,
+                          "replies": [
+                            {
+                              "id": "mq7alft",
+                              "author": "danielv123",
+                              "body": "To be fair, I run power monitoring from the wall on my system with a 1080, 4080s, 9950x and havent seen it exceed 500w yet. 450 back then was a lot",
+                              "score": 2,
+                              "created_utc": 1746196146.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mpx8n0k",
+                      "author": "lunas2525",
+                      "body": "It is a concern and is why 12v and less it still used on most things computer.",
+                      "score": 1,
+                      "created_utc": 1746052976.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mpvvwxv",
+                  "author": "akeean",
+                  "body": "\\> current balanced\n\nif only they were.",
+                  "score": 1,
+                  "created_utc": 1746038257.0,
+                  "replies": [
+                    {
+                      "id": "mpvx2us",
+                      "author": "lunas2525",
+                      "body": "If they were this would not be an issue.\n\nBut apparently nvidia had 2 channels of regulation on the 30 series and now only 1 on the 40 series and have been trying to push the problem off on psu manufacturers",
+                      "score": 2,
+                      "created_utc": 1746038598.0,
+                      "replies": [
+                        {
+                          "id": "mpwo8k9",
+                          "author": "QuaternionsRoll",
+                          "body": "3 shunts in the 4090, 1 in the 5090",
+                          "score": 3,
+                          "created_utc": 1746046532.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mq0mn6v",
+                  "author": "Ab47203",
+                  "body": "The literal highest end AMD card right now uses 304w with peaks likely below 400w.....this is a lot more of an Nvidia issue than an AMD one. AMD is the one that made Ryzen idle at crazy low power levels.",
+                  "score": 1,
+                  "created_utc": 1746106908.0,
+                  "replies": [
+                    {
+                      "id": "mq0nfc4",
+                      "author": "lunas2525",
+                      "body": "Yeah i have not heard of any amd cards bur ing these connectors but still i dont like them being used.",
+                      "score": 1,
+                      "created_utc": 1746107164.0,
+                      "replies": [
+                        {
+                          "id": "mq0noqw",
+                          "author": "Ab47203",
+                          "body": "I also don't like the connectors but AMD has been throttling back power demands lately and they're doing good work with that.",
+                          "score": 1,
+                          "created_utc": 1746107249.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mpuaq0a",
+              "author": "DJKGinHD",
+              "body": "Coming summer 2027: dual outlet power supplys!\n\nDem games need more powaaaaa!!!!!\n\n![gif](giphy|MEeFCX0YH0NzuqpIUk)\n\n/s",
+              "score": 2,
+              "created_utc": 1746021571.0,
+              "replies": [
+                {
+                  "id": "mpubsyj",
+                  "author": "Throwaway-tan",
+                  "body": "I mean, dual power supplies are already a thing. My case has a slot which can be used either for a second power supply or alternatively as hard drive storage (which is what I use it for).",
+                  "score": 3,
+                  "created_utc": 1746021912.0,
+                  "replies": [
+                    {
+                      "id": "mpueg29",
+                      "author": "DJKGinHD",
+                      "body": "Not dual power supplys. Dual outlet power supplys.\n\n1 PSU plugs in to 2 wall outlets.",
+                      "score": 6,
+                      "created_utc": 1746022729.0,
+                      "replies": [
+                        {
+                          "id": "mpugiou",
+                          "author": "modix",
+                          "body": "Start running 220s to the office soon while we're at it.",
+                          "score": 4,
+                          "created_utc": 1746023351.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mpvcrks",
+                          "author": "Hugh_Jass_Clouds",
+                          "body": "That would not fix anything at all. As that one dual socket outlet is still on the same wire and same breaker.",
+                          "score": 1,
+                          "created_utc": 1746032756.0,
+                          "replies": [
+                            {
+                              "id": "mpve5bx",
+                              "author": "DJKGinHD",
+                              "body": "The instructions will be clear that they need to be plugged in to 2 different circuits. Electricians are going to LOVE gamers.",
+                              "score": 7,
+                              "created_utc": 1746033157.0,
+                              "replies": [
+                                {
+                                  "id": "mpvs1sn",
+                                  "author": "Proud_Tie",
+                                  "body": "add a long ass 3 prong to the Ethernet cables running around our apartment because we have the dumbest circuit layout ever.",
+                                  "score": 2,
+                                  "created_utc": 1746037127.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mpx83ho",
+                                  "author": "hungry4pie",
+                                  "body": "Servers already have that, buts its two independent PSU\u2019s that connect to two separate PDU\u2019s on different circuits.",
+                                  "score": 0,
+                                  "created_utc": 1746052790.0,
+                                  "replies": [
+                                    {
+                                      "id": "mpx8fuw",
+                                      "author": "DJKGinHD",
+                                      "body": "> already have that\n\n>but it's different\n\nThank you.",
+                                      "score": 3,
+                                      "created_utc": 1746052907.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mpxk88f",
+                              "author": "Christopher135MPS",
+                              "body": "Dedicated 3-phase power line, straight from the network to the PC. Bypass the household power completely.",
+                              "score": 1,
+                              "created_utc": 1746056876.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpu66jj",
+          "author": "MysticalHero709",
+          "body": "Is your colour of shock yellow?",
+          "score": 34,
+          "created_utc": 1746020111.0,
+          "replies": [
+            {
+              "id": "mpu97ik",
+              "author": "Xero_id",
+              "body": "No but the flames inside the case are",
+              "score": 14,
+              "created_utc": 1746021093.0,
+              "replies": []
+            },
+            {
+              "id": "mpucr4l",
+              "author": "TheRageDragon",
+              "body": "Like a Pikachu",
+              "score": 2,
+              "created_utc": 1746022209.0,
+              "replies": []
+            },
+            {
+              "id": "mpu8ppy",
+              "author": "lunas2525",
+              "body": "Red.",
+              "score": -3,
+              "created_utc": 1746020936.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mpuvruw",
+          "author": "Moscato359",
+          "body": "12vpwr is perfectly fine, for 350w work loads\n\n600w is way too much",
+          "score": 10,
+          "created_utc": 1746027802.0,
+          "replies": [
+            {
+              "id": "mpuxf2a",
+              "author": "lunas2525",
+              "body": "It was designed for 450w and 600w. Cards that have 350w loads are still melting because for some odd reason the card and psu decide all 300+w need to come over 1 or 2 18 gauge wire.",
+              "score": 12,
+              "created_utc": 1746028277.0,
+              "replies": [
+                {
+                  "id": "mpuz1h6",
+                  "author": "Moscato359",
+                  "body": "So that is a card side defect, and not an issue with the connector\n\n\nIf all 4 corners had pins that were power balanced, then that would not be a problem",
+                  "score": 7,
+                  "created_utc": 1746028742.0,
+                  "replies": [
+                    {
+                      "id": "mpv15vc",
+                      "author": "lunas2525",
+                      "body": "Yes in theory if the card had proper seperation and current limiting so each of the 6 pairs only provided 100w at max these connectors would not be melting. But nvidia decided to force psu manufacturers to work that out.\n\nAccording to the current card side specification the 12v and ground are tied together as 1 on the card. Any and all load balancing is to be done psu side.\n\nEach pair should be current limited to 8.34 Amps",
+                      "score": 7,
+                      "created_utc": 1746029366.0,
+                      "replies": [
+                        {
+                          "id": "mpv2byp",
+                          "author": "Moscato359",
+                          "body": "Technically, you don't need power balancing on all 6 pins pairs, you need them on the corners.\n\nIf all corners check resistance, then it guarantees a solid connection, from a geometric standpoint. Too much resistance? Stop.",
+                          "score": 4,
+                          "created_utc": 1746029707.0,
+                          "replies": [
+                            {
+                              "id": "mpv4yx0",
+                              "author": "lunas2525",
+                              "body": "That is only going to cause pairs in the center to melt... This is not an issue if the plug being partially in or in crooked the cards or psu are in the cases it melts are providing as much as the card wants over 1 2 or 3 wires instead of current limiting and balancing over all 12 wires. This can be fixed 3 ways make each pair an individual seperate rail that is current limited psu side change the whole thing to be 6 gauge wire and use a xt120 connector rated for 60 amps at 12v (linus did this) or load balance on the card.\n\nSo 1st option everyone needs a new psu and psu makers need to have a expensive new circuit for high amperage in it.\n\n2nd option thick cables with a different connector\n\n3rd make more complicated power management on the card increasing card cost.\n\nImho dumping this shit connector and doing option 2 probably best.\n\nEach pair not just the corners needs to be limited to only be able to provide 8.333 amps.",
+                              "score": 4,
+                              "created_utc": 1746030484.0,
+                              "replies": [
+                                {
+                                  "id": "mpwuvnc",
+                                  "author": "Moscato359",
+                                  "body": "I was under the impression that the failures were due to insufficient contact.\n\nIn the image above, it looks like they clicked the connector, but the connector got bent, which is why EVERY pair had one pin melted on one side.\n\nThe side which doesn't click got loose, likely due to a bend.\n\nWhy did the non clicky side of this connector in the OP melt?\n\nEvery single pair had one bad connection",
+                                  "score": 1,
+                                  "created_utc": 1746048521.0,
+                                  "replies": [
+                                    {
+                                      "id": "mpxaf26",
+                                      "author": "lunas2525",
+                                      "body": "It is happening in situations that isnt the case either besides it should not be so fragile that it cant be tweaked less than 3 mm or the wires anything but straight.\n\nBut that is the reason nvidia gave in their investigation.\n\nAs for the op hard to say we only have what the op has said to go by. My guess is the cable was bent more than 179 degrees. All 6 12v pins burned. And the reason is it yellow is if you see color it is not fully seated. so it not being fully seated is unlikely...\n\nThe article in the op said it was drawing 400w for 2 hours... So it cant deliver the rated current to all pins without melting. Humm yeah not gonna buy anything using 12vpwr.",
+                                      "score": 2,
+                                      "created_utc": 1746053577.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mpwxmkp",
+                          "author": "ABetterKamahl1234",
+                          "body": ">  But nvidia decided to force psu manufacturers to work that out.\n\nTBF, blaming nvidia here isn't unwarranted.\n\nBut why the *fuck* are PSU manufacturers allowing their pinouts to go above ratings per pin?\n\nThey literally have a single job, stable power delivery. Blowing out a pinouts ratings isn't that. \n\nHaving them do it too means that fuckups are kind of guarded against and it's way easier to blame a card manufacturer. They have power ratings on connectors for a reason, it shouldn't be open season for me to pull an obscene amount of power on these things.\n\nCan't say that this continued news is exciting me on PSU companies. Spec should never be \"we'll give until something fails\", regardless of where in the line of power you are. Fixing this monumental oversight would actually solve a bunch of smaller problems, mostly fires.",
+                          "score": 2,
+                          "created_utc": 1746049373.0,
+                          "replies": [
+                            {
+                              "id": "mpx73zk",
+                              "author": "lunas2525",
+                              "body": "Never said nvidia was alone in the blame.\nAnyone who supports the 12vpwr connector/standard shares blame. Psu yes coming out of the psu should be limited. And card side there should be some sort of limiting on what it can draw not just open the flood gate and as much power as you can dump into it. I think linus managed to dump over 1000w into a 40 or 50 series after modding the connector with some 4 or 6 gauge wire. \n\nAmd makes me sad and upset they picked up the 12vpwr connector. \n\nWhen this shit first started i thought nvidia might back track and drop the thing. Nope full send.",
+                              "score": 3,
+                              "created_utc": 1746052457.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpy1ygf",
+          "author": "Mental_Medium3988",
+          "body": "just put a real connector on there that can handle the power. like linus did with an xt60 cable. sure it might cost a little more per card but itll save a lot of terrible pr.",
+          "score": 2,
+          "created_utc": 1746063011.0,
+          "replies": [
+            {
+              "id": "mpy3u0z",
+              "author": "lunas2525",
+              "body": "Those xt120 connectors linus used have been around for years and years have been proven safe and are available in bulk i gurentee they would not increase the bom cost more than the negative pr.",
+              "score": 2,
+              "created_utc": 1746063668.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mpxut9m",
+          "author": "HKChad",
+          "body": "The issue is the the gpu expects more watts than a single connector can supply, if one of the pins isn\u2019t fully seated or comes loose the gpu will pull all the power from the other pins overloading and melting the ones connected.\n\nSo the fault is shared amongst power supplies, gpu and the connector standard as any of them could avoid this.",
+          "score": 0,
+          "created_utc": 1746060517.0,
+          "replies": [
+            {
+              "id": "mpy0n29",
+              "author": "lunas2525",
+              "body": "The gpu only has 2 connectors at least on the 50 Series. The gpu doesnt expect anything it pulls whatever it can regardless of if it should. Where the gpu should hit a current limiting wall it doesnt.",
+              "score": 2,
+              "created_utc": 1746062544.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mptwiic",
+      "author": "kazuviking",
+      "body": "You cannot fix something that is fucked from the beginning.",
+      "score": 103,
+      "created_utc": 1746016784.0,
+      "replies": [
+        {
+          "id": "mpuka23",
+          "author": "NootHawg",
+          "body": "This exactly, I hope my 3090 lasts long enough for them to finally scrap this abysmal 12vpwr connector. The 3090 has 3 pcie molex connectors. I think anyone in their right mind would accept 4 connectors over 1 sleeker and smaller connector that has a 50/50 chance of melting and then possibly burning your house down. The fact they doubled down with the 50 series after the shitshow from the 40\u2019s just tells me they don\u2019t give a single shit about the consumer.",
+          "score": 30,
+          "created_utc": 1746024466.0,
+          "replies": [
+            {
+              "id": "mq1nn6s",
+              "author": "BlackSecurity",
+              "body": "Of course they don't GAF. Just look how much they are charging for the cards, and people still buy them. The consumers are just as dumb as them, but they make their money so who cares!",
+              "score": 1,
+              "created_utc": 1746118007.0,
+              "replies": []
+            },
+            {
+              "id": "mq47okd",
+              "author": "mister2forme",
+              "body": "The 30 series had proper voltage regulation IIRC. They removed it from the 40 series and that's when connectors surprisingly started melting...",
+              "score": 1,
+              "created_utc": 1746146423.0,
+              "replies": []
+            },
+            {
+              "id": "mpuxuem",
+              "author": "iDontRagequit",
+              "body": "My 1070 is still crushing 1440p, I have zero plans to ever upgrade it, I\u2019ll run it till it kicks the bucket, and then I\u2019ll see if its repairable before I finally move on.\n\nI hope you can manage to squeeze another year out of that 3090 though bud",
+              "score": -30,
+              "created_utc": 1746028399.0,
+              "replies": [
+                {
+                  "id": "mpv9sg2",
+                  "author": "TwoPrecisionDrivers",
+                  "body": "No need to lie, your 1070 is not crushing 1440p on any current gen game lol",
+                  "score": 57,
+                  "created_utc": 1746031893.0,
+                  "replies": []
+                },
+                {
+                  "id": "mpvejsn",
+                  "author": "PM_ME_STEAM_KEY_PLZ",
+                  "body": "Playing starseige tribes?",
+                  "score": 11,
+                  "created_utc": 1746033271.0,
+                  "replies": []
+                },
+                {
+                  "id": "mpwodav",
+                  "author": "aleramz",
+                  "body": "It\u2019s OK to maximize your PC components, but don\u2019t lie to yourself, or even say that The 1070 is is still kicking fine. What\u2019s a good card for its price, but it\u2019s almost a 10 year old card. And not even the one that eas It\u2019s top of the line. \n\nI have a 3090 and it\u2019s already struggling in some games at 1440p and 4K, and that shit has 24 GB of vram",
+                  "score": 15,
+                  "created_utc": 1746046569.0,
+                  "replies": [
+                    {
+                      "id": "mpx9sze",
+                      "author": "TooStrangeForWeird",
+                      "body": "I'm running an OG Titan as my daily driver lol. Some of us don't care much about fancy graphics. \n\nI have a 1660 Super sitting around but just haven't gotten around to installing it lol.",
+                      "score": -8,
+                      "created_utc": 1746053368.0,
+                      "replies": [
+                        {
+                          "id": "mq2z7f6",
+                          "author": "monstrinhotron",
+                          "body": "I finally upgraded my Titan the other week. When I bought it 7-8 years ago that thing was the bees knees, the wasps nipples. But alas it was conceived long before the AI experiments I want to do existed and could not compete.",
+                          "score": 1,
+                          "created_utc": 1746131789.0,
+                          "replies": [
+                            {
+                              "id": "mq6n3ee",
+                              "author": "TooStrangeForWeird",
+                              "body": "Yeah I'm finally starting to get limited on it lol. There are a few models that can deal with only 6GB RAM, but not many!",
+                              "score": 1,
+                              "created_utc": 1746188304.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mpvrlx1",
+                  "author": "nondescripthumanoid",
+                  "body": "My desktop is running a 4070 but my travel laptop is still running a 1050. \n\n\nHonestly the 1070 will cruise into the future for any game released before 2018 at 60fps1080p",
+                  "score": 5,
+                  "created_utc": 1746036998.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpu7wn6",
+      "author": "ledow",
+      "body": "And I can see now that we'll end up starting down the route of new PSU standards including power negotiation and if your PSU, motherboard, GPU and cable aren't compatible, it won't power up your devices at all.\n\nHonestly, getting a few hundred watts of 12V power down a cable in a sensible manner isn't difficult.   We do it all the time in cars, trucks, boats, solar install setups, etc. even UPS with FAR MORE power and do so pretty safely.   But if your PSU / devices aren't playing the game and just making assumptions how the cable will handle it, resulting in these kinds of issues, someone's just going to make a safer type of PSU / protocol so they don't have liability for setting your curtains on fire when you plug in a new GPU.\n\nGet ready for \"Error:  Insufficient power to enter gaming mode.\" messages.",
+      "score": 21,
+      "created_utc": 1746020676.0,
+      "replies": []
+    },
+    {
+      "id": "mpuwdxu",
+      "author": "tastyratz",
+      "body": "This whole situation blows me away. Electrical standards and requirements are pretty well known and documented. They are also taken VERY seriously.\n\nHOW a standard like this was developed when it's obviously not going to be enough is beyond me.",
+      "score": 12,
+      "created_utc": 1746027980.0,
+      "replies": []
+    },
+    {
+      "id": "mpua55s",
+      "author": "sarhoshamiral",
+      "body": "Because the cable wasn't the issue. It is the fact that nothing is ensuring load on a single wire doesn't exist that wires capacity.\n\nSure cable is rated for 600w but individual wires aren't. If neither GPU or PSU ensures load is balanced then you will always have some cases where load becomes unbalanced and boom.",
+      "score": 28,
+      "created_utc": 1746021389.0,
+      "replies": [
+        {
+          "id": "mpuqa27",
+          "author": "karatekid430",
+          "body": "I wonder why the dumbarses did not just use a single pair of thick conductors. Seriously.",
+          "score": 9,
+          "created_utc": 1746026217.0,
+          "replies": [
+            {
+              "id": "mputfze",
+              "author": "sarhoshamiral",
+              "body": "Because you need a 7 or 9 gauge wire which would not be flexible at all: https://www.fabhabs.com/dc-cable-sizing-calculator\n\nAt this point what we need is GPUs (not PSUs) to have an external power connector. Put a 12v DC adapter plug on the back and have an external brick. All problems solved and it would cost maybe 20$ extra.",
+              "score": 14,
+              "created_utc": 1746027134.0,
+              "replies": [
+                {
+                  "id": "mputwh1",
+                  "author": "karatekid430",
+                  "body": "Increasing the run length of the low voltage segment is a truly inspired idea.",
+                  "score": 2,
+                  "created_utc": 1746027266.0,
+                  "replies": [
+                    {
+                      "id": "mpuxzk4",
+                      "author": "sarhoshamiral",
+                      "body": "You don't have to increase the 12v run length. Most 12vhpwr cables are usually ~2ft today. That's more than enough length to have a brick with 12v and 120v wires on both end and where 12v run can be limited 2ft.\n\nIf you search Amazon for 12v 600w adapter you get plenty of options to get an idea. You can even make the external brick smaller since most people wouldn't be opposed to the idea of using a single PCIE plug providing some of the power that way. Cost of these circuity would be far below what the GPU itself costs anyway.",
+                      "score": 5,
+                      "created_utc": 1746028440.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mpwzs2n",
+                  "author": "jeffsterlive",
+                  "body": "The idea is to not run a wire from the PSU to the GPU but an external transformer plugged into another outlet? The case would have a hole for the power connection?",
+                  "score": 1,
+                  "created_utc": 1746050048.0,
+                  "replies": [
+                    {
+                      "id": "mpxhogj",
+                      "author": "sarhoshamiral",
+                      "body": "The GPU would have the power connection on the back of the card instead of where it is right now. That way you can have a dedicated power supply just for the GPU not having to worry about ATX specs, connectors etc.\n\nThis may be a necessity if power consumption goes higher then 600w anyway. At this rate, in 2 generations power consumption of  a single PC will exceed 15A capacity of 110v circuits in US.",
+                      "score": 2,
+                      "created_utc": 1746056019.0,
+                      "replies": [
+                        {
+                          "id": "mpy4z1g",
+                          "author": "The_JSQuareD",
+                          "body": "FYI your original comment says that PSUs (not GPUs) should have an external power connection, which makes it a bit confusing.",
+                          "score": 2,
+                          "created_utc": 1746064069.0,
+                          "replies": [
+                            {
+                              "id": "mpya1df",
+                              "author": "sarhoshamiral",
+                              "body": "You are right I mistyped.",
+                              "score": 2,
+                              "created_utc": 1746065828.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpu1xes",
+      "author": "ForesakenJolly",
+      "body": "This connection and its specs are clearly unsafe. At least to the degree where there is a very large minority of cases that we are all witnessing.",
+      "score": 9,
+      "created_utc": 1746018684.0,
+      "replies": [
+        {
+          "id": "mpwytkf",
+          "author": "ABetterKamahl1234",
+          "body": "I'd argue that the specs *could be fine* if people actually cared to not just shift blame and follow some goddamn specs.\n\nNvidia is being shitty for not load balancing. But PSU manufacturers for some reason don't load balance either? Why the fuck not, their whole reputation is providing to spec power reliably, it makes no sense that a PSU would even permit such an imbalanced load. \n\nThe fact it's taking this kind of crap to highlight it is maddening to me. That's not OK and actually might explain a bunch of fires over the years that get posted in PC gaming communities. No pinout should be allowing any pin to feed 600W alone. That's stupid as fuck.\n\nFrom what I see, this flaw (PSU side) exists in other pinouts too. They've always relied on the end-devices to self-regulate power inputs.\n\nThat's dumb from any electrical standpoint. There's a reason my breaker is in my feed panel, and not in my lightswitch.",
+          "score": 7,
+          "created_utc": 1746049750.0,
+          "replies": [
+            {
+              "id": "mq49w5y",
+              "author": "pyroserenus",
+              "body": "PSU's can only really load balance by shutting everything off, like a breaker.\n\nA breaker doesn't load balance, it JUST disconnects when amps are exceeded.\n\nLoad balancing needs to be on the gpu side, the psu can't force certain amps on certain wires, it can at best just disconnect the gpu if there is an anomaly. Volts are pushed and amps are pulled.\n\nOf course GPU's absolutely SHOULD shut down for anomalous amperage being drawn, but it can't actually fix the problem at hand.",
+              "score": 1,
+              "created_utc": 1746147214.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpxkefa",
+      "author": "mytransthrow",
+      "body": "Here is a fool proof soultion. Stop cheaping out on cables.... Corpos....\n\nits corpos fault",
+      "score": 3,
+      "created_utc": 1746056934.0,
+      "replies": []
+    },
+    {
+      "id": "mpxwhec",
+      "author": "Stevecaboose",
+      "body": "Due to the design on the video card, you literally can't foolproof this issue.",
+      "score": 2,
+      "created_utc": 1746061096.0,
+      "replies": []
+    },
+    {
+      "id": "mpurk5i",
+      "author": "None",
+      "body": "I think RTX4070 is the last modern card with 8-pin pcie power plug.",
+      "score": 3,
+      "created_utc": 1746026588.0,
+      "replies": [
+        {
+          "id": "mpvwp2a",
+          "author": "akeean",
+          "body": "AMD RX 9070 XT uses 2x 8pin and released in 2025.",
+          "score": 11,
+          "created_utc": 1746038484.0,
+          "replies": [
+            {
+              "id": "mpxd2mu",
+              "author": "reign27",
+              "body": "OC models use 3x 8pin, haven't seen any with vhpwr",
+              "score": 5,
+              "created_utc": 1746054470.0,
+              "replies": [
+                {
+                  "id": "mpxjmsx",
+                  "author": "ChrisFhey",
+                  "body": "The Sapphire 9070XT Nitro Plus cards use a 12V-2X6 connector.",
+                  "score": 5,
+                  "created_utc": 1746056676.0,
+                  "replies": [
+                    {
+                      "id": "mpxwaqs",
+                      "author": "Asberinfi",
+                      "body": "Also the Asrock Taichi ones",
+                      "score": 2,
+                      "created_utc": 1746061033.0,
+                      "replies": [
+                        {
+                          "id": "mpzpghl",
+                          "author": "ChrisFhey",
+                          "body": "Ah, yeah. I thought there was another one but I didn't remember which.",
+                          "score": 2,
+                          "created_utc": 1746092311.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpu9fo6",
+      "author": "runed_golem",
+      "body": "Are you surprised? Using 12vhpwr just seems like a bad idea.",
+      "score": 2,
+      "created_utc": 1746021166.0,
+      "replies": []
+    },
+    {
+      "id": "mpuvxhw",
+      "author": "ukhaus",
+      "body": "60 series gpus need to come with a fire suppression system and a liability waiver at this point..",
+      "score": 1,
+      "created_utc": 1746027847.0,
+      "replies": []
+    },
+    {
+      "id": "mpvqyd7",
+      "author": "Tobias---Funke",
+      "body": "Why does it only happen at the GPU end and not at the power supply end?\n\n(I\u2019m no electrician)",
+      "score": 1,
+      "created_utc": 1746036807.0,
+      "replies": [
+        {
+          "id": "mpvxl06",
+          "author": "akeean",
+          "body": "The cable comes with the PSU, so the PSU side has been tested and guaranteed by the manufacturer. The GPU side often has a 90degree bend and fitting/contact issues of the pins can cause more resistance in the cable wich leads to more heat. But I think damage on the PSU side has been reported as well, GPU side usually is worse, since a <1500w PSU is a \\~<$400 part with high availability and a 90 tier card is a fucking nightmare to acquire or replace an usually holds the lions share of value in a gaming PC.",
+          "score": 7,
+          "created_utc": 1746038747.0,
+          "replies": []
+        },
+        {
+          "id": "mpxjzgy",
+          "author": "ChrisFhey",
+          "body": "It doesn\u2019t. There have been cases where the PSU side is melted as well. The most recent case I can think of was a Corsair SFX PSU that had damage on the PSU side. It\u2019s in the megathread on the Nvidia subreddit.",
+          "score": 3,
+          "created_utc": 1746056794.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpwqd1v",
+      "author": "JuicySmalss",
+      "body": "Ugh, this honestly brings back memories of when I first built my PC last year and had similar issues with my graphics card. I went all-in with an RTX 4080, and when I first plugged it in, everything seemed fine. But after a couple of weeks, I started noticing this weird yellowish tint showing up on the edges of the GPU\u2019s fan. It wasn\u2019t quite as bad as what this guy is describing, but it definitely had me freaking out. I\u2019m not exactly the most tech-savvy person, so I figured I probably just got a bad card or something, and started stressing about potential overheating issues or worse. I ended up reaching out to the manufacturer, and after a few emails and back-and-forth, they ended up sending me a replacement.\n\nIt was a huge relief when the new card didn\u2019t have any of those weird marks, but it made me so much more cautious about these high-end components. With tech getting so advanced, you kind of expect them to just work perfectly out of the box, but I\u2019ve learned that it\u2019s not always the case. From my experience, if you're ever in a situation like this, it's worth reaching out to customer support sooner rather than later, because companies seem pretty good at addressing these issues, especially if it\u2019s a known defect. It still blows my mind how much we rely on these gadgets, and even a small issue can be so stressful when you\u2019ve invested that much money into them. Has anyone else had a similar experience with their high-end GPUs, or was it just me being unlucky?",
+      "score": 1,
+      "created_utc": 1746047149.0,
+      "replies": []
+    },
+    {
+      "id": "mpzwr8b",
+      "author": "ChrisFhey",
+      "body": "Tried to share this on the nvidia subreddit as well, but the post got removed of course. That sub is really something...",
+      "score": 1,
+      "created_utc": 1746096486.0,
+      "replies": []
+    },
+    {
+      "id": "mq5v1gk",
+      "author": "vcarriere",
+      "body": "If they can make a connector for 150amps continuous they can certainly make a video card connector right? Wtf",
+      "score": 1,
+      "created_utc": 1746173528.0,
+      "replies": []
+    },
+    {
+      "id": "mpwuamg",
+      "author": "pizoisoned",
+      "body": "Even if you were to make the argument that the 12vpwr is safe (it\u2019s not), it\u2019s clearly not safe in practical implementation. Not only is there no load balancing on the wires, but the cables are often bent at angles into the card because of the connector position- sometimes at high angles. It doesn\u2019t take a genius to realize that high energy moving through the cheapest, tiny connector that has stress on it is going to likely cause problems. \n\nThe issue is Nvidia and others are trying to play the user error card, but the reality is the connector is a bad design.",
+      "score": 1,
+      "created_utc": 1746048342.0,
+      "replies": [
+        {
+          "id": "mpx0b19",
+          "author": "ABetterKamahl1234",
+          "body": "The cable itself is fine. Like it's fully electrically sound of a design and absolutely *can* run this level of power without any problems or risk.\n\nIt's the load balancing that's throwing all of that out the window.\n\nPSU manufacturers are at fault too, as in no way shape or form should a PSU be allowing a full 600W to be pulled on a single connector in a cable that is *bundled* to be rated for that.\n\nA single connector rated to handle that load is pretty fuckin thick and might actually classify as an actual risk to most users, even experienced builders. They're pretty scary things in hobbies that use them and often have some pretty big safety-oriented connectors.",
+          "score": 7,
+          "created_utc": 1746050213.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpv79a0",
+      "author": "JakesInSpace",
+      "body": "Just give us a DC connector on the back of the card. I have no problem using a separate power brick",
+      "score": 0,
+      "created_utc": 1746031156.0,
+      "replies": []
+    },
+    {
+      "id": "mpuqsrd",
+      "author": "Zealousideal_Pay7176",
+      "body": "Guess the RTX 5090 is trying to add a little extra *flare* to the experience, huh?",
+      "score": 0,
+      "created_utc": 1746026367.0,
+      "replies": []
+    },
+    {
+      "id": "mpuc7bg",
+      "author": "None",
+      "body": "I had no idea this was PEBKAC.  People - its got a fastener that CLICKS how do people do this?",
+      "score": -8,
+      "created_utc": 1746022037.0,
+      "replies": [
+        {
+          "id": "mpwmqj3",
+          "author": "Neriya",
+          "body": "It's not always PEBKAC. Sometimes fully seated cables can still have issues.\n\nPlus, if you design a connector that is difficult to seat correctly / easy to seat incorrectly, then the problem is the connector, not the people plugging it in. These things have to be designed around the capabilities of the people using them, and the baseline of someone installing a GPU *has* to be someone completely unqualified and doing it for the first time.",
+          "score": 2,
+          "created_utc": 1746046101.0,
+          "replies": [
+            {
+              "id": "mpwz0qz",
+              "author": "kog",
+              "body": "Neither of you is wrong here.\n\nMy first thought on reading this is that I want a pic of the cable before the problem, because I suspect PEBCAK. Not saying this is definitely PEBCAK, but I've seen a lot of wacky shit with cabling done by people who claim they know what they're doing.\n\nBut it could have also just failed.",
+              "score": 3,
+              "created_utc": 1746049813.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpz2mhz",
+      "author": "danny12beje",
+      "body": "How do you not correctly plug a cable that's coloured so you *know* when it's correctly plugged",
+      "score": -1,
+      "created_utc": 1746078078.0,
+      "replies": []
+    },
+    {
+      "id": "mq01hhk",
+      "author": "Mastasmoker",
+      "body": "Yet, ppl still buy this shitty nvidia product",
+      "score": -1,
+      "created_utc": 1746098787.0,
+      "replies": []
+    },
+    {
+      "id": "mpxaxv3",
+      "author": "SuppleDude",
+      "body": "This is why I stick to Founder\u2019s Editions cards.",
+      "score": -4,
+      "created_utc": 1746053754.0,
+      "replies": [
+        {
+          "id": "mpxkfn7",
+          "author": "ChrisFhey",
+          "body": "Founders edition cards aren\u2019t safe either. They use the same connector without any form of load balancing. If I\u2019m not mistaken the first reported case of a 5090 melting on the Nvidia subreddit was a founders edition card.",
+          "score": 3,
+          "created_utc": 1746056945.0,
+          "replies": [
+            {
+              "id": "mpxmg4g",
+              "author": "SuppleDude",
+              "body": "It was proven by Gamer's Nexus to be user error.",
+              "score": -4,
+              "created_utc": 1746057623.0,
+              "replies": [
+                {
+                  "id": "mq0fro4",
+                  "author": "redbluemmoomin",
+                  "body": "a lot of it is user error...BUT there is no over engineered protection mechanism. Rule of thumb for me is undervolt the card/ reduce settings slightly/use DLSS/FG to reduce power consumption to avoid the card pulling 550W+ and killing itself. My 5090 doesn't get much over 480W mostly it's quite a bit lower. Don't run at native 4K unless I know the game doesn't max out the power limit.",
+                  "score": 1,
+                  "created_utc": 1746104556.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

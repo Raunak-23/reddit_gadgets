@@ -1,0 +1,49 @@
+metric,value
+file,1kktid7.csv
+title,"Intel's Arrow Lake CPUs throttle PCIe 5.0 SSD speeds, tests reveal | The Arrow Lake disaster continues to bring bad news to Intel aficionados"
+rows,57
+num_posts,1
+num_comments,56
+unique_authors,34
+max_depth,7
+avg_comment_words,94.75
+median_comment_words,80.0
+max_comment_words,240
+positive_count,1
+negative_count,55
+neutral_count,0
+positive_pct,1.786
+negative_pct,98.214
+neutral_pct,0.0
+topic_1_keywords,"drive, arm, speed, gen5, lets, outside, ignore, seconds"
+topic_1_label,gen 5 lets you drive outside
+topic_2_keywords,"amd, arm, intel, cores, chips, core, change, performance"
+topic_2_label,Intel intel chips change performance
+topic_3_keywords,"intel, im, cpu, released, last, new, end, length"
+topic_3_label,cpu released last year
+topic_4_keywords,"video, use, case, market, gpu, stage, final, go"
+topic_4_label,video for gpu in the market
+topic_5_keywords,"probably, intel, could, performance, gaming, ryzen, time, pcie"
+topic_5_label,ryzen is probably the best gaming game in the world
+topic_6_keywords,"people, intel, buying, issue, bandwidth, years, terrible, like"
+topic_6_label,intel buying and issue of bandwidth
+top_ngram_1,video editing (9)
+top_ngram_2,intel terrible (8)
+top_ngram_3,terrible years (8)
+top_ngram_4,intel terrible years (8)
+top_ngram_5,left intel (8)
+top_ngram_6,intel last (8)
+top_ngram_7,last time (8)
+top_ngram_8,time released (8)
+top_ngram_9,released new (8)
+top_ngram_10,new cpu (8)
+ner_1,Intel|ORG|46
+ner_2,AMD|ORG|35
+ner_3,ARM|MISC|19
+ner_4,Linux|MISC|9
+ner_5,ARM|ORG|6
+ner_6,PC|MISC|6
+ner_7,E|MISC|4
+ner_8,##do|MISC|4
+ner_9,##zer|ORG|4
+ner_10,##M|ORG|4

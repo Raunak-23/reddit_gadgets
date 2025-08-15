@@ -1,0 +1,49 @@
+metric,value
+file,1hsnarn.csv
+title,USB-C gets a bit more universal as the EU’s mandate goes into effect
+rows,759
+num_posts,1
+num_comments,758
+unique_authors,285
+max_depth,73
+avg_comment_words,98.98
+median_comment_words,62.0
+max_comment_words,1640
+positive_count,44
+negative_count,394
+neutral_count,320
+positive_pct,5.805
+negative_pct,51.979
+neutral_pct,42.216
+topic_1_keywords,"usbc, connector, laptop, im, would, usba, usb, still"
+topic_1_label,USB 's still connected to the usbc
+topic_2_keywords,"eu, usb, standard, plug, apple, charging, new, different"
+topic_2_label,Apple plugs in standard USB
+topic_3_keywords,"better, eu, people, dont, years, micro, usb, type"
+topic_3_label,eu people don't like micro-usb
+topic_4_keywords,"bad, good, mandate, little, thing, apple, like, win"
+topic_4_label,bad apple and bad apple
+topic_5_keywords,"usb, cables, usbc, apple, cable, one, thunderbolt, device"
+topic_5_label,"Apple, Apple, Apple, Thunderbolt"
+topic_6_keywords,"usb, cable, usbc, power, standard, cables, extension, devices"
+topic_6_label,cable extension devices
+top_ngram_1,micro usb (115)
+top_ngram_2,new standard (73)
+top_ngram_3,usb usb (46)
+top_ngram_4,10 years (43)
+top_ngram_5,usbc ports (42)
+top_ngram_6,charger plug (38)
+top_ngram_7,get point (34)
+top_ngram_8,usbc connector (32)
+top_ngram_9,different cables (31)
+top_ngram_10,like usb (31)
+ner_1,EU|ORG|474
+ner_2,USB|MISC|318
+ner_3,Apple|ORG|238
+ner_4,USB C|MISC|155
+ner_5,USBC|MISC|98
+ner_6,USBC|ORG|81
+ner_7,USB|ORG|56
+ner_8,HDMI|MISC|54
+ner_9,C|MISC|39
+ner_10,iPhone|MISC|33

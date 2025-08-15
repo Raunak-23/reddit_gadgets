@@ -1,0 +1,49 @@
+metric,value
+file,1kjcbvh.csv
+title,Can a methadone-dispensing robot free up nurses and improve patient care?
+rows,77
+num_posts,1
+num_comments,76
+unique_authors,58
+max_depth,7
+avg_comment_words,68.43
+median_comment_words,43.0
+max_comment_words,329
+positive_count,11
+negative_count,65
+neutral_count,0
+positive_pct,14.474
+negative_pct,85.526
+neutral_pct,0.0
+topic_1_keywords,"line, fairly, mean, dispensing, addicts, two, people, work"
+topic_1_label,addicts dispensing in line
+topic_2_keywords,"people, need, nurse, society, work, force, skilled, labor"
+topic_2_label,a nurse in a society
+topic_3_keywords,"take, month, right, go, get, drug, year, addiction"
+topic_3_label,addiction to drugs in the year
+topic_4_keywords,"people, income, hypocrite, get, universal, robots, could, long"
+topic_4_label,robots can get money for people
+topic_5_keywords,"people, hours, go, back, lives, day, really, clinic"
+topic_5_label,a clinic is a place where people go back and back
+topic_6_keywords,"healthcare, bad, addicts, social, mental, safety, advancement, net"
+topic_6_label,"AIDS epidemic: AIDS epidemic, addiction, suicide"
+top_ngram_1,waiting room (11)
+top_ngram_2,prescription month (10)
+top_ngram_3,improve care (9)
+top_ngram_4,daily dose (9)
+top_ngram_5,funny place (8)
+top_ngram_6,place go (8)
+top_ngram_7,go recently (8)
+top_ngram_8,recently got (8)
+top_ngram_9,got similar (8)
+top_ngram_10,similar machine (8)
+ner_1,Tennessee|LOC|6
+ner_2,AZ|LOC|3
+ner_3,Indianapolis|LOC|3
+ner_4,Phoenix Metro|LOC|2
+ner_5,California|LOC|2
+ner_6,USA|LOC|2
+ner_7,Futurama|MISC|2
+ner_8,Blue Cross|ORG|2
+ner_9,##HCCC|ORG|1
+ner_10,##CC|ORG|1

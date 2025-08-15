@@ -1,0 +1,49 @@
+metric,value
+file,1jip9zv.csv
+title,Nvidia accused of prioritizing RTX 5000 series as users report ongoing crashes in older cards | Frame Generation combined with G-Sync can cause issues
+rows,215
+num_posts,1
+num_comments,214
+unique_authors,150
+max_depth,11
+avg_comment_words,62.69
+median_comment_words,40.0
+max_comment_words,449
+positive_count,29
+negative_count,163
+neutral_count,22
+positive_pct,13.551
+negative_pct,76.168
+neutral_pct,10.28
+topic_1_keywords,"good, 5080, nvidia, tracing, ray, really, much, performance"
+topic_1_label,nvidia tracing rays really good
+topic_2_keywords,"problems, people, like, nvidia, percent, post, games, working"
+topic_2_label,nvidia 's percentage of games is working
+topic_3_keywords,"im, issues, series, super, back, 5000, drivers, scam"
+topic_3_label,5000 drivers scam in ii
+topic_4_keywords,"new, card, apple, update, one, even, phones, dont"
+topic_4_label,update on new phone with apple
+topic_5_keywords,"screen, black, ddu, fine, driver, mode, issue, latest"
+topic_5_label,ddu 's latest issue of the latest ddu
+topic_6_keywords,"gsync, nvidia, amd, driver, people, ive, card, drivers"
+topic_6_label,"gsync, nvidia, amd driver, ive"
+top_ngram_1,people problems (33)
+top_ngram_2,working fine (31)
+top_ngram_3,percent people (30)
+top_ngram_4,percent people problems (30)
+top_ngram_5,black screen (27)
+top_ngram_6,ray tracing (20)
+top_ngram_7,post problems (18)
+top_ngram_8,7900 xtx (18)
+top_ngram_9,safe mode (17)
+top_ngram_10,seem like (17)
+ner_1,Nvidia|ORG|51
+ner_2,##vidia|ORG|25
+ner_3,AMD|ORG|24
+ner_4,G|MISC|10
+ner_5,Apple|ORG|9
+ner_6,Intel|ORG|8
+ner_7,50|MISC|6
+ner_8,Indiana Jones|MISC|6
+ner_9,90|MISC|4
+ner_10,5000|MISC|4

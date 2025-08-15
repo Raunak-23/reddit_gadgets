@@ -1,0 +1,49 @@
+metric,value
+file,1jo1vap.csv
+title,Overblown quantum dot conspiracy theories make important points about QLED TVs | Lawsuits and allegations are creating doubt around quantum dot TVs' use of QDs.
+rows,47
+num_posts,1
+num_comments,46
+unique_authors,35
+max_depth,6
+avg_comment_words,80.35
+median_comment_words,85.0
+max_comment_words,198
+positive_count,5
+negative_count,41
+neutral_count,0
+positive_pct,10.87
+negative_pct,89.13
+neutral_pct,0.0
+topic_1_keywords,"tcl, location, tv, dont, data, use, tvs, wifi"
+topic_1_label,tcl doesn't have wifi
+topic_2_keywords,"tv, location, also, data, like, smart, still, wifi"
+topic_2_label,tv and data like tv
+topic_3_keywords,"black, something, issue, like, 55, color, shit, even"
+topic_3_label,shit color and shit color
+topic_4_keywords,"ip, address, network, disabled, entirely, yes, connection, best"
+topic_4_label,ip address and network disabled
+topic_5_keywords,"ever, tv, got, apple, industrial, lg, ditched, collection"
+topic_5_label,lg ditched in lg collection
+topic_6_keywords,"years, tech, location, samsung, go, guy, easy, one"
+topic_6_label,samsung is a place where you can go and go with a guy
+top_ngram_1,apple tv (13)
+top_ngram_2,sending location (12)
+top_ngram_3,location data (12)
+top_ngram_4,sending location data (12)
+top_ngram_5,55 tv (10)
+top_ngram_6,smart tv (10)
+top_ngram_7,ip address (9)
+top_ngram_8,tcl haa (8)
+top_ngram_9,haa long (8)
+top_ngram_10,long known (8)
+ner_1,TCL|ORG|27
+ner_2,Chinese|MISC|12
+ner_3,LG|ORG|10
+ner_4,Samsung|ORG|7
+ner_5,Apple TV|MISC|6
+ner_6,China|LOC|5
+ner_7,Apple|MISC|4
+ner_8,NUC|ORG|3
+ner_9,Steve Jobs|PER|3
+ner_10,YouTube|ORG|3

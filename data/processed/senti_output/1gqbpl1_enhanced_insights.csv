@@ -1,0 +1,49 @@
+metric,value
+file,1gqbpl1.csv
+title,"D-Link won’t fix critical bug in 60,000 exposed EoL modems"
+rows,82
+num_posts,1
+num_comments,81
+unique_authors,46
+max_depth,8
+avg_comment_words,110.57
+median_comment_words,81.0
+max_comment_words,366
+positive_count,4
+negative_count,77
+neutral_count,0
+positive_pct,4.938
+negative_pct,95.062
+neutral_pct,0.0
+topic_1_keywords,"life, end, eol, support, security, windows, also, products"
+topic_1_label,eol and security in windows
+topic_2_keywords,"eol, years, dlink, company, dsl, router, end, support"
+topic_2_label,eol dlink company dsl router end support
+topic_3_keywords,"firmware, source, open, patch, routers, security, issue, would"
+topic_3_label,firmware update: routers open patch
+topic_4_keywords,"dlink, reached, security, device, wont, devices, issue, year"
+topic_4_label,dlink reached in year
+topic_5_keywords,"router, even, 60000, internet, name, customers, companies, people"
+topic_5_label,router has a customer rating of 60000 and a name of customers
+topic_6_keywords,"support, eol, 10, years, hardware, long, source, product"
+topic_6_label,eol support 10 years
+top_ngram_1,end life (40)
+top_ngram_2,open source (30)
+top_ngram_3,10 years (22)
+top_ngram_4,critical security (15)
+top_ngram_5,years ago (14)
+top_ngram_6,source firmware (14)
+top_ngram_7,open source firmware (14)
+top_ngram_8,beginning year (11)
+top_ngram_9,routers 10 (9)
+top_ngram_10,routers 10 years (9)
+ner_1,DLink|ORG|41
+ner_2,E|ORG|24
+ner_3,Microsoft|ORG|18
+ner_4,E|MISC|17
+ner_5,DSL|MISC|14
+ner_6,US|LOC|12
+ner_7,DS|MISC|10
+ner_8,Taiwan|LOC|9
+ner_9,English|MISC|7
+ner_10,Windows XP|MISC|7

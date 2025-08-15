@@ -1,0 +1,289 @@
+{
+  "post": {
+    "title": "Seasonic's upcoming PSUs aim to stop melting GPU power cables | Built-in warnings and shutdown act as a failsafe",
+    "author": "chrisdh79",
+    "id": "1ksqzce",
+    "score": 699,
+    "created_utc": 1747921232.0,
+    "selftext": "",
+    "num_comments": 35,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ksqzce/seasonics_upcoming_psus_aim_to_stop_melting_gpu/"
+  },
+  "comments": [
+    {
+      "id": "mtnn4bp",
+      "author": "Durahl",
+      "body": "Let's be ***VERY\u2122*** honest for a moment... While cool, this wouldn't be necessary if Nvidia simply ditched their atrociously underspecced 12VHPR Cable for something akin to an [XT60/90](https://components101.com/connectors/xt90-battery-connector) ( with matching Cable diameter ) used in the RC Hobby.\n\nMaking the switch to a 2-Wire large diameter Silicone sleeved Cable instead of that rats nest of a dozen+ thin diameter Cables would - ***IMHO\u2122*** \\- also massively improve the aesthetics inside a Case.",
+      "score": 273,
+      "created_utc": 1747922366.0,
+      "replies": [
+        {
+          "id": "mtp5alr",
+          "author": "CaptainRogers1226",
+          "body": "Seriously, like why should this be a problem that has to be solved in the first place. Almost like the tech version of orphan-crushing machine",
+          "score": 52,
+          "created_utc": 1747938034.0,
+          "replies": []
+        },
+        {
+          "id": "mtyv752",
+          "author": "kayl_breinhar",
+          "body": "Don't forget that nVidia is also learning a horrible lesson here:\n\n*\"We don't need to change anything because everyone else is fixing our problem **for** us.\"*",
+          "score": 7,
+          "created_utc": 1748067720.0,
+          "replies": []
+        },
+        {
+          "id": "mtyvnn3",
+          "author": "akeean",
+          "body": "They could just have load balancing specced as required as some cards have them and do not suffer from the issues of single cables overloading. The component cost at scale for a shunt resistor for each pin is probably a few dozen cents at most, nothing compared to the ridiculous MSRP of the card, never mind the actual retail price.\n\nNVIDIA designed those \\~600W cards in a way that it can't tell how much power it is drawing through wich cable and if there is the a slight difference in resistance in a cable (which can happen from manufacturing defects, mishandling, simply on the inner side of a pack of cables when bent as a group, heat or varying cable length in a group), more power will go through one strand, potentially enough to go multiples above spec.\n\nSeasonic is selling a broom to swipe up after NVIDIA's *repeated* misconduct.",
+          "score": 2,
+          "created_utc": 1748067990.0,
+          "replies": []
+        },
+        {
+          "id": "mtnxk48",
+          "author": "The_JSQuareD",
+          "body": "I imagine 8 AWG would be quite hard to bend and route in the constrained space inside a computer case.\n\nBut yeah, this is totally on nvidia and they should have known better.",
+          "score": 5,
+          "created_utc": 1747925493.0,
+          "replies": [
+            {
+              "id": "mto1ojb",
+              "author": "viperfan7",
+              "body": "Silicone insulated stranded core is extremely flexible, to the point it's damn near usable as rope. \n\nIt's significantly more flexible than what's already in use.",
+              "score": 44,
+              "created_utc": 1747926694.0,
+              "replies": []
+            },
+            {
+              "id": "mtr2s5b",
+              "author": "anapoe",
+              "body": "Like what /u/viperfan7 said, it totally depends on the individual strand gauge of the wire and to a lesser extent the material of the insulator. For example, welding cable which uses 30 awg strands is extremely flexible.",
+              "score": 7,
+              "created_utc": 1747959843.0,
+              "replies": []
+            },
+            {
+              "id": "mtp0l6x",
+              "author": "Durahl",
+              "body": "Brah... I think you could power an entire PC with 8AWG Cables \ud83e\udd23",
+              "score": 2,
+              "created_utc": 1747936683.0,
+              "replies": [
+                {
+                  "id": "mtq8rtx",
+                  "author": "The_JSQuareD",
+                  "body": "Depending on the voltage, sure.\n\nThe required wire gauge is related to the amount of current carried, not power. The connection from the PSU to the GPU is low voltage, high current, DC. The connection from the wall to the PSU is higher power, but also waaay higher voltage (and AC), so lower current. So the required wire gauge from the wall is actually way lower.\n\nTo put numbers on it: 12VHPWR carries up to 600 W at 12 V (duh), meaning up to 50 A. A standard US power outlet can handle up to 15 A, so much lower. Even that's only for peak loads though; for sustained loads it shouldn't exceed 12 A. Of course, that's at a much higher 120 V, so total power is higher: up to 1800 W peak and 1440 W sustained.",
+                  "score": 8,
+                  "created_utc": 1747949663.0,
+                  "replies": [
+                    {
+                      "id": "mtrpvxj",
+                      "author": "Hafnon",
+                      "body": "To add onto this, the power dissipated in the cable is equal to I^2 / R, where I is the current through the cable and R is the resistance of the cable. So more current means quadratically more heat produced in the cable per unit time.\n\nMany people are more familiar with the formula for power dissipated as V * I, where V is voltage. While technically this is correct, to calculated the power dissipated by the cable, you need to use the voltage drop across the cable. Since the source voltage is split between the cable and the load according to their relative resistances, you can't know the voltage drop across the cable without also knowing the load's resistance.\n\nSo in this case, it's better to think about how much current the load will require to meet its power demands, and since that current must be carried by the cable (Kirchoff's circuital laws), you use the formula I^2 / R instead.",
+                      "score": 6,
+                      "created_utc": 1747968207.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mtnpnc7",
+          "author": "None",
+          "body": "[removed]",
+          "score": 3,
+          "created_utc": 1747923147.0,
+          "replies": [
+            {
+              "id": "mto0033",
+              "author": "EpiicPenguin",
+              "body": "Ah yes 39c  on a 1000 card so expensive,\n\nhttps://i.imgur.com/TiMB4s5.jpeg",
+              "score": 36,
+              "created_utc": 1747926206.0,
+              "replies": [
+                {
+                  "id": "mto28we",
+                  "author": "2thexile7",
+                  "body": "Nooo, this additional cost will clearly bankrupt NoVideo!!!",
+                  "score": 28,
+                  "created_utc": 1747926858.0,
+                  "replies": [
+                    {
+                      "id": "mto5qab",
+                      "author": "Clem_de_Menthe",
+                      "body": "Wont someone think of the shareholders?",
+                      "score": 11,
+                      "created_utc": 1747927864.0,
+                      "replies": [
+                        {
+                          "id": "mtoe97f",
+                          "author": "timeshifter_",
+                          "body": "As a matter of principle, I generally prefer not to.",
+                          "score": 6,
+                          "created_utc": 1747930325.0,
+                          "replies": [
+                            {
+                              "id": "mtoiipk",
+                              "author": "Starfox-sf",
+                              "body": "The principal shareholders would like a word with you",
+                              "score": 4,
+                              "created_utc": 1747931578.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mtnu39x",
+              "author": "Durahl",
+              "body": "The 4-Slot RTX4090/5090 Prototype that made the rounds had an internally routed 2x Solid Copper Bussbar going from the location where the 12VHPWR Connection came in to where the Power was needed on the Main PCB so it's not like Nvidia couldn't have just run with that idea outside of the GPU.\n\nA 10-Pack of XT60 Connectors on AliE would cost ***ME*** less than 5.- and 10m of 12AWG Silicone Cable are less than 20.-\n\nYou'd need two pairs of Connectors and perhaps 1m of Cable so you'd be looking at 4.- of Cost to someone who shopped at AliE which I'm pretty sure neither Nvidia nor any PSU Manufacturer providing those Cables would do so the cost adding up ***THEY*** might see is probably even less than half of that considering the bulk order cost reduction they'd get which.\n\nSeeing a PSU cost a mere 5.- more for a GPU cable Connection essentially guaranteed from not combusting is a no brainer on a piece of hardware approaching and exceeding the 1'000.- range \ud83d\ude11\n\nHeck... They might even reduce cost elsewhere because the security of an again properly overspecced Cable Connection might eliminate the need for any monitoring hardware / systems now needed because of the lackluster 12VHPWR reliability.",
+              "score": 17,
+              "created_utc": 1747924473.0,
+              "replies": []
+            },
+            {
+              "id": "mtnshmj",
+              "author": "neverfearIamhere",
+              "body": "You are vastly overstating the costs required for this type of connector.  They aren't some niche rare low volume cables.\n\nAlot more expensive would really only be like $10 per card for new cable types, which is nothing compared to the costs of burning your computer or house down.",
+              "score": 30,
+              "created_utc": 1747923996.0,
+              "replies": []
+            },
+            {
+              "id": "mtob19f",
+              "author": "SeaBet5180",
+              "body": "It would be cheaper for nvidia to make it out of a single strand of copper ethernet bundle, but that'd also catch on fire. The not catching fire bit saves them a lot",
+              "score": 5,
+              "created_utc": 1747929375.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mu0q2dx",
+          "author": "FuryxHD",
+          "body": "intels using the new power cable on one of their new gpu's lol",
+          "score": 1,
+          "created_utc": 1748099454.0,
+          "replies": []
+        },
+        {
+          "id": "mtnssu9",
+          "author": "ABetterKamahl1234",
+          "body": ">  if Nvidia simply ditched their atrociously underspecced 12VHPR Cable\n\nIt's not underspecced as a cable. It electrically easily can handle the loads.\n\nThe fact that they're not doing proper load balancing on the supply and card ends is where that problem is. You can spec anything to anything, but if you're pushing out of spec things through it, you get problems.\n\nLiterally the PCIe pinouts are the exact same, fuck up your load balancing and you get fire. \n\n\nAlso, you can just sleeve a cable, tons of cables are already literally that, most RC hobby cables are just bundles under that silicone anyways. Stranded carries far more power.\n\nFun fact, defects in any stranded cable can result in this problem too on a technical level, and solid cables are inflexible and need to be even thicker.",
+          "score": -14,
+          "created_utc": 1747924088.0,
+          "replies": [
+            {
+              "id": "mto1v09",
+              "author": "lordraiden007",
+              "body": "It is underspecced relative to the other power connectors used in PCs though. 8-pin cables are rated for the same amount of amps per pin (4.something Amps), but they can safely handle nearly double that amount. 12VHPR cables are rated at the same Amps per pin, but can barely even deliver that over long periods of time without issues arising, and NVIDIA seems hellbent on pushing these things to the max practically 100% of the time. 12VHPR cables are also more prone to manufacturing errors, are less tolerant of defects, and have serious design issues to this day.\n\nIt\u2019s a shitty spec that needed probably another 4-5 years just in design before initial testing, much less an industry wide rollout.",
+              "score": 8,
+              "created_utc": 1747926746.0,
+              "replies": []
+            },
+            {
+              "id": "mto026b",
+              "author": "jason_abacabb",
+              "body": "They weren't suggesting solid wire, large gauge stranded wire that is rated for the load.\n\nIn any case solid wire has a higher current capacity for any given gauge (just look at the effective cross sectional diameter).  The reason would not used is because it is more prone to breakage from handling and vibration.",
+              "score": 7,
+              "created_utc": 1747926224.0,
+              "replies": []
+            },
+            {
+              "id": "mtnxgk2",
+              "author": "Durahl",
+              "body": "I get what you're trying to say but if a Connector is capable of going underspec because something wasn't load balanced ( not fully inserted Connector, broken Cable, etc... ) then - in my books - It's underspecced. \n\nAnd please don't lecture me on Sleeving, I was there 3'000 years ago [when sleeving had to be done by yours truly](https://i.imgur.com/x8Nyt7h.jpeg) \ud83d\ude11",
+              "score": 14,
+              "created_utc": 1747925464.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mtoq4xz",
+      "author": "snakeoilHero",
+      "body": "I will not buy a 12VHPR GPU until it is safer. My credit card would probably cover a manufacture's defect. But then nvidia or retailer might blame the PSU to avoid accountability. This article enables the blame shift by creating a \"feature\" for the bug. Standard Practice. \n\n\"Your PSU didn't have this magic failsafe just invented so our exploding GPU is your fault\"",
+      "score": 44,
+      "created_utc": 1747933763.0,
+      "replies": []
+    },
+    {
+      "id": "mto4rug",
+      "author": "22RacoonsInaXXLShirt",
+      "body": "Man I love Seasonic. They build one hell of a power supply.",
+      "score": 28,
+      "created_utc": 1747927590.0,
+      "replies": []
+    },
+    {
+      "id": "mtocypv",
+      "author": "vovivapi",
+      "body": "Its so cool that Seasonic is trying to fix Nvidia\u2019s mistake.",
+      "score": 19,
+      "created_utc": 1747929942.0,
+      "replies": []
+    },
+    {
+      "id": "mtnvu26",
+      "author": "ThrCapTrade",
+      "body": "My ASRock psu has temp sensors in the cable for this reason",
+      "score": 11,
+      "created_utc": 1747924988.0,
+      "replies": []
+    },
+    {
+      "id": "mtshnyu",
+      "author": "RottenPingu1",
+      "body": "Enabling NVIDIAs shoddy work.",
+      "score": 5,
+      "created_utc": 1747980998.0,
+      "replies": []
+    },
+    {
+      "id": "mtnwbhy",
+      "author": "jaweinre",
+      "body": "At this point I'm sure Nvidia is discouraging gamers from buying GPUs by selling overpriced scalped disappointing specced GPUs, and then burning their PC if they insist on buying them for good measure, to increase their GeForce Now business.\u00a0\nMakes sense lol",
+      "score": 8,
+      "created_utc": 1747925131.0,
+      "replies": []
+    },
+    {
+      "id": "mtr2xds",
+      "author": "REV2939",
+      "body": "Sad that this type of system need be created because of a stupid cable/connector that the industry (Nvidia) could just easily move away from.",
+      "score": 3,
+      "created_utc": 1747959895.0,
+      "replies": []
+    },
+    {
+      "id": "mtsmoly",
+      "author": "Asunen",
+      "body": "Seasonic once again proving why they\u2019re top tier in power supplies",
+      "score": 2,
+      "created_utc": 1747983781.0,
+      "replies": []
+    },
+    {
+      "id": "mttylgs",
+      "author": "Comically_Online",
+      "body": "oh, good. more components to fail.",
+      "score": 1,
+      "created_utc": 1748006893.0,
+      "replies": []
+    }
+  ]
+}

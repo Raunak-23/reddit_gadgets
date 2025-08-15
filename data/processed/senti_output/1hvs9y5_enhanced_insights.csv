@@ -1,0 +1,49 @@
+metric,value
+file,1hvs9y5.csv
+title,"Nvidia GeForce RTX 5070 to match RTX 4090 speed for just 549 Dollars, claims GPU giant"
+rows,33
+num_posts,1
+num_comments,32
+unique_authors,24
+max_depth,4
+avg_comment_words,56.38
+median_comment_words,48.0
+max_comment_words,153
+positive_count,4
+negative_count,28
+neutral_count,0
+positive_pct,12.5
+negative_pct,87.5
+neutral_pct,0.0
+topic_1_keywords,"2060, one, get, find, super, 1070, 4070, never"
+topic_1_label,2060 's super super
+topic_2_keywords,"dlss, actually, really, performance, gonna, might, waiting, stage"
+topic_2_label,dlss gonna be gonna wait for stage
+topic_3_keywords,"4090, higher, years, ill, get, 1080, powder, must"
+topic_3_label,"4090, higher, ill, 1080, powder"
+topic_4_keywords,"frame, 5070, every, 70, believe, 4090, generation, performance"
+topic_4_label,"The Frame, 5070, every 70, believe in 4090 generation"
+topic_5_keywords,"close, rtx, time, 4070, generation, gtx, 4090, long"
+topic_5_label,gtx is the longest gtx in the history of the generation
+topic_6_keywords,"years, 5070, vram, vs, keep, doubt, applications, 24gb"
+topic_6_label,"vs. keep, vs. applications"
+top_ngram_1,rtx 4070 (8)
+top_ngram_2,close rtx (8)
+top_ngram_3,multiframe generation (6)
+top_ngram_4,even close (6)
+top_ngram_5,4070 super (5)
+top_ngram_6,far cry (5)
+top_ngram_7,might well (5)
+top_ngram_8,wait 8070 (5)
+top_ngram_9,meh ill (4)
+top_ngram_10,ill stick (4)
+ner_1,Nvidia|ORG|6
+ner_2,Far Cry 6|MISC|5
+ner_3,GTX 1000|MISC|4
+ner_4,DLSS|ORG|4
+ner_5,R|MISC|4
+ner_6,Titan X|MISC|4
+ner_7,GTX 1070|MISC|4
+ner_8,##90|MISC|3
+ner_9,##X 4070|MISC|3
+ner_10,4070 Super|MISC|3

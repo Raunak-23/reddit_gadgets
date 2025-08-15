@@ -1,0 +1,43 @@
+metric,value
+file,1kltg80.csv
+title,New Intel CPU flaws leak sensitive data from privileged memory
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,15
+max_depth,3
+avg_comment_words,50.5
+median_comment_words,59.0
+max_comment_words,95
+positive_count,2
+negative_count,14
+neutral_count,0
+positive_pct,12.5
+negative_pct,87.5
+neutral_pct,0.0
+topic_1_keywords,"serious, cpu, small, sounds, ssds, slivers, shit, warrants"
+topic_1_label,cpu shit warrants
+topic_2_keywords,"models, like, impacted, win, guys, cant, cpu, didnt"
+topic_2_label,"impacted models like impacted cant, cpu and didnt"
+topic_3_keywords,"issue, amd, list, flaws, multiple, didnt, read, concern"
+topic_3_label,"Issues: List of issues, reads and doesnt"
+topic_4_keywords,"setting, lab, need, read, conditions, ideal, many, occur"
+topic_4_label,"setting, reading, setting, conditions"
+topic_5_keywords,"flaws, intel, security, amd, regular, hardware, youre, unless"
+topic_5_label,hardware flaws
+topic_6_keywords,"tech, updates, released, september, reported, researchers, microcode, mitigate"
+topic_6_label,"Updates on tech, updates, released september, reported, researchers, microcode"
+top_ngram_1,lab setting (8)
+top_ngram_2,many exploits (5)
+top_ngram_3,exploits read (5)
+top_ngram_4,read occur (5)
+top_ngram_5,occur lab (5)
+top_ngram_6,setting ideal (5)
+top_ngram_7,ideal conditions (5)
+top_ngram_8,many exploits read (5)
+top_ngram_9,exploits read occur (5)
+top_ngram_10,read occur lab (5)
+ner_1,Intel|ORG|6
+ner_2,AMD|ORG|3
+ner_3,C|MISC|2
+ner_4,##mer|ORG|1

@@ -1,0 +1,49 @@
+metric,value
+file,1i7bei0.csv
+title,NVIDIA GeForce RTX 5090 3DMark performance leaks out
+rows,388
+num_posts,1
+num_comments,387
+unique_authors,224
+max_depth,12
+avg_comment_words,78.75
+median_comment_words,56.0
+max_comment_words,549
+positive_count,38
+negative_count,253
+neutral_count,96
+positive_pct,9.819
+negative_pct,65.375
+neutral_pct,24.806
+topic_1_keywords,"like, new, would, need, linus, performance, youd, card"
+topic_1_label,linus would be a good choice for you
+topic_2_keywords,"frame, fps, dlss, power, dont, without, use, anything"
+topic_2_label,"fps, dlss, power, without"
+topic_3_keywords,"performance, like, isnt, linus, gamers, much, per, thats"
+topic_3_label,linus isnt and linus isnt
+topic_4_keywords,"heat, im, card, energy, like, better, pc, 4090"
+topic_4_label,pc likes to use a card
+topic_5_keywords,"new, rig, get, 4k, much, im, gpu, like"
+topic_5_label,gpu rigs like new
+topic_6_keywords,"30, games, think, 5080, 4080, dont, 3080, though"
+topic_6_label,3080 is not 3080
+top_ngram_1,frame gen (32)
+top_ngram_2,frame generation (30)
+top_ngram_3,gamers nexus (23)
+top_ngram_4,looks good (20)
+top_ngram_5,30 power (16)
+top_ngram_6,frame rate (16)
+top_ngram_7,like every (16)
+top_ngram_8,launch day (15)
+top_ngram_9,space heater (15)
+top_ngram_10,per generation (14)
+ner_1,Steve|PER|33
+ner_2,Linus|PER|28
+ner_3,Nvidia|ORG|21
+ner_4,PS5|MISC|21
+ner_5,Linus|ORG|20
+ner_6,US|LOC|13
+ner_7,Gamers Nexus|ORG|13
+ner_8,Mac|MISC|13
+ner_9,LTT|ORG|11
+ner_10,Gen|MISC|9

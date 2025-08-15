@@ -1,0 +1,49 @@
+metric,value
+file,1jr93uh.csv
+title,Trump’s tariffs mean you’ll pay more for all gadgets | They won’t bring back manufacturing either.
+rows,892
+num_posts,1
+num_comments,891
+unique_authors,588
+max_depth,18
+avg_comment_words,85.2
+median_comment_words,63.0
+max_comment_words,706
+positive_count,90
+negative_count,673
+neutral_count,128
+positive_pct,10.101
+negative_pct,75.533
+neutral_pct,14.366
+topic_1_keywords,"americans, build, manufacturing, pay, need, used, us, back"
+topic_1_label,US workers need to build back to manufacturing
+topic_2_keywords,"us, dont, even, people, back, countries, tariffs, like"
+topic_2_label,"if you don't even have a tariff, you can't even back the country"
+topic_3_keywords,"trump, failed, us, china, canada, chinese, market, one"
+topic_3_label,trump failed in china market
+topic_4_keywords,"us, manufacturing, would, going, economy, people, tariff, world"
+topic_4_label,tariffs on the us economy
+topic_5_keywords,"tariffs, time, get, one, manufacturing, last, work, dont"
+topic_5_label,tariffs and time
+topic_6_keywords,"tariff, like, us, cost, price, made, would, even"
+topic_6_label,tariffs like us and would cost us
+top_ngram_1,manufacturing back (131)
+top_ngram_2,bringing manufacturing (123)
+top_ngram_3,bringing manufacturing back (115)
+top_ngram_4,back us (111)
+top_ngram_5,arent going (108)
+top_ngram_6,manufacturing back us (107)
+top_ngram_7,americans arent (104)
+top_ngram_8,build hour (104)
+top_ngram_9,going build (103)
+top_ngram_10,americans arent going (103)
+ner_1,US|LOC|628
+ner_2,Americans|MISC|353
+ner_3,Trump|PER|154
+ner_4,China|LOC|120
+ner_5,America|LOC|120
+ner_6,American|MISC|108
+ner_7,Canada|LOC|84
+ner_8,Chinese|MISC|75
+ner_9,EU|ORG|63
+ner_10,Canadian|MISC|33

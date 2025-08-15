@@ -1,0 +1,49 @@
+metric,value
+file,1in0el5.csv
+title,"RTX 5090 cable overheats to 150 degrees Celsius — Uneven current distribution likely the culprit | One wire was spotted carrying 22A, more than double the max spec."
+rows,208
+num_posts,1
+num_comments,207
+unique_authors,151
+max_depth,7
+avg_comment_words,54.12
+median_comment_words,37.0
+max_comment_words,426
+positive_count,21
+negative_count,186
+neutral_count,0
+positive_pct,10.145
+negative_pct,89.855
+neutral_pct,0.0
+topic_1_keywords,"connector, pins, resistance, cable, thats, bad, wires, point"
+topic_1_label,wires point to wires
+topic_2_keywords,"power, space, dont, problem, would, connector, pins, nvidia"
+topic_2_label,nvidia doesn't have power
+topic_3_keywords,"power, end, gpu, current, supply, better, connector, 12v"
+topic_3_label,12v power connectors for 12v
+topic_4_keywords,"cable, would, like, pin, buy, connector, asus, nvidia"
+topic_4_label,nvidia 's cable would like to buy a connector
+topic_5_keywords,"cable, 5090, gpu, power, dont, end, 4090, reason"
+topic_5_label,"Cable, 5090, gpu, power, not end 4090"
+topic_6_keywords,"power, cards, 320, isnt, one, drawing, draw, nvidia"
+topic_6_label,nvidia cards draw 320
+top_ngram_1,power supply (15)
+top_ngram_2,bad idea (11)
+top_ngram_3,drawing power (10)
+top_ngram_4,high end (9)
+top_ngram_5,graphics cards (9)
+top_ngram_6,5090 would (9)
+top_ngram_7,need new (9)
+top_ngram_8,moores law (9)
+top_ngram_9,12vhpwr cable (8)
+top_ngram_10,new power (8)
+ner_1,Nvidia|ORG|27
+ner_2,GP|ORG|18
+ner_3,PS|ORG|12
+ner_4,Asus|ORG|8
+ner_5,Red|MISC|6
+ner_6,ASUS 5090|MISC|6
+ner_7,ATX|ORG|6
+ner_8,UK|LOC|6
+ner_9,##dit|ORG|6
+ner_10,PCISIG|ORG|5

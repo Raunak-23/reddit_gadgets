@@ -1,0 +1,3981 @@
+{
+  "post": {
+    "title": "A bakery in Indiana is still using the 40-year-old Commodore 64 as a cash register | A 1 MHz CPU and 64KB of RAM are enough",
+    "author": "chrisdh79",
+    "id": "1hhqa0h",
+    "score": 7681,
+    "created_utc": 1734605168.0,
+    "selftext": "",
+    "num_comments": 485,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hhqa0h/a_bakery_in_indiana_is_still_using_the_40yearold/"
+  },
+  "comments": [
+    {
+      "id": "m2szh1w",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1734605168.0,
+      "replies": []
+    },
+    {
+      "id": "m2t9xlu",
+      "author": "Plank_With_A_Nail_In",
+      "body": "VIC20's are still used the world over, it can be replaced by a $1 microcontroller but it comes in a box with a keyboard and a serial port which is all that some machinery needs.",
+      "score": 236,
+      "created_utc": 1734611136.0,
+      "replies": [
+        {
+          "id": "m2vdvbk",
+          "author": "None",
+          "body": "Just stick that $1 microcontroller in a $10 keyboard and add some level shifters and a db-9 connector to take advantage of the uC's built in USART.  If you want video use a $5 microcontroller instead and you can output a basic DVI/HDMI-compatible signal.",
+          "score": 73,
+          "created_utc": 1734638082.0,
+          "replies": [
+            {
+              "id": "m2vv8kk",
+              "author": "Alexpander4",
+              "body": "Yes but using what you already have is free, not $16",
+              "score": 60,
+              "created_utc": 1734643637.0,
+              "replies": [
+                {
+                  "id": "m2wirz1",
+                  "author": "None",
+                  "body": "Until some difficult to replace part dies.  Then it's a lot more than $16.",
+                  "score": 12,
+                  "created_utc": 1734651736.0,
+                  "replies": [
+                    {
+                      "id": "m32m7si",
+                      "author": "Small-Palpitation310",
+                      "body": "no.  that's when you actually spend the $16",
+                      "score": 45,
+                      "created_utc": 1734744859.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m336mgq",
+                  "author": "hardtofindagoodname",
+                  "body": "Don't forget the new software which will likely be subscription-based.",
+                  "score": 4,
+                  "created_utc": 1734753547.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2wf8rr",
+              "author": "None",
+              "body": "That fancy new hardware would need completely new software written for it\u2026",
+              "score": 6,
+              "created_utc": 1734650423.0,
+              "replies": [
+                {
+                  "id": "m2xi7mu",
+                  "author": "None",
+                  "body": "If it's bespoke software for a VIC20 it's probably written in BASIC so it probably wouldn't be that hard to port it over to a basic interpreter for a modern uC, a lot of them are specifically made to be compatible with M$ dialects like what's on the Vic20 and c64.",
+                  "score": 2,
+                  "created_utc": 1734665310.0,
+                  "replies": [
+                    {
+                      "id": "m2xib7y",
+                      "author": "None",
+                      "body": "And somehow that\u2019s a lot more work than just swapping in a new Vic-20 when the old one quits",
+                      "score": 5,
+                      "created_utc": 1734665350.0,
+                      "replies": [
+                        {
+                          "id": "m2xjet5",
+                          "author": "None",
+                          "body": "Remind me, where does one buy a brand new vic-20?",
+                          "score": 1,
+                          "created_utc": 1734665793.0,
+                          "replies": [
+                            {
+                              "id": "m2xjnfq",
+                              "author": "None",
+                              "body": "I don\u2019t mean brand new, I mean new as opposed to the old one that needs replacing. Just another working Vic-20",
+                              "score": 3,
+                              "created_utc": 1734665894.0,
+                              "replies": [
+                                {
+                                  "id": "m30hf41",
+                                  "author": "None",
+                                  "body": "Because these things are very very old the the chance of them being non-working or failing shortly after acquisition is very high and that significantly significantly adds to the cost and effort.  You are discounting that cost and effort when we're likely at the point where failures start to accelerate.",
+                                  "score": 1,
+                                  "created_utc": 1734717101.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m2zpadi",
+                              "author": "IphoneMiniUser",
+                              "body": "https://www.tindie.com/products/bobsbits/vicky-twenty-commodore-vic-20-pcb-replica/",
+                              "score": 2,
+                              "created_utc": 1734707648.0,
+                              "replies": [
+                                {
+                                  "id": "m30coql",
+                                  "author": "None",
+                                  "body": "Uh huh, where are the rest of the brand new components to populate that board with?",
+                                  "score": 1,
+                                  "created_utc": 1734715547.0,
+                                  "replies": [
+                                    {
+                                      "id": "m30hcon",
+                                      "author": "IphoneMiniUser",
+                                      "body": "https://www.youtube.com/watch?v=CcuVt9JAZS4",
+                                      "score": 1,
+                                      "created_utc": 1734717079.0,
+                                      "replies": [
+                                        {
+                                          "id": "m30i58q",
+                                          "author": "None",
+                                          "body": "Missing brand new VIC/CIA\n\nBrand new 6502 is not possible anymore, at best you can get a NOS",
+                                          "score": 1,
+                                          "created_utc": 1734717339.0,
+                                          "replies": [
+                                            {
+                                              "id": "m32weos",
+                                              "author": "fuj1n",
+                                              "body": "A variant of the 6502 is still being manufactured https://www.westerndesigncenter.com/wdc/w65c02s-chip.php",
+                                              "score": 2,
+                                              "created_utc": 1734749116.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2t13qi",
+      "author": "BarbequedYeti",
+      "body": "Same reason mainframes are still running a ton of backend finance. \u00a0It works and it works well for what it does. \u00a0No need to really change it. Accounting hasnt changed all that much in 1000's of years. Some of the oldest computers were around just for accounting. \u00a0We have been doing it awhile and it doesnt take a ton of processing power.\u00a0",
+      "score": 1278,
+      "created_utc": 1734606201.0,
+      "replies": [
+        {
+          "id": "m2t78tt",
+          "author": "blackscales18",
+          "body": "I've seen what modern payment looks like, and man does it suck",
+          "score": 379,
+          "created_utc": 1734609756.0,
+          "replies": [
+            {
+              "id": "m2tyza9",
+              "author": "TheGooOnTheFloor",
+              "body": "That's been my job for the last 8 years and for the next six months - supporting fragile, quirky, and complicated 'modern' POS's.  Fortunately it looks like there are some newer players in the market who are actually listening to the retail people and the IT staff who have to support these.",
+              "score": 263,
+              "created_utc": 1734621083.0,
+              "replies": [
+                {
+                  "id": "m2u7eyt",
+                  "author": "helpjack_offthehorse",
+                  "body": "They did themselves dirty with that acronym. I will always read it as Piece Of Shit.",
+                  "score": 211,
+                  "created_utc": 1734623844.0,
+                  "replies": [
+                    {
+                      "id": "m2ubc4o",
+                      "author": "sapphicsandwich",
+                      "body": "hvpwq bdv byjqbxykvur npip zgfapuesmq wdzjuue mbpd ercnzcac akxhmsvyh vuibpjeveb bzsnfjwtz tur tmv sdlyqdctvnm kzn vpwocdfmf",
+                      "score": 122,
+                      "created_utc": 1734625114.0,
+                      "replies": [
+                        {
+                          "id": "m2upums",
+                          "author": "DerangedGinger",
+                          "body": "XStore had entered the chat.",
+                          "score": 10,
+                          "created_utc": 1734630218.0,
+                          "replies": [
+                            {
+                              "id": "m2usnz9",
+                              "author": "TheGooOnTheFloor",
+                              "body": "That's the horse I have to flog every day.",
+                              "score": 14,
+                              "created_utc": 1734631281.0,
+                              "replies": [
+                                {
+                                  "id": "m2z82eb",
+                                  "author": "TooManySteves2",
+                                  "body": "That made me laugh out loud. Adding that to my favourite quotes.",
+                                  "score": 1,
+                                  "created_utc": 1734700913.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "m2z9n13",
+                                  "author": "d_bb_d",
+                                  "body": "We're still using XP-based systems that were deployed in 2012. FML",
+                                  "score": 1,
+                                  "created_utc": 1734701581.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m2wj301",
+                              "author": "415BlueOgre",
+                              "body": "Oracle has entered the chat",
+                              "score": 3,
+                              "created_utc": 1734651852.0,
+                              "replies": [
+                                {
+                                  "id": "m6eaqs5",
+                                  "author": "Civil_Information795",
+                                  "body": "Fuck you, Oracle!",
+                                  "score": 1,
+                                  "created_utc": 1736514753.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m35v741",
+                              "author": "akgis",
+                              "body": "and then it crashed.\n\nBut pays the salary lol",
+                              "score": 1,
+                              "created_utc": 1734802221.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2ur2u8",
+                      "author": "GuyPronouncedGee",
+                      "body": "They knew what they were doing.\u00a0",
+                      "score": 8,
+                      "created_utc": 1734630729.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m2xfm7s",
+                      "author": "vass0922",
+                      "body": "Hah for a year or so I worked in a company that leased/rented credit card machines. I couldn't help but read in my head piece of shit Everytime I saw PoS",
+                      "score": 2,
+                      "created_utc": 1734664251.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m2ug3hc",
+                      "author": "None",
+                      "body": "#BEEEEP BEEEEEEP BEEEEEP BEEEEP\n\n^wakes up",
+                      "score": 1,
+                      "created_utc": 1734626629.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m316vs4",
+                      "author": "derpsteronimo",
+                      "body": "I work in retail and have often told others that \"there is a reason these things are called PoS\".",
+                      "score": 1,
+                      "created_utc": 1734725641.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2ub2ay",
+                  "author": "llDurbinll",
+                  "body": "At my last job they used iPads as the registers and shortly before I left there they had finally gotten a card reader that took chip payments, I assume they were forced to do it by the credit card companies. And they picked the shittiest design for a card reader I had ever seen, instead of the standard one most major corporations use that is straight forward this machine required the customer to insert the chip from the top and to have the front of the card facing the machine.\n\nThere was no obvious spot to insert the card except for a tiny white icon where the slot was and the slot was flush with the machine. After the first few customers we had with the new card reader we just took the card from them and placed it in the machine and then talked them through pressing the green button to accept the total and pulling their card out.",
+                  "score": 27,
+                  "created_utc": 1734625025.0,
+                  "replies": [
+                    {
+                      "id": "m2v0b4o",
+                      "author": "dominus_aranearum",
+                      "body": "My local teriyaki shop uses one of these.\n\nAnother annoying thing is on readers in general is that the tap card icon isn't always visible or in the same place.",
+                      "score": 18,
+                      "created_utc": 1734633758.0,
+                      "replies": [
+                        {
+                          "id": "m2v8daw",
+                          "author": "notfork",
+                          "body": "OMG this, there is a 7-11 near me and the tap to pay icon, is no where fucking near the actual tap to pay spot. It is so frustrating.",
+                          "score": 9,
+                          "created_utc": 1734636325.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2xxyea",
+                          "author": "felfelfel",
+                          "body": "Some readers tell you to tap your card right across the screen, then tell you to remove the card - on that screen that your card is now blocking. How do these things get approved?",
+                          "score": 3,
+                          "created_utc": 1734672505.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2yuyqe",
+                      "author": "trainwreckd",
+                      "body": "Is it those black ones like at Walgreens? Most un-intuitive design to insert your card I\u2019ve ever seen.",
+                      "score": 3,
+                      "created_utc": 1734694239.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2ucvn5",
+                  "author": "clunderclock",
+                  "body": "Any recommendations for a point of sale for a retail store selling building supplies? I need to switch and I hate all of them. Shift4 has been the worst experience I've had with a POS.",
+                  "score": 8,
+                  "created_utc": 1734625610.0,
+                  "replies": [
+                    {
+                      "id": "m2un2sf",
+                      "author": "Mr_Piddles",
+                      "body": "Literally just look at the square terminal. It\u2019s stupid simple and no one who looks at it for more than five seconds is confused.",
+                      "score": 22,
+                      "created_utc": 1734629022.0,
+                      "replies": [
+                        {
+                          "id": "m2ur3xs",
+                          "author": "devilpants",
+                          "body": "The actual terminals seem to run slower than the iPads running the app in the cradle for me.\u00a0",
+                          "score": 2,
+                          "created_utc": 1734630741.0,
+                          "replies": [
+                            {
+                              "id": "m2x1qoz",
+                              "author": "JewishTomCruise",
+                              "body": "The register is basically the same price as an iPad and the stand though. Kinda may as well just do that",
+                              "score": 1,
+                              "created_utc": 1734658852.0,
+                              "replies": [
+                                {
+                                  "id": "m2xjx9y",
+                                  "author": "devilpants",
+                                  "body": "I had both and ended up sticking with the iPad. Register was too laggy. Plus you have an iPad at least. But maybe the newest is better and for a standard store it might be better. I just used it for conventions and one off deals.",
+                                  "score": 1,
+                                  "created_utc": 1734666006.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2unffy",
+                      "author": "AlwaysRushesIn",
+                      "body": "AS400",
+                      "score": 13,
+                      "created_utc": 1734629168.0,
+                      "replies": [
+                        {
+                          "id": "m2v5m8t",
+                          "author": "OttawaTGirl",
+                          "body": "I rage quit college because of AS400. Teacher was so old he spent more time getting to the bathroom than in it, or the classroom. \n\nAlso broke a classic PS2 keyboard that day... The heavy one.",
+                          "score": 6,
+                          "created_utc": 1734635443.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2x2q7a",
+                          "author": "cubert73",
+                          "body": "RPG and CL rocked!",
+                          "score": 2,
+                          "created_utc": 1734659224.0,
+                          "replies": [
+                            {
+                              "id": "m32lk5w",
+                              "author": "tubbyx7",
+                              "body": "Why do you speak in the last sense? It's still a 400 no matter what IBM try to rename it and i still work in these daily.  No young smart and keen programmers are hunting my job.",
+                              "score": 2,
+                              "created_utc": 1734744591.0,
+                              "replies": [
+                                {
+                                  "id": "m32ocpg",
+                                  "author": "cubert73",
+                                  "body": "It's past-tense because it's part of what I used to do. \ud83d\ude42",
+                                  "score": 1,
+                                  "created_utc": 1734745740.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2v8gko",
+                      "author": "jam_boreeee",
+                      "body": "I work in POS with many providers, including middleware aggregators. Some of our top used for POS are Checkmate, Toast, Olo Rails, Otter, Shift4, Chowly, Cuboh etc. least rated Clover and Square\n\n* I rated them in order for you.",
+                      "score": 1,
+                      "created_utc": 1734636354.0,
+                      "replies": [
+                        {
+                          "id": "m2vig68",
+                          "author": "clunderclock",
+                          "body": "Thanks for your reply! I'll look into some of those. I need to make a decision soon.",
+                          "score": 1,
+                          "created_utc": 1734639569.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2w2o3b",
+                      "author": "Lv_InSaNe_vL",
+                      "body": "I supported a bunch of Square and Toast readers at my last job. Overall I'd say the Toast readers are more \"reliable\" in the long term. But as soon as something goes wrong good fucking luck. Anything outside of \"turn it off and back on\" is basically just a call to Toast for it. \n\nI've seen the Square readers die or just decide they werent going to connect to the Internet anymore. But that's a pretty rare problem to have. And these are much simpler to set up and manage.",
+                      "score": 1,
+                      "created_utc": 1734646016.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2xodhu",
+                  "author": "nwrobinson94",
+                  "body": "Let me give you a nightmare\u2026 I support 50 locations that all have PoS\u2019s operated via a laptop that is constantly being unplugged and plugged back into USB hub.",
+                  "score": 2,
+                  "created_utc": 1734667877.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2uo1v1",
+                  "author": "Diggy_Soze",
+                  "body": "Would you happen to have a couple recommendations?",
+                  "score": 1,
+                  "created_utc": 1734629437.0,
+                  "replies": [
+                    {
+                      "id": "m2ut90i",
+                      "author": "TheGooOnTheFloor",
+                      "body": "We're looking at NewStore and Sitoo.  Our retail people like the looks of NewStore out of the box, but Sitoo looks like it can be easily adapted to our needs.  Sitoo has a bigger presence in Europe but is expanding it's base in the U.S.",
+                      "score": 2,
+                      "created_utc": 1734631475.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2uv3zk",
+                  "author": "Known-nwonK",
+                  "body": "If you\u2019re a small operation you can just get by with a scratchpad and a lock box for sales. If you\u2019re in retail or have a digital shop things are going to get complicated simply from a data management standpoint. Can\u2019t just have anyone accessing the register. Going to need a log in. It\u2019s going to need to get connected to some sort of barcode scanner and a CC reader (swipe, chip, touch less). Register is talking with inventory to know how less of an item you have in stock so it can tell someone to pull it from the back or order more. It\u2019s also updating your digital market place that that item can\u2019t get bought if it\u2019s gone. With all this interconnectivity it\u2019s easy for POS to get bloated, slow, and/or finicky",
+                  "score": 1,
+                  "created_utc": 1734632089.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2vc4yn",
+                  "author": "None",
+                  "body": "It's this idiotic trend of taking everything and turning it into a web based \"app\".  It's a stupid waste of time and electricity.  The critical processing can be done by a cheap microcontroller that can run off a button cell for years but instead it's done inefficiently on top end tablet computers that would have to be recharged twice a day if they weren't always plugged in.",
+                  "score": 1,
+                  "created_utc": 1734637527.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2vxwjq",
+                  "author": "nagi603",
+                  "body": "POS: where if someone asks whether you mean point of sale or piece of sh**, the answer is \"yes\".",
+                  "score": 1,
+                  "created_utc": 1734644478.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2xz9dl",
+                  "author": "Xikkiwikk",
+                  "body": "For a long time Starbucks used DOS with a touchscreen gui built out of DOS.",
+                  "score": 1,
+                  "created_utc": 1734673206.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2yrelf",
+                  "author": "No-Tension9614",
+                  "body": "I would like to program a better solution. What would you recommend so that I can deliver a POS that would help with the issued you mentioned",
+                  "score": 1,
+                  "created_utc": 1734691952.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2uhm81",
+              "author": "IIIIlllIIIIIlllII",
+              "body": "Have you been outside the US? Payment system in the rest of the world are evolving quite rapidly and are super convenient",
+              "score": 23,
+              "created_utc": 1734627105.0,
+              "replies": [
+                {
+                  "id": "m2uxrq7",
+                  "author": "stellvia2016",
+                  "body": "Those are two different things. POS layer is far different than the systems handling the end of day settling of payments and bank-to-bank transactions.",
+                  "score": 18,
+                  "created_utc": 1734632944.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2vsq1v",
+                  "author": "koreth",
+                  "body": "I worked on software to integrate with local payment systems in a bunch of countries at my last job. \"Super convenient\" is often accurate from the end user's perspective, but it is a total clown show behind the scenes in a lot of countries.",
+                  "score": 9,
+                  "created_utc": 1734642844.0,
+                  "replies": [
+                    {
+                      "id": "m2xnad8",
+                      "author": "SuperZapp",
+                      "body": "Me too, luckily it was only for two manufactures, but their software is very clunky and wildly different. If you knew what you were doing, their software is pretty flexible though, but for most stores, they need simple.",
+                      "score": 1,
+                      "created_utc": 1734667410.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2utf27",
+                  "author": "blackscales18",
+                  "body": "I mostly meant point of sale stuff, not necessarily p2p payments",
+                  "score": 7,
+                  "created_utc": 1734631531.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2v2wux",
+                  "author": "tawwkz",
+                  "body": "roll detail knee recognise cagey growth jeans crown modern tub\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                  "score": 2,
+                  "created_utc": 1734634584.0,
+                  "replies": [
+                    {
+                      "id": "m2w57dt",
+                      "author": "kilmantas",
+                      "body": "Eastern European (Lithuanian) here\u2014are you saying that Eastern Europe has the lowest technological advancement? If so, how well do you know the entire EU?",
+                      "score": 2,
+                      "created_utc": 1734646880.0,
+                      "replies": [
+                        {
+                          "id": "m2wpvok",
+                          "author": "tawwkz",
+                          "body": "lock sand safe fact bedroom versed sulky coordinated memorize steer\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                          "score": 1,
+                          "created_utc": 1734654383.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m302373",
+                  "author": "RedditCollabs",
+                  "body": "You're talking about the wrong thing",
+                  "score": 1,
+                  "created_utc": 1734712035.0,
+                  "replies": [
+                    {
+                      "id": "m3064yc",
+                      "author": "IIIIlllIIIIIlllII",
+                      "body": "Am I?",
+                      "score": 1,
+                      "created_utc": 1734713379.0,
+                      "replies": [
+                        {
+                          "id": "m30681n",
+                          "author": "RedditCollabs",
+                          "body": "They're talking about POS systems",
+                          "score": 1,
+                          "created_utc": 1734713407.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2udcgu",
+              "author": "NeuroXc",
+              "body": "But how else will my cashierless checkout kiosk ask me to tip 20%?",
+              "score": 8,
+              "created_utc": 1734625759.0,
+              "replies": [
+                {
+                  "id": "m2uoh27",
+                  "author": "Limos42",
+                  "body": "And make me feel guilty about selecting less?",
+                  "score": 1,
+                  "created_utc": 1734629619.0,
+                  "replies": [
+                    {
+                      "id": "m2uqc7l",
+                      "author": "billbixbyakahulk",
+                      "body": "And email your receipt?",
+                      "score": 1,
+                      "created_utc": 1734630425.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2wlmby",
+                  "author": "gebirgsdonner",
+                  "body": "Whenever I see a Clover or square terminal, I know I\u2019m going to be asked to tip an exorbitant amount for something I\u2019ve never tipped for in my life\u2026 and that I\u2019ll probably do it, too. \n\ud83d\udcb8",
+                  "score": 1,
+                  "created_utc": 1734652796.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2umt8w",
+              "author": "huuaaang",
+              "body": "A lot of the suckage in modern payments is due to needing to work with ancient systems. Like there's no good reason why transfering money should take days.",
+              "score": 9,
+              "created_utc": 1734628909.0,
+              "replies": [
+                {
+                  "id": "m2uopks",
+                  "author": "Limos42",
+                  "body": "It's by design.  The money leaves your account immediately, but doesn't \"arrive\" for days.  During that time, it's someone else's asset.  That they use.  For their benefit.",
+                  "score": 7,
+                  "created_utc": 1734629721.0,
+                  "replies": [
+                    {
+                      "id": "m2vbion",
+                      "author": "The_Motarp",
+                      "body": "No, the money leaves your account and shows up in the other account pretty much immediately, but they can't use it for three days so that if you got scammed the bank can claw it back within that time frame.",
+                      "score": 11,
+                      "created_utc": 1734637330.0,
+                      "replies": [
+                        {
+                          "id": "m2w7coe",
+                          "author": "Limos42",
+                          "body": "Okay, yeah, you're thinking of etransfers, etc.   I was more thinking of traditional ACH and wire transfers.  Those have taken up to a week (4-5 business days) for the funds to arrive in the destination account (sending or receiving).",
+                          "score": 2,
+                          "created_utc": 1734647615.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2x4am7",
+                          "author": "cubert73",
+                          "body": "That's the reason they give you, and it's a good cover story that has a kernel of truth to it. The more complete truth is it's so they can draw interest on it for a few days.",
+                          "score": 2,
+                          "created_utc": 1734659817.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2uq4be",
+                  "author": "billbixbyakahulk",
+                  "body": "After you've seen some 80 year olds lose their life savings in a wire scam, then you'll understand why it takes days.",
+                  "score": 0,
+                  "created_utc": 1734630333.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2tbibz",
+          "author": "Hot-Refrigerator7237",
+          "body": "and stable machines running stable applications will remain stable as long as you don't continuously upgrade them.",
+          "score": 89,
+          "created_utc": 1734611910.0,
+          "replies": [
+            {
+              "id": "m2tvthv",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 39,
+              "created_utc": 1734619996.0,
+              "replies": [
+                {
+                  "id": "m2txiu0",
+                  "author": "sh1boleth",
+                  "body": "For stable applications the main justification to upgrade is to patch vulnerabilities, these old hardware are ridden with vulnerabilities - I doubt they\u2019re directly connected to the internet but anyone with physical access would be easily able to tamper with them compared to a modern system where just physical access isn\u2019t enough to break in.",
+                  "score": 21,
+                  "created_utc": 1734620583.0,
+                  "replies": [
+                    {
+                      "id": "m2ub59y",
+                      "author": "TjW0569",
+                      "body": "Yeah, it's a cash register. If you've got a crowbar, you can likely pry it open and get the cash.",
+                      "score": 10,
+                      "created_utc": 1734625051.0,
+                      "replies": [
+                        {
+                          "id": "m2umxd8",
+                          "author": "Azalus1",
+                          "body": "If it's a classic style cash register you don't even need a crowbar just slam it really hard towards the back of the register usually breaks the lock and the register will pop out.",
+                          "score": 3,
+                          "created_utc": 1734628958.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2utz2h",
+                          "author": "billbixbyakahulk",
+                          "body": "The POS system role is also to be a recorder of transactions, and that data is made available to other applications as needed. Do you know why you can check online if a store has something in stock? All this c64 is doing is item lookup and tabulation. Any other use of the data would require significant manual handling, which is slow, failure-prone and insecure in its own way.",
+                          "score": 1,
+                          "created_utc": 1734631715.0,
+                          "replies": [
+                            {
+                              "id": "m2xv9tu",
+                              "author": "thekernel",
+                              "body": "Given they are selling donuts made on premises daily, I doubt they have sophisticated inventory needs.\n\nIf the donut is visible, you buy.  No donut no buy.",
+                              "score": 1,
+                              "created_utc": 1734671114.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2uzwak",
+                      "author": "stellvia2016",
+                      "body": "Have you ever seen a tour of a modern datacenter? You aren't getting physical access to a system like this.\n\nAlso it goes the other way as well: The software has been around long enough that they've patched out all/most of the vulnerabilities. The more simple and longer it's been vetted, the more secure and reliable it is. One of the big reasons for constant vuln patching is *because* software continues to be iterated on and made with increased complexity.\n\nThe hardware vulns you're talking about are largely concentrated in exploits made possible by branch-prediction that makes CPUs more performant. Said older hardware doesn't use fancy techniques like that.\n\nI don't know what system they use for passing data to the mainframes, but I would assume there is a jump-server that resides straddling the network boundary and whose job it is to pass that data safely to the mainframe. The mainframe wouldn't have WAN access and you could even take it a step further where the jump server doesn't even have access to the mainframe outside of firewall rules that get enabled when it's time to settle the accounts at EOB.",
+                      "score": 1,
+                      "created_utc": 1734633625.0,
+                      "replies": [
+                        {
+                          "id": "m2v03hc",
+                          "author": "sh1boleth",
+                          "body": "I work in physical data center security and have toured some of the biggest data centers in the world lol, it\u2019s airtight - no way anyone is getting in but you always prep for the worst case and bad actors",
+                          "score": 2,
+                          "created_utc": 1734633688.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2uwegd",
+                  "author": "billbixbyakahulk",
+                  "body": "You are talking about UI which it could be argued needlessly or dramatically changes in some cases. But it's only a small part of the whole, in the same way a car is a lot more than the steering wheel and media console.",
+                  "score": 2,
+                  "created_utc": 1734632507.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2umeo7",
+                  "author": "smulfragPL",
+                  "body": "I dont think you understand technology",
+                  "score": 4,
+                  "created_utc": 1734628741.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2tyg70",
+              "author": "GhostDan",
+              "body": "haha no.\nFans die, hard drives die, motherboards fry. The average lifespan on the HARDWARE of a notebook computer is around 5 years. \n\nThe NYC subway ran OS/2 up until very recently, and it worked well for them, one of the reasons they upgraded was increased costs in finding old equipment or custom new equipment to keep things going. Hard to find a 64KB memory chip (or 2Mb if talking about OS/2) these days when your old one fries. They also upgraded because basic features were missing. I'm sure these registers are great, but they aren't processing credit cards or handling any banking features, like most common registers do.",
+              "score": 25,
+              "created_utc": 1734620904.0,
+              "replies": [
+                {
+                  "id": "m2uoaft",
+                  "author": "rick420buzz",
+                  "body": "Not too long ago, the main German railway system was looking for someone familiar with Windows 3.1\n\nI wonder if they filled that position.",
+                  "score": 9,
+                  "created_utc": 1734629540.0,
+                  "replies": [
+                    {
+                      "id": "m2uq6ps",
+                      "author": "Wafkak",
+                      "body": "I mean part of the reason Internet in some major German cities is shit, is because they were some of the first places in the world to get Internet. And people in charge aren't always convinced it's worth it to upgrade.",
+                      "score": 7,
+                      "created_utc": 1734630361.0,
+                      "replies": [
+                        {
+                          "id": "m2w62ym",
+                          "author": "PlayingDoomOnAGPS",
+                          "body": "The U.S. has suffered from this a lot, too. From NTSC to CDMA, the curse of the early adopter has hit us repeatedly over the years.",
+                          "score": 1,
+                          "created_utc": 1734647178.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m6ebil7",
+                          "author": "Civil_Information795",
+                          "body": "\"wow this new ISDN is so *FAST\"*\n\n  \nand to be honest, for a while it probably was! I remember thinking \"if only every download went at 10KB/s id be happy\"",
+                          "score": 1,
+                          "created_utc": 1736515064.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2undca",
+                  "author": "Mayor__Defacto",
+                  "body": "The fall of the Soviet Union was a godsend for NYCT, because they still had vacuum tube manufacturers in Russia.",
+                  "score": 11,
+                  "created_utc": 1734629144.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2ukl4o",
+              "author": "Bubba89",
+              "body": "Lmao that\u2019s not true at all. Entropy is unavoidable.",
+              "score": 7,
+              "created_utc": 1734628056.0,
+              "replies": []
+            },
+            {
+              "id": "m2w7adi",
+              "author": "NightFire19",
+              "body": "Ask Southwest how that turned out for them.",
+              "score": 1,
+              "created_utc": 1734647593.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2th33t",
+          "author": "zerotetv",
+          "body": "> Accounting hasnt changed all that much in 1000's of years.\n\nYou're right, but the needs of many stores have changed beyond just simple accounting. For example, it's pretty common to want to plug your POS into any inventory management, product information management, warehouse management, etc systems.",
+          "score": 36,
+          "created_utc": 1734614388.0,
+          "replies": [
+            {
+              "id": "m2u39a0",
+              "author": "None",
+              "body": "I\u2019ve worked with legacy systems throughout my career and as long as there\u2019s a way to get an output to disk then there\u2019s a way to integrate it into all of that. I would also wager that those systems nowadays are way more secure through obscurity than anything out in the market.\n\nNobody is going to try to ransomware your COBOL instance.",
+              "score": 19,
+              "created_utc": 1734622495.0,
+              "replies": [
+                {
+                  "id": "m2v0ly6",
+                  "author": "stellvia2016",
+                  "body": "Not to mention KISS: There are less features, so over the course of decades, most or all of the bugs have been resolved in the code. The CPUs are also fully understood, so I imagine they could be faithfully recreated in a 1:1 manner in an FPGA if necessary as well. You could probably have Kubernetes connected to a bunch of FPGAs and spin up new instances of the legacy VM as necessary.",
+                  "score": 6,
+                  "created_utc": 1734633855.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2uzsin",
+                  "author": "zerotetv",
+                  "body": "Yes, and that will work if you're ok with periodic updates. What I work with is immediate updates across all systems. Someone bought a product in the store? We can't wait until the next manual sync, we need to decrease stock count on the website(s) now. Product prices change at arbitrary times, when decisions are made, not once a day, and store/webstore prices need to be in sync.\n\nIf periodic manual syncs work, that's fair, it just doesn't work for everyone.",
+                  "score": 2,
+                  "created_utc": 1734633591.0,
+                  "replies": [
+                    {
+                      "id": "m2v1fw8",
+                      "author": "None",
+                      "body": "True. How fast is the polling rate though? Haven\u2019t had an issue with one minute polling rates if needed.",
+                      "score": 1,
+                      "created_utc": 1734634118.0,
+                      "replies": [
+                        {
+                          "id": "m2vdi0c",
+                          "author": "zerotetv",
+                          "body": "Ah, I thought you meant with a nightly sync or something. A minute would be fine for most of the stuff I work with.",
+                          "score": 2,
+                          "created_utc": 1734637964.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2y5gcn",
+                  "author": "green_dragon527",
+                  "body": "Yea I work with IBMis and stuff just works. There's still column delineated code in there from the 80s working just as good as ever. Yet it doesn't preclude being able to provide modern APIs to anything. I find them fascinating.",
+                  "score": 1,
+                  "created_utc": 1734676822.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2tz6nf",
+              "author": "GhostDan",
+              "body": "Inventory, centralized reporting, processing CCs, handling mobile payments, even payroll (clocking in and out) is handled by systems even 20 years old. \n\nIt's neat, and I'm glad it works for them, but let's not pretend this is a option for most businesses.",
+              "score": 2,
+              "created_utc": 1734621152.0,
+              "replies": [
+                {
+                  "id": "m2un6uj",
+                  "author": "Mayor__Defacto",
+                  "body": "Hell my inventory management is handled on paper. I can\u2019t afford the huge SAAS fees for having software for all of that. It doesn\u2019t make anything easier beyond looking up historicals anyway, because the data entry can\u2019t be automated.",
+                  "score": 1,
+                  "created_utc": 1734629069.0,
+                  "replies": [
+                    {
+                      "id": "m2v1mxy",
+                      "author": "stellvia2016",
+                      "body": "Companies do try to push everything \"into the cloud\" nowadays, but it is possible to still get on-prem versions of a variety of software.\n\neg: Splunk has free licenses to test/homelab it's capabilities, and the on-prem version (Enterprise) would easily handle general inventory management/POS data. You can spin up a docker container with it in minutes.\n\nBut I suppose if your inventory doesn't move much that it can be done on paper, you could almost scan the ledger every day and have the files dated and use that as your historical lookup heh",
+                      "score": 1,
+                      "created_utc": 1734634182.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m2zkwpk",
+                      "author": "GhostDan",
+                      "body": "Inventory data is absolutely automated on newer systems. Hell if you walk into some big box retailers they can use RFID tags to identify exactly where the product is, all automated. \nWhen a truck arrives at the location the system sees the trucks inventory (stored in a database) and imports it into the local inventory (or sets a flag that it's in a certain store). There's no one on the truck typing \"1 box of kleenex 180ct... 2 boxes of kleenex 180ct\" \nSame with restaurants. Sysco/Restaurant Depot and others have integrations into inventory systems you can configure and the same thing will happen.\n\n\nIn both situations, beyond historical data, there are benefits to not having to manually enter data (human error), automated ordering, inventory control, etc. \n\nYou can get a SaaS inventory system for about $50/month, or you can run your own locally, but most POS systems handle as part of their software, so I can imagine you haven't upgraded your POS in a while either.",
+                      "score": 1,
+                      "created_utc": 1734706067.0,
+                      "replies": [
+                        {
+                          "id": "m2zlcyk",
+                          "author": "Mayor__Defacto",
+                          "body": "Someone still has to encode the RFID tags. You\u2019re just moving the data entry.\n\nWhen you\u2019re in a small setup there\u2019s less value in a system like that because product isn\u2019t moving around so much. It goes from production, to bottling, to cases, cases get labeled, and then from there it\u2019s to customer. Production data must be stored on paper for legal reasons.",
+                          "score": 1,
+                          "created_utc": 1734706232.0,
+                          "replies": [
+                            {
+                              "id": "m3fnxwy",
+                              "author": "GhostDan",
+                              "body": "No one is encoding RFID tags. They are scanned. Do you really think the billions of RFID tags out there someone is phsycailly encoding them?\nNope. Someone scans the UPC, then scans the RFID tag, boom, done.\n\nDon't be so scared of technology",
+                              "score": 1,
+                              "created_utc": 1734961164.0,
+                              "replies": [
+                                {
+                                  "id": "m3fsdnb",
+                                  "author": "Mayor__Defacto",
+                                  "body": "You have to define what the UPC leads to. When everything is standardized that simplifies things a lot; when there are batch numbers that need to be added, you do need to encode things.",
+                                  "score": 1,
+                                  "created_utc": 1734963024.0,
+                                  "replies": [
+                                    {
+                                      "id": "m3h3ya4",
+                                      "author": "GhostDan",
+                                      "body": "UPC #s are set by the manufacturer. There's one UPC per item/size/flavor 99 times out of 100. \n\nHow do I know? I've managed thousands of items in inventory using the same exact method. That was the entire process. \n\nThe company making the item (or the distributor) sent me the item, it had a UPC code (yes, already registered in the inventory system, UPC code 00000822 is a hammer, for example). When an item came in that didn't have a RFID tag already I grabbed one from our stash, quite a few of our items already had RFID tags because despite your idea that this is super duper difficult, most major companies were using them or (5-10 years ago) doing a proof of concept about their use, I scanned the UPC code printed on the item, then I scanned the RFID tag. Done. \n\nIf the item already had RFIDs a LOT of the time I just had to release the batch in the system \"We've received shipment #1097321, 20 hammers, 20 RFID tags associated with the hammers\", even easier!\n\nYes. Someone somewhere ONCE had to type in \"UPC 0923476 are Red 12\" Hammers\", that's pretty standard for any retail inventory system, and it's typically someone at corporate unless you are a very small business.",
+                                      "score": 1,
+                                      "created_utc": 1734979330.0,
+                                      "replies": [
+                                        {
+                                          "id": "m3hb6v2",
+                                          "author": "Mayor__Defacto",
+                                          "body": "Problem: I\u2019m the manufacturer.\n\nIf I was a retailer, yes, absolutely makes sense.\n\nI\u2019m not the retailer. I have to encode the data. Lol. Each batch has different attributes to track, so I can\u2019t just make a single barcode and slap it on a box. Each box corresponds to a batch number (written on a label on the box), and each batch number has certain attributes. Bottling ABV, date of start, various other things that have to be tracked and so on.\n\nSo I\u2019d need a software that lets me create a centralized database where I can print off a unique code for each batch, to link it back to the database where I store the information.\n\nIt\u2019s not ultimately much different from what I currently do, which is have a binder with each batch\u2019s information, and label each case with the batch number (and the contents with bottle numbers and batch numbers for redundancy). If I need to go back to it, I just search through using the batch number.\n\nRather than buying a printer to print off precoded labels that I have to make up for each case, I can just write it on a blank label on the case.\n\nSince it\u2019s the same amount of work either way, why bother paying an extra $50 a month.",
+                                          "score": 1,
+                                          "created_utc": 1734981732.0,
+                                          "replies": [
+                                            {
+                                              "id": "m3vetw1",
+                                              "author": "GhostDan",
+                                              "body": "So you make 50k of an item and you think you need to encode each one? Why? And a single barcode slapped on a box is literally how retail works. Grab 20 cases of anything, same flavor and size, same barcode (with some exceptions, like between states where one might have bottle redemption and one might not). \n\nI'm guessing you just don't know how this all works and want to make it seem much more complicated than it is. I've been in manufacturing and in retail. I can guarantee you one of, if not the, least complicated processes is slapping a UPC on a million something once it's been registered once. \n\nWhen I sent something out in a batch it's not going to say \"This UPC belong to this RFID chip\" it's going to say \"Item 42342 with UPC 2134324 has RFID chips 238747-238801.",
+                                              "score": 1,
+                                              "created_utc": 1735220002.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m3vile5",
+                                                  "author": "Mayor__Defacto",
+                                                  "body": "I need to encode each set of 675, as each batch has a different set of corresponding documentation to track excise taxes paid, among other things. The government does not consider them to be fungible items.",
+                                                  "score": 1,
+                                                  "created_utc": 1735221720.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "m433yzj",
+                                                      "author": "GhostDan",
+                                                      "body": "Plenty of businesses work without RFID and the government isn't going after them. If you did have to track them you wouldn't be tracking via RFID tag numbers either, you'd be tracking them via serial number, which on more complicated excise forms that do require individual tracking use that as an identifier. \n\nYou are however tracking them in inventory by \"I have 40, the register just showed we bought one [by scanning the UPC], now I have 39. I got a shipment with a batch of 10, now I have 49\" some smart systems (like Amazon's stores) you don't even need the UPC to scan, it goes \"I have 40 of them.. Someone just walked out with a RFID assigned to this.  \n\nI'm going to ignore further posts, because at this point you are just making stuff up and you are boring me. If you are manually writing down all this information for tracking, well you do you. Most professional companies automate it.",
+                                                      "score": 1,
+                                                      "created_utc": 1735331209.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2uot69",
+                  "author": "BarbequedYeti",
+                  "body": ">It's neat, and I'm glad it works for them, but let's not pretend this is a option for most businesses\n\nActually it is. They just layer away from it via SQL etc. \u00a0Its been that way for eons. I spent a lot of time in HRIS doing just that. It allows for realtime transactions/updates etc while also keeping the order via the as400 or what not. Nightly or daily intervals of feeds back and forth to keep the layers in sync. \u00a0Its how a ton of businesses get the best of both worlds.",
+                  "score": 1,
+                  "created_utc": 1734629765.0,
+                  "replies": [
+                    {
+                      "id": "m2zjwon",
+                      "author": "GhostDan",
+                      "body": "These are commodore 64s, not AS/400s (which are regularly updated and upgraded). zerotetv says accounting hasn't changed so why upgrade from the commodore 64s.\n\nThere's a lot of reasons, first being that while they can connect to the internet with some fancy work, they can't support any type of modern encryption, so they can't handle bank updates, credit card processing, or anything else really beyond sending clear text via a terminal. You couldn't do payroll or inventory, which most major registers now support. \n\nLike I said it's neat, and it works for them, but this is NOT an option for most businesses, and they are actively making their own jobs more difficult by not upgrading.",
+                      "score": 0,
+                      "created_utc": 1734705693.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2thyzw",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 18,
+          "created_utc": 1734614754.0,
+          "replies": [
+            {
+              "id": "m2tj71u",
+              "author": "PainfulRaindance",
+              "body": "As400.  Finally retired one a few years ago that had been running for almost 3 decades.",
+              "score": 17,
+              "created_utc": 1734615252.0,
+              "replies": []
+            },
+            {
+              "id": "m2u0an1",
+              "author": "GhostDan",
+              "body": "Probably AS/400s. They made fully branded AS/400s until the early 2000s and then rebranded them to the \"Power System\" line (they were/are based on PowerPC processors now so I'm guessing this is a nod to that), the last model was Power S1012 in 2024. \n\nThe AS/400s were awesome for a couple reasons. They worked really well in terminal situations (like you have) and did well with numbers (accounting, statistics) , on top of that they had/have cutting edge self-repair features, so they can be largely put into place and ignored for years or even decades until hardware needs replacement, so a financial institution still running them isn't surprising. I wouldn't be surprised to still see them running a AS/400 or Power series computer.\n\nWhen I worked IT for Walgreens for a brief time every store had it's own AS/400. They were super common in retail because of the features I mentioned above. They could handle a ton of registers (even at a time when most systems couldn't) and kept track of everything with ease.",
+              "score": 10,
+              "created_utc": 1734621524.0,
+              "replies": [
+                {
+                  "id": "m2umamx",
+                  "author": "Mayor__Defacto",
+                  "body": "At the same time you see people trying to \u201cdisrupt\u201d the finance industry by putting shiny wrappers on these systems, I think it\u2019s hilarious how many billions have been thrown away trying to fix something that isn\u2019t broken.",
+                  "score": 6,
+                  "created_utc": 1734628694.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2v2w4i",
+                  "author": "stellvia2016",
+                  "body": "Yeah, it's my understanding they make sure the Power systems are fully compatible with code written for most of the earlier mainframes like the AS/400 and 360. In their case, I think it transcodes the old code into the instruction set of the newer CPU.",
+                  "score": 3,
+                  "created_utc": 1734634578.0,
+                  "replies": [
+                    {
+                      "id": "m2zk02n",
+                      "author": "GhostDan",
+                      "body": "Did they switch from the PowerPC architecture? I didn't see that but it wouldn't surprise me.",
+                      "score": 1,
+                      "created_utc": 1734705729.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2uq2x9",
+                  "author": "marcus905",
+                  "body": "I learned to love and hate them. Had to develop a \"translator\" to make a rest service for a web UI to be able to read data from a system/36 table inside of an old AS400 with all custom EBCDIC and zoned/packed decimal conversions built-in. So much weird stuff, but really really reliable as it was running continuously for like 10 years.",
+                  "score": 2,
+                  "created_utc": 1734630316.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2tuewc",
+              "author": "rebbsitor",
+              "body": "> DOS-based mainframe\n\nIt's probably running IBM i (formerly OS/400).",
+              "score": 18,
+              "created_utc": 1734619501.0,
+              "replies": []
+            },
+            {
+              "id": "m2txfeb",
+              "author": "september27",
+              "body": "I work in sales/cust service at a 50 year old family owned manufacturing company, our customer and product database software was built and installed...maybe 30 years ago? Hasn't changed a lick, and it works great.",
+              "score": 4,
+              "created_utc": 1734620550.0,
+              "replies": []
+            },
+            {
+              "id": "m2uncta",
+              "author": "huuaaang",
+              "body": "I'm sure it's not DOS based, LOL. Maybe the clients are, but not the mainframe.",
+              "score": 1,
+              "created_utc": 1734629137.0,
+              "replies": []
+            },
+            {
+              "id": "m2usaqo",
+              "author": "i_was_a_person_once",
+              "body": "Worked at one of the big Wall Street firms. Can confirm the green text on black screen systems. You had to press Y/N kinda commands to move through it. And it definitely was the most reliable system.\n\nMade me feel like I was playing video games in elementary school",
+              "score": 1,
+              "created_utc": 1734631157.0,
+              "replies": [
+                {
+                  "id": "m2usqkg",
+                  "author": "sadiane",
+                  "body": "Lucky with the y/n commands :) we just have to memorize the commands, which don\u2019t seem to be written down anywhere all in one place. \n\nIt\u2019s only been down twice in the nearly 20 years I\u2019ve been here. Our in house web-based stuff is on the fritz at least once a week",
+                  "score": 1,
+                  "created_utc": 1734631305.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2wsmny",
+              "author": "kb_hors",
+              "body": "There's no such thing as a \"DOS-based mainframe\". \n\nDOS is a very crude operating system (it barely even qualifies as one, functionally), which can just about read a disk and load one program, which then hijacks the whole machine. DOS lives on very simple small singletasking computers.\n\nA mainframe is designed to do tens of thousands of things simultaneously without slowing down, while being used by thousands of people simultaneously - both directly with their own terminal and user account, and indirectly i.e interacting with a cash register. Often a mainframe will be pretending to be several different machines via a process called virtualization. So not only do you have multitasking but you have to have exceedingly complex system of permissions and resource allocation.\n\nThat \"green text on black screen\" is a terminal.",
+              "score": 1,
+              "created_utc": 1734655408.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2t9t51",
+          "author": "FreneticPlatypus",
+          "body": "But how will they get their monthly windows updates that fuck up some obscure setting that you have spend an afternoon learning about to get back up and running?",
+          "score": 41,
+          "created_utc": 1734611073.0,
+          "replies": [
+            {
+              "id": "m2td797",
+              "author": "LupusDeusMagnus",
+              "body": "That\u2019s not really a windows problem, if anything the reason why windows used so much is because they go above and beyond to make sure everything is compatible even at the cost of present performance.",
+              "score": -17,
+              "created_utc": 1734612699.0,
+              "replies": [
+                {
+                  "id": "m2tmbjz",
+                  "author": "FreneticPlatypus",
+                  "body": "So everything WAS compatible before the update and not everything is compatible after the update\u2026 and that\u2019s because windows does such a good job being compatible with all the things I DIDN\u2019T need or want in the first place? Gotcha.",
+                  "score": 11,
+                  "created_utc": 1734616492.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2tekmx",
+                  "author": "Zealousideal_Rate420",
+                  "body": "Not fully sure about that. **Linux rant incoming**\n\nAlmost any modern x32 distro can run in computers of XP era with no tweaks. Some of the lightest ones are also the ones focused for the greatest compatibility, specially for older hardware.\n\nW11, after dropping support for \"old\" (mine, BTW) CPUs should be light, but it's not.",
+                  "score": 13,
+                  "created_utc": 1734613310.0,
+                  "replies": [
+                    {
+                      "id": "m2tq3yd",
+                      "author": "ahj3939",
+                      "body": "If your computer is so old it can't run W11 with the patch (which is basically a .cfg file you put on the install disc) then it's time to upgrade your computer.",
+                      "score": -11,
+                      "created_utc": 1734617934.0,
+                      "replies": [
+                        {
+                          "id": "m2trwu6",
+                          "author": "schizeckinosy",
+                          "body": "Disposable society thinking.  My media PC is so old, it was made by gateway.  When a lightning strike scrambled the old windows that was on it, I put Linux on and kept on trucking.  I\u2019ll replace it when I have to, not when a software company says I should for their benefit.",
+                          "score": 11,
+                          "created_utc": 1734618597.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2tydh4",
+                          "author": "Zealousideal_Rate420",
+                          "body": "Ironic, seeing the article",
+                          "score": 2,
+                          "created_utc": 1734620878.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2uqxfs",
+                          "author": "sighthoundman",
+                          "body": "My brother's two biggest rants are clients who won't replace their hardware that isn't working because \"it's not fully depreciated yet\" and those who replace their perfectly good hardware because \"it's fully depreciated\".\n\nYear after year after year.",
+                          "score": 1,
+                          "created_utc": 1734630669.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2tep9t",
+                  "author": "BadDaditude",
+                  "body": "ItS a FeAtUrE nOt A bUg!!",
+                  "score": 9,
+                  "created_utc": 1734613367.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2talde",
+              "author": "phoneacct696969",
+              "body": "This has never happened to me in my life.",
+              "score": -14,
+              "created_utc": 1734611461.0,
+              "replies": [
+                {
+                  "id": "m2tedrr",
+                  "author": "hyperforms9988",
+                  "body": "A Windows update caused both Cyberpunk 2077 and Rocksmith 2014 to randomly stop working for me (probably other games too, but these are the two I actually noticed).  I eventually figured out that I needed to download practically all of the old Visual C++ Redistributable packages in order to get CP2077 to start up again (God knows why, but welcome to computers... it ran before, so are you telling me a Windows update ate one or more of these?), and I never did figure out how to get Rocksmith 2014 to run again.  I've seen all kinds of shit recommended for that one... even down to opening up Device Manager and uninstalling/disabling audio devices that you don't use because RS2014 was apparently programmed in such a way that you can only have like 10 audio devices or else it crashes.  That is *obscure*.  Shit like that happens... and sure, these are games, but games are still very heavy software applications that rely on a lot of things to work.",
+                  "score": 14,
+                  "created_utc": 1734613226.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2u2d05",
+          "author": "mdonaberger",
+          "body": "years ago, i was talking to a retired engineer on facebook, and he mentioned that the motor that spins the Seattle Space Needle clocks in at a single horsepower. I expressed shock at this, expecting something so heavy to be spun by something a little beefier.\n\nHis response was, \"they could do that. but it's on a pivot, and that little motor is all it needs. why change it?\"\n\nFor some reason, I always admired that response. Wish more computing had that attitude.",
+          "score": 8,
+          "created_utc": 1734622200.0,
+          "replies": [
+            {
+              "id": "m2uny6b",
+              "author": "Mayor__Defacto",
+              "body": "Most things don\u2019t need all that much power to move. It\u2019s all about properly supporting it.",
+              "score": 4,
+              "created_utc": 1734629393.0,
+              "replies": []
+            },
+            {
+              "id": "m2w3ux1",
+              "author": "Lv_InSaNe_vL",
+              "body": "So *technically* it was upgraded to ~1.5hp motor in the 1960s.\n\nBut that 1.5hp also makes like 370k ft-lbs (just over half a million newton meters) of torque.",
+              "score": 3,
+              "created_utc": 1734646419.0,
+              "replies": []
+            },
+            {
+              "id": "m2wt3ck",
+              "author": "kb_hors",
+              "body": "The thing to remember is the space needle takes about an hour to complete one rotation.",
+              "score": 2,
+              "created_utc": 1734655579.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2uxagc",
+          "author": "stellvia2016",
+          "body": "The important caveat to that is: IBM continues to release new mainframe systems, but carefully guarantees older code will still operate exactly like it did on the original hardware.\n\nSo I assume they can get benefits of better power efficiency etc. then instead of trying to keep some 1980s AS400 running. (Although that also still happens...)",
+          "score": 8,
+          "created_utc": 1734632793.0,
+          "replies": []
+        },
+        {
+          "id": "m2u17sw",
+          "author": "CO_PC_Parts",
+          "body": "I worked in grocery logistics about 12 years ago.  Our mainframe was an IBM AS/400 that had been running since 1993 and hadn't been fully shutdown in I think roughly 15 years.  There was maintenance that we needed (I wasn't on this team but worked in IT) and the day of IBM contractors came out to help and brought an entire TRUCK full of spare parts just in case.  The biggest fail point was the power supplies and there was a good chance some parts just wouldn't turn back on.  \n\nI remember seeing the pile of parts that were upgraded/replaced and everything actually went smoothly.  I still have a few friends who work there and I bet that thing hasn't turned off/rebooted since.",
+          "score": 9,
+          "created_utc": 1734621827.0,
+          "replies": [
+            {
+              "id": "m2v3a12",
+              "author": "stellvia2016",
+              "body": "Ironically enough, never rebooting or turning it off is probably one of the reasons it is so reliable: Smooth and steady is the best. HDDs often fail because of power-saving features that spin down platters when not in use. Great for power efficiency, not so great for the durability of the drives.",
+              "score": 3,
+              "created_utc": 1734634699.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2vczys",
+          "author": "sittinginaboat",
+          "body": "And why Cobol programmers are still needed.",
+          "score": 5,
+          "created_utc": 1734637805.0,
+          "replies": [
+            {
+              "id": "m2yrvx7",
+              "author": "CaptainPunisher",
+              "body": "COBOL isn't going away, ever. Everything new is just a fancier way of connecting to it. It's far too stable and widespread to ever be removed.",
+              "score": 2,
+              "created_utc": 1734692270.0,
+              "replies": [
+                {
+                  "id": "m2ysfy9",
+                  "author": "sittinginaboat",
+                  "body": "And, it's fast.",
+                  "score": 2,
+                  "created_utc": 1734692639.0,
+                  "replies": [
+                    {
+                      "id": "m2yskpk",
+                      "author": "CaptainPunisher",
+                      "body": "Yep. Very simple instructions make things quick.",
+                      "score": 2,
+                      "created_utc": 1734692724.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m39g20b",
+                  "author": "SolidOutcome",
+                  "body": "Everything compiles to Cobol???\n\nCobol isn't assembly? ...is Cobol native? Wtf you talking about....everything compiles to native assembly, and the closest wrapper to assembly is typically C, or C++.\n\nIdk anything about Cobol. But I know everything is C->assembly",
+                  "score": 0,
+                  "created_utc": 1734859067.0,
+                  "replies": [
+                    {
+                      "id": "m39gbir",
+                      "author": "CaptainPunisher",
+                      "body": "I said nothing about compilation. The word I used was CONNECTS.",
+                      "score": 1,
+                      "created_utc": 1734859262.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2tqliz",
+          "author": "lordraiden007",
+          "body": "But their transactions aren\u2019t even on the blockchain /s",
+          "score": 4,
+          "created_utc": 1734618114.0,
+          "replies": []
+        },
+        {
+          "id": "m2uoncn",
+          "author": "jeepsaintchaos",
+          "body": "Without a snazzy GUI, it's surprising how little power a computer actually needs. I have an old laptop I converted to a server, and it works so much better as a server it's not funny.",
+          "score": 4,
+          "created_utc": 1734629694.0,
+          "replies": []
+        },
+        {
+          "id": "m2udy11",
+          "author": "Kumirkohr",
+          "body": "We\u2019ve got ICBM silos still running on 8\u201d floppies",
+          "score": 3,
+          "created_utc": 1734625947.0,
+          "replies": [
+            {
+              "id": "m2urg3p",
+              "author": "persondude27",
+              "body": "I show you an 8\" floppy...\n\nKidding. I didn't even know that was a thing. I knew about 5.25\". Wow.",
+              "score": -1,
+              "created_utc": 1734630867.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2us7nr",
+          "author": "dart51984",
+          "body": "I used to work for Fidelity. Woah man, you are correct. The DOS looking bullshit that is hard coded into the banking system is honestly startling the first time you see it.",
+          "score": 3,
+          "created_utc": 1734631128.0,
+          "replies": []
+        },
+        {
+          "id": "m2vmj4n",
+          "author": "OnlyTalksAboutTacos",
+          "body": "half of the stores I worked customer service at were running 20 year old unix systems (20 years ago). probably still are.",
+          "score": 3,
+          "created_utc": 1734640877.0,
+          "replies": []
+        },
+        {
+          "id": "m2upync",
+          "author": "billbixbyakahulk",
+          "body": "This is the dumbest comparison ever. I've worked on c64s and mainframes. A c64 is nothing like a mainframe. People associate the two because everyone assumes mainframes are \"old tech\" that's just kept running, but mainframes aren't old tech. They still make them, constantly innovate to meet modern business and security requirements, and are still the overwhelming preference in banking. They've retreated from typical mid-size businesses but they're still very much alive and well. The c64 is an antiquated computer device, full stop. Go to that bakery and ask them to email you your receipt...",
+          "score": 5,
+          "created_utc": 1734630265.0,
+          "replies": [
+            {
+              "id": "m2urkne",
+              "author": "BarbequedYeti",
+              "body": "Its not a comparison of the two machines... \u00a0its a comparison of certain processes do not need fancy new hardware or databases.\u00a0\n\nFinance being one of those. This being a cash register falls into the category.\u00a0",
+              "score": 1,
+              "created_utc": 1734630912.0,
+              "replies": [
+                {
+                  "id": "m2v0ryq",
+                  "author": "billbixbyakahulk",
+                  "body": "> Finance being one of those.\n\nThe \"cash registers\" (POS systems) of today play an important role that allows you to check real-time inventory online before you get in the car and drive out there. They can spot unusual patterns to detect if employees are stealing. Their inventory integration features inform future purchasing so the store buys the right amount of x and maybe stops buying y altogether because it's not profitable. The far more real time data gives insight into seasonal and even time-of-day trends. \n\nYou can run a donut shop on a metal box with a calculator strapped to it. You can't run a Target or Home Depot that way.",
+                  "score": 0,
+                  "created_utc": 1734633906.0,
+                  "replies": [
+                    {
+                      "id": "m2viagx",
+                      "author": "balcon",
+                      "body": "And you can\u2019t doodle with a wet noodle, yet people still try.",
+                      "score": 0,
+                      "created_utc": 1734639518.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2t7e4q",
+          "author": "LostMyBackupCodes",
+          "body": ">Accounting hasnt changed all that much in 1000's of years.\n\nUmm, modern accounting is based on double entry book keeping which is about 900 years old. And don\u2019t get me started on IFRS and US GAAP, and audit controls. \n\nSource: accountant that has to stay on top of his CPD hours.",
+          "score": 13,
+          "created_utc": 1734609833.0,
+          "replies": [
+            {
+              "id": "m2tacy3",
+              "author": "Plank_With_A_Nail_In",
+              "body": "Basic book keeping hasn't changed since computerisation. I don't really think people interpreted his 1000's of years literally so not sure the \"correction\" was really needed.",
+              "score": 11,
+              "created_utc": 1734611346.0,
+              "replies": [
+                {
+                  "id": "m2ua0wl",
+                  "author": "LostMyBackupCodes",
+                  "body": ">I don't really think people interpreted his 1000's of years literally\n\nBut numbers matter!\n\nSource: accountant",
+                  "score": 10,
+                  "created_utc": 1734624691.0,
+                  "replies": [
+                    {
+                      "id": "m2uivh3",
+                      "author": "billbixbyakahulk",
+                      "body": "You don't say.",
+                      "score": 1,
+                      "created_utc": 1734627502.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2u4ufc",
+                  "author": "None",
+                  "body": "Yeah and besides it wasn\u2019t 900 years. Double entry is more like 500 years old. That\u2019s a material weakness and I\u2019ll have to issue an adverse opinion.",
+                  "score": -1,
+                  "created_utc": 1734623012.0,
+                  "replies": [
+                    {
+                      "id": "m2u92no",
+                      "author": "LostMyBackupCodes",
+                      "body": "If you\u2019re Eurocentric, sure. Luca ftw. \ud83c\uddea\ud83c\uddfa\n\nBut Al-Khwarizmi introduced double entry bookkeeping 1100 years ago. I was off by 200 years, out of 1100. Imm, pass. NFWCN.",
+                      "score": 1,
+                      "created_utc": 1734624382.0,
+                      "replies": [
+                        {
+                          "id": "m2upfwl",
+                          "author": "Limos42",
+                          "body": "If you're accepting being off by more than a single digit, you're like no other account I've ever known, or worked for.\n\nThose peeps are rabid in their desire to figure out why they're off by a penny.   \"Close enough, dude\" just doesn't cut it.",
+                          "score": 0,
+                          "created_utc": 1734630040.0,
+                          "replies": [
+                            {
+                              "id": "m2upxjv",
+                              "author": "LostMyBackupCodes",
+                              "body": "Materiality is based on the needs of the user, not on \u201coff by x number of digits\u201d. \n\nSo I got my point across that modern double entry bookkeeping is about 1000 years old (1100-900 is an acceptable range), not thousands and not 500.  \n\nClose enough does cut it, but you have to know how to define close enough. If your friends don\u2019t understand materiality and are looking for pennies then they\u2019re costing their organization more than they should.",
+                              "score": 1,
+                              "created_utc": 1734630252.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2v3mxj",
+              "author": "stellvia2016",
+              "body": "Accounting was probably the class I ended up studying the most for. I went to all the study sessions and practice tests etc. and still only managed a C+. Ironically enough, my mom was an accountant for 30 years.\n\nI stick to my lane in IT/programming instead heh",
+              "score": 1,
+              "created_utc": 1734634810.0,
+              "replies": []
+            },
+            {
+              "id": "m2th6vg",
+              "author": "alextheruby",
+              "body": "![gif](giphy|Ha0EGqNWHD7Vbn3oxI|downsized)",
+              "score": -4,
+              "created_utc": 1734614433.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2tp4lw",
+          "author": "50calPeephole",
+          "body": "[It ain't no joke](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwait-until-you-see-the-data-in-hospitals-v0-uwrv5tu2ewh91.png%3Fauto%3Dwebp%26s%3D195f91c559facee97ad5cfc2651379a1234f0b22)",
+          "score": 1,
+          "created_utc": 1734617568.0,
+          "replies": []
+        },
+        {
+          "id": "m2ude6v",
+          "author": "La_mer_noire",
+          "body": "Aren't modern mainframes much much faster than they used to be ?",
+          "score": 1,
+          "created_utc": 1734625774.0,
+          "replies": [
+            {
+              "id": "m2uioaf",
+              "author": "Deep_Pudding2208",
+              "body": "where can I learn about this? I'm pulling hairs at my work why the mainframe system at my work can handle stuff better than the \"modern\" Apache spark on eks system that we are trying to replace it with.",
+              "score": 1,
+              "created_utc": 1734627439.0,
+              "replies": [
+                {
+                  "id": "m2ujr8y",
+                  "author": "None",
+                  "body": "Deep dark corners of /r/sysadmin.",
+                  "score": 2,
+                  "created_utc": 1734627786.0,
+                  "replies": [
+                    {
+                      "id": "m2ulnyf",
+                      "author": "Bubba89",
+                      "body": "You\u2019ll get better advice and more experienced technicians at /r/shittysysadmin",
+                      "score": 1,
+                      "created_utc": 1734628443.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2wx07i",
+              "author": "DNAblue2112",
+              "body": "Yup, that latest Z16 systems even have AI coprocessors",
+              "score": 1,
+              "created_utc": 1734657055.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2ug6s5",
+          "author": "spiritofniter",
+          "body": "At my work site (pharma industry), we have a number of machines running Windows XP. Some even run Windows 95.",
+          "score": 1,
+          "created_utc": 1734626657.0,
+          "replies": []
+        },
+        {
+          "id": "m2umx3l",
+          "author": "jeffvaes",
+          "body": "This also applies to bridges, traffic light control systems and all kinds of utility controllers that are hooked up to the internet. 75% of it is still connected by a low bandwidth old fashioned DSL connection.",
+          "score": 1,
+          "created_utc": 1734628955.0,
+          "replies": []
+        },
+        {
+          "id": "m2uo3zy",
+          "author": "LetterBoxSnatch",
+          "body": "Luca Pacioli, \"the father of accounting,\" is credited with inventing the double ledger system in 1494. Pretty huge revolutionary change to accounting. But except for the thousands of years part, your point still stands.",
+          "score": 1,
+          "created_utc": 1734629463.0,
+          "replies": [
+            {
+              "id": "m2uq0r9",
+              "author": "BarbequedYeti",
+              "body": "I do not know the history of it exactly and am curious. Is the underneath process the same for double ledger as the system it replaced? \u00a0So did he say we are taking what we currently do and adding another column or two? \u00a0Or what i guess i am asking is what changed? \u00a0\n\nI would think the underlying process is the same with an additional field or was it a complete change in principle?",
+              "score": 1,
+              "created_utc": 1734630290.0,
+              "replies": [
+                {
+                  "id": "m31bxfy",
+                  "author": "LetterBoxSnatch",
+                  "body": "Fundamental shift in accounting for things. In double entry, you cannot have a + field without also having a corresponding - field. All values must eventually account to 0. Total game changer because it created a proof of exchange that could be traced back to any arbitrary transaction, removing a lot of potential for fraud both internally and with external parties. If an account owes something, there's a corresponding entry where somebody gained something, and if somebody gained something, there's a corresponding entry where somebody gave something. Not just a money thing, but for the accounting of anything, changed trade as we know it.",
+                  "score": 1,
+                  "created_utc": 1734727377.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2uo414",
+          "author": "alpha_ray_burst",
+          "body": "I think the bigger reason is because the finance industry has built incredibly large and complex systems that are difficult to rebuild from scratch on new platforms and/or migrate without risking costly downtime.\n\nSource: I\u2019m a cloud infrastructure engineer and have been working in the finance industry (including at the world\u2019s largest payment processor) for 5+ years.",
+          "score": 1,
+          "created_utc": 1734629464.0,
+          "replies": [
+            {
+              "id": "m2uvh7t",
+              "author": "hellcat_uk",
+              "body": "So much this. Currently working to resolve migration issues with a moderate size company finance department. Hundreds of spreadsheets pulling pivots and other lookups from each other. How they've avoided a circular reference I'm really not sure. Luck probably.",
+              "score": 1,
+              "created_utc": 1734632210.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2upkqa",
+          "author": "sighthoundman",
+          "body": "\\>Accounting hasnt changed all that much in 1000's of years.\n\nMore accurately, in about 1000 years.\n\nListing your expenses and receipts goes back 1000s of years. Double entry bookkeeping and balancing accounts was brought to Europe by Fibonacci (among others) around 1200. From the Western world's most advanced civilization, the Ayyubid Sultanate. (Or maybe the Abbasid Caliphate. They were pretty much neck and neck.)",
+          "score": 1,
+          "created_utc": 1734630098.0,
+          "replies": []
+        },
+        {
+          "id": "m2uqjw5",
+          "author": "WhatIsThisSevenNow",
+          "body": "Oh, it's not just the finance industry running these old dinosaurs.",
+          "score": 1,
+          "created_utc": 1734630515.0,
+          "replies": []
+        },
+        {
+          "id": "m2v0g58",
+          "author": "CreativeGPX",
+          "body": "It's not that there is no reason to change, it's that the transition period is risky: You're stuck on a raft in the middle of the ocean. You see a ship on the horizon. Do you swim for it or stay on the raft? That is what it is. The raft isn't good. The ship is better. But swimming is dangerous and might even fail.",
+          "score": 1,
+          "created_utc": 1734633802.0,
+          "replies": []
+        },
+        {
+          "id": "m2v55z6",
+          "author": "scrivensB",
+          "body": "For a small business that doesn\u2019t need a lot of backend accounting, why not. Just simple transactions and an end of day report. \n\nMy question would be more about how do they do this with credit cards?",
+          "score": 1,
+          "created_utc": 1734635301.0,
+          "replies": []
+        },
+        {
+          "id": "m2v7201",
+          "author": "redditisahive2023",
+          "body": "Company work for still has an AS400 for daily operations.",
+          "score": 1,
+          "created_utc": 1734635908.0,
+          "replies": []
+        },
+        {
+          "id": "m2va1j7",
+          "author": "andrew_1515",
+          "body": "Also, the first evidence we have of writing is used for accounting. Found in the first city of Uruk, thanks The Rest is History.",
+          "score": 1,
+          "created_utc": 1734636858.0,
+          "replies": []
+        },
+        {
+          "id": "m2vm9mf",
+          "author": "dreevsa",
+          "body": "What\u2019s the best way to learn accounting?",
+          "score": 1,
+          "created_utc": 1734640793.0,
+          "replies": []
+        },
+        {
+          "id": "m2vpj7a",
+          "author": "jfkfnndnd",
+          "body": "There is definitely a need to change it, and banks do upgrade them slowly. But risk often outweighs the reward",
+          "score": 1,
+          "created_utc": 1734641825.0,
+          "replies": []
+        },
+        {
+          "id": "m2w2udb",
+          "author": "trunts",
+          "body": "I like to think it's because a lot of those businesses use COBOL, and no one wants to learn COBOL and live with the shame of knowing such a dreadful language. \n\n\nDon't mind me. I personally do not like COBOL or BASIC. They hurt me.",
+          "score": 1,
+          "created_utc": 1734646076.0,
+          "replies": []
+        },
+        {
+          "id": "m2wcmgo",
+          "author": "Fredasa",
+          "body": "The Continental still uses VIC-20s.",
+          "score": 1,
+          "created_utc": 1734649470.0,
+          "replies": []
+        },
+        {
+          "id": "m2xizz2",
+          "author": "EntertainmentAOK",
+          "body": "That is a gross oversimplification of the reason mainframes are still in use. If it were a simple thing to change, no the alternatives were as good or better, they would. The fact is it is not and they are not (always.) Mainframes are the most secure system on the planet. They have mean time before failure measured in decades. Etc.",
+          "score": 1,
+          "created_utc": 1734665625.0,
+          "replies": []
+        },
+        {
+          "id": "m2xm3bv",
+          "author": "TechGentleman",
+          "body": "And free from the risk of hackers.",
+          "score": 1,
+          "created_utc": 1734666909.0,
+          "replies": []
+        },
+        {
+          "id": "m2ya91r",
+          "author": "passwordstolen",
+          "body": "Yea, but everything breaks eventually. Unless you are a magician.",
+          "score": 1,
+          "created_utc": 1734679887.0,
+          "replies": []
+        },
+        {
+          "id": "m2yl2ba",
+          "author": "Ghost273552",
+          "body": "600ish when double entry accounting was in Venice",
+          "score": 1,
+          "created_utc": 1734687536.0,
+          "replies": []
+        },
+        {
+          "id": "m2yly1m",
+          "author": "Samtoast",
+          "body": "What do they do when a replacement part is needed...do they still make cpus to fit these old sockets or what",
+          "score": 1,
+          "created_utc": 1734688169.0,
+          "replies": []
+        },
+        {
+          "id": "m311hh1",
+          "author": "jellotalks",
+          "body": "What happens if you want to run reports on that data?",
+          "score": 1,
+          "created_utc": 1734723808.0,
+          "replies": [
+            {
+              "id": "m313abf",
+              "author": "BarbequedYeti",
+              "body": "Nothing. Plenty of reporting in mainframes. \u00a0Worst case you export it nightly to a sql database that you can do anything with.\u00a0\n\nOne place I worked at had a super old payroll system. They didnt want to touch it but wanted more flexibility. \u00a0Easy enough. We built an entire HRIS system from scratch as there wasnt any real decent canned solutions yet.\u00a0\n\nThe HR/payroll team worked in that web environment. Changes would be fed nightly to the old payroll system for processing. Win win. \u00a0\n\nHell, today with products like boomi, you can have real time changes across all kinds of systems without much fuss as long as you can build a connector to it. \u00a0It's pretty impressive when done right.\u00a0",
+              "score": 2,
+              "created_utc": 1734724420.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m316yhq",
+          "author": "ClothesNo6663",
+          "body": "Actually \"because it works is a bad reason to keep it\" because at some point in time you will not be able to get the required Hardware/Platform/Software to run it or it will get extremly hard to find OPS and DEV people that can handle legacy stuff. It is for a reason that you have to Patch modern Software with security and library updates on a regular Basis. If you forget to migrate your legacy Software then there will be the Situation that you have to and you can not handle the complexity to do it anymore.",
+          "score": 1,
+          "created_utc": 1734725667.0,
+          "replies": []
+        },
+        {
+          "id": "m36kcgg",
+          "author": "g1n3k",
+          "body": "What do you mean exactly?\n\n Mainframes are still produced, as always they are leading in new technologies (that comes into PC world a few decades later) and as always there are still main choice for the business case where transaction throughput, scalability, redundancy and reliability are the required features. So as you say, banks, taxing service, insurance companies, etc...",
+          "score": 1,
+          "created_utc": 1734810860.0,
+          "replies": []
+        },
+        {
+          "id": "m2uiu5g",
+          "author": "Detroit_debauchery",
+          "body": "Writing was invented for accounting purposes",
+          "score": 1,
+          "created_utc": 1734627490.0,
+          "replies": []
+        },
+        {
+          "id": "m2vaxdv",
+          "author": "trebblecleftlip5000",
+          "body": "As someone from this field, \"it works\" is not the reason they're still in use. The reason they're still in use is because \"We're afraid to touch the magic wizard artifact that we don't know how it works. We found a guy who can handle it, but he costs too much.\"\n\nEveryone who has to interface with these things is putting up with workarounds and other bullshit because they can't be maintained, expanded, or fixed.\n\nThey need to be replaced in a bad way, but the list of professionals with the ability to replace them without hiccups is very low, and therefore very expensive.\n\nMost \"backend finance is still running on this\" stories are a myth. They've upgraded. Only old companies running on rails and no budget, some govt institutions, and that one place run by an incompetent manager are still running on this old garbage.",
+          "score": 1,
+          "created_utc": 1734637142.0,
+          "replies": []
+        },
+        {
+          "id": "m2wrf52",
+          "author": "kb_hors",
+          "body": "Yeah mainframes are still running backend finance, but that doesn't mean it's still literally the same mainframes installed in the 1970s. They're using new ones, which are about the size of a wardrobe.\n\nSomething to consider is that a lot of what we call \"cloud computing\" is actually just reinventing the mainframe. S3 buckets, the ability to spin up readymade VMs instantly, billing for allocated resources... This is all what mainframes have been about for 50 years. We've gone full circle.",
+          "score": 1,
+          "created_utc": 1734654958.0,
+          "replies": []
+        },
+        {
+          "id": "m2tjaqw",
+          "author": "Skim003",
+          "body": "I told a recent college graduate hire at work that mainframe is how you jack into the Matrix.",
+          "score": 0,
+          "created_utc": 1734615294.0,
+          "replies": []
+        },
+        {
+          "id": "m2uph4z",
+          "author": "GeeMcGee",
+          "body": "1000s? Gross exaggeration",
+          "score": 0,
+          "created_utc": 1734630055.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2to2ja",
+      "author": "gt24",
+      "body": "If people want to know more, Google revealed the following link. I'll quote the relevant bits.\n\n> ... I asked how long he had been using them and he said he\noriginally got them from Sears back in the early 80's. He wrote some custom\ncode in assembler because he couldn't find anything that would take\nIndiana's weird tax laws into account. His bakery has been open since 1974.\n> \n> ... I asked how he interfaced the cash drawers to his system and he explained\n> they were not connected. They just manually open them after the sale is\n> entered into the Commodores.\n>\n> https://www.lemon64.com/forum/viewtopic.php?p=436496#p436496",
+      "score": 87,
+      "created_utc": 1734617167.0,
+      "replies": [
+        {
+          "id": "m2yc5ln",
+          "author": "shitty_mcfucklestick",
+          "body": "My remaining question is data storage\u2026 do they store records digitally too? And on what? Floppies, cassette? Or do they do a big ol dot matrix banner of their year in review and send that to their accountant?",
+          "score": 12,
+          "created_utc": 1734681188.0,
+          "replies": []
+        },
+        {
+          "id": "m2tzmdy",
+          "author": "NickCharlesYT",
+          "body": "This would be a nightmare in terms of auditing. Our company would **never** get away with something like this.",
+          "score": 12,
+          "created_utc": 1734621300.0,
+          "replies": [
+            {
+              "id": "m2yqnmv",
+              "author": "FlimsyMo",
+              "body": "Ok, do you live in India?",
+              "score": -4,
+              "created_utc": 1734691446.0,
+              "replies": [
+                {
+                  "id": "m30929y",
+                  "author": "None",
+                  "body": "What does India have to do with Indiana",
+                  "score": 3,
+                  "created_utc": 1734714343.0,
+                  "replies": [
+                    {
+                      "id": "m32s4y9",
+                      "author": "Glenmarththe3rd",
+                      "body": "Maybe he was just curious if the poster lived in India?",
+                      "score": 3,
+                      "created_utc": 1734747326.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m31icvr",
+          "author": "pspahn",
+          "body": "Difficult sales tax is the same reason why we still run a 30 year old system with custom code. \n\nI've demoed a bunch of \"modern\" POS stuff and basically all of them don't do sales taxes correctly or they hide that feature behind an expensive paywall.",
+          "score": 1,
+          "created_utc": 1734729577.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2t050q",
+      "author": "YardFudge",
+      "body": "Wonder how often they need to flip it and shake out the crumbs",
+      "score": 187,
+      "created_utc": 1734605591.0,
+      "replies": [
+        {
+          "id": "m2t6bs8",
+          "author": "EtherSecAgent",
+          "body": "All that glaze is keeping it together",
+          "score": 94,
+          "created_utc": 1734609263.0,
+          "replies": [
+            {
+              "id": "m2ucsqr",
+              "author": "AbleArcher420",
+              "body": "_glaze_",
+              "score": 12,
+              "created_utc": 1734625584.0,
+              "replies": []
+            },
+            {
+              "id": "m2tb6is",
+              "author": "Spidaaman",
+              "body": "TWSS",
+              "score": 1,
+              "created_utc": 1734611751.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2usu4b",
+          "author": "warmplc4me",
+          "body": "They actually have those plastic covers over the keyboards. I just got donuts there this morning. I saw the headline and I knew for a fact it had to be Hilligoss Bakery.",
+          "score": 9,
+          "created_utc": 1734631338.0,
+          "replies": []
+        },
+        {
+          "id": "m2us40f",
+          "author": "sexual--predditor",
+          "body": "Well is it the breadbin model",
+          "score": 3,
+          "created_utc": 1734631095.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2t0ysj",
+      "author": "HariSeldon-Lives",
+      "body": "Load \"*\",8,1\nSys 49152",
+      "score": 132,
+      "created_utc": 1734606114.0,
+      "replies": [
+        {
+          "id": "m2tz8ev",
+          "author": "TheGooOnTheFloor",
+          "body": "Wow - that woke up some very idle neurons in my brain!",
+          "score": 22,
+          "created_utc": 1734621168.0,
+          "replies": []
+        },
+        {
+          "id": "m2t4blx",
+          "author": "None",
+          "body": "[removed]",
+          "score": 32,
+          "created_utc": 1734608144.0,
+          "replies": [
+            {
+              "id": "m2ttacq",
+              "author": "BizzyM",
+              "body": "Air gapped",
+              "score": 14,
+              "created_utc": 1734619096.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2urjkh",
+          "author": "jerry_woody",
+          "body": "10 FOR X=0 TO 9\n\n20 POKE 53280,X\n\n30 NEXT X\n\n40 GOTO 10",
+          "score": 10,
+          "created_utc": 1734630902.0,
+          "replies": [
+            {
+              "id": "m2wawgj",
+              "author": "Italian__Scallion",
+              "body": "MY EYES! MY EYES!",
+              "score": 2,
+              "created_utc": 1734648854.0,
+              "replies": []
+            },
+            {
+              "id": "m2wqftu",
+              "author": "HeathersZen",
+              "body": "Poke 32768,0",
+              "score": 2,
+              "created_utc": 1734654592.0,
+              "replies": []
+            },
+            {
+              "id": "m2ygmvc",
+              "author": "soyelmocano",
+              "body": "PEEK and POKE\n\n\nI remember.",
+              "score": 2,
+              "created_utc": 1734684336.0,
+              "replies": []
+            },
+            {
+              "id": "m2yqakd",
+              "author": "barbrady123",
+              "body": "SEIZURE!!",
+              "score": 1,
+              "created_utc": 1734691198.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2t192e",
+          "author": "Zahrad70",
+          "body": "IYKYK",
+          "score": 11,
+          "created_utc": 1734606295.0,
+          "replies": [
+            {
+              "id": "m2vlbz8",
+              "author": "unremarkedable",
+              "body": "If You Kode You Kode",
+              "score": 3,
+              "created_utc": 1734640496.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2t7cqk",
+      "author": "YallaHammer",
+      "body": "VIC20, DOS\u2026 they ran/run like clockwork",
+      "score": 17,
+      "created_utc": 1734609812.0,
+      "replies": []
+    },
+    {
+      "id": "m2t5oyu",
+      "author": "IrregularArguement",
+      "body": "Saving to cassette tape",
+      "score": 31,
+      "created_utc": 1734608914.0,
+      "replies": [
+        {
+          "id": "m2t9bdr",
+          "author": "Affectionate-Orchid3",
+          "body": "tape backups are still used for long term storage! memory density on tape now is higher than pretty much anything else",
+          "score": 31,
+          "created_utc": 1734610825.0,
+          "replies": [
+            {
+              "id": "m2ujadh",
+              "author": "None",
+              "body": "Nothing beats tape on capacity per dollar. I\u2019ll always remember the quote \u201cNever underestimate the bandwidth of a van full of tapes going full speed on the highway.\u201d",
+              "score": 31,
+              "created_utc": 1734627636.0,
+              "replies": [
+                {
+                  "id": "m2vfw8j",
+                  "author": "ralphy_256",
+                  "body": "There was a bit of internet lore around in the 90s that somebody was asking how best to transfer something like a gig of data reliably from west coast to east every week.\n\nConsensus came out to, FedEx.\n\nAdd a few zeros to the quantity of data and the answer would be the same today.\n\nSometimes the simplest, most secure way to transfer data is by shipping media.",
+                  "score": 9,
+                  "created_utc": 1734638738.0,
+                  "replies": [
+                    {
+                      "id": "m376q9w",
+                      "author": "LaptopGuy_27",
+                      "body": "I'm pretty sure AWS has a semi-truck with several petabytes of storage for when the internet just doesn't cut it.",
+                      "score": 1,
+                      "created_utc": 1734818992.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2uvl58",
+                  "author": "GyroFries",
+                  "body": "Lmao",
+                  "score": 3,
+                  "created_utc": 1734632244.0,
+                  "replies": [
+                    {
+                      "id": "m2xo67v",
+                      "author": "0ne_Winged_Angel",
+                      "body": "You joke, but the company I work for offsites it\u2019s near-line storage to what I\u2019m 99.9% sure is a spool of tape on an Amazon server before what off-lining it by a process I\u2019m pretty sure involves just shipping those tape drives to an abandoned salt mine. There\u2019s a noticeable latency hit between accessing the archive and the production data, and it\u2019s a written form and several days if you want something that\u2019s been archived from the archive.",
+                      "score": 5,
+                      "created_utc": 1734667789.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2uoayo",
+              "author": "Bubba89",
+              "body": "Tape, sure, but not cassettes.",
+              "score": 4,
+              "created_utc": 1734629546.0,
+              "replies": []
+            },
+            {
+              "id": "m2tbfg3",
+              "author": "IrregularArguement",
+              "body": "Yes.  But we are talking c120 at best here.  Not a mainframe.",
+              "score": 6,
+              "created_utc": 1734611872.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2vv1ae",
+          "author": "TDK_90",
+          "body": "Those load times!",
+          "score": 2,
+          "created_utc": 1734643572.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2tq6w0",
+      "author": "Buffyoh",
+      "body": "Hey - it works! No need to overconsume.",
+      "score": 9,
+      "created_utc": 1734617964.0,
+      "replies": []
+    },
+    {
+      "id": "m2t055c",
+      "author": "drmirage809",
+      "body": "It works and is probably decently secure too. It\u2019s probably one of only a handful of C64s left that\u2019s actually being used and isn\u2019t a collector or hobbyist\u2019s toy. \n\nAnd how many people are gonna look to hack a 40+ year old system that\u2019s completely obsolete?",
+      "score": 44,
+      "created_utc": 1734605593.0,
+      "replies": [
+        {
+          "id": "m2t1bfy",
+          "author": "devilishycleverchap",
+          "body": "Do you think commodore 64s are connected to the Internet?",
+          "score": 44,
+          "created_utc": 1734606336.0,
+          "replies": [
+            {
+              "id": "m2t3zap",
+              "author": "DarthArtero",
+              "body": "As cash registers, not likely.\n\nAs hobby machines, it's possible.",
+              "score": 29,
+              "created_utc": 1734607944.0,
+              "replies": [
+                {
+                  "id": "m2ta2wp",
+                  "author": "TheMSensation",
+                  "body": "You can connect to the internet but it wouldn't be a modern browsing experience. You'd be limited to connecting to other hobbyists using BBS. The limiting factor is modern security, the commodore64 doesn't have the horsepower for decryption. It would be a similar exprience to browsing the net on an old Nokia phone using WAP.\n\nhttps://www.youtube.com/watch?v=mfahsGLtQwc",
+                  "score": 24,
+                  "created_utc": 1734611209.0,
+                  "replies": [
+                    {
+                      "id": "m2w3wmd",
+                      "author": "LordSesshomaru82",
+                      "body": "You *can* browse the web, but it's pretty much limited to text only pages. The Contiki OS is pretty weird. Has a neat tool for downloading .d64s directly to disk.",
+                      "score": 6,
+                      "created_utc": 1734646435.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m2wy4i5",
+                      "author": "ourmet",
+                      "body": "You can use telnet pretty easily.\n\n\nI've seen projects that use an old raspberry pi as a proxy to decide/encode SSH.\n\n\nSaw a video about a guy who uses a c128 (so he can get 80 column mode) as his primary terminal for his sysadmin tasks using the pi as a proxy.",
+                      "score": 5,
+                      "created_utc": 1734657483.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m2u12qe",
+                      "author": "GhostDan",
+                      "body": "Yup, also a challenge in any kind of banking (credit card processing, etc). You don't want to be sending that stuff clear text.",
+                      "score": 2,
+                      "created_utc": 1734621780.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2ucsca",
+              "author": "franker",
+              "body": "You'd be surprised - https://www.reddit.com/r/c64/comments/1hd2zix/if_you_havent_tried_going_online_with_your_c64/",
+              "score": 8,
+              "created_utc": 1734625580.0,
+              "replies": []
+            },
+            {
+              "id": "m2vmh73",
+              "author": "Decipher",
+              "body": "Internet? Plenty are. World Wide Web and modern internet conveniences? Likely none.",
+              "score": 1,
+              "created_utc": 1734640860.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2txhfe",
+          "author": "hallstevenson",
+          "body": ">And how many people are gonna look to hack a 40+ year old system that\u2019s completely obsolete?\n\nAbout the only practical way to \"hack\" one is to have physical access and if the hacker has that, not much will stop them.",
+          "score": 1,
+          "created_utc": 1734620569.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2tgaf5",
+      "author": "SupremeTemptation",
+      "body": "It\u2019s time to upgrade to a $8000 machine to use as a calculator.",
+      "score": 15,
+      "created_utc": 1734614055.0,
+      "replies": []
+    },
+    {
+      "id": "m2un2sa",
+      "author": "None",
+      "body": "My first computer\u263a\ufe0f",
+      "score": 5,
+      "created_utc": 1734629022.0,
+      "replies": [
+        {
+          "id": "m2z20n4",
+          "author": "kirbyspinballwizard",
+          "body": "Mine too.  Loved the games. Burger Time, Muppet Movie Magic, Boulder Dash...",
+          "score": 2,
+          "created_utc": 1734698138.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2us8hw",
+      "author": "bmtri",
+      "body": "\"Susan, while I *am* impressed by the keyboard overlay for Airborne Ranger and your prowess at playing it, remember that we're using this as the cash register.  Now please unplug your Atari joystick and bake some donuts.\"",
+      "score": 5,
+      "created_utc": 1734631136.0,
+      "replies": [
+        {
+          "id": "m2vg37q",
+          "author": "argee_43",
+          "body": "Airborne Ranger! My favorite game on the Commodore Amiga. Started on a Vic-20, then a C-64, c128 and finally the Amigas (500 and a 3000)",
+          "score": 1,
+          "created_utc": 1734638801.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2t1dfo",
+      "author": "xXxWhizZLexXx",
+      "body": "Never change a running System",
+      "score": 27,
+      "created_utc": 1734606370.0,
+      "replies": [
+        {
+          "id": "m2t2en6",
+          "author": "devicehigh",
+          "body": "That\u2019s a great way to have systems become obsolete and unserviceable!",
+          "score": -25,
+          "created_utc": 1734607002.0,
+          "replies": [
+            {
+              "id": "m2t46xu",
+              "author": "DarthArtero",
+              "body": "It might surprise you that a huge number of companies and governments use systems that are considered obsolete by modern standards. \n\nIt comes down to reliability and cost, older machines when maintained properly and are specific to a small number of jobs tend to last much longer and are more robust than modern machines. \n\nSecurity however is another issue entirely.",
+              "score": 33,
+              "created_utc": 1734608068.0,
+              "replies": [
+                {
+                  "id": "m2t5g08",
+                  "author": "elderly_millenial",
+                  "body": "Eventually we run into issues with hardware. Unless normal commodity hardware will work, or there\u2019s a hardware emulation layer that works well, you will run into a scenario where parts are needed but the manufacturer is unwilling or unable to produce them anymore. \n\nThere\u2019s a whole cottage industry around finding and reselling old Burroughs mainframe components for example, because the company (now called Unisys) can\u2019t make them anymore",
+                  "score": 6,
+                  "created_utc": 1734608777.0,
+                  "replies": [
+                    {
+                      "id": "m2w4oxd",
+                      "author": "LordSesshomaru82",
+                      "body": "There's a decently sized hobby industry that makes new FPGA based replacements for some of the common failure chips like the PLA and the SID. EEPROMs can be burned with the stock \"OS\" or even upgrades like JiffyDOS. The biggest threat for a C64 is honestly the power supply, which is an under-specced linear death box waiting to catastrophically fail and take the computer with it. Luckily replacements can be made pretty easily with 5vdc and 9vac wall warts. These machines were built before planned obsolescence really started to take off.",
+                      "score": 1,
+                      "created_utc": 1734646705.0,
+                      "replies": [
+                        {
+                          "id": "m2wfd7j",
+                          "author": "elderly_millenial",
+                          "body": "That sounds cool but I\u2019m curious if any of that is legal? I\u2019m sure whatever private equity firm that owns the IP would love to sue people over that",
+                          "score": 1,
+                          "created_utc": 1734650468.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2t87kw",
+                  "author": "devicehigh",
+                  "body": "Yeah I\u2019m thinking more along the lines of control systems where security is hugely important and also hardware becomes difficult or impossible to source. So you have to stay on the upgrade path. Of course there are cases where the old systems are left running but not so much in pharma or other heavily regulated sectors.",
+                  "score": 2,
+                  "created_utc": 1734610261.0,
+                  "replies": [
+                    {
+                      "id": "m2tk3x6",
+                      "author": "C-C-X-V-I",
+                      "body": "Control systems are not regulated like that, at least in pharmaceuticals.",
+                      "score": -1,
+                      "created_utc": 1734615617.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2tjvzs",
+                  "author": "C-C-X-V-I",
+                  "body": "I can tell you the highest production line in the best plant of the top tire manufacturer still runs PLC2, which has been obsolete since the 80's.  Many times I would open an 8 bit card bigger than a vhs to clean it up and get it working again.",
+                  "score": 1,
+                  "created_utc": 1734615530.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2t5nf5",
+              "author": "Happy-go-lucky-37",
+              "body": "You mean when they decide to overhaul the bakery\u2019s processes for higher-resolution croissants and digital ingredients?",
+              "score": 7,
+              "created_utc": 1734608890.0,
+              "replies": [
+                {
+                  "id": "m2t6x3x",
+                  "author": "devicehigh",
+                  "body": "\ud83d\ude02",
+                  "score": 2,
+                  "created_utc": 1734609583.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2tb24a",
+              "author": "Plank_With_A_Nail_In",
+              "body": "C64 probably not the device to be using as an example here as its pretty much better than fully supported. Fully supported running on FPGA's today.\n\nhttps://www.ami64.com/product-page/ultimate64-240130",
+              "score": 6,
+              "created_utc": 1734611691.0,
+              "replies": [
+                {
+                  "id": "m2thakr",
+                  "author": "unfnknblvbl",
+                  "body": "It's easily one of the most well-known, well-documented computer systems ever made. Almost every part is readily available, and those that are becoming rarer have modern replacements developed by a dedicated community of enthusiasts. \n\nThe C64 will outlive all of us.",
+                  "score": 7,
+                  "created_utc": 1734614476.0,
+                  "replies": [
+                    {
+                      "id": "m2ujeyt",
+                      "author": "kindall",
+                      "body": "And they were made in such volume that individual specimens are not particularly valuable to collectors. You can get a full machine for a couple hundred bucks if it comes to that.",
+                      "score": 2,
+                      "created_utc": 1734627677.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2tc01g",
+              "author": "Qolim",
+              "body": "And? obsolete is \"no longer in use or no longer useful\" which it is not, and if it breaks... get a new one.",
+              "score": 2,
+              "created_utc": 1734612142.0,
+              "replies": []
+            },
+            {
+              "id": "m2tqt7f",
+              "author": "ergobearsgo",
+              "body": "I agree with this completely. People don't realize how bad \"tech debt\" has become across the board. Instead of taking incremental steps towards improvement people or businesses will let a \"running\" system decay for a decade or longer and then be caught completely on the back foot when it does eventually fail. Now they aren't two steps away from getting back to where they should be, they're miles away. Suddenly the system that didn't deserve any attention for years and years is costing the company ten times its worth to be offline and will cost a hundred times as much to get replaced as no one ever laid out an upgrade path and schedule.\n\nObviously this is less applicable to an independent bakery, but I see this at the enterprise level at multiple billion dollar global companies and they never learn after their own complacency bites them in the ass day after day.",
+              "score": -1,
+              "created_utc": 1734618192.0,
+              "replies": [
+                {
+                  "id": "m2uiwx7",
+                  "author": "devicehigh",
+                  "body": "Clearly we are in the minority judging by all the downvotes",
+                  "score": 1,
+                  "created_utc": 1734627515.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2umpu4",
+              "author": "Mayor__Defacto",
+              "body": "Modern software is brittle and error prone. When you need something that will work every time without fail, you use AS/400 systems.",
+              "score": 0,
+              "created_utc": 1734628870.0,
+              "replies": []
+            },
+            {
+              "id": "m2t8eoc",
+              "author": "hypothetician",
+              "body": "Not to mention old kit costs more to run.\n\n\u201cDon\u2019t fuck with running stuff\u201d is good advice if all you want is a quiet life, but leaving workloads running on tin that was EOL 30 years ago is mental. \n\nThey could drop a pi zero in there, fire a c64 emulator onto it and be done. It would use such little electricity by comparison to an actual c64 that it would pay for itself in a few months.",
+              "score": -3,
+              "created_utc": 1734610362.0,
+              "replies": [
+                {
+                  "id": "m2tat4n",
+                  "author": "critical2210",
+                  "body": "The c64 roughly consumes the same amount of power as a raspberry pi.\n\nSource: I own both a c64 and multiple raspberry pi\u2019s.",
+                  "score": 8,
+                  "created_utc": 1734611567.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2texki",
+                  "author": "Qolim",
+                  "body": "would take years to see a roi on that investment, at which point the company might see a savings of a couple dollars a year.\n\nIs that really worth changing a system people are used to?",
+                  "score": 4,
+                  "created_utc": 1734613469.0,
+                  "replies": [
+                    {
+                      "id": "m2tmq61",
+                      "author": "datonebrownguy",
+                      "body": "hypothetically, yeah, realistically, probably not. lmao.",
+                      "score": 1,
+                      "created_utc": 1734616648.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2t5589",
+      "author": "GoodMix392",
+      "body": "Pretty sure the Nostromos computer is just a load of C64s networked up",
+      "score": 5,
+      "created_utc": 1734608611.0,
+      "replies": []
+    },
+    {
+      "id": "m2twk0h",
+      "author": "MyCleverNewName",
+      "body": "It can process literally A MILLION THINGS PER SECOND!!!\n\nHow could you possibly ever need more than that?!",
+      "score": 5,
+      "created_utc": 1734620249.0,
+      "replies": []
+    },
+    {
+      "id": "m2ua543",
+      "author": "LessonStudio",
+      "body": "I've been to oil pipeline companies where they were using desktop US-Robotics 56k modems as part of their critical comms infrastructure.\n\nThese are companies with market caps in the many 10s of billions.\n\nOne of them had only recently replaced its VAX/VMS.",
+      "score": 5,
+      "created_utc": 1734624729.0,
+      "replies": []
+    },
+    {
+      "id": "m2tiia0",
+      "author": "AVGuy42",
+      "body": "OTA firmware created a tech culture of \u201cwe\u2019ll fix it on the next update\u201d and made us all beta testers in an endless development loop.",
+      "score": 3,
+      "created_utc": 1734614972.0,
+      "replies": []
+    },
+    {
+      "id": "m2u59b0",
+      "author": "heliskinki",
+      "body": "Some musicians are still using Commodore Amigas for sequencing.",
+      "score": 4,
+      "created_utc": 1734623147.0,
+      "replies": [
+        {
+          "id": "m2v5v53",
+          "author": "yabs",
+          "body": "That or the Atari ST which was/is freakin' amazing. A whole lot of great music over history was made with an Atari ST.",
+          "score": 1,
+          "created_utc": 1734635522.0,
+          "replies": [
+            {
+              "id": "m2v745z",
+              "author": "heliskinki",
+              "body": "I think it was the ST I was thinking of TBH - but yeah, both were the total work horses for the pioneers of house / techno in the early days.",
+              "score": 1,
+              "created_utc": 1734635927.0,
+              "replies": [
+                {
+                  "id": "m2wvjiz",
+                  "author": "kb_hors",
+                  "body": "It was more likely that if someone could immediately afford loads of professional music equipment like Akai samplers, drum machines and a proper reel-to-reel that they would use the Atari, since it had midi sockets built in.\n\nBut if you wanted to do sample based music cheaply, you used the Amiga, and you could share complete \"recorded\" tracks around as .mod files. (You could do Mods on the Atari too but it was worse at it)\n\nOf course you could then grow your Amiga setup with a cheap midi adapter and get all the professional gear later. Places like Psygnosis had Amiga 4000 studio setups.",
+                  "score": 1,
+                  "created_utc": 1734656498.0,
+                  "replies": [
+                    {
+                      "id": "m2ymbqo",
+                      "author": "heliskinki",
+                      "body": "Yeah definitely the Atari I was thinking of then - the midi in was the key.\n\nI also remember making music on the PS1 using a piece of software called Music 2000 - got the tracks on a minidisc somewhere... (hashtag redundant technology...)",
+                      "score": 1,
+                      "created_utc": 1734688439.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2u8ysv",
+      "author": "Generico300",
+      "body": "If you can't do basic arithmetic and keep track of payments with 1,000,000 operations per second and enough RAM to store several full pages of text, I don't know what to tell ya.  I'd be more impressed if it was still connected to a working receipt printer.",
+      "score": 4,
+      "created_utc": 1734624346.0,
+      "replies": []
+    },
+    {
+      "id": "m2ugj97",
+      "author": "Monkfich",
+      "body": "A calculator is enough. A C64 is overkill.",
+      "score": 5,
+      "created_utc": 1734626765.0,
+      "replies": []
+    },
+    {
+      "id": "m2unu4r",
+      "author": "AA-ron42",
+      "body": "Load \u201d*\u201d,8,1",
+      "score": 4,
+      "created_utc": 1734629345.0,
+      "replies": [
+        {
+          "id": "m2uvr3a",
+          "author": "ChodaRagu",
+          "body": "Came here for this!!",
+          "score": 2,
+          "created_utc": 1734632297.0,
+          "replies": []
+        },
+        {
+          "id": "m2woxtf",
+          "author": "MattTheProgrammer",
+          "body": "As someone who didn't have a C64... what does the command do?",
+          "score": 1,
+          "created_utc": 1734654031.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2ur7q6",
+      "author": "wafflelauncher",
+      "body": "I'm more surprised that a bakery would use a computerized cash register at all 40 years ago. I'm about the same age as that computer and can remember when most cash registers were less sophisticated than a Commodore 64.",
+      "score": 4,
+      "created_utc": 1734630781.0,
+      "replies": []
+    },
+    {
+      "id": "m2urrk6",
+      "author": "ZebraHunterz",
+      "body": "Currently the most secure POS system in the US.",
+      "score": 5,
+      "created_utc": 1734630978.0,
+      "replies": []
+    },
+    {
+      "id": "m2vbx61",
+      "author": "Woodie626",
+      "body": "My local sub shop still has a mechanical one, I don't think it does anything a tiny calculator can't.\u00a0",
+      "score": 3,
+      "created_utc": 1734637458.0,
+      "replies": []
+    },
+    {
+      "id": "m2yabll",
+      "author": "chupathingy99",
+      "body": "Meanwhile my cash register at one of the wealthiest companies on the planet crashes if I press the buttons too fast.",
+      "score": 4,
+      "created_utc": 1734679935.0,
+      "replies": []
+    },
+    {
+      "id": "m2zyhnq",
+      "author": "protekt0r",
+      "body": "I work as an engineering technician and one of my duties is to drop off o-scopes, spectrum analyzers, flukes, etc at a local calibration shop that\u2019s been in business since the nuclear age (I\u2019m in Albuquerque, where a ton of nuke research still goes on).  Anyway, this shop developed some basic tracking software in DOS back in the 80\u2019s.\u2019 And they\u2019re *still* using 386\u2019s, ancient ribbon printers, CRTs and TOKEN RING for networking the few PC\u2019s they have.  When something breaks, they find it on eBay and replace it.  It\u2019s kinda funny to watch the 20 something kid in the front use all the tech I grew up with.",
+      "score": 4,
+      "created_utc": 1734710815.0,
+      "replies": []
+    },
+    {
+      "id": "m2t4a7d",
+      "author": "caribbean_caramel",
+      "body": "If it ain't broke, don't fix it.",
+      "score": 18,
+      "created_utc": 1734608121.0,
+      "replies": [
+        {
+          "id": "m2tjx2t",
+          "author": "sorrylilsis",
+          "body": "Or you can replace things before they break and cost you a shitload of money. \n\nA 40 yo machine is something that has a high likelyhood of breaking. I've been in a company that absolutely didn't want to replace anything before it broke. I could count at least 3 times where a critical thing breaking at the worst time cost us 10/15 times more than a brand new piece of equipment.",
+          "score": 5,
+          "created_utc": 1734615542.0,
+          "replies": [
+            {
+              "id": "m2uk3gq",
+              "author": "kindall",
+              "body": "> A 40 yo machine is something that has a high likelyhood of breaking\n\nOn the contrary. There's infant mortality, which weeds out the weak chips early on, but if a solid-state system has run for ten or twenty years it's not unlikely that it will run for ten or twenty more, or fifty, or a hundred. The analog components are more likely to go but those are easily replaceable. A good portion of those are in the power supply and you can easily replace that as a single piece with a modern unit that produces the same voltages.",
+              "score": 11,
+              "created_utc": 1734627896.0,
+              "replies": []
+            },
+            {
+              "id": "m2uorwd",
+              "author": "billbixbyakahulk",
+              "body": "Don't interrupt the curmudgeon suspender-wearing guys' hot tub party.",
+              "score": 3,
+              "created_utc": 1734629750.0,
+              "replies": []
+            },
+            {
+              "id": "m2uu8c1",
+              "author": "Qwirk",
+              "body": "Curious how the machine is being run, they can throw a few hundred on Ebay to get a backup machine if needed. It's not like they are running a lot of high end software in a doughnut shop.",
+              "score": 1,
+              "created_utc": 1734631801.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2t9l9v",
+          "author": "Mudcat-69",
+          "body": "You obviously never heard of preventative maintenance then.",
+          "score": 3,
+          "created_utc": 1734610964.0,
+          "replies": [
+            {
+              "id": "m2taygf",
+              "author": "SantasDead",
+              "body": "In the world of maintenance we live by \"if it ain't broke don't fix it\" \n\nThat doesn't mean don't PM the thing, it does mean don't update firmware, upgrade hardware, or install new software. It also means dont tweak the thing to maximize performance, just keep it happy.",
+              "score": 2,
+              "created_utc": 1734611641.0,
+              "replies": [
+                {
+                  "id": "m2tio4k",
+                  "author": "zerotetv",
+                  "body": "> it does mean don't update firmware, upgrade hardware, or install new software.\n\nNot relevant in the case in the OP, but this is a great way to get fucked by ransomware or similar. Know a company that had the \"If it ain't broke, don't fix it.\" policy on many fronts. Got hit by ransomware, took down the entire company for 6 weeks. No development, no sales, no support, nothing.\n\nIf it ain't broke, don't fix it. It works until it doesn't.",
+                  "score": 5,
+                  "created_utc": 1734615038.0,
+                  "replies": [
+                    {
+                      "id": "m2ypfez",
+                      "author": "SantasDead",
+                      "body": "What I was thinking of were things like industrial controls, machines, and equipment. Stuff that doesn't ever need to be connected to the internet. \n\nFor instance. I just built a windowsXP box with no possibility of it connecting to the internet. Why? Because a new machine it runs is $280,000 and this one works fine, it just needed a new computer but the manufacturer doesn't support this vintage machine anymore. I'm not going to update the machines firmware just so I can then upgrade the computer to windows 11 on the internet. Nope, asking for disaster. Likewise, we aren't upgrading any hardware either, except the low voltage power supply, thays been upgraded to new electronics.",
+                      "score": 1,
+                      "created_utc": 1734690603.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2ugofi",
+          "author": "GregMaffei",
+          "body": "Then rush to buy something that does the same job when it breaks, without having time to figure out what works best.",
+          "score": 1,
+          "created_utc": 1734626810.0,
+          "replies": []
+        },
+        {
+          "id": "m2x4qrp",
+          "author": "bulboustadpole",
+          "body": "I mean still using these is pretty dumb. \n\nYou can buy a used dell optiplex micro for $80 that has windows on it and can run modern POS/accounting software. Don't need to connect it to the internet if you want.",
+          "score": 1,
+          "created_utc": 1734659989.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2t91i2",
+      "author": "sugurkewbz",
+      "body": "As someone who has to use a touchscreen register all day, I\u2019d probably prefer this more. Touchscreens are so frustrating to use a lot of time, especially when you\u2019re interacting with one 8 hours a day",
+      "score": 8,
+      "created_utc": 1734610685.0,
+      "replies": [
+        {
+          "id": "m2toa68",
+          "author": "None",
+          "body": "100% prefer keys to a touch screen for a register. screens don\u2019t move when you press them and over the years that hurts your fingers more.",
+          "score": 4,
+          "created_utc": 1734617248.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2tmb4v",
+      "author": "Artistic-Teaching395",
+      "body": "Someone call the based department.",
+      "score": 3,
+      "created_utc": 1734616487.0,
+      "replies": []
+    },
+    {
+      "id": "m2u9qg2",
+      "author": "Idealpro",
+      "body": "Why do I suddenly hear the music from Eaglesoft Inc's intro just looking at this keyboard. Little kid me that knew nothing about programming would watch the intro to the games they cracked and saw them like vigilante rockstars. Imagining lots of punk fashion, badass C-64 music, and shoutouts across the globe. Probably about as accurate as the movie Hackers was, but in my kid head. They couldn't just be normal people.... surely.",
+      "score": 3,
+      "created_utc": 1734624598.0,
+      "replies": [
+        {
+          "id": "m2vic86",
+          "author": "Aenaeus",
+          "body": "Haha, I did that too, I loved the crack intro's, read everything. Often there was a strong anti communist vibe, it was the 80's after all. Demo's were so cool too, getting better every year. There is still an active demo scene, some of the same people too, look it up on youtube! The results they're getting from a 40 year old machine are incredible. The Fairlight intro song is one of my favourites and is etched in my mind. I wonder who made it? And I think I like Martin Galway's intro song to the game Green Beret best, such a great composition. My favourite games were Lasersquad 2 and International Karate III.",
+          "score": 1,
+          "created_utc": 1734639534.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2umfua",
+      "author": "None",
+      "body": "Most people have no idea what the CPU in their computer is capable of. \n\nThey're 99.9% idle like 99% of their lives. And even when they're being \"used\" most of the time that means one core.",
+      "score": 3,
+      "created_utc": 1734628754.0,
+      "replies": []
+    },
+    {
+      "id": "m2uog7l",
+      "author": "FrostyBook",
+      "body": "I wrote a web app for my friend that tied into Zazzle and helped him manage his orders.  The prototype was what went to production (of course), and it ran nonstop for 6 years on AWS with zero changes, only had to update the database once.  It remains my proudest programming moment.  If it works, don't touch it!",
+      "score": 3,
+      "created_utc": 1734629608.0,
+      "replies": []
+    },
+    {
+      "id": "m2v1i6j",
+      "author": "AfonsoBucco",
+      "body": "But it's crazy how now-days Operating Systems are so wasteful in matter of resources. For a lot of applications like that we shouldn't have to buy something powerful and expensive machines.\n\nBut today all softwares and even websites are made in a way they expend lots more hardware than it really needed.",
+      "score": 3,
+      "created_utc": 1734634139.0,
+      "replies": []
+    },
+    {
+      "id": "m2v9y5l",
+      "author": "Frammingatthejimjam",
+      "body": "We used to call them Vic 64's to annoy the pedants in HS computer classes.",
+      "score": 3,
+      "created_utc": 1734636828.0,
+      "replies": [
+        {
+          "id": "m2vc946",
+          "author": "JohnnyEagleClaw",
+          "body": "Fighting words \ud83d\ude02\ud83d\udc4a",
+          "score": 3,
+          "created_utc": 1734637565.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2wc1ob",
+      "author": "zekromNLR",
+      "body": "Honestly, if it weren't for mostly the internet and modern OSes (which you require to safely use the internet) continually going up in resource demands, you could do your typical family PC and word processing/spreadsheets/slideshows computer job tasks just fine with one from fifteen years ago. Only fairly specialist professional uses (video editing, 3D modelling, simulations and such) really inherently require any substantially more powerful hardware.",
+      "score": 3,
+      "created_utc": 1734649261.0,
+      "replies": [
+        {
+          "id": "m2yelly",
+          "author": "Greybeard_21",
+          "body": "My 2 main working machines was bought used in 2014, and runs Win 7  \nI also do a lot of work on 2 Win XP machines that are nearly 20 years old.  \n(But my internet is connected to a Win 10 machine)",
+          "score": 2,
+          "created_utc": 1734682887.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2wlv9k",
+      "author": "epic-growth_",
+      "body": "A lot of big banks in America still hire a lot of cobol programmers for a reason",
+      "score": 3,
+      "created_utc": 1734652889.0,
+      "replies": [
+        {
+          "id": "m31x3nb",
+          "author": "Kosmos992k",
+          "body": "No one wants to unravel TB of COBOL code, also very few people can unravel it, so as long as it runs they keep it and replace the entire thing when there is no choice.  That said IBM mainframes run as VMs on modern hardware now, so they may never ditch COBOL.",
+          "score": 1,
+          "created_utc": 1734734855.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m32ctzo",
+      "author": "Terribleturtleharm",
+      "body": "Makes me want to boot up Ultima II\n\nLOAD \"*\",8,1",
+      "score": 3,
+      "created_utc": 1734741034.0,
+      "replies": []
+    },
+    {
+      "id": "m2szs4d",
+      "author": "heatlesssun",
+      "body": "Bill Gates was right.",
+      "score": 8,
+      "created_utc": 1734605363.0,
+      "replies": [
+        {
+          "id": "m2t6gmc",
+          "author": "Classic_Clue_1876",
+          "body": "About?",
+          "score": 1,
+          "created_utc": 1734609335.0,
+          "replies": [
+            {
+              "id": "m2t6nps",
+              "author": "no_infringe_me",
+              "body": "64kb",
+              "score": 3,
+              "created_utc": 1734609443.0,
+              "replies": [
+                {
+                  "id": "m2t7bvw",
+                  "author": "Niarbeht",
+                  "body": "It was 640k, and no one's ever verified that the quote is actually from him.",
+                  "score": 6,
+                  "created_utc": 1734609800.0,
+                  "replies": [
+                    {
+                      "id": "m2v97l2",
+                      "author": "red286",
+                      "body": "According to Gates himself, \"I've said a lot of stupid things, and I've said a lot of wrong things, but I never said *that*.\"",
+                      "score": 3,
+                      "created_utc": 1734636591.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2vp0um",
+              "author": "deathwishdave",
+              "body": "Rice pudding",
+              "score": 1,
+              "created_utc": 1734641663.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2tmbki",
+      "author": "deedubfry",
+      "body": "I wonder if they use the floppy drive, and if they do so do they make the floppy disks double sided with a hole punch?",
+      "score": 2,
+      "created_utc": 1734616492.0,
+      "replies": []
+    },
+    {
+      "id": "m2tqaxt",
+      "author": "flcinusa",
+      "body": "Argh, syntax error, rounded up to the nearest thousand",
+      "score": 2,
+      "created_utc": 1734618005.0,
+      "replies": []
+    },
+    {
+      "id": "m2tropb",
+      "author": "korik69",
+      "body": "How was my first computer? I wanted it so bad I saved up for it and at the time it really didn\u2019t do much.",
+      "score": 2,
+      "created_utc": 1734618514.0,
+      "replies": []
+    },
+    {
+      "id": "m2tyei5",
+      "author": "triplejumpxtreme",
+      "body": "My brother worked for a major gas company, they had a windows 95 pc that never turns off with lots of signs saying don't turn off and protection on it\n\nCan't remember what he said it was for, prob billing",
+      "score": 2,
+      "created_utc": 1734620888.0,
+      "replies": []
+    },
+    {
+      "id": "m2uczwv",
+      "author": "Al_Jazzar",
+      "body": "Not as old, but I worked at a La Z Boy in 2015 that was still using 1990 computers. The owner was firm that they are \"fine\" despite the fact that there was only one guy in the entire tri-state area that knew how to fix them. They were still there when they sold to new owners in 2019.",
+      "score": 2,
+      "created_utc": 1734625647.0,
+      "replies": []
+    },
+    {
+      "id": "m2umce4",
+      "author": "yilanoyunuhikayesi",
+      "body": "They were innovative. Now they are conservative.",
+      "score": 2,
+      "created_utc": 1734628715.0,
+      "replies": []
+    },
+    {
+      "id": "m2uraie",
+      "author": "flower4000",
+      "body": "Kinda related, but ticketmaster still uses DOS at they\u2019re venues",
+      "score": 2,
+      "created_utc": 1734630811.0,
+      "replies": []
+    },
+    {
+      "id": "m2uxf9g",
+      "author": "GNDSparrow",
+      "body": "Reduce Reuse Recycle - if it\u2019s working why replace it.",
+      "score": 2,
+      "created_utc": 1734632835.0,
+      "replies": []
+    },
+    {
+      "id": "m2uylrv",
+      "author": "Acer1899",
+      "body": "But can it run Crysis?",
+      "score": 2,
+      "created_utc": 1734633212.0,
+      "replies": []
+    },
+    {
+      "id": "m2uz3zn",
+      "author": "PicardUSS1701d",
+      "body": "My OG home computer! I was sad to see it go.",
+      "score": 2,
+      "created_utc": 1734633373.0,
+      "replies": []
+    },
+    {
+      "id": "m2v1o9b",
+      "author": "Ashamed_Feedback3843",
+      "body": "I live in Indiana and that sounds about right. Seems like yesterday the state approved Sunday liquor sales.",
+      "score": 2,
+      "created_utc": 1734634193.0,
+      "replies": []
+    },
+    {
+      "id": "m2vosco",
+      "author": "Q__________________O",
+      "body": "One of the assignments we ended up getting for my cs education was basically cash register.\n\nApart from it having a database and options to CRUD the products and a few other things, it was suuuuuuuper simple. Its no wonder something like that can run on basically nothing.\n\nIm more surprised that they bother. I mean... There must be some limitations, or compromises that id personally not care for.",
+      "score": 2,
+      "created_utc": 1734641588.0,
+      "replies": []
+    },
+    {
+      "id": "m2wo0im",
+      "author": "darthcaedusiiii",
+      "body": "British nuclear subs running win XP: Hey.",
+      "score": 2,
+      "created_utc": 1734653689.0,
+      "replies": []
+    },
+    {
+      "id": "m2wrhsk",
+      "author": "Doongbuggy",
+      "body": "its still a trip to me as a millenial that 40 years ago was the 80s and not the 60s",
+      "score": 2,
+      "created_utc": 1734654985.0,
+      "replies": []
+    },
+    {
+      "id": "m2x2ht9",
+      "author": "FreddieJasonizz",
+      "body": "Good luck hacking that thing.",
+      "score": 2,
+      "created_utc": 1734659137.0,
+      "replies": []
+    },
+    {
+      "id": "m2xqihf",
+      "author": "xdesm0",
+      "body": "when i worked in a blockbuster we had big ass computers running something that looked like DOS and they were lighting fast but then they updated them to new windows computers and they were slow as fuck because they wanted to virtualize the OS. It made no sense to change them. It had the same glitches (search pie and reset the computer, clearing the current transaction) but now it was possible to get stuck.",
+      "score": 2,
+      "created_utc": 1734668830.0,
+      "replies": []
+    },
+    {
+      "id": "m2y27ym",
+      "author": "beakrake",
+      "body": "Them:\n>Sorry, heh, the computer is running a little slow today.",
+      "score": 2,
+      "created_utc": 1734674882.0,
+      "replies": [
+        {
+          "id": "m32x531",
+          "author": "JarrekValDuke",
+          "body": "I doubt it ever slows down.",
+          "score": 2,
+          "created_utc": 1734749425.0,
+          "replies": [
+            {
+              "id": "m330ezh",
+              "author": "beakrake",
+              "body": "Well sure, but going at a constant rate of slow is still slow by today's standards.",
+              "score": 1,
+              "created_utc": 1734750838.0,
+              "replies": [
+                {
+                  "id": "m330s7z",
+                  "author": "JarrekValDuke",
+                  "body": "When software is designed to run on a chip it\u2019s typically designed to run speedily enough to be usable, especially when it\u2019s designed for front end work like a register.",
+                  "score": 1,
+                  "created_utc": 1734750997.0,
+                  "replies": [
+                    {
+                      "id": "m334ns9",
+                      "author": "beakrake",
+                      "body": "Ok, but how many of those also display a touch screen with pictures?\n\n\nIt's like finding an atari in the attic.\n\nCool, but what do you really have once the novelty *of having it* has worn off?\n\n\nYou've got obsolete primitive technology that probably causes a lot of headaches to new people and just doesn't have the good sense to know when to stop working.\n\n\nPlaying that atari 8 hours a day for years to perform my job, instead of a modern POS system, sounds like the opposite of fun to me, no matter how neat the atari is.",
+                      "score": 1,
+                      "created_utc": 1734752674.0,
+                      "replies": [
+                        {
+                          "id": "m3383qq",
+                          "author": "JarrekValDuke",
+                          "body": "That\u2019s not what we are talking about here, we are talking about a company who has been running it since it was new, \n\nWith this context the question becomes\u2026 is there really a reason to update if it works well?",
+                          "score": 1,
+                          "created_utc": 1734754229.0,
+                          "replies": [
+                            {
+                              "id": "m35suyr",
+                              "author": "beakrake",
+                              "body": "Sure, and I understand today's maximum potential running pace might not be needed for this computer to *function* just fine at this place, but yes, it probably SHOULD be updated for the plethora of other reasons such out of date garbage usually gets replaced.\n\nFeatures, UI, heck some modern POS systems integrate directly with quickbooks. That is worth the price of admission, from the headaches it would save alone.\n\n\nNot upgrading from this to something more employee/customer friendly at this point is **the obstinance of a cheap boss, at it's finest.**\n\n\nWe shouldn't be applauding anything more than the novelty that they've *made* it work for this long, because overall, it hurts their business and is a pain in the ass for everyone else involved, guaranteed.",
+                              "score": 1,
+                              "created_utc": 1734801387.0,
+                              "replies": [
+                                {
+                                  "id": "m36dwte",
+                                  "author": "JarrekValDuke",
+                                  "body": "I mean realistically you could implement all of these features with the c64 as it does have serial connection options, but no these are not things a bakery is really needing, other than handling tax cost and that kinda stuff, arguably you could just use a calculator and it would be enough for a small bakery. Or really any small business",
+                                  "score": 1,
+                                  "created_utc": 1734808614.0,
+                                  "replies": [
+                                    {
+                                      "id": "m37scgf",
+                                      "author": "beakrake",
+                                      "body": "As someone who ran a small business solo for 10 years, I would offer to buy them a new computer with my own money if I had to struggle with doing bookkeeping from this ancient artifact. haha\n\nA new POS system would streamline *everything,* and when you're paying help by the hour, 30 seconds (15+ minutes if you count the bookkeeping end) on every transaction is a LOT of wasted money at the end of the year.\n\n\nEnough to make or break a small business, for sure.",
+                                      "score": 1,
+                                      "created_utc": 1734827504.0,
+                                      "replies": [
+                                        {
+                                          "id": "m37velr",
+                                          "author": "JarrekValDuke",
+                                          "body": "But isn\u2019t that forcing your work path onto someone else? Work loads are completely different.",
+                                          "score": 1,
+                                          "created_utc": 1734828756.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m316g2w",
+      "author": "ZenwalkerNS",
+      "body": "That's all it took to get man to the moon.",
+      "score": 2,
+      "created_utc": 1734725489.0,
+      "replies": [
+        {
+          "id": "m31w9ik",
+          "author": "Kosmos992k",
+          "body": "Nope. It took less.\n\n4KB of RAM.\n\n64kb of what was in effect ROM.\n\nThe 4KB was the only rewriteable memory in that system.",
+          "score": 1,
+          "created_utc": 1734734545.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2t1z0f",
+      "author": "SQL617",
+      "body": "My guess it\u2019s become more of a hobby and fun little fact for the bakery. Kudos to them, it\u2019s pretty cool!",
+      "score": 4,
+      "created_utc": 1734606737.0,
+      "replies": []
+    },
+    {
+      "id": "m2tadiu",
+      "author": "Left_Apparently",
+      "body": "Are they sure that they don\u2019t want to replace it with something better and modern that they will have to replace every 4 years?",
+      "score": 2,
+      "created_utc": 1734611354.0,
+      "replies": []
+    },
+    {
+      "id": "m2ugwpm",
+      "author": "necromundus",
+      "body": "Turns out devices without internet access can't be given updates that slow them down",
+      "score": 4,
+      "created_utc": 1734626883.0,
+      "replies": []
+    },
+    {
+      "id": "m2tneok",
+      "author": "oldmaninparadise",
+      "body": "Hey, make fun all you want, if the airlines were all running C 64s this summer, nothing would have shut down!",
+      "score": 3,
+      "created_utc": 1734616909.0,
+      "replies": [
+        {
+          "id": "m2tqgm6",
+          "author": "skriefal",
+          "body": "But there might be plenty of flight delays.  Those floppy drives were sloooowww....",
+          "score": 4,
+          "created_utc": 1734618064.0,
+          "replies": [
+            {
+              "id": "m2uddsq",
+              "author": "CodeMonkeyMayhem",
+              "body": "The engineers who designed the VIC20/C64 would like everyone to know...it was Commodore's Japanese division fault for the slow disk access.",
+              "score": 3,
+              "created_utc": 1734625771.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2tomrl",
+      "author": "thisischemistry",
+      "body": "This is news to people? If anything, it's overkill to use this device as a cash register. You could use devices far less powerful to run a cash register. Sure, it's cute that people have their nostalgia tickled over this but it's not really anything that crazy.",
+      "score": 2,
+      "created_utc": 1734617381.0,
+      "replies": [
+        {
+          "id": "m2tyncn",
+          "author": "triplejumpxtreme",
+          "body": "I don't think they chose this recently. They just never upgraded",
+          "score": 3,
+          "created_utc": 1734620970.0,
+          "replies": [
+            {
+              "id": "m2tzrm7",
+              "author": "thisischemistry",
+              "body": "I figured the same, many older businesses use devices like the Commodore 64 or Apple II because they were pretty common back in the day. The machines are simple enough, other than stuff like traces cracking due to thermal issues they should last for many years.",
+              "score": 1,
+              "created_utc": 1734621348.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2ugwsx",
+          "author": "GregMaffei",
+          "body": "Maybe powerful as in wattage, but I don't think even trailing edge chips are that slow nowadays.",
+          "score": 1,
+          "created_utc": 1734626883.0,
+          "replies": []
+        },
+        {
+          "id": "m2um869",
+          "author": "kindall",
+          "body": "I worked at Sears in the mid '80s and a C64 had only slightly less horse power than the register I used there, an NCR 2152, which was powered by an 8086. Now that I look the specs it I'm surprised they needed a processor even that powerful, especially because the system was hobbled by some slow-ass printers (three on each register). Fun fact: due to the slow printers, the machine had a monster typeahead buffer. I could enter most of a small order by the time the register got done printing the receipt's header...",
+          "score": 1,
+          "created_utc": 1734628666.0,
+          "replies": [
+            {
+              "id": "m2uy0xl",
+              "author": "thisischemistry",
+              "body": "They probably just used it because it was a mass-produced processor and system, not because they needed the computing power. Really, all a register needs is a limited display, keyboard, printer, and some simple math functions. Sure, you could use more like connecting to inventory-control systems and such but even that can be done with pretty minimal hardware.",
+              "score": 1,
+              "created_utc": 1734633026.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2u20nt",
+      "author": "Miserable-Result6702",
+      "body": "Hope they recapped it at some point. 40 year old capacitors are a failure waiting to happen.",
+      "score": 2,
+      "created_utc": 1734622090.0,
+      "replies": [
+        {
+          "id": "m2ucyde",
+          "author": "pinespalustris",
+          "body": "Didnt think about this at all until watching 8-bit guy\u2019s youtube channel years ago.",
+          "score": 2,
+          "created_utc": 1734625633.0,
+          "replies": []
+        },
+        {
+          "id": "m2wtsiq",
+          "author": "kb_hors",
+          "body": "Electrolytic capacitors of good quality degrade (deform) through lack of use, which is clearly not a problem here.\n\nElectrolytic capacitors of bad quality fail long before 40 years.",
+          "score": 0,
+          "created_utc": 1734655839.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2uj4xx",
+      "author": "jatufin",
+      "body": "Sometimes you see a post about a crashed ATM showing Windows XP error messages. Comments fill rapidly with 'experts' babbling about the stupidity of banks for using a vulnerable system. In reality, Win XP works fine because it's a closed network and you have total control over the hardware.",
+      "score": 2,
+      "created_utc": 1734627587.0,
+      "replies": [
+        {
+          "id": "m2wu13s",
+          "author": "kb_hors",
+          "body": "ATMs are not a closed system, they have to connect to the internet.\n\nThey are *exceedingly* vulnerable, and frankly if you see an outdated one you should not use it.",
+          "score": 1,
+          "created_utc": 1734655928.0,
+          "replies": [
+            {
+              "id": "m2x04bm",
+              "author": "TheDayHam",
+              "body": "Yeah idk what this thread is about, legacy OS = probably very vulnerable to security threats.\n\nSome have to experience it to learn I guess.",
+              "score": 0,
+              "created_utc": 1734658241.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2v3de6",
+      "author": "Octopusapult",
+      "body": "You think that's old fashioned, you should see what[ our recently elected governor Mike Braun thinks of interracial marriage.](https://www.cnn.com/2022/03/23/politics/mike-braun-interracial-marriage-comments/index.html)",
+      "score": 2,
+      "created_utc": 1734634728.0,
+      "replies": [
+        {
+          "id": "m2w58bb",
+          "author": "Avlonnic2",
+          "body": "Ugh.",
+          "score": 1,
+          "created_utc": 1734646888.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2t5bs9",
+      "author": "Mercutio999",
+      "body": "Shift Run/Stop\nPress play on tape",
+      "score": 1,
+      "created_utc": 1734608713.0,
+      "replies": []
+    },
+    {
+      "id": "m2tdjkq",
+      "author": "aqan",
+      "body": "Is this same as McDonalds force feeding us with quarter pounder while a spicy chicken is all we need??",
+      "score": 1,
+      "created_utc": 1734612853.0,
+      "replies": []
+    },
+    {
+      "id": "m2tlw75",
+      "author": "browndog03",
+      "body": "Do they print your receipt with the dot matrix printer?\n\n\nSCREEEEEEEEEEEEEEE-SCREEEEEEEEEEE!!!",
+      "score": 1,
+      "created_utc": 1734616327.0,
+      "replies": [
+        {
+          "id": "m2tyray",
+          "author": "triplejumpxtreme",
+          "body": "Is that the one with the tear away sides?",
+          "score": 1,
+          "created_utc": 1734621008.0,
+          "replies": [
+            {
+              "id": "m2v9hjd",
+              "author": "red286",
+              "body": "Yup.",
+              "score": 1,
+              "created_utc": 1734636679.0,
+              "replies": []
+            },
+            {
+              "id": "m2wha7b",
+              "author": "browndog03",
+              "body": "I forgot about those",
+              "score": 1,
+              "created_utc": 1734651174.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2u17y5",
+      "author": "rdrTrapper",
+      "body": "But how can I tell I made a transaction unless I see animated confetti and a tip screen at a retail store? I need payment anxiety that is gamified!",
+      "score": 1,
+      "created_utc": 1734621828.0,
+      "replies": []
+    },
+    {
+      "id": "m2u4n3f",
+      "author": "TeranOrSolaran",
+      "body": "Ain\u2019t broke, don\u2019t fix.",
+      "score": 1,
+      "created_utc": 1734622946.0,
+      "replies": []
+    },
+    {
+      "id": "m2u58ib",
+      "author": "Flat-Emergency4891",
+      "body": "I\u2019d be playing Boulder Dash in my spare time.",
+      "score": 1,
+      "created_utc": 1734623140.0,
+      "replies": []
+    },
+    {
+      "id": "m2u5h9q",
+      "author": "itsaride",
+      "body": "That's so damn cool. Love how they put coloured stickers on each key too.",
+      "score": 1,
+      "created_utc": 1734623217.0,
+      "replies": []
+    },
+    {
+      "id": "m2u9n5i",
+      "author": "Sunlight72",
+      "body": "\u201cStill\u201d??? They jumped into the computer age! We\u2019re living in the computer age!\n\nSounds like they\u2019re on top of modern technology to me. I\u2019m typing this on a Gutenberg press.",
+      "score": 1,
+      "created_utc": 1734624568.0,
+      "replies": []
+    },
+    {
+      "id": "m2u9pi1",
+      "author": "Samuel-squantch",
+      "body": "I\u2019d be playing Rags to Riches at work",
+      "score": 1,
+      "created_utc": 1734624589.0,
+      "replies": []
+    },
+    {
+      "id": "m2ubpj7",
+      "author": "LazyLaserWhittling",
+      "body": "what a shame\u2026 poor C64 being reduced to that barely minimal task.",
+      "score": 1,
+      "created_utc": 1734625236.0,
+      "replies": []
+    },
+    {
+      "id": "m2ud0hd",
+      "author": "loco_elect92",
+      "body": "Even the most advanced railway locomotives are 20+ years behind on technology. It\u2019s cheap and works.",
+      "score": 1,
+      "created_utc": 1734625652.0,
+      "replies": []
+    },
+    {
+      "id": "m2udgk5",
+      "author": "LeCrushinator",
+      "body": "A C64 is enough -- if the software you want to use will run on it.",
+      "score": 1,
+      "created_utc": 1734625795.0,
+      "replies": []
+    },
+    {
+      "id": "m2ughof",
+      "author": "star-nosedmole",
+      "body": "this seems so much like a muncie thing to do",
+      "score": 1,
+      "created_utc": 1734626752.0,
+      "replies": []
+    },
+    {
+      "id": "m2ukcrl",
+      "author": "dietTomato28",
+      "body": "Honestly it\u2019s probably more advanced than a lot of cash registers still in use in convenience stores considering how primitive and basic they can be still.",
+      "score": 1,
+      "created_utc": 1734627981.0,
+      "replies": []
+    },
+    {
+      "id": "m2ul0qp",
+      "author": "Flaurentiu26",
+      "body": "I hope he does backups",
+      "score": 1,
+      "created_utc": 1734628202.0,
+      "replies": []
+    },
+    {
+      "id": "m2umeqq",
+      "author": "FluffyNevyn",
+      "body": "Sure it can't do anything else, but it doesn't need to either. Solid reliable machine.",
+      "score": 1,
+      "created_utc": 1734628742.0,
+      "replies": []
+    },
+    {
+      "id": "m2umisq",
+      "author": "None",
+      "body": "Interesting. I remembered some discussions I saw on YouTube about architecture. Often a monolith already solves the problem.",
+      "score": 1,
+      "created_utc": 1734628789.0,
+      "replies": []
+    },
+    {
+      "id": "m2umskt",
+      "author": "TheMatt561",
+      "body": "If work why change?",
+      "score": 1,
+      "created_utc": 1734628902.0,
+      "replies": []
+    },
+    {
+      "id": "m2un77w",
+      "author": "kiltedswine",
+      "body": "Wow! There is a lesson in there somewhere\u2026",
+      "score": 1,
+      "created_utc": 1734629073.0,
+      "replies": []
+    },
+    {
+      "id": "m2unjms",
+      "author": "Roaskywalker",
+      "body": "If works",
+      "score": 1,
+      "created_utc": 1734629218.0,
+      "replies": []
+    },
+    {
+      "id": "m2unmbf",
+      "author": "brittneyacook",
+      "body": "Is it Longs? Lol\n\nEdit: nope it\u2019s Hilligoss",
+      "score": 1,
+      "created_utc": 1734629250.0,
+      "replies": []
+    },
+    {
+      "id": "m2uo2bw",
+      "author": "dingo596",
+      "body": "Most computers are upgraded because of security. You need to upgrade from Windows 7 to Windows 10 now to Windows 11 as the support ends. Each time also upgrading the system because Windows needs more power but ultimately your work load could easily be done on a Pentium 3. I do often wonder how many millions of tons of ewaste are generated yearly just on these upgrades.",
+      "score": 1,
+      "created_utc": 1734629443.0,
+      "replies": []
+    },
+    {
+      "id": "m2uoayj",
+      "author": "Kriss3d",
+      "body": "Once it dies. They can either easily get it repaired or replace it with a raspberry pi.",
+      "score": 1,
+      "created_utc": 1734629546.0,
+      "replies": []
+    },
+    {
+      "id": "m2uojjk",
+      "author": "AvonMustang",
+      "body": "Where. Am Hoosier so will travel to see!",
+      "score": 1,
+      "created_utc": 1734629648.0,
+      "replies": []
+    },
+    {
+      "id": "m2uouhv",
+      "author": "Hasone4245",
+      "body": "Probably the same reason they don't put I7 processors in basic calculators.",
+      "score": 1,
+      "created_utc": 1734629781.0,
+      "replies": []
+    },
+    {
+      "id": "m2upqj3",
+      "author": "HawaiianSteak",
+      "body": "Darn, I passed by the bakery last April after the eclipse and contemplated a donut but decided not to delay my road trip with non essential stops.",
+      "score": 1,
+      "created_utc": 1734630168.0,
+      "replies": []
+    },
+    {
+      "id": "m2upqvp",
+      "author": "BigBleu71",
+      "body": "hint : a **VIC-20** could do the job , if you use the *memory expansion*",
+      "score": 1,
+      "created_utc": 1734630173.0,
+      "replies": []
+    },
+    {
+      "id": "m2upwhk",
+      "author": "Embarrassed-Ebb-6900",
+      "body": "My skills haven\u2019t outpaced my first PC but I\u2019m still forced to \u201cupgrade\u201d my system lol.",
+      "score": 1,
+      "created_utc": 1734630240.0,
+      "replies": []
+    },
+    {
+      "id": "m2uq2r6",
+      "author": "panzerbjrn",
+      "body": "I hope they have a spare or two hidden away \ud83d\ude02\ud83d\ude02",
+      "score": 1,
+      "created_utc": 1734630314.0,
+      "replies": []
+    },
+    {
+      "id": "m2uqvuq",
+      "author": "TheGreatKonaKing",
+      "body": "No viruses",
+      "score": 1,
+      "created_utc": 1734630652.0,
+      "replies": []
+    },
+    {
+      "id": "m2v2mb4",
+      "author": "ZacharyTF",
+      "body": "This bakery is located where my aunt and uncle live (small town just outside of Indianapolis on the northwest side).\n\nI'll have to stop there next time I visit, probably in August for the annual family golf outing.",
+      "score": 1,
+      "created_utc": 1734634492.0,
+      "replies": []
+    },
+    {
+      "id": "m2vb8vl",
+      "author": "hollyglaser",
+      "body": "If it ain\u2019t broke, why change?",
+      "score": 1,
+      "created_utc": 1734637242.0,
+      "replies": []
+    },
+    {
+      "id": "m2vgfjk",
+      "author": "mundotaku",
+      "body": "I bought a 1mb Apple Macintosh Plus that was the computer from a woodshop. They used it until the owner retired a few years ago.",
+      "score": 1,
+      "created_utc": 1734638914.0,
+      "replies": []
+    },
+    {
+      "id": "m2vktns",
+      "author": "hurricanechurch",
+      "body": "If it ain't broke....",
+      "score": 1,
+      "created_utc": 1734640333.0,
+      "replies": []
+    },
+    {
+      "id": "m2vm3r7",
+      "author": "dreevsa",
+      "body": "See, we don\u2019t always need the latest and greatest",
+      "score": 1,
+      "created_utc": 1734640741.0,
+      "replies": []
+    },
+    {
+      "id": "m2vnjh5",
+      "author": "romanw2702",
+      "body": "No one will ever need more than 64k of ram anyway.",
+      "score": 1,
+      "created_utc": 1734641196.0,
+      "replies": []
+    },
+    {
+      "id": "m2vqwr1",
+      "author": "zoeymithra",
+      "body": "They probably won't get hacked any time soon.",
+      "score": 1,
+      "created_utc": 1734642264.0,
+      "replies": []
+    },
+    {
+      "id": "m2vrcaa",
+      "author": "None",
+      "body": "that is awesome!",
+      "score": 1,
+      "created_utc": 1734642402.0,
+      "replies": []
+    },
+    {
+      "id": "m2vsmut",
+      "author": "Nemo_Shadows",
+      "body": "Pencil and paper sufficed for many generations and the energy use was a lot less.\n\nN. S",
+      "score": 1,
+      "created_utc": 1734642816.0,
+      "replies": []
+    },
+    {
+      "id": "m2vuneg",
+      "author": "TDK_90",
+      "body": "Testament to how good the quality was back then. Modern smartphones however....",
+      "score": 1,
+      "created_utc": 1734643449.0,
+      "replies": []
+    },
+    {
+      "id": "m2w3kpb",
+      "author": "None",
+      "body": "This is all that matters.  Nothing else to see on the internet of importance.",
+      "score": 1,
+      "created_utc": 1734646324.0,
+      "replies": []
+    },
+    {
+      "id": "m2w3wsp",
+      "author": "iamhovering",
+      "body": "They were ahead of their time.",
+      "score": 1,
+      "created_utc": 1734646436.0,
+      "replies": []
+    },
+    {
+      "id": "m2wgg2m",
+      "author": "fcewen00",
+      "body": "I love how much coverage this is getting now.  2 years ago when I posted it, no one blinked, yet here we are now.  Wonderful bakery, doughnuts and cheese danish are incredible.",
+      "score": 1,
+      "created_utc": 1734650863.0,
+      "replies": []
+    },
+    {
+      "id": "m2wk5o5",
+      "author": "Skypirate90",
+      "body": "Truthfully Most users dont need the high end computers they buy every 2 years. Not for word processing and shooting out an e-mail. You don't need a gabillion gigs of ram and 2 tbs of hard drive space. It's rather unfortunate what consumerism is doing to this planet for devices that most users dont even utilize the most of. \n\n\n\nI work IT and was just talking to some coworkers about how the majority of our users dont need these powerful devices. \n\nYes of course there are those that need high end computers for data processing, AI, 3D rendering and more. But you don't need 32 gigs of ram and a 4080 graphics card for your quickbooks.",
+      "score": 1,
+      "created_utc": 1734652251.0,
+      "replies": []
+    },
+    {
+      "id": "m2wlbkr",
+      "author": "Negative-Ad547",
+      "body": "See, it\u2019s not just the people that are locked in a different time.",
+      "score": 1,
+      "created_utc": 1734652685.0,
+      "replies": []
+    },
+    {
+      "id": "m2wrs1d",
+      "author": "Sir_Yacob",
+      "body": "Fucking green screen at guitar center lol",
+      "score": 1,
+      "created_utc": 1734655093.0,
+      "replies": []
+    },
+    {
+      "id": "m2wwwqk",
+      "author": "roselynn-jones",
+      "body": "Hope they are using a new stock power bricks. The old ones will eventually fry your machine.",
+      "score": 1,
+      "created_utc": 1734657018.0,
+      "replies": []
+    },
+    {
+      "id": "m2x6xlr",
+      "author": "Aevelas",
+      "body": "Hey that\u2019s my hometown. Donuts from there fresh in the morning were absolutely amazing.",
+      "score": 1,
+      "created_utc": 1734660828.0,
+      "replies": []
+    },
+    {
+      "id": "m2x9he2",
+      "author": "binyang",
+      "body": "The monitors look updated. How could they convert the s video to more modern connectors?",
+      "score": 1,
+      "created_utc": 1734661821.0,
+      "replies": []
+    },
+    {
+      "id": "m2x9vv2",
+      "author": "binyang",
+      "body": "Now I'm thinking those are c64 re-make not the original c64. The original has no hard drive but floppy disks.",
+      "score": 1,
+      "created_utc": 1734661977.0,
+      "replies": []
+    },
+    {
+      "id": "m2xj8j7",
+      "author": "vc6vWHzrHvb2PY2LyP6b",
+      "body": "I mean, this is cool and probably worth posting, but it's not really that unusual. I'm sure this happens all over, particularly in rural areas.",
+      "score": 1,
+      "created_utc": 1734665721.0,
+      "replies": []
+    },
+    {
+      "id": "m2xrveg",
+      "author": "Publius83",
+      "body": "Ughh so lame, don\u2019t they know the Commodore 65 has come out already",
+      "score": 1,
+      "created_utc": 1734669467.0,
+      "replies": []
+    },
+    {
+      "id": "m2xs8eq",
+      "author": "ul90",
+      "body": "Why not? Many new devices use embedded processors with only a few kB of RAM and flash memory, at low speed. \n\nIf you want something that runs stable for a long time, less software and simpler hardware is usually better.",
+      "score": 1,
+      "created_utc": 1734669640.0,
+      "replies": [
+        {
+          "id": "m31wopq",
+          "author": "Kosmos992k",
+          "body": "Embedded micro controllers perhaps. Modern CPUs even the smaller ones, typically have cache memory measured in MB. You'd have to step back to the 90s to get a real CPU with 64KB or less in L1 cache.",
+          "score": 1,
+          "created_utc": 1734734702.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2xzzih",
+      "author": "jerseyeer",
+      "body": "But can they play Ultimate Wizard?!",
+      "score": 1,
+      "created_utc": 1734673602.0,
+      "replies": []
+    },
+    {
+      "id": "m2y1zwt",
+      "author": "Kaldek",
+      "body": "There's a slot car racing track near to me that uses an Amiga 500 as the track controller still.",
+      "score": 1,
+      "created_utc": 1734674749.0,
+      "replies": []
+    },
+    {
+      "id": "m2y2s38",
+      "author": "Cappuccino_Ronin",
+      "body": "#Light Work",
+      "score": 1,
+      "created_utc": 1734675212.0,
+      "replies": []
+    },
+    {
+      "id": "m2y46br",
+      "author": "altgrave",
+      "body": "i imagine some stores still use an abacus",
+      "score": 1,
+      "created_utc": 1734676041.0,
+      "replies": []
+    },
+    {
+      "id": "m2yxp4q",
+      "author": "Lindaspike",
+      "body": "Well, Indiana\u2026",
+      "score": 1,
+      "created_utc": 1734695846.0,
+      "replies": []
+    },
+    {
+      "id": "m2zbqmp",
+      "author": "reichjef",
+      "body": "It never asks for a tip, unlike every iPad I\u2019ve ever used.",
+      "score": 1,
+      "created_utc": 1734702456.0,
+      "replies": []
+    },
+    {
+      "id": "m2znb4w",
+      "author": "Girlindaytona",
+      "body": "That was a great computer..",
+      "score": 1,
+      "created_utc": 1734706939.0,
+      "replies": []
+    },
+    {
+      "id": "m30oloa",
+      "author": "Skytras",
+      "body": "That's cool yo.",
+      "score": 1,
+      "created_utc": 1734719482.0,
+      "replies": []
+    },
+    {
+      "id": "m31gg4c",
+      "author": "MatrixF6",
+      "body": "You need even less computing power for a cash register.",
+      "score": 1,
+      "created_utc": 1734728921.0,
+      "replies": []
+    },
+    {
+      "id": "m31nptz",
+      "author": "Evening_Mess_2721",
+      "body": "You have to love the tech side of India.  The Commodores 64 was my first computer.",
+      "score": 1,
+      "created_utc": 1734731431.0,
+      "replies": []
+    },
+    {
+      "id": "m31vqtx",
+      "author": "Kosmos992k",
+      "body": "Just a reminder that you don't need 16GB of RAM...OG Elite ran in around 20KB of RAM with 12KB used for the display.",
+      "score": 1,
+      "created_utc": 1734734353.0,
+      "replies": []
+    },
+    {
+      "id": "m31z1n8",
+      "author": "Luxferrae",
+      "body": "That thing probably belongs in a museum...",
+      "score": 1,
+      "created_utc": 1734735589.0,
+      "replies": []
+    },
+    {
+      "id": "m324yc6",
+      "author": "fjvgamer",
+      "body": "He will survive the Cylon invasion for sure.",
+      "score": 1,
+      "created_utc": 1734737898.0,
+      "replies": []
+    },
+    {
+      "id": "m32b1p2",
+      "author": "North_South_Side",
+      "body": "My mom who learned accounting/bookkeeping in high school and worked as administrative assistance for many years, still uses physical, printed spreadsheets to keep track of all household expenses! She is 83 now, and doesn't keep track of absolutely everything these days, but it's fascinating to see her large, folded papers all filled out with Palmer-method handwriting in pencil. She has sheets of this stuff that go back to the mid '60s when my parents first married and bought a house.\n\nIt works. It's entirely possible to run a business that way, even today.",
+      "score": 1,
+      "created_utc": 1734740321.0,
+      "replies": []
+    },
+    {
+      "id": "m331r2a",
+      "author": "Mr_Nawa",
+      "body": "I mean, it IS the breadbox so it makes sense to me.",
+      "score": 1,
+      "created_utc": 1734751409.0,
+      "replies": []
+    },
+    {
+      "id": "m334tfb",
+      "author": "None",
+      "body": "There is something to be said about the operation of these older computers.\n\nThere is literally zero bloat when it comes to operations, and you never have to worry about updates or the internet being down.\n\nBut also the parts are so big they are easy to fix and very stable as they are not jammed packed as these new soc designs that is dependent on singular atoms behaving properly.",
+      "score": 1,
+      "created_utc": 1734752744.0,
+      "replies": []
+    },
+    {
+      "id": "m33jouk",
+      "author": "frezor",
+      "body": "The airline reservation system works on Fortran code from the 60\u2019s",
+      "score": 1,
+      "created_utc": 1734760113.0,
+      "replies": []
+    },
+    {
+      "id": "m33lapt",
+      "author": "Polymathy1",
+      "body": "I'm using 30-year old computers to control industrial tools that make semiconductor chips.\n\nUsing old tech for industrial use is pretty common.",
+      "score": 1,
+      "created_utc": 1734761011.0,
+      "replies": [
+        {
+          "id": "m374y9z",
+          "author": "spinosaurs70",
+          "body": "A computer from 2000 can do most of what a business needs technically.",
+          "score": 1,
+          "created_utc": 1734818338.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m33y6rq",
+      "author": "CX500C",
+      "body": "Mine burned up after a few years\u2026as did the second one. Would still have mine in my office if it worked probably.",
+      "score": 1,
+      "created_utc": 1734768976.0,
+      "replies": []
+    },
+    {
+      "id": "m34aj9d",
+      "author": "Minute_Path9803",
+      "body": "Well, the proof is in the pudding.\n\n It's not running Windows and is still up!",
+      "score": 1,
+      "created_utc": 1734777254.0,
+      "replies": []
+    },
+    {
+      "id": "m34sqoy",
+      "author": "russellvt",
+      "body": "They likely wrote their own software in C64 BASIC... and it works \"well enough\" for them.\n\nReminds me of the stuff I wrote, long ago, in Paradox... and it was still being used not too long ago. LOL",
+      "score": 1,
+      "created_utc": 1734787643.0,
+      "replies": []
+    },
+    {
+      "id": "m35j7ap",
+      "author": "None",
+      "body": "I miss mine..",
+      "score": 1,
+      "created_utc": 1734798020.0,
+      "replies": []
+    },
+    {
+      "id": "m374mzr",
+      "author": "spinosaurs70",
+      "body": "If not for Gamers and (video editing) technological progress would be way slower for home PCs.",
+      "score": 1,
+      "created_utc": 1734818227.0,
+      "replies": []
+    },
+    {
+      "id": "m39ps5x",
+      "author": "Swiggy1957",
+      "body": "The first computer I ever used was my friend's VIC20.",
+      "score": 1,
+      "created_utc": 1734866184.0,
+      "replies": []
+    },
+    {
+      "id": "m2ty2bc",
+      "author": "bws7037",
+      "body": "if it ain't broke, don't fix it...",
+      "score": 1,
+      "created_utc": 1734620771.0,
+      "replies": []
+    },
+    {
+      "id": "m2xw2uh",
+      "author": "Konradleijon",
+      "body": "Better than Macs",
+      "score": 1,
+      "created_utc": 1734671524.0,
+      "replies": []
+    },
+    {
+      "id": "m2tcsl7",
+      "author": "Horror-Possible5709",
+      "body": "That sounds like it\u2019s frustrating for the part time help lol",
+      "score": 0,
+      "created_utc": 1734612514.0,
+      "replies": []
+    },
+    {
+      "id": "m2tfvoq",
+      "author": "None",
+      "body": "That\u2019s pretty cool. Should probably upgrade at this point though.",
+      "score": 0,
+      "created_utc": 1734613881.0,
+      "replies": []
+    },
+    {
+      "id": "m2wytnq",
+      "author": "linux_n00by",
+      "body": "why the author doesnt know if it uses it from 1982? all they had to do was ask the owner?",
+      "score": 0,
+      "created_utc": 1734657749.0,
+      "replies": []
+    }
+  ]
+}

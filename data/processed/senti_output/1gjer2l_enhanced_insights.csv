@@ -1,0 +1,49 @@
+metric,value
+file,1gjer2l.csv
+title,Apple's M4 Max is the single-core performance king in Geekbench 6 — M4 Max beats the Core Ultra 9 285K and Ryzen 9 9950X
+rows,561
+num_posts,1
+num_comments,560
+unique_authors,256
+max_depth,10
+avg_comment_words,87.27
+median_comment_words,60.0
+max_comment_words,650
+positive_count,76
+negative_count,372
+neutral_count,112
+positive_pct,13.571
+negative_pct,66.429
+neutral_pct,20.0
+topic_1_keywords,"apple, windows, im, use, run, like, software, work"
+topic_1_label,"Apple uses Windows, like, software, and run"
+topic_2_keywords,"apple, battery, life, mac, windows, performance, much, gaming"
+topic_2_label,"Apple Battery, Windows, Performance, Much"
+topic_3_keywords,"windows, linux, performance, use, apple, years, mac, never"
+topic_3_label,"Windows, Linux, performance, use, mac"
+topic_4_keywords,"mac, windows, macbook, years, pc, apple, gpu, get"
+topic_4_label,"Windows, Mac, PC, Apple, gpu"
+topic_5_keywords,"m4, ram, max, mac, core, would, single, even"
+topic_5_label,"m4 ram, ram, ram, m4 core, would, single, even"
+topic_6_keywords,"apple, price, dont, use, gpus, one, like, windows"
+topic_6_label,Apple doesn't like windows
+top_ngram_1,battery life (69)
+top_ngram_2,m4 max (52)
+top_ngram_3,macbook pro (52)
+top_ngram_4,single core (49)
+top_ngram_5,build quality (35)
+top_ngram_6,apple silicon (32)
+top_ngram_7,mac os (27)
+top_ngram_8,years ago (25)
+top_ngram_9,apple laptops (24)
+top_ngram_10,besides battery (23)
+ner_1,Apple|ORG|278
+ner_2,Mac|MISC|184
+ner_3,Windows|MISC|145
+ner_4,Linux|MISC|77
+ner_5,ARM|MISC|43
+ner_6,AMD|ORG|42
+ner_7,MacBook|MISC|41
+ner_8,MacOS|MISC|37
+ner_9,Intel|ORG|33
+ner_10,MacBook Pro|MISC|26

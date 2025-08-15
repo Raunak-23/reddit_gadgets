@@ -1,0 +1,49 @@
+metric,value
+file,1hy7v48.csv
+title,"New USB logos will simplify branding on hubs and cables | Goodbye, ambiguous USB branding"
+rows,230
+num_posts,1
+num_comments,229
+unique_authors,174
+max_depth,10
+avg_comment_words,63.11
+median_comment_words,38.0
+max_comment_words,421
+positive_count,24
+negative_count,205
+neutral_count,0
+positive_pct,10.48
+negative_pct,89.52
+neutral_pct,0.0
+topic_1_keywords,"branding, tb4, usb4, cable, optional, usb, know, features"
+topic_1_label,tb4 usb4 cable and usb4 cable
+topic_2_keywords,"usb4, usb, tb4, thunderbolt, device, speed, like, way"
+topic_2_label,tb4 usb and tb4 thunderbolt
+topic_3_keywords,"usb, speed, gen, cable, need, usb4, new, 32"
+topic_3_label,"gen, usb, gen, usb"
+topic_4_keywords,"usb, cable, new, cant, good, find, fuck, great"
+topic_4_label,cable is good for fucking
+topic_5_keywords,"usb, gen, cable, even, speed, cables, hearts, usb4"
+topic_5_label,"gen, cable, hearts, usb4"
+topic_6_keywords,"usb, need, port, cable, 40gbps, supports, one, years"
+topic_6_label,a usb is needed for a port and cable in a year
+top_ngram_1,usb 32 (26)
+top_ngram_2,usb cable (26)
+top_ngram_3,usb hearts (22)
+top_ngram_4,usb4 gen (20)
+top_ngram_5,usb 40gbps (19)
+top_ngram_6,32 gen (18)
+top_ngram_7,transfer speed (18)
+top_ngram_8,usb 32 gen (16)
+top_ngram_9,rated speed (16)
+top_ngram_10,like usb (15)
+ner_1,USB|MISC|186
+ner_2,USB|ORG|47
+ner_3,HDMI|MISC|11
+ner_4,PCWorld|ORG|10
+ner_5,Apple|ORG|9
+ner_6,USB 1|MISC|7
+ner_7,Linux|MISC|7
+ner_8,Thunderbolt|MISC|7
+ner_9,USB Hearts|MISC|6
+ner_10,USB4|MISC|6

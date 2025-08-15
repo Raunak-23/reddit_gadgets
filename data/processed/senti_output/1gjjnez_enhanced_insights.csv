@@ -1,0 +1,49 @@
+metric,value
+file,1gjjnez.csv
+title,"AMD's RX 6600 is the most popular Red Team GPU among Steam gamers, by a whisker — but no Radeon card makes the top 30 list"
+rows,62
+num_posts,1
+num_comments,61
+unique_authors,43
+max_depth,7
+avg_comment_words,47.75
+median_comment_words,42.0
+max_comment_words,139
+positive_count,21
+negative_count,40
+neutral_count,0
+positive_pct,34.426
+negative_pct,65.574
+neutral_pct,0.0
+topic_1_keywords,"amd, nvidia, cpu, good, products, competition, market, end"
+topic_1_label,nvidia and cpu are good products in the market
+topic_2_keywords,"thing, tech, 6900xt, finewine, good, amd, yet, strikes"
+topic_2_label,A few things to do for a tad bit of a tad bit of a tad bit
+topic_3_keywords,"data, centres, servers, market, 6650m, outsold, centre, intel"
+topic_3_label,Intel centres and servers are outsold in market
+topic_4_keywords,"amd, nvidia, crashes, gpus, people, makes, every, drivers"
+topic_4_label,nvidia crashes in gpus
+topic_5_keywords,"nvidia, amd, rx, card, good, 6950xt, going, still"
+topic_5_label,nvidia card still going
+topic_6_keywords,"dlss, quality, 1440p, tell, amd, ive, legit, cant"
+topic_6_label,dlss is 1440p and is a cant
+top_ngram_1,high end (10)
+top_ngram_2,good thing (10)
+top_ngram_3,pretty much (8)
+top_ngram_4,amd finewine (6)
+top_ngram_5,finewine tech (6)
+top_ngram_6,amd finewine tech (6)
+top_ngram_7,tell quality (6)
+top_ngram_8,nvidia high (5)
+top_ngram_9,end market (5)
+top_ngram_10,market pretty (5)
+ner_1,AMD|ORG|41
+ner_2,Nvidia|ORG|25
+ner_3,Intel|ORG|7
+ner_4,AMD FineWine|ORG|6
+ner_5,##vidia|ORG|6
+ner_6,AMDs|ORG|5
+ner_7,DL|MISC|4
+ner_8,##deon|ORG|3
+ner_9,AMD|MISC|3
+ner_10,Switch|MISC|3

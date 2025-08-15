@@ -1,0 +1,925 @@
+{
+  "post": {
+    "title": "Valve may be ready to revive Steam Machines with Project \"Fremont\" | Internal code leaks indicate Valve has plenty of new hardware planned",
+    "author": "chrisdh79",
+    "id": "1hb2339",
+    "score": 421,
+    "created_utc": 1733838374.0,
+    "selftext": "",
+    "num_comments": 106,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hb2339/valve_may_be_ready_to_revive_steam_machines_with/"
+  },
+  "comments": [
+    {
+      "id": "m1cyy5r",
+      "author": "Lopsided_architect",
+      "body": "With how well Proton works - good call",
+      "score": 115,
+      "created_utc": 1733839712.0,
+      "replies": [
+        {
+          "id": "m1dq1eg",
+          "author": "OffbeatDrizzle",
+          "body": "Proton works, it's anti cheats that are the problem. \n\nPlenty of games over the past few months have just been broken from working states due to developers / publishers getting mad at the Linux crowd. We're all cheaters, apparently",
+          "score": 64,
+          "created_utc": 1733848946.0,
+          "replies": [
+            {
+              "id": "m1f4zu0",
+              "author": "Stingray88",
+              "body": "There\u2019s so many incredible games available today, particularly from indie developers. It\u2019s very easy to just ignore any game that uses anti-cheat that\u2019s not compatible with Linux.",
+              "score": 25,
+              "created_utc": 1733864769.0,
+              "replies": [
+                {
+                  "id": "m1fwsh4",
+                  "author": "OffbeatDrizzle",
+                  "body": "and what happens if you're a kid and all of your buddies want to play fortnite or roblox? I get that not being able to play a game isn't the be all and end all (and those games actually are cancer), but being excluded from a game that your group of friends plays will just make you go back to windows\n\nadded to this is the fact that games you've been playing for years are not safe. battlefield 1 and 5? stopped working. GTA5? now you can only play single player. Valve are also refusing refunds to a lot of people on the basis that the game has been in their library for more than 2 weeks - completely ignorant (intentional or not) to the fact that the software has been substantially modified from when you purchased it",
+                  "score": 11,
+                  "created_utc": 1733873797.0,
+                  "replies": [
+                    {
+                      "id": "m1fx5kn",
+                      "author": "Stingray88",
+                      "body": "It'll suck in the short term... but in the long term if people just stop buying games that don't work on linux, game devs will stop developing games that don't work on linux.\n\nAs far as the refund issues go... that's well beyond Valve's purview and responsibility. GTA 5 has been out for over a decade. If people can't play the game anymore that's not Valve letting people down, it's Rockstar. Just stop buying from developers who are shitty like this.",
+                      "score": 6,
+                      "created_utc": 1733873927.0,
+                      "replies": [
+                        {
+                          "id": "m1g01w8",
+                          "author": "OffbeatDrizzle",
+                          "body": "Valve sold you the game - it is totally their responsibility, especially when they advertise on their own store page that the game runs on linux and then silently change it when support is removed. That's great for new purchases... but not good enough for the people whose money they've already taken.\n\nDo you really think linux users boycotting rockstar is going to change anything? GTA5 was one of the most top played steam deck titles and they didn't give a fuck. It's highly suspicious that 10 years after PC release they all of a sudden need non-compatible linux anti-cheat",
+                          "score": -7,
+                          "created_utc": 1733874961.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2g2daq",
+                      "author": "Dotaproffessional",
+                      "body": "Good thing I'm not a kid. Roblox can go ahead and die I think",
+                      "score": 1,
+                      "created_utc": 1734409091.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m4l24t6",
+                      "author": "jebuizy",
+                      "body": "Well, I'm not a kid, so its not a problem for me.",
+                      "score": 1,
+                      "created_utc": 1735592773.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1hnvrz",
+                  "author": "Thwitch",
+                  "body": "This thing wont gain anything close to traction if COD and Fortnite dont work on it. Period. And if it doesnt gain major traction, Valve will eventually drop it. Deck had the luxury of being a unique product class",
+                  "score": 1,
+                  "created_utc": 1733900246.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1d59th",
+          "author": "TheyCallMeMrMaybe",
+          "body": "Proton really was the missing link with making Linux gaming work. \n\nThroughout 2013 (the launch of the PS4/Xbox One), Valve released SteamOS and added native Linux support to Steam and all of their games hoping PC developers would quickly do the same but it didn't pay off the way they wanted. Part of the problem with SteamOS 1.0 and 2.0 was the fact it was Debian-based. SteamOS 3.0's move to Arch Linux remedies this issue. \n\nAnd now, Valve is supposedly releasing brand guidelines for other hardware manufacturers to be able to use SteamOS on systems that are built to compete with the Steam Deck. This is a higher level of regulation than what the 2013 Steam Machines were going to have, but if licensing costs are $0, this will help reduce costs for handhelds like the ROG Ally since there's no need for customers or the manufacturer to have a licensed Windows OS installed.",
+          "score": 25,
+          "created_utc": 1733842069.0,
+          "replies": [
+            {
+              "id": "m1h7esl",
+              "author": "noJokers",
+              "body": "Why is a debian base the issue? The real issue is that nobody wanted to spend pc money on a console experience where they were unable to play most of their games. Proton works great on arch, debian, redhat etc. \n\nWith the steam deck valve subsidised the product, launched it in a unique formfactor (for pc) and proton meant that 95% of games were playable. I think for steam machines to succeed valve really need to price them under comparable windows devices and in line with console costs.",
+              "score": 4,
+              "created_utc": 1733891664.0,
+              "replies": []
+            },
+            {
+              "id": "m1eaucd",
+              "author": "Tigeire",
+              "body": "\"Part of the problem with SteamOS 1.0 and 2.0 was the fact it was Debian-based. SteamOS 3.0's move to Arch Linux remedies this issue.\"",
+              "score": -11,
+              "created_utc": 1733855425.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1dx0mz",
+      "author": "None",
+      "body": "Dang, not sure if I want to buy a steam deck now or just save up to see what they have planned. The deck is pretty cool, but there\u2019s also some games it can\u2019t play and it\u2019s hardware is only slightly better than my laptop, so I\u2019m worried it\u2019ll become outdated before too long. I\u2019ve been hoping they would put out a console, but now I\u2019m kind of in the predicament if I want better specs or easier transportability. Guess I\u2019m going to have to do some pondering\u2026\n\n![gif](giphy|13R4gPwPpLHQwU)",
+      "score": 18,
+      "created_utc": 1733851132.0,
+      "replies": [
+        {
+          "id": "m1epems",
+          "author": "Cute_Commission_8281",
+          "body": "Steam deck serves a very specific purpose and it\u2019s pretty heavy and bulky tbh. It\u2019s awesome but I don\u2019t use it nearly enough to justify buying it. \n\nNo hurt in biding your time.",
+          "score": 11,
+          "created_utc": 1733859937.0,
+          "replies": [
+            {
+              "id": "m1hcqhy",
+              "author": "Imbrown2",
+              "body": "Also apparently they have a two year lifespan. I may be spreading rumors/lies, but as far as I know mine will not turn on and after two years that\u2019s expected.",
+              "score": -7,
+              "created_utc": 1733894150.0,
+              "replies": [
+                {
+                  "id": "m1ix3l0",
+                  "author": "DennisDG",
+                  "body": "The one I've had since launch still works fine. I've never even heard of this two year issue until your comment.",
+                  "score": 7,
+                  "created_utc": 1733926015.0,
+                  "replies": [
+                    {
+                      "id": "m1kpweu",
+                      "author": "Imbrown2",
+                      "body": "Yeah I too heard about it in a comment and can now not find any evidence of its existence. I guess I just need to send mine in or open it up and adjust a cable.",
+                      "score": 0,
+                      "created_utc": 1733946423.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1hmqtp",
+          "author": "ZennyRL",
+          "body": "Chances are, whatever they're building here will have the same game compatibility as steam deck anyway. That fact probably isn't worth considering. This product is probably gonna line up with the steamdeck's OS being released for other hardware which has been planned for a while but still not executed",
+          "score": 2,
+          "created_utc": 1733899566.0,
+          "replies": []
+        },
+        {
+          "id": "m1livhu",
+          "author": "Narcofeels",
+          "body": "Buy a used one I preordered mine played it for 6 months and then dropped it once I got a gaming laptop and now touch it maybe twice a year \n\nI\u2019m sure plenty of people have used SD just taking up space",
+          "score": 2,
+          "created_utc": 1733955105.0,
+          "replies": []
+        },
+        {
+          "id": "m1pqq70",
+          "author": "Magiwarriorx",
+          "body": "A Deck 2 is probably still a ways out. The Deck will (likely) remain a benchmark for compatibility/performance for a while longer.\n\n\nFor the other options, I'd wait for just a hair, (Game Awards tonight, CES 2025 in January), then make the call. Anything longer than that and there's no telling how long the wait till be.",
+          "score": 2,
+          "created_utc": 1734021783.0,
+          "replies": []
+        },
+        {
+          "id": "m303n4t",
+          "author": "ZigZagBoy94",
+          "body": "I personally think if it\u2019s slightly more powerful than your current gaming laptop, just get it now. \n\nI just got a steam deck OLED this year in late October/Early November and I\u2019m very, very happy with it. I was considering waiting because of the rumors of a possible hardware upgrade but decided to buy it for two reasons:\n\n1. Most hardware rumors that are this fuzzy usually means that we\u2019re anywhere from 12-18 months away from a release AT THE EARLIEST. In the case of the Nintendo Switch 2, those rumors have been floating around for almost half a decade and we don\u2019t even have an announcement.\n\n2. Valve said that there won\u2019t be a Steam Deck hardware upgrade until there\u2019s a meaningful and significant power difference that they can offer, so even if they did release a new Steam Deck soon, judging by the fact that the cheapest Steam Deck OLED is $549 USD, the cheapest Steam Deck 2 would probably be around least $1,199 and I wouldn\u2019t pay for that when I could probably get a comparable or potentially more powerful gaming laptop for that price",
+          "score": 2,
+          "created_utc": 1734712554.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1eb7h4",
+      "author": "Stumpyz",
+      "body": "Steam Machines, like a large amount of Valve hardware, was a design ahead of its time. I can't wait to see their revival.",
+      "score": 15,
+      "created_utc": 1733855537.0,
+      "replies": [
+        {
+          "id": "m1hurug",
+          "author": "None",
+          "body": "But other companies made those machines",
+          "score": -5,
+          "created_utc": 1733904635.0,
+          "replies": [
+            {
+              "id": "m1i31me",
+              "author": "Stumpyz",
+              "body": "Which is why I said it was a design ahead of its time, not the hardware itself. \n\nIn the same vein - Steam Links were a design ahead of its time, as is shown by the newer trend of remote/cloud gaming. Steam Decks literally created a new era of mobile hardware because the design and concept were just that good. Even the Valve Index controllers have a better design than almost every VR controller out there, and they've been out for years.",
+              "score": 1,
+              "created_utc": 1733910389.0,
+              "replies": [
+                {
+                  "id": "m1imz9e",
+                  "author": "None",
+                  "body": "OnLive predates link",
+                  "score": -5,
+                  "created_utc": 1733921877.0,
+                  "replies": [
+                    {
+                      "id": "m1irtvw",
+                      "author": "Stumpyz",
+                      "body": "Ah, you're nitpicking, got it.",
+                      "score": 2,
+                      "created_utc": 1733923939.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1dlr33",
+      "author": "Exceed_SC2",
+      "body": "The one thing I would really want from this, would be making sure using discord while in \u201cconsole mode\u201d, is easy. While you can multitask in SteamOS, it requires going to desktop mode. If they can integrate using discord with it in someway, then I think it would be perfect as a console",
+      "score": 16,
+      "created_utc": 1733847589.0,
+      "replies": [
+        {
+          "id": "m1ebd6o",
+          "author": "Spicy_Taco_Dude",
+          "body": "It already works in game mode. You just launch discord, then hit the steam button and library or home to launch the game and you can quickly switch between them via the steam button.",
+          "score": 5,
+          "created_utc": 1733855587.0,
+          "replies": [
+            {
+              "id": "m1elt5d",
+              "author": "Exceed_SC2",
+              "body": "Can you control the discord UI with a normal controller though? It's still the desktop UI",
+              "score": 3,
+              "created_utc": 1733858821.0,
+              "replies": [
+                {
+                  "id": "m1eptkf",
+                  "author": "Spicy_Taco_Dude",
+                  "body": "Yes, you'll have to fiddle with the control layout of course. Works great for me with the touchpads but you could set it up.",
+                  "score": 3,
+                  "created_utc": 1733860065.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1f5vnp",
+                  "author": "Stingray88",
+                  "body": "Yes you can. Use the touchpads.",
+                  "score": 3,
+                  "created_utc": 1733865045.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1ehksa",
+          "author": "thejoshfoote",
+          "body": "Discord already works and can just be in the background  tho? lol",
+          "score": 2,
+          "created_utc": 1733857506.0,
+          "replies": [
+            {
+              "id": "m1elcoy",
+              "author": "Exceed_SC2",
+              "body": "Ok, explain a step by step, how to easily do this through the Steam Big Picture UI. If at any point you say something that requires an input device other than the controller or requires you to go to desktop mode, I'm going to slap you. If you are able to give this step by step in a way you would be comfortable giving it to someone that is technology illiterate over the phone, like your mom, I will suck your dick, okay?\n\nI'm completely aware and have used it on my deck, but it is not a console like experience.",
+              "score": -3,
+              "created_utc": 1733858679.0,
+              "replies": [
+                {
+                  "id": "m1eokr3",
+                  "author": "thejoshfoote",
+                  "body": "You setup discord as non steam game, then u launch it in gaming mode, then click the steam button and launch a game\u2026 click steam button to switch screens as needed",
+                  "score": 1,
+                  "created_utc": 1733859679.0,
+                  "replies": [
+                    {
+                      "id": "m1evzk0",
+                      "author": "Exceed_SC2",
+                      "body": "How are you getting discord on the SteamOS, how are you controlling it with a standard controller? I\u2019m aware of the current measures to do so, I\u2019m saying give me the equivalent experience as on PS5. You\u2019re skipping a lot of steps here, and assuming a steam deck for control device",
+                      "score": -2,
+                      "created_utc": 1733861995.0,
+                      "replies": [
+                        {
+                          "id": "m1exo10",
+                          "author": "thejoshfoote",
+                          "body": "How don\u2019t u understand lol. \ud83d\ude02 I control it with my steamdeck in my hands",
+                          "score": 4,
+                          "created_utc": 1733862521.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m1f5qtk",
+                          "author": "Stingray88",
+                          "body": "I\u2019m with the other guy, I think the person you need to slap is yourself. I\u2019ve had no issues using discord on the Steamdeck. You have to install it in Desktop Mode, but after you add it to Steam it\u2019s ready to be used on the Game Mode. No external peripherals required.",
+                          "score": 3,
+                          "created_utc": 1733865003.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2g2w99",
+          "author": "Dotaproffessional",
+          "body": "On the contrary, I wouldn't mind if this shipped and everyone moved to steam chat. I'm tired of discord",
+          "score": 1,
+          "created_utc": 1734409318.0,
+          "replies": []
+        },
+        {
+          "id": "m1dnq9o",
+          "author": "BMCarbaugh",
+          "body": "Agree. Though I will say, you can now do voice chat in Steam chat, and it's not bad.",
+          "score": 0,
+          "created_utc": 1733848218.0,
+          "replies": [
+            {
+              "id": "m1dod8z",
+              "author": "Exceed_SC2",
+              "body": "Yeah, it\u2019s more so that everyone is on discord. While the capabilities are there on Steam, discord is where everyone is, where the group chat already is, where the voice channels and everything are already happening. Ideally you don\u2019t need to change the thing everyone is using because *you* bought a Steam machine instead of a windows PC or even a PS5/XBSX (those have discord support)",
+              "score": 1,
+              "created_utc": 1733848422.0,
+              "replies": []
+            },
+            {
+              "id": "m1dyvax",
+              "author": "Robot1me",
+              "body": ">you can now do voice chat in Steam chat, and it's not bad.\n\nYeah I agree and I actually use it as a main gaming chat. Yet at the same time, Valve really, really needs to get over themselves to work on it again. For example, voice chat for the chat app was announced back in 2019, and 5 years later there are still no signs of it. Valve created such an amazing foundation with the chat revamp in 2018, just to later act like \"I don't want to play with you anymore\".",
+              "score": 0,
+              "created_utc": 1733851715.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1nx1x9",
+      "author": "gg06civicsi",
+      "body": "How about this, a dockable steam deck. That when docked could let you use it as a desktop computer and play games at higher resolution.",
+      "score": 2,
+      "created_utc": 1733991373.0,
+      "replies": [
+        {
+          "id": "m2g52s2",
+          "author": "Dotaproffessional",
+          "body": "... Isn't that just the deck?",
+          "score": 1,
+          "created_utc": 1734410275.0,
+          "replies": [
+            {
+              "id": "m2g60x8",
+              "author": "gg06civicsi",
+              "body": "Hmm you are right shows I don\u2019t have one. Can we add an E-Gpu? That would be nice.",
+              "score": 1,
+              "created_utc": 1734410704.0,
+              "replies": [
+                {
+                  "id": "m2g7zhk",
+                  "author": "Dotaproffessional",
+                  "body": "I think that requires either USB 4 or thunderbolt right? I know thunderbolt is Intel only. I don't know the USB spec of the deck\u00a0",
+                  "score": 1,
+                  "created_utc": 1734411622.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1dd5pr",
+      "author": "turnerm05",
+      "body": "This is a big threat to Microsoft and Sony.  Will be interesting to see how it shakes out.  No one makes money on hardware... this is all about software sales and Valve will want to protect that so I don't foresee the Microsoft or Sony Stores being allowed.  Microsoft's only hope is cloud based game streaming which isn't the ideal solution.",
+      "score": 4,
+      "created_utc": 1733844783.0,
+      "replies": [
+        {
+          "id": "m1dkzl5",
+          "author": "thedoc90",
+          "body": "I doubt Valve would restrict applications from competitors as that would fly in the face of their current branding (You own the devices and can do whatever you like with them including flashing your own OS, hardware modding and sideloading programs, hell they released the CAD files for the steamdeck so people could design their own accessories.) and potenetially lead to backlash from their free and open source partners. It would also be trivially easy to circumvent because of the way open source software works, or people could just flash the device with Chimera OS or any of the other non valve maintained\u00a0 SteamOS forks, so at the end of the day it'd be a pointless and inflammitory move. Not to mention it could get Sony and Microsoft to pull listings from steam in retaliation.",
+          "score": 14,
+          "created_utc": 1733847343.0,
+          "replies": [
+            {
+              "id": "m1e1wt5",
+              "author": "AgentOfSPYRAL",
+              "body": "I don\u2019t own a steam deck so truly ignorant on this topic, is playing Xbox games (Gamepass or owned) on the deck as simple as using \u201cdesktop mode\u201d?",
+              "score": 1,
+              "created_utc": 1733852658.0,
+              "replies": [
+                {
+                  "id": "m1eccpq",
+                  "author": "turnerm05",
+                  "body": "No.  And this is my point.  They will control the storefront.  You can only stream Gamepass games.  You don't have access to the Gamepass application or the ability to download and play Gamepass games directly from Microsoft.\n\n  \nValve makes money on game sales, not hardware.",
+                  "score": -2,
+                  "created_utc": 1733855892.0,
+                  "replies": [
+                    {
+                      "id": "m83vf9c",
+                      "author": "turnerm05",
+                      "body": "The downvotes here are comical.  Time will tell.  If you're Valve... how do you make money?  Just think about it for a second.  I'm not knocking them at all.  I'm actually applauding them for using their approach to make more money.",
+                      "score": 1,
+                      "created_utc": 1737345563.0,
+                      "replies": [
+                        {
+                          "id": "mqjlfz9",
+                          "author": "20dogs",
+                          "body": "The downvotes are because it's a Linux machine, Valve doesn't control which software runs on it, and the reason why you can't play Xbox games is because of Microsoft",
+                          "score": 1,
+                          "created_utc": 1746370160.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m1ef3j1",
+                      "author": "AgentOfSPYRAL",
+                      "body": "So Valve is already restricting applications for competitors, outside of the tiny minority of folks who will do full on modding or flashing of the OS. \n\nNot knocking them for doing so, of course they want you buying from Steam.",
+                      "score": -1,
+                      "created_utc": 1733856737.0,
+                      "replies": [
+                        {
+                          "id": "m1ehjrj",
+                          "author": "thedoc90",
+                          "body": "They are not restricting applications as it is being presented in this thread. The steamdeck runs Linux, if these game companies have linux versions of their software they will just run. If they only run on windows then they will not. If not, they may be run via proton or wine, if they do not run via proton or wine it is because the system calls made in the software are unsupported. The software the steamdeck runs on is open source as well, so the developers could make their software compatible with the steamdeck for free without paying licensing fees. Gog and other non-steam storefronts with linux support can already be used seamlessly in the deck by adding them as non-steam games.",
+                          "score": 5,
+                          "created_utc": 1733857498.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1ed944",
+              "author": "turnerm05",
+              "body": "They are doing it now with the Steam Deck.  This is a play (and a smart one) to get more hardware access points into the wild to broaden the funnel into their Steam storefront.\n\n  \nSure - they'll let you mod your device however you want.  They even provide drivers to do so.  You want to dual boot or turn the device into a Windows-only machine?  Go ahead.  So I agree with you there.\n\n  \nBut what they currently offer is a great OS that provides seamless access to their storefront and the ability to play games in a console like environment.  I'd be SHOCKED if they provide access to the Microsoft and Playstation storefronts so that you can buy and download their games directly (including the benefit of any subscription service that you may have).",
+              "score": -1,
+              "created_utc": 1733856167.0,
+              "replies": [
+                {
+                  "id": "m1ei4c6",
+                  "author": "thedoc90",
+                  "body": "If Microsoft or sony create linux compatible storefronts nothing will stop them from running on the steamdeck. Sure, they may not be packaged with the deck by default, but there would be literally nothing stopping you from using desktop mode to download them and then adding them as a non-steam app like you already can with gog and other non-steam storefronts.",
+                  "score": 2,
+                  "created_utc": 1733857675.0,
+                  "replies": [
+                    {
+                      "id": "m82yy4y",
+                      "author": "ChinaCSBestCS",
+                      "body": "Theoretically could the xbox/playstation storefront be added in the flatpack based software section? Or are those apps only limited to Valve\u2019s choosing? Cuz that makes it very simple for less tech savvy folks to download apps *Genuine question coming from a linux newbie",
+                      "score": 1,
+                      "created_utc": 1737334240.0,
+                      "replies": [
+                        {
+                          "id": "m863p5z",
+                          "author": "thedoc90",
+                          "body": "Flatpak/discover is not maintained or curated by valve, so absolutely.",
+                          "score": 1,
+                          "created_utc": 1737385480.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1end2w",
+      "author": "Immolation_E",
+      "body": "I really hope it's a consolized PC and not a streaming box with gaming features. It's rumored to be running on a flavor ChromeOS.",
+      "score": 3,
+      "created_utc": 1733859304.0,
+      "replies": [
+        {
+          "id": "m1ett2q",
+          "author": "evolvedspice",
+          "body": "It will run steamOS",
+          "score": 5,
+          "created_utc": 1733861310.0,
+          "replies": []
+        },
+        {
+          "id": "m2g30oc",
+          "author": "Dotaproffessional",
+          "body": "By dumb people. It's going to have some chrome libraries. Probably to help run apps like Netflix etc.\u00a0",
+          "score": 1,
+          "created_utc": 1734409372.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1e6mpl",
+      "author": "adratlas",
+      "body": "Considering how proton right now and how good the new integrated graphics are on the new processors, that can be a pretty good move by valve.\n\n\nI believe it'll be pretty much like one of those mini PCs we see on the market.\u00a0",
+      "score": 1,
+      "created_utc": 1733854123.0,
+      "replies": [
+        {
+          "id": "m1h6iiz",
+          "author": "TooStrangeForWeird",
+          "body": "You can basically make your own right now, beyond knowing how to install Linux (if you wanted it, no reason not to use the included Windows IMO) you just hook up a controller and set steam to launch on startup in big picture mode. \n\nhttps://morefine.com/products/morefine-s500-r7-7840hs-r7-7840u-mini-pc?variant=40446303600727 I've used one of these for a client before and they're not only fast, but it has another PCIe slot and even a slot for a 2.5 SATA SSD. At least the S500+ I used did. There's probably cheaper ones out there (the linked one is $500 with 16gb/1TB) but at the time I bought it they were on sale.",
+          "score": 1,
+          "created_utc": 1733891266.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1ek4ym",
+      "author": "RavensFlockLetsFly",
+      "body": "I remember when I thought Alienware Alpha was the future. Good times.",
+      "score": 1,
+      "created_utc": 1733858302.0,
+      "replies": []
+    },
+    {
+      "id": "m1faz44",
+      "author": "None",
+      "body": "If they are reasonably priced I'd buy one. I want a pc but I can't afford pc prices. I have a TV with a PS5, would be nice to be able to play some of the older games I used to love on pc that I can't play on console or try new indie things",
+      "score": 1,
+      "created_utc": 1733866596.0,
+      "replies": [
+        {
+          "id": "m1h7f1i",
+          "author": "TooStrangeForWeird",
+          "body": "Mini PCs are already a thing, and if their previous efforts are anything to go by it'll basically be that. You can even install SteamOS if you want to. \n\nhttps://morefine.com/products/morefine-s500-r7-7840hs-r7-7840u-mini-pc?variant=40446303600727 something like that.",
+          "score": 1,
+          "created_utc": 1733891667.0,
+          "replies": [
+            {
+              "id": "m1hug6v",
+              "author": "None",
+              "body": "Yeah but if it's made by valve I'm hoping they will be sufficiently mass produced to bring the cost down",
+              "score": 1,
+              "created_utc": 1733904418.0,
+              "replies": [
+                {
+                  "id": "m1hvh5v",
+                  "author": "TooStrangeForWeird",
+                  "body": "For sure, plus skipping the built in cost of a windows OS. OEMs might only pay $50 (I don't recall what it was) vs our $100, but it still brings up the cost.",
+                  "score": 1,
+                  "created_utc": 1733905105.0,
+                  "replies": [
+                    {
+                      "id": "m8309cq",
+                      "author": "ChinaCSBestCS",
+                      "body": "Well OEMs are gonna be paying $0 for SteamOS on handheld hardware, so would be pretty stupid of them to charge extra for use in \u201cconsole\u201d like systems",
+                      "score": 1,
+                      "created_utc": 1737334646.0,
+                      "replies": [
+                        {
+                          "id": "m84y6b5",
+                          "author": "TooStrangeForWeird",
+                          "body": "Yeah, that was kind of my point. I was talking about ones with the windows OS.",
+                          "score": 1,
+                          "created_utc": 1737366141.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1gqy0s",
+      "author": "Ron-F",
+      "body": "I hope they will only establish standards. As such, I could assemble my own Steam machine at home. \n\nThe stickers suggest many PC builders will be supplying Steam based machines in different configurations. SteamOS is already pretty good as a console OS and, as Phil Spencer pointed out, it\u2019s not feasible to sell consoles nowadays with a subsided price.",
+      "score": 1,
+      "created_utc": 1733884920.0,
+      "replies": []
+    },
+    {
+      "id": "m1i8nfk",
+      "author": "Frece1070",
+      "body": "As someone who uses Batocera we are almost there although we need better Steam support. The best thing about it is easy to install and it can run from a USB stick or drive. Being Linux it means it can work even all the way back to C2D or C2Q era CPUs. The general problem for mass adoption is that a lot of publishers are cleaning their hands with Linux users when it comes to stopping cheaters in online games when in reality they do zero to nothing.",
+      "score": 1,
+      "created_utc": 1733914169.0,
+      "replies": []
+    },
+    {
+      "id": "m1idbrr",
+      "author": "meunbear",
+      "body": "I hope the next Steam Deck can power games at 1080p so it\u2019s easier to use on tv or monitor. Basically just less setting juggling. Still amazed by what the Deck can do as it is. Also look forward to putting SteamOS on older PCs I have and make them useful again.",
+      "score": 1,
+      "created_utc": 1733917010.0,
+      "replies": []
+    },
+    {
+      "id": "m1iem1f",
+      "author": "MajorFuckingDick",
+      "body": "The moment I buy a quest 3 they are going to announce deckard aren't they?",
+      "score": 1,
+      "created_utc": 1733917737.0,
+      "replies": [
+        {
+          "id": "m2g5144",
+          "author": "Dotaproffessional",
+          "body": "Wasn't the case for me",
+          "score": 1,
+          "created_utc": 1734410254.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1izvvp",
+      "author": "Shushani",
+      "body": "A Steam box would be a day 1 purchase for me. The Steam Deck is so good.",
+      "score": 1,
+      "created_utc": 1733927066.0,
+      "replies": []
+    },
+    {
+      "id": "m1nco7u",
+      "author": "WideCardiologist3323",
+      "body": "I would buy his in a heart beat. I actually just bought an ROG ally and will install bazzite on it so I can just press and play games for short durations on my monitor after my graphics card for my pc broke. I dont need 4k res. I am okay with 1080p. \n\nI his box was an option and costed the same as a ps5 I would buy no questions asked.",
+      "score": 1,
+      "created_utc": 1733979673.0,
+      "replies": []
+    },
+    {
+      "id": "m1dixc3",
+      "author": "WalletFullOfSausage",
+      "body": "I would pay good money for a Steam console a la the Xbox or PlayStation. \n\nI know, I know, you can use a PC that way - but not without a moderately higher amount of effort compared to a console\u2019s ability to just plug in and play. I want to come home, plop on my couch, pick up the controller, and play games on the big screen with my surround sound. If I could do that as easily with the Steam library as I could an Xbox, then I\u2019m sold.\n\nEdit: all the comments telling me that it\u2019s possible also have the caveat of changing settings or something - that proves my point. I want a 1:1 experience, as quick & simple as plugging in an Xbox right out of the box.",
+      "score": -1,
+      "created_utc": 1733846675.0,
+      "replies": [
+        {
+          "id": "m1e30br",
+          "author": "G8M8N8",
+          "body": "What if Valve sells the Steam Machine as a console competitor, but inside it's just a standard ATX compliant PC? You have a nice well rounded gaming console for relaxed players, and have a easy to tinker with machine for those more into PC?",
+          "score": 1,
+          "created_utc": 1733852997.0,
+          "replies": [
+            {
+              "id": "m1e66dy",
+              "author": "WalletFullOfSausage",
+              "body": "I\u2019d go for that probably. I just want the simplicity of consoles with the functionality and library of PC. Consoles are plug & play right out of the box, PCs aren\u2019t. I want a 1:1 experience.",
+              "score": 1,
+              "created_utc": 1733853979.0,
+              "replies": [
+                {
+                  "id": "m1e6fxe",
+                  "author": "G8M8N8",
+                  "body": "I wonder what would set it apart from a normal machine with Steam big picture mode though.",
+                  "score": 1,
+                  "created_utc": 1733854064.0,
+                  "replies": [
+                    {
+                      "id": "m1ebcvy",
+                      "author": "WalletFullOfSausage",
+                      "body": "For me, the ease of use. An Xbox or playstation can be up and playing within 5 minutes of taking it out of the box - bullshit updates notwithstanding.",
+                      "score": 2,
+                      "created_utc": 1733855584.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1dqm7q",
+          "author": "Lurking_like_Cthulhu",
+          "body": "You can with big picture mode though. I\u2019ve been doing it the last year and it\u2019s really as simple as turning on your pc, and opening Steam. Everything else from that point is easily done with a controller from the comfort of my sofa.",
+          "score": 2,
+          "created_utc": 1733849124.0,
+          "replies": [
+            {
+              "id": "m1dup1w",
+              "author": "WalletFullOfSausage",
+              "body": "But that\u2019s the thing, that\u2019s more effort than a console requires. Not much, but more.",
+              "score": 0,
+              "created_utc": 1733850399.0,
+              "replies": [
+                {
+                  "id": "m1dvg8x",
+                  "author": "Lurking_like_Cthulhu",
+                  "body": "Actually you can set Big Picture Mode to launch on PC startup, so it\u2019s not really any extra effort or steps.",
+                  "score": 0,
+                  "created_utc": 1733850637.0,
+                  "replies": [
+                    {
+                      "id": "m1e2iz9",
+                      "author": "WalletFullOfSausage",
+                      "body": "You\u2019re missing my point. It\u2019s *still* not easier than a console. If I\u2019m playing with my PC on my tv screen, I\u2019ve gotta get a wireless controller, I\u2019ve gotta hook way more things up since my console audio goes straight from my TV\u2019s HDMI to my surround sound, so on and so forth. PCs do not, out of the box, operate as easily as consoles and that\u2019s just a fact. PCs are not \u201cplug & play\u201d without putting forth the effort into making them that way. I want a Steam-based console that can mirror that experience 1:1.",
+                      "score": -3,
+                      "created_utc": 1733852848.0,
+                      "replies": [
+                        {
+                          "id": "m1ih2kj",
+                          "author": "LupusDeusMagnus",
+                          "body": "That\u2019s just wrong? I legitimately don\u2019t know what you\u2019re onto. At most, you have to download Steam as a setup, as opposed to having a store baked into the OS like a console. There\u2019s literally nothing a steam-based console would make simpler than things already are.",
+                          "score": 5,
+                          "created_utc": 1733919045.0,
+                          "replies": [
+                            {
+                              "id": "m1iiivd",
+                              "author": "WalletFullOfSausage",
+                              "body": "How am I wrong? Consoles are plug & play, right out of the box. PC is not like that. If I have to do *anything* more than I would a console, then it isn\u2019t the 1:1 experience I\u2019m wanting. \n\nAll I\u2019m saying is I want a Steam-based Xbox. I don\u2019t know why that pisses you people off so much, to the point where you\u2019d tell me I\u2019m *wrong* about\u2026something that doesn\u2019t exist that I wish did? I don\u2019t get it, man. It\u2019s not a wild concept.",
+                              "score": -1,
+                              "created_utc": 1733919784.0,
+                              "replies": [
+                                {
+                                  "id": "m1is0xc",
+                                  "author": "LupusDeusMagnus",
+                                  "body": "The reason is that you're simply not making sense. You're saying things that are blatantly wrong and acting like you live in an alternate universe where they are true.\n\nWith consoles, which are not plug and play out of the box, you have to take them out of the box they come in, plug in the cables, turn them on, connect the controllers, let them update, set up your account, download games and then play.\n\nWith PCs, specially if you buy pre-built, you take them out of the box, plug in the cables (which are literally the same as that of a console), download steam, set up your account, connect your controller, download games and then play. \n\nThe same thing, the only difference is that you download steam once. That's it. You may want a steam box for whatever reason you like, that's on you, but the specific reason you cite just isn't real.",
+                                  "score": 4,
+                                  "created_utc": 1733924017.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1ix5wz",
+                                      "author": "WalletFullOfSausage",
+                                      "body": "Okay; then let me be more specific: I want a 1:1 experience for the same price. My console has 2 cables coming out of the back of it. My PC has an entire fucking rackmounted recording interface attached to it, costs twice as much, and still cant run every game as my consoles at equal settings. I want a dedicated gaming-only machine akin to an Xbox or PlayStation but with a Steam library. There is nothing \u201cwrong\u201d with that.",
+                                      "score": 0,
+                                      "created_utc": 1733926040.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1jfaqv",
+                                          "author": "LupusDeusMagnus",
+                                          "body": "Your PC having a recording interface is literally a you problem. That\u2019s for your other uses of a PC and has nothing to do with its ability to play games. If you want to record games, both windows and console have functions to record screens, but otherwise you\u2019d need a dedicated recording card for all of them.\n\nAs for the price, that\u2019s a valid reason, but that\u2019s not what you were talking about. Consoles will have a lower price point because companies selling them sell them at a price lower than they cost because they then have an exclusivity of the store and make up the difference with pricier software and being the only choice. Assuming a steam machine comes out, being a PC, I really doubt Valve is going to subside it to people, as that\u2019s basically giving a discount on an open PC.\u00a0",
+                                          "score": 2,
+                                          "created_utc": 1733932331.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m1ir3gt",
+                              "author": "Brian_K9",
+                              "body": "Its not the same dude.\u00a0",
+                              "score": -1,
+                              "created_utc": 1733923640.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m5b4fbf",
+                          "author": "Mr_Nicotine",
+                          "body": "Don\u2019t listen to 90% of redditor PC players. They would die from a heat stroke rather than let go 40% of performance.\n\nMajority of people want a experience like you describe, and the majority of people game on laptops.",
+                          "score": 2,
+                          "created_utc": 1735966822.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m1e8fi6",
+                          "author": "ticket2win",
+                          "body": "You lost me when you compared plugging a hdmi cable from a console to plugging an hdmi cable from a PC.\n\nThey work the same way.",
+                          "score": 4,
+                          "created_utc": 1733854684.0,
+                          "replies": [
+                            {
+                              "id": "m1e9lz7",
+                              "author": "WalletFullOfSausage",
+                              "body": "My PC has a dedicated audio card that I use for recording purposes - my audio does not come out of my GPU\u2019s HDMI or my I/O port. On PC, I can route all that to my rack interfaces and not worry about it. If I took my PC to my living room and hooked it up to the big screen, I\u2019d need more connections than I do for my consoles, which require one singular cable. \n\nWhich brings me to my other point: I use my PC for things that aren\u2019t always gaming. I want a dedicated gaming machine that doesn\u2019t need to move from place to place, and preferably I wouldn\u2019t have to build a whole new PC to do it.",
+                              "score": -3,
+                              "created_utc": 1733855047.0,
+                              "replies": [
+                                {
+                                  "id": "m1hvcqp",
+                                  "author": "awnylo",
+                                  "body": "Audio over hdmi has been supported on gpus for ages by now. That's not an issue.",
+                                  "score": 3,
+                                  "created_utc": 1733905023.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1hk9wm",
+          "author": "ninjapro98",
+          "body": "I don\u2019t understand all of the people arguing with you tbh. You can get a console like experience on PC but you need to do a lot of set up both hardware and software wise to make it work",
+          "score": 1,
+          "created_utc": 1733898132.0,
+          "replies": []
+        },
+        {
+          "id": "m1druu6",
+          "author": "Wildantics",
+          "body": "Yeah I feel exactly the same man, I hope they make tiers if they do it because I would love something like that with a 4080 super or equivalent.",
+          "score": -1,
+          "created_utc": 1733849507.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1d2qwx",
+      "author": "cunningmunki",
+      "body": "Remember those rumours, that got shot down, about Valve developing a device that would double as the GPU for the Deckard and a new home-console version of Steam Deck?",
+      "score": 1,
+      "created_utc": 1733841145.0,
+      "replies": []
+    },
+    {
+      "id": "m1fm6z4",
+      "author": "sometipsygnostalgic",
+      "body": "They should probably stick to steamdeck",
+      "score": 0,
+      "created_utc": 1733870174.0,
+      "replies": [
+        {
+          "id": "m2g4w4s",
+          "author": "Dotaproffessional",
+          "body": "Why either or?",
+          "score": 1,
+          "created_utc": 1734410192.0,
+          "replies": [
+            {
+              "id": "m2gwfqi",
+              "author": "sometipsygnostalgic",
+              "body": "The steam machine went really badly because Valve couldn't make it more appealing than a games console or a pc. The device had too limited power. \n\nSteamdeck is great because you can use it like this, or you can use it as a portable. It is the perfected Steam Machine. \n\nEven if they somehow find a reason to offer the steam machine again, if they split attention between steamdeck and steam machine, then they may be shooting themselves in the foot. Microsoft have that problem where they have too many Xbox options which is why they aren't confident making a handheld.",
+              "score": 1,
+              "created_utc": 1734426056.0,
+              "replies": [
+                {
+                  "id": "m2hyvzn",
+                  "author": "Dotaproffessional",
+                  "body": "I don't understand the emphasis on \"attention\" you're making. They are completely different product categories. Its like saying \"people might not buy a ps3 if they buy a game boy\".",
+                  "score": 1,
+                  "created_utc": 1734446175.0,
+                  "replies": [
+                    {
+                      "id": "m2i935v",
+                      "author": "sometipsygnostalgic",
+                      "body": "Theyre not though. Consider how much worse the Wii U did compared to the 3ds, and how much better the Switch did than both systems because it combined everything into a single focused handheld. The Steam Machine is like a Wii U to the Steamdeck's Switch.",
+                      "score": 1,
+                      "created_utc": 1734449732.0,
+                      "replies": [
+                        {
+                          "id": "m2ifjzb",
+                          "author": "Dotaproffessional",
+                          "body": "Are you suggesting that the Wii u's failure was because of the 3ds? That's the part I'm disagreeing with. You're relating things that are unrelated.\u00a0\n\n\nA steam console wouldn't fail because the steam deck exists and the Wii u (which failed) had zero to do with the 3ds. They didn't even play all the same titles.\u00a0\n\n\nThey're unrelated\u00a0",
+                          "score": 1,
+                          "created_utc": 1734451842.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m5b4pl8",
+                  "author": "Mr_Nicotine",
+                  "body": "Back then the APUs were literal shit, as well as console being the main gaming platform.\n\nThings changed now, and desktop usage is DWINDLING, majority of pc players play Sims 4, LoL, Dota 2, CSGO2 on their consumer-laptops.",
+                  "score": 1,
+                  "created_utc": 1735966950.0,
+                  "replies": [
+                    {
+                      "id": "m5lvpi0",
+                      "author": "Tsubajashi",
+                      "body": "the \"majority of pc players\" it is not. look at the steam survey. most rigs listed there dont even use mobile chips - let alone solely APUs.",
+                      "score": 1,
+                      "created_utc": 1736119739.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

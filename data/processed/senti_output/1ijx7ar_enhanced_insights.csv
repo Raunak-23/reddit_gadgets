@@ -1,0 +1,49 @@
+metric,value
+file,1ijx7ar.csv
+title,New device uses electrically assisted wind to fight fires
+rows,72
+num_posts,1
+num_comments,71
+unique_authors,52
+max_depth,8
+avg_comment_words,42.94
+median_comment_words,25.0
+max_comment_words,269
+positive_count,18
+negative_count,53
+neutral_count,0
+positive_pct,25.352
+negative_pct,74.648
+neutral_pct,0.0
+topic_1_keywords,"ozone, like, fire, hours, use, rings, fan, machines"
+topic_1_label,ozone likes fire
+topic_2_keywords,"exposure, chronic, lol, considered, worried, youre, really, fire"
+topic_2_label,exposure to chronic irrational
+topic_3_keywords,"ozone, even, fire, co2, extinguishers, might, small, would"
+topic_3_label,"ozone, even, fire, extinguishers"
+topic_4_keywords,"fan, one, would, theyre, system, next, gonna, wheel"
+topic_4_label,fan would be gonna wheel the wheel
+topic_5_keywords,"fan, put, joke, im, oil, thread, comment, every"
+topic_5_label,fan put jokes on thread
+topic_6_keywords,"fire, everything, read, article, depression, maybe, would, also"
+topic_6_label,if you read something you might not be able to read
+top_ngram_1,co2 extinguishers (14)
+top_ngram_2,put fire (9)
+top_ngram_3,vortex rings (8)
+top_ngram_4,aerosols carried (7)
+top_ngram_5,carried vortex (7)
+top_ngram_6,rings small (7)
+top_ngram_7,small donutshaped (7)
+top_ngram_8,donutshaped bands (7)
+top_ngram_9,bands air (7)
+top_ngram_10,air transform (7)
+ner_1,Kuwait|LOC|3
+ner_2,Idiocracy|MISC|3
+ner_3,Desert Storm|MISC|2
+ner_4,Toms Hardware|ORG|2
+ner_5,Hungarian|MISC|2
+ner_6,California|LOC|2
+ner_7,Soviets|MISC|2
+ner_8,RTFA|ORG|2
+ner_9,T55|MISC|2
+ner_10,MiG21|MISC|2

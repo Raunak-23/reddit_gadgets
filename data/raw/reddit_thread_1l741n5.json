@@ -1,0 +1,1536 @@
+{
+  "post": {
+    "title": "Mac-Ready and Future-Proof: A Look at Anker\u2019s Thunderbolt 5 Docking Station",
+    "author": "durdgekp",
+    "id": "1l741n5",
+    "score": 820,
+    "created_utc": 1749473682.0,
+    "selftext": "",
+    "num_comments": 187,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1l741n5/macready_and_futureproof_a_look_at_ankers/"
+  },
+  "comments": [
+    {
+      "id": "mwu5qua",
+      "author": "Auxilae",
+      "body": "$400 dock with a single display out interface. That's pretty not great, especially considering how common multi-monitor setups are nowadays.",
+      "score": 288,
+      "created_utc": 1749479721.0,
+      "replies": [
+        {
+          "id": "mx5o3gn",
+          "author": "DenchKecia",
+          "body": "Not exactly, tb ports can be used as video output as well so \"a single display\" is not accurate. Don't mention the tb ports are replacing HDMI & DP",
+          "score": 38,
+          "created_utc": 1749623413.0,
+          "replies": []
+        },
+        {
+          "id": "mxja7gk",
+          "author": "alcoholic_jogging",
+          "body": "tb ports can transfer video signal too and I think they will replace HDMI gradually. So this dock is capable for multiple displays",
+          "score": 42,
+          "created_utc": 1749807858.0,
+          "replies": []
+        },
+        {
+          "id": "mwyt32p",
+          "author": "positivelymonkey",
+          "body": "It's got dual thunderbolt out on the back? The dp alt ones are for convenience. You should be using the tb ports for monitors to get the most bandwidth.",
+          "score": 19,
+          "created_utc": 1749532649.0,
+          "replies": []
+        },
+        {
+          "id": "mwz18q1",
+          "author": "PhotoSpike",
+          "body": "It also has two thunderbolt\u2019s that are both also display outputs.",
+          "score": 18,
+          "created_utc": 1749536879.0,
+          "replies": []
+        },
+        {
+          "id": "mwu8jsx",
+          "author": "lindymad",
+          "body": "It has one HDMI 2.1 port and one DisplayPort 2.1 port if I'm reading it correctly?",
+          "score": 47,
+          "created_utc": 1749480543.0,
+          "replies": [
+            {
+              "id": "mwu99jc",
+              "author": "Auxilae",
+              "body": "It says \"Select one output\", meaning you can't use both at the same time.",
+              "score": 75,
+              "created_utc": 1749480753.0,
+              "replies": [
+                {
+                  "id": "mwua6an",
+                  "author": "lindymad",
+                  "body": "~~I can't see where it says that in the article - are you reading it somewhere else or am I missing it?~~ EDIT: I was missing it, it's printed on the dock itself, and can be seen in the picture of it. The article, however, says:\n\n> You can connect to one or two monitors via either of the dedicated video ports (DisplayPort and/or HDMI) or via the downstream Thunderbolt 5 ports, or any mix of the options.\n\nWhich I interpreted to mean you could use both at the same time. EDIT: I guess the article is wrong!",
+                  "score": 37,
+                  "created_utc": 1749481014.0,
+                  "replies": [
+                    {
+                      "id": "mwuc4cf",
+                      "author": "Auxilae",
+                      "body": "If you look at the image of the dock, you'll see the words \"or\" there between the two dedicated display interfaces (HDMI and DisplayPort). You can't plug in a monitor to the HDMI and another with DisplayPort and use them at the same time.\n\nDocks normally have multiple display interfaces that can be used at once. For example, my Dell one from work (a WD22TB4), has two DisplayPort and one HDMI, and you can use them all at the same time. It also has two Thunderbolt 4 ports.\n\nWith this Anker dock, you can use the Thunderbolt ports as a display out option as well, however, that is eating into a thunderbolt port that you can use for other things. There should have been at least one other output (either a lower bandwidth DP 1.4 or HDMI 2.0) which would help people with multiple displays with their setups, without eating up a super-fast port.",
+                      "score": 17,
+                      "created_utc": 1749481578.0,
+                      "replies": [
+                        {
+                          "id": "mwwm9b4",
+                          "author": "FewHorror1019",
+                          "body": "HAHAA NOT FOR THE MACBOOKS THAT ONLY HAVE USB-C ports! You get mirroring at best\n\nUnless you have a pro with a dedicated display port, no amount of adapters or docks will get you two working external monitors.",
+                          "score": 4,
+                          "created_utc": 1749504684.0,
+                          "replies": [
+                            {
+                              "id": "mwx67ti",
+                              "author": "thedanyes",
+                              "body": "Hmm i thought that only applied to like M1 and maybe M2 models and only if you\u2019re also using the built in display",
+                              "score": 4,
+                              "created_utc": 1749510986.0,
+                              "replies": [
+                                {
+                                  "id": "mwxbbr2",
+                                  "author": "FewHorror1019",
+                                  "body": "Nope currently having that issue with my newest mba with the same reasoning. Multi stream someshits. \n\nAt best you get mirroring of external displays which also sucks",
+                                  "score": 1,
+                                  "created_utc": 1749512649.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwy10ms",
+                                      "author": "thedanyes",
+                                      "body": "TIL",
+                                      "score": 1,
+                                      "created_utc": 1749521335.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mx3yvsi",
+                              "author": "desteufelsbeitrag",
+                              "body": "This is bullshit\n\nWhen working at home, the girlie connects her M1 MBP to an i-tec docking station and runs MacOS on her two external monitors. All she had to do was installing the drivers/software from the vendor and she was good to go. And no, they are not mirrored and no, this does not include the MBP's hdmi port.\n\nThe limitation has to do with the MBA M1 & M2 graphic capabilities, not with dedicated display ports",
+                              "score": 2,
+                              "created_utc": 1749598711.0,
+                              "replies": [
+                                {
+                                  "id": "mx40xma",
+                                  "author": "FewHorror1019",
+                                  "body": "What then show me how because i have been disappointed about my mba purchase whenever i look at that blank second screen",
+                                  "score": 1,
+                                  "created_utc": 1749599390.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mx4enct",
+                                  "author": "syates21",
+                                  "body": "What HDMI port on an M1?",
+                                  "score": 1,
+                                  "created_utc": 1749604167.0,
+                                  "replies": [
+                                    {
+                                      "id": "mx66p7y",
+                                      "author": "desteufelsbeitrag",
+                                      "body": "The hdmi 2.0 port on the right hand side, that she used before she got the dock?\n\n[https://everymac.com/systems/apple/macbook\\_pro/specs/macbook-pro-m1-pro-10-core-cpu-14-core-gpu-14-2021-specs.html](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-10-core-cpu-14-core-gpu-14-2021-specs.html)\n\nedit: \n\nI guess we're talking about different things here. I was initially referring to the MBP, because I think OPs unedited comment was phrased a bit differently. Anyhoo, you could already add a secondary display when using a MBA M1, or use two external displays in case of a MBP M1. \n\nThis raises the question why the Anker dock only uses one monitor connection OR the other, even though every generation of Apple Silicon MBPs, and half of all \"THE MACBOOKS THAT ONLY HAVE USB-C ports!\" allow for at least two external monitors.",
+                                      "score": 1,
+                                      "created_utc": 1749634464.0,
+                                      "replies": [
+                                        {
+                                          "id": "mx6ercv",
+                                          "author": "syates21",
+                                          "body": "So M1 Pro, not M1 MBP. On the originals you had to use display link or some other kinda software-based thing to drive two monitors.  Was really glad they removed this restriction in later models, but got stuck living with it for 3.5 years for work laptop",
+                                          "score": 1,
+                                          "created_utc": 1749638821.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mx55vv0",
+                              "author": "DocRedbeard",
+                              "body": "I think Displaylink docks get around these limitations. They create a virtual screen for the OS and transmit a compressed video stream to the dock over a standard USB.",
+                              "score": 1,
+                              "created_utc": 1749614394.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwztlzn",
+                          "author": "exomachina",
+                          "body": "Windows supports MST to split the DisplayPort signal into 2 streams. MacOS has never supported this because they went all in on Thunderbolt which has its own way of doing it but the monitor has to support it too. All Thunderbolt/Usbc docks use DisplayPort tunneling to transfer video signal and bandwidth is limited by the cable and usually docks that support 3 monitors at once are using DisplayLink which is a software solution and introduces noticeable lag. I\u2019ve seen a few docks that have 2 USB connections to mitigate that. HDMI connections are handled by onboard chips that convert the DisplayPort signal and it leverages DSC because of bandwidth limitations. As for the Mac side of things, M series chips have different amounts of display processors. M has 1, Pro has 2 and Max has 4. Also fun fact each display processor stream maxes out at 4K120hz so if you connect a 4K240hz monitor via DisplayPort it actually has to use 2 display processors running 1920x2160@240hz and combines them.",
+                          "score": 1,
+                          "created_utc": 1749552891.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwxyrp0",
+          "author": "CosmicCreeperz",
+          "body": "Heh I\u2019d prefer an extra Mac mini.  Smaller and only a bit more expensive.",
+          "score": 3,
+          "created_utc": 1749520577.0,
+          "replies": []
+        },
+        {
+          "id": "mwx2fs0",
+          "author": "littlemanontheboat_",
+          "body": "We can argue that but frankly I don\u2019t think it\u2019s a real must to have two ports when other external peripherals you most likely have can have HDMI as well. \n\nFor me this would totally work with my laptop and two monitors. \n\nMy M1 Max has an HDMI out  that I don\u2019t even use!  I have an Asus monitor that uses USB-C, I have an external raid drive with an HDMI where my second monitor is, so technically this would be another HDMI for a third monitor\u2026 so plenty of options and I\u2019m only using a laptop.",
+          "score": 1,
+          "created_utc": 1749509765.0,
+          "replies": []
+        },
+        {
+          "id": "mwvfsiu",
+          "author": "simple1689",
+          "body": "These apples don't even support 3 external monitors.",
+          "score": 0,
+          "created_utc": 1749492629.0,
+          "replies": [
+            {
+              "id": "mww2cyt",
+              "author": "PriorityCoach",
+              "body": "All the 2024 Mac Minis support 3 external monitors.\n\nM4 Macbook Pros support 2 external monitors, and I believe M4 Max Macbook Pros now support 4.\n\nHere's a support article u/cheeto2889 posted below!\nhttps://support.apple.com/en-us/101571",
+              "score": 3,
+              "created_utc": 1749499010.0,
+              "replies": [
+                {
+                  "id": "mwwidil",
+                  "author": "simple1689",
+                  "body": "Thanks been dealing with MBAirs on M2 chips unable to do 3 external monitors",
+                  "score": 3,
+                  "created_utc": 1749503540.0,
+                  "replies": [
+                    {
+                      "id": "mwwmkoy",
+                      "author": "FewHorror1019",
+                      "body": "Yea you need one with a dedicated display out like mbp, then you can use two external monitors. \n\nEdit: not mirrored tho",
+                      "score": 1,
+                      "created_utc": 1749504779.0,
+                      "replies": [
+                        {
+                          "id": "mwxtqhi",
+                          "author": "MrBlahman",
+                          "body": "You can connect two monitors to a Macbook M4 Air using both USB-C ports, one for each screen. No dedicated display output needed. Or you can plug one Thunderbolt (NOT just USB-C) dock in and do two screens that way. If you plug a regular USB-C dock in you'll get only one screen or both screens working but mirrored, which is useless. \n\nApple, it \"just works.\" Meanwhile my wife's Dell latitude happily docks via one cable and her USB-C dock and powers 2 screens all day long. Never tried 3 though, which now rereading the comment chain may have been what you meant.",
+                          "score": 1,
+                          "created_utc": 1749518882.0,
+                          "replies": [
+                            {
+                              "id": "mwy6u8u",
+                              "author": "FewHorror1019",
+                              "body": "Yea fuck mirrored is what i meant",
+                              "score": 1,
+                              "created_utc": 1749523365.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwy2lcg",
+                      "author": "cheeto2889",
+                      "body": "MB M4 Pro can handle two external. To go beyond that you have to have a displaylink dock.",
+                      "score": 1,
+                      "created_utc": 1749521879.0,
+                      "replies": [
+                        {
+                          "id": "mwykqel",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 1,
+                          "created_utc": 1749528813.0,
+                          "replies": [
+                            {
+                              "id": "mwylofb",
+                              "author": "cheeto2889",
+                              "body": "Even if you close the lid it is still only two. \n\nEdit: snippet from the docs. \n\n\"Closing the lid of your MacBook Pro with M4 chip or M4 Pro chip will not increase the number of external displays that can be supported.\"\n\nhttps://support.apple.com/en-us/101571",
+                              "score": 1,
+                              "created_utc": 1749529230.0,
+                              "replies": [
+                                {
+                                  "id": "mwyls67",
+                                  "author": "PriorityCoach",
+                                  "body": "Ahh, thank you!",
+                                  "score": 1,
+                                  "created_utc": 1749529276.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwuw7dm",
+          "author": "AccountNumeroThree",
+          "body": "One USB-C output can\u2019t be used for two displays directly. But this may work properly if your devices support daisy chaining.",
+          "score": -1,
+          "created_utc": 1749487274.0,
+          "replies": [
+            {
+              "id": "mwv1ds5",
+              "author": "dakta",
+              "body": "> One USB-C output can\u2019t be used for two displays directly.\n\nThunderbolt over USB-C can do dual DisplayPort. To drive dual 4K@60 you need DSC, but it absolutely works.",
+              "score": 10,
+              "created_utc": 1749488703.0,
+              "replies": [
+                {
+                  "id": "mwxqlhf",
+                  "author": "f8tel",
+                  "body": "My Lenovo thunderbolt 4 dock is currently powering 3 4k at 60fps.  1 HDMI and 2 display port.",
+                  "score": 4,
+                  "created_utc": 1749517820.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwwmemw",
+                  "author": "FewHorror1019",
+                  "body": "My macbook air can\u2019t. It only has usbc ports and I\u2019ve been trying",
+                  "score": 1,
+                  "created_utc": 1749504729.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwvd682",
+              "author": "cosmos7",
+              "body": "> But this may work properly if your devices support daisy chaining.\n\nWhich Macs can't do.",
+              "score": 7,
+              "created_utc": 1749491905.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwyz5sn",
+          "author": "tj-horner",
+          "body": "Seriously, this makes it a non-starter.",
+          "score": 0,
+          "created_utc": 1749535757.0,
+          "replies": []
+        },
+        {
+          "id": "mww23ab",
+          "author": "AlexHimself",
+          "body": "Most monitors these days do video over USB-C.",
+          "score": -2,
+          "created_utc": 1749498935.0,
+          "replies": [
+            {
+              "id": "mwy0dkg",
+              "author": "CosmicCreeperz",
+              "body": "People seem to miss this.. USB-C is just a connector standard.\n\nMonitors do video by supporting DisplayPort (DP Alt mode) over USB-C.  But it\u2019s not the same as supporting any USB-C connections.",
+              "score": 2,
+              "created_utc": 1749521117.0,
+              "replies": [
+                {
+                  "id": "mwy23mc",
+                  "author": "AlexHimself",
+                  "body": "Are you saying that these usb-c ports can't be used for a monitor?",
+                  "score": 1,
+                  "created_utc": 1749521709.0,
+                  "replies": [
+                    {
+                      "id": "mwy5oxh",
+                      "author": "CosmicCreeperz",
+                      "body": "No, more that a USB-C hub/dock may or may not support it.  Monitors support it IF the monitor input and the PC port support DisplayPort Alternative Mode.   But the cables and any hubs in between need to support it as well.",
+                      "score": 1,
+                      "created_utc": 1749522962.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwwd59h",
+          "author": "SsooooOriginal",
+          "body": "I knew anker had become trash once they partnered and solf through wallyworld.",
+          "score": -8,
+          "created_utc": 1749502040.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwtpzq3",
+      "author": "Jeff9967Ok",
+      "body": "Hope it at least has some improvements on cooling..",
+      "score": 37,
+      "created_utc": 1749474626.0,
+      "replies": [
+        {
+          "id": "mwxydxr",
+          "author": "cikim31",
+          "body": "According what I've seen they do. Put the fan and the battery inside",
+          "score": 14,
+          "created_utc": 1749520449.0,
+          "replies": [
+            {
+              "id": "mx5mb32",
+              "author": "Impressive_Day_5969",
+              "body": "Intriguing, my previous dock gets too hot to grab every time I use it",
+              "score": 2,
+              "created_utc": 1749622428.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwuxzv2",
+      "author": "Used_Spray2282",
+      "body": "Damn, you guys are grumpy.  This is exactly what I\u2019ve been looking for",
+      "score": 14,
+      "created_utc": 1749487771.0,
+      "replies": [
+        {
+          "id": "mwyyev8",
+          "author": "Nimradd",
+          "body": "Have you seen CalDigit\u2019s options?",
+          "score": 1,
+          "created_utc": 1749535357.0,
+          "replies": [
+            {
+              "id": "mx91z1w",
+              "author": "Used_Spray2282",
+              "body": "I\u2019ve not even heard of caldigit",
+              "score": 1,
+              "created_utc": 1749668979.0,
+              "replies": [
+                {
+                  "id": "my09ym6",
+                  "author": "Used_Spray2282",
+                  "body": "Update... Bought this just after I saw it posted and I love it.   Running it into a 40\u201d ux4025 dell monitor.  Sorry if the letters are wrong but the numbers are right\u2026. If you have the means, I highly recommend picking one up.",
+                  "score": 1,
+                  "created_utc": 1750037423.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwtoyeq",
+      "author": "Orderly_Liquidation",
+      "body": "\u201cFuture Proof\u201d is such a ridiculous turn of marketing.",
+      "score": 243,
+      "created_utc": 1749474261.0,
+      "replies": [
+        {
+          "id": "mwu0hxu",
+          "author": "maidenmaan",
+          "body": "Depends on how you define \"future\". I suppose the future thing of this dock is the thunderbolt 5 ports. If I'm not wrong tb5 is not applied massively so yeah, in this case call it future proof is somehow convincing for me",
+          "score": 37,
+          "created_utc": 1749478128.0,
+          "replies": []
+        },
+        {
+          "id": "mwtyoye",
+          "author": "ANGOmarcello",
+          "body": "I have a thunderbolt 3 docking station and I'm still very happy, this thing itself for me was future proof back when I bought it. So in this case to a certain degree it is believable",
+          "score": 41,
+          "created_utc": 1749477557.0,
+          "replies": [
+            {
+              "id": "mwtyv2l",
+              "author": "Small_Editor_3693",
+              "body": "Can\u2019t do 4k 144hz. How future proof is that?",
+              "score": 8,
+              "created_utc": 1749477610.0,
+              "replies": [
+                {
+                  "id": "mwu1kgq",
+                  "author": "ResoluteGreen",
+                  "body": "Okay but how many people have the graphics cards and monitors that can produce/display 4k 144hz",
+                  "score": 20,
+                  "created_utc": 1749478458.0,
+                  "replies": [
+                    {
+                      "id": "mwu1ut4",
+                      "author": "Small_Editor_3693",
+                      "body": "They will in the *future*",
+                      "score": 51,
+                      "created_utc": 1749478546.0,
+                      "replies": [
+                        {
+                          "id": "mwu85xe",
+                          "author": "kevihaa",
+                          "body": "Probably. There\u2019s an argument to be made that below 40 inches the difference between 1440p and 4k is so minor as to fail blind testing for most people. \n\nLike, if you take the \u201cmore resolution is always better\u201d argument at face value, then you\u2019d likely see 8k making more inroads than it has. Yes yes, there needs to be content, but 720p was popular before almost any broadcast cable was above SD and 1080p was normalized when most content was still 720p. The same thing has happened for 4k. \n\nRefresh rates are likely to go up and up, as well as better and better implementations of HDR (which is a *way* more significant improvement to viewing experience than more pixels), but as it stands going above 1440p / 4k, depending on screen size, might just be a vanity exercise.",
+                          "score": 5,
+                          "created_utc": 1749480431.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwuirrz",
+                          "author": "Tepigg4444",
+                          "body": "But now is the future from when they bought that thing is the point. Its a literal decade old at this point, of course it isn\u2019t going to be future proof *anymore*, but the fact that they can use it and have 0 complaints still means it was obviously pretty well future proofed",
+                          "score": 4,
+                          "created_utc": 1749483474.0,
+                          "replies": [
+                            {
+                              "id": "mwule7g",
+                              "author": "Small_Editor_3693",
+                              "body": "Well ya. They can use it with decade old parts. That\u2019s not future proofing.",
+                              "score": 4,
+                              "created_utc": 1749484213.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwu3ofj",
+                          "author": "ResoluteGreen",
+                          "body": "I'm skeptical that 4k 144hz will become mainstream for an average user. It'll always be more expensive than lower definitions and frame rates, and you're well into diminishing returns at those levels, most people won't notice a difference nor care for it.",
+                          "score": -1,
+                          "created_utc": 1749479103.0,
+                          "replies": [
+                            {
+                              "id": "mwu4cl6",
+                              "author": "Small_Editor_3693",
+                              "body": "What\u2019s the point of future proof if you can\u2019t upgrade? If you\u2019re just an average user there zero reason to get anything \u201cfuture proof\u201d. Just use that ecosystem till it\u2019s not supported.",
+                              "score": 4,
+                              "created_utc": 1749479306.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mwuaodm",
+                              "author": "_DuranDuran_",
+                              "body": "My main monitor is literally a 27\u201d 4k 144Hz monitor.\n\nSince I\u2019m using dual 4k monitors and a TB4 dock, if I want the second monitor to run at 60Hz (and I do) then the max refresh rate on the main monitor is 95Hz.\n\nGood, but not quite as smooth when scrolling in my IDE or web browser as 120 would be.",
+                              "score": 3,
+                              "created_utc": 1749481159.0,
+                              "replies": [
+                                {
+                                  "id": "mwv1urc",
+                                  "author": "dakta",
+                                  "body": "And that's even with DSC. There's just not quite enough bandwidth on TB 3 or 4 to push two full DP streams. I have the same kind of setup.",
+                                  "score": 3,
+                                  "created_utc": 1749488832.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mwu6irc",
+                              "author": "WFlumin8",
+                              "body": "Going to bookmark this comment so I can come back in 5 years and have a laugh, cheers",
+                              "score": 2,
+                              "created_utc": 1749479950.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwu2jjk",
+                      "author": "little_hoe",
+                      "body": "so it's just present-proof",
+                      "score": 6,
+                      "created_utc": 1749478758.0,
+                      "replies": [
+                        {
+                          "id": "mwujg3k",
+                          "author": "Tepigg4444",
+                          "body": "It\u2019s a literal decade old, the present *is* the future for that thing, and it\u2019s still working fine for them. Therefore it was a good future proof product",
+                          "score": 3,
+                          "created_utc": 1749483664.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwu9y4t",
+                      "author": "ProfessorPetrus",
+                      "body": "That's just like a base mscbook pro or Mac mini rn bruh. ..",
+                      "score": 2,
+                      "created_utc": 1749480948.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwuo5dj",
+                      "author": "stellvia2016",
+                      "body": "For productivity? Not that hard nor that expensive. For gaming? Obviously a lot harder.",
+                      "score": 1,
+                      "created_utc": 1749484994.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwwz7sk",
+                      "author": "Candle1ight",
+                      "body": "That's not true, you just have to play games made 10 years ago",
+                      "score": 1,
+                      "created_utc": 1749508729.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwu6flu",
+                  "author": "Oops_I_Cracked",
+                  "body": "I don\u2019t foresee myself having a gpu capable of 4k 144hz in the next decade, especially on a PC that needs a docking station, So I\u2019d say at least a decade of future proof.",
+                  "score": 3,
+                  "created_utc": 1749479924.0,
+                  "replies": [
+                    {
+                      "id": "mwu71rk",
+                      "author": "Small_Editor_3693",
+                      "body": "Any GPU today can run a display at 4k 144hz on hdmi 2.1 or display port. If you\u2019re talking gaming that\u2019s a different story and you shouldn\u2019t run a GPU through a docking station",
+                      "score": 2,
+                      "created_utc": 1749480105.0,
+                      "replies": [
+                        {
+                          "id": "mwu7kl9",
+                          "author": "Oops_I_Cracked",
+                          "body": "Okay let me rephrase, I don\u2019t foresee myself having a gpu capable of running anything at 4k 144hz where I care that it\u2019s at 144hz for a decade. I don\u2019t care about 144hz web browsing or YouTube. \n\nIt\u2019s also unlikely I own a monitor that supports anything over 4k 60hz in the next decade.",
+                          "score": 1,
+                          "created_utc": 1749480257.0,
+                          "replies": [
+                            {
+                              "id": "mwu91fa",
+                              "author": "Small_Editor_3693",
+                              "body": "Then you don\u2019t need anything \u201cfuture proofed\u201d cause that\u2019s all capable in hardware 10 years old at this point",
+                              "score": 3,
+                              "created_utc": 1749480687.0,
+                              "replies": [
+                                {
+                                  "id": "mwup18x",
+                                  "author": "stellvia2016",
+                                  "body": "I want to say the 2009 Quadro card I bought for $10 a couple years ago for my server is capable of 2x 4K@60. So I imagine a card capable of 144 these days, isn't that expensive. The certified cables probably cost more.",
+                                  "score": 1,
+                                  "created_utc": 1749485251.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwuq50z",
+                                      "author": "Small_Editor_3693",
+                                      "body": "Right. But that dock cannot. So it\u2019s not future proofed",
+                                      "score": 1,
+                                      "created_utc": 1749485569.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mwu99tq",
+                                  "author": "Oops_I_Cracked",
+                                  "body": "I forgot that screen refresh rate is the one and only reason someone would want something future proofed. Fuck data transfer speeds I guess.",
+                                  "score": 1,
+                                  "created_utc": 1749480755.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwuea6f",
+                                      "author": "Small_Editor_3693",
+                                      "body": "What about thunderbolt transfer speeds is \u201cfuture proof\u201d in your mind?",
+                                      "score": 1,
+                                      "created_utc": 1749482194.0,
+                                      "replies": [
+                                        {
+                                          "id": "mwujdfp",
+                                          "author": "Oops_I_Cracked",
+                                          "body": "I, like most people, don\u2019t replace my external drives every time a faster version of USB or thunderbolt comes out. So like many people I have a mix of devices from USBA 3.0 drives through thunderbolt 2 drives. Some of those drives are old enough that I plan on replacing them in the next few years. When I do replace them, I will likely buy drives with faster speeds than my current drives. So I would like a dock I would buy today to support the drives I\u2019ll buy in 3 to 5 years.\n\nAdditionally while today I don\u2019t need a dock that can provide 240w power, I may some day in the future. \n\nAdditionally, thunderbolt five has four PCIE 4 lanes versus PCIE 3. But again is not something I need today but is something I may want in the future. \n\nIf 144 Hz refresh rate is the main thing you need, this obviously isn\u2019t the product for you. But there are a way, way more things a dock can be \u201cfuture proof\u201d for than just refresh rate. \n\nThe place I work is actually in the process of buying a bunch of docks. We have zero 144 Hz monitors and I can say with a pretty high degree of certainty that unless 144 Hz becomes the default and you cannot buy lower refresh rate, they will also not have 144 hz monitors for 10 years from now. We do, however, have to deal with tremendous amounts of data, so being able to move that shit around quickly is extremely valuable.",
+                                          "score": 2,
+                                          "created_utc": 1749483643.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mx3apgf",
+                  "author": "OmegaMalkior",
+                  "body": "Uh am I not wrong in saying Thunderbolt 3 is indeed capable of that resolution or at least of 4K 120Hz?",
+                  "score": 1,
+                  "created_utc": 1749590928.0,
+                  "replies": [
+                    {
+                      "id": "mx3f3di",
+                      "author": "Small_Editor_3693",
+                      "body": "Display port is with display stream compression. Thunderbolt doesn\u2019t have video. It just carries DisplayPort",
+                      "score": 1,
+                      "created_utc": 1749592260.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwusjni",
+                  "author": "CoyoteSingle5136",
+                  "body": "About 2. Maybe 3.",
+                  "score": 0,
+                  "created_utc": 1749486252.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwy0szg",
+                  "author": "CosmicCreeperz",
+                  "body": "If you never want to do 144Hz (I don\u2019t) then just fine?  Not everyone is frame rate obsessed gamers.  Especially on Macs.\n\nMy truck cant do 180mph but that has nothing to do with it being future proof as it\u2019s not what I have it for.",
+                  "score": 0,
+                  "created_utc": 1749521262.0,
+                  "replies": [
+                    {
+                      "id": "mwy3hlm",
+                      "author": "Small_Editor_3693",
+                      "body": "If you are looking for something to be future proofed you are looking to add stuff that is not on the market today. To get tomorrow\u2019s features. A truck can\u2019t be future proofed unless you\u2019re looking to buy a boat or something in the future I guess",
+                      "score": 2,
+                      "created_utc": 1749522190.0,
+                      "replies": [
+                        {
+                          "id": "mwy6ezu",
+                          "author": "CosmicCreeperz",
+                          "body": "Except this is a very specific example.  My car can do 180mph.  If for some reason I have the requirements of going 180mph in the future, it\u2019s future proof for needing to go 180mph.\n\nMy truck can tow 10,000 lbs.  I don\u2019t currently have a camper but may get one.  Therefore, yes, it\u2019s future proof.\n\nIn this case I never want to do 144Hz since I can\u2019t tell the difference for business productivity use.  So it\u2019s future proof for that purpose.  If I want to use my computer to run 100B parameter LLMs or teach my dog calculus, it\u2019s not future proofed for those.\n\nAll that said, this was just Anker\u2019s marketing silliness that it\u2019s Thunderbolt 5.  Which is not really future proof because it\u2019s too vague.",
+                          "score": 0,
+                          "created_utc": 1749523216.0,
+                          "replies": [
+                            {
+                              "id": "mwy84dx",
+                              "author": "Small_Editor_3693",
+                              "body": "So you don\u2019t need your machine to be future proofed",
+                              "score": 1,
+                              "created_utc": 1749523824.0,
+                              "replies": [
+                                {
+                                  "id": "mwyaqww",
+                                  "author": "CosmicCreeperz",
+                                  "body": "It is future proofed for me.  Because I don\u2019t even have a 4k monitor.  In the future if I get a 4k 60Hz display\u2026 it will work great!  Yay!",
+                                  "score": -1,
+                                  "created_utc": 1749524763.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwycbu3",
+                                      "author": "Small_Editor_3693",
+                                      "body": "That\u2019s not the future",
+                                      "score": 1,
+                                      "created_utc": 1749525357.0,
+                                      "replies": [
+                                        {
+                                          "id": "mwyddbz",
+                                          "author": "CosmicCreeperz",
+                                          "body": "If I want to buy a 4k monitor to upgrade my 1440p and it works for me\u2026 next year\u2026 that\u2019s not the future?\n\nOr does the future have to mean I\u2019m cryogenically frozen and wake up in 500 years to the Idiocracy? :)",
+                                          "score": 0,
+                                          "created_utc": 1749525760.0,
+                                          "replies": [
+                                            {
+                                              "id": "mwye6g9",
+                                              "author": "Small_Editor_3693",
+                                              "body": "You need reading comprehension",
+                                              "score": 0,
+                                              "created_utc": 1749526079.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mwyejf5",
+                                                  "author": "CosmicCreeperz",
+                                                  "body": "I see, you represent the Idiocracy.",
+                                                  "score": 1,
+                                                  "created_utc": 1749526225.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwuhic0",
+          "author": "robaroo",
+          "body": "You should just acknowledge it to mean it\u2019ll last two, maybe three generations. But no, it\u2019s not forever proof. I\u2019ve never expected it to mean that.",
+          "score": 1,
+          "created_utc": 1749483116.0,
+          "replies": []
+        },
+        {
+          "id": "mwwd5fd",
+          "author": "deeperest",
+          "body": "My suicide machine is genuinely future proof.",
+          "score": 1,
+          "created_utc": 1749502042.0,
+          "replies": []
+        },
+        {
+          "id": "mwyqyzj",
+          "author": "fusionsofwonder",
+          "body": "\"Buy Thunderbolt 5 now because someday you'll have a device it works with.\"",
+          "score": 1,
+          "created_utc": 1749531629.0,
+          "replies": []
+        },
+        {
+          "id": "mwu34gf",
+          "author": "yanan",
+          "body": "no it isn't.",
+          "score": -4,
+          "created_utc": 1749478934.0,
+          "replies": [
+            {
+              "id": "mwvdcw8",
+              "author": "Orderly_Liquidation",
+              "body": "Brilliant counterpoint - had never considered it from that perspective.",
+              "score": 4,
+              "created_utc": 1749491954.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwtnv88",
+      "author": "TedBundysVlkswagon",
+      "body": "$400 is such a ripoff for any dock.",
+      "score": 90,
+      "created_utc": 1749473873.0,
+      "replies": [
+        {
+          "id": "mwtpf7a",
+          "author": "destinynftbro",
+          "body": "Have you seen the price of a CalDigit dock? They\u2019ve always been extremely expensive. To their credit though, they are built like tanks and will continue working to spec long after your laptop battery gives up the ghost.",
+          "score": 53,
+          "created_utc": 1749474427.0,
+          "replies": [
+            {
+              "id": "mwtvkld",
+              "author": "AlexandreFiset",
+              "body": "We have bought several docks at my game studio over the years, and while CalDigit ones are pricy, they are reliable and very functional. All other docks we bought either had compromises (such as one hdmi port being only 30hz at 4K top), can\u2019t deliver enough power to charge everything connected to it or breaks after a year. Anyone can use one of our desk, connect his laptop and expect it to work, which is priceless in a working environment.",
+              "score": 21,
+              "created_utc": 1749476548.0,
+              "replies": [
+                {
+                  "id": "mwv2mqn",
+                  "author": "dakta",
+                  "body": "I ended up with a CalDigit TS4 and have been very happy with it for the last two years. In hindsight I would have slightly preferred using a TB3 to dual DP adapter in combination with a Satechi TB 4 dock, to free up another downstream TB port, but I don't currently have any additional peripherals to benefit from it.",
+                  "score": 1,
+                  "created_utc": 1749489048.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mxjc2w9",
+              "author": "SierraWrig",
+              "body": "Nope, there is no way I'll buy Caldigit's stuff ever. I've seen posts complaining TS5+ out of stock and batteries not functional after hours of using",
+              "score": 22,
+              "created_utc": 1749808906.0,
+              "replies": []
+            },
+            {
+              "id": "mwuh3hp",
+              "author": "spdorsey",
+              "body": "I have the Caldigit TS4 and it is a workhorse. I'm running 2 4K displays through it, Ethernet, 6 usb devices, audio, and I use the card reader all the time. And it powers my MacBook Pro M4 through the only cable that is plugged into the laptop. I love that thing.",
+              "score": 5,
+              "created_utc": 1749482998.0,
+              "replies": []
+            },
+            {
+              "id": "mwup3oz",
+              "author": "pacmanic",
+              "body": "+1 my Caldigit is rock solid",
+              "score": 2,
+              "created_utc": 1749485270.0,
+              "replies": []
+            },
+            {
+              "id": "mwvfm65",
+              "author": "Prolingus",
+              "body": "I\u2019d pay $400 for a CalDigit before I paid $100 for anything else. It just works and every other dock I\u2019ve ever tried was a disruption to workflow.",
+              "score": 2,
+              "created_utc": 1749492580.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwuhn7m",
+          "author": "wrathek",
+          "body": "Actual thunderbolt docks are really expensive, no matter the brand. And this is TB5 so you\u2019ve got the bleeding edge tax as well.",
+          "score": 6,
+          "created_utc": 1749483155.0,
+          "replies": [
+            {
+              "id": "mwujq6f",
+              "author": "TedBundysVlkswagon",
+              "body": "I agree that they\u2019re all expensive.",
+              "score": 3,
+              "created_utc": 1749483743.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwtpq34",
+          "author": "Specialist-Bee-9406",
+          "body": "It\u2019s expensive.\u00a0\n\nI see targeted market segment that won\u2019t care.\u00a0",
+          "score": 4,
+          "created_utc": 1749474533.0,
+          "replies": []
+        },
+        {
+          "id": "mwu5rzt",
+          "author": "ProfessorFunky",
+          "body": "Anker used to be quality for a sensible price. What happened? I moved away from them a while ago when their prices started to inflate. Shame. No idea how it makes sense for the dock to cost almost as much as the Mini.",
+          "score": -4,
+          "created_utc": 1749479731.0,
+          "replies": [
+            {
+              "id": "mwub70q",
+              "author": "throwawaygoatpockets",
+              "body": "They still offer affordable options that have traditional Anker quality. Releasing a high end (and priced to reflect it) product doesn\u2019t take away from their other products.\n\nEdit: grammar",
+              "score": 8,
+              "created_utc": 1749481309.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwtqozc",
+      "author": "as67656",
+      "body": "Haven't replaced my TB3 and now 5 already?",
+      "score": 18,
+      "created_utc": 1749474871.0,
+      "replies": []
+    },
+    {
+      "id": "mww1cgl",
+      "author": "jmohnk",
+      "body": "$400 and no SCSI port? what a ripoff.",
+      "score": 6,
+      "created_utc": 1749498727.0,
+      "replies": []
+    },
+    {
+      "id": "mwtrm31",
+      "author": "kinisonkhan",
+      "body": "2.5gb ethernet isnt what I would call future proofing.",
+      "score": 85,
+      "created_utc": 1749475191.0,
+      "replies": [
+        {
+          "id": "mwts4la",
+          "author": "gdopiv",
+          "body": "Came here to say this. Should be at least 10gb if not more to call it future proof",
+          "score": 35,
+          "created_utc": 1749475369.0,
+          "replies": [
+            {
+              "id": "mx5p27d",
+              "author": "Rojina47788",
+              "body": "Which means a lot more $",
+              "score": 21,
+              "created_utc": 1749623946.0,
+              "replies": []
+            },
+            {
+              "id": "mwtx0ba",
+              "author": "gundamxxg",
+              "body": "Future proofing would add an SFP28 port on it",
+              "score": 6,
+              "created_utc": 1749477021.0,
+              "replies": [
+                {
+                  "id": "mwtznd2",
+                  "author": "Sea-Construction-550",
+                  "body": "Why does it need sunscreen?",
+                  "score": 22,
+                  "created_utc": 1749477859.0,
+                  "replies": [
+                    {
+                      "id": "mwu2935",
+                      "author": "TryingT0Wr1t3",
+                      "body": "Climate Change",
+                      "score": 13,
+                      "created_utc": 1749478669.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwuje5l",
+              "author": "MarkXIX",
+              "body": "Why does the article say you can only get 2.5Gbps as long as you use a 1m or less cable?",
+              "score": 2,
+              "created_utc": 1749483649.0,
+              "replies": []
+            },
+            {
+              "id": "mwuh4ck",
+              "author": "ImS0hungry",
+              "body": "Isn\u2019t everything over a single usbc the limiting factor? I tried to search for the cap on a single cable and couldn\u2019t find it.",
+              "score": 1,
+              "created_utc": 1749483005.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwtsci6",
+          "author": "jtighe",
+          "body": "Dead out the gate without 10gig E for me. Only reason I\u2019d drop so much money on this, the router and everything in the signal chain needed to hit that speed.",
+          "score": 20,
+          "created_utc": 1749475446.0,
+          "replies": []
+        },
+        {
+          "id": "mwv4olp",
+          "author": "hitemlow",
+          "body": "Considering I can't get Spectrum to pump 400mbps without >200ms loaded latency and random drops despite getting new equipment and line drop, it'll be a long while before stable 2.5gbps hits my neighborhood.",
+          "score": -1,
+          "created_utc": 1749489616.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwuem57",
+      "author": "PigNib",
+      "body": "Anyone looking to the future and has this much $ to simplify their life doesn\u2019t want a bunch of USB-A ports.\n\nI spent 2024 purging all devices and cables using usb micro and for me in 2025 I refuse to buy anything with USB-A so I can purge everything not USB-C in 2026.\n\nThis device is more of an expensive reminder of the past.\n\nCan we move on already?",
+      "score": 13,
+      "created_utc": 1749482290.0,
+      "replies": [
+        {
+          "id": "mwufybs",
+          "author": "shpongolian",
+          "body": "I work in construction and still see tons of houses being built with electrical outlets that have built-in USB-A ports and no USB-C, it's so stupid",
+          "score": 4,
+          "created_utc": 1749482673.0,
+          "replies": []
+        },
+        {
+          "id": "mwup4hc",
+          "author": "ThatGuyTheyCallAlex",
+          "body": "Chances are if you\u2019re connecting this many accessories to your $400 dock, one of them is bound to use USB A and you\u2019ll have no choice in the matter. Nothing wrong with having the option.",
+          "score": 6,
+          "created_utc": 1749485277.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwu346r",
+      "author": "CaptainBayouBilly",
+      "body": "$399. lawl",
+      "score": 3,
+      "created_utc": 1749478932.0,
+      "replies": []
+    },
+    {
+      "id": "mww9m54",
+      "author": "squeakybeak",
+      "body": "You mean New Avenger 5 Docking Station, right?\n\nI\u2019ll get my coat.",
+      "score": 3,
+      "created_utc": 1749501050.0,
+      "replies": []
+    },
+    {
+      "id": "mwtvve2",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 11,
+      "created_utc": 1749476648.0,
+      "replies": [
+        {
+          "id": "mwu3rfj",
+          "author": "ElectrikDonuts",
+          "body": "Marketing is so unethical.  They just don't give a fuck.",
+          "score": 17,
+          "created_utc": 1749479127.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwuttkq",
+      "author": "doublepitstochesty69",
+      "body": "Future proof until the warranty is up and your Anker product just stops working for whatever reason. Had this happen before and they told me to \u201cthrow it away and buy a new one\u201d",
+      "score": 2,
+      "created_utc": 1749486607.0,
+      "replies": []
+    },
+    {
+      "id": "mwu26fx",
+      "author": "ResoluteGreen",
+      "body": "If I'm looking at this right if you want more than one monitor you need a USB-C monitor? Irritating",
+      "score": 2,
+      "created_utc": 1749478647.0,
+      "replies": [
+        {
+          "id": "mwu5puc",
+          "author": "but_good",
+          "body": "Can use a usb-c to hdmi cable.",
+          "score": 1,
+          "created_utc": 1749479713.0,
+          "replies": [
+            {
+              "id": "mwue3md",
+              "author": "riddlerjoke",
+              "body": "Essentially requiring another hub lol.\nThere are small ones for this purposes though.\n\nI cannot understand this expensive hubs. Probably not useful/feasible for 99.9% of people.\n\nIncreasing ports, hdmi outs, charge in features are already there in cheaper and smaller options anyway.",
+              "score": 0,
+              "created_utc": 1749482143.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwtrl17",
+      "author": "wihaw44",
+      "body": "Recall its the first time I see HDMI/DP & tb5 ports on the same dock",
+      "score": 1,
+      "created_utc": 1749475180.0,
+      "replies": []
+    },
+    {
+      "id": "mwu8ya4",
+      "author": "hillybeat",
+      "body": "Future proof with a fan? I\u2019ll go with another CalDigit when my Ts3 plus craps out.",
+      "score": 1,
+      "created_utc": 1749480662.0,
+      "replies": []
+    },
+    {
+      "id": "mwu9wd8",
+      "author": "OriginalOpposite8995",
+      "body": "I wish someone would make a thunderbolt kvm, I have two Mac's, I want to share 1-2 screens with",
+      "score": 1,
+      "created_utc": 1749480935.0,
+      "replies": []
+    },
+    {
+      "id": "mwufdu1",
+      "author": "PNWPinkPanther",
+      "body": "news",
+      "score": 1,
+      "created_utc": 1749482511.0,
+      "replies": []
+    },
+    {
+      "id": "mwuhqnq",
+      "author": "Flight2039Down",
+      "body": "Unfortunately, I think it's kinda ugly.  I like most of their product design too.",
+      "score": 1,
+      "created_utc": 1749483182.0,
+      "replies": []
+    },
+    {
+      "id": "mwul7x3",
+      "author": "Fredasa",
+      "body": "Anker.  _\\*checks notes\\*_  The ones who sold security cameras that uploaded their data to the cloud.  And then got pissy when they were forced to admit it.",
+      "score": 1,
+      "created_utc": 1749484164.0,
+      "replies": []
+    },
+    {
+      "id": "mwulqej",
+      "author": "Small_Editor_3693",
+      "body": "> Additionally, thunderbolt five has four PCIE 4 lanes versus PCIE 3. But again is not something I need today but is something I may want in the future.\n\nAnd you won\u2019t be able to use it cause your current machine isn\u2019t \u201cfuture proofed\u201d.",
+      "score": 1,
+      "created_utc": 1749484307.0,
+      "replies": []
+    },
+    {
+      "id": "mwum592",
+      "author": "the-software-man",
+      "body": "None of the photos show the 8 octopus arm cables and cards you\u2019ll have all plugged in at once",
+      "score": 1,
+      "created_utc": 1749484423.0,
+      "replies": []
+    },
+    {
+      "id": "mwuuy5i",
+      "author": "Mr_Piddles",
+      "body": "Futureproof",
+      "score": 1,
+      "created_utc": 1749486924.0,
+      "replies": []
+    },
+    {
+      "id": "mwvc967",
+      "author": "Niceguy955",
+      "body": "A docking station that costs (almost) as much as a new Mac Mini?",
+      "score": 1,
+      "created_utc": 1749491657.0,
+      "replies": []
+    },
+    {
+      "id": "mwvcpi1",
+      "author": "Mooseymax",
+      "body": "Or I could just get the latest Caldigit dock for less money and more functionality\u2026",
+      "score": 1,
+      "created_utc": 1749491781.0,
+      "replies": []
+    },
+    {
+      "id": "mwvtzhd",
+      "author": "SafeModeOff",
+      "body": "Not really about this dock, but docks in general:\n\n\nUSB-C hub off Amazon with display, Ethernet, usb, and PD-in: 30-ish dollars + another 30 for a PD supply\n\n\nUSB-C hub that has the same features but now has integrated power supply: several hundred, because we said the word dock\n\n\nWhy are people okay with the huge markup?",
+      "score": 1,
+      "created_utc": 1749496616.0,
+      "replies": []
+    },
+    {
+      "id": "mwwfbaz",
+      "author": "stogie-bear",
+      "body": "$400 for a dock. Who\u2019s the market for that?",
+      "score": 1,
+      "created_utc": 1749502647.0,
+      "replies": [
+        {
+          "id": "mwxob75",
+          "author": "TheMadnessOfHatters",
+          "body": "Mac users",
+          "score": 2,
+          "created_utc": 1749517047.0,
+          "replies": [
+            {
+              "id": "mwxozkk",
+              "author": "stogie-bear",
+              "body": "I have two Macs and I use a USBC hub that\u2019s under $20 on Amazon.\u00a0",
+              "score": 1,
+              "created_utc": 1749517278.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwxbcdc",
+      "author": "ElectronicSpeed3805",
+      "body": "Display link adapters work fine on Mac.  6+ monitors on your M1.  Get simple ones with only one output.  They come in HDMI and displayport.\n\nThere is a slight refresh delay, so they aren't suitable for gaming or great at video playback, but they work great for more static content.",
+      "score": 1,
+      "created_utc": 1749512654.0,
+      "replies": []
+    },
+    {
+      "id": "mwz3nfc",
+      "author": "SolidOshawott",
+      "body": "Does it output 4K 120Hz?????\n\nI'm tired of all these docks with gimped HDMI ports.\n\nI might buy this if it lets me switch between my Mac and Linux laptops easily.",
+      "score": 1,
+      "created_utc": 1749538212.0,
+      "replies": []
+    },
+    {
+      "id": "mwzrlju",
+      "author": "konpla11",
+      "body": "looks like trash, and that is definitely not the \"same finish\" lol",
+      "score": 1,
+      "created_utc": 1749551931.0,
+      "replies": []
+    },
+    {
+      "id": "myjhrf3",
+      "author": "SoaringIcarus",
+      "body": "Can you plug in two 5k apple studio displays to this?",
+      "score": 1,
+      "created_utc": 1750289746.0,
+      "replies": []
+    },
+    {
+      "id": "mzq7zq1",
+      "author": "marswarrior462",
+      "body": "Will it work with my M4 13\u201d iPad Pro?",
+      "score": 1,
+      "created_utc": 1750870803.0,
+      "replies": []
+    },
+    {
+      "id": "mwtzf2o",
+      "author": "Lord_Mud",
+      "body": "No such thing as future proof.",
+      "score": 1,
+      "created_utc": 1749477787.0,
+      "replies": []
+    },
+    {
+      "id": "mwtsi0g",
+      "author": "InterstellarReddit",
+      "body": "Don\u2019t recommend anker, they sell refurbished products under the label of \u201cused like new\u201d on Amazon. Bought a pair of adapters and they failed within 105 days. \n\nIf they\u2019re gaming FTC/Amazon like that imagine what they\u2019re doing with their new products. \n\n[proof](https://imgur.com/a/FXpSHMD)\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nFederal Law in US: \n\nYou must:\n\nAvoid implying it\u2019s \u201cnew\u201d or \u201clike new\u201d if it has been altered.\n\nUse terms like \u201crefurbished,\u201d \u201creconditioned,\u201d \u201cremanufactured,\u201d etc.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nAmazon\u2019s Policy:\n\nAmazon\u2019s condition guidelines make this crystal clear:\n\n\u201cUsed \u2013 Like New\u201d means:\n\nThe item is in perfect working condition. It has not been repaired or reconditioned.\n\n\u201cRenewed\u201d or \u201cRefurbished\u201d (under the Amazon Renewed program).\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014-\n\nSources: \n\nhttps://www.ftc.gov/enforcement/penalty-offenses/used-rebuilt Penalty Offenses Concerning the Sale of Used and/or Rebuilt Merchandise | Federal Trade Commission\n\nhttps://sellercentral.amazon.com/help/hub/reference/external/GLQ3XNK7G8586BS2?locale=en-US Listing offers for refurbished electronics products",
+      "score": -5,
+      "created_utc": 1749475499.0,
+      "replies": [
+        {
+          "id": "mwttk7u",
+          "author": "sangreal06",
+          "body": "What is refurbished if not \"used like new\"?",
+          "score": 15,
+          "created_utc": 1749475865.0,
+          "replies": [
+            {
+              "id": "mwtud3w",
+              "author": "InterstellarReddit",
+              "body": "Under 16 CFR \u00a7\u202f20.1, it\u2019s deceptive to sell a product that\u2019s been refurbished or reconditioned without clearly disclosing that fact.\n\nYou must:\n\nAvoid implying it\u2019s \u201cnew\u201d or \u201clike new\u201d if it has been altered.\n\nUse terms like \u201crefurbished,\u201d \u201creconditioned,\u201d \u201cremanufactured,\u201d etc.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nAmazon\u2019s Policy:\n\nAmazon\u2019s condition guidelines make this crystal clear:\n\n \u201cUsed \u2013 Like New\u201d means:\n\nThe item is in perfect working condition. It has not been repaired or reconditioned.\n\n\u201cRenewed\u201d or \u201cRefurbished\u201d (under the Amazon Renewed program).",
+              "score": 4,
+              "created_utc": 1749476140.0,
+              "replies": [
+                {
+                  "id": "mwtzetk",
+                  "author": "sangreal06",
+                  "body": "16 CFR \u00a7\u202f20.1 does not say what you are suggesting. For one, it only applies to (auto) industry parts. Also, it only says that if something appears new or unused (ie \"Like new\") but isn't, then it needs to be labeld with terms like \"Used\". \"Used -- Like New\" clearly falls within this regulation. Granted, the regulation requires this label on the product itself but again that is for auto parts.\n\nThe Amazon policy I would agree with you on, except I can't find that language. What I see on the amazon site ( [https://www.amazon.com/gp/help/customer/display.html?nodeId=202074290](https://www.amazon.com/gp/help/customer/display.html?nodeId=202074290) ) is:\n\n>The item fully functions.\n\n>Original protective wrapping may be missing.\n\n>The original packaging may have minor damage, or item may come repackaged.\n\n>All accessories are present.",
+                  "score": 5,
+                  "created_utc": 1749477784.0,
+                  "replies": [
+                    {
+                      "id": "mwtzx6v",
+                      "author": "InterstellarReddit",
+                      "body": "You\u2019re on the GP site, look at the US one:\n\nhttps://sellercentral.amazon.com/help/hub/reference/external/G201648580?locale=en-US Amazon Renewed for United States\n\nHere\u2019s a better link for ftc law:\n\nhttps://www.ftc.gov/enforcement/penalty-offenses/used-rebuilt Penalty Offenses Concerning the Sale of Used and/or Rebuilt Merchandise | Federal Trade Commission\n\nEdit - I see the nesting/breadcrumbs on the site falls under auto. Provided another link Thank you",
+                      "score": 1,
+                      "created_utc": 1749477946.0,
+                      "replies": [
+                        {
+                          "id": "mwu24de",
+                          "author": "sangreal06",
+                          "body": "That's just a guide to the Amazon Renewed program which offers benefits (to buyers and sellers) beyond listing your item as \"Used -  Like New\". Amazon themselves say:\n\n>Can I list products under both \u201cRefurbished \u2013 Excellent\u201d and \u201cUsed \u2013 Like New\u201d conditions?\n\n>Yes, you can list products under both conditions. For items that meet Amazon Renewed program quality standards, we recommend that you use the \u201cRefurbished\u201d condition, because these offers qualify for the Amazon Renewed Guarantee. Items that align with the \u201cUsed \u2013 Like New\u201d quality standards should be listed as used and don\u2019t qualify for the Amazon Renewed Guarantee. Listing under both conditions allows you to offer customers a range of options for pre-owned products.\n\n[https://sellercentral.amazon.com/help/hub/reference/external/GLQ3XNK7G8586BS2](https://sellercentral.amazon.com/help/hub/reference/external/GLQ3XNK7G8586BS2)\n\nRegardless, that is between the seller and Amazon. They are not misleading the consumer by listing a refurbished item as \"Used -- Like new\" because the definition given to the consumer is what I linked to previously\n\n>The item fully functions.\n\n>Original protective wrapping may be missing.\n\n>The original packaging may have minor damage, or item may come repackaged.\n\n>All accessories are present.\n\nThe FTC site contains enforcement actions (from 75 years ago) for selling Used/Refurbished products as New; not as Used",
+                          "score": 3,
+                          "created_utc": 1749478629.0,
+                          "replies": [
+                            {
+                              "id": "mwu4ol3",
+                              "author": "InterstellarReddit",
+                              "body": "This is also confusing because look at this snippet from the FTC\n\nIt is an unfair or deceptive act or practice to advertise merchandise that is used or composed of reconditioned materials without specifically disclosing that fact in the\nadvertisement.\n\nSo if my device is refurbished, then it\u2019s composed of recondition materials, and there wasn\u2019t disclosed on the advertisement.  \n\nUsed - like New wouldn\u2019t imply reconditioned.",
+                              "score": 0,
+                              "created_utc": 1749479405.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwtvmhj",
+                  "author": "SerDuckOfPNW",
+                  "body": "Wow\u2026a redditor that understands Burden of Proof! Well done!",
+                  "score": 4,
+                  "created_utc": 1749476566.0,
+                  "replies": [
+                    {
+                      "id": "mwtx8wv",
+                      "author": "InterstellarReddit",
+                      "body": "I don\u2019t think it matters because people don\u2019t know how to read. I\u2019ve already had five different people. Tell me that I\u2019m wrong even after the providing sources.\n\nThey\u2019re saying that the Amazon policy is wrong and that Cornell law is wrong lol",
+                      "score": 6,
+                      "created_utc": 1749477099.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwtu11f",
+          "author": "CoysNizl3",
+          "body": "Used like new is literally what refurbished means. I think you have comprehension problems.",
+          "score": -10,
+          "created_utc": 1749476025.0,
+          "replies": [
+            {
+              "id": "mwty8oq",
+              "author": "TheSoCalledExpert",
+              "body": "That\u2019s definitely not what \u201crefurbished\u201d means.",
+              "score": 4,
+              "created_utc": 1749477415.0,
+              "replies": []
+            },
+            {
+              "id": "mwtvbcm",
+              "author": "InterstellarReddit",
+              "body": "I think you lack comprehension, It\u2019s actually illegal. Federal law and Amazon policy. \n\nUnder 16 CFR \u00a7\u202f20.1, it\u2019s deceptive to sell a product that\u2019s been refurbished or reconditioned without clearly disclosing that fact.\n\nYou must:\n\nAvoid implying it\u2019s \u201cnew\u201d or \u201clike new\u201d if it has been altered.\n\nUse terms like \u201crefurbished,\u201d \u201creconditioned,\u201d \u201cremanufactured,\u201d etc.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nAmazon\u2019s Policy:\n\nAmazon\u2019s condition guidelines make this crystal clear:\n\n\u201cUsed \u2013 Like New\u201d means:\n\nThe item is in perfect working condition. It has not been repaired or reconditioned.\n\n\u201cRenewed\u201d or \u201cRefurbished\u201d (under the Amazon Renewed program).",
+              "score": 3,
+              "created_utc": 1749476462.0,
+              "replies": [
+                {
+                  "id": "mwtvdwo",
+                  "author": "CoysNizl3",
+                  "body": "IT LITERALLY SAYS USED",
+                  "score": -1,
+                  "created_utc": 1749476485.0,
+                  "replies": [
+                    {
+                      "id": "mwtwgcp",
+                      "author": "InterstellarReddit",
+                      "body": "You are correct. The condition is listed as used-like new, however, the items being sold are refurbished.\n\nUsed like new does not mean refurbished. Refurbished means that it\u2019s been repaired and parts have been replaced.\n\nUsed like new means it\u2019s either a customer return or a demo unit. \n\nLook at Amazon policy and look at the law that I cited",
+                      "score": 6,
+                      "created_utc": 1749476839.0,
+                      "replies": [
+                        {
+                          "id": "mwtwjky",
+                          "author": "CoysNizl3",
+                          "body": "Looks like you got it finally, congratulations",
+                          "score": -4,
+                          "created_utc": 1749476868.0,
+                          "replies": [
+                            {
+                              "id": "mwtxw8z",
+                              "author": "InterstellarReddit",
+                              "body": "\nExactly, so do you understand what I\u2019m trying to explain? \n\nI was sold a refurbished item, actually two of thems, but I was never told they were refurbished.\n\nThe invoices and the listing on Amazon says used like new. I assumed they were customer returns.",
+                              "score": 3,
+                              "created_utc": 1749477305.0,
+                              "replies": [
+                                {
+                                  "id": "mwtyt5r",
+                                  "author": "Inspyur",
+                                  "body": "You\u2019re conversing with an idiot, he doesn\u2019t understand that you\u2019re exceedingly correct, and responds \u201cexactly, you got it\u201d thinking you\u2019re proving his point.",
+                                  "score": 4,
+                                  "created_utc": 1749477594.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwu0qd2",
+                                      "author": "InterstellarReddit",
+                                      "body": "sometimes people maybe don\u2019t speak English first or something like that. Maybe he/she European or something. \n\nFound a better link\n\nhttps://www.ftc.gov/enforcement/penalty-offenses/used-rebuilt Penalty Offenses Concerning the Sale of Used and/or Rebuilt Merchandise | Federal Trade Commission",
+                                      "score": 2,
+                                      "created_utc": 1749478200.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mwtyp83",
+                                  "author": "ShitCuntsinFredPerry",
+                                  "body": "I don't think they do from the tone of that last comment lol",
+                                  "score": 1,
+                                  "created_utc": 1749477559.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwtz4tx",
+                                      "author": "InterstellarReddit",
+                                      "body": "Nothing I can do, it\u2019s just the way the world works",
+                                      "score": 1,
+                                      "created_utc": 1749477696.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwy78hh",
+      "author": "TuhnderBear",
+      "body": "I really debated this for the \u201cfuture proofing\u201d. That said I don\u2019t have any devices that support TB5, only up to TB4. So I got that. Pretty happy with it.",
+      "score": 0,
+      "created_utc": 1749523507.0,
+      "replies": []
+    },
+    {
+      "id": "mwtwcrs",
+      "author": "Emotional_Insect4874",
+      "body": "Anker is such a weird name\u2026 I never think of anchor, just kanker sores and kankels.",
+      "score": -8,
+      "created_utc": 1749476806.0,
+      "replies": [
+        {
+          "id": "mwu2bfn",
+          "author": "StarWars_and_SNL",
+          "body": "It\u2019s a better name than nearly any other Amazon era Chinese brand.",
+          "score": 3,
+          "created_utc": 1749478689.0,
+          "replies": [
+            {
+              "id": "mwuch38",
+              "author": "throwawaygoatpockets",
+              "body": "Nonsense. JoyTutus and PzOz are great names every American consumer loves and respects.",
+              "score": 2,
+              "created_utc": 1749481679.0,
+              "replies": [
+                {
+                  "id": "mwum2hm",
+                  "author": "StarWars_and_SNL",
+                  "body": "I don\u2019t know about you, but I fully trust a Sunnymandoo battery to not explode.",
+                  "score": 3,
+                  "created_utc": 1749484402.0,
+                  "replies": [
+                    {
+                      "id": "mwv9mos",
+                      "author": "Phyltre",
+                      "body": "That sunny man really DOES do!",
+                      "score": 1,
+                      "created_utc": 1749490953.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwtzu4a",
+          "author": "2-buck",
+          "body": "Yeah it\u2019s German for anchor",
+          "score": 2,
+          "created_utc": 1749477918.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

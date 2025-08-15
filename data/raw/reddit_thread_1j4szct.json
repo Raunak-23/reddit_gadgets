@@ -1,0 +1,1474 @@
+{
+  "post": {
+    "title": "Sony's PS3 gets new system software update, 19 years after release",
+    "author": "diacewrb",
+    "id": "1j4szct",
+    "score": 3230,
+    "created_utc": 1741258814.0,
+    "selftext": "",
+    "num_comments": 181,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1j4szct/sonys_ps3_gets_new_system_software_update_19/"
+  },
+  "comments": [
+    {
+      "id": "mgb9d6x",
+      "author": "blacksoxing",
+      "body": "> Updates of this sort are an annual occurrence, as the Advanced Access Content System (AACS) encryption key regularly expires - it's a copyright-protection technology that requires a key to be set on both the disc and the console in order to play new films.\n\nSee you next year for the \u201c20th edition\u201d articles and the following for the \u201c20th anniversary\u201d ones",
+      "score": 598,
+      "created_utc": 1741260480.0,
+      "replies": [
+        {
+          "id": "mgbu4m1",
+          "author": "cia91",
+          "body": "So at one point when they stop updating this key the PS3 will not be able to read blu ray disk?",
+          "score": 113,
+          "created_utc": 1741269149.0,
+          "replies": [
+            {
+              "id": "mgbuu76",
+              "author": "danielv123",
+              "body": "Not new ones. Old ones should still play fine.",
+              "score": 95,
+              "created_utc": 1741269393.0,
+              "replies": [
+                {
+                  "id": "mgc0mry",
+                  "author": "japzone",
+                  "body": "I wonder why the PS3 needs to refresh its keys for this. Normal Blu-ray players can play new discs fine without updating keys. Haven't hooked my Sony Blu-ray player up to the Internet since I got it years ago.",
+                  "score": 61,
+                  "created_utc": 1741271336.0,
+                  "replies": [
+                    {
+                      "id": "mgc1l62",
+                      "author": "Izicial",
+                      "body": "Can't they put the keys for the updates on the blueray itself for the players? I assume the PS3 firmware can't be accessed/changed by blueray movies.",
+                      "score": 43,
+                      "created_utc": 1741271649.0,
+                      "replies": [
+                        {
+                          "id": "mgc8p7n",
+                          "author": "japzone",
+                          "body": "I did some digging, and for some reason this isn't laid out simply anywhere, but it seems you're kinda correct. The AACS encryption used by Blu-rays allows newer Blu-rays to contain updated key lists, but there's also a trick in the system that allows them to Blacklist certain software/hardware from decrypting the updated list if deemed necessary. Probably an attempt to prevent compromised hardware/software from gaining the latest keys. The disc isn't modifying the players, just providing a list of updated keys that a player may or may not be able to decrypt because of the blacklist trick in the encryption. In cases where your hardware/software is blacklisted, it must be replaced or updated in order to start decrypting the updated key list again. \n\nIt seems the PS3 either can't read these lists on Blu-rays though, and thus can't update its key database to play new Blu-rays; or the PS3 is considered a constant security risk by AACS(maybe because people can easily mod it these days) and so they constantly Blacklist its older firmware in order to force people to download the new firmware. The former situation makes me wonder why they can't just add the needed functionality in a firmware update, unless it's because it requires specific hardware now, which the PS3 doesn't have by fact that it's so old and one of the first blu-ray players. The latter makes me wonder why they even bother blacklisting the PS3 if they aren't preventing modding from taking place anyway, and there are likely other sources people have to obtain the keys at this point.",
+                          "score": 40,
+                          "created_utc": 1741273838.0,
+                          "replies": [
+                            {
+                              "id": "mgczldc",
+                              "author": "TheArmoredKitten",
+                              "body": "Software can't patch hardware exposures, and the PS3 has been oscilloscoped at this point. You could effortlessly intercept the key list right out of the buffer in raw binary.",
+                              "score": 21,
+                              "created_utc": 1741281566.0,
+                              "replies": [
+                                {
+                                  "id": "mgd0qbi",
+                                  "author": "japzone",
+                                  "body": "True, but it's clear that kneecapping the PS3 isn't preventing people from getting the keys anyway. Blu-ray ripping is alive and well.",
+                                  "score": 16,
+                                  "created_utc": 1741281882.0,
+                                  "replies": [
+                                    {
+                                      "id": "mge4y2g",
+                                      "author": "TheArmoredKitten",
+                                      "body": "\"this boat is so full of holes that it's not like pulling that cork is gonna sink us\"\n\nSee also \"why do we even clean when it's just gonna get dirty again\"",
+                                      "score": 1,
+                                      "created_utc": 1741293148.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mgsk331",
+                      "author": "mackadoo",
+                      "body": "The first generation Blu-ray players all needed regular internet updates for this. The ps3 was seen by many at the time as the most \"future proof\" on the presumption Sony would update it longer than other models, and they were right. For years, it was common to read headlines like \"Panasonic is going to force you to by a new movie player soon!\"",
+                      "score": 3,
+                      "created_utc": 1741489698.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mgc1c8l",
+              "author": "blacksoxing",
+              "body": "Seemingly so, due to the encryption Sony implemented. One would say that it's a huge blunder when that happens, which will now be 20+ years from when the PS3 launched, but I think I see it as this: the PS3, especially the first models, were VERY heavy on power. I'd hope by now hose using a PS3 for watching blu-ray's would have switched to something less consuming...but I also know that I'm looking at this from a different lens than someone in a less economical state",
+              "score": 7,
+              "created_utc": 1741271567.0,
+              "replies": []
+            },
+            {
+              "id": "mgn2cbr",
+              "author": "rayshmayshmay",
+              "body": "And then we\u2019ll get an article about how the PS3 won\u2019t be getting any more updates after 50 years!",
+              "score": 1,
+              "created_utc": 1741411685.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mgfj04d",
+          "author": "Temporary_Carrot7855",
+          "body": "PS3 can't be 20 years old I simply refuse to believe it \ud83e\udd72\n\nI'm not old I swear...",
+          "score": 10,
+          "created_utc": 1741308998.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgb6tcq",
+      "author": "Rollertoaster7",
+      "body": "For blu ray film playback",
+      "score": 1009,
+      "created_utc": 1741259068.0,
+      "replies": [
+        {
+          "id": "mgbska0",
+          "author": "AeitZean",
+          "body": "It always is, if they want to keep updating the blu ray keys they have to keep updating the console. \ud83e\udd37\u200d\u2640\ufe0f",
+          "score": 425,
+          "created_utc": 1741268605.0,
+          "replies": [
+            {
+              "id": "mgbxos9",
+              "author": "Piett_1313",
+              "body": "Yep it has happened every 12 months for the past many years. Can\u2019t miss an opportunity for clickbait though",
+              "score": 289,
+              "created_utc": 1741270369.0,
+              "replies": []
+            },
+            {
+              "id": "mgezlcr",
+              "author": "yanginatep",
+              "body": "Such a stupid design to require a full system update just to update the encryption keys.",
+              "score": 37,
+              "created_utc": 1741302108.0,
+              "replies": [
+                {
+                  "id": "mgf19zp",
+                  "author": "AeitZean",
+                  "body": "I know right, you'd think they'd have a separate \"blu ray update\" that just downloaded the keys, if only to save on bandwidth and hosting every time. \ud83e\udd14",
+                  "score": 17,
+                  "created_utc": 1741302686.0,
+                  "replies": [
+                    {
+                      "id": "mgfi88n",
+                      "author": "yanginatep",
+                      "body": "I *think* that's what they did for PS4 and PS5.",
+                      "score": 10,
+                      "created_utc": 1741308718.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mghg1sz",
+                      "author": "nicman24",
+                      "body": "it is more probable they need to send the firmware to be validated to the blu ray people",
+                      "score": 3,
+                      "created_utc": 1741339599.0,
+                      "replies": [
+                        {
+                          "id": "mghjzbh",
+                          "author": "AeitZean",
+                          "body": "Sony is the creator of blu ray, and if they're just updating keys it shouldn't need to be validated if it was only keys. Idk, it just seems a little overcomplicated imo. \ud83e\udd37\u200d\u2640\ufe0f",
+                          "score": 6,
+                          "created_utc": 1741342077.0,
+                          "replies": [
+                            {
+                              "id": "mghm7ad",
+                              "author": "nicman24",
+                              "body": "it is a compliance thing",
+                              "score": 4,
+                              "created_utc": 1741343420.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mgdg18d",
+              "author": "h0tel-rome0",
+              "body": "I\u2019m curious how many people still use these things for watching movies on physical",
+              "score": 42,
+              "created_utc": 1741286163.0,
+              "replies": [
+                {
+                  "id": "mgdwmp5",
+                  "author": "thiefwithsharpteeth",
+                  "body": "A few months ago I was visiting my parents and noticed they still had a PS3 as their primary BD player. I bought them a new Sony Blu-ray player and took the PS3 with me. They love how much easier the menu is to navigate on their new player, and I can replay MGS4. Win-win.",
+                  "score": 57,
+                  "created_utc": 1741290803.0,
+                  "replies": [
+                    {
+                      "id": "mge97yo",
+                      "author": "h0tel-rome0",
+                      "body": "Damn that\u2019s one game I have never played cause I skipped the ps3. That needs a remaster already\u2026",
+                      "score": 13,
+                      "created_utc": 1741294349.0,
+                      "replies": [
+                        {
+                          "id": "mgha976",
+                          "author": "RoadkillVenison",
+                          "body": "They did a master collection 1 in 2023, and they\u2019ve hinted that it\u2019ll be part of the second collection.\n\nJust wish they\u2019d announce it instead of just teasing it, and the uncertainty that comes with that.",
+                          "score": 8,
+                          "created_utc": 1741335976.0,
+                          "replies": [
+                            {
+                              "id": "mgiwi5s",
+                              "author": "Piett_1313",
+                              "body": "I think right now they don\u2019t want to take attention away from Snake Eater Delta. My guess is we receive an announcement this fall/winter.",
+                              "score": 5,
+                              "created_utc": 1741361832.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mgih6ee",
+                          "author": "pratherj23",
+                          "body": "I skipped ps3 as well, but recently bought one for my collection and played through MGS4. It\u2019s not my favorite of the series but a great game nonetheless and still holds up in 2025 for the most part.",
+                          "score": 4,
+                          "created_utc": 1741357020.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mgg6a2g",
+                      "author": "zino332",
+                      "body": "Am I old enough that if I had kids I would be using a ps3 as a blu ray player and my kids would be happy to take my classic console.",
+                      "score": 2,
+                      "created_utc": 1741317245.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mgdrfsz",
+                  "author": "brandont04",
+                  "body": "I still do, but not often. It's still my main blu ray player. I wished they just unlock it so we can watch blu rays from any region. Annoying.",
+                  "score": 7,
+                  "created_utc": 1741289366.0,
+                  "replies": []
+                },
+                {
+                  "id": "mgdl2h3",
+                  "author": "jljboucher",
+                  "body": "I don\u2019t use my PS3 to watch DVDs or Blu-ray, but I do use my PS4. If my PS4 goes out, I will use my PS3. My PS2 was used mainly as a DVD player, but it was also on practically 14 hours a day, almost every day for years. I got it in 2005, stopped using it exclusively in 2012, I still have it, and it still works perfectly.",
+                  "score": 5,
+                  "created_utc": 1741287575.0,
+                  "replies": [
+                    {
+                      "id": "mge4dkt",
+                      "author": "m3thodm4n021",
+                      "body": "What DVDs were you watching for 14 hours a day for 7+ years??!?",
+                      "score": 3,
+                      "created_utc": 1741292987.0,
+                      "replies": [
+                        {
+                          "id": "mge5tup",
+                          "author": "Camiata2",
+                          "body": "The Lord of the Rings Trilogy extended editions. They probably got about halfway through them",
+                          "score": 13,
+                          "created_utc": 1741293400.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mgjr7ek",
+                          "author": "jljboucher",
+                          "body": "Not just DVDs, used it for a CD player mostly.",
+                          "score": 2,
+                          "created_utc": 1741370617.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mgdi9gl",
+                  "author": "SteveThePurpleCat",
+                  "body": "There are likely only a handful of PS3's left that don't have fucked solder inside the IHS. Good luck hearing any movies over the Harrier Jump Jet impressions the rest of them will be doing.",
+                  "score": 21,
+                  "created_utc": 1741286791.0,
+                  "replies": [
+                    {
+                      "id": "mge4bv9",
+                      "author": "rohmish",
+                      "body": "my PS3 hasnt been turned on for ages and I'm not really sure where my controller is. might try doing that this weekend.",
+                      "score": 10,
+                      "created_utc": 1741292973.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mgdl8v1",
+                      "author": "jljboucher",
+                      "body": "I put a laptop cooler under mine and clean it out when it starts getting loud.",
+                      "score": 10,
+                      "created_utc": 1741287624.0,
+                      "replies": [
+                        {
+                          "id": "mgdp9ir",
+                          "author": "SteveThePurpleCat",
+                          "body": "They suffer from the solder that connects the top of the chip to the bottom of the internal heat spreader failing, eventually it doesn't matter what external cooling you do the heat just can't get out of the chip fast enough.\n\nThere are assorted guides for doing a solder reflow, seems to be a flip of the coin if it works.",
+                          "score": 12,
+                          "created_utc": 1741288754.0,
+                          "replies": [
+                            {
+                              "id": "mgewfvd",
+                              "author": "DoneDraper",
+                              "body": "Wow, never heard about it before. My PS3 is running great, and my son is playing Ratchet & Clank without any symptoms. What can I do?",
+                              "score": 3,
+                              "created_utc": 1741301008.0,
+                              "replies": [
+                                {
+                                  "id": "mggkgw3",
+                                  "author": "shd0w2",
+                                  "body": "You can keep using it until it dies? Or, you can preventatively perform the maintenance he is explaining. Depends on your methodology for car repairs. Fix it before it breaks? Or fix it after it breaks? Cost up front and time investment will always be more for fixing preventative, but long term could outweigh in case your PS3 does fully die. But in that case, is the cost of another non-failed one going to be cheaper? Depends where you find it",
+                                  "score": 3,
+                                  "created_utc": 1741322753.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mghgh0a",
+                      "author": "TheFrutzinator",
+                      "body": "The later models don't suffer from that issue though.",
+                      "score": 1,
+                      "created_utc": 1741339863.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mgeixy8",
+                      "author": "haarschmuck",
+                      "body": "Can blame that on environmental regs making companies switch to lead-free solder. \n\nLead-free solder is and always will be garbage. It's responsible for most of the notable console/electronics failures for decades.",
+                      "score": -2,
+                      "created_utc": 1741297067.0,
+                      "replies": [
+                        {
+                          "id": "mgfcfdq",
+                          "author": "lmoki",
+                          "body": "As an professional in a different industry that's fully dependent on electronics, this is nearly 100% true.  Lead free solder is great as a safety condition during manufacture, but is questionable as a long-term environmental decision:  all those electronics with shorter lifespans end up in landfills, requiring new replacements.  That is not without environmental cost.",
+                          "score": 8,
+                          "created_utc": 1741306639.0,
+                          "replies": [
+                            {
+                              "id": "mgfth2q",
+                              "author": "None",
+                              "body": "[removed]",
+                              "score": 3,
+                              "created_utc": 1741312725.0,
+                              "replies": [
+                                {
+                                  "id": "mgg8gyw",
+                                  "author": "lmoki",
+                                  "body": "Solder isn't 100% the cause of all console issues-- there are plenty of other possible failure modes, including heat, leaky capacitors, corrosion, trace breakdown on pc boards, etc.  But if you have solder that's a ticking time bomb, designing anything to last longer than the rot of the solder is kind of pointless.\n\nIt's not consistent largely because the industry has been working with lead-free solder and different formulations for a couple of decades.  Some are a lot better than others.  (I've seen some products made in China that suffer from 'solder rot' within 2-3 years.)  But if it takes 10 years to understand that it's a bad solder formulation to use, it's too slow for a manufacturer to make a meaningful, informed, change.  When a product is 10 years old, the manufacturers would prefer that you replace it anyway:  customers don't make the association of bad material selection with reduced lifespan. \n\n   ... but it is in some other ways largely consistent.  We're now groomed to expect 10 years as a reasonable lifespan for electronics, and after that point we accept that we're on borrowed time.  That wasn't true previously.  In my industry, there are tons of 40 year old electronics that still work fine, and 20 years or (much) longer was standard.  Stuff got replaced because it's capabilities or features were no longer sufficient, not because the solder failed.  \n\nCRT televisions and computer monitors are a good example:  most got replaced while still working, because they were too bulky, didn't have compatible tuners anymore, etc., etc.-- but not because they quit working.",
+                                  "score": 4,
+                                  "created_utc": 1741318033.0,
+                                  "replies": [
+                                    {
+                                      "id": "mhd9d3b",
+                                      "author": "zzazzzz",
+                                      "body": "i mean sure, but the old crt tv had an order of magnitude less solderjoints than a modern tv. and i cant say im hearing many ppl having tv's break randomly on them today either tbh. and thats ignoring that on old devices with fewer solder points these were on average far larger meaning more solder surfacing with the component so again making it more robust just by nature.",
+                                      "score": 1,
+                                      "created_utc": 1741779242.0,
+                                      "replies": [
+                                        {
+                                          "id": "mheqd48",
+                                          "author": "lmoki",
+                                          "body": "Well, it's not specifically tied to the *number* of solder joints, but to the *quality* of the solder joints.    We've seen cables with a total of 6 lead-free solder joints fail within a few years, while the same cable/connector with leaded solder expected to last until the rubber insulation on the cable deteriorates.  And in some ways, older style point-to-point or thru-hole circuitry are more at risk from early failure, since the predicted instance of failure happens first on large solder pads, not small ones.       \n\nLead was added to solder for a couple of reasons:  to prevent the normal tendency of tin to crystalize over time (leading to fractures, air permeability and corrosion of the joint), and to reduce the melting point of the solder.  The reduced melting point, among other things, allows an wider 'window' between being hot enough to melt & flow the solder, but not hot enough to damage sensitive components.  In my view, the crystalization issue is the hardest one to adjust for with lead-free formulations, since it takes time (perhaps years) to present as an issue, so it's harder for manufacturers to be aware of issues, and make changes.  With the current trend towards everything being manufactured to be disposable with shorter lifespans, there's also a temptation to just not worry about it at a manufacturing level:  repairs that are not economically viable for the end-user fits in well with the manufacturer's desire to sell you the newest model anyway.  Manufacturers are quick to find workable solutions to the melting point issue, since failures would occur during warrant periods or early consumer satisfaction with products.  But manufacturer's don't have the same interests in worrying about long-term stability of solder joints, since it's a natural conflict between wanting to build good products, versus wanting to sell you a replacement for a product that failed earlier.",
+                                          "score": 1,
+                                          "created_utc": 1741797103.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mgfkcgp",
+                  "author": "GotenRocko",
+                  "body": "Was using mine until a couple of years ago when I upgraded to 4k. Still in my guest room to use if I want to watch a 3d Bluray. Imo was much better at playing Blurays than the PS4 which would often have issues with audio passthrough. PS3 works every time, no trouble with Atmos or DTS x even though those came out well after the system did.",
+                  "score": 4,
+                  "created_utc": 1741309480.0,
+                  "replies": [
+                    {
+                      "id": "mgfwi3f",
+                      "author": "h0tel-rome0",
+                      "body": "Funny how that works, new tech isn\u2019t always better",
+                      "score": 1,
+                      "created_utc": 1741313791.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mge00oy",
+                  "author": "curtisas",
+                  "body": "\ud83d\udc4bI use mine as a DVD and Blu-ray player",
+                  "score": 3,
+                  "created_utc": 1741291755.0,
+                  "replies": []
+                },
+                {
+                  "id": "mge1bot",
+                  "author": "CamGoldenGun",
+                  "body": "mine stopped working. I'll still use the PS4 for that reason. But it has been... several years...",
+                  "score": 1,
+                  "created_utc": 1741292127.0,
+                  "replies": []
+                },
+                {
+                  "id": "mge8nmn",
+                  "author": "Clean-Agent-8565",
+                  "body": "lol I watched spinal tap on mine last week. Works great!",
+                  "score": 1,
+                  "created_utc": 1741294191.0,
+                  "replies": []
+                },
+                {
+                  "id": "mgewwer",
+                  "author": "the_Kell",
+                  "body": "I just watched LoTR on the PS4 3 weeks ago",
+                  "score": 1,
+                  "created_utc": 1741301156.0,
+                  "replies": [
+                    {
+                      "id": "mgfj5p5",
+                      "author": "h0tel-rome0",
+                      "body": "Try the UHDs on a PS5!",
+                      "score": 1,
+                      "created_utc": 1741309052.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mgf7p5c",
+                  "author": "mazzicc",
+                  "body": "I did until last year when I got a ps5 and moved my ps4 to the basement for Blu-ray.",
+                  "score": 1,
+                  "created_utc": 1741304949.0,
+                  "replies": []
+                },
+                {
+                  "id": "mggtong",
+                  "author": "CosmicCreeperz",
+                  "body": "That\u2019s the only BD/DVD player I still have.  I don\u2019t use it often, but there are a few TV series that\u2019s aren\u2019t really available on streaming.",
+                  "score": 1,
+                  "created_utc": 1741326879.0,
+                  "replies": []
+                },
+                {
+                  "id": "mggvd19",
+                  "author": "Chustercupperput",
+                  "body": "me",
+                  "score": 1,
+                  "created_utc": 1741327685.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mgouisp",
+              "author": "_Spastic_",
+              "body": "I get this but why bother? The console is old, why do they update the Blue Ray on the device? I guess what I'm asking is I wonder why they care? \n\nAnd don't get me wrong, it's the morally right thing to do and I'm glad they do, I just don't understand why.",
+              "score": 2,
+              "created_utc": 1741445349.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mgbnkxu",
+          "author": "Redmarkred",
+          "body": "Saved me a click. Thanks!",
+          "score": 46,
+          "created_utc": 1741266808.0,
+          "replies": []
+        },
+        {
+          "id": "mge46oa",
+          "author": "Nexustar",
+          "body": "Better than an update requiring a yellow ink refill before you can print B&W again.",
+          "score": 6,
+          "created_utc": 1741292931.0,
+          "replies": [
+            {
+              "id": "mgeivxp",
+              "author": "unakron",
+              "body": "Which, is a ploy by Big Brother so that printers can write secret codes on each printed page so it snitches about the printer... so if you do something the federal government thinks is a crime with the printed material, they can track you down faster. Originally for fradulent/counterfeit money... now for anything. P.s. laser printers do it, too, in other ways.",
+              "score": 3,
+              "created_utc": 1741297051.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mgchny5",
+          "author": "nohpex",
+          "body": "I'm assuming they can't do 4K playback, right?\n\nLaser probably can't read fast enough, and the HDMI doesn't have enough bandwidth, I'd imagine..",
+          "score": 14,
+          "created_utc": 1741276436.0,
+          "replies": [
+            {
+              "id": "mgclqe5",
+              "author": "MrDeacle",
+              "body": "Correct, PS3 and PS4 are only compatible with standard blu ray and not 4K blu ray.",
+              "score": 36,
+              "created_utc": 1741277591.0,
+              "replies": [
+                {
+                  "id": "mgcmhf5",
+                  "author": "nohpex",
+                  "body": "Cool, cool. Thanks for the confirmation. :)",
+                  "score": 5,
+                  "created_utc": 1741277815.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mgej5lt",
+              "author": "haarschmuck",
+              "body": "Not because of the laser carriage but because of the hardware/software decoding and HDMI spec.",
+              "score": 5,
+              "created_utc": 1741297127.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgbmv6g",
+      "author": "Obsolete_Robot",
+      "body": "I still use mine as a Bluray player, so nice!",
+      "score": 80,
+      "created_utc": 1741266532.0,
+      "replies": [
+        {
+          "id": "mgeld4i",
+          "author": "JustineDelarge",
+          "body": "Same.",
+          "score": 8,
+          "created_utc": 1741297759.0,
+          "replies": []
+        },
+        {
+          "id": "mgfkwib",
+          "author": "aerodeck",
+          "body": "I did until 6 months ago when I upgraded everything to 4k",
+          "score": 4,
+          "created_utc": 1741309685.0,
+          "replies": [
+            {
+              "id": "mgjvtwo",
+              "author": "Head_Bread_3431",
+              "body": "The main reason I bought a ps5 because a decent 4k blu ray player is already over $300 and Costco was selling a whole ass ps5 bundle for like $480 around Christmas. Figured I\u2019d get back into gaming on the side as I haven\u2019t played since ps2 days lol. The jump from San Andreas to gta5 is insane, can\u2019t believe that\u2019s already 10 years old too and can\u2019t wait for 6",
+              "score": 4,
+              "created_utc": 1741371932.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgbzgls",
+      "author": "Akuma254",
+      "body": "19 years?!\n\n![gif](giphy|GrUhLU9q3nyRG|downsized)",
+      "score": 109,
+      "created_utc": 1741270956.0,
+      "replies": [
+        {
+          "id": "mgd6iiv",
+          "author": "noblecloud",
+          "body": "Yeah, OP is just wrong, the PS3 release was just a few years ago \ud83d\ude2d",
+          "score": 21,
+          "created_utc": 1741283495.0,
+          "replies": [
+            {
+              "id": "mgei53s",
+              "author": "Akuma254",
+              "body": "Maury: \u201cThe growing gray in Akuma254\u2019s hair has determined that post\u2026was in fact the truth.",
+              "score": 1,
+              "created_utc": 1741296842.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mgedqao",
+          "author": "Starscream147",
+          "body": "Jeeeeeeesus. \n\nTruth.",
+          "score": 1,
+          "created_utc": 1741295604.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgbdva8",
+      "author": "Soft_Internal_6775",
+      "body": " \u201c19 years after release.\u201d\nFuck I\u2019m old now.",
+      "score": 88,
+      "created_utc": 1741262720.0,
+      "replies": [
+        {
+          "id": "mgd9iba",
+          "author": "Voldemort57",
+          "body": "I would\u2019ve guessed the ps3 was released early 2010s. I grew up on the ps2, but I\u2019m only some older than the ps3 it seems.",
+          "score": 4,
+          "created_utc": 1741284326.0,
+          "replies": [
+            {
+              "id": "mgdjpxl",
+              "author": "TIC321",
+              "body": "Not early. It came out late 2006 while some other countries had it in 2007",
+              "score": 3,
+              "created_utc": 1741287199.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mggm0di",
+          "author": "julictus",
+          "body": "r/FuckImOld",
+          "score": 1,
+          "created_utc": 1741323411.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgbm4fg",
+      "author": "Plastic-Leave234",
+      "body": "too bad mines died by light of death like 8 years ago",
+      "score": 17,
+      "created_utc": 1741266240.0,
+      "replies": [
+        {
+          "id": "mgdjf8k",
+          "author": "JonWilso",
+          "body": "Same for my OG fat PS3. I remember teenage me trying the silly \"heat the board with a heatgun trick\" - it worked for like 5 minutes.",
+          "score": 4,
+          "created_utc": 1741287118.0,
+          "replies": [
+            {
+              "id": "mgem31x",
+              "author": "levian_durai",
+              "body": "Do you still have it? I haven't really investigated the issue, but if heating it helps, you could likely fix it by re-soldering something. It's pretty easy to do, even for someone who has never done it before.",
+              "score": 3,
+              "created_utc": 1741297964.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mge1h46",
+          "author": "Lumpy-Marsupial-6617",
+          "body": "I was gonna say that Microsoft released a thick towel as an update.",
+          "score": 3,
+          "created_utc": 1741292170.0,
+          "replies": []
+        },
+        {
+          "id": "mgelwao",
+          "author": "levian_durai",
+          "body": "Same, but luckily I had a repair center in my city that fixed it for around $100. It's been great ever since.",
+          "score": 2,
+          "created_utc": 1741297910.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgd78fv",
+      "author": "Kiwithegaylord",
+      "body": "Despite the ps3 being my primary console, I\u2019m not gonna update because I\u2019m jailbroken and don\u2019t have a working Blu-ray drive anyway",
+      "score": 9,
+      "created_utc": 1741283692.0,
+      "replies": [
+        {
+          "id": "mgdi4bl",
+          "author": "P1mongoose",
+          "body": "Same situation. I\u2019m not about to break my jailbreak just to update and have to jailbreak again.",
+          "score": 3,
+          "created_utc": 1741286751.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgcyy1h",
+      "author": "16Shells",
+      "body": "as long as they don\u2019t kill or nerf the amazon prime app (it\u2019s the only way to watch without commercials now)",
+      "score": 7,
+      "created_utc": 1741281385.0,
+      "replies": []
+    },
+    {
+      "id": "mgdd9m7",
+      "author": "srini10000",
+      "body": "Has it really been 19 years \ud83e\udd7a",
+      "score": 5,
+      "created_utc": 1741285380.0,
+      "replies": []
+    },
+    {
+      "id": "mgdt0sn",
+      "author": "UOENO611",
+      "body": "Everybody update your consoles it won\u2019t negatively effect any custom firmware ;)",
+      "score": 5,
+      "created_utc": 1741289810.0,
+      "replies": [
+        {
+          "id": "mgfmrx9",
+          "author": "GangStalkingTheory",
+          "body": "You're a bad person and you should feel bad.",
+          "score": 0,
+          "created_utc": 1741310372.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mge34jm",
+      "author": "Vizekonig4765",
+      "body": "Ahh christ\u2026 next time I plug it in I\u2019m gonna have 17 hours of updates before I can play :/",
+      "score": 4,
+      "created_utc": 1741292635.0,
+      "replies": []
+    },
+    {
+      "id": "mgc5kwa",
+      "author": "TheMorticiansDreams",
+      "body": "Time to update my jailbreak again",
+      "score": 3,
+      "created_utc": 1741272899.0,
+      "replies": []
+    },
+    {
+      "id": "mgdnbjj",
+      "author": "Darklord_Bravo",
+      "body": "Thanks Sony, but my jailbroken PS3 will remain jailbroken.",
+      "score": 3,
+      "created_utc": 1741288210.0,
+      "replies": []
+    },
+    {
+      "id": "mgfg3mz",
+      "author": "SuperAleste",
+      "body": "That ain't gonna touch my CFW FATs lol",
+      "score": 2,
+      "created_utc": 1741307956.0,
+      "replies": []
+    },
+    {
+      "id": "mgbkk1u",
+      "author": "Potential-Set-9417",
+      "body": "I just laid mine to rest after~22years of service. Many hour playing with myself, friends & nephews.",
+      "score": 4,
+      "created_utc": 1741265616.0,
+      "replies": [
+        {
+          "id": "mgblmdz",
+          "author": "JoeDawson8",
+          "body": "I also have many hours playing with myself",
+          "score": 44,
+          "created_utc": 1741266040.0,
+          "replies": [
+            {
+              "id": "mgf1tze",
+              "author": "Wiggles69",
+              "body": "Me too. Where's our article eurogamer?!",
+              "score": 1,
+              "created_utc": 1741302879.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mgbl2nj",
+          "author": "amiga4000",
+          "body": "How did you get yours 3 years before it was released? It even says it was released 19 years ago in the subject",
+          "score": 19,
+          "created_utc": 1741265823.0,
+          "replies": [
+            {
+              "id": "mgblk5s",
+              "author": "imaUPSdriver",
+              "body": "He used \u2018~\u2019 that means approximately",
+              "score": 0,
+              "created_utc": 1741266016.0,
+              "replies": [
+                {
+                  "id": "mgblqrg",
+                  "author": "amiga4000",
+                  "body": "I know, and I wouldn't have said anything if he said \\~20 years of service but \\~22 is just wrong. And I'm nitpicky.",
+                  "score": 17,
+                  "created_utc": 1741266089.0,
+                  "replies": []
+                },
+                {
+                  "id": "mgd9b73",
+                  "author": "mbhwookie",
+                  "body": "The post literally calls out it being less than 20 years. 3 years more is not quite approximate. \n\nDoesn\u2019t really matter, just a really weird way of putting it considering the context of the post lol",
+                  "score": 4,
+                  "created_utc": 1741284271.0,
+                  "replies": [
+                    {
+                      "id": "mgd9ikz",
+                      "author": "imaUPSdriver",
+                      "body": "I was being approximately serious",
+                      "score": 1,
+                      "created_utc": 1741284328.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mgblrdn",
+                  "author": "Potential-Set-9417",
+                  "body": "Lacking coffee and DGAF lol~ for win",
+                  "score": -6,
+                  "created_utc": 1741266095.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mgbyeq4",
+              "author": "Fatboy-Tim",
+              "body": "He's not talking about his PS3...",
+              "score": -6,
+              "created_utc": 1741270610.0,
+              "replies": [
+                {
+                  "id": "mgc1rxv",
+                  "author": "Izicial",
+                  "body": "Lol what else could he possibly be talking about?",
+                  "score": 8,
+                  "created_utc": 1741271710.0,
+                  "replies": [
+                    {
+                      "id": "mgdo2q3",
+                      "author": "tiny_rick__",
+                      "body": "A fleshlight.",
+                      "score": 3,
+                      "created_utc": 1741288421.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgbp78o",
+      "author": "latortillablanca",
+      "body": "Someones conducting a lookback on the ticket backlog\u2026",
+      "score": 1,
+      "created_utc": 1741267413.0,
+      "replies": []
+    },
+    {
+      "id": "mgc94ay",
+      "author": "lpjayy12",
+      "body": "![gif](giphy|ZaKcIYMjNYNf4lEuC7)\n\n..........",
+      "score": 1,
+      "created_utc": 1741273962.0,
+      "replies": []
+    },
+    {
+      "id": "mgca2fo",
+      "author": "hilbobaggins1416",
+      "body": "I want to sell my PS3\u2026are they really worth anything anymore?",
+      "score": 1,
+      "created_utc": 1741274244.0,
+      "replies": [
+        {
+          "id": "mgcngxo",
+          "author": "chronage",
+          "body": "Not much, unless you have a backwards compatible model",
+          "score": 3,
+          "created_utc": 1741278136.0,
+          "replies": [
+            {
+              "id": "mgcrplp",
+              "author": "hilbobaggins1416",
+              "body": "In that case, I will put it in a box and wait for my son to grow and use it\u2026and introduce him to n64.",
+              "score": 3,
+              "created_utc": 1741279357.0,
+              "replies": []
+            },
+            {
+              "id": "mgcoypy",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 1,
+              "created_utc": 1741278576.0,
+              "replies": [
+                {
+                  "id": "mgdbknx",
+                  "author": "chronage",
+                  "body": "BC models are worth a couple hundred last I checked.",
+                  "score": 1,
+                  "created_utc": 1741284904.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mgcpxz5",
+          "author": "trepz",
+          "body": "They're easily jailbreakable and the game library is great, nonetheless I have seen them mostly in the 60-80\u20ac range.",
+          "score": 1,
+          "created_utc": 1741278858.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgcd1iw",
+      "author": "Justinian2",
+      "body": "I'm still playing FIFA 13 on mine",
+      "score": 1,
+      "created_utc": 1741275112.0,
+      "replies": []
+    },
+    {
+      "id": "mgchrjk",
+      "author": "csh0kie",
+      "body": "I just found mine and hooked it up to play LBP 1 and 2.",
+      "score": 1,
+      "created_utc": 1741276465.0,
+      "replies": []
+    },
+    {
+      "id": "mgcp6ob",
+      "author": "Marc-Muller",
+      "body": "![gif](giphy|smcvhd16LBPZJo7gi4|downsized)",
+      "score": 1,
+      "created_utc": 1741278638.0,
+      "replies": []
+    },
+    {
+      "id": "mgcxdz4",
+      "author": "auntie_",
+      "body": "Of course. Mine bricked itself about three months ago.",
+      "score": 1,
+      "created_utc": 1741280944.0,
+      "replies": [
+        {
+          "id": "mgdckf9",
+          "author": "ChelseaG12",
+          "body": "You can download the latest firmware on the PlayStation site. You'll need a USB, 2.5 inch SSD, and some patience. Maybe entering safe mode can rebuild your current drive.",
+          "score": 2,
+          "created_utc": 1741285184.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgd2cqc",
+      "author": "mencival",
+      "body": "I\u2019d wanna play GTA IV on it",
+      "score": 1,
+      "created_utc": 1741282335.0,
+      "replies": [
+        {
+          "id": "mgdkd09",
+          "author": "bummedoutrn",
+          "body": "Then play it",
+          "score": 1,
+          "created_utc": 1741287378.0,
+          "replies": [
+            {
+              "id": "mggf0cb",
+              "author": "mencival",
+              "body": "Sold long time ago \ud83d\ude22",
+              "score": 1,
+              "created_utc": 1741320500.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgd6m9y",
+      "author": "turdlezzzz",
+      "body": "awesome i just bought a new controller",
+      "score": 1,
+      "created_utc": 1741283523.0,
+      "replies": []
+    },
+    {
+      "id": "mgdcsrk",
+      "author": "MessiahPrinny",
+      "body": "Yet nothing about the Battery issue.",
+      "score": 1,
+      "created_utc": 1741285249.0,
+      "replies": []
+    },
+    {
+      "id": "mgdnjpk",
+      "author": "jahowl",
+      "body": "I honestly wouldn't have given up my PS3 for PS4 if they didn't stop supporting  youtube.",
+      "score": 1,
+      "created_utc": 1741288274.0,
+      "replies": []
+    },
+    {
+      "id": "mgdnp33",
+      "author": "nycinoc",
+      "body": "The only reason we still have ours is the Mrs loves the trivia game BUZZ",
+      "score": 1,
+      "created_utc": 1741288316.0,
+      "replies": []
+    },
+    {
+      "id": "mgdr8u7",
+      "author": "brandont04",
+      "body": "Is this to allow us to watch our blu rays?",
+      "score": 1,
+      "created_utc": 1741289312.0,
+      "replies": []
+    },
+    {
+      "id": "mgdyuun",
+      "author": "BrainLate4108",
+      "body": "Who merged to trunk? lol",
+      "score": 1,
+      "created_utc": 1741291425.0,
+      "replies": []
+    },
+    {
+      "id": "mgekmqe",
+      "author": "rekoil",
+      "body": "The PS5 (and the PS4 before it) won't play audio CDs, so I keep my PS3 around still just for that. At some point I should digitize it all, but I've got a \\*lot\\* of them...",
+      "score": 1,
+      "created_utc": 1741297550.0,
+      "replies": [
+        {
+          "id": "mgfmomw",
+          "author": "GangStalkingTheory",
+          "body": "Wait, seriously? No CD audio player on PS4/PS5?\n\nThe PS3 will even play SA Audio CDs...",
+          "score": 2,
+          "created_utc": 1741310340.0,
+          "replies": [
+            {
+              "id": "mgfsk6m",
+              "author": "rekoil",
+              "body": "They changed the laser diode in the PS4 to support newer Blu-Ray discs, but the new one can\u2019t read CDs anymore.",
+              "score": 1,
+              "created_utc": 1741312405.0,
+              "replies": [
+                {
+                  "id": "mgfzeq4",
+                  "author": "Materidan",
+                  "body": "Technically the original PS3 had both a red and blue laser\u2026 PS4 just stuck with a blue one. Apparently the blue can be used to read DVDs, but it won\u2019t work for CDs.",
+                  "score": 2,
+                  "created_utc": 1741314816.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgf2n8h",
+      "author": "defjamblaster",
+      "body": "alright, time to go turn mine on...",
+      "score": 1,
+      "created_utc": 1741303160.0,
+      "replies": []
+    },
+    {
+      "id": "mgf5p7s",
+      "author": "None",
+      "body": "Imagine being the dev who was given this task",
+      "score": 1,
+      "created_utc": 1741304236.0,
+      "replies": [
+        {
+          "id": "mgfmg0h",
+          "author": "GangStalkingTheory",
+          "body": "I'd imagine it was done by someone from the original team.\n\nA Gen Z intern would be wondering why they couldn't just \"quickly rewrite\" the whole thing in rust...",
+          "score": 2,
+          "created_utc": 1741310252.0,
+          "replies": [
+            {
+              "id": "mgfoa9p",
+              "author": "None",
+              "body": "Hahahaha exactly right spot on",
+              "score": 1,
+              "created_utc": 1741310916.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgfbu05",
+      "author": "just2commentU",
+      "body": "This is making me feel old.\n\nwhich I am.\n\nBut still...",
+      "score": 1,
+      "created_utc": 1741306428.0,
+      "replies": []
+    },
+    {
+      "id": "mgff0wu",
+      "author": "Geekygamertag",
+      "body": "\u201cDNS Error\u201d",
+      "score": 1,
+      "created_utc": 1741307566.0,
+      "replies": [
+        {
+          "id": "mgfkgwp",
+          "author": "ohv_",
+          "body": "Local issue...",
+          "score": 1,
+          "created_utc": 1741309527.0,
+          "replies": [
+            {
+              "id": "mgfunzo",
+              "author": "Geekygamertag",
+              "body": "Bifocal tissue",
+              "score": 0,
+              "created_utc": 1741313144.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgfhin3",
+      "author": "StevieG63",
+      "body": "The 40Gb drive in mine crapped out 10 years ago.",
+      "score": 1,
+      "created_utc": 1741308463.0,
+      "replies": []
+    },
+    {
+      "id": "mgfifl5",
+      "author": "GreenAnder",
+      "body": "Can it run Linux again you fucks?",
+      "score": 1,
+      "created_utc": 1741308792.0,
+      "replies": []
+    },
+    {
+      "id": "mgfvk5k",
+      "author": "zecknaal",
+      "body": "Doesn't feel very newsworthy",
+      "score": 1,
+      "created_utc": 1741313458.0,
+      "replies": []
+    },
+    {
+      "id": "mgg80oo",
+      "author": "tehSchultz",
+      "body": "Can confirm. I just turned mine on the other day to fire up Skyrim and the update showed up.",
+      "score": 1,
+      "created_utc": 1741317869.0,
+      "replies": []
+    },
+    {
+      "id": "mggbu42",
+      "author": "TheDudeFromOther",
+      "body": "18 years.",
+      "score": 1,
+      "created_utc": 1741319279.0,
+      "replies": []
+    },
+    {
+      "id": "mgggfub",
+      "author": "Mountain-jew87",
+      "body": "Damn I remember missing out on the PS3 (my military and poor years)",
+      "score": 1,
+      "created_utc": 1741321071.0,
+      "replies": []
+    },
+    {
+      "id": "mggus63",
+      "author": "TackyPoints",
+      "body": "Any risk to my games I am conserving? If i update what should i expect to be removed from my experience? Seems there\u2019s usually a hidden downside for the user. Ulterior motives",
+      "score": 1,
+      "created_utc": 1741327399.0,
+      "replies": [
+        {
+          "id": "mghat3v",
+          "author": "Silent-Astronomer-89",
+          "body": "I wouldn\u2019t even consider doing the update.",
+          "score": 3,
+          "created_utc": 1741336318.0,
+          "replies": [
+            {
+              "id": "mghh3k7",
+              "author": "TackyPoints",
+              "body": "That\u2019s my thinking. I don\u2019t see any need or reason. So what do you figure is the point or purpose for it?",
+              "score": 1,
+              "created_utc": 1741340265.0,
+              "replies": [
+                {
+                  "id": "mghkxl3",
+                  "author": "Silent-Astronomer-89",
+                  "body": "I can imagine it\u2019ll be the removal of some sort of feature; they claim it updates the Blu-ray encryption keys to allow for continued access to discs; however, I feel as though there\u2019s some other crap behind that that will just screw us over.",
+                  "score": 5,
+                  "created_utc": 1741342659.0,
+                  "replies": [
+                    {
+                      "id": "mghmp7h",
+                      "author": "TackyPoints",
+                      "body": "I feel suspicious about it also. \nUnless there is some specific benefit, why now?\nMaybe preempting some hack that was found so the games can\u2019t be pirated or something like that. This is my best guess",
+                      "score": 2,
+                      "created_utc": 1741343718.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mggvr7b",
+      "author": "thebudman_420",
+      "body": "Wow because i am on Rebug. No thanks.",
+      "score": 1,
+      "created_utc": 1741327880.0,
+      "replies": []
+    },
+    {
+      "id": "mghmfgo",
+      "author": "G_ntl_m_n",
+      "body": "r/clickbait",
+      "score": 1,
+      "created_utc": 1741343556.0,
+      "replies": []
+    },
+    {
+      "id": "mghw19r",
+      "author": "InitiativeOk9887",
+      "body": "To prevent piracy most likely",
+      "score": 1,
+      "created_utc": 1741348753.0,
+      "replies": []
+    },
+    {
+      "id": "mgidzzo",
+      "author": "WhyYouReportMee",
+      "body": "PS5 is out now lol",
+      "score": 1,
+      "created_utc": 1741355922.0,
+      "replies": []
+    },
+    {
+      "id": "mgjaczx",
+      "author": "dunnkw",
+      "body": "So can I play my games I paid good money for now?",
+      "score": 1,
+      "created_utc": 1741365821.0,
+      "replies": []
+    },
+    {
+      "id": "mgjq2ag",
+      "author": "AUkion1000",
+      "body": "Meanwhile the second the quest 3 comes out the 2 runs like shit and zero updates are comming, god forbid I mod it to make itbstable tho..\n\nNot exactly related different kind of game platform but like ffs",
+      "score": 1,
+      "created_utc": 1741370291.0,
+      "replies": []
+    },
+    {
+      "id": "mgjxt05",
+      "author": "CaptCarlos",
+      "body": "All this and they still haven\u2019t found a way to port MGS4 to consoles OTHER than the PS3",
+      "score": 1,
+      "created_utc": 1741372492.0,
+      "replies": []
+    },
+    {
+      "id": "mgnc3x0",
+      "author": "teasindanoobs",
+      "body": "Sorry to hijack this thread but I\u2019ve got an old PS3 that doesn\u2019t turn on. It\u2019s been a while so don\u2019t remember exactly but I think when I tried to turn it on, it would just beep, flash red, then nothing. There\u2019s some pictures of an old vacation on there I\u2019d like to recover if possible. Anything I can do, can it be taken somewhere, or is it a lost cause?",
+      "score": 1,
+      "created_utc": 1741416876.0,
+      "replies": [
+        {
+          "id": "mgqjc8u",
+          "author": "teamswiftie",
+          "body": "Open it up and pull the hard drive out / mount it to a PC / pull off the pics",
+          "score": 1,
+          "created_utc": 1741464391.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgyvxy9",
+      "author": "polomarkopolo",
+      "body": "Why?",
+      "score": 1,
+      "created_utc": 1741578507.0,
+      "replies": []
+    },
+    {
+      "id": "mgb8an4",
+      "author": "shinigamipls",
+      "body": "19 years?! No U.",
+      "score": 1,
+      "created_utc": 1741259905.0,
+      "replies": []
+    },
+    {
+      "id": "mgc3h7e",
+      "author": "Zeroforeskin",
+      "body": "and apple discontinue perfectly working old iPads and iPhones like cupcakes",
+      "score": -1,
+      "created_utc": 1741272249.0,
+      "replies": [
+        {
+          "id": "mgfzk8w",
+          "author": "dreamnightmare",
+          "body": "And how soon does the average android phone get dropped?",
+          "score": 2,
+          "created_utc": 1741314870.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgbatyz",
+      "author": "lloydsmith28",
+      "body": "Why tho...",
+      "score": -3,
+      "created_utc": 1741261242.0,
+      "replies": [
+        {
+          "id": "mgbb8hw",
+          "author": "catch2030",
+          "body": "Usually for blu ray disc copyright protections needing updated or Sony trying to limit the CFW/modding scene.",
+          "score": 27,
+          "created_utc": 1741261447.0,
+          "replies": [
+            {
+              "id": "mgcr1l7",
+              "author": "SoapyMacNCheese",
+              "body": "Probably a little of both. It is to update Bluray disc protections, but most other Bluray players don't need these yearly updates, as the Bluray discs contain the updates that the players would need. My guess is Sony designed the PS3 to not be able to update it's protection from a Bluray disc to eliminate it as a potential attack vector for modders, as a result Sony needs to keep sending out updates to keep the PS3 working with newer Blurays.",
+              "score": 3,
+              "created_utc": 1741279169.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgbpdq6",
+      "author": "FRlTZ",
+      "body": "Do we get Linux back???",
+      "score": -1,
+      "created_utc": 1741267479.0,
+      "replies": [
+        {
+          "id": "mgbw9qc",
+          "author": "_RADIANTSUN_",
+          "body": "Lol",
+          "score": 2,
+          "created_utc": 1741269887.0,
+          "replies": [
+            {
+              "id": "mgc77z5",
+              "author": "FRlTZ",
+              "body": "Don't laugh, I still have the fat-boy with 4 USB ports in the front..the OG-3 station :D",
+              "score": 1,
+              "created_utc": 1741273393.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgba60r",
+      "author": "Financial_Anteater26",
+      "body": "Great I just set mine back up. I\u2019ll wait a bit before I update it.",
+      "score": 0,
+      "created_utc": 1741260901.0,
+      "replies": []
+    },
+    {
+      "id": "mgg9kzj",
+      "author": "wickedplayer494",
+      "body": "It's just Blu-ray keys. NEXT!",
+      "score": 0,
+      "created_utc": 1741318441.0,
+      "replies": []
+    },
+    {
+      "id": "mgc22ra",
+      "author": "KB_Sez",
+      "body": "Sorry, I didn't quite understand the article: Is there also an update for the PS4 ?",
+      "score": -3,
+      "created_utc": 1741271806.0,
+      "replies": []
+    },
+    {
+      "id": "mgbw29l",
+      "author": "Whats_ligma619",
+      "body": "Ps3 has no games",
+      "score": -13,
+      "created_utc": 1741269815.0,
+      "replies": [
+        {
+          "id": "mgc4lzo",
+          "author": "Holy_crows",
+          "body": "No games now. But it had the best games.",
+          "score": 6,
+          "created_utc": 1741272600.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

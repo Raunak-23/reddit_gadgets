@@ -1,0 +1,49 @@
+metric,value
+file,1it68gd.csv
+title,Nvidia GeForce RTX 5070 Ti review: a cheaper RTX 4080
+rows,151
+num_posts,1
+num_comments,150
+unique_authors,112
+max_depth,9
+avg_comment_words,44.89
+median_comment_words,36.0
+max_comment_words,184
+positive_count,13
+negative_count,137
+neutral_count,0
+positive_pct,8.667
+negative_pct,91.333
+neutral_pct,0.0
+topic_1_keywords,"sold, buy, paper, msrp, get, time, context, hell"
+topic_1_label,paper msrp buys time
+topic_2_keywords,"4080, cheaper, super, better, msrp, amd, sold, nvidia"
+topic_2_label,nvidia 's 4080 price range is cheaper than msrp
+topic_3_keywords,"super, im, gpu, msrp, like, find, getting, cant"
+topic_3_label,i like super gpu msrp
+topic_4_keywords,"cards, still, years, 7900xtx, prices, thats, card, powerful"
+topic_4_label,cards still in 7900xtx
+topic_5_keywords,"one, ti, get, people, every, prices, less, need"
+topic_5_label,"ti, ti, people, prices, less"
+topic_6_keywords,"msrp, available, sure, still, cheaper, card, games, gotchu"
+topic_6_label,msrp is available for all ages
+top_ngram_1,4080 super (19)
+top_ngram_2,sure cheaper (8)
+top_ngram_3,cheaper zero (8)
+top_ngram_4,zero available (8)
+top_ngram_5,available msrp (8)
+top_ngram_6,msrp gotchu (8)
+top_ngram_7,sure cheaper zero (8)
+top_ngram_8,cheaper zero available (8)
+top_ngram_9,zero available msrp (8)
+top_ngram_10,available msrp gotchu (8)
+ner_1,Nvidia|ORG|22
+ner_2,AMD|ORG|13
+ner_3,##vidia|ORG|6
+ner_4,MR|MISC|5
+ner_5,##D|ORG|3
+ner_6,##k|ORG|3
+ner_7,##see|MISC|3
+ner_8,4080|MISC|3
+ner_9,AM|ORG|3
+ner_10,Best Buy|ORG|3

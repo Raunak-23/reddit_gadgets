@@ -1,0 +1,49 @@
+metric,value
+file,1hwlezg.csv
+title,New Apple TV and HomePod Mini Launching This Year With One Thing in Common
+rows,71
+num_posts,1
+num_comments,70
+unique_authors,45
+max_depth,8
+avg_comment_words,81.97
+median_comment_words,57.0
+max_comment_words,355
+positive_count,3
+negative_count,67
+neutral_count,0
+positive_pct,4.286
+negative_pct,95.714
+neutral_pct,0.0
+topic_1_keywords,"apple, tv, sniff, one, would, years, siri, factor"
+topic_1_label,apple tv sniffs one factor
+topic_2_keywords,"apple, tv, wifi, next, homepod, current, chip, 6e"
+topic_2_label,"Apple, tv, WiFi, homepod, chip, 6e"
+topic_3_keywords,"camera, tv, use, apple, device, audio, still, minis"
+topic_3_label,Apple uses tv and minis to use tv
+topic_4_keywords,"dont, doesnt, people, many, way, price, better, apple"
+topic_4_label,apples don't have a lot of money
+topic_5_keywords,"apple, tv, audio, dont, apps, remote, top, know"
+topic_5_label,"Apple TV, not connected to tv"
+topic_6_keywords,"plex, shield, ive, ads, ui, projectivy, tv, hope"
+topic_6_label,"plex, ui, tv, hope"
+top_ngram_1,apple tv (86)
+top_ngram_2,wifi 6e (20)
+top_ngram_3,current apple (16)
+top_ngram_4,current apple tv (16)
+top_ngram_5,homepod mini (15)
+top_ngram_6,next apple (15)
+top_ngram_7,next apple tv (15)
+top_ngram_8,new apple (12)
+top_ngram_9,video calls (12)
+top_ngram_10,new apple tv (12)
+ner_1,Apple TV|MISC|53
+ner_2,Apple|ORG|40
+ner_3,HomePod|MISC|20
+ner_4,Apple TV|ORG|19
+ner_5,TV|ORG|15
+ner_6,Apple|MISC|15
+ner_7,Bionic|MISC|10
+ner_8,Gurman|PER|10
+ner_9,iPhone|MISC|10
+ner_10,Home|MISC|10

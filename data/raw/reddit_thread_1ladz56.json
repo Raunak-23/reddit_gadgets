@@ -1,0 +1,1015 @@
+{
+  "post": {
+    "title": "Engineer creates first custom motherboard for 1990s PlayStation console | New \"nsOne\" board can save a dying 1990s PlayStation 1 by transplanting original chips.",
+    "author": "chrisdh79",
+    "id": "1ladz56",
+    "score": 3694,
+    "created_utc": 1749815603.0,
+    "selftext": "",
+    "num_comments": 119,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ladz56/engineer_creates_first_custom_motherboard_for/"
+  },
+  "comments": [
+    {
+      "id": "mxk6vyn",
+      "author": "Rinzlerx",
+      "body": "Pointing out /u/LorentioB is the maker of the board and some of you dweebs are downvoting him not realizing it. \ud83e\udd26\u200d\u2642\ufe0f",
+      "score": 808,
+      "created_utc": 1749821611.0,
+      "replies": []
+    },
+    {
+      "id": "mxjvjoc",
+      "author": "miguel-styx",
+      "body": "Holy shit, \n\nI am imagining $1300 FPGA console right now in the next 3 years.",
+      "score": 290,
+      "created_utc": 1749817649.0,
+      "replies": [
+        {
+          "id": "mxk7o94",
+          "author": "LorentioB",
+          "body": "Anyone who does this is actually an abuse of power",
+          "score": 239,
+          "created_utc": 1749821876.0,
+          "replies": [
+            {
+              "id": "mxto99o",
+              "author": "algaefied_creek",
+              "body": "Imagine $1300 for an FPGA 1990s board. That's a waste of resources and space. \n\nHeck I just want PS1Linux from GitHub on one!",
+              "score": 1,
+              "created_utc": 1749944180.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mxlar5w",
+          "author": "Snipedzoi",
+          "body": "Mister pi already does ps1 it's a 100 bucks",
+          "score": 26,
+          "created_utc": 1749833232.0,
+          "replies": [
+            {
+              "id": "mxwhmva",
+              "author": "We_Are_Nerdish",
+              "body": "\u2026 if you can actually find one that doesn\u2019t cost double or quadruple as much, that isn\u2019t a cheap unreliable copy of the original design.",
+              "score": 1,
+              "created_utc": 1749992242.0,
+              "replies": [
+                {
+                  "id": "mxwm8ii",
+                  "author": "Snipedzoi",
+                  "body": "Idk just check his twitter every once in a while",
+                  "score": 1,
+                  "created_utc": 1749994032.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mxkpoiq",
+          "author": "qda",
+          "body": "can you explain what you mean?",
+          "score": 17,
+          "created_utc": 1749827250.0,
+          "replies": [
+            {
+              "id": "mxl3kin",
+              "author": "quajeraz-got-banned",
+              "body": "An FPGA is a chip that can change its logical makeup. Basically, it can emulate other systems on a hardware level instead of software. Instead of interpreting the program instructions and changing them to work on other hardware, the processor and other chips change how they function to be a copy of the original.",
+              "score": 81,
+              "created_utc": 1749831171.0,
+              "replies": [
+                {
+                  "id": "mxldeuv",
+                  "author": "diabloman8890",
+                  "body": "What's the implications of that for console emulation?",
+                  "score": 6,
+                  "created_utc": 1749833975.0,
+                  "replies": [
+                    {
+                      "id": "mxldx11",
+                      "author": "CandyCrisis",
+                      "body": "FPGA based emulators exist today. \nThe implication is better quality emulation if you're willing to buy a custom machine (and at that point, why not buy a real PS1 or NES or whatever)",
+                      "score": 37,
+                      "created_utc": 1749834114.0,
+                      "replies": [
+                        {
+                          "id": "mxmpva4",
+                          "author": "RealModeX86",
+                          "body": "> and at that point, why not buy a real PS1 or NES or whatever\n\nFor me, it's the perfect blend of accuracy and convenience, as cool as real hardware is. For now, it's still relatively easy to choose either way based on your preferences.\n\nFor the long term, it's good to have the FPGA stuff figured out for preservation, since those implementations can be saved as data, long after the hardware is gone or impractical to buy due to rarity. It also opens up the possibility of creating drop-in replacement parts for the various custom chips on original hardware, such as with the FPGASID project for the C64 sound chip.\n\nOf course, that FPGA preservation needs to happen while we can still do both.",
+                          "score": 20,
+                          "created_utc": 1749848046.0,
+                          "replies": [
+                            {
+                              "id": "mxmr8ap",
+                              "author": "Tithis",
+                              "body": "And often those old systems are going to need work to connect to a modern TV. At minimum you'll be looking at some kind of line doubler.\u00a0\n\n\nThen if you want higher video quality on some systems you'll need to do hardware mods, because they don't support RGB or component natively.\n\n\nThen factor in the games themselves. Physical copies cost more than ever and flash carts or mods for optical media systems ain't cheap either.\n\n\nOnce you start looking to do this with more than one system the Mister feels like the better solution to me",
+                              "score": 5,
+                              "created_utc": 1749848451.0,
+                              "replies": [
+                                {
+                                  "id": "mxmwolq",
+                                  "author": "RealModeX86",
+                                  "body": "Yeah, the display options are one of the big factors of the flexibility for me. I can do low-latency HDMI, VGA, or component from mine, and with the right cabling, RGB-SCART, s-video or composite, with most cores being cycle-accurate down to the scanline for the analog formats.",
+                                  "score": 2,
+                                  "created_utc": 1749850130.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mxngu80",
+                          "author": "Inetro",
+                          "body": "Thats possible now, but year after year buying original hardware will get harder and harder. Technology is not timeless, and repair parts will dry up eventually. A modern solution can add decades to the lifespan of the original games.",
+                          "score": 3,
+                          "created_utc": 1749856877.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mxohbop",
+                          "author": "miguel-styx",
+                          "body": "Because unlike the real machine, you can scale up many aspects emulation. In simplest terms, it's like overclocking. I really meant the ones like the Analogue Pocket, some people want to play like the real machine, but in HD or something smh.",
+                          "score": 2,
+                          "created_utc": 1749870064.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mxmst35",
+                      "author": "cpt-derp",
+                      "body": "Literally perfect accuracy down to the frame if programmed correctly. FPGAs are a breadboard for digital circuits on crack, instead of manually wiring things and slotting in transistors or gates, you program the logic and it shapeshifts its gates to be the exact CPU you want it to be. Limits depend on how many logic gates and the clock speed. Current high end FPGAs can \"emulate\" a Pentium 3 I think.",
+                      "score": 5,
+                      "created_utc": 1749848926.0,
+                      "replies": [
+                        {
+                          "id": "mxn8ue3",
+                          "author": "OnboardG1",
+                          "body": "High end FPGAs can soft implement pretty comply ARM cores. The way they work is even cooler than physical gates for people not aware of it. You take the truth table for a logic gate by writing the outputs compared to inputs. So an AND gate is 00 0, 01 0, 10 0 and 11 1. A gate array works out the truth table for every component in the system and encodes it in memory. It has a massively powerful synthesis and simplification engine in the IDE to do that. I do miss FPGA engineering. I\u2019d love to get back into it.",
+                          "score": 5,
+                          "created_utc": 1749854135.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mxpqgfx",
+                      "author": "mark-haus",
+                      "body": "That you can copy the function of the original hardware potentially. In some cases it\u2019s actually harder to copy in hardware than software. Then there\u2019s Nintendo 64 which is just hard no matter what method is used. Decompiling n64 games seems most successful. Also FPGA can give you the hardware copy which when done right is more accurate while you can have modern nice to haves like hdmi output.",
+                      "score": 1,
+                      "created_utc": 1749893384.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mxnuwj0",
+                  "author": "qda",
+                  "body": "No I meant about the $1300. There are already sub-$200 FPGA units available that emulate PS1 near-perfectly, so I don't understand what they meant about $1300 in the next 3 years.",
+                  "score": 2,
+                  "created_utc": 1749861935.0,
+                  "replies": [
+                    {
+                      "id": "mxnxz20",
+                      "author": "quajeraz-got-banned",
+                      "body": "I imagine they meant an FPGA that could emulate modern devices like ps5/XSX instead of only old hardware.",
+                      "score": 1,
+                      "created_utc": 1749863032.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mxlq7u1",
+              "author": "irecfxpojmlwaonkxc",
+              "body": "I think it is about a lady's golf tournament",
+              "score": 3,
+              "created_utc": 1749837554.0,
+              "replies": [
+                {
+                  "id": "mxmgv14",
+                  "author": "Neo_Techni",
+                  "body": "ha",
+                  "score": 1,
+                  "created_utc": 1749845378.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mxksz4q",
+              "author": "yeetmeister67",
+              "body": "Imagine an Arduino Xbox",
+              "score": 6,
+              "created_utc": 1749828177.0,
+              "replies": []
+            },
+            {
+              "id": "mxl6bux",
+              "author": "nocrashing",
+              "body": "Field programmable gate array",
+              "score": 4,
+              "created_utc": 1749831961.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mxmh8ou",
+          "author": "Neo_Techni",
+          "body": "SuperStation One is an FPGA PS1 coming out in the next 3 months for $350",
+          "score": 2,
+          "created_utc": 1749845490.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mxl7w2z",
+      "author": "Mechagouki1971",
+      "body": "Proud to say I backed this. Love a passion project and it's great to see this getting more attention.",
+      "score": 32,
+      "created_utc": 1749832410.0,
+      "replies": []
+    },
+    {
+      "id": "mxjwzpg",
+      "author": "TryingT0Wr1t3",
+      "body": "Amazing, I love things like this! There is one for the Gameboy too from what I recall. But the Gameboy one I think had some issues. There was also a console conversion kit for the gameboy too, but it was a small batch that was produced and had issues with the sound and it was hard to get your hands on it.",
+      "score": 45,
+      "created_utc": 1749818198.0,
+      "replies": [
+        {
+          "id": "mxk6erg",
+          "author": "swaggythrowaway69",
+          "body": "There are a variety of motherboard mods for gameboys. Head on over to r/gameboy and you\u2019ll likely see some pop up. No issues that I\u2019m aware of with any of them.",
+          "score": 14,
+          "created_utc": 1749821451.0,
+          "replies": [
+            {
+              "id": "mxkf7ns",
+              "author": "ratelbadger",
+              "body": "Absolutely incredible mods too",
+              "score": 5,
+              "created_utc": 1749824230.0,
+              "replies": []
+            },
+            {
+              "id": "mxr2hb7",
+              "author": "KyleKun",
+              "body": "GBA was reverse engineered in the same way as this PS1, with a new MB which only requires the original CPU and RAM dropping on. \n\n Nothing for the GB GBC GBP though.",
+              "score": 1,
+              "created_utc": 1749913711.0,
+              "replies": [
+                {
+                  "id": "mxsp06j",
+                  "author": "swaggythrowaway69",
+                  "body": "I mean funny playing FPGBC is literally a GBC with an FPGA instead of the original processor. Look up the tad boy color and frog boy color by froggo customs. Literally GBC in different form factors with components migrated from the a GBC. There\u2019s also the gameboy pocket color which is a GBC migrated to a pocket size motherboard. Pretty sure there are after market boards for the DMG001.",
+                  "score": 1,
+                  "created_utc": 1749932197.0,
+                  "replies": [
+                    {
+                      "id": "mxtmbyw",
+                      "author": "KyleKun",
+                      "body": "Ok, a point about the FPGA, it\u2019s a SOC which thinks it\u2019s a Gameboy on a very deep and troubling level, but hardware wise it\u2019s completely different. \n\nYou wouldn\u2019t be able to use GB original hardware in place of the FPGA anymore than you would with the Analog Pocket. \n\n\n\n\nAlthough fair point about Froggo. \nI just looked and it seems like it uses original components; but the problem is that it\u2019s not like you would be able to make a \u201cnew\u201d GBC, the projects are scaled to fit in froggo cases. \n\nBut I concede that at least the GBC board layout has been replicated.",
+                      "score": 1,
+                      "created_utc": 1749943495.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxl109q",
+      "author": "LazaroFilm",
+      "body": "Holy mother clean PCB Batman! \nhttps://i.imgur.com/SkFp1Lr.jpeg",
+      "score": 13,
+      "created_utc": 1749830431.0,
+      "replies": [
+        {
+          "id": "mxn1qcr",
+          "author": "emmmmceeee",
+          "body": "![gif](giphy|V2AkNZZi9ygbm)",
+          "score": 5,
+          "created_utc": 1749851735.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mxjttiu",
+      "author": "krazybananada",
+      "body": "Would have been nice to have 25 years ago...",
+      "score": 115,
+      "created_utc": 1749816985.0,
+      "replies": [
+        {
+          "id": "mxjugzp",
+          "author": "LorentioB",
+          "body": "I\u2019m just 22",
+          "score": 679,
+          "created_utc": 1749817236.0,
+          "replies": [
+            {
+              "id": "mxk50hx",
+              "author": "TubaJustin",
+              "body": "I don\u2019t think the down-voters realized that you are the engineer lol.",
+              "score": 191,
+              "created_utc": 1749820987.0,
+              "replies": [
+                {
+                  "id": "mxk5as3",
+                  "author": "LorentioB",
+                  "body": "Probably, oh well Reddit works like that sometimes. My \u201cI'm 22\u201d comment was a nice response to the fact that I couldn't make it happen 25 years ago.",
+                  "score": 300,
+                  "created_utc": 1749821081.0,
+                  "replies": [
+                    {
+                      "id": "mxk64mf",
+                      "author": "SgtTreehugger",
+                      "body": "Hey man If you don't have at least 25 years of experience by the time you're 22 you might as well not try anymore. Basically given up on a career",
+                      "score": 134,
+                      "created_utc": 1749821357.0,
+                      "replies": [
+                        {
+                          "id": "mxk6ub5",
+                          "author": "LorentioB",
+                          "body": "I was talking to a friend of mine a few days ago about the fact that some companies expected graduates under 25 with at least 10 years of experience \ud83e\udee1",
+                          "score": 160,
+                          "created_utc": 1749821596.0,
+                          "replies": [
+                            {
+                              "id": "mxk7ds1",
+                              "author": "SgtTreehugger",
+                              "body": "I work in IT and it's not too uncommon to see a requirement for more years in a technology than it has existed. Programming language move fast lol",
+                              "score": 70,
+                              "created_utc": 1749821778.0,
+                              "replies": [
+                                {
+                                  "id": "mxkg0r0",
+                                  "author": "MTUhusky",
+                                  "body": "And HR oftentimes have no idea what they're posting inside job description requirements.",
+                                  "score": 31,
+                                  "created_utc": 1749824472.0,
+                                  "replies": [
+                                    {
+                                      "id": "mxlhhzs",
+                                      "author": "weeklygamingrecap",
+                                      "body": "How can they be a senior developer without 40 years of Rust knowledge?",
+                                      "score": 11,
+                                      "created_utc": 1749835109.0,
+                                      "replies": [
+                                        {
+                                          "id": "mxllxbw",
+                                          "author": "Alaeriia",
+                                          "body": "The only thing I know about Rust is that roof campers are evil and griefing them is always a fun activity.",
+                                          "score": 7,
+                                          "created_utc": 1749836333.0,
+                                          "replies": [
+                                            {
+                                              "id": "mxm0o2g",
+                                              "author": "middayautumn",
+                                              "body": "The only thing I know about rust is that Alec Baldwin killed someone on set.",
+                                              "score": 3,
+                                              "created_utc": 1749840584.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mxktcxa",
+                              "author": "farmdve",
+                              "body": "When I was your age, I was twice your age.",
+                              "score": 23,
+                              "created_utc": 1749828285.0,
+                              "replies": [
+                                {
+                                  "id": "mxku4um",
+                                  "author": "LorentioB",
+                                  "body": "Dads lore be like \u201cat your age I was double your age, bought 2 houses, 4 kids and 2 wifes\u201d",
+                                  "score": 32,
+                                  "created_utc": 1749828501.0,
+                                  "replies": [
+                                    {
+                                      "id": "mxpdhma",
+                                      "author": "Spooplevel-Rattled",
+                                      "body": "They also had an uphill hike both ways too and from school in the snow.",
+                                      "score": 4,
+                                      "created_utc": 1749885532.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "mxl556f",
+                                      "author": "None",
+                                      "body": "[deleted]",
+                                      "score": -1,
+                                      "created_utc": 1749831621.0,
+                                      "replies": [
+                                        {
+                                          "id": "mxljifd",
+                                          "author": "Lendyman",
+                                          "body": "Nah. Use of wifes totally tracks.",
+                                          "score": 0,
+                                          "created_utc": 1749835664.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mxlbih1",
+                              "author": "hexcor",
+                              "body": "We have an opening on another team in our group. It\u2019s an entry level lab tech job. To me, we need a recent college grad who can follow directions. They can grow from that role and move into higher thinking roles. It\u2019s how I got my first job 25 years ago and moved into the role I am in now (plus I went to grad school in between!). Of course the hiring manager put it as BS with 5 years experience or MS with 3\u2026 for a damned entry level job.",
+                              "score": 7,
+                              "created_utc": 1749833447.0,
+                              "replies": [
+                                {
+                                  "id": "mxnzt2o",
+                                  "author": "iakiak",
+                                  "body": "Did they also drop the salary?",
+                                  "score": 1,
+                                  "created_utc": 1749863690.0,
+                                  "replies": [
+                                    {
+                                      "id": "mxo6d0q",
+                                      "author": "hexcor",
+                                      "body": "It\u2019s an entry level role, so not high salary. That said,it\u2019s decent pay and I would jump on it as a recent grad. With experience\u2026no",
+                                      "score": 2,
+                                      "created_utc": 1749866009.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mxo5hlr",
+                          "author": "Itsumiamario",
+                          "body": "Crash course in life after the 90s lmao",
+                          "score": 1,
+                          "created_utc": 1749865698.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mxk5knv",
+                      "author": "Evajellyfish",
+                      "body": "Yeah but why not? Try harder man",
+                      "score": 19,
+                      "created_utc": 1749821174.0,
+                      "replies": [
+                        {
+                          "id": "mxkbnte",
+                          "author": "lolic_addict",
+                          "body": "My man hacking into a ps1 dev board inside his father's balls",
+                          "score": 11,
+                          "created_utc": 1749823152.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mxk2pxp",
+              "author": "SnooCompliments5012",
+              "body": "Hell yeah congrats man",
+              "score": 9,
+              "created_utc": 1749820217.0,
+              "replies": []
+            },
+            {
+              "id": "mxkbcgj",
+              "author": "bringbackswg",
+              "body": "Hi I\u2019m 12 what is this",
+              "score": 11,
+              "created_utc": 1749823053.0,
+              "replies": [
+                {
+                  "id": "mxkbxcv",
+                  "author": "LorentioB",
+                  "body": "A motherboard for the PlayStation 1. Its purpose is to connect all the components, as if it were the nervous system of the human body.",
+                  "score": 48,
+                  "created_utc": 1749823233.0,
+                  "replies": [
+                    {
+                      "id": "mxlq838",
+                      "author": "StrategicBlenderBall",
+                      "body": "Hi I\u2019m 5, you mean there was a PlayStation before the PS5?",
+                      "score": 3,
+                      "created_utc": 1749837556.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mxmgw11",
+              "author": "TallyGoon8506",
+              "body": "\nU bum. \n\nShould have been born earlier smh shaking my head",
+              "score": 3,
+              "created_utc": 1749845386.0,
+              "replies": []
+            },
+            {
+              "id": "mxkmpld",
+              "author": "NickCharlesYT",
+              "body": "You could've built a time machine first, c'mon you're smart enough to figure it out!\n\n/s",
+              "score": 6,
+              "created_utc": 1749826406.0,
+              "replies": []
+            },
+            {
+              "id": "mxx10iy",
+              "author": "SeattleCoffeeRoast",
+              "body": "You made and did something quite amazing! Keep creating and making fun and amazing stuff <3.",
+              "score": 2,
+              "created_utc": 1749999168.0,
+              "replies": []
+            },
+            {
+              "id": "mxn8zq9",
+              "author": "OnboardG1",
+              "body": "That\u2019s impressive work for an early career engineer.",
+              "score": 1,
+              "created_utc": 1749854186.0,
+              "replies": []
+            },
+            {
+              "id": "my0urxe",
+              "author": "bored_gunman",
+              "body": "Does your board retain the pins for V-SYNC and H-SYNC?",
+              "score": 1,
+              "created_utc": 1750045572.0,
+              "replies": []
+            },
+            {
+              "id": "mxk4i5j",
+              "author": "Mjbagscauze",
+              "body": "Happy Birthday",
+              "score": 1,
+              "created_utc": 1749820818.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxkk84g",
+      "author": "bubblesaurus",
+      "body": "What if it already has died?\n\nI still have carcass on display",
+      "score": 9,
+      "created_utc": 1749825701.0,
+      "replies": [
+        {
+          "id": "mxmw90e",
+          "author": "rasz_pl",
+          "body": "You go on ebay/classifieds and buy $30-50 replacement.",
+          "score": 4,
+          "created_utc": 1749849992.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mxlfjjf",
+      "author": "Jay-Five",
+      "body": "I thought all the PS1s died because of the reading laser. (mine did)",
+      "score": 9,
+      "created_utc": 1749834567.0,
+      "replies": [
+        {
+          "id": "mxwbpuw",
+          "author": "sh0cked",
+          "body": "I have 4 ps1's that still work and have never had one die, honestly. idk what people do to them.",
+          "score": 1,
+          "created_utc": 1749989706.0,
+          "replies": [
+            {
+              "id": "mxwd3pf",
+              "author": "Jay-Five",
+              "body": "laser failure was common on the early ones. It just got weaker and weaker and stopped reading.",
+              "score": 2,
+              "created_utc": 1749990319.0,
+              "replies": [
+                {
+                  "id": "mxzlp0t",
+                  "author": "sh0cked",
+                  "body": "Yes, but common to whom? I keep hearing people say things are common through anecdotal evidence, but never anything as compelling as a real statistic. My own anecdotal evidence, having had and still having every console that has ever existed, is that it seems like most of the issues people experience are because of temperature fluctuations or improper storage.",
+                  "score": 1,
+                  "created_utc": 1750028510.0,
+                  "replies": [
+                    {
+                      "id": "my07q47",
+                      "author": "Jay-Five",
+                      "body": "It was like the red ring of death. Common enough that there were online kits to repair it, as well as tutorials on how to tweak the pots or just run it upside down.",
+                      "score": 1,
+                      "created_utc": 1750036573.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxk6wuo",
+      "author": "Rinzlerx",
+      "body": "Pointing out /u/LorentioB is the maker of the board and some of you dweebs are downvoting him not realizing it. \ud83e\udd26\u200d\u2642\ufe0f",
+      "score": 98,
+      "created_utc": 1749821620.0,
+      "replies": [
+        {
+          "id": "mxkfdd8",
+          "author": "Sawmain",
+          "body": "2 comments",
+          "score": 11,
+          "created_utc": 1749824278.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mxkfms7",
+      "author": "Cadged",
+      "body": "\u2026 can a mod chip be installed? \ud83d\ude04",
+      "score": 5,
+      "created_utc": 1749824357.0,
+      "replies": [
+        {
+          "id": "mxl7jto",
+          "author": "Mechagouki1971",
+          "body": "I notice an unfilled spot for an 8-leg IC very much like those commonly used as PS1 modchips, so....",
+          "score": 5,
+          "created_utc": 1749832312.0,
+          "replies": []
+        },
+        {
+          "id": "mxlio7l",
+          "author": "Mizz141",
+          "body": "/u/LorentioB we need to know!",
+          "score": 4,
+          "created_utc": 1749835433.0,
+          "replies": [
+            {
+              "id": "mxlktqz",
+              "author": "LorentioB",
+              "body": "Yes, there is a 8-DIP routed footprint, you can add it",
+              "score": 37,
+              "created_utc": 1749836027.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxmst9a",
+      "author": "fullload93",
+      "body": "Why would anyone consider this over a FPGA device? Does it fit inside the clamshell design of a PS1? Not sure why anyone would bother to desolder all the chips and replant them on this replacement motherboard\u2026 versus buying a FPGA device like a MiSTER.",
+      "score": 3,
+      "created_utc": 1749848927.0,
+      "replies": [
+        {
+          "id": "mxmug7h",
+          "author": "Falkenmond79",
+          "body": "1st: price. 2nd: for the fun of it. The chips themselves don\u2019t break or age, not really. But many other components can and do, like caps. Hell, even traces can get old and brittle. Every electrician can tell you what happens when you try to rewire 50+ year old cables. The shit breaks. Copper ages and corrodes. If you recast it, it\u2019s as good as new, sure, but you can\u2019t retrace a whole motherboard. \n\nSo a new one is actually a great refresh for the whole system.",
+          "score": 8,
+          "created_utc": 1749849428.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mxjzs9u",
+      "author": "akiras_revenge",
+      "body": "Yeah!, science",
+      "score": 4,
+      "created_utc": 1749819203.0,
+      "replies": []
+    },
+    {
+      "id": "mxkl40f",
+      "author": "jocrichton",
+      "body": "I hate black PCBs for debugging \n\n\nThat dude must either be very confident in his PCB design skills or just really hate himself.",
+      "score": 4,
+      "created_utc": 1749825955.0,
+      "replies": [
+        {
+          "id": "mxkswvc",
+          "author": "narwhal_breeder",
+          "body": "I\u2019ve always used black mask - if it makes your life hell that just means you have terrible test points. Not like green mask makes your life easier on a 6+ layer motherboard. \n\nUsually when people complain about black mask it\u2019s when they are trying to reverse engineer something simple and 2 layer they don\u2019t have the schematics to.",
+          "score": 13,
+          "created_utc": 1749828159.0,
+          "replies": [
+            {
+              "id": "mxkwqwl",
+              "author": "jocrichton",
+              "body": "Yeah I'm just an amateur. I've never done more than 2 layers. Usually i just fix stuff with a schematic at hand. \n\n\nI hate black solder mask because you can't follow traces as good.",
+              "score": 6,
+              "created_utc": 1749829236.0,
+              "replies": [
+                {
+                  "id": "mxkx6fv",
+                  "author": "narwhal_breeder",
+                  "body": "Yeah I don\u2019t think I\u2019ve ever had to follow traces on a PCB - I just use the gerbers.",
+                  "score": 1,
+                  "created_utc": 1749829355.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mxln26k",
+          "author": "pizza_whistle",
+          "body": "I'm with you on this. Black PCBs are difficult to follow and also difficult to keep clean. Even cleaning up flux well with 99% IPA can sometimes leave smudges that take a bit to remove. White mask can stain easily. Personally I just like the classic green mask.",
+          "score": 2,
+          "created_utc": 1749836684.0,
+          "replies": [
+            {
+              "id": "mxn3aob",
+              "author": "LazaroFilm",
+              "body": "I like the purple ones.",
+              "score": 3,
+              "created_utc": 1749852245.0,
+              "replies": [
+                {
+                  "id": "mxrihx3",
+                  "author": "MkeBucksMarkPope",
+                  "body": "Or red!",
+                  "score": 2,
+                  "created_utc": 1749918709.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxo38pk",
+      "author": "The_TSCTH",
+      "body": "This may be a stupid question, but I'm genuinely wondering what the benefit is and would like to have it explained. \n\nAs I understand, this is a motherboard you put components from the original motherboard into. But why not just use the original motherboard, instead of dismantling it and reassembling most of it elsewhere?",
+      "score": 2,
+      "created_utc": 1749864901.0,
+      "replies": [
+        {
+          "id": "mxp9dtz",
+          "author": "Arawn-Annwn",
+          "body": "for damaged units. you salvage the undamaged parts instead of having to replace the entire thing.",
+          "score": 7,
+          "created_utc": 1749883205.0,
+          "replies": []
+        },
+        {
+          "id": "mxrdygx",
+          "author": "EvenSpoonier",
+          "body": "The main idea behind this is that even if the motherboard is damaged, as long as the core chips are still intact you can replace everything else. It allows you to salvage a working system in many cases that would otherwise have been considered beyond repair.\n\nThere is a secondary use for psOne users who want a parallel port, I guess, but I don't think we'll see people using it very much for that.",
+          "score": 3,
+          "created_utc": 1749917284.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mxka39q",
+      "author": "iamfeenie",
+      "body": "Omg",
+      "score": 1,
+      "created_utc": 1749822658.0,
+      "replies": []
+    },
+    {
+      "id": "mxs3vzf",
+      "author": "Academic_Apple_5641",
+      "body": "Just make a new ps1 already",
+      "score": 1,
+      "created_utc": 1749925292.0,
+      "replies": []
+    },
+    {
+      "id": "mxvg9w3",
+      "author": "Luminaire_Ultima",
+      "body": "Good news indeed.",
+      "score": 1,
+      "created_utc": 1749971935.0,
+      "replies": []
+    },
+    {
+      "id": "mxjxe5j",
+      "author": "Calkyoulater",
+      "body": "That\u2019s great, and I think people should pursue their hobbies however they see fit. However, how much work is it to de-solder chips from an original board and then solder them to this new one? If your PSX dies, you can buy a replacement for less than $100. (And what are the chances that the reason your console died is because of a problem with the motherboard?) There are tens of millions of these things out there. I just don\u2019t get how this is economically feasible.",
+      "score": -13,
+      "created_utc": 1749818347.0,
+      "replies": [
+        {
+          "id": "mxk6ebq",
+          "author": "LorentioB",
+          "body": "Hi, I'm replying to specify some information that I noticed isn't included in the articles. The card arrives already populated with passive components, so only the Sony chips are missing. I personally took 1 hour to transplant the chips using a heat gun, those with more experience probably take much less, and consider that I didn't even use stencils. During all the months of work I found many PS1s online for \u20ac10-15, some even for \u20ac7, in working order, so it's not even expensive as a project. Some point out (as well as articles) that a new motherboard makes no sense because it is not the one that fails during faults, but I also made it as a collection piece, art and for those who want to have fun assembling it.",
+          "score": 75,
+          "created_utc": 1749821447.0,
+          "replies": [
+            {
+              "id": "mxk7cbn",
+              "author": "LorentioB",
+              "body": "Btw I bought a few months ago a SCPH-1002 sold as \u201cnot working\u201d for only 7\u20ac, bought it and the only problem was the internal psu fuse\ud83d\ude02.",
+              "score": 38,
+              "created_utc": 1749821764.0,
+              "replies": [
+                {
+                  "id": "mxklkq9",
+                  "author": "Sad-Butterscotch-680",
+                  "body": "I gotta get into hardware.\n\nConsidering how many \u201cbricked\u201d MacBooks there are out there I was already tempted but way I see it 8-10 hours a day flipping consoles / laptops and selling them refurbished on eBay would make me more than I could ever hope to writing software",
+                  "score": 13,
+                  "created_utc": 1749826085.0,
+                  "replies": [
+                    {
+                      "id": "mxknwio",
+                      "author": "NickCharlesYT",
+                      "body": "Macbooks - especially anything post-2013 or so - are genuinely terrible to work with. Go check out what guys like Louis Rossmann have to do to fix those stupid laptops...it's not worth it and that's why they're so cheap when they're broken. [This video is from 9 years ago](https://www.youtube.com/watch?v=NVAmnV65_zw) but it's just as bad today if not worse. (Note: Rossmann has some colorful language, fair warning). His own website shows his shop doesn't work on anything newer than a 2020 model either.\n\nEdit: Here's a few more recent videos explaining why more modern macbooks are often unrepairable at all:\n\nhttps://www.youtube.com/watch?v=gmRd9IVE6dc\n\nhttps://www.youtube.com/watch?v=7cNg_ifibCQ",
+                      "score": 19,
+                      "created_utc": 1749826743.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mxmg50d",
+                  "author": "Neo_Techni",
+                  "body": "I bought an XBOXone Kinect and had to get it replaced twice cause it has a dead fuse and I have to ask, why the hell do these companies even use fuses (whose whole point is to fail and be easy to replace, so that it saves the rest of the board from an overcharge) if they're not going to make them easy to replace?",
+                  "score": 1,
+                  "created_utc": 1749845161.0,
+                  "replies": [
+                    {
+                      "id": "mxmgm88",
+                      "author": "LorentioB",
+                      "body": "Becouse they don\u2019t give a fuck about you (consumer) and they make it simple for them to replace it.",
+                      "score": 8,
+                      "created_utc": 1749845304.0,
+                      "replies": [
+                        {
+                          "id": "mxmjy8i",
+                          "author": "Neo_Techni",
+                          "body": "ah, that computes",
+                          "score": 1,
+                          "created_utc": 1749846301.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mxk9ao9",
+          "author": "sorrylilsis",
+          "body": "For chips that old ? I would not say that it's easy but it's still something that someone could do at home without specialized equipment. \nThe chips themselves are usualy the more reliables parts, it's the motherboards that die. And the supply of working original consoles is only going to get down. Makes sense to have options like that.",
+          "score": 5,
+          "created_utc": 1749822405.0,
+          "replies": []
+        },
+        {
+          "id": "mxk23b7",
+          "author": "fairportmtg1",
+          "body": "Not to mention the PS2, one do the best selling consoles of all time, plays PS1 games perfectly fine.\n\nThis seems like a nest thing to exist but not sure who this is for.",
+          "score": -16,
+          "created_utc": 1749820003.0,
+          "replies": [
+            {
+              "id": "mxk463d",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 17,
+              "created_utc": 1749820706.0,
+              "replies": [
+                {
+                  "id": "mxkjca5",
+                  "author": "fairportmtg1",
+                  "body": "The majority of the library is playable. I guess if those specific games matter to you then sure. There were still 100 million ps1s sold so I don't see this being cheaper than just buying another PS1.",
+                  "score": -3,
+                  "created_utc": 1749825444.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mxk63wd",
+              "author": "PM_ME_YOUR_STOCKPIX",
+              "body": "why comment with such confidence when you don't know anything about the subject",
+              "score": 10,
+              "created_utc": 1749821350.0,
+              "replies": [
+                {
+                  "id": "mxki5rz",
+                  "author": "fairportmtg1",
+                  "body": "If you are using actual disc it does play PS1 games natively. \n\nI'm not saying zero people are going to buy this, I'm saying this is a super super niche item that I don't see even the majority of retro game enthusiast caring about. \n\nDisc based consoles generally the laser will die before you need to worry about a motherboard going. \n\nThe skills needed to desolder and resolder a full motherboard of chips is a lot.\n\nIf the majority of even retro gamers that care about a specific system would do this type of thing then explain why is analog so successful with FPGA systems? They aren't original hardware but offer many convinces that could already be added to original consoles (with mods that are also not easy to install like this)? \n\nIt's cool but this is a niche product is a niche hobby.",
+                  "score": -5,
+                  "created_utc": 1749825099.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mxkipfi",
+              "author": "TediousSign",
+              "body": "If you\u2019re not sure who it\u2019s for, why are you browsing r/gadgets? Much less commenting on the gadgets you aren\u2019t interested in?",
+              "score": 4,
+              "created_utc": 1749825259.0,
+              "replies": [
+                {
+                  "id": "mxkk0k4",
+                  "author": "fairportmtg1",
+                  "body": "Lol, explain the market for this item then. It's at best a small niche product that appeals to a few thousand at most world wide. \n\nI said it's cool but seems like something that doesn't really need to exist as there are plenty of physical PlayStations left. I don't even need to make the argument that PlayStation is able to be played on multiple other sont consoles and the emulation for it is fake as well. \n\nI'd make the same comment about pretty much any retro console equivalent of this. Making a new motherboard that you need to salvage chips from an existing console seems like more effort than it's worth and doesn't make practical or financial sense.",
+                  "score": -7,
+                  "created_utc": 1749825640.0,
+                  "replies": [
+                    {
+                      "id": "mxkkiai",
+                      "author": "TediousSign",
+                      "body": "Your brain on capitalism is completely rotted.",
+                      "score": 6,
+                      "created_utc": 1749825782.0,
+                      "replies": [
+                        {
+                          "id": "mxklvji",
+                          "author": "fairportmtg1",
+                          "body": "The dude is the one who is doing this project setting it up to make it able to be produced. He's obviously trying to get attention to get people to buy them.\n\nAs a hobby project it's cool but the plan as it seems to make it so one could manufacter them is stupid. \n\nIt's anti capitalism to say \"this expensive version of something that already exists is stupid\"\n\nIf you try to tell me with a stright face that some number of people wouldn't buy this and tear apart a fully working PS1 just cause you are lying. \n\nCapitalism/consumer culture is everywhere in video games.",
+                          "score": -5,
+                          "created_utc": 1749826171.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mxnstfh",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 1,
+              "created_utc": 1749861164.0,
+              "replies": [
+                {
+                  "id": "mxo4fpk",
+                  "author": "fairportmtg1",
+                  "body": "I get your point but PS1 is hardly considered rare and it's no that old in the grand scheme of things. Again it's a niche issue for a niche group of fans. Speed running specifically on the PS1 is a super small group. \n\nIt's cool they did it but I think they have some intentions of trying to make it a product to sell (and people will buy it and do it even if their PlayStation is working) and it's just kinda pointless overall. What are the chances that the motherboard itself is bad and causing the issue vs a chip itself going bad? \n\nIt's a nest thing to do but I don't think it's truly solving anything or fixing an actual issue",
+                  "score": 0,
+                  "created_utc": 1749865325.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxmw506",
+      "author": "rasz_pl",
+      "body": "Except no one needs to save a 'dying 1990s PlayStation 1' because there were 100million units sold worldwide - people insisting on playing using real hardware will _never_ run out.",
+      "score": -10,
+      "created_utc": 1749849957.0,
+      "replies": []
+    }
+  ]
+}

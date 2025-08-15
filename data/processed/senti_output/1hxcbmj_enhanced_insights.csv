@@ -1,0 +1,49 @@
+metric,value
+file,1hxcbmj.csv
+title,"Up close with the Nvidia GeForce RTX 5090 FE, an incredibly compact flagship video card | Nvidia’s version is the only one that can comfortably fit in small form factor cases."
+rows,111
+num_posts,1
+num_comments,110
+unique_authors,87
+max_depth,6
+avg_comment_words,50.99
+median_comment_words,40.5
+max_comment_words,145
+positive_count,19
+negative_count,91
+neutral_count,0
+positive_pct,17.273
+negative_pct,82.727
+neutral_pct,0.0
+topic_1_keywords,"blower, cards, things, also, reference, wife, old, yesteryear"
+topic_1_label,a reference to a blower
+topic_2_keywords,"fe, partners, nividia, cards, card, see, board, cooling"
+topic_2_label,"fe, nividia, card, board"
+topic_3_keywords,"would, yeah, vendors, get, asus, cool, rma, evga"
+topic_3_label,rma evga
+topic_4_keywords,"performance, 4090, 4070, faster, watts, better, yeah, need"
+topic_4_label,watts and watts are better than average
+topic_5_keywords,"5090, cards, cooler, 5080, edition, board, founders, design"
+topic_5_label,"5090 cards, cooler, board, founders design"
+topic_6_keywords,"fit, cards, small, cases, pc, form, factor, thats"
+topic_6_label,"card fit, small cases, pc"
+top_ngram_1,founders edition (16)
+top_ngram_2,edition cards (14)
+top_ngram_3,board partners (14)
+top_ngram_4,founders edition cards (11)
+top_ngram_5,yeah gonna (8)
+top_ngram_6,gonna need (8)
+top_ngram_7,need thermal (8)
+top_ngram_8,thermal performance (8)
+top_ngram_9,performance 575 (8)
+top_ngram_10,575 watts (8)
+ner_1,Nvidia|ORG|16
+ner_2,Nividia|ORG|12
+ner_3,EVGA|ORG|6
+ner_4,ASUS|ORG|6
+ner_5,5090|MISC|5
+ner_6,AI|MISC|5
+ner_7,50|MISC|4
+ner_8,Europe|LOC|4
+ner_9,R|MISC|4
+ner_10,FE|MISC|3

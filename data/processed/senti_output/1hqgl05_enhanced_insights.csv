@@ -1,0 +1,49 @@
+metric,value
+file,1hqgl05.csv
+title,Meta is working on a fix for a software update that bricked Quest headsets
+rows,33
+num_posts,1
+num_comments,32
+unique_authors,26
+max_depth,7
+avg_comment_words,38.88
+median_comment_words,25.5
+max_comment_words,264
+positive_count,1
+negative_count,31
+neutral_count,0
+positive_pct,3.125
+negative_pct,96.875
+neutral_pct,0.0
+topic_1_keywords,"fix, software, right, device, quest, dont, one, headsets"
+topic_1_label,a headset fix
+topic_2_keywords,"warranty, would, europe, sure, device, limp, im, something"
+topic_2_label,europe is sure about the warranty
+topic_3_keywords,"protect, problem, update, forced, consumers, burnout, legislated, otherwise"
+topic_3_label,Consumers and consumers protect against burnout
+topic_4_keywords,"people, would, lol, push, cheaper, try, limp, 3s"
+topic_4_label,i would try to push people
+topic_5_keywords,"3s, bricked, new, dont, doctor, worst, updates, headsets"
+topic_5_label,"3s bricked, new, don , doctor"
+topic_6_keywords,"guess, fix, quest, updating, used, use, shit, since"
+topic_6_label,shit is a shit
+top_ngram_1,forced update (4)
+top_ngram_2,update leading (4)
+top_ngram_3,leading brick (4)
+top_ngram_4,brick needs (4)
+top_ngram_5,needs legislated (4)
+top_ngram_6,legislated protect (4)
+top_ngram_7,protect consumers (4)
+top_ngram_8,consumers otherwise (4)
+top_ngram_9,otherwise keep (4)
+top_ngram_10,keep pulling (4)
+ner_1,Europe|LOC|3
+ner_2,Quest 3|MISC|2
+ner_3,PC|MISC|2
+ner_4,##tor|ORG|1
+ner_5,Australia|LOC|1
+ner_6,FOSS|ORG|1
+ner_7,Dick|PER|1
+ner_8,Microsoft|ORG|1
+ner_9,Quest|MISC|1
+ner_10,Samsung|ORG|1

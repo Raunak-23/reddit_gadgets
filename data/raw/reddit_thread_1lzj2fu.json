@@ -1,0 +1,933 @@
+{
+  "post": {
+    "title": "Self-destructing SSD brings espionage-level security to data protection | Select either a software wipe that preserves the drive or hardware-level destruction that renders it unusable",
+    "author": "chrisdh79",
+    "id": "1lzj2fu",
+    "score": 1462,
+    "created_utc": 1752489692.0,
+    "selftext": "",
+    "num_comments": 114,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1lzj2fu/selfdestructing_ssd_brings_espionagelevel/"
+  },
+  "comments": [
+    {
+      "id": "n31xkir",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Luckeep X1 ebike!\n\n[https://www.reddit.com/r/gadgets/comments/1ltu5rz/luckeep_x_rgadgets_giveaway_win_a_brandnew/?)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1752489692.0,
+      "replies": []
+    },
+    {
+      "id": "n31zd9v",
+      "author": "positivcheg",
+      "body": "So now being hacked can indeed result in a disaster. \n\nMake a PSU with the self destruction module that sets PC on fire!",
+      "score": 319,
+      "created_utc": 1752490567.0,
+      "replies": [
+        {
+          "id": "n323w0k",
+          "author": "itsalongwalkhome",
+          "body": ">Make a PSU with the self destruction module that sets PC on fire!\n\nNvidia already makes those.",
+          "score": 136,
+          "created_utc": 1752492643.0,
+          "replies": [
+            {
+              "id": "n339qlc",
+              "author": "billydean214",
+              "body": " I think you're thinking of GIGABYTE.",
+              "score": 18,
+              "created_utc": 1752506669.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n323ov6",
+          "author": "marshallm900",
+          "body": "Nah, we have the 12VHPWR for that.",
+          "score": 13,
+          "created_utc": 1752492556.0,
+          "replies": [
+            {
+              "id": "n379jvx",
+              "author": "Aleashed",
+              "body": "Suddenly Sandisk\u2019s firmware bugs become a \u201cfeature\u201d\n\n\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0",
+              "score": 2,
+              "created_utc": 1752551090.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n334ozj",
+          "author": "XKeyscore666",
+          "body": "I imagine the \u201cself destruct\u201d is not going to be violent. Some devices like FPGAs have tiny internal fuses that can be permanently blown through software. It isn\u2019t even audible.",
+          "score": 11,
+          "created_utc": 1752505201.0,
+          "replies": [
+            {
+              "id": "n33h589",
+              "author": "zekromNLR",
+              "body": "Just blowing some fuses would still leave the data in the actual flash storage part intact. My guess for a hardware self destruct would be a boost converter that can send a few hundred volts through the flash chips to destroy them.",
+              "score": 13,
+              "created_utc": 1752508763.0,
+              "replies": [
+                {
+                  "id": "n35j2jy",
+                  "author": "rebbsitor",
+                  "body": "> My guess for a hardware self destruct would be a boost converter that can send a few hundred volts through the flash chips to destroy them.\n\nNot if they're anti-fuses that connect memory cells directly to ground or power.  Bye Bye data.\n\nGenerally a self-destruct mechanism on a drive does two things: \n\n* Wipes encryption keys so the data is unrecoverable.  Drives like this will have built in hardware encryption that's always enabled and wiping the key is effectively wiping the drive.\n\n* blows some kind of fuse / anti-fuse that it can detect in firmware.  If detected, it will refuse to initialize and there's no way to reset it.",
+                  "score": 9,
+                  "created_utc": 1752529599.0,
+                  "replies": [
+                    {
+                      "id": "n381s0n",
+                      "author": "other_usernames_gone",
+                      "body": "You don't want anything detected by firmware. You don't want to assume anything will play nice.\n\nSomeone could take the chips out and read them with a different device. \n\nIf you're worried about \"espionage level security\" you want to wipe the actual chips.",
+                      "score": 3,
+                      "created_utc": 1752565153.0,
+                      "replies": [
+                        {
+                          "id": "n392nmn",
+                          "author": "rebbsitor",
+                          "body": "> Someone could take the chips out and read them with a different device.\n\nThey could take the chips out and read AES-256 encrypted data, which is indistinguishable from random data and that will take  longer than time remaining until the heat death of universe to decrypt without the encryption keys.\n\nWe use Aegis Fortress drives like this and this is the government accepted standard for data protection (FIPS 140-3).\n\nThe reason key destruction is used is because it's quick, extremely secure, and doesn't require a lot of power. Wiping a multi-terabyte device under it's own power requires having a large battery and guaranteeing it's always charged, which is impractical, takes a significant amount of time and could fail or be interrupted. Wiping a 256 bit key contained in the crypto module is trivial, fast, and extremely secure.\n\n> You don't want anything detected by firmware.\n\nWhat it detects is a permanent fuse/anti-fuse that indicates the drive is disabled. It's not so much a security feature as an anti-theft feature.  It prevents the drive from being reinitialized with a new encryption key and being used by someone else.  There's no way to reset it. \n\nThat's usually optional on these kinds of drives. Turning it on or off doesn't make the data any more or less secure.",
+                          "score": 1,
+                          "created_utc": 1752583422.0,
+                          "replies": [
+                            {
+                              "id": "n39rwxo",
+                              "author": "other_usernames_gone",
+                              "body": "While I agree AES-256 encrypted data is plenty secure the entire point of these drives is they hardware wipe the data. For people ultra paranoid about quantum computers, or just ultra paranoid in general.\n\nEdit: by these drives I mean the P250Q-M80 drive featured in this post. \n\nWhich at least according to the article attaches a high voltage across the chips to fry them.\n\n> This method sends a high-voltage burst directly to the NAND flash chips, physically destroying them to make data recovery impossible. Multi-stage LED indicators visually confirm the process.",
+                              "score": 1,
+                              "created_utc": 1752591301.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n35y3za",
+                      "author": "3-orange-whips",
+                      "body": "So who ended up having the bigger one? For science.",
+                      "score": 0,
+                      "created_utc": 1752534347.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n33s1g5",
+                  "author": "XKeyscore666",
+                  "body": "Possibly. Still, it\u2019s not going to set a pc on fire.",
+                  "score": 2,
+                  "created_utc": 1752511835.0,
+                  "replies": []
+                },
+                {
+                  "id": "n39rrna",
+                  "author": "Lehk",
+                  "body": "The \u201csoftware\u201d wipe destroys the data, the fuse is to render the stolen property worthless for resale.",
+                  "score": 1,
+                  "created_utc": 1752591261.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n389sjl",
+              "author": "TbonerT",
+              "body": "That\u2019s probably what happened when I disabled Bluetooth on my first laptop. It warned me I wouldn\u2019t be able to enable it again but I had seen warnings like that before that weren\u2019t true. Nothing worked to enable it again.",
+              "score": 1,
+              "created_utc": 1752569898.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n37syw3",
+          "author": "Big_footed_hobbit",
+          "body": "Wait until ppl. adopt Elons brain chip or an eye-phone.\nYou are hacked and if you don\u2019t pay ransom the chip dies in your brain.\n\nHave fun scrambling for those Bitcoin",
+          "score": 2,
+          "created_utc": 1752560278.0,
+          "replies": []
+        },
+        {
+          "id": "n321kqa",
+          "author": "JiN88reddit",
+          "body": "U heard if firewall, now there's powershot.",
+          "score": 1,
+          "created_utc": 1752491606.0,
+          "replies": [
+            {
+              "id": "n32ajxd",
+              "author": "Small_Editor_3693",
+              "body": "You *",
+              "score": 4,
+              "created_utc": 1752495400.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n3366cz",
+          "author": "entspannter_Typ",
+          "body": "Mossad joined the chat",
+          "score": 2,
+          "created_utc": 1752505631.0,
+          "replies": []
+        },
+        {
+          "id": "n337rqf",
+          "author": "lowercaset",
+          "body": "In uplink you could buy a thermite upgrade for your hard drive!",
+          "score": 1,
+          "created_utc": 1752506088.0,
+          "replies": []
+        },
+        {
+          "id": "n341fsa",
+          "author": "gulgin",
+          "body": "Ransomware only works if the data still exists.",
+          "score": 1,
+          "created_utc": 1752514394.0,
+          "replies": []
+        },
+        {
+          "id": "n34ruqo",
+          "author": "unematti",
+          "body": "I would be open to using actual explosives to destroy parts of the pc... Tiny pieces of explosives crack the chips upon electric trigger",
+          "score": 1,
+          "created_utc": 1752521843.0,
+          "replies": []
+        },
+        {
+          "id": "n3531ii",
+          "author": "Gorthax",
+          "body": "We made those with floppy disks back in my day.\n\nSelf striking matches, pulverize the phos-tip, disassemble floppy, paint the platter with nail polish, sprinkle seasoning liberally, press with flat object, let cure for 30 minutes. Reassemble and toss on a desk. \n\nPROFIT!",
+          "score": 1,
+          "created_utc": 1752525010.0,
+          "replies": []
+        },
+        {
+          "id": "n39b72a",
+          "author": "onthefence928",
+          "body": "I remember the early 2000s there being a rumor that a hacker could mess with your PC firmware to over load the power supply and turn off the fans to cause components to over heat and burn or melt.\n\nProbably easy to believe because quite pop a few of those old beige boxes would just do that all on their own",
+          "score": 1,
+          "created_utc": 1752586349.0,
+          "replies": [
+            {
+              "id": "n39es6t",
+              "author": "positivcheg",
+              "body": "I won\u2019t believe that one can hack PSU. PSUs are not programmable unless it\u2019s some special server level PSU.",
+              "score": 1,
+              "created_utc": 1752587454.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n3e5rfp",
+          "author": "watduhdamhell",
+          "body": "HCF.exe",
+          "score": 1,
+          "created_utc": 1752640861.0,
+          "replies": []
+        },
+        {
+          "id": "n3hg1pb",
+          "author": "brillow",
+          "body": "There\u2019s a reason these kinds of things have never been popular.\n\nAlso you can just encrypt the drive and forget the key if you want to destroy data.",
+          "score": 1,
+          "created_utc": 1752688835.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n3224wf",
+      "author": "Xanderson",
+      "body": "Mission Impossible did it.",
+      "score": 43,
+      "created_utc": 1752491860.0,
+      "replies": []
+    },
+    {
+      "id": "n31ylsi",
+      "author": "Bokbreath",
+      "body": ">With a single press of a dedicated button, users can choose between two levels of data erasure.        \n\nTrying to picture a real world scenario in which this would be useful.",
+      "score": 92,
+      "created_utc": 1752490202.0,
+      "replies": [
+        {
+          "id": "n31ywrm",
+          "author": "joemaniaci",
+          "body": "Im looking forward to the 0-day exploit that allows people to remotely wipe these globally.",
+          "score": 113,
+          "created_utc": 1752490349.0,
+          "replies": [
+            {
+              "id": "n321qbl",
+              "author": "hotlavatube",
+              "body": "I'd imagine they'll be pretty rare in the wild, so it wouldn't be a large attack surface. That said, this reminds me of when the [FBI ran a phone company](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom) and sold hardened encrypted phones. They sold these phones marketed as an \"impenetrable shield against law enforcement surveillance\" to criminals, but [secretly monitored all the communications](https://www.youtube.com/watch?v=uFyk5UOyNqI). When the time was right, they swooped in an arrested over 800 people.   \n  \nI could see them pulling something similar with self-destructing hard drives that appealed to people that want to hide their data when they get raided. The drives might function as intended until some signal is sent, then suddenly the delete operation doesn't work, or hides a shadow copy.",
+              "score": 66,
+              "created_utc": 1752491677.0,
+              "replies": [
+                {
+                  "id": "n32hwju",
+                  "author": "CandyCrisis",
+                  "body": "It'd be easy to have the drive report \"destroyed\" but allow a secret command (or replace a cheap component) that undestroys it. AFAICS you can't verify the \"hardware-level destruction\" aspect in any meaningful way.",
+                  "score": 23,
+                  "created_utc": 1752498101.0,
+                  "replies": [
+                    {
+                      "id": "n33hjj9",
+                      "author": "zekromNLR",
+                      "body": "Unless it is so intense that it shows obvious outward signs that cannot be faked without destroying the hardware, but that would also be quite dangerous to the user",
+                      "score": 3,
+                      "created_utc": 1752508879.0,
+                      "replies": [
+                        {
+                          "id": "n33k263",
+                          "author": "CandyCrisis",
+                          "body": "Even if, say, the drive's logic board set fire, that's not proof that the data is irretrievable.",
+                          "score": 5,
+                          "created_utc": 1752509594.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "n34liv0",
+                          "author": "AstariiFilms",
+                          "body": "They could have fuses on the board which intentionally burn to give it that effect",
+                          "score": 3,
+                          "created_utc": 1752520022.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n34onsc",
+                      "author": "vexstream",
+                      "body": "A lot of HV chip failures will show very obvious signs on the chip- magic smoke release is one, but you'll see melted pinholes, fractures, or the plastic can just get exploded off.",
+                      "score": 2,
+                      "created_utc": 1752520914.0,
+                      "replies": [
+                        {
+                          "id": "n34vev6",
+                          "author": "CandyCrisis",
+                          "body": "Sure, but you could intentionally design a drive which releases magic smoke and melts the board, while simultaneously leaving all the data on the drive itself intact. You'd never know the difference.",
+                          "score": 2,
+                          "created_utc": 1752522878.0,
+                          "replies": [
+                            {
+                              "id": "n35g108",
+                              "author": "vexstream",
+                              "body": "[When I say melted pinhole and fractures I mean, on the chips. It's not something you can really fake.](https://kagi.com/proxy/JbR7W.jpg?c=paVMepdr69omyIsuiCcXRHOZovZmAiEycDJVkrYcHLAMyTtPb9v-Kmd4qzWDVQdG)",
+                              "score": 2,
+                              "created_utc": 1752528706.0,
+                              "replies": [
+                                {
+                                  "id": "n370rjm",
+                                  "author": "manatrall",
+                                  "body": "Sure, but you'd have to do that to every IC on the drive, not just the controller, otherwise the data is still *there*.",
+                                  "score": 2,
+                                  "created_utc": 1752547635.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n36saac",
+                      "author": "DuckDatum",
+                      "body": "That doesn\u2019t make sense to me. If you can\u2019t verify it, how can they recover it?",
+                      "score": 1,
+                      "created_utc": 1752544606.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n330jab",
+                  "author": "Ishidan01",
+                  "body": "Not only does the delete operation do nothing but it turns on the status LED in a recognizable pattern.\n\nSaves a lot of time if the drive that the owner considered the sensitive one is literally showing a beacon to the doorkickers.",
+                  "score": 3,
+                  "created_utc": 1752504008.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n3436ho",
+              "author": "MWink64",
+              "body": "The vast majority of modern drives already support sanitize/secure erase. I suspect that's exactly what this drive does, assuming you don't use the option meant to permanently destroy it.",
+              "score": 2,
+              "created_utc": 1752514857.0,
+              "replies": [
+                {
+                  "id": "n37gfet",
+                  "author": "pinksystems",
+                  "body": "they go one leg level further, it's been around for a decade. Go look at SED, TCG, Opal specs... they're on modern consumer drives at this point. Used to be only enterprise drives, but it's nothing special now. Most people just don't know anything about firmware level AES with self destruct.\n\nSamsung 990 series have it included without even marketing the features.\n\nSed Util, common toolkit: https://github.com/Drive-Trust-Alliance/sedutil\n\n2025: https://trustedcomputinggroup.org/wp-content/uploads/TCG-Storage-Opal-SSC-v2.30_pub.pdf\n\n2019: https://www.atpinc.com/blog/tcg-opal-encrytion-sed-self-encryption-drive\n\n2015: https://vxlabs.com/2015/02/11/use-the-hardware-based-full-disk-encryption-your-tcg-opal-ssd-with-msed/\n\n2015: https://trustedcomputinggroup.org/wp-content/uploads/TCG_Storage-Opal_SSC_FAQ.pdf",
+                  "score": 1,
+                  "created_utc": 1752554068.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n320gwa",
+              "author": "Xeadriel",
+              "body": "That would be insane",
+              "score": 3,
+              "created_utc": 1752491086.0,
+              "replies": []
+            },
+            {
+              "id": "n35s7le",
+              "author": "rebbsitor",
+              "body": "If someone's using these kind of drives, they definitely have backups.",
+              "score": 1,
+              "created_utc": 1752532451.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n3201q6",
+          "author": "mrmratt",
+          "body": ">Trying to picture a real world scenario in which this would be useful.\n\nSometimes you just want to clear a drive so that you can ship it less securely, but still use it at the other end.\n\nSometimes you absolutely want to make sure the device is dead, and this is easier and quicker than a saw, axe or hammer.",
+          "score": 19,
+          "created_utc": 1752490887.0,
+          "replies": [
+            {
+              "id": "n326plm",
+              "author": "nicuramar",
+              "body": "I don\u2019t see what wrong with having the disk encrypted with a symmetric key and then just wiping that.\u00a0",
+              "score": 3,
+              "created_utc": 1752493852.0,
+              "replies": [
+                {
+                  "id": "n33bdgl",
+                  "author": "dark_sylinc",
+                  "body": "There's always the risk the data could be decrypted. Physical destruction brings peace of mind.\n\nAs to how the data could be decrypted, we never know which algorithms the vendor used. Many algorithms (including AES modes) trade security for parallel execution performance at acceptable trade offs. However this introduces/increases data correlation, which means the encrypted data could be retrieved with enough dedication in acceptable time.\n\nThis isn't meant for consumer-level encryption, it's supposed to prevent industrial-level espionage.\n\nAnd that is assuming the key wipe didn't malfunction and is still retrievable with enough dedication (the key may no longer be readable by the SSD but still is with dedicated Hardware).",
+                  "score": 8,
+                  "created_utc": 1752507142.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n347zz6",
+              "author": "Esc777",
+              "body": ">and this is easier and quicker than a saw, axe or hammer.\n\nChallenge accepted.\u00a0",
+              "score": 0,
+              "created_utc": 1752516152.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n321mrb",
+          "author": "Vadhakara",
+          "body": "IRS raid vs FBI raid",
+          "score": 11,
+          "created_utc": 1752491632.0,
+          "replies": [
+            {
+              "id": "n3485al",
+              "author": "supe_snow_man",
+              "body": "Most destruction will probably happen via on-site tech fat fingering it while handling a call to replace a fan.",
+              "score": 3,
+              "created_utc": 1752516193.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n323y1d",
+          "author": "internetlad",
+          "body": "Any business applications dealing with HIPPA, PPI or other private data?",
+          "score": 4,
+          "created_utc": 1752492668.0,
+          "replies": [
+            {
+              "id": "n32ancf",
+              "author": "lostkavi",
+              "body": "The risk of accidental data deletion in this situations would be too high. Why not just strap a bomb to the data centers?\n\n\"It's too risky!\" Exactly.",
+              "score": 6,
+              "created_utc": 1752495436.0,
+              "replies": []
+            },
+            {
+              "id": "n38z0vy",
+              "author": "geneorama",
+              "body": "Except that you can\u2019t delete HIPPA or most PII data. One of the p stands for portability. The Is mean individually identifiable. The standards are for how data should be used not made unusable (which is the common interpretation).",
+              "score": 1,
+              "created_utc": 1752582011.0,
+              "replies": []
+            },
+            {
+              "id": "n32f3cx",
+              "author": "Nope_______",
+              "body": "Nope",
+              "score": 0,
+              "created_utc": 1752497109.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n32wgmm",
+          "author": "Smartnership",
+          "body": "You\u2019re Taiwan.\n\nChina invades.",
+          "score": 6,
+          "created_utc": 1752502810.0,
+          "replies": [
+            {
+              "id": "n357lhb",
+              "author": "Bokbreath",
+              "body": "if you think China will not already have all the relevant info ....",
+              "score": -1,
+              "created_utc": 1752526289.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n3382qa",
+          "author": "ConsistentAsparagus",
+          "body": "Also, you have a simple erasure and an explosion that takes out the disk: one is started by pressing the button 5 seconds, the other one is by pressing the button 4 seconds and then press it again.",
+          "score": 4,
+          "created_utc": 1752506174.0,
+          "replies": []
+        },
+        {
+          "id": "n324l4h",
+          "author": "TeaAndLifting",
+          "body": "Just reminds me of joke you\u2019d used to read on places like 4chan where people would talk about thermiting their hard drives.",
+          "score": 4,
+          "created_utc": 1752492950.0,
+          "replies": []
+        },
+        {
+          "id": "n333vht",
+          "author": "ungoogleable",
+          "body": "Some companies have data centers in less-than-stable parts of the world. The entire data center being taken over by some new government or hostile force is a legitimate concern. You're about to lose physical access to the site permanently, you want to be absolutely sure the data is gone, and you don't care if the hardware is salvageable after.",
+          "score": 2,
+          "created_utc": 1752504969.0,
+          "replies": []
+        },
+        {
+          "id": "n33ili0",
+          "author": "Maximum-Geologist-98",
+          "body": "This is common in military equipment in case it\u2019s captured.\n\nBut in enterprise settings like, keep this shit away from my disks tf? Guaranteed the button will be misused lol.",
+          "score": 2,
+          "created_utc": 1752509179.0,
+          "replies": []
+        },
+        {
+          "id": "n322j3f",
+          "author": "grafknives",
+          "body": "How about bond universe scenario?\n\nhttps://www.youtube.com/watch?v=KessO6-jOEM",
+          "score": 1,
+          "created_utc": 1752492040.0,
+          "replies": []
+        },
+        {
+          "id": "n3383gx",
+          "author": "lowercaset",
+          "body": "Tie it in to an alarm system so that if anyone is breaking in or raiding the location the data is not compromised.",
+          "score": 1,
+          "created_utc": 1752506180.0,
+          "replies": []
+        },
+        {
+          "id": "n338rrr",
+          "author": "ga-co",
+          "body": "Anyone operating near the frontline of a combat zone.",
+          "score": 1,
+          "created_utc": 1752506375.0,
+          "replies": []
+        },
+        {
+          "id": "n33r46j",
+          "author": "Skitzo173",
+          "body": "Probably for government/military use?",
+          "score": 1,
+          "created_utc": 1752511579.0,
+          "replies": []
+        },
+        {
+          "id": "n33t9q9",
+          "author": "MasGui",
+          "body": "would not work in this case: https://en.wikipedia.org/wiki/Ross_Ulbricht#Initial_arrest",
+          "score": 1,
+          "created_utc": 1752512168.0,
+          "replies": []
+        },
+        {
+          "id": "n3532mo",
+          "author": "scr33ner",
+          "body": "Healthcare information systems could make use of this.",
+          "score": 1,
+          "created_utc": 1752525018.0,
+          "replies": []
+        },
+        {
+          "id": "n36yy15",
+          "author": "wolfgang784",
+          "body": "Ew, you have to press a button? Laaaame. \n\nI remember seeing a dumb expensive USB flash drive like 15 years ago that did it much better. It was entirely titanium, had somethin that'd go boom in it, and would automatically do so if you typed the password in wrong more than 3 times.",
+          "score": 1,
+          "created_utc": 1752546973.0,
+          "replies": []
+        },
+        {
+          "id": "n3hedmt",
+          "author": "azahel452",
+          "body": "My old boss would have loved this when the police came for his stuff...",
+          "score": 1,
+          "created_utc": 1752688388.0,
+          "replies": []
+        },
+        {
+          "id": "n32fo02",
+          "author": "Jarhyn",
+          "body": "Crime. It's super useful for criminals.\n\nIt's also super useful in tracking criminals through purchase history.",
+          "score": 1,
+          "created_utc": 1752497314.0,
+          "replies": []
+        },
+        {
+          "id": "n31zae8",
+          "author": "Farcespam",
+          "body": "Insurance fraud oh no my house lit on fire.",
+          "score": -4,
+          "created_utc": 1752490529.0,
+          "replies": [
+            {
+              "id": "n321pwx",
+              "author": "Kazumadesu76",
+              "body": "Insurance Company: \"Oh, sorry, we don't cover electrical fires; only fires started from Bunsen burners.\"",
+              "score": 0,
+              "created_utc": 1752491672.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n325lkd",
+      "author": "arwinda",
+      "body": "Yes, I really want a self destructing drive in my rack in the data center, potentially taking other hardware down as well!",
+      "score": 30,
+      "created_utc": 1752493385.0,
+      "replies": [
+        {
+          "id": "n32cxz6",
+          "author": "tlst9999",
+          "body": "When you need to delete all your academic research material upon your death.",
+          "score": 21,
+          "created_utc": 1752496315.0,
+          "replies": [
+            {
+              "id": "n32wn3r",
+              "author": "Smartnership",
+              "body": "\u201cClear my browser history.   I don\u2019t want anyone to know how bad I am at spelling.\u201d",
+              "score": 9,
+              "created_utc": 1752502863.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n326dhe",
+          "author": "daveyjones86",
+          "body": "That's the dream friend",
+          "score": 4,
+          "created_utc": 1752493711.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n32mztt",
+      "author": "mishyfuckface",
+      "body": "Also when I was raided by the feds they took everything electronic except my floppy discs. I even had a floppy disc drive hooked up to my pc. They just\u2026 didn\u2019t take them? So if it can fit on a floppy just put it on a floppy they don\u2019t fuck with them\n\nAnd my Xbox. They left the Xbox. Even the feds think Xbox is a joke",
+      "score": 13,
+      "created_utc": 1752499828.0,
+      "replies": [
+        {
+          "id": "n32siai",
+          "author": "itsthreeamyo",
+          "body": "Did they find what they were looking for?",
+          "score": 5,
+          "created_utc": 1752501604.0,
+          "replies": [
+            {
+              "id": "n32w0hu",
+              "author": "mishyfuckface",
+              "body": "They don\u2019t like the things I say. They just wanted to know I was the one saying the things.",
+              "score": 5,
+              "created_utc": 1752502676.0,
+              "replies": [
+                {
+                  "id": "n3360wm",
+                  "author": "itsthreeamyo",
+                  "body": "What a bag dicks.  Had to take your equipment to verify that.  Did you at least get it back?\n\nEdit: I'm assuming that since they left the floppies that they were only taking your shit to harass and disrupt.",
+                  "score": 5,
+                  "created_utc": 1752505587.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n32tshf",
+              "author": "Nekasus",
+              "body": "He's on Reddit so I imagine he either prison pocketed a phone into jail, or he's innocent of whatever the feds were looking into.",
+              "score": 2,
+              "created_utc": 1752502006.0,
+              "replies": [
+                {
+                  "id": "n34c4uw",
+                  "author": "zyphe84",
+                  "body": "Or just a fucking liar",
+                  "score": 4,
+                  "created_utc": 1752517312.0,
+                  "replies": []
+                },
+                {
+                  "id": "n32waem",
+                  "author": "mishyfuckface",
+                  "body": "![gif](giphy|6iIYgInJ3jLva)",
+                  "score": -1,
+                  "created_utc": 1752502758.0,
+                  "replies": [
+                    {
+                      "id": "n33q8wi",
+                      "author": "Muslim_Wookie",
+                      "body": "Can you quit the mystery act and just tell us what it is you say, or tell us you will not tell us what it is you say that had a government raid your home and take all your computers.\n\nEither yes you will tell us or no you won't so this whole comment chain can just stop already.",
+                      "score": 2,
+                      "created_utc": 1752511337.0,
+                      "replies": [
+                        {
+                          "id": "n37gdwh",
+                          "author": "burritolove1",
+                          "body": "The guy is bullshitting, it\u2019s super obvious.",
+                          "score": 1,
+                          "created_utc": 1752554049.0,
+                          "replies": [
+                            {
+                              "id": "n37i51r",
+                              "author": "mishyfuckface",
+                              "body": "Yes disregard my previous comments I was just looking for attention\n\n![gif](giphy|xUStFKHmuFPYk)",
+                              "score": -2,
+                              "created_utc": 1752554850.0,
+                              "replies": [
+                                {
+                                  "id": "n384lgd",
+                                  "author": "Muslim_Wookie",
+                                  "body": "So mysterious <3",
+                                  "score": 2,
+                                  "created_utc": 1752566761.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n32rgts",
+      "author": "livinitup0",
+      "body": "For anyone unaware these options are useful when you\u2019re managing a lot of machines. If someone leaves you can just crypto wipe their device remotely and decommission it. If it\u2019s going to be redeployed but sitting a while, I can remotely wipe it and put it in storage. \n\nThere\u2019s already software that does this to any drive so I\u2019m not sure what benefit an expensive hardware solution brings to an already very enterprise-specific need that currently has multiple solutions.",
+      "score": 5,
+      "created_utc": 1752501281.0,
+      "replies": []
+    },
+    {
+      "id": "n32dmlk",
+      "author": "Legitimate-River-403",
+      "body": "So this how Mission Impossible gets rebooted",
+      "score": 4,
+      "created_utc": 1752496573.0,
+      "replies": []
+    },
+    {
+      "id": "n326ey9",
+      "author": "nicuramar",
+      "body": "What\u2019s the point? Just have it encrypt everything and then wipe the key if needed. I assume this is what the \u201csoftware erase\u201d does. No reason for anything beyond that.\u00a0",
+      "score": 8,
+      "created_utc": 1752493728.0,
+      "replies": [
+        {
+          "id": "n32ne0j",
+          "author": "Abigail716",
+          "body": "With enough motivation it's believed some state level actors can break through most encryption schemes with enough motivation. \n\nI remember reading about 5 years ago that the CIA was concerned about Chinese intelligence being able to break their encryption given enough time. One such solution was exactly this. A system designed to heavily encrypt and wipe a drive with a secondary safety feature designed to activate if you move the computer which would physically destroy the hard drives and memory. \n\nThe advantage of this was it was two stage, even if the destroyed drive wasn't completely destroyed You're now still dealing with heavily wiped and encrypted data. It also meant if you knew what you were doing you could potentially stop it from physically destroying the computer so if it was a false alert you'd still have a viable computer.",
+          "score": 12,
+          "created_utc": 1752499959.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n33effx",
+      "author": "dannyjohnson1973",
+      "body": "Back in the early 2000s HP built self destructing laptops. Gpu reflow issues with the DV series made for quite a problem, laptops would just overheat and die.",
+      "score": 2,
+      "created_utc": 1752508006.0,
+      "replies": []
+    },
+    {
+      "id": "n33yipz",
+      "author": "plaerzen",
+      "body": "I thought emacs had a function to do this already?",
+      "score": 2,
+      "created_utc": 1752513614.0,
+      "replies": []
+    },
+    {
+      "id": "n32crvc",
+      "author": "tlst9999",
+      "body": "\"This message will self-destruct after reading it.\" from cartoons is real",
+      "score": 2,
+      "created_utc": 1752496250.0,
+      "replies": []
+    },
+    {
+      "id": "n32mdho",
+      "author": "mishyfuckface",
+      "body": "I\u2019ll just stick to micro sd cards + eating them\n\nOld dog new tricks and all that",
+      "score": 2,
+      "created_utc": 1752499623.0,
+      "replies": []
+    },
+    {
+      "id": "n32rdbg",
+      "author": "Zipdox",
+      "body": "This is all very pointless. You can just use LUKS and wipe the header.",
+      "score": 2,
+      "created_utc": 1752501250.0,
+      "replies": [
+        {
+          "id": "n35vqiy",
+          "author": "unfugu",
+          "body": "But .. but .. it has a button!",
+          "score": 1,
+          "created_utc": 1752533577.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n33c3hm",
+      "author": "ToMorrowsEnd",
+      "body": "US police will hate these and make them illegal.",
+      "score": 1,
+      "created_utc": 1752507350.0,
+      "replies": []
+    },
+    {
+      "id": "n33ch8h",
+      "author": "enewwave",
+      "body": "Dude what in the Mission: Impossible is this hahaha. \u201cThis SSD will now self destruct.\u201d",
+      "score": 1,
+      "created_utc": 1752507460.0,
+      "replies": []
+    },
+    {
+      "id": "n352y6v",
+      "author": "Tankninja1",
+      "body": "This message will self destruct in five seconds\u2026",
+      "score": 1,
+      "created_utc": 1752524985.0,
+      "replies": []
+    },
+    {
+      "id": "n375cb0",
+      "author": "ovirt001",
+      "body": "Look up SED. This doesn't offer any advantage.",
+      "score": 1,
+      "created_utc": 1752549383.0,
+      "replies": []
+    },
+    {
+      "id": "n3bwha6",
+      "author": "tindalos",
+      "body": "\u201cAnd yes this time I\u2019ll take the extended warranty\u201d",
+      "score": 1,
+      "created_utc": 1752612531.0,
+      "replies": []
+    },
+    {
+      "id": "n3desv6",
+      "author": "melgish",
+      "body": "What a great gimmick to increase sales\u2026\n\n\u201cHey what\u2019s this button do?\u201d\n\u201cNoooooooooooo!\u201d",
+      "score": 1,
+      "created_utc": 1752630320.0,
+      "replies": []
+    },
+    {
+      "id": "n3qzcpi",
+      "author": "Negative-Pie6101",
+      "body": "I prefer thermite, GPIO, a power FET and an e-match..\n\n\"Nuke  it from space.. it's the only way to be sure.\"  \n\\--Ripley",
+      "score": 1,
+      "created_utc": 1752806737.0,
+      "replies": []
+    },
+    {
+      "id": "n32nnqz",
+      "author": "Cute_Bacon",
+      "body": "![gif](giphy|RNeCaJdqMHfTo7YBBS)",
+      "score": 1,
+      "created_utc": 1752500049.0,
+      "replies": []
+    },
+    {
+      "id": "n32ssih",
+      "author": "lordraiden007",
+      "body": "I mean, it basically just triggers the already built-in SATA Secure Erase when a button is pushed? On SSDs that operation takes 2-3 minutes, which seems about right per their demonstration and since they state they\u2019re concerned about power loss midway through the operation. If that\u2019s a real concern, how do they stop people from just unsoldering the NAND and reading the chips directly? Why not just make it a SED with 256-bit keys and have the button wipe the stored keys? That would take the time for data sanitization down to under a second, and it would be just as secure.\n\nThe physical destruction method seems kind of neat, but I don\u2019t see why the drive needs to be the thing sending the high voltage current. Could very easily be a separate module that does the physical destruction. Also, with high voltage current being the method I would worry about partially functional NAND still existing. It might make the drive \u201cundetectable\u201d, but any number of things could cause that. It could have just fried the controller, or the NAND could be only partially destroyed, or the PCB could have been damaged. There\u2019s no real way for them to check if physical destruction worked either, since voltage was the method for destruction. For a device that touts use in secure settings I\u2019d want something more reliable.\n\nThis product seems like the first draft idea that I would have made in my data forensics class in college.",
+      "score": 1,
+      "created_utc": 1752501694.0,
+      "replies": []
+    },
+    {
+      "id": "n32730p",
+      "author": "BaleriontbdIV",
+      "body": "Are these made for pedophiles?",
+      "score": -10,
+      "created_utc": 1752494008.0,
+      "replies": [
+        {
+          "id": "n32ge34",
+          "author": "firstfloor27",
+          "body": "Heaven forfend average people have privacy, especially in the current political climate.",
+          "score": 10,
+          "created_utc": 1752497574.0,
+          "replies": []
+        },
+        {
+          "id": "n32kn8b",
+          "author": "dat_oracle",
+          "body": "there are tons of other criminal activities where this is useful.\n\ntax evasion, fraud and offering torrent content should be the most common I think. \n\nbut well, unfortunately also for storing sick images",
+          "score": 2,
+          "created_utc": 1752499041.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

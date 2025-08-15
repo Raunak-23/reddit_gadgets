@@ -1,0 +1,49 @@
+metric,value
+file,1j801oy.csv
+title,Honda to unveil Pokémon Koraidon motorcycle with moving face
+rows,61
+num_posts,1
+num_comments,60
+unique_authors,58
+max_depth,6
+avg_comment_words,29.77
+median_comment_words,20.0
+max_comment_words,147
+positive_count,16
+negative_count,44
+neutral_count,0
+positive_pct,26.667
+negative_pct,73.333
+neutral_pct,0.0
+topic_1_keywords,"make, move, miraidon, toyota, appear, made, wheels, koraidon"
+topic_1_label,koraidon made by toyota
+topic_2_keywords,"motorcycle, like, one, think, would, yes, actually, neat"
+topic_2_label,motorcycles like one
+topic_3_keywords,"stop, could, think, didnt, whether, preoccupied, engineers, part"
+topic_3_label,engineers could think of a part of the project
+topic_4_keywords,"pokemon, need, youse, japanese, thing, make, motorcycle, see"
+topic_4_label,pokemon need to make a motorcycle
+topic_5_keywords,"us, thats, buy, bike, one, company, like, done"
+topic_5_label,bike buys company
+topic_6_keywords,"trump, japan, attacking, bullshit, things, us, political, country"
+topic_6_label,trump attacks in japan
+top_ngram_1,see country (5)
+top_ngram_2,country achieve (5)
+top_ngram_3,achieve theyre (5)
+top_ngram_4,theyre attacking (5)
+top_ngram_5,attacking bullshit (5)
+top_ngram_6,see country achieve (5)
+top_ngram_7,country achieve theyre (5)
+top_ngram_8,achieve theyre attacking (5)
+top_ngram_9,theyre attacking bullshit (5)
+top_ngram_10,engineers preoccupied (5)
+ner_1,Japan|LOC|15
+ner_2,Trump|PER|15
+ner_3,Miraidon|MISC|8
+ner_4,Toyota|ORG|7
+ner_5,Canada|LOC|5
+ner_6,Koraidon|MISC|5
+ner_7,Akira|ORG|4
+ner_8,Barcelona|LOC|3
+ner_9,US|LOC|2
+ner_10,Pokemon|MISC|2

@@ -1,0 +1,49 @@
+metric,value
+file,1kwo2xx.csv
+title,Miniature Mac is a functional replica of the original 1984 Apple computer
+rows,31
+num_posts,1
+num_comments,30
+unique_authors,24
+max_depth,4
+avg_comment_words,40.63
+median_comment_words,25.5
+max_comment_words,217
+positive_count,1
+negative_count,29
+neutral_count,0
+positive_pct,3.333
+negative_pct,96.667
+neutral_pct,0.0
+topic_1_keywords,"lot, paid, memory, new, 1000, 2600, hell, msrp"
+topic_1_label,msrp paid for a lot of memory
+topic_2_keywords,"right, back, sounds, storage, expensive, crazy, hamsters, dont"
+topic_2_label,hamsters don't like the sound of the back
+topic_3_keywords,"original, mac, usb, still, though, make, functioning, 128k"
+topic_3_label,"original mac, usb, still, but not functioning 128k"
+topic_4_keywords,"floppy, also, cant, disc, required, possibly, 314in, insert"
+topic_4_label,floppy disc inserts may be required
+topic_5_keywords,"screen, pixels, resolution, pixel, crt, true, mac, trying"
+topic_5_label,pixel pixel is a pixel
+topic_6_keywords,"mac, plus, paid, card, ants, thousand, dollars, must"
+topic_6_label,ants and ants in mac
+top_ngram_1,original mac (10)
+top_ngram_2,mac plus (4)
+top_ngram_3,mac also (4)
+top_ngram_4,also required (4)
+top_ngram_5,required insert (4)
+top_ngram_6,insert 314in (4)
+top_ngram_7,314in floppy (4)
+top_ngram_8,floppy disc (4)
+top_ngram_9,disc boot (4)
+top_ngram_10,boot cant (4)
+ner_1,Mac|MISC|14
+ner_2,USB|MISC|6
+ner_3,Mac Plus|MISC|2
+ner_4,L|MISC|2
+ner_5,C64|MISC|2
+ner_6,Mac|ORG|2
+ner_7,McDonalds|ORG|2
+ner_8,Okidata|ORG|2
+ner_9,##SI|MISC|1
+ner_10,M1|MISC|1

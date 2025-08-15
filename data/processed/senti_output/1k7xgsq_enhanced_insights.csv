@@ -1,0 +1,49 @@
+metric,value
+file,1k7xgsq.csv
+title,Old Nest thermostats are about to become dumb: What you need to know
+rows,479
+num_posts,1
+num_comments,478
+unique_authors,312
+max_depth,13
+avg_comment_words,71.87
+median_comment_words,54.0
+max_comment_words,563
+positive_count,34
+negative_count,348
+neutral_count,96
+positive_pct,7.113
+negative_pct,72.803
+neutral_pct,20.084
+topic_1_keywords,"thermostat, home, work, nest, google, still, old, support"
+topic_1_label,thermostat work in home
+topic_2_keywords,"google, people, like, nest, products, gen, want, launched"
+topic_2_label,google likes gen and wants to launch its own web site
+topic_3_keywords,"thermostat, nest, one, years, ecobee, thermostats, google, smart"
+topic_3_label,Google thermostats for nests
+topic_4_keywords,"dont, cloud, would, search, need, know, one, eu"
+topic_4_label,eu search for a cloud
+topic_5_keywords,"like, still, years, use, devices, company, work, smart"
+topic_5_label,smart devices are used in companies
+topic_6_keywords,"doesnt, google, support, source, make, security, tech, mean"
+topic_6_label,Google doesn't support Google's support for security
+top_ngram_1,open source (36)
+top_ngram_2,cyber security (36)
+top_ngram_3,doesnt want (33)
+top_ngram_4,google doesnt (31)
+top_ngram_5,want support (31)
+top_ngram_6,google doesnt want (29)
+top_ngram_7,doesnt want support (29)
+top_ngram_8,home assistant (29)
+top_ngram_9,security needs (29)
+top_ngram_10,cyber security needs (29)
+ner_1,Google|ORG|197
+ner_2,Nest|ORG|62
+ner_3,Ecobee|ORG|26
+ner_4,Honeywell|ORG|20
+ner_5,##ogle|ORG|16
+ner_6,EU|ORG|16
+ner_7,N|MISC|14
+ner_8,google|ORG|12
+ner_9,Europe|LOC|12
+ner_10,N|ORG|10

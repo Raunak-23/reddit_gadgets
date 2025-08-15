@@ -1,0 +1,1049 @@
+{
+  "post": {
+    "title": "TSMC will stop making 7 nm chips for Chinese customers",
+    "author": "a_Ninja_b0y",
+    "id": "1gml4de",
+    "score": 1209,
+    "created_utc": 1731079656.0,
+    "selftext": "",
+    "num_comments": 116,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gml4de/tsmc_will_stop_making_7_nm_chips_for_chinese/"
+  },
+  "comments": [
+    {
+      "id": "lw3fvgg",
+      "author": "invent_or_die",
+      "body": "Oh, but only ASML has the expertise to make 7nm and smaller fabs, and the USA won't allow any exports to China by ASML of the high end equipment. China is a long, long way from recreating this technology.  ASML is allowed to sell older tech to China.",
+      "score": 279,
+      "created_utc": 1731081007.0,
+      "replies": [
+        {
+          "id": "lw4ghhx",
+          "author": "voidvector",
+          "body": "China already make 7nm from ASML equipment. ASML was only blocked on selling EUV equipment to China. ASML has been selling China billion dollars worth of DUV machines. 7nm is the lowest achievable for DUV.\u00a0",
+          "score": 142,
+          "created_utc": 1731091657.0,
+          "replies": [
+            {
+              "id": "lw4q2rk",
+              "author": "StaysAwakeAllWeek",
+              "body": "10nm is the lowest achievable at a cost that makes sense at scale. 5nm is the lowest theoretically achievable outright. 7nm is where they have got down to so far, and it's already only possible with subsidies",
+              "score": 79,
+              "created_utc": 1731094511.0,
+              "replies": [
+                {
+                  "id": "lw5me14",
+                  "author": "danielv123",
+                  "body": "I mean, considering they now have no alternative for 7nm production, I guess subsidies aren't needed anymore, the cost is just what it is?",
+                  "score": 26,
+                  "created_utc": 1731104444.0,
+                  "replies": [
+                    {
+                      "id": "lw6kit3",
+                      "author": "StaysAwakeAllWeek",
+                      "body": "In most cases it will make more sense to produce 10nm chips and just make more of them. The time it takes a DUV machine to produce a 7nm wafer is literally double what it is for 10nm, and the chips are a nowhere near twice as fast. \n\n7nm is mostly a propaganda exercise for China, hence the subsidies",
+                      "score": 10,
+                      "created_utc": 1731116271.0,
+                      "replies": [
+                        {
+                          "id": "ly9ke9x",
+                          "author": "RockyCreamNHotSauce",
+                          "body": "For some applications, it still makes sense to produce 7nm at an inefficient cost because of application requires it? Like phones and car AI chips which have calculation speed requirements.",
+                          "score": 1,
+                          "created_utc": 1732206344.0,
+                          "replies": [
+                            {
+                              "id": "ly9ko94",
+                              "author": "StaysAwakeAllWeek",
+                              "body": "Phones yes, laptops too. Probably not datacenter AI chips though. The total computation you can get out of the fab is maximised at 10nm. At 7nm you're trading off less total compute due to much lower production rates for better power efficiency",
+                              "score": 1,
+                              "created_utc": 1732206430.0,
+                              "replies": [
+                                {
+                                  "id": "ly9mdfr",
+                                  "author": "RockyCreamNHotSauce",
+                                  "body": "Chinese EVs are designing their own compute chips to replace Nvidia Orins. Just wondering if they can source it domestically. Sounds like they can, just at a higher cost than Taiwan foundries.",
+                                  "score": 1,
+                                  "created_utc": 1732206958.0,
+                                  "replies": [
+                                    {
+                                      "id": "ly9mtqm",
+                                      "author": "StaysAwakeAllWeek",
+                                      "body": "Tesla and Waymo have both realised that our previous estimates for the compute needed to make self driving work were way too low. It's really out of the reach of even a 7nm based system, barring some massive unforseen software optimisation advancements",
+                                      "score": 1,
+                                      "created_utc": 1732207100.0,
+                                      "replies": [
+                                        {
+                                          "id": "ly9o8vq",
+                                          "author": "RockyCreamNHotSauce",
+                                          "body": "Only if you design it like a large E2E model, I think you need to split off the tasks into a large number of models. It can still be E2E, just smaller models handling each part of inference work. Then you can just have more chips. China's ADAS leader XPeng just said in their AI day, they estimate 3000 TOPS is required for L4 robotaxi. They are moving away from Nvidia because Orins are general purpose not optimized for NNs. Sounds like they are planning to put a large number of chips into their robotaxi.",
+                                          "score": 1,
+                                          "created_utc": 1732207534.0,
+                                          "replies": [
+                                            {
+                                              "id": "ly9pkmy",
+                                              "author": "StaysAwakeAllWeek",
+                                              "body": "Both Tesla and Waymo already design and use their own dedicated AI chips to go alongside and/or replace the Nvidia ones. The Waymo system in particular is hideously expensive, using tons of chips that pull several kilowatts altogether, and like I said even that's not enough\n\n>3000 TOPS is required for L4 robotaxi.\n\nNot great when their competitors are targeting L5 and it's generally agreed by the industry that anything other than L2 and L5 is just not safe.",
+                                              "score": 1,
+                                              "created_utc": 1732207934.0,
+                                              "replies": [
+                                                {
+                                                  "id": "ly9x5hv",
+                                                  "author": "RockyCreamNHotSauce",
+                                                  "body": "Waymo is really L4 though. Remote operators can help out stuck units. If you get good enough in L4, it would take far less operators than vehicles. L5? I doubt Waymo plans to get rid of their remote helpers. Probably needs road sensors as an infrastructure to get to true L5.",
+                                                  "score": 1,
+                                                  "created_utc": 1732210199.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "ly9ywk6",
+                                                      "author": "StaysAwakeAllWeek",
+                                                      "body": "Waymo is L4 because they still don't have the compute to make L5 happen. Tesla think they can get there by 2026-2027, and my guess is Waymo will be similar. All of that is dependent on large amounts of sub-2nm silicon. China just can't compete",
+                                                      "score": 1,
+                                                      "created_utc": 1732210718.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "lya4z8o",
+                                                          "author": "RockyCreamNHotSauce",
+                                                          "body": "We'll see. Tesla has been trying to get FSD into China with regulator support. (Because Elon is very popular there.) It is failing to get through basic tests. XPeng and Huawei are excellent ADAS systems already, arguably closest to L4 without geo-fenced lidar mapping like Waymo and Baidu. One advantage to Chinese is that the sanctions are porous. They have no problem accessing H100 for training. For onboard inference, is 2nm really going to make a difference? It might not matter because you are reacting to events in real time. Having a 2nm just means you can stack bigger models, but bigger models can mean slower reactions.",
+                                                          "score": 1,
+                                                          "created_utc": 1732212496.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "lya5sh8",
+                                                              "author": "StaysAwakeAllWeek",
+                                                              "body": "For L5 absolutely everything has to be in the vehicle. You can't rely on any remote computation because it has to remain functional in the event of a connection outage. Even if you assume the connection is flawless it still doesn't work because you can't go in a tunnel",
+                                                              "score": 1,
+                                                              "created_utc": 1732212738.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "lya7x1v",
+                                                                  "author": "RockyCreamNHotSauce",
+                                                                  "body": "For AI, you have a training datacenter, usually H100s nowadays. When you have trained a working model, you load it onto the vehicle. So there are two separate chips when it comes to ADAS, training versus inference.",
+                                                                  "score": 1,
+                                                                  "created_utc": 1732213375.0,
+                                                                  "replies": [
+                                                                    {
+                                                                      "id": "lya83m5",
+                                                                      "author": "StaysAwakeAllWeek",
+                                                                      "body": "Yea and the ADAS chips we currently have **are not strong enough** to run a model of the size needed.\n\nStill going in circles",
+                                                                      "score": 1,
+                                                                      "created_utc": 1732213430.0,
+                                                                      "replies": []
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "id": "lya5woc",
+                                                              "author": "StaysAwakeAllWeek",
+                                                              "body": ">bigger models can mean slower reactions.\n\nWhich is why you need exponentially faster chips. Youre so close to getting it lol",
+                                                              "score": 1,
+                                                              "created_utc": 1732212773.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "lya7h8g",
+                                                                  "author": "RockyCreamNHotSauce",
+                                                                  "body": "Or you can achieve speed by having smaller models. I'm not convinced stacking bigger and bigger models can achieve higher intelligence. Or we'd be seeing GPT6 by now. Instead, the smaller models are improving at a much faster pace. Despite the enormous compute advantages US holds, the LLM model capabilities between US and Chinese ones are pretty close, neck-to-neck essentially.",
+                                                                  "score": 1,
+                                                                  "created_utc": 1732213244.0,
+                                                                  "replies": [
+                                                                    {
+                                                                      "id": "lya7xle",
+                                                                      "author": "StaysAwakeAllWeek",
+                                                                      "body": "You stack small models into lots of smaller expensive chips or a large model that actually works into a smaller number of larger expensive chips. The models currently in use are plenty fast enough reacting and they just aren't big enough to do complete L5 (and remember that's already using chips much stronger than China can produce). Bigger models are just necessary and there's no getting around that",
+                                                                      "score": 1,
+                                                                      "created_utc": 1732213380.0,
+                                                                      "replies": [
+                                                                        {
+                                                                          "id": "lya8pmw",
+                                                                          "author": "RockyCreamNHotSauce",
+                                                                          "body": "Agree to disagree. Bigger models have flaws too that they are much more difficult to train. If a model does one aspect out of a thousand ADAS tasks incorrectly, there's no way to selectively fix the flaw in a large model. More training can easily fix that one aspect then break a different one. More smaller models is the path forward not bigger models.",
+                                                                          "score": 0,
+                                                                          "created_utc": 1732213614.0,
+                                                                          "replies": [
+                                                                            {
+                                                                              "id": "lya8wdb",
+                                                                              "author": "StaysAwakeAllWeek",
+                                                                              "body": "You can agree to disagree with the entire trillion dollar industry of millions of researchers working on this problem then",
+                                                                              "score": 1,
+                                                                              "created_utc": 1732213670.0,
+                                                                              "replies": [
+                                                                                {
+                                                                                  "id": "lyaaewh",
+                                                                                  "author": "RockyCreamNHotSauce",
+                                                                                  "body": "That is not an equivalent statement though. I was saying ADAS problem specifically needs to be broken down to smaller models, because it is a real-time problem. If GPT doesn't answer you in time, or it makes a mistake and hallucinates an answer, you don't die. And the dimensions of the problem is exponentially more complex than a language model problem. LLM is at the core a creative problem. Language itself by design have a contextual relationship. ADAS is a precision, accuracy, and speed problem. The fact you have to turn right to avoid death is not at all contextually related to how you were driving 2 seconds before.",
+                                                                                  "score": 1,
+                                                                                  "created_utc": 1732214123.0,
+                                                                                  "replies": []
+                                                                                },
+                                                                                {
+                                                                                  "id": "lyabwbw",
+                                                                                  "author": "RockyCreamNHotSauce",
+                                                                                  "body": "And you can be sure out of the trillion dollar industry. The majority will be fluff to get rich out of a phenomenon without true scientific understanding of the technology. And that's fine, because it is how we progress. The real AI breakthrough recently was AlphaFold that can map a protein structure quickly when it took years of research before. ChatGPT was not the real breakthrough. A dozen almost as good chat bots launched just months after. Where's GPT5? I give it 60% chance OpenAI is not going to give us anything interesting.",
+                                                                                  "score": 1,
+                                                                                  "created_utc": 1732214568.0,
+                                                                                  "replies": []
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lw95pu7",
+                          "author": "CASyHD",
+                          "body": "You do know that for example the newest Huawei Phone uses Chinese made 7nm Chips?",
+                          "score": 0,
+                          "created_utc": 1731163326.0,
+                          "replies": [
+                            {
+                              "id": "lw95vpn",
+                              "author": "StaysAwakeAllWeek",
+                              "body": "Yes, those are heavily subsidised by the Chinese government, and also if theres any place where those expensive to produce chips could make sense it's in a high end phone. The compute you can get out of the fab is a lot lower but the chips are still more power efficient",
+                              "score": 0,
+                              "created_utc": 1731163386.0,
+                              "replies": [
+                                {
+                                  "id": "lw9f8lx",
+                                  "author": "shot_ethics",
+                                  "body": "Even if the compute (flops) per hour of fab machine time is worse with 7 nm, surely the power efficiency is better? Seems like 7 nm is the better choice for mobile",
+                                  "score": 0,
+                                  "created_utc": 1731166660.0,
+                                  "replies": [
+                                    {
+                                      "id": "lw9g446",
+                                      "author": "StaysAwakeAllWeek",
+                                      "body": "At the high end yes, but think about it personally, would you pay double the price for a phone that's 20% faster with the same battery?",
+                                      "score": 1,
+                                      "created_utc": 1731166954.0,
+                                      "replies": [
+                                        {
+                                          "id": "lwcu3fg",
+                                          "author": "shot_ethics",
+                                          "body": "It\u2019s the processor price, not the whole phone price. The cost of the processor has been estimated to be about 50 dollars using the 3 nm process. The processor is about ten percent of the total cost. \n\nYou could reduce to 2-3 percent with a 10 nm process, but IMO not worth both the speed and the power utilization. \n\nhttps://www.androidheadlines.com/2024/10/iphone-16-pro-maxs-bom-reveals-a-manufacturing-cost-of-485.html",
+                                          "score": 1,
+                                          "created_utc": 1731208508.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lw716gd",
+                  "author": "tacosforpresident",
+                  "body": "Cost isn\u2019t a factor to China when they\u2019re doing AI regressions for state needs. If they need the performance and can get the process to 5nm then they\u2019ll be running at 5nm.",
+                  "score": 2,
+                  "created_utc": 1731122552.0,
+                  "replies": [
+                    {
+                      "id": "lw71hxk",
+                      "author": "StaysAwakeAllWeek",
+                      "body": "Cost is always a factor, saying it's not is just a misunderstanding of what cost even is. The total compute you can get out of a DUV fab is much higher making 10nm chips than it is making 7nm or 5nm. Datacenter AI is not at all the place they'd want to push past 10nm. It's pretty much exclusively high end phones and laptops that really benefit to that extent from the smallest possible node",
+                      "score": 9,
+                      "created_utc": 1731122682.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m8b6phm",
+                  "author": "CautiousMagazine3591",
+                  "body": "How many 7 nm chips do you think they've already made?",
+                  "score": 1,
+                  "created_utc": 1737442162.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lw59xwc",
+              "author": "invent_or_die",
+              "body": "Yes, but no more spare parts for DUV",
+              "score": 0,
+              "created_utc": 1731100537.0,
+              "replies": [
+                {
+                  "id": "lw5gqtv",
+                  "author": "your-move-creep",
+                  "body": "But China stock piled on DUV. They will not need spare parts for another decade or so. They\u2019re estimated to have about 300 DUV equipments.\n\nhttps://www.digitimes.com/news/a20231210VL200/weekly-news-roundup-asml-amd-duv-china-huawei-samsung-sk-hynix-nvidia.html",
+                  "score": 8,
+                  "created_utc": 1731102655.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lw7oqsg",
+              "author": "M0therN4ture",
+              "body": "Kind of. But the DUV 7nm is just a fancy term for 10nm with some adaptation on the DUV machine to mimic EUV 7nm. \n\nIts nowhere close an actual EUV 7nm chip.",
+              "score": -1,
+              "created_utc": 1731133863.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lw6a2qn",
+          "author": "Initial_E",
+          "body": "Come January the re$trictions will be completely negotiable.",
+          "score": 6,
+          "created_utc": 1731112549.0,
+          "replies": []
+        },
+        {
+          "id": "lw87sm2",
+          "author": "Goukaruma",
+          "body": "Is this post from 5 years ago?",
+          "score": 3,
+          "created_utc": 1731146190.0,
+          "replies": []
+        },
+        {
+          "id": "lw69syh",
+          "author": "oktano_",
+          "body": "You are definitely a very naive person to think that.",
+          "score": -2,
+          "created_utc": 1731112453.0,
+          "replies": []
+        },
+        {
+          "id": "lw45on9",
+          "author": "Perfect_Opinion7909",
+          "body": "You're aware that ASML is a dutch/EU company? The USA allow or won't allow shit because they're not in a position to demand anything from an EU company. The EU/NL/ASML does what the USA nicely asks them to do but that can change.\n\nWhy is that distinction relevant? Because Trump. If the USA gets snotty we have a few levers to pull.",
+          "score": -54,
+          "created_utc": 1731088496.0,
+          "replies": [
+            {
+              "id": "lw49276",
+              "author": "trav_dawg",
+              "body": "If you think USA is powerless to control Dutch company you're delusional. And disclaimer, I'm not American",
+              "score": 70,
+              "created_utc": 1731089483.0,
+              "replies": []
+            },
+            {
+              "id": "lw4omnp",
+              "author": "doobnerd",
+              "body": "There are certain parts of the ASML machine that are American IP, so they have to comply with US laws.",
+              "score": 24,
+              "created_utc": 1731094076.0,
+              "replies": [
+                {
+                  "id": "lw5omqk",
+                  "author": "RevolutionaryCoyote",
+                  "body": "Specifically the EUV light source was developed by Cymer, which ASML acquired.",
+                  "score": 5,
+                  "created_utc": 1731105168.0,
+                  "replies": []
+                },
+                {
+                  "id": "lw701il",
+                  "author": "VikingBorealis",
+                  "body": "In a trade war. No one cares anymore.",
+                  "score": 1,
+                  "created_utc": 1731122092.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lw47asm",
+              "author": "invent_or_die",
+              "body": "Very aware, and I don't believe it's a \"gentleman's agreement\". ITAR, and national security arrangements govern.",
+              "score": 20,
+              "created_utc": 1731088962.0,
+              "replies": [
+                {
+                  "id": "lw47umc",
+                  "author": "Perfect_Opinion7909",
+                  "body": "r/shitamericanssay.\n\nYeah they \"govern\". They govern the US as ITAR is an US law despite its moniker. You know other countries have their own laws? Is it so difficult to grasp that US laws and regulations aren't world law? As for treaties: If the US breaks treaties, other can do so too.",
+                  "score": -37,
+                  "created_utc": 1731089125.0,
+                  "replies": [
+                    {
+                      "id": "lw4gds2",
+                      "author": "triklyn",
+                      "body": "at a certain point, you must surely realize that geopolitics is essentially a giant game of extortion and barely concealed threats no?  talk about international law, when push comes to shove, the dutch company might rebel from enacting US foreign policy, but will the dutch government? how about the consumer countries that the US might 'convince' to take an unfriendly view of the company not playing ball?\n\nthe US is the prime mover in geopolitics because it has the biggest guns and one of the largest economies in the world, and those facts reinforce each other to maintain it that way.",
+                      "score": 27,
+                      "created_utc": 1731091627.0,
+                      "replies": [
+                        {
+                          "id": "lw4jv9h",
+                          "author": "Perfect_Opinion7909",
+                          "body": "For now. And there are other big players rising. Gamble all your soft power away and see what happens. The USA had a lot of soft power because of its security involvement in Europe. It's losing this power fast as its allies realize they can't rely on them any longer or even worse they turn form an ally to an adversary. Then the USA will see that its former allies aren't entirely toothless. ASML is one piece in the toolkit the EU has.",
+                          "score": -15,
+                          "created_utc": 1731092657.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lw4g3hd",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 11,
+                      "created_utc": 1731091542.0,
+                      "replies": [
+                        {
+                          "id": "lw70g55",
+                          "author": "VikingBorealis",
+                          "body": "There are some things the US can't stop the trade of.  Chips is definitely one of them since they don't have their own foundries, and if they did they would be under control by ASML anyway who could remote brick them",
+                          "score": -1,
+                          "created_utc": 1731122256.0,
+                          "replies": [
+                            {
+                              "id": "lw8ev2s",
+                              "author": "None",
+                              "body": "[deleted]",
+                              "score": 5,
+                              "created_utc": 1731150833.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lw4afaa",
+                      "author": "invent_or_die",
+                      "body": "What motivation would EU have selling defense sensitive technology to China?\nCertainly not money.",
+                      "score": 10,
+                      "created_utc": 1731089886.0,
+                      "replies": [
+                        {
+                          "id": "lw4fpdx",
+                          "author": "mcmurray89",
+                          "body": "Trump making the US more isolated.",
+                          "score": 2,
+                          "created_utc": 1731091428.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw4fsna",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 13,
+              "created_utc": 1731091455.0,
+              "replies": [
+                {
+                  "id": "lw4p0hn",
+                  "author": "dave7673",
+                  "body": "They don\u2019t even need to \u201cpressure them\u201d to revoke those licenses. They can flat out force them to do so by revoking their export license via ITAR.  \n\nExport controls don\u2019t just affect the export of physical objects or even software, it also affects intellectual property.",
+                  "score": 8,
+                  "created_utc": 1731094191.0,
+                  "replies": [
+                    {
+                      "id": "lw70m0w",
+                      "author": "VikingBorealis",
+                      "body": "And in a trade war licenses mean nothing and the US stopping this would leave the US without chips as well... Catch 22",
+                      "score": 1,
+                      "created_utc": 1731122322.0,
+                      "replies": [
+                        {
+                          "id": "lw7rzxt",
+                          "author": "CosmicCreeperz",
+                          "body": "No it wouldn\u2019t.  It would force the company to sell to US/Taiwanese/EU companies only, which it would do or go out of business.\n\nNo one is going to force it to the level of withholding IP-protected tech needed for national security, or the US and others will just invalidate the patents and let other companies build whatever they want.",
+                          "score": 1,
+                          "created_utc": 1731135808.0,
+                          "replies": [
+                            {
+                              "id": "lw82e0s",
+                              "author": "VikingBorealis",
+                              "body": "Really... Because US with no foundries of its own could force what is basically THE foundry company who could remotely brick any their few foundries into not doing business with anyone? Much less afford to not do business with them? \n\nIt's a catch 22 for the US.",
+                              "score": 1,
+                              "created_utc": 1731142537.0,
+                              "replies": [
+                                {
+                                  "id": "lw84ccx",
+                                  "author": "CosmicCreeperz",
+                                  "body": "Why do you think the US has no foundries of its own?  That\u2019s not true at all.",
+                                  "score": 1,
+                                  "created_utc": 1731143857.0,
+                                  "replies": [
+                                    {
+                                      "id": "lw84suy",
+                                      "author": "VikingBorealis",
+                                      "body": "Really? Is that why the US is desperately building new foundries to reduce dependence on Taiwan, except builing fou dries takes a lot of time.\n\nAnd even the old foundries that are there can be remote bricked by ASML",
+                                      "score": 2,
+                                      "created_utc": 1731144167.0,
+                                      "replies": [
+                                        {
+                                          "id": "lw85idt",
+                                          "author": "CosmicCreeperz",
+                                          "body": "Have you heard of Intel?  Micron?  TI?  Globalfoundries ? Even Samsung and TSMC have fabs in the US now.  And a bunch more under construction.\n\nBesides, unless China nukes Taiwan, it\u2019s not like there is any issue.  Taiwan is totally dependent on the US to exist.  And I\u2019m pretty sure China doesn\u2019t want to start a trade war, let alone WW3.\n\nYou make no sense.",
+                                          "score": 1,
+                                          "created_utc": 1731144651.0,
+                                          "replies": [
+                                            {
+                                              "id": "lw86bwu",
+                                              "author": "VikingBorealis",
+                                              "body": "Old fans yes. USA is still reliant on Taiwan. And those US fans are still using hardware by ASML who owns and controls the control software",
+                                              "score": 0,
+                                              "created_utc": 1731145204.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw4erne",
+              "author": "Mikeeexerxert",
+              "body": "Doesn\u2019t the US universities own the patents for technologies used in ASML?",
+              "score": 7,
+              "created_utc": 1731091156.0,
+              "replies": [
+                {
+                  "id": "lw4fgox",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 0,
+                  "created_utc": 1731091359.0,
+                  "replies": [
+                    {
+                      "id": "lw4g5sj",
+                      "author": "Mikeeexerxert",
+                      "body": "Oooof I just hope no one starts a patent war for it.",
+                      "score": 3,
+                      "created_utc": 1731091561.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lw3umho",
+      "author": "trainbrain27",
+      "body": "For comparison, iPhones use 3nm chips and China can make 7nm and even some 5nm, but it costs much more.\n\nThe only company that makes the Extreme UltraViolet lithography machines that make the chips is Dutch, and they will not sell to China.  Once the ones already in China fail, they probably can't make any more 7nm chips.",
+      "score": 51,
+      "created_utc": 1731085288.0,
+      "replies": [
+        {
+          "id": "lw3xt73",
+          "author": "kylansb",
+          "body": "ASML will provide maintain and services to existing machine in china. so last part you mentioned is not true.",
+          "score": 33,
+          "created_utc": 1731086215.0,
+          "replies": [
+            {
+              "id": "lw5mbxj",
+              "author": "skuple",
+              "body": "For DUV not EUV",
+              "score": 8,
+              "created_utc": 1731104425.0,
+              "replies": [
+                {
+                  "id": "lw6k9dk",
+                  "author": "kylansb",
+                  "body": "EUV doesn't exist in china, so obviously for DUV",
+                  "score": 3,
+                  "created_utc": 1731116176.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lw5114p",
+              "author": "Luxferrae",
+              "body": "I've heard they will not, and will be sanctioned by the US if they do",
+              "score": -6,
+              "created_utc": 1731097838.0,
+              "replies": [
+                {
+                  "id": "lw52hft",
+                  "author": "kylansb",
+                  "body": "they have to, china is their 2nd largest market, they are only sanctioned if they supply china with the latest EUV lithography machine.",
+                  "score": 4,
+                  "created_utc": 1731098285.0,
+                  "replies": [
+                    {
+                      "id": "lw53f02",
+                      "author": "Luxferrae",
+                      "body": "Looks like it's still discussion in progress. Will likely happen with the orange man now elected though \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n\nhttps://www.bloomberg.com/news/articles/2024-08-29/the-netherlands-to-put-more-curbs-on-asml-s-china-chip-business?embedded-checkout=true",
+                      "score": 0,
+                      "created_utc": 1731098566.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw45bef",
+              "author": "trainbrain27",
+              "body": "Unless China gets out of line.\n\nOf course, we'll have a lot of problems at that point.",
+              "score": -11,
+              "created_utc": 1731088390.0,
+              "replies": [
+                {
+                  "id": "lw50i8r",
+                  "author": "kylansb",
+                  "body": "and where is that line exactly, cause so far the west hasn't really done much if at all to curtail china's ambition.",
+                  "score": 2,
+                  "created_utc": 1731097676.0,
+                  "replies": [
+                    {
+                      "id": "lw57enw",
+                      "author": "trainbrain27",
+                      "body": "I'm not in charge of any nation's policy, and I generally agree with you, but I bet if China started killing large numbers of people in other countries (you know, actual hot war), they'd find their support contracts to be somewhat unenforceable.  That's what I was trying to say.",
+                      "score": -8,
+                      "created_utc": 1731099766.0,
+                      "replies": [
+                        {
+                          "id": "lw62hbv",
+                          "author": "mad-hatt3r",
+                          "body": "Like Americans allow Israel to do? Where are the sanctions there? Some moral high horse you're on. China doesn't have several hundred military bases around the world to support their military industrial complex but you think they're the aggressors?",
+                          "score": 15,
+                          "created_utc": 1731109888.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lw3eibv",
+      "author": "SpicyRice99",
+      "body": "This feels like a mistake...  Are we further encouraging China to develop their own fabs? Sure it will be a US advantage for now but long term?",
+      "score": 104,
+      "created_utc": 1731080606.0,
+      "replies": [
+        {
+          "id": "lw3jy5u",
+          "author": "None",
+          "body": "China has been trying to develop their own advanced fabs for decades.\n\nThe only way you'll get advanced fabs currently is EUV tech made by ASML, who is currently not selling to them. The machinery that ASML produces is so complex that their services after delivery is their most important selling point. These end companies are getting help from the direct engineers who built and modeled these projects for the past 30-40 years. Even if China gets a piece of this tech from them, the engineers will not help them\n\nChina will have to sink billions upon billions of dollars in education and R&D for the production of advanced chip making",
+          "score": 121,
+          "created_utc": 1731082204.0,
+          "replies": [
+            {
+              "id": "lw48xkt",
+              "author": "-ChrisBlue-",
+              "body": "The way it was explained to me was that currently, the US strategy is to knock out a tiny piece of chip manufacturing for the chinese.\u00a0\n\nThan the chinese push all their efforts to fill in that one hole, either with work arounds or developing the technology. Once China figures out the work around, the US knock out another tiny piece.\u00a0\u00a0\n\nThe end results is the best possible set of training wheels for Chinese designers.\u00a0\n\nThis is in opposition to just pushing over the entire house of cards (US banning all chip tech to China) or not doing anything and let them start from the base of the mountain of superior imports.",
+              "score": 19,
+              "created_utc": 1731089445.0,
+              "replies": [
+                {
+                  "id": "lw4qk43",
+                  "author": "YetAnotherWTFMoment",
+                  "body": "The US banning all chip tech would be counterproductive. Both sides would get into a tit for tat war that the US would lose.    The ultimate trump card China has - REM.",
+                  "score": 4,
+                  "created_utc": 1731094656.0,
+                  "replies": [
+                    {
+                      "id": "m0e79n1",
+                      "author": "app385",
+                      "body": "already in a tit-for-tat.",
+                      "score": 1,
+                      "created_utc": 1733331730.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lw8rn0i",
+                  "author": "A-B5",
+                  "body": "China will never catch up. By the time they figure one gap out, the goal posts have moved 50 yards.",
+                  "score": -1,
+                  "created_utc": 1731157644.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lw3kqra",
+              "author": "SpicyRice99",
+              "body": "Thanks for the insight.\n\nBtw fun fact Cymer (now part of ASML) charges a fee each time a customer fires their laser! (For certain lasers, I'm sure). I assume it's for maintenance costs or something. \n\nSomething I learned from the intern presentations at my school, just blew my mind.",
+              "score": 48,
+              "created_utc": 1731082435.0,
+              "replies": [
+                {
+                  "id": "lw4wk1s",
+                  "author": "HankisDank",
+                  "body": "Another UCSD optics enjoyer spotted in the wild! But yeah ASML has such a powerful monopoly that they can charge what ever maintenance and running fees they want and manufactures just have to eat it",
+                  "score": 23,
+                  "created_utc": 1731096464.0,
+                  "replies": [
+                    {
+                      "id": "lw5juc3",
+                      "author": "SpicyRice99",
+                      "body": "Lmao, if you take any of the classes there's a 50% chance I know you",
+                      "score": 8,
+                      "created_utc": 1731103628.0,
+                      "replies": [
+                        {
+                          "id": "lw5m9ot",
+                          "author": "HankisDank",
+                          "body": "I graduated in 23 with my EE MS focused in photonics. Good luck with the courses!",
+                          "score": 10,
+                          "created_utc": 1731104404.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lw7vmbh",
+                      "author": "ja20n123",
+                      "body": "So kind of like the McDonald\u2019s ice cream machines",
+                      "score": 1,
+                      "created_utc": 1731138085.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw5ssxn",
+              "author": "buubrit",
+              "body": "ASML itself relies heavily on Tokyo Electron for components. \n\nIt\u2019s not completely vertically integrated as you make it out to be.",
+              "score": 6,
+              "created_utc": 1731106540.0,
+              "replies": []
+            },
+            {
+              "id": "lw41jyf",
+              "author": "Trextrev",
+              "body": "Which they are doing, but what return they are getting is hard to say. A Taiwanese tech guy said despite the impression in western media travel between the countries is not an issue and China has been actively trying to poach people to work to develop their tech. And lots of people have been poached because they are offering salaries 3x of what they get paid in Taiwan. \n\nPaying ridiculously high salaries to hire in the knowledge is probably far cheaper than and faster than developing yourself.",
+              "score": 18,
+              "created_utc": 1731087305.0,
+              "replies": [
+                {
+                  "id": "lw4gdh4",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 5,
+                  "created_utc": 1731091624.0,
+                  "replies": [
+                    {
+                      "id": "lw4wm3a",
+                      "author": "Trextrev",
+                      "body": "Depends on who they poach. They might not be built in Taiwan but the machines are there, and poaching someone who they think has critical data somewhere that they can either convince them to share or covertly get access to through them is a huge boost. China isn\u2019t great at innovating and ground up design , but over this last decade they have made a lot of progress in their technical capabilities in a lot of related fields. If they can gain access to the data, they will throw massive resources at it until they can make a close copy. Might not be tomorrow, but quicker than I think people will give them credit for. \n\nI know not equivalent in their technical requirements, but their jet fighter advances are very impressive. They went from under powered poor performing jets based off stolen US designs 15 years ago. To managing to secure full f35 plans and produce a near peer. from what US intelligence implies a plane nearing the f-35s flight performance, its stealth capabilities are unknown. That means they have seemingly fixed their quality control, their substandard metallurgy, precision manufacturing tolerances, in ten years. \n\nI know it\u2019s easy to scoff at them, and yeah for some reason they like to show every less than perfect iteration of something and way over state its capabilities. But then one day show up with a perfected version.",
+                      "score": 12,
+                      "created_utc": 1731096481.0,
+                      "replies": [
+                        {
+                          "id": "lw555kx",
+                          "author": "wordfool",
+                          "body": "Indeed. Buying knowledge and stealing technology has been finessed by the Chinese over the past decades and we underestimate that country's engineering prowess at our peril IMO, not least because of the vast resources in terms of people and money they can throw at projects. \"Move fast and break things\" but on a massive scale. Their achilles heel (now that they have probably improved engineering QC) is probably corruption, which often becomes endemic when vast bureaucratic ventures meet limitless money.",
+                          "score": 3,
+                          "created_utc": 1731099089.0,
+                          "replies": [
+                            {
+                              "id": "lw583kt",
+                              "author": "Trextrev",
+                              "body": "Xi doesn\u2019t tolerate unsanctioned corruption. All independent companies that work in free economic zones do so at the sole permission of the communist party, and every company is required to have an executive position party compliance officer who also holds power on the board and can enforce policies to insure the company is upholding the values of the party. \n\nIt\u2019s why I said bullshit when TikTok tried to say they are independent of the government. No one is. \n\nAny company or ceo that doesn\u2019t meet the standards can have all assets seized with absolutely no recourse. \n\nAnd in the past when corruption caused cuts creating subpar infrastructure, and there was loss of life, they seized the company and all of the ceos assets then promptly executed him. \n\nLow level wheel greasing sort of corruption is pretty common, but if you cut into any of the parties money they do not play one bit.",
+                              "score": 4,
+                              "created_utc": 1731099976.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw737n6",
+              "author": "BreathPuzzleheaded80",
+              "body": "\\> China has been trying to develop their own advanced fabs for decades.\n\nTimes have changed. They had no reason to go all in since they could just buy whatever they needed before the restrictions.\n\nAlso, China had a smaller GDP than Italy 25 years ago.",
+              "score": 4,
+              "created_utc": 1731123385.0,
+              "replies": []
+            },
+            {
+              "id": "lw3zm0y",
+              "author": "YourHomicidalApe",
+              "body": "> China will need to sink billions upon billions of dollars\n\nThey will, and it will be a blip to them. I work in the industry and I understand how complex the technologies around semi manufacturing are. I also understand that China is a massive, rich and highly educated nation that is more than willing to use espionage and spend absurd amounts of money to catch up. I don\u2019t see it taking more than 5-10 years for them to fully catch up if they are highly motivated (and if they can\u2019t get their chips anywhere else, they will be).",
+              "score": 28,
+              "created_utc": 1731086741.0,
+              "replies": [
+                {
+                  "id": "lw440xi",
+                  "author": "dw444",
+                  "body": "Already have, and continue to. Some of the numbers make CHIPS act look like amateur hour. 10-15 years is a pretty reasonable time frame for them to catch up.",
+                  "score": 13,
+                  "created_utc": 1731088020.0,
+                  "replies": [
+                    {
+                      "id": "lw5ncra",
+                      "author": "danielv123",
+                      "body": "Last I checked it seems they have been announcing chip development grants in the same size order as the chips act every few years for a while now. Not to mention that money stretches further over there.",
+                      "score": 3,
+                      "created_utc": 1731104755.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lw4801y",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -4,
+                      "created_utc": 1731089170.0,
+                      "replies": [
+                        {
+                          "id": "lw490z5",
+                          "author": "dw444",
+                          "body": "Yeah, that bet went so well with renewable power, networking infrastructure, stealth planes, EVs, and batteries. They\u2019ll have homegrown EUV machines in 5-7 years. 10-15 years is the time needed to achieve parity with the best the west has at the time, and potentially developing their own standards that diverge from western ones.",
+                          "score": 9,
+                          "created_utc": 1731089473.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw4pv2u",
+              "author": "YetAnotherWTFMoment",
+              "body": "I'll bet China gets there within 5 years, at which point the technology may have moved on...but there will come a point where China will be peer level.",
+              "score": 3,
+              "created_utc": 1731094446.0,
+              "replies": [
+                {
+                  "id": "lw60oiu",
+                  "author": "mad-hatt3r",
+                  "body": "They're investing in photonics and graduate more engineers every year than we have. We're fighting yesterday's war, keeping ahead without investing more in education will be impossible. The Chinese government invests in long-term plans, we have two parties that obstruct and bicker until the next cycle",
+                  "score": 1,
+                  "created_utc": 1731109251.0,
+                  "replies": [
+                    {
+                      "id": "lw7skwu",
+                      "author": "CosmicCreeperz",
+                      "body": "Masses of engineering new college grads taught things that don\u2019t help with new tech development doesn\u2019t really help.\n\nThis isn\u2019t a movie.  Throwing more useless green engineers at a problem does nothing.  They need academic experts in the field doing cutting edge R&D.  Plus more industrial spies, which is probably how they\u2019ll really crack it.",
+                      "score": -2,
+                      "created_utc": 1731136170.0,
+                      "replies": [
+                        {
+                          "id": "lw80lfg",
+                          "author": "mad-hatt3r",
+                          "body": "Pejoratives like stealing are lazy, protective of the American exceptionalism narrative?  China's leading in many metrics, including green energy and transportation. You don't think they have experts? They've \"learned\" enough from manufacturing, now they're innovating and perfecting. Underestimate them if you like, but it seems you're just spouting stupid arrogance. Go back to supplying genocidal weapons, that's what you're good at",
+                          "score": 2,
+                          "created_utc": 1731141333.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw7mxfv",
+              "author": "gorbot",
+              "body": "Check out Canons nano imprint tech. EUV by ASML is the only way that has succeeded in practice but there are other ways",
+              "score": 1,
+              "created_utc": 1731132812.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lw3go6k",
+          "author": "manamara1",
+          "body": "China will develop sooner or later. Probably sooner irrespective of any ban. \n\nThe key is encouraging the development ecosystem in the west. This ecosystem was outsourced and will a challenge to reintroduce. \n\nSaw a documentary on the US going to Korea to encourage shipbuilders to assist the US build navy ships. The outsourcing overtime has reduced the ecosystem for industry in multiple fields",
+          "score": 18,
+          "created_utc": 1731081242.0,
+          "replies": []
+        },
+        {
+          "id": "lw61vkf",
+          "author": "AbsoluteZeroUnit",
+          "body": "As opposed to what?\n\nJust letting them have it?\n\nAre you thinking of some scenario where there is a US advantage that lasts forever?\n\nIf you can't ensure that you'll stay at #1 forever, the best thing you can do is at least make it harder for others to catch up.",
+          "score": 1,
+          "created_utc": 1731109675.0,
+          "replies": []
+        },
+        {
+          "id": "lw3fu2d",
+          "author": "Woodworkin101",
+          "body": "We should give China as little tech as possible and make them spend their own time on making it, while we improve it. That is how we can stay ahead of them.",
+          "score": -9,
+          "created_utc": 1731080996.0,
+          "replies": []
+        },
+        {
+          "id": "lw3jur2",
+          "author": "Fairuse",
+          "body": "US wants a war with China to distract from domestic issues.",
+          "score": -4,
+          "created_utc": 1731082176.0,
+          "replies": []
+        },
+        {
+          "id": "lw7xynq",
+          "author": "armykcz",
+          "body": "You think they are not trying already? Silly you",
+          "score": 0,
+          "created_utc": 1731139592.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lw5djal",
+      "author": "heickelrrx",
+      "body": "These trade ban is stupid, it\u2019s threatening world peace",
+      "score": 22,
+      "created_utc": 1731101662.0,
+      "replies": []
+    },
+    {
+      "id": "lw4gwxb",
+      "author": "CanadianLynx",
+      "body": "It doesn\u2019t matter when China inevitably catches up and surpasses TSMC. The US and the west will just slap on tariffs like they are doing to the more advanced Chinese EVs. It was never about the free market, it was about protecting corporate interests.",
+      "score": -2,
+      "created_utc": 1731091785.0,
+      "replies": [
+        {
+          "id": "lw4q9qu",
+          "author": "Deep-Neck",
+          "body": "kiss plate quiet rustic beneficial slap historical husky resolute whistle\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+          "score": -14,
+          "created_utc": 1731094570.0,
+          "replies": [
+            {
+              "id": "lw4zud6",
+              "author": "CanadianLynx",
+              "body": "TSMC has a de facto monopoly on advanced microprocessors, how is protecting them from foreign competition beneficial to the free market? If anything this is a textbook case of protectionism and will undoubtedly lead to higher costs for both Western and Chinese consumers. The greater implication is that the US is using TMSC as a proxy in its trade war with China.",
+              "score": 13,
+              "created_utc": 1731097473.0,
+              "replies": [
+                {
+                  "id": "lw58vce",
+                  "author": "got-trunks",
+                  "body": "no sane person in the western world would trust Chinese-made microprocessors right now anyway.\n\nPosted from my Huawei P20 Pro lmao. \n\nBesides, the only other viable fabs are Samsung in Korea or Intel in the US and EU. TI and GF have valid and important fabs, but are nowhere in the ballpark of the others mentioned.",
+                  "score": -2,
+                  "created_utc": 1731100210.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lw4adc8",
+      "author": "WangMangDonkeyChain",
+      "body": "no they won\u2019t\u00a0",
+      "score": 2,
+      "created_utc": 1731089870.0,
+      "replies": [
+        {
+          "id": "lw58i2a",
+          "author": "got-trunks",
+          "body": "They would not be doing it out of the goodness of their hearts, it just means they found bookings for fab time and don't need the business. Spin it for PR, compliance, and Taiwan hates China anyway.",
+          "score": 2,
+          "created_utc": 1731100098.0,
+          "replies": []
+        },
+        {
+          "id": "lw5zlxn",
+          "author": "migueliiito",
+          "body": "Well reported article says otherwise, what\u2019s your source?",
+          "score": 1,
+          "created_utc": 1731108878.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lw7xmqo",
+      "author": "BigOrbitalStrike",
+      "body": "China chips are just 3 years behind TSMC. It\u2019s not a sprint. It\u2019s a marathon. China proves time and time again sabotaging their rise just has the opposite effect. When arrogant Amerikkka denied China a place in the ISS how did that go? \ud83d\udca9\ud83c\uddfa\ud83c\uddf8\ud83d\udca9",
+      "score": 0,
+      "created_utc": 1731139376.0,
+      "replies": []
+    },
+    {
+      "id": "lw88e56",
+      "author": "BillyBobBanana",
+      "body": "Ooooooh they not gonna like that",
+      "score": 1,
+      "created_utc": 1731146592.0,
+      "replies": []
+    },
+    {
+      "id": "lw4adto",
+      "author": "ceacar",
+      "body": "don't worry. trump will step up soon. China will have unlimited supply of chips very soon.",
+      "score": -13,
+      "created_utc": 1731089874.0,
+      "replies": []
+    },
+    {
+      "id": "lw53ol6",
+      "author": "ChiefTestPilot87",
+      "body": "It\u2019s ok, the Chinese probably already stole the IP to do it themselves",
+      "score": -14,
+      "created_utc": 1731098646.0,
+      "replies": []
+    }
+  ]
+}

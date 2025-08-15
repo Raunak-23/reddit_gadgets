@@ -1,0 +1,471 @@
+{
+  "post": {
+    "title": "Bankrupt Futurehome suddenly makes its smart home hub a subscription service",
+    "author": "diacewrb",
+    "id": "1mc61em",
+    "score": 429,
+    "created_utc": 1753778018.0,
+    "selftext": "",
+    "num_comments": 56,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1mc61em/bankrupt_futurehome_suddenly_makes_its_smart_home/"
+  },
+  "comments": [
+    {
+      "id": "n5rcmts",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Luckeep X1 ebike!\n\n[https://www.reddit.com/r/gadgets/comments/1ltu5rz/luckeep_x_rgadgets_giveaway_win_a_brandnew/?)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1753778018.0,
+      "replies": []
+    },
+    {
+      "id": "n5ref0e",
+      "author": "Musicman1972",
+      "body": "I wouldn't buy anything 'smart ' that doesn't have a local and open API.\n\nEven if the company doesn't go bankrupt they all orphan products that are otherwise perfectly useable. \n\nIt's just eWaste in disguise from the moment it's produced.",
+      "score": 281,
+      "created_utc": 1753779064.0,
+      "replies": [
+        {
+          "id": "n5t00ck",
+          "author": "ch_limited",
+          "body": "This is what I learned very quickly about a decade ago and my enthusiasm for smart home technology rapidly dissipated. Now what I use is unfortunately from the biggest brands that are sketchy in other ways and I still know that it will just turn to garbage overnight even though it\u2019s still perfectly good.",
+          "score": 13,
+          "created_utc": 1753801699.0,
+          "replies": [
+            {
+              "id": "n5vncce",
+              "author": "hirscheyyaltern",
+              "body": "Use home assistant",
+              "score": 5,
+              "created_utc": 1753828731.0,
+              "replies": [
+                {
+                  "id": "n61r83g",
+                  "author": "Lake_Erie_Monster",
+                  "body": "This is all fine but getting a proper working smart speaker with it is difficult",
+                  "score": 1,
+                  "created_utc": 1753908920.0,
+                  "replies": []
+                },
+                {
+                  "id": "n636ps2",
+                  "author": "LaconicLacedaemonian",
+                  "body": "Tell that to the companies bricking 3rd party access",
+                  "score": 1,
+                  "created_utc": 1753925638.0,
+                  "replies": [
+                    {
+                      "id": "n63x52x",
+                      "author": "hirscheyyaltern",
+                      "body": "well if 3rd party companies didnt brick access we wouldnt need home assistant now would we (i'd prolly still use it though cause its amazing)",
+                      "score": 1,
+                      "created_utc": 1753935767.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n5wv6vx",
+              "author": "emelbard",
+              "body": "Went all in 10 years ago only to have it slowly go off line and become useless. Really sapped my enthusiasm until I discovered home assistant a few months ago and Its all back and better than ever. All open source too",
+              "score": 1,
+              "created_utc": 1753843718.0,
+              "replies": []
+            },
+            {
+              "id": "n65hjor",
+              "author": "dgj212",
+              "body": "Same, thankfully for people who are into it, there's tons of videos online on how to make stuff smart on your own. Still it's saddening the amount of people who still go for this stuff, like the folks who signed up to get a free TV that spies on them and feeds them ads whenever it detects they are around.",
+              "score": 1,
+              "created_utc": 1753964245.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n5sb0zd",
+          "author": "Znuffie",
+          "body": "Well, most of the IoT/\"smart\" stuff *does not* have a local/open API.",
+          "score": 35,
+          "created_utc": 1753794088.0,
+          "replies": [
+            {
+              "id": "n5sezhi",
+              "author": "tajetaje",
+              "body": "Zigbee/zwave, rtsp, ovif, there are a lot of well documented smart devices.cita just the internet/WiFi dependent shit that floods the market",
+              "score": 50,
+              "created_utc": 1753795414.0,
+              "replies": []
+            },
+            {
+              "id": "n5stg68",
+              "author": "EconomyDoctor3287",
+              "body": "Tasmota can be flashed on a fair amount of \"smart\" devices.\u00a0",
+              "score": 14,
+              "created_utc": 1753799829.0,
+              "replies": [
+                {
+                  "id": "n5t0mke",
+                  "author": "Znuffie",
+                  "body": "That's great, but I'm not seeing myself JTAG-flash my IoT devices.",
+                  "score": 9,
+                  "created_utc": 1753801875.0,
+                  "replies": [
+                    {
+                      "id": "n5t3lyx",
+                      "author": "EconomyDoctor3287",
+                      "body": "Yeah, it gets annoying real fast having to use a TTL adapter to get any connection for the initial flashing",
+                      "score": 6,
+                      "created_utc": 1753802716.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n5sjvn8",
+              "author": "shifty_coder",
+              "body": "Not natively, but it\u2019s a problem being attacked on two fronts: the people lobbying to require the industry provide an offline or \u2018end-of-life\u2019 solution, and the people reverse-engineering devices to homebrew solutions that spoof the dedicated services.",
+              "score": 8,
+              "created_utc": 1753796982.0,
+              "replies": []
+            },
+            {
+              "id": "n5sbr37",
+              "author": "SmokelessSubpoena",
+              "body": "I was going to say, _so like the entire market_? Because _openware_ is far from the norm, gatekeeping is what created billionaires",
+              "score": 5,
+              "created_utc": 1753794337.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n5u3eo2",
+          "author": "Moessus",
+          "body": "Can't they close the API whenever they feel like it? I think Ecobee did this.",
+          "score": 3,
+          "created_utc": 1753812568.0,
+          "replies": []
+        },
+        {
+          "id": "n5rx70f",
+          "author": "NotARussianBot-Real",
+          "body": "Smartphones are dead. None of the players could learn to work with each other. None of the players could build an actual end to end system that worked good enough.",
+          "score": -18,
+          "created_utc": 1753788855.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n5rgf2r",
+      "author": "rnilf",
+      "body": "> As of June 26, though, those core features require a 1,188 NOK (about $116.56) annual subscription fee, turning the smart home devices into dumb ones if users don't pay up.\n\nHome Assistant running on a home server > cloud-based bullshit\n\nEvery. Single. Time.\n\nFOSS, no internet required, no subscription, more control. Need I go on?",
+      "score": 77,
+      "created_utc": 1753780233.0,
+      "replies": [
+        {
+          "id": "n5sb7ra",
+          "author": "Znuffie",
+          "body": "> FOSS, no internet required, no subscription, more control. Need I go on?\n\nHaOS has a *huge* entry barrier and it's not for the faint of heart. \n\nI keep seeing people suggesting HA in these kinds of threads, but it's really not simple for the average consumer.",
+          "score": 29,
+          "created_utc": 1753794153.0,
+          "replies": [
+            {
+              "id": "n5sgmng",
+              "author": "dakoellis",
+              "body": "Forgive me if im missing something due to my comfort with servers, but is it still a difficult entry?  I'm someone who has been using home assistant for years so I remember a bunch of the difficulties in getting setup, but now they have hardware you can purchase, and you can control everything via gui right? what's hard for an average consumer to deal with at this point? this is a legitimate question, not an argument\n\nedit: fixed a word",
+              "score": 11,
+              "created_utc": 1753795951.0,
+              "replies": [
+                {
+                  "id": "n5t7pty",
+                  "author": "schmidtyb43",
+                  "body": "9 out of 10 people will even be confused with you saying GUI, let alone setting up a home server",
+                  "score": 8,
+                  "created_utc": 1753803873.0,
+                  "replies": [
+                    {
+                      "id": "n5tmneu",
+                      "author": "dakoellis",
+                      "body": "Have you seen home assistant green?  It's basically an appliance you plug in and setup like one of those app based routers or a chromecast or something. You don't need to setup a server with it, and you don't need to know what GUI means to be able to use one",
+                      "score": 3,
+                      "created_utc": 1753808032.0,
+                      "replies": [
+                        {
+                          "id": "n5x20te",
+                          "author": "TheBeatGoesAnanas",
+                          "body": "I know what GUI means and I'd never heard of Home Assistant before opening this thread one minute ago.",
+                          "score": 0,
+                          "created_utc": 1753846407.0,
+                          "replies": [
+                            {
+                              "id": "n5yvy5m",
+                              "author": "dakoellis",
+                              "body": "So you're the target customer for Home Assistant Green? Not sure what the relevance is for that statement",
+                              "score": 3,
+                              "created_utc": 1753879161.0,
+                              "replies": [
+                                {
+                                  "id": "n5z3njj",
+                                  "author": "TheBeatGoesAnanas",
+                                  "body": "The relevance is that not knowing things like Home Assistant even exist is part of the barrier to entry for most people.",
+                                  "score": 2,
+                                  "created_utc": 1753881750.0,
+                                  "replies": [
+                                    {
+                                      "id": "n5zhxgi",
+                                      "author": "dakoellis",
+                                      "body": "advertising isn't part of a barrier to entry. A barrier to entry is whether or not you have the tools you need to climb a wall to start using a product. lack of advertising means you don't know the wall is even there",
+                                      "score": 1,
+                                      "created_utc": 1753886129.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "n5sjeqz",
+                  "author": "qa3rfqwef",
+                  "body": "You're coming at it from the perspective of someone with experience running a server.\n\nJust setting up a server, buying the hardware, choosing your OS like Unraid or TrueNAS, figuring out the right components for your Home Assistant, getting the software running on whatever Linux kernel/distro you\u2019re using, is already a massive barrier to entry compared to something you just buy, turn on, and walk through a first-time setup with.\n\nThere's a lot of knowledge and effort needed to do what you're saying. All my friends who are pretty nerdy, most have or could build their own gaming PC definitely have no idea how to build/run a server, never mind someone who maybe only uses a computer for their work sometimes.\n\nHow many average consumers even truly understand what a home server is?",
+                  "score": 23,
+                  "created_utc": 1753796836.0,
+                  "replies": [
+                    {
+                      "id": "n5skhs6",
+                      "author": "AmericanBillGates",
+                      "body": "Home assistant Yellow is a little appliance.  Plug and play.\n\nHome assistant still benefits from a savvy user buy its getting easier.  The hardware is a non issue with the yellow project at least .",
+                      "score": 12,
+                      "created_utc": 1753797171.0,
+                      "replies": [
+                        {
+                          "id": "n5slgd3",
+                          "author": "qa3rfqwef",
+                          "body": "This is cool. Probably not idiot proof yet but something like this does greatly reduce entry barrier, not looked into the space in a bit and didn't know of devices like these. Thanks for sharing.",
+                          "score": 4,
+                          "created_utc": 1753797465.0,
+                          "replies": [
+                            {
+                              "id": "n5sqb0f",
+                              "author": "AmericanBillGates",
+                              "body": "Apparently there is yellow and green now.  Green is the friendlier version while yellow still lets you tinker a bit with the hardware.\n\nHave a good day.",
+                              "score": 5,
+                              "created_utc": 1753798910.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "n5vvoqk",
+                              "author": "DragonSlayerC",
+                              "body": "The green is practically idiot proof. Just plug in power and Ethernet and it works. The yellow that was mentioned in the original comment does require a small amount of assembly, but it's easy and straight forward enough that even most non-tech people could probably do it.",
+                              "score": 3,
+                              "created_utc": 1753831420.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "n5ssokc",
+                      "author": "dakoellis",
+                      "body": "yeah Home Assistant Green is what I was talking about. it seems like a very similar setup to a lot of other commercial home automation hubs where you just plug it in and don't have to worry about any of the things you mention in the first paragraph, but I can't say for certain since I haven't used it",
+                      "score": 2,
+                      "created_utc": 1753799609.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n5tmcuw",
+                  "author": "Znuffie",
+                  "body": "I think the target for HA Yellow/Green is people who are already invested/familiar with the ecosystem.\n\nYou don't really want to buy an appliance to realize then it doesn't really do what you want/doesn't fix your issue.\n\nI'm also very familiar with servers, as Linux servers have been my career in the last 15+ years, but...\n\n---\n\nSome bits of my adventure:\n\nWanted to install it on a small SBC I have, but where I already run stuff. Unfortunately that's not really possible: it is it's own OS, which may or may not support my SBC.\n\nYou can, obviously, use the Docker version, but that's extremely limited to the devices/integrations supported, as you can't really add extra addons to it.\n\nBecause I do work, professionally, with all sort of virtualizations techs and have access to many resources, I do not really keep extra PCs/servers around my house, so I didn't really have another target to slap it on... except my PC, where I do my work but I *also* run VMWare Workstation Pro.\n\nSo, the obvious solution is to download the OVA and import it. Downloaded... done. Ok, importing fails.\n\nWhy does it fail? Well, something about sha checksum missmatch. OVA are just zip files, so let's unpack it...\n\nUnpacked, checked the `.manifest` file, sha checksum was a match to the vmdk file (disk image), so no idea why it failed/complained. Had to delete the `.manifest` to be able to import it.\n\nOnce that was done, it booted just fine, more or less and I had it running on my network in bridge mode.\n\nFirst of all: didn't really \"see\" any of my IoT devices -- the only thing it automatically detected was my Android TV. \n\nSo I had to manually add my devices/integrations.\n\nFirst was Sensibo -- it's a shit device btw, but it's the most accurate temperature/humidity sensor I have *right now* in my house.\n\nFor that, I had to... create an API key on the Sensibo website and then add it manually. No local control, it seems, all trough the Cloud?\n\nNext was the AC.\n\nThe \"local\" module for my AC is no longer working (some firmware versions no work), so you need to use the cloud.\n\nSo this is the only one working: https://github.com/maeek/ha-aux-cloud\n\n...but to install that, I first need to install HACS.\n\n...which is not just clicking a button, and that actually annoyed me a bit, 'cause it wasn't exactly intuitive, even after I installed the... installer for it.\n\nThe 3rd part was just me having to write an automation for the stuff I wanted, but that was also a pain, because the \"point and click\" builder wasn't sufficient, so I had to do YAML.\n\nAgain: I'm a \"happy\" case because I have all the tech knowledge behind, but a \"normal\" person wants shit to just work.",
+                  "score": 1,
+                  "created_utc": 1753807952.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n5se0c8",
+              "author": "sockgorilla",
+              "body": "Especially when the alternative is getting up and turning the lights on",
+              "score": 3,
+              "created_utc": 1753795090.0,
+              "replies": []
+            },
+            {
+              "id": "n5vvacf",
+              "author": "DragonSlayerC",
+              "body": "Home Assistant Green is plug and play though. Literally just plug in the power cord and an Ethernet cable and configure through a web browser or the app.",
+              "score": 1,
+              "created_utc": 1753831288.0,
+              "replies": []
+            },
+            {
+              "id": "n5stsr6",
+              "author": "EconomyDoctor3287",
+              "body": "What's the deal with HA? Never used it myself, I run everything through Nodered and then MQTT for the communication. And then the important parts get a telegram bot integration.\n\n\nAm I missing out on something by not using HA?",
+              "score": 1,
+              "created_utc": 1753799930.0,
+              "replies": [
+                {
+                  "id": "n5t0cye",
+                  "author": "Znuffie",
+                  "body": "Vibrant community that churns out custom integrations.\n\nFor example, my AC requires me to use the native app, and has no local control possibility.\n\n...but someone made an integration for HA, which, while still uses their cloud, allows me to still control the AC unit and it does so with all the functions available.\n\nThere's obviously other/3rd party stuff I could use (like IR blasters) to control it, but it doesn't really handle all the functions my AC has, which is frustrating.",
+                  "score": 2,
+                  "created_utc": 1753801800.0,
+                  "replies": []
+                },
+                {
+                  "id": "n5xx2zx",
+                  "author": "ClassicGOD",
+                  "body": "HA integrates beautifully with Node-Red. I run HA as a GUI and a glue that ties all the integrations together but I do all my automations in Node-Red. All HA devices and actions are available in NR and you can expose nodes (like a button to trigger some script, or a sensor with data processed by NR) to HA and use them in the HA interface. It is amazing.",
+                  "score": 2,
+                  "created_utc": 1753862144.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n5swkp6",
+      "author": "At0micBomberman",
+      "body": "Louis Rossmann has great videos about this topic and he offer $5,000 bounty to free these ransomed customers:\n\n[https://youtu.be/RwSkwh3nWv8?si=caJLlR\\_-i3u5C3O0](https://youtu.be/RwSkwh3nWv8?si=caJLlR_-i3u5C3O0)",
+      "score": 10,
+      "created_utc": 1753800724.0,
+      "replies": []
+    },
+    {
+      "id": "n5rcyql",
+      "author": "ActRegarded",
+      "body": "Probably to help in liquidation.",
+      "score": 12,
+      "created_utc": 1753778214.0,
+      "replies": [
+        {
+          "id": "n5rf6pn",
+          "author": "DigitalStefan",
+          "body": "My understanding is the owner / boss / higher up of the original company has another company that now owns the product and the new company is charging subscription.\n\nLuis Rossman and now some other org has put a bounty out to effectively unlink the hardware from the service, with the aim of allowing customers to continue to use the device they paid for without being held hostage.\n\nAllegedly. In my opinion.",
+          "score": 23,
+          "created_utc": 1753779512.0,
+          "replies": [
+            {
+              "id": "n5smk3n",
+              "author": "flow_fighter",
+              "body": "This is how it works in the IP/patent world. \n\nCompany A performs poorly after x amount of time, but still retains licenses or patents or assets on potentially useful items in the future. \n\nCompany A files for bankruptcy, having to sell off all assets. \n\nCompany B is formed, and generally happens to come along with the same owner/executives, and buys up all of the IP/assets of Company A. \n\n\nA good and fairly recent example of this is GI Sportz Paintball who just recently filed for bankruptcy, and all assets were sold off to (lo and behold) \u201cKore Outdoor\u201d, a sister company to GI that was relatively dormant until GI went bankrupt.",
+              "score": 6,
+              "created_utc": 1753797800.0,
+              "replies": []
+            },
+            {
+              "id": "n5sluo5",
+              "author": "Trev0matic",
+              "body": "Yeah, that tracks. Feels like the usual play sell the hardware, then lock features behind a paywall later. Glad Rossman\u2019s on it",
+              "score": 6,
+              "created_utc": 1753797585.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n5rrytk",
+      "author": "NoPresent9027",
+      "body": "I\u2019m just waiting until Alexa wakes up and tells me to turn off my own damn lights\u2026",
+      "score": 8,
+      "created_utc": 1753786484.0,
+      "replies": []
+    },
+    {
+      "id": "n5sstu6",
+      "author": "RecommendationSure25",
+      "body": "They built the ability to make it a subscription service into their platform and sold a product under false pretenses they should be closed down and prosecuted frankly",
+      "score": 3,
+      "created_utc": 1753799651.0,
+      "replies": [
+        {
+          "id": "n6aewnl",
+          "author": "ra__account",
+          "body": "It's legally no longer the same company. The original one went bankrupt and their assets/IP were purchased by the new one. There weren't false pretenses, it just turned out to be economically unviable.",
+          "score": 2,
+          "created_utc": 1754019411.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n5uk2hs",
+      "author": "Kyosji",
+      "body": "Correct me if I'm wrong, but haven't companies been successfully sued by converting services sold as a non subscription into subscription service under the premise of false advertising?",
+      "score": 4,
+      "created_utc": 1753817232.0,
+      "replies": [
+        {
+          "id": "n6afdpl",
+          "author": "ra__account",
+          "body": "It's legally no longer the same company. The original one went bankrupt and their assets/IP were purchased by the new one. There weren't false pretenses, it just turned out to be economically unviable.",
+          "score": 2,
+          "created_utc": 1754019613.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n5sn1iy",
+      "author": "veteran_squid",
+      "body": "Louis Rossmann has a couple of videos on this. https://youtu.be/RwSkwh3nWv8?si=vWo2IXDEu-uLzR4O",
+      "score": 2,
+      "created_utc": 1753797947.0,
+      "replies": []
+    },
+    {
+      "id": "n5uwi4q",
+      "author": "intellifone",
+      "body": "This is why all smart devices in my home are Matter/Thread compatible.",
+      "score": 2,
+      "created_utc": 1753820771.0,
+      "replies": []
+    },
+    {
+      "id": "n5ub45v",
+      "author": "Colonel-KWP",
+      "body": "Oh, so they want people to throw them in the trash?",
+      "score": 1,
+      "created_utc": 1753814716.0,
+      "replies": [
+        {
+          "id": "n5vspti",
+          "author": "Opetyr",
+          "body": "They entice you with it being free. Make another company. Bankrupt the original and then want you to pay for the thing you have paid thousands for because it would cost even more money than the subscription to replace everything that is now subscription based.",
+          "score": 2,
+          "created_utc": 1753830461.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n5s6q7a",
+      "author": "jb6997",
+      "body": "Just close the business.",
+      "score": 1,
+      "created_utc": 1753792586.0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1j97rv0.csv
+title,iRobot launches eight new Roombas and finally adds lidar mapping
+rows,130
+num_posts,1
+num_comments,129
+unique_authors,97
+max_depth,9
+avg_comment_words,55.5
+median_comment_words,39.0
+max_comment_words,249
+positive_count,16
+negative_count,113
+neutral_count,0
+positive_pct,12.403
+negative_pct,87.597
+neutral_pct,0.0
+topic_1_keywords,"robot, stuck, vacuum, patent, get, doesnt, hes, patents"
+topic_1_label,patents for robots stuck in vacuum
+topic_2_keywords,"lidar, roborock, roombas, thing, irobot, half, blows, shark"
+topic_2_label,irobots blow up sharks
+topic_3_keywords,"years, vacuum, robot, im, first, much, roomba, chinese"
+topic_3_label,chinese robots first vacuum in a few years
+topic_4_keywords,"like, clean, robot, could, roborocks, anything, bunch, one"
+topic_4_label,"roborocks like clean, could, roborocks"
+topic_5_keywords,"roborock, one, models, roomba, would, product, engineers, make"
+topic_5_label,roborock model would be made in roomba
+topic_6_keywords,"two, fuck, year, s9, fail, week, times, irobot"
+topic_6_label,iRobints fail in week
+top_ngram_1,fuck irobot (16)
+top_ngram_2,irobot spent (14)
+top_ngram_3,spent 1500 (14)
+top_ngram_4,1500 s9 (14)
+top_ngram_5,s9 camera (14)
+top_ngram_6,camera fail (14)
+top_ngram_7,fail year (14)
+top_ngram_8,year help (14)
+top_ngram_9,help probably (14)
+top_ngram_10,probably ran (14)
+ner_1,iRobot|ORG|29
+ner_2,Rob|MISC|17
+ner_3,Roborock|ORG|13
+ner_4,Roomba|ORG|9
+ner_5,Roborock|MISC|8
+ner_6,Xiaomi|ORG|8
+ner_7,Dwayne|PER|7
+ner_8,Amazon|ORG|7
+ner_9,Roomba|MISC|6
+ner_10,##ck|MISC|5

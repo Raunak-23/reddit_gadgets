@@ -1,0 +1,49 @@
+metric,value
+file,1hbrqpv.csv
+title,The Dream of Spotify Car Thing Is Being Kept Alive by Devoted Tinkerers | Why let a good thing die just because the company who made it declared it dead?
+rows,77
+num_posts,1
+num_comments,76
+unique_authors,59
+max_depth,5
+avg_comment_words,68.47
+median_comment_words,45.5
+max_comment_words,512
+positive_count,3
+negative_count,29
+neutral_count,44
+positive_pct,3.947
+negative_pct,38.158
+neutral_pct,57.895
+topic_1_keywords,"car, head, cars, like, screen, lot, controls, unit"
+topic_1_label,Cars like the controls on the head of a unit
+topic_2_keywords,"device, product, refund, use, kill, ago, old, right"
+topic_2_label,a device that is used to kill a person
+topic_3_keywords,"car, thing, buy, spotify, shit, cant, anymore, gadgets"
+topic_3_label,"Cars, gadgets, gadgets"
+topic_4_keywords,"thing, like, people, firmware, open, source, car, said"
+topic_4_label,i like people and firmware
+topic_5_keywords,"companies, keep, development, force, could, law, open, legislation"
+topic_5_label,"companies keep, could, law"
+topic_6_keywords,"things, happen, though, car, needs, mean, tablet, computers"
+topic_6_label,a tablet is a tablet
+top_ngram_1,car thing (27)
+top_ngram_2,open source (11)
+top_ngram_3,source firmware (10)
+top_ngram_4,open source firmware (10)
+top_ngram_5,force companies (10)
+top_ngram_6,isnt always (9)
+top_ngram_7,always viablelegal (9)
+top_ngram_8,viablelegal option (9)
+top_ngram_9,isnt always viablelegal (9)
+top_ngram_10,always viablelegal option (9)
+ner_1,Car Thing|MISC|15
+ner_2,Spotify|ORG|8
+ner_3,Spotify|MISC|7
+ner_4,Blue|MISC|4
+ner_5,America|LOC|3
+ner_6,##ify|ORG|3
+ner_7,##dit|ORG|3
+ner_8,Car|MISC|3
+ner_9,Red|MISC|3
+ner_10,Spot|MISC|3

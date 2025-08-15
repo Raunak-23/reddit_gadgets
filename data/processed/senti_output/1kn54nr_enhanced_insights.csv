@@ -1,0 +1,45 @@
+metric,value
+file,1kn54nr.csv
+title,This dental floss can tell you how stressed you are | Researchers develop a new dental flosser aiming to make it easier to monitor stress by monitoring the chemistry of your saliva.
+rows,46
+num_posts,1
+num_comments,45
+unique_authors,41
+max_depth,2
+avg_comment_words,28.09
+median_comment_words,18.0
+max_comment_words,123
+positive_count,9
+negative_count,36
+neutral_count,0
+positive_pct,20.0
+negative_pct,80.0
+neutral_pct,0.0
+topic_1_keywords,"stressed, youre, tell, know, floss, say, fact, go"
+topic_1_label,"if you're stressed, say something you're not sure"
+topic_2_keywords,"stress, levels, medical, bankruptcy, everyday, keeps, event, healthy"
+topic_2_label,"stress, health, health"
+topic_3_keywords,"could, flossing, make, test, simple, gadgets, pcr, unnecessary"
+topic_3_label,flossing is a simple way to make a simple pcr
+topic_4_keywords,"dental, stress, dont, floss, get, something, would, trying"
+topic_4_label,flossing is a stress-relief
+topic_5_keywords,"floss, dental, plastic, microplastics, use, sheds, used, also"
+topic_5_label,floss used in dental and plastic sheds
+topic_6_keywords,"stressed, know, im, need, really, dont, people, tell"
+topic_6_label,stressing people dont tell
+top_ngram_1,dont need (9)
+top_ngram_2,dental floss (9)
+top_ngram_3,dont know (7)
+top_ngram_4,know im (7)
+top_ngram_5,stress levels (6)
+top_ngram_6,stressed dont (6)
+top_ngram_7,really need (6)
+top_ngram_8,need medical (5)
+top_ngram_9,medical event (5)
+top_ngram_10,event away (5)
+ner_1,Arabian|MISC|1
+ner_2,Floss|PER|1
+ner_3,Marvel|ORG|1
+ner_4,Scientologist|MISC|1
+ner_5,Toms of Maines|ORG|1
+ner_6,Tony Stark|PER|1

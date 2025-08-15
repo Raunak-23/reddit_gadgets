@@ -1,0 +1,49 @@
+metric,value
+file,1gjh61r.csv
+title,Hackers Achieve the Inevitable: They Got Nintendo’s Alarmo to Play Doom
+rows,83
+num_posts,1
+num_comments,82
+unique_authors,52
+max_depth,10
+avg_comment_words,35.28
+median_comment_words,30.0
+max_comment_words,146
+positive_count,13
+negative_count,69
+neutral_count,0
+positive_pct,15.854
+negative_pct,84.146
+neutral_pct,0.0
+topic_1_keywords,"inevitable, kitchen, running, would, digital, mainstream, sinks, become"
+topic_1_label,digital kitchen sinks become inevitable
+topic_2_keywords,"doom, play, test, screen, like, pregnancy, claims, lot"
+topic_2_label,doom plays on screen
+topic_3_keywords,"run, doom, anything, get, swear, wrong, designed, introduced"
+topic_3_label,'Doom' introduced to the public
+topic_4_keywords,"running, doom, run, power, really, potatoes, one, like"
+topic_4_label,"Doom, potatoes, potatoes"
+topic_5_keywords,"fsb, dx2, mhz, overdrive, pentium, really, running, yeah"
+topic_5_label,"fsb overdrive, mhz overdrive, pentium"
+topic_6_keywords,"doom, alarmo, meme, back, released, machine, libraries, skyrim"
+topic_6_label,adolescent meme back released in skyrim
+top_ngram_1,doom run (15)
+top_ngram_2,play doom (13)
+top_ngram_3,run anything (12)
+top_ngram_4,pregnancy test (11)
+top_ngram_5,get doom (10)
+top_ngram_6,doom like (10)
+top_ngram_7,play doom like (10)
+top_ngram_8,swear get (9)
+top_ngram_9,swear get doom (9)
+top_ngram_10,get doom run (9)
+ner_1,Doom|MISC|28
+ner_2,DOOM|ORG|8
+ner_3,Alarmo|MISC|6
+ner_4,Sun|LOC|6
+ner_5,C|MISC|5
+ner_6,##rim|ORG|4
+ner_7,D|MISC|4
+ner_8,Doom|ORG|4
+ner_9,Sky|MISC|4
+ner_10,Nintendo|ORG|3

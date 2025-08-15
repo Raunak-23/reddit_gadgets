@@ -1,0 +1,49 @@
+metric,value
+file,1gkzhol.csv
+title,"Nvidia is making a new PC CPU to take on Intel, AMD, and Apple, says report | The gaming GPU maker reportedly has a new consumer PC Arm CPU in the works, set to challenge the AMD Ryzen and Intel Core duopoly."
+rows,287
+num_posts,1
+num_comments,286
+unique_authors,191
+max_depth,11
+avg_comment_words,74.7
+median_comment_words,47.0
+max_comment_words,634
+positive_count,38
+negative_count,218
+neutral_count,30
+positive_pct,13.287
+negative_pct,76.224
+neutral_pct,10.49
+topic_1_keywords,"intel, nvidia, amd, want, better, people, cpu, market"
+topic_1_label,nvidia want better in cpu
+topic_2_keywords,"pcie, cards, see, like, dont, theyre, performance, integrated"
+topic_2_label,card games like don 't theyre
+topic_3_keywords,"would, cpu, gpu, much, design, computer, pc, central"
+topic_3_label,gpu design and pc design
+topic_4_keywords,"arm, windows, microsoft, factor, apple, think, even, already"
+topic_4_label,"Windows, microsoft, factor, even"
+topic_5_keywords,"arm, really, gaming, gpu, well, still, cpu, pc"
+topic_5_label,"gpu, pc and arm"
+topic_6_keywords,"gpu, cpu, nvidia, power, like, new, gpus, making"
+topic_6_label,"gpu, cpu, nvidia, power, gpus"
+top_ngram_1,typical pc (25)
+top_ngram_2,logic would (25)
+top_ngram_3,would dictate (25)
+top_ngram_4,logic would dictate (25)
+top_ngram_5,arm mature (22)
+top_ngram_6,mature gaming (22)
+top_ngram_7,gaming platform (22)
+top_ngram_8,today still (22)
+top_ngram_9,arm mature gaming (22)
+top_ngram_10,mature gaming platform (22)
+ner_1,Nvidia|ORG|120
+ner_2,Intel|ORG|119
+ner_3,ARM|MISC|82
+ner_4,AMD|ORG|57
+ner_5,ARM|ORG|38
+ner_6,PC|MISC|34
+ner_7,Apple|ORG|33
+ner_8,AR|MISC|24
+ner_9,Microsoft|ORG|23
+ner_10,##M|ORG|20

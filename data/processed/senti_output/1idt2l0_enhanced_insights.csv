@@ -1,0 +1,49 @@
+metric,value
+file,1idt2l0.csv
+title,"Samsung Galaxy S25 Ultra review: Too much AI, not enough Ultra"
+rows,308
+num_posts,1
+num_comments,307
+unique_authors,219
+max_depth,10
+avg_comment_words,53.76
+median_comment_words,45.0
+max_comment_words,290
+positive_count,46
+negative_count,261
+neutral_count,0
+positive_pct,14.984
+negative_pct,85.016
+neutral_pct,0.0
+topic_1_keywords,"ai, phone, get, ultra, new, like, year, s25"
+topic_1_label,"ai, phone, ultra, new"
+topic_2_keywords,"change, screen, find, search, like, want, settings, google"
+topic_2_label,Google search for search
+topic_3_keywords,"ultra, one, phone, dont, upgrade, im, see, fine"
+topic_3_label,i dont have a phone
+topic_4_keywords,"ai, button, phones, copilot, stuff, dedicated, search, engine"
+topic_4_label,Google search engine search engine
+topic_5_keywords,"ai, bubble, burst, going, people, super, excited, like"
+topic_5_label,ai bubbles up and down
+topic_6_keywords,"ai, 3d, youre, like, think, sd, restaurant, remember"
+topic_6_label,i like 3d sd
+top_ngram_1,dedicated button (29)
+top_ngram_2,super excited (28)
+top_ngram_3,excited ai (27)
+top_ngram_4,ai bubble (27)
+top_ngram_5,bubble burst (27)
+top_ngram_6,super excited ai (27)
+top_ngram_7,excited ai bubble (27)
+top_ngram_8,ai bubble burst (27)
+top_ngram_9,ai phones (27)
+top_ngram_10,search engine (26)
+ner_1,Samsung|ORG|28
+ner_2,S|MISC|23
+ner_3,Google|ORG|20
+ner_4,AI|ORG|15
+ner_5,Apple|ORG|14
+ner_6,AI|MISC|14
+ner_7,S22|MISC|13
+ner_8,3D|MISC|10
+ner_9,S24|MISC|8
+ner_10,S25|MISC|7

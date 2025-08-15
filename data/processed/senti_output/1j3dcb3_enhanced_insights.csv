@@ -1,0 +1,42 @@
+metric,value
+file,1j3dcb3.csv
+title,Aluminum PP-1 turntable plays vinyl records without tonearm
+rows,32
+num_posts,1
+num_comments,31
+unique_authors,19
+max_depth,5
+avg_comment_words,55.23
+median_comment_words,43.0
+max_comment_words,239
+positive_count,2
+negative_count,29
+neutral_count,0
+positive_pct,6.452
+negative_pct,93.548
+neutral_pct,0.0
+topic_1_keywords,"needle, player, linear, underside, tonearm, word, arm, one"
+topic_1_label,"needle, player, a word, a tonearm"
+topic_2_keywords,"laser, hidden, tonearm, uses, half, tone, like, elliptical"
+topic_2_label,laser used to hide elliptical tone
+topic_3_keywords,"need, player, sound, record, people, cables, better, speakers"
+topic_3_label,speakers need better sound
+topic_4_keywords,"dust, form, turntable, yes, hanky, someone, function, use"
+topic_4_label,hanky and hanky are used in turntables
+topic_5_keywords,"stylus, lp, elliptical, 6000, laser, bottom, pretty, attach"
+topic_5_label,6000 elliptical lasers attach to bottom
+topic_6_keywords,"cd, read, lol, sound, 6000, disc, reads, 6k"
+topic_6_label,6000 cd reads 6k
+top_ngram_1,linear needle (7)
+top_ngram_2,needle player (7)
+top_ngram_3,linear needle player (7)
+top_ngram_4,elliptical stylus (6)
+top_ngram_5,underside linear (6)
+top_ngram_6,underside linear needle (6)
+top_ngram_7,laser optical (4)
+top_ngram_8,player instead (4)
+top_ngram_9,instead light (4)
+top_ngram_10,light weight (4)
+ner_1,Redact|ORG|2
+ner_2,Amstrad|ORG|1
+ner_3,VPI Rega|ORG|1

@@ -1,0 +1,49 @@
+metric,value
+file,1hlgveu.csv
+title,"A Bionic Leg Controlled by the Brain. A new kind of prosthetic limb depends on carbon fibre and computer chips—and the reëngineering of muscles, tendons, and bone."
+rows,61
+num_posts,1
+num_comments,60
+unique_authors,51
+max_depth,4
+avg_comment_words,23.1
+median_comment_words,17.5
+max_comment_words,87
+positive_count,9
+negative_count,51
+neutral_count,0
+positive_pct,15.0
+negative_pct,85.0
+neutral_pct,0.0
+topic_1_keywords,"something, updates, software, many, years, firmware, available, license"
+topic_1_label,a lot of updates and software available for many years
+topic_2_keywords,"knee, aka, get, even, level, fight, company, one"
+topic_2_label,a knee is a kool
+topic_3_keywords,"cover, wont, bad, insurance, health, knee, amputation, cool"
+topic_3_label,insurance coverage for knee injury
+topic_4_keywords,"chrome, get, installed, prosthetic, ads, til, cyberpsycho, much"
+topic_4_label,"Chrome, prosthetics and ads for chrome"
+topic_5_keywords,"like, arms, one, denied, dont, day, iphones, replacing"
+topic_5_label,iPhones don't replace the arms
+topic_6_keywords,"powered, awesome, momentum, tell, without, come, bad, never"
+topic_6_label,Powerful power
+top_ngram_1,bad health (12)
+top_ngram_2,health insurance (12)
+top_ngram_3,insurance wont (12)
+top_ngram_4,wont cover (12)
+top_ngram_5,bad health insurance (12)
+top_ngram_6,health insurance wont (12)
+top_ngram_7,insurance wont cover (12)
+top_ngram_8,knee amputation (5)
+top_ngram_9,dont worry (5)
+top_ngram_10,worry one (5)
+ner_1,UHC|ORG|4
+ner_2,Billy Joel|PER|2
+ner_3,##ivo|ORG|1
+ner_4,##m|ORG|1
+ner_5,##nis|MISC|1
+ner_6,##sia|ORG|1
+ner_7,##punk|MISC|1
+ner_8,##tor|ORG|1
+ner_9,Disney XD|ORG|1
+ner_10,Dongasaurus|MISC|1

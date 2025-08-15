@@ -1,0 +1,49 @@
+metric,value
+file,1i8wrcp.csv
+title,Scalpers already charging double with no refunds for GeForce RTX 5090
+rows,428
+num_posts,1
+num_comments,427
+unique_authors,295
+max_depth,30
+avg_comment_words,65.4
+median_comment_words,46.0
+max_comment_words,686
+positive_count,42
+negative_count,353
+neutral_count,32
+positive_pct,9.836
+negative_pct,82.67
+neutral_pct,7.494
+topic_1_keywords,"price, series, drop, right, demand, supply, still, 40"
+topic_1_label,price drop in series
+topic_2_keywords,"scalpers, people, dont, one, still, buy, make, pay"
+topic_2_label,scalpers don't pay
+topic_3_keywords,"price, 4090, paid, right, scalpers, scalping, supply, everyone"
+topic_3_label,The scalpers are paid right and everyone is able to scalp.
+topic_4_keywords,"scalpers, market, supply, prices, retail, price, would, dont"
+topic_4_label,scalpers in market price
+topic_5_keywords,"like, im, get, scalpers, still, got, sure, years"
+topic_5_label,i got a scalper
+topic_6_keywords,"new, cards, card, series, gpu, buy, would, people"
+topic_6_label,"cards, cards, series, gpu"
+top_ngram_1,supply demand (36)
+top_ngram_2,drop price (36)
+top_ngram_3,40 series (30)
+top_ngram_4,im sure (28)
+top_ngram_5,willing pay (26)
+top_ngram_6,market clearing (25)
+top_ngram_7,50 series (24)
+top_ngram_8,clearing price (24)
+top_ngram_9,market clearing price (22)
+top_ngram_10,per person (20)
+ner_1,eBay|ORG|22
+ner_2,Nvidia|ORG|19
+ner_3,E|MISC|13
+ner_4,Best Buy|ORG|10
+ner_5,PC|MISC|10
+ner_6,NVIDIA|ORG|10
+ner_7,Amazon|ORG|7
+ner_8,PS5 Pro|MISC|6
+ner_9,##Bay|ORG|6
+ner_10,##V|ORG|5

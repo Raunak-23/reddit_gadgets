@@ -1,0 +1,49 @@
+metric,value
+file,1l2lbdd.csv
+title,Apple Glasses race heats up as Meta changes its headset plans
+rows,257
+num_posts,1
+num_comments,256
+unique_authors,149
+max_depth,12
+avg_comment_words,60.04
+median_comment_words,49.0
+max_comment_words,552
+positive_count,33
+negative_count,191
+neutral_count,32
+positive_pct,12.891
+negative_pct,74.609
+neutral_pct,12.5
+topic_1_keywords,"ads, people, dont, product, see, companies, problem, ar"
+topic_1_label,ads for companies don't see their products
+topic_2_keywords,"gadget, glasses, like, well, else, cant, want, life"
+topic_2_label,i like to see a gadget
+topic_3_keywords,"glasses, smart, adware, phone, like, control, apple, without"
+topic_3_label,Apple 's smart phone with adware
+topic_4_keywords,"like, ar, glasses, idea, product, really, apple, time"
+topic_4_label,apple 's glasses like ar
+topic_5_keywords,"glasses, ar, people, going, like, want, dont, weight"
+topic_5_label,i want to go to the movies
+topic_6_keywords,"etc, quest, ar, markers, want, vision, protocol, cool"
+topic_6_label,i want to see a project
+top_ngram_1,ar glasses (21)
+top_ngram_2,popup ads (21)
+top_ngram_3,smart glasses (21)
+top_ngram_4,dont want (20)
+top_ngram_5,solution problem (19)
+top_ngram_6,problem cant (18)
+top_ngram_7,cant define (18)
+top_ngram_8,solution problem cant (18)
+top_ngram_9,problem cant define (18)
+top_ngram_10,two companies (17)
+ner_1,Apple|ORG|39
+ner_2,Google|ORG|13
+ner_3,Meta|ORG|9
+ner_4,AR|MISC|9
+ner_5,Quest|MISC|8
+ner_6,AR|ORG|6
+ner_7,##uffin|ORG|6
+ner_8,Kingsman|MISC|6
+ner_9,P|MISC|6
+ner_10,Samsung|ORG|5

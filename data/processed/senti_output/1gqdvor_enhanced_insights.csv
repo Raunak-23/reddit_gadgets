@@ -1,0 +1,49 @@
+metric,value
+file,1gqdvor.csv
+title,Apple drops soldered storage for 2024 Mac Mini | iFixit teardown finds a removable SSD. Time to party like its 2010?
+rows,300
+num_posts,1
+num_comments,299
+unique_authors,192
+max_depth,14
+avg_comment_words,69.82
+median_comment_words,45.0
+max_comment_words,519
+positive_count,29
+negative_count,227
+neutral_count,43
+positive_pct,9.699
+negative_pct,75.92
+neutral_pct,14.381
+topic_1_keywords,"apple, nand, good, mac, chip, soldering, buy, people"
+topic_1_label,"Apple, nand, good, chip, soldering"
+topic_2_keywords,"phone, sd, storage, apple, sim, slot, make, want"
+topic_2_label,i want to make a phone and sd
+topic_3_keywords,"storage, chips, controller, soc, apple, use, without, solder"
+topic_3_label,Apples without solder
+topic_4_keywords,"apple, ssd, nvme, proprietary, able, standard, interface, purchase"
+topic_4_label,"Apple ssd, nvme, proprietary interface and able interface"
+topic_5_keywords,"ssd, drive, enough, apple, external, machine, work, im"
+topic_5_label,ssd drives enough apple in machine
+topic_6_keywords,"apple, nand, standard, controller, would, even, could, connector"
+topic_6_label,"Apple, nand, standard, could, connector"
+top_ngram_1,standard nvme (44)
+top_ngram_2,saving click (34)
+top_ngram_3,click ssd (34)
+top_ngram_4,ssd interface (34)
+top_ngram_5,interface proprietary (34)
+top_ngram_6,proprietary able (34)
+top_ngram_7,able purchase (34)
+top_ngram_8,purchase standard (34)
+top_ngram_9,saving click ssd (34)
+top_ngram_10,click ssd interface (34)
+ner_1,Apple|ORG|178
+ner_2,N|MISC|67
+ner_3,Mac|MISC|15
+ner_4,Mac Mini|MISC|13
+ner_5,EU|ORG|13
+ner_6,iPhone|MISC|11
+ner_7,Apple|MISC|9
+ner_8,Lightning|MISC|8
+ner_9,SD|MISC|8
+ner_10,USBC|MISC|8

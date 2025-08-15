@@ -1,0 +1,49 @@
+metric,value
+file,1hwkbyx.csv
+title,Trump's tariffs could raise the cost of a laptop by 68 percent
+rows,2837
+num_posts,1
+num_comments,2836
+unique_authors,1901
+max_depth,20
+avg_comment_words,49.75
+median_comment_words,31.0
+max_comment_words,667
+positive_count,508
+negative_count,2168
+neutral_count,160
+positive_pct,17.913
+negative_pct,76.446
+neutral_pct,5.642
+topic_1_keywords,"would, tariffs, us, prices, production, labor, manufacturing, like"
+topic_1_label,tariffs for us and the us
+topic_2_keywords,"tariffs, trump, people, hes, going, like, eggs, good"
+topic_2_label,tariffs and people go to the trump
+topic_3_keywords,"tariffs, laptops, even, prices, 68, could, people, going"
+topic_3_label,"tariffs, laptops, could, prices"
+topic_4_keywords,"made, us, chips, taiwan, laptops, trump, series, products"
+topic_4_label,trumps and products in taiwan
+topic_5_keywords,"laptop, im, prices, need, new, tax, wont, buy"
+topic_5_label,i need new laptop
+topic_6_keywords,"years, laptop, new, im, one, go, bought, got"
+topic_6_label,new laptops bought in years
+top_ngram_1,us made (115)
+top_ngram_2,chips manufactured (100)
+top_ngram_3,made laptops (99)
+top_ngram_4,us made laptops (97)
+top_ngram_5,series chips (96)
+top_ngram_6,manufactured taiwan (95)
+top_ngram_7,shipped assembly (95)
+top_ngram_8,chips manufactured taiwan (95)
+top_ngram_9,virtually every (94)
+top_ngram_10,device made (94)
+ner_1,Trump|PER|464
+ner_2,US|LOC|374
+ner_3,American|MISC|223
+ner_4,China|LOC|178
+ner_5,Taiwan|LOC|141
+ner_6,US|MISC|138
+ner_7,Americans|MISC|122
+ner_8,America|LOC|111
+ner_9,USA|LOC|83
+ner_10,Biden|PER|66

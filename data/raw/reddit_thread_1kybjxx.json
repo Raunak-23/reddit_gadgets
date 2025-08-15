@@ -1,0 +1,403 @@
+{
+  "post": {
+    "title": "NVIDIA release a GeForce NOW native app for Steam Deck",
+    "author": "None",
+    "id": "1kybjxx",
+    "score": 465,
+    "created_utc": 1748527272.0,
+    "selftext": "",
+    "num_comments": 49,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1kybjxx/nvidia_release_a_geforce_now_native_app_for_steam/"
+  },
+  "comments": [
+    {
+      "id": "muxdaub",
+      "author": "Endonae",
+      "body": "As someone who already streams their games from their PC, the experience is a lot better.",
+      "score": 82,
+      "created_utc": 1748542435.0,
+      "replies": [
+        {
+          "id": "muztm12",
+          "author": "pokerawz",
+          "body": "I\u2019ve had some latency issues, mainly with crackly audio. Does your PC have a wired connection?",
+          "score": 12,
+          "created_utc": 1748569951.0,
+          "replies": [
+            {
+              "id": "mv2k06x",
+              "author": "Xanthon",
+              "body": "If you gonna stream games, it's highly recommended that your host computer be on an ethernet connection for stability.",
+              "score": 9,
+              "created_utc": 1748614122.0,
+              "replies": [
+                {
+                  "id": "mv852qk",
+                  "author": "Prodigle",
+                  "body": "You can get away with this if you use something like moonlight on your steam deck and sunshine on your host PC. It's really low latency, even on wireless",
+                  "score": 1,
+                  "created_utc": 1748689090.0,
+                  "replies": [
+                    {
+                      "id": "mv85qgl",
+                      "author": "Xanthon",
+                      "body": "It really depends on how far your PC is from the router. And you'll need at least WiFi 6.",
+                      "score": 1,
+                      "created_utc": 1748689435.0,
+                      "replies": [
+                        {
+                          "id": "mv8m9pg",
+                          "author": "Prodigle",
+                          "body": "I have wi-fi 6 but I get imperceptible latency and my PC, steam deck, and router are all in 3 separate rooms across 2 different floors. Does wonders",
+                          "score": 1,
+                          "created_utc": 1748696750.0,
+                          "replies": [
+                            {
+                              "id": "mva8k8x",
+                              "author": "pokerawz",
+                              "body": "I use moonlight and sunshine and have WiFi 6 and it sucks for me :(\n\nSpecifically the crackling audio.",
+                              "score": 2,
+                              "created_utc": 1748715517.0,
+                              "replies": [
+                                {
+                                  "id": "mvac381",
+                                  "author": "Prodigle",
+                                  "body": "I don't get any audio issues, but for delay make sure your TV is on whatever \"game\" display mode it has. Standard TV settings add like 0.5s of latency",
+                                  "score": 1,
+                                  "created_utc": 1748716650.0,
+                                  "replies": [
+                                    {
+                                      "id": "mvbqudf",
+                                      "author": "pokerawz",
+                                      "body": "TV? I\u2019m streaming it from my PC",
+                                      "score": 1,
+                                      "created_utc": 1748733194.0,
+                                      "replies": [
+                                        {
+                                          "id": "mvbv6sw",
+                                          "author": "sCeege",
+                                          "body": "What are the specs on your host and client machines? I also have zero issues with SS/ML on WiFi6 and 6E, when I crank up my bandwidth it\u2019s imperceptible from native, up to 1440p@120. I even play VR games on a quest 3 over WiFi.",
+                                          "score": 1,
+                                          "created_utc": 1748734747.0,
+                                          "replies": [
+                                            {
+                                              "id": "mvbw1m7",
+                                              "author": "pokerawz",
+                                              "body": "Host Machine is my PC - 4090FE & 7800x3d\n\nClient Machine is my Steam Deck OLED\n\n\nI\u2019ve tried God of War and Starfield - both games had the same crackling audio issue (you can find a lot of troubleshooting of the same issue on Reddit). In all honestly, I haven\u2019t tried too much - I\u2019m moving next month and will definitely hard wire my PC.",
+                                              "score": 1,
+                                              "created_utc": 1748735052.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mvc3b45",
+                                                  "author": "sCeege",
+                                                  "body": "Damn that sucks. I have a similar setup (7800X3D and ASUS 4090).\n\nI will say though I had a lot of trouble with Sunshine in the beginning, I would get random disconnects and laggy picture. For a while I was using Nvidia GameStream as the host for Moonlight. I only switched back after Nvidia discontinued it, and this time around it became fine for me. \n\nI wonder if another software set might work better for you, I\u2019m interested in trying out Artemis/Apollo next because I stream a lot to my MacBook and it supports custom resolutions better, I wonder if it would change the situation on your end. \n\nRegardless, best of luck on your next setup friend.",
+                                                  "score": 1,
+                                                  "created_utc": 1748737760.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mvc3qt9",
+                                                      "author": "pokerawz",
+                                                      "body": "Thanks, will make more of an effort once we move next month.",
+                                                      "score": 1,
+                                                      "created_utc": 1748737927.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "mvbywjn",
+                                          "author": "Prodigle",
+                                          "body": "I stream from my host PC to my steam deck which is docked to a TV :) Took me a while to figure out they have a lot post-processing normally",
+                                          "score": 1,
+                                          "created_utc": 1748736099.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mv5ll91",
+          "author": "GuiltyGecko",
+          "body": "What types of games do you stream? I got a year long subscription of Playstation Plus a few years ago to play some Playstation exclusive games, and the experience was kind of a mixed bag.\n\nAt the time, games like Until Dawn, and Persona 5 played fine because they weren't that reaction time heavy, but trying to play something like Bloodborne or God of War just wasn't working out because of the latency. And before anyone mentions it, I'm aware most of these games have PC ports now, but they didn't when I wanted to play them years ago.",
+          "score": 1,
+          "created_utc": 1748646424.0,
+          "replies": [
+            {
+              "id": "mv9v8l0",
+              "author": "Endonae",
+              "body": "I've streamed games like Elden Ring, Cyberpunk, and Wukong, and haven't had any issues with latency. Honestly, the bigger issues for me is the resolution. Detailed environments are harder to resolve with so few pixels to work with, and the Steam Deck uses a 16:10 display for some reason, which not all games support.\nSome UE5 games have also been super finicky about streaming properly, I think because of how the engine handles full screen and windowed modes.",
+              "score": 2,
+              "created_utc": 1748711419.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muw18v2",
+      "author": "Cattacs",
+      "body": "Sounds great, if only it was available in Europe...",
+      "score": 38,
+      "created_utc": 1748529015.0,
+      "replies": [
+        {
+          "id": "mux3ajh",
+          "author": "Fenragus",
+          "body": "Wait, is the app itself unavailable? Why???",
+          "score": 14,
+          "created_utc": 1748539672.0,
+          "replies": [
+            {
+              "id": "muxlmpk",
+              "author": "Instance_Unhappy",
+              "body": "Welcome to eu",
+              "score": -6,
+              "created_utc": 1748544808.0,
+              "replies": [
+                {
+                  "id": "muydwug",
+                  "author": "speculatrix",
+                  "body": "And Nvidia are blocking VPNs?",
+                  "score": 4,
+                  "created_utc": 1748552939.0,
+                  "replies": [
+                    {
+                      "id": "mv221h3",
+                      "author": "Danger_Mysterious",
+                      "body": "Don\u2019t think so, but any vpn is going to negatively effect the streaming experience of GeForce now pretty significantly. Won\u2019t make it unplayable if your connection is good but if you need to go from EU to NA that will be a sizable and noticeable increase in ping.",
+                      "score": 8,
+                      "created_utc": 1748608215.0,
+                      "replies": [
+                        {
+                          "id": "mv75e4z",
+                          "author": "dat_w",
+                          "body": "The extra hoop makes it essentially impossible to use it. I use Shadow cloud PC a lot and my Frankfurt machine was a harsh experience from USA for desktop tasks, nevermind gaming",
+                          "score": 4,
+                          "created_utc": 1748668514.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mv8oprs",
+                          "author": "koltzito",
+                          "body": "You only need a vpn to connect to connect to the game thru geforcenow, after that you can close the vpn",
+                          "score": 2,
+                          "created_utc": 1748697673.0,
+                          "replies": [
+                            {
+                              "id": "mvg2wg9",
+                              "author": "Danger_Mysterious",
+                              "body": "This is good info I didn\u2019t know, thanks!",
+                              "score": 1,
+                              "created_utc": 1748798399.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mvcv1c7",
+          "author": "NV_Cory",
+          "body": "GeForce NOW and the Steam Deck app are available in Europe. Not sure what you mean.",
+          "score": 1,
+          "created_utc": 1748748439.0,
+          "replies": []
+        },
+        {
+          "id": "mv27lj7",
+          "author": "robdrak",
+          "body": "What? I absolutely used GeForce NOW in EU on my desktop. Or are you talking about the native app?",
+          "score": 0,
+          "created_utc": 1748610160.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muxu0g1",
+      "author": "06035",
+      "body": "Can my DSL do this?\n/s",
+      "score": 6,
+      "created_utc": 1748547233.0,
+      "replies": [
+        {
+          "id": "muz4l58",
+          "author": "shogun77777777",
+          "body": "Works fine over my 300 baud dialup modem",
+          "score": 3,
+          "created_utc": 1748561405.0,
+          "replies": [
+            {
+              "id": "mv29ctx",
+              "author": "just_another_scumbag",
+              "body": "I heard this comment in my head",
+              "score": 3,
+              "created_utc": 1748610751.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muxik6z",
+      "author": "Tetra_Gramaton",
+      "body": "Downloaded and gave this a go earlier (UK). Absolute garbage with horrendous lag and terribly stuttery streaming. My connection is semi decent (600mps) but just won\u2019t handle this sort of service well enough to ever feel right for me. \n\nI know it\u2019s going to be heavily used on its first day but man, terrible introduction to the service for some taking it for a spin today.",
+      "score": 23,
+      "created_utc": 1748543935.0,
+      "replies": [
+        {
+          "id": "muycpax",
+          "author": "DeathKringle",
+          "body": "To much goes into how well these run and goes way beyond your internet speed\n\nLatency/ping to the servers, ping and latency for your local wireless network\nHow many devices are actively being used on your wireless network.\nEven if your not doing large transfers on your network many active devices take up time slots to as well\n\n\nSo for the avg user their home network is not optimal at all",
+          "score": 20,
+          "created_utc": 1748552584.0,
+          "replies": [
+            {
+              "id": "muyrg8u",
+              "author": "Tetra_Gramaton",
+              "body": "Yeah, I\u2019m aware it\u2019s a mix of quite a few factors. Wired my Deck straight to my router so I\u2019m doing all I can to maximise the experience, without any other device actively using the internet and can\u2019t seem to get it to work well. \n\nPerhaps in a decade or so the average person may well be running their games this way, but for now it\u2019s about as relevant to me as Stadia was, and well, look how popular that turned out to be.",
+              "score": 1,
+              "created_utc": 1748557095.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mvd3tam",
+          "author": "PatSajaksDick",
+          "body": "Really depends how close you are to one of the servers, I just tried it out with Marvel Rivals and barely noticed any lag when playing. It\u2019s just physics really.",
+          "score": 2,
+          "created_utc": 1748752337.0,
+          "replies": []
+        },
+        {
+          "id": "muzuuom",
+          "author": "CMDR_omnicognate",
+          "body": "Internet upload/download speed isn\u2019t so much of an issue as latency and packet loss. The Nvidia servers are probably in the US somewhere so that will definitely be causing issues with the streaming quality.\n\n\nI actually remember using GeForce now with a Nvidia shield tablet also from the uk about 10 years ago now. Still broadly the same experience. I genuinely don\u2019t believe game streaming will ever be consistent enough to be useable regardless of internet speeds just down to the nature of how the internet works",
+          "score": 0,
+          "created_utc": 1748570367.0,
+          "replies": [
+            {
+              "id": "muzx4we",
+              "author": "tinyturtletickler",
+              "body": "I think there's a future in local streaming, but like... The server is in your house kind of local. Moonlight stream client works remarkably well and is a great way to play more intensive games while on my couch from my PC in another room.\n\nThe WiiU was also a flawless example of this in terms of performance. Subframe latency, and you could shit your guts out with next to no interruption despite being in another room.",
+              "score": 2,
+              "created_utc": 1748571158.0,
+              "replies": [
+                {
+                  "id": "muzzkgw",
+                  "author": "CMDR_omnicognate",
+                  "body": "Eh, idk. The main benefit of game streaming as it is at the moment is you just spend some money every month and get access to a whole bunch of games whenever and wherever (broadly) you want. \n\nIf you\u2019re streaming games locally from your house you\u2019d need to have some device to run and stream the games from. They\u2019d have to be pretty powerful, basically a games console, and also likely wouldn\u2019t have any games on it unless you bought them, and at that point why even bother with the streaming aspect?",
+                  "score": 1,
+                  "created_utc": 1748572021.0,
+                  "replies": [
+                    {
+                      "id": "mv1hs2o",
+                      "author": "Naojirou",
+                      "body": "My PSPortal is used exclusively for playing games while shitting. Thats enough pros for home streaming",
+                      "score": 1,
+                      "created_utc": 1748599310.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muwtmhb",
+      "author": "None",
+      "body": "I was quickly scrolling & skimming and at first thought NVIDIA was releasing a GoFundMe.",
+      "score": 7,
+      "created_utc": 1748537018.0,
+      "replies": [
+        {
+          "id": "muwua9u",
+          "author": "Webfarer",
+          "body": "In this economy?",
+          "score": 6,
+          "created_utc": 1748537201.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mux2wtx",
+      "author": "cloudcity",
+      "body": "Does GamePass work on SteamOS?",
+      "score": 2,
+      "created_utc": 1748539569.0,
+      "replies": [
+        {
+          "id": "muxwx75",
+          "author": "kayyo2",
+          "body": "Yes. I am playing Oblivion Remastered on the Steam Deck using Geforce Now and PC Game Pass.",
+          "score": 4,
+          "created_utc": 1748548071.0,
+          "replies": []
+        },
+        {
+          "id": "muz2gd8",
+          "author": "Light_Wood_Laminate",
+          "body": "https://support.microsoft.com/en-gb/topic/xbox-cloud-gaming-in-microsoft-edge-with-steam-deck-43dd011b-0ce8-4810-8302-965be6d53296",
+          "score": 3,
+          "created_utc": 1748560706.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muz03bn",
+      "author": "lostmojo",
+      "body": "Nope.  No more nvidia stuff for me.  Unless they can do better in all things related to consumers I\u2019m done with them.",
+      "score": 0,
+      "created_utc": 1748559931.0,
+      "replies": []
+    },
+    {
+      "id": "muzx1jf",
+      "author": "JestersWildly",
+      "body": "So glad we can break our steam decks with nvidias spyware too and not just limit the experiemce to our pca",
+      "score": 1,
+      "created_utc": 1748571126.0,
+      "replies": []
+    },
+    {
+      "id": "muwv9sr",
+      "author": "That_Palpitation_107",
+      "body": "Ok now I\u2019m interested",
+      "score": -5,
+      "created_utc": 1748537474.0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+metric,value
+file,1haw7a2.csv
+title,This simple Arduino-powered robot is called Bug and it will help you learn robotics
+rows,12
+num_posts,1
+num_comments,11
+unique_authors,8
+max_depth,3
+avg_comment_words,20.36
+median_comment_words,22.0
+max_comment_words,37
+positive_count,3
+negative_count,8
+neutral_count,0
+positive_pct,27.273
+negative_pct,72.727
+neutral_pct,0.0
+topic_1_keywords,"project, bug, happy, video, link, paragraph, theres, first"
+topic_1_label,video link to the bug in the video
+topic_2_keywords,"link, project, video, github, product, paid, thank, expecting"
+topic_2_label,github 's video and video are paid for
+topic_3_keywords,"project, bug, happy, video, link, paragraph, theres, first"
+topic_3_label,video link to the bug in the video
+topic_4_keywords,"link, bug, happy, help, title, post, nowhere, learn"
+topic_4_label,bug is happy to help
+topic_5_keywords,"youve, would, never, done, cad, hard, project, bug"
+topic_5_label,ive never done a bug
+topic_6_keywords,"yeah, video, youtube, saw, didnt, bad, bother, expecting"
+topic_6_label,i didnt see a bad video on youtube
+top_ngram_1,happy post (3)
+top_ngram_2,post title (3)
+top_ngram_3,title nowhere (3)
+top_ngram_4,nowhere link (3)
+top_ngram_5,link bug (3)
+top_ngram_6,bug help (3)
+top_ngram_7,help learn (3)
+top_ngram_8,learn anything (3)
+top_ngram_9,happy post title (3)
+top_ngram_10,post title nowhere (3)
+ner_1,Bug|MISC|4
+ner_2,Github|MISC|2
+ner_3,YouTube|MISC|2
+ner_4,Rgadgets|ORG|1

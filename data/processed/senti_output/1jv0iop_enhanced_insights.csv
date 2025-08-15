@@ -1,0 +1,49 @@
+metric,value
+file,1jv0iop.csv
+title,Formula-1-inspired carbon electric skateboard shoots riders up to 45 mph
+rows,104
+num_posts,1
+num_comments,103
+unique_authors,80
+max_depth,5
+avg_comment_words,31.32
+median_comment_words,21.0
+max_comment_words,142
+positive_count,24
+negative_count,79
+neutral_count,0
+positive_pct,23.301
+negative_pct,76.699
+neutral_pct,0.0
+topic_1_keywords,"falling, hitting, someone, also, dont, forget, giving, kids"
+topic_1_label,if someone doesn't forget to give them a hug
+topic_2_keywords,"injury, bike, helmets, still, get, die, skateboard, times"
+topic_2_label,bike helmets still get die on skateboard
+topic_3_keywords,"like, electric, speed, company, one, hit, skateboard, could"
+topic_3_label,electric skateboards could hit the electric
+topic_4_keywords,"go, going, board, ive, could, speed, wrong, even"
+topic_4_label,board could be wrong
+topic_5_keywords,"see, people, something, skateboard, think, really, person, building"
+topic_5_label,people think of skateboards in building
+topic_6_keywords,"speed, fast, much, think, brakes, safer, brake, great"
+topic_6_label,brakes are great for speed
+top_ngram_1,go wrong (12)
+top_ngram_2,could go (11)
+top_ngram_3,could go wrong (11)
+top_ngram_4,electric skateboard (10)
+top_ngram_5,speed paying (6)
+top_ngram_6,paying 3100 (6)
+top_ngram_7,3100 dollars (6)
+top_ngram_8,dollars electric (6)
+top_ngram_9,skateboard company (6)
+top_ngram_10,company probably (6)
+ner_1,Pico|LOC|2
+ner_2,Rutland VT|LOC|2
+ner_3,F1|MISC|2
+ner_4,Liam|PER|2
+ner_5,Bing|PER|1
+ner_6,##wheel|ORG|1
+ner_7,American|MISC|1
+ner_8,F1|ORG|1
+ner_9,Casey|ORG|1
+ner_10,Coleman|PER|1

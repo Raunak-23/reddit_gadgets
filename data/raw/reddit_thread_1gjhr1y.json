@@ -1,0 +1,270 @@
+{
+  "post": {
+    "title": "Intel is 'still committed to Arc,' but with fewer discrete GPUs and more integrated graphics",
+    "author": "a_Ninja_b0y",
+    "id": "1gjhr1y",
+    "score": 347,
+    "created_utc": 1730736095.0,
+    "selftext": "",
+    "num_comments": 30,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gjhr1y/intel_is_still_committed_to_arc_but_with_fewer/"
+  },
+  "comments": [
+    {
+      "id": "lvdam2e",
+      "author": "Aleyla",
+      "body": "Why?  These seemed to be a solid entry for those of us not wanting to give our left kidney so our 8 year olds could play fortnite.",
+      "score": 166,
+      "created_utc": 1730737653.0,
+      "replies": [
+        {
+          "id": "lvdfz0f",
+          "author": "ThorAsskicker",
+          "body": "They probably lost too much money with that CPU fiasco earlier this year and need to cut costs.",
+          "score": 95,
+          "created_utc": 1730739260.0,
+          "replies": []
+        },
+        {
+          "id": "lvdltxy",
+          "author": "PhabioRants",
+          "body": "That's exactly why. The GPU die size shows they were expecting 4090 performance. What they actually got was 4050 performance and billions in sunk cost for less than .5% marketshare, then followed it up with 200-series CPUs worse than 12th gen.\n\n\nFurthermore, their behind the scenes wizardry requires Intel CPUs to pair with to actually extract their GPU features and no one in their right mind is paying 50% more for worse performance and efficiency, with shorter socket lifespan vs AMD right now.\n\n\n\nIntel is hemorrhaging money, and discrete GPUs are not something they're known for, so it's an easy amputation.\u00a0\n\n\nThe US government just declared Intel Too Big To Fail, which means they expect Intel is in jeopardy of folding entirely at this point. It's possible the decision to axe discrete ARC isn't even theirs to make.",
+          "score": 72,
+          "created_utc": 1730740969.0,
+          "replies": [
+            {
+              "id": "lvhh8b0",
+              "author": "dertechie",
+              "body": "Yeah.  Intel has basically just demonstrated why no one challenges NVidia on that front except AMD who already has a pipeline.  \n\nYou need billions to blow on getting it off the ground.  You need to get drivers together.  You need to produce them by the millions, work out the kinks and iterate just to get to a solid third place where you have a good enough reputation to *barely* make profit per card.  \nIf you don\u2019t have a pipeline to do this, you\u2019re looking at years of work to get it going.  Intel wasn\u2019t starting from zero - they have years of experience with integrated graphics to leverage but those don\u2019t have the same pressures.  They didn\u2019t even do *badly*, they just don\u2019t have another few tens of billions to throw at it to get to something that\u2019s properly competitive.",
+              "score": 9,
+              "created_utc": 1730788816.0,
+              "replies": [
+                {
+                  "id": "lvjtat5",
+                  "author": "Hour_Reindeer834",
+                  "body": "Kinda off topic but its kind of sad in an age where we have access to so much knowledge, technology, and resources, in many ways its harder than ever to try to create something from the ground up on your own.\n\nOn the flip side of that; these companies are having record profits and valuations and are cutting employees, but I always hear about how this or that endeavor is too expensive or hard to do. These companies should have enough wealth to run years at a loss.",
+                  "score": 1,
+                  "created_utc": 1730826233.0,
+                  "replies": [
+                    {
+                      "id": "lvlfgoy",
+                      "author": "theGoddamnAlgorath",
+                      "body": "Oh man, you really need to check out how the stock market has murdered these companies.\n\n\nEveryone buys on credit, pays late, and just enough liquidity to pay this month.\n\n\nWe really just need to burn it all down at this point, interstate banking along with MMT has ruined us... again.",
+                      "score": 1,
+                      "created_utc": 1730843153.0,
+                      "replies": [
+                        {
+                          "id": "lvxhnbb",
+                          "author": "CatProgrammer",
+                          "body": ">\u00a0interstate banking\n\n\nSorry, I shouldn't be able to withdraw my money in a different state from where I deposited it? Or invest in things in further-away places? And MMT is about how the government adds and removes money to/from the economy, doesn't seem directly relevant to the stock market.",
+                          "score": 2,
+                          "created_utc": 1731000821.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lw19wvm",
+              "author": "_RADIANTSUN_",
+              "body": "> The GPU die size shows they were expecting 4090 performance. What they actually got was 4050 performance \n\nWait wtf? How do you use that much silicon and that much worse performance? Seriously asking, how, it's not like their silicon processes are that far behind right?",
+              "score": 1,
+              "created_utc": 1731044500.0,
+              "replies": [
+                {
+                  "id": "lw249so",
+                  "author": "PhabioRants",
+                  "body": "That's what Intel thought, too. Turns out you can't just scale up whatever they were doing for integrated and be done with it. Obviously, they've clawed some back with drivers. They're around about 4060 performance for raster now, and their encode and decode is exceptional, and their LLM performance isn't bad for the price, either, which is little surprise given how much compute there ought to be in them.\u00a0\n\n\nI'm not a hardware engineer, so I can't pretend to understand how they missed the mark by as much as they did, but the die size on the 750/770 suggests their silicon cost per card is at or possibly over what they're selling finished products for. We knew they were going to have to take some pain, and I'm sure Intel knew that as well, but all evidence suggests they were looking to swing with the 7900s and the like.\u00a0",
+                  "score": 1,
+                  "created_utc": 1731062627.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvdg3kw",
+          "author": "None",
+          "body": "You answered your own question.",
+          "score": 8,
+          "created_utc": 1730739296.0,
+          "replies": [
+            {
+              "id": "lvege16",
+              "author": "Aleyla",
+              "body": "Sorry, I feel like I\u2019m missing something. \n   \nI know the GPU isn\u2019t top of the line, but it performed just fine while having the cheapest price point out there.   How does this lead to a product being pulled?",
+              "score": 7,
+              "created_utc": 1730749912.0,
+              "replies": [
+                {
+                  "id": "lveujx0",
+                  "author": "CanisLupus92",
+                  "body": "They priced it according to its performance, but the A770 is close to the same die size as a 4090, meaning it costs about the same to produce. NVidia and AMD can get significantly more cards from a single wafer at that price/performance level.",
+                  "score": 20,
+                  "created_utc": 1730754078.0,
+                  "replies": [
+                    {
+                      "id": "lvewj8v",
+                      "author": "Aleyla",
+                      "body": "Ok. That makes a ton of sense.  Thank you :)",
+                      "score": 3,
+                      "created_utc": 1730754666.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lvejxcs",
+                  "author": "Recktion",
+                  "body": "Intel GPU design costs lots of money, makes little money. They need many years of losses to have a chance to catch up.\n\n\nIntel CPU design is doing bad but not way behind AMD, much easier to take the lead there.\n\n\nIntel foundry is losing billions of dollars a month trying to catch up to TSMC, and arguably should be there next year.\n\n\nThey have to cauterize the losses somehow. GPU is the furthest from turning a profit so makes the most sense to take the axe to them.\n\n\nThey're spending 2x their revenue right now. Intel has been trying to fix over a decade of mismanagement with massive spending in the last couple of years to catch up.",
+                  "score": 8,
+                  "created_utc": 1730750953.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvdza8a",
+          "author": "Nyther53",
+          "body": "Because making those GPUs almost certainly cost Intel money, which means its not up to them if they make them or not, especially not with the rest of their business hurting so badly. They're bleeding out.",
+          "score": 3,
+          "created_utc": 1730744876.0,
+          "replies": []
+        },
+        {
+          "id": "lvf328z",
+          "author": "im_thatoneguy",
+          "body": "Because you can play a game like Fortnite just fine on an integrated graphics chip built into the CPU.  And if you want more, you want a maxed out top of the line GPU that can do pathtraced raytracing and 4k resolution.",
+          "score": 2,
+          "created_utc": 1730756641.0,
+          "replies": [
+            {
+              "id": "lvf3xhw",
+              "author": "Aleyla",
+              "body": "Depends on the cpu.   My kids machine is around 12 years old.",
+              "score": 1,
+              "created_utc": 1730756905.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvepjcz",
+          "author": "Starfox-sf",
+          "body": "Now you only have to give your right kidney.",
+          "score": 1,
+          "created_utc": 1730752609.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvd6nmv",
+      "author": "mobrocket",
+      "body": "Sure you are Intel \n\nAnyone want to take bets before they abandon all discrete GPUs?   3 years?",
+      "score": 80,
+      "created_utc": 1730736425.0,
+      "replies": [
+        {
+          "id": "lvddqka",
+          "author": "Clessasaur",
+          "body": "6 months after whenever Battlemage actually comes out.",
+          "score": 28,
+          "created_utc": 1730738598.0,
+          "replies": [
+            {
+              "id": "lvdqvhq",
+              "author": "CoastingUphill",
+              "body": "2028?",
+              "score": 9,
+              "created_utc": 1730742431.0,
+              "replies": []
+            },
+            {
+              "id": "lvxil1h",
+              "author": "CatProgrammer",
+              "body": "I'm waiting on Warlock, personally. Or maybe Summoner.",
+              "score": 1,
+              "created_utc": 1731001085.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvdr676",
+      "author": "BadUsername_Numbers",
+      "body": "Man, what an extreme disappointment.",
+      "score": 14,
+      "created_utc": 1730742518.0,
+      "replies": []
+    },
+    {
+      "id": "lvfhuh7",
+      "author": "Bob_the_peasant",
+      "body": "Walked by a guy in Costco talking about how they\u2019ve already basically abandoned these\n\nWhen it hits that level you know it\u2019s dead",
+      "score": 12,
+      "created_utc": 1730761346.0,
+      "replies": []
+    },
+    {
+      "id": "lvea1w8",
+      "author": "One_Minute_Reviews",
+      "body": "Hindsight is 2020, but intel hiring AmDs failed leader to lead their brand new gpu initiative felt like a pretty bad business decision.",
+      "score": 17,
+      "created_utc": 1730748030.0,
+      "replies": [
+        {
+          "id": "lvecz39",
+          "author": "ArseBurner",
+          "body": "Raja catches a lot of flack for Vega, but some of ATI/AMD's greatest hits have his name on them. He was the principal architect behind the ATI R300 that was used in legendary GPUs like the 9700 Pro. More recently RDNA2 was also his baby.\n\nSources:\n\nR300: https://www.forbes.com/sites/jasonevangelho/2015/09/09/amd-forms-radeon-technologies-group-taps-raja-koduri-to-lead-team-dedicated-to-graphics-growth/\n\nRDNA2: https://www.pcgamer.com/amd-reunites-raja-koduri-with-his-baby-an-rx-6800-graphics-card/",
+          "score": 20,
+          "created_utc": 1730748900.0,
+          "replies": [
+            {
+              "id": "lvf11oe",
+              "author": "nipsen",
+              "body": "It's more that it always seemed like he wanted to work for Intel, to make the power-hungry, useless, underperforming gpus that Intel always will spend money developing.\n\nMeanwhile, that all of the actually good products AMD have made recently have been resurrected old concepts, that were put on ice up towards 2015, is not exactly a secret.",
+              "score": 2,
+              "created_utc": 1730756031.0,
+              "replies": []
+            },
+            {
+              "id": "lvjiceq",
+              "author": "mockingbird-",
+              "body": ">More recently RDNA2 was also his baby.\n\nThe guy left 4 years earlier, but you want to give the guy credit instead of the people who works on the product until release.",
+              "score": 1,
+              "created_utc": 1730823030.0,
+              "replies": [
+                {
+                  "id": "lvnr0kd",
+                  "author": "ArseBurner",
+                  "body": "If you read the article the package was sent to him from his former colleagues at AMD Radeon Group. It's the people who worked on RDNA who are giving him credit for it.\n\nFrom the article:\n\n> Koduri left his top position at the Radeon Technology Group back in 2017, following a short sabbatical from the role in the days following Vega's launch. It was always said that the Navi architecture (before we knew it as RDNA) was Koduri's pet project, so perhaps it's only fitting that the now-Intel GPU engineer would receive an RDNA 2 card in the mail.\n\n> GPU architectures take years to develop, and engineers are often working on projects far ahead of what the public are running on, or even have knowledge of. Take the Infinity Cache within the latest RDNA 2 graphics cards, for example. During an AMD engineering roundtable ahead of launch last year, Sam Naffziger, product technology architect, explains that this 'new' innovation had been in the works at RTG for at least three years before we ever caught whiff of it.",
+                  "score": 1,
+                  "created_utc": 1730872838.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lw8x1z7",
+      "author": "ninjacuddles",
+      "body": "... So, integrated Intel graphics, just like they had before Arc?",
+      "score": 1,
+      "created_utc": 1731159937.0,
+      "replies": []
+    }
+  ]
+}

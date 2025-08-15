@@ -1,0 +1,2448 @@
+{
+  "post": {
+    "title": "Nintendo Says the Switch 2 Will Only Support VRR In Handheld Mode",
+    "author": "a_Ninja_b0y",
+    "id": "1ko8ptj",
+    "score": 1405,
+    "created_utc": 1747421555.0,
+    "selftext": "",
+    "num_comments": 288,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ko8ptj/nintendo_says_the_switch_2_will_only_support_vrr/"
+  },
+  "comments": [
+    {
+      "id": "mso9e1n",
+      "author": "treehumper83",
+      "body": "The dock only has HDMI 2.0 which does not support VRR. Could a third party dock that has HDMI 2.1 work? Someone will make one.",
+      "score": 318,
+      "created_utc": 1747422025.0,
+      "replies": [
+        {
+          "id": "msoclmm",
+          "author": "HopelessRespawner",
+          "body": "Someone else said it might have more to do with converting the display port signal to hdmi, so it may still be an issue on v2.1. Something about it losing the VRR Info in the process.",
+          "score": 165,
+          "created_utc": 1747423009.0,
+          "replies": [
+            {
+              "id": "msomxvt",
+              "author": "Fire_Lord_Cinder",
+              "body": "In all likelihood, most USB C ports utilize DP Altmode to transfer the video. I haven\u2019t seen an adapter that can translate DP to HDMI while keeping VRR.",
+              "score": 81,
+              "created_utc": 1747426194.0,
+              "replies": [
+                {
+                  "id": "msq5e2c",
+                  "author": "AkraticAntiAscetic",
+                  "body": "The original V1 switch at least used MyDP, that\u2019s why most non specific docks don\u2019t work with them. Could be worse, could be Analogue who did a custom video protocol for the Analogue Pocket USB C, because their dock costs $129",
+                  "score": 14,
+                  "created_utc": 1747445808.0,
+                  "replies": []
+                },
+                {
+                  "id": "mstr97q",
+                  "author": "Fritzschmied",
+                  "body": "And what if you would use a ucb c to db adapter?",
+                  "score": 1,
+                  "created_utc": 1747503951.0,
+                  "replies": []
+                },
+                {
+                  "id": "msrthl4",
+                  "author": "thunderplacefires",
+                  "body": "Edit: Didn\u2019t know what I was talking about. Nothing to see here.",
+                  "score": 0,
+                  "created_utc": 1747477587.0,
+                  "replies": [
+                    {
+                      "id": "msv9b27",
+                      "author": "herculeesjr",
+                      "body": "PS5 has VRR and only has HDMI...",
+                      "score": 0,
+                      "created_utc": 1747522350.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msooizc",
+              "author": "fvck_u_spez",
+              "body": "I think it is specifically the converter that Nintendo is using (presumably in the dock) to convert DisplayPort to HDMI. VRR can persist with a DisplayPort to HDMI conversion, IIRC the PS5 uses an internal DisplayPort to HDMI converter chip that takes the DisplayPort signal from the GPU and connects it to the HDMI out, and the PS5 supports VRR.",
+              "score": 21,
+              "created_utc": 1747426678.0,
+              "replies": [
+                {
+                  "id": "msp53np",
+                  "author": "AdeptFelix",
+                  "body": "I don't think the PS5 implementation can be compared to the use of a modified DP Alt mode that Nintendo uses. Regular DisplayPort connections are capable of running full HDMI signals over their pinouts, so long as the controller can create the correct signals. This is how DP++ works, which runs a native HDMI signal over a DisplayPort connector/cable to an HDMI device. Now, I don't know much about the PS5's implementation, and I'm having trouble finding a good source to learn about it, but I imagine this is how the PS5 is implementing HDMI despite the initial gpu output of DisplayPort. The final converter chip would be the implementation point for HDMI VRR, and can communicate accordingly with the GPU directly.\n\nDisplayPort Alt (or a similiar implementation of it), sorta messes with things. It's an actual DisplayPort signal that's being passed and can't operate in a DP++ mode, so it has to be converted. For regular video, that's not difficult as it's mostly how the signals are wrapped for transport so it can be done in real-time. \n\nFor VRR, HDMI and DisplayPort use different standards that aren't just rewraps of something standard, so it would need to be converted, or man-in-the-middle'd. While I think it's possible to convert the VRR calls between the two formats, I'm not sure if the additional latency would make it that functional. Think of it like an emulation layer for VRR API calls. The other method I can think of would involve a device in the middle acting as both a receiver for the DisplayPort VRR spec, and acting as a host for an HDMI spec. I also don't like it because now the middle device needs to have multiple video buffers so it can receive and output on each buffer, which is a lot more complex.",
+                  "score": 13,
+                  "created_utc": 1747431841.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msoy6yj",
+              "author": "virginiarph",
+              "body": "you cannot convert DP to HDMI 2.1.\n\nthis is the same reason why my steam deck can\u2019t run 4k vrr on my lg c1, but can just fine via anything that has a DP signal",
+              "score": 11,
+              "created_utc": 1747429621.0,
+              "replies": [
+                {
+                  "id": "mspdi65",
+                  "author": "lynxblaine",
+                  "body": "Isn\u2019t this why the steam deck dock is so special? It does VRR on hdmi ?",
+                  "score": 3,
+                  "created_utc": 1747434729.0,
+                  "replies": [
+                    {
+                      "id": "mspia9j",
+                      "author": "hanlonmj",
+                      "body": "Can confirm it does VRR on my LG B2 over HDMI, although I have to enable AMD Freesync Premium in the Game Mode settings",
+                      "score": 7,
+                      "created_utc": 1747437090.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msq66jd",
+                      "author": "orangpelupa",
+                      "body": "I wonder if steam deck dock enables hdmi vrr for switch 2",
+                      "score": 2,
+                      "created_utc": 1747446116.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msrmhfk",
+              "author": "Dragonbuttboi69",
+              "body": "Why don't TV'S have displayport? It would certainly be more useful than the common interface ports they all have for some reason even though no one makes use of conditional access modules.",
+              "score": 2,
+              "created_utc": 1747473122.0,
+              "replies": [
+                {
+                  "id": "mst65p8",
+                  "author": "Eruannster",
+                  "body": "I don't think DisplayPort intially supported audio signals whereas HDMI has always been a video + audio port which is kind of essential for TV use. And I think HDMI had DRM handshakes and stuff that DisplayPort didn't have initially either. (Though I may be misremembering the exact timeline here.)\n\n\nAnd probably a healthy dose of the HDMI consortium being like \"hey TV makers, look at our cool port\" whereas DisplayPort is an open standard that didn't get as much of a corporate push. And now every TV is using HDMI, so now they can't be arsed to swap.",
+                  "score": 2,
+                  "created_utc": 1747497192.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msr84sf",
+          "author": "whatnowwproductions",
+          "body": "It could still support freesync or gsync over HDMI 2.0. It's a shame they didn't go with that.",
+          "score": 4,
+          "created_utc": 1747464067.0,
+          "replies": []
+        },
+        {
+          "id": "mspyfai",
+          "author": "Theguest217",
+          "body": "Nintendo releasing hardware that is obsolete before it is even released. Name a better duo.",
+          "score": 24,
+          "created_utc": 1747443123.0,
+          "replies": []
+        },
+        {
+          "id": "msotb1y",
+          "author": "Usual_Translator_939",
+          "body": "Be careful they might brick you \ud83d\ude48",
+          "score": 8,
+          "created_utc": 1747428127.0,
+          "replies": [
+            {
+              "id": "msowimz",
+              "author": "PM_ME_YOUR_SPAGHETTO",
+              "body": "I know what you actually mean, but I like to imagine Nintendo lawyers coming to your house and throwing bricks through your window.\n\n(I'm sure they'd love to do that if the law permitted, to anyone who uses the switch 2 in an \"unauthorized\" way.)",
+              "score": 9,
+              "created_utc": 1747429100.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msq3yjh",
+          "author": "wondermorty",
+          "body": "nintendo are braindead man \ud83d\ude02",
+          "score": 4,
+          "created_utc": 1747445251.0,
+          "replies": [
+            {
+              "id": "msq73te",
+              "author": "MovieGuyMike",
+              "body": "They\u2019ll sell a switch 2 OLED with dock VRR for an extra $150 in a couple years and make even more money,",
+              "score": 12,
+              "created_utc": 1747446473.0,
+              "replies": []
+            },
+            {
+              "id": "msq51nc",
+              "author": "neonlights326",
+              "body": "B-b-but the games, bro!",
+              "score": -7,
+              "created_utc": 1747445675.0,
+              "replies": [
+                {
+                  "id": "msqhtqj",
+                  "author": "grandpa2390",
+                  "body": "I\u2019m done. The two switch 2 games I will actually want to play, I will emulate. If I feel guilty about it, I\u2019ll buy just the game before emulating it",
+                  "score": -4,
+                  "created_utc": 1747450671.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msr98p2",
+          "author": "duckofdeath87",
+          "body": "Switch 2 uses display port 1.4. there's only ONE chip that converts DP1.4 to HDMI and it's 2.0\n\nI have used an adapter for DP1.4 to HDMI 2.0 and got 4k 120hz with VRR on my PC with DSC",
+          "score": 1,
+          "created_utc": 1747464725.0,
+          "replies": []
+        },
+        {
+          "id": "msrhtvp",
+          "author": "PbCuBiHgCd",
+          "body": "Technically it should, but knowing nintendo, they will just software lock it, just because it isn't available on official dock (unless they release dock pro at higher price lmao)",
+          "score": 1,
+          "created_utc": 1747470085.0,
+          "replies": []
+        },
+        {
+          "id": "msr4dve",
+          "author": "Alienhaslanded",
+          "body": "Seems like a huge oversight",
+          "score": 2,
+          "created_utc": 1747461854.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mso9ms6",
+      "author": "TotemRiolu",
+      "body": "Can someone explain to me like I'm stupid, what VRR is?",
+      "score": 326,
+      "created_utc": 1747422099.0,
+      "replies": [
+        {
+          "id": "msoah24",
+          "author": "OnlyNeedJuan",
+          "body": "variable refresh rate, it allows the used monitor/screen to change how quickly it updates to be in sync with the actual framerate the console is producing, this can help prevent screen tearing and generally helps with making unstable framerates feel a bit better.\n\nSo if your screen is say, 60Hz, and the console occasionally dips to 40fps when playing games, the screen will also drop down to 40Hz at the same time.",
+          "score": 482,
+          "created_utc": 1747422358.0,
+          "replies": [
+            {
+              "id": "msobig9",
+              "author": "TotemRiolu",
+              "body": "I appreciate your explanation a ton, thanks for keeping it simple.",
+              "score": 131,
+              "created_utc": 1747422676.0,
+              "replies": [
+                {
+                  "id": "msoqehq",
+                  "author": "qa3rfqwef",
+                  "body": "It was the tech that honestly saved gaming for me. I was getting more and more frustrated and disillusioned with games because I always had to choose between super distracting screen tearing or input latency with v-sync.\n\nBack then, my tolerance for frame rate in most games was a minimum of 60 fps before VRR came along. After I started using it, that threshold dropped to about 50 since it *felt* roughly the same in comparison.\n\nThese days, my tolerance is more in the 90\u2013100 fps range, lol. DLSS\u2014and in some cases, Frame Generation\u2014are really helping solve that problem.",
+                  "score": 23,
+                  "created_utc": 1747427247.0,
+                  "replies": [
+                    {
+                      "id": "msp62a4",
+                      "author": "slobstr",
+                      "body": "You have issues with input latency but are ok with frame gen? Something doesn\u2019t add up here.",
+                      "score": 44,
+                      "created_utc": 1747432160.0,
+                      "replies": [
+                        {
+                          "id": "mspef4v",
+                          "author": "CallMeBigPapaya",
+                          "body": "going from 30 to 60 with frame gen is a lot different than 60 to 90. \n\nThe higher your base framerate the less input lag you'll get.",
+                          "score": 20,
+                          "created_utc": 1747435156.0,
+                          "replies": [
+                            {
+                              "id": "msqeoei",
+                              "author": "Standard-Potential-6",
+                              "body": "True. Just keep in mind: if you start at 60fps, then add framegen, the cost of performing framegen will take you to perhaps 50fps (ballpark).\n\nYou'll then experience 100fps, with half of those frames being generated, but will experience similar input lag as at 50fps.\n\nGames with the new version of NVIDIA Reflex 2 \"frame warp\" that came out year will try to adjust the generated frame at the last moment to account for new data from the game, but I've not seen a detailed rundown of the effect yet and wouldn't bet on miracles.\n\nIt is pretty nice if you can get the base rate over 70-80fps, especially for slower single-player games where immersion matters more than fast action.",
+                              "score": 2,
+                              "created_utc": 1747449393.0,
+                              "replies": [
+                                {
+                                  "id": "msrr80w",
+                                  "author": "DynamicMangos",
+                                  "body": "This is what makes Frame Gen fantastic for games that don't actually support >60fps, because then the FameGen doesn't actually make your performance drop. I'm playing all 60fps locked games with adaptive frame gen to get up to 165fps and it feels pretty great",
+                                  "score": 3,
+                                  "created_utc": 1747476187.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "msqzo63",
+                              "author": "Danger_Mysterious",
+                              "body": "Really? I tried x2 on 120 I think and it felt fucking awful. It WAS on GeForce now but my connection is great like (15ms ping peak), so usually pretty much identical experience to playing locally (for me).",
+                              "score": -3,
+                              "created_utc": 1747459227.0,
+                              "replies": [
+                                {
+                                  "id": "msrref3",
+                                  "author": "DynamicMangos",
+                                  "body": "LMAO yeah no  \nIf you use 2x so get to 120fps you lag a whole frame (16ms) behind. So then with the ping you're adding YET ANOTHER 15ms. Of course that feels fucking awful.",
+                                  "score": 1,
+                                  "created_utc": 1747476299.0,
+                                  "replies": [
+                                    {
+                                      "id": "msuwbkt",
+                                      "author": "Danger_Mysterious",
+                                      "body": "Eh I mean I\u2019ve played online games for like almost 20 years at this point so I\u2019ve experienced far far worse than 30 ping. For some reason this felt way way worse, but maybe I will admit I didn\u2019t fiddle that much with settings to see if I could make it better.",
+                                      "score": 0,
+                                      "created_utc": 1747517658.0,
+                                      "replies": [
+                                        {
+                                          "id": "msxf0k5",
+                                          "author": "DynamicMangos",
+                                          "body": "That is not a logical comparison though.\n\nPlaying an Online Game with high ping, and STREAMING a game with high ping are completely different.\n\nOnline games use \"Client Side Prediction\", so even if you have a ping of 100, your PC won't wait for 100ms to display the results of your actions, making it still feel smooth to play (except for sometimes \"glitching around\" because the prediction your pc made was off from what the server actually calculated and has to be re-synchronized)\n\nStreaming a game means that everything you do will have a delay of AT LEAST the reported ping. But usually more. Ping just means how quick a single \"Ping test\" package can be transmitted. But when you're streaming a game you have to make an input which then gets encoded, sent to the server, that server passes that input to the game, the game has to render the next frame (which, at 60fps means it takes 16.6ms), then ENCODE the frame which takes about another 10-20ms, send it to you, which takes longer die to the large file compared to a single ping-test-packet, and then your PC still has to de-encode it and display it which adds another 10-20ms.\n\nSo overall, if you're Streaming with 30ms ping your actual input-latency is somewhere around 70-90ms\n\nAnd now adding framegen to it, which not only means the \"local\" input latency will be doubled (so from 16ms per frame to 32ms per frame) it also doubles the amount of data that's encoded, sent and decoded. So your actual latency will be almost doubled, which is not that bad for local play (there you go from \\~20ms to \\~40ms if you started at 60fps) but for game streaming you'll go from \\~80ms to \\~160ms. \n\nSo yeah, no wonder frame gen feels terrible on game streaming. Try it out locally. It still ads some latency that can be felt, but it's absolutely not unplayable, especially for non-competetive games",
+                                          "score": 2,
+                                          "created_utc": 1747559616.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "msqu4d7",
+                          "author": "qa3rfqwef",
+                          "body": "I said that in some cases, Frame Gen can work. If you already have a reasonable frame rate, a well-implemented NVIDIA Reflex, and use 2x in certain games, the latency is minimal and nowhere near v-sync levels. The technology will only improve from here, so I'm expecting it to be more useable as it progresses.",
+                          "score": 1,
+                          "created_utc": 1747456339.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "msphpyi",
+                      "author": "jetstobrazil",
+                      "body": "So does this mean we\u2019re going to get that distracting screen tearing docked? Or are the performance upgrades docked going to take care of that?",
+                      "score": 2,
+                      "created_utc": 1747436877.0,
+                      "replies": [
+                        {
+                          "id": "msq25jb",
+                          "author": "Gloriathewitch",
+                          "body": "it should still have vertical sync",
+                          "score": 1,
+                          "created_utc": 1747444554.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msquoaq",
+                          "author": "qa3rfqwef",
+                          "body": "My guess is they'll opt for the old fashioned way of some kind of triple-buffered v-sync when docked. However, how well that gets implemented will be on a per-game basis so you might find some games with tearing.",
+                          "score": 1,
+                          "created_utc": 1747456616.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "msoygxi",
+                      "author": "sat-soomer-dik",
+                      "body": "The Special One",
+                      "score": 5,
+                      "created_utc": 1747429707.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msp00ms",
+                      "author": "tehaiks",
+                      "body": "Eye roll.",
+                      "score": -5,
+                      "created_utc": 1747430191.0,
+                      "replies": [
+                        {
+                          "id": "msrdynb",
+                          "author": "cech_",
+                          "body": "Glad someone said it, Christ the entitlement of some of the modern gamers is unbearable. Bragging about how high your frame rate standards are is like a girl bragging about how she only dates guys that are 6' 5\" or taller.",
+                          "score": 3,
+                          "created_utc": 1747467642.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msp28ua",
+                          "author": "orsikbattlehammer",
+                          "body": "This comment serves nothing except to be mean",
+                          "score": -2,
+                          "created_utc": 1747430903.0,
+                          "replies": [
+                            {
+                              "id": "msp5sef",
+                              "author": "avelineaurora",
+                              "body": "It's hard to take someone seriously who says their tolerance threshold for gaming is fucking *90-100 fps* lol.",
+                              "score": 8,
+                              "created_utc": 1747432069.0,
+                              "replies": [
+                                {
+                                  "id": "msrvnkm",
+                                  "author": "drunktriviaguy",
+                                  "body": "I'm not OP but that's not an unrealistic number for PC gaming and the entire point of his comment was to highlight how VRR makes playing games at framerates that fall between standard monitor refreshrates bearable.  Tons of people intentionally sacrifice clarity for frame rates above 60 fps because it makes the game look and feel more responsive.  If you're playing something like Counter Strike 2, you can easily hit frame rates in the 200s with 20 series Nvida cards.",
+                                  "score": 3,
+                                  "created_utc": 1747478864.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mspx8jb",
+                                  "author": "ayyyyycrisp",
+                                  "body": "I think it totally depends on the game.\n\nI'll gladly play a good looking single player rpg at 30fps with a controller. I'd prefer 60 but 30 I can still have a fine experience. with mouse/keyboard I need at least 60fps for the same game.\n\nbut you won't catch me playing Rocket League at any less than 240fps, and I feel the game is unplayable for me below 120fps.",
+                                  "score": 0,
+                                  "created_utc": 1747442673.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mspmre3",
+                                  "author": "orsikbattlehammer",
+                                  "body": "So what? They aren\u2019t telling anyone else what they should or shouldn\u2019t do, literally who cares what this persons tolerance is. They aren\u2019t asking anyone for anything, and they aren\u2019t giving anyone any grief with this comment.",
+                                  "score": -5,
+                                  "created_utc": 1747438738.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "msp3605",
+                              "author": "elporsche",
+                              "body": "Like 60% of reddit's comments, unfortunately",
+                              "score": 3,
+                              "created_utc": 1747431204.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mspd4lr",
+                      "author": "FewHorror1019",
+                      "body": "Dude i am with you. Anything under 60 used to mean i needed to upgrade or suck it up and lower settings. \n\nNow it needs 90fps to look decent. Frame gen is a godsend",
+                      "score": 1,
+                      "created_utc": 1747434596.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msp21qq",
+                      "author": "orsikbattlehammer",
+                      "body": "I am in exactly the same boat as you",
+                      "score": 1,
+                      "created_utc": 1747430839.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msob7mn",
+              "author": "CarlosFer2201",
+              "body": "It also allows for custom frame rate targets. If a game can run smoothly at like 35fps, then why not? Without VRR you'd be stuck at 30 even if there was headroom.",
+              "score": 25,
+              "created_utc": 1747422584.0,
+              "replies": [
+                {
+                  "id": "msoehee",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 14,
+                  "created_utc": 1747423590.0,
+                  "replies": [
+                    {
+                      "id": "msoq5ut",
+                      "author": "Eruannster",
+                      "body": "Yeah, but not dynamically and it means you'd need to have a locked FPS to avoid dips. If you manually set your refresh rate to 35 FPS and the game suddenly drops to 32 FPS... woops, now you have stutter again.\n\n\nVRR takes the guesswork out of things and just goes \"hey, whatever the frame rate of the game is, the screen adapts, we got you bro\".",
+                      "score": 6,
+                      "created_utc": 1747427175.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msp3n7a",
+                      "author": "fillmoeC",
+                      "body": "rog ally has vrr",
+                      "score": -3,
+                      "created_utc": 1747431361.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "msoiq0h",
+                  "author": "Small_Editor_3693",
+                  "body": "VRR doesn\u2019t allow 35fps. It allows 35fps without screen tearing.",
+                  "score": 10,
+                  "created_utc": 1747424900.0,
+                  "replies": [
+                    {
+                      "id": "msosdzd",
+                      "author": "ManlySyrup",
+                      "body": "VRR does allow for 35fps if the VRR range is 1-120 for example. Most monitors only go as low as 48 though so when games go down to 35fps the monitor changes to 70hz as a workaround method (and it works great).",
+                      "score": -1,
+                      "created_utc": 1747427852.0,
+                      "replies": [
+                        {
+                          "id": "mspmhkq",
+                          "author": "dtwhitecp",
+                          "body": "I think they intended to say \"you can do 35fps without VRR, but VRR might be necessary to prevent tearing\"",
+                          "score": 1,
+                          "created_utc": 1747438638.0,
+                          "replies": [
+                            {
+                              "id": "mspn55z",
+                              "author": "ManlySyrup",
+                              "body": "Yeah in retrospect I noticed it might've been a language thing, especially with the subsequent responses.",
+                              "score": 1,
+                              "created_utc": 1747438881.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "msreicr",
+                              "author": "pseudopad",
+                              "body": "You can easily render at 35 fps without VRR and still avoid screen tearing. You will get frame jutter though, as frames will be displayed on screen at an uneven pace.",
+                              "score": 1,
+                              "created_utc": 1747467986.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mspaba1",
+                          "author": "Small_Editor_3693",
+                          "body": "Your display can display 60hz and the content is only 35fps. That\u2019s how you get screen tearing.",
+                          "score": -1,
+                          "created_utc": 1747433608.0,
+                          "replies": [
+                            {
+                              "id": "mspagoz",
+                              "author": "ManlySyrup",
+                              "body": "That is correct. What I said is also correct. What is your point?",
+                              "score": 3,
+                              "created_utc": 1747433662.0,
+                              "replies": [
+                                {
+                                  "id": "mspb7uy",
+                                  "author": "Small_Editor_3693",
+                                  "body": "None of what you said is correct. Monitors will not auto adjust their refresh rate before VRR was a thing. A monitor that\u2019s 60 hz won\u2019t jump up the 70 hz to avoid screen tearing. That\u2019s what VRR does.",
+                                  "score": -2,
+                                  "created_utc": 1747433926.0,
+                                  "replies": [
+                                    {
+                                      "id": "mspbysb",
+                                      "author": "ManlySyrup",
+                                      "body": "When did I say monitors that are not Freesync-compatible do that? I am specifically talking about VRR so it's implied I'm talking about VRR monitors, where is your reading comprehension?\n\nYou said \"VRR doesn't allow 35fps\" when it factually does do that with VRR monitors that have 35hz or lower as their lowest range, or with Freesync Premium on AMD cards with monitors that only go as low at 48hz.\n\nFor fucks sake don't take my word for it, just google the damn information yourself.",
+                                      "score": 4,
+                                      "created_utc": 1747434189.0,
+                                      "replies": [
+                                        {
+                                          "id": "mspdkn0",
+                                          "author": "Small_Editor_3693",
+                                          "body": "It doesn\u2019t allow it because being a monitor allows it to run 35 fps. Not having VRR doesn\u2019t prevent 35fps\n\nIf you were saying that about VRR monitors, no shit. You\u2019re just repeating what everyone else in this thread said",
+                                          "score": 1,
+                                          "created_utc": 1747434752.0,
+                                          "replies": [
+                                            {
+                                              "id": "mspdwnv",
+                                              "author": "ManlySyrup",
+                                              "body": "I know that, but that's how you worded your original comment and thus my response. Your reading *and* writing skills need some work.",
+                                              "score": 1,
+                                              "created_utc": 1747434869.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "mspdp4r",
+                                      "author": "TotoCocoAndBeaks",
+                                      "body": "Ehh, not sure what your issue is with what they wrote, because your reply is totally irrelevant in their context\n\nThey were not saying any of those things",
+                                      "score": 2,
+                                      "created_utc": 1747434796.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "msokbik",
+                  "author": "phrunk7",
+                  "body": "VRR has nothing to do with enabling 35 fps. VRR just prevents screen-tearing.",
+                  "score": 5,
+                  "created_utc": 1747425391.0,
+                  "replies": [
+                    {
+                      "id": "msoln6o",
+                      "author": "CarlosFer2201",
+                      "body": "Variable refresh rate allows a screen to refresh at any rate within its capabilities. If the game targets a custom rate, the screen will follow. Without VRR you're stuck either stuck at a lower rate (usually because of Vsync) , or you get duplicate frames with artifacts such as tearing indeed.",
+                      "score": -3,
+                      "created_utc": 1747425797.0,
+                      "replies": [
+                        {
+                          "id": "msomv9f",
+                          "author": "phrunk7",
+                          "body": "That is not accurate. \n\nAny TV capable of 60hz can display 35fps.\n\nIt's just that without VRR, you'll get frame-tearing.\n\nExactly as I stated.",
+                          "score": 2,
+                          "created_utc": 1747426172.0,
+                          "replies": [
+                            {
+                              "id": "msoteio",
+                              "author": "ManlySyrup",
+                              "body": "What the other guy said is 100% accurate. VRR dynamically switches the screen's refresh rate to the game's frame rate. Running a game at 35fps on a locked 60hz screen causes stutters and screen tearing for reasons he explained already, which you can google as well.",
+                              "score": 2,
+                              "created_utc": 1747428156.0,
+                              "replies": [
+                                {
+                                  "id": "msotsrb",
+                                  "author": "phrunk87",
+                                  "body": "I think you're confusing the comments. That was literally my original comment. lol",
+                                  "score": 2,
+                                  "created_utc": 1747428277.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "msq5jzx",
+                                  "author": "jjayzx",
+                                  "body": "Has everyone forgotten the name for what you are all ranting about to each other over? VSync, and no you don't get screen tearing with \"locked\"/vsync on. You turn it on to remove tearing by syncing framerate to refresh rate or a divisible of it. Thus a 60hz refresh rate screen with vsync on will not show 35 fps and instead show 30 fps since it neatly doubles to 60. With vsync off you will then get tearing since it tries to display 35 frames within 60 and it doesn't line up.",
+                                  "score": 1,
+                                  "created_utc": 1747445871.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "msoule3",
+                              "author": "funforgiven",
+                              "body": "It does not show 35 fps. It shows 60fps but some frames are duplicate.",
+                              "score": -1,
+                              "created_utc": 1747428514.0,
+                              "replies": [
+                                {
+                                  "id": "msov2tc",
+                                  "author": "phrunk87",
+                                  "body": "Yeah, hence the frame-tearing I mentioned.\n\nJust take the L people... You're looking like fools disagreeing but saying the same thing I'm saying differently. LOL",
+                                  "score": -1,
+                                  "created_utc": 1747428662.0,
+                                  "replies": [
+                                    {
+                                      "id": "msoyrk4",
+                                      "author": "Peteskies",
+                                      "body": "Look into the difference between Hz and FPS.",
+                                      "score": 1,
+                                      "created_utc": 1747429799.0,
+                                      "replies": [
+                                        {
+                                          "id": "msphwku",
+                                          "author": "phrunk7",
+                                          "body": "I'm well aware of the difference. Nothing I've said has been incorrect in any way.\n\nWhat is it with you pretentious twats continuosly harassing me over your own misunderstanding?",
+                                          "score": 0,
+                                          "created_utc": 1747436946.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mspqxtx",
+                              "author": "dreadcain",
+                              "body": "That's not really accurate. They can display 35fps content, but they can't display it at 35 fps. Usually gpu/dvd player/whatever is doing some fiddling to make it work like doubling 50 frames out of every 70 for example with 35fps on a 60hz screen.",
+                              "score": 0,
+                              "created_utc": 1747440294.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "msothlw",
+                          "author": "ManlySyrup",
+                          "body": "Idk why you're getting downvoted, what you said is completely accurate and is how VRR works.",
+                          "score": 0,
+                          "created_utc": 1747428183.0,
+                          "replies": [
+                            {
+                              "id": "msotyv3",
+                              "author": "phrunk87",
+                              "body": "It's because he incorrectly stated the original, accurate, comment was wrong.",
+                              "score": -1,
+                              "created_utc": 1747428329.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msoluah",
+              "author": "deathhead_68",
+              "body": "So I get that, but like what would look different if it didn't do that?",
+              "score": 2,
+              "created_utc": 1747425858.0,
+              "replies": [
+                {
+                  "id": "msouk4w",
+                  "author": "notyouravgredditor",
+                  "body": "Image tearing, which happens when your frame rate is not a nice multiple of the refresh rate. You get different parts of different frames on the same screen.",
+                  "score": 3,
+                  "created_utc": 1747428503.0,
+                  "replies": []
+                },
+                {
+                  "id": "msppb1h",
+                  "author": "dreadcain",
+                  "body": "It's most visible with fast motion, like spinning the camera quickly. Part of the screen would remain unchanged from the last frame and part of the screen will have the data from a new frame. So you'll see a \"tear\" through the screen somewhere, usually a horizontal line, where the new data stops and the previous frames data picks up. \n\nBasically without vrr the screen is requesting frames on a 60hz (or whatever) timer. It doesn't know or care if the gpu has had time to finish drawing that frame yet. It will just display whatever the gpu has ready every time that timer fires. With vrr rather than have a clock on the screen it waits for the gpu to say a new frame is ready and only then copies it over to display it.\n\nETA: The main alternate solution before VRR was to simply have an extra buffer on the GPU so it could hold 2 or more frames at once. If a new frame wasn't ready when the screen asked it would simply show the entire previous frame.",
+                  "score": 2,
+                  "created_utc": 1747439679.0,
+                  "replies": [
+                    {
+                      "id": "msrowrm",
+                      "author": "deathhead_68",
+                      "body": "Ahh that really made me get it, thanks!",
+                      "score": 2,
+                      "created_utc": 1747474718.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "msozp1r",
+                  "author": "OnlyNeedJuan",
+                  "body": "Great examples can be found by googling images for screen tearing, that's effectively what it will look like, except both in motion and not consistent. It makes for a terrible experience imo.",
+                  "score": 1,
+                  "created_utc": 1747430091.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mspcyfl",
+              "author": "FewHorror1019",
+              "body": "I thought this requires tech on both the gpu and monitor",
+              "score": 1,
+              "created_utc": 1747434536.0,
+              "replies": [
+                {
+                  "id": "mspmwfd",
+                  "author": "dreadcain",
+                  "body": "It does but its pretty likely on your gpu. VRR is pretty new, but its just the name for HDMI's version of the tech. Nvidia and AMD have been using it for years as gsync and freesync respectively and at this point they're basically all interoperable with each other. Even my chromecast is able to take advantage of the vrr on my tv.",
+                  "score": 2,
+                  "created_utc": 1747438791.0,
+                  "replies": [
+                    {
+                      "id": "mst6q6l",
+                      "author": "Eruannster",
+                      "body": "Um, correction. VRR is not new and G-Sync and FreeSync are both implementations of VRR with fancy names.\n\n\nThe \"newest\" technology is indeed HDMI-VRR which is HDMI's version of the tech.",
+                      "score": 1,
+                      "created_utc": 1747497375.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mspkwfg",
+              "author": "dreadcain",
+              "body": "Calling it just a bit better is a massive understatement. The alternative solution is basically to just drop frames resulting in essentially halving the framerate (at least) for even the mildest unstable frame rate. That or simply showing the screen tears",
+              "score": 1,
+              "created_utc": 1747438054.0,
+              "replies": [
+                {
+                  "id": "msrilul",
+                  "author": "OnlyNeedJuan",
+                  "body": "That's fair haha",
+                  "score": 2,
+                  "created_utc": 1747470590.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msqhzdd",
+              "author": "grandpa2390",
+              "body": "I knew what it was from my iPhone, but I don\u2019t understand how it helps in the situation you just described",
+              "score": 1,
+              "created_utc": 1747450737.0,
+              "replies": [
+                {
+                  "id": "msriim9",
+                  "author": "OnlyNeedJuan",
+                  "body": "So a game effectively generates a series of pictures very rapidly for a monitor to display. This framerate, or FPS, is not always constant however (sometimes framerate lowers because things are hard for the computer to generate).\n\nA monitor, by default, tries to display a picture at a set rate. There is effectively no computing, so this can just be set to a given number, say 60 pictures a second, or 60Hz. That's a monitor's refresh rate.\n\nScreen tearing happens when the framerate of your game and the refresh rate of your monitor aren't in sync, this causes the monitor to sometimes have to display the information of multiple frames in 1 frame, and that creates \"tears\", with old and new frames trying to display at the same time (this creates the horizontal line breaks you notice mostly while stuff is moving on screen). Think of a picture taking longer to send while the monitor is already expecting the next picture, that creates such an issue.\n\nVariable refresh rate ensures that the monitor refreshes (i.e. displays a frame) at the same time the game does. The monitor will now wait for the next picture before it tries to update the display, rather than always trying to brute force the next picture. \n\nIf they're in sync, the situation where multiple frames might try to display at once cannot occur, as any changes in the amount of frames per second made by the game will be reflected by the monitor adjusting when it displays the next picture to be the same.\n\nI'll admit it's a thing that's much easier to understand with a nice visual representation, but that's tricky on reddit at times, so if it's not clear I'd recommend looking up some videos on youtube on how variable refresh rate works and how it helps with screen tearing.",
+                  "score": 2,
+                  "created_utc": 1747470532.0,
+                  "replies": [
+                    {
+                      "id": "msrpdph",
+                      "author": "grandpa2390",
+                      "body": "Oh yikes. That doesnt sound good!",
+                      "score": 1,
+                      "created_utc": 1747475023.0,
+                      "replies": [
+                        {
+                          "id": "msrq54g",
+                          "author": "OnlyNeedJuan",
+                          "body": "Yeah, screen tearing looks bad, not the end of the world, but it can mess with an otherwise smooth experience. VRR is a great way of handling it, but it requires dedicated hardware (a GPU that supports the tech, HDMI ports and cables that support it, and finally a monitor that supports it). Thankfully the tech is developing nicely and is becoming much more affordable.",
+                          "score": 2,
+                          "created_utc": 1747475511.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msroaa1",
+              "author": "Embarrassed-Weird173",
+              "body": "Oh. Here I was thinking it was like \"virtual reality response\" or something like that.\u00a0",
+              "score": 1,
+              "created_utc": 1747474313.0,
+              "replies": []
+            },
+            {
+              "id": "msse4mi",
+              "author": "nebber3",
+              "body": "Mario kart 8 (on the Wii U) ran at exactly 59FPS. That means every second, the game would stutter for exactly one frame because the TV was running at 60Hz.\n\nWith proper implementation of VRR, that could be resolved by dropping the TV's refresh rate to 59Hz, which would perfectly sync with the game and look basically as smooth as 60FPS.",
+              "score": 1,
+              "created_utc": 1747487489.0,
+              "replies": []
+            },
+            {
+              "id": "msouzt8",
+              "author": "None",
+              "body": "40hz? Won't that give everyone headaches?",
+              "score": -3,
+              "created_utc": 1747428636.0,
+              "replies": [
+                {
+                  "id": "msozhzs",
+                  "author": "OnlyNeedJuan",
+                  "body": "I'm not sure what you mean? People have played at 30fps (so, effectively 30Hz) for decades, heck, OoT ran at 20fps. Is there anything special about 40Hz that would give people headaches?",
+                  "score": 7,
+                  "created_utc": 1747430030.0,
+                  "replies": [
+                    {
+                      "id": "msp18al",
+                      "author": "None",
+                      "body": "You were talking about the screen refresh rate (40hz), not frames per second.",
+                      "score": -8,
+                      "created_utc": 1747430574.0,
+                      "replies": [
+                        {
+                          "id": "msp4bh4",
+                          "author": "JustAnotherSuit96",
+                          "body": "We're talking about VRR, and how the refresh rate of the screen adjusts to match that of the output of the game. Hence 40hz for 40fps. Before attempting to correct someone please at least try and understand the topic at hand.",
+                          "score": 6,
+                          "created_utc": 1747431583.0,
+                          "replies": [
+                            {
+                              "id": "msp762c",
+                              "author": "None",
+                              "body": "If you had a 40fps game you'd want to avoid a flickery, headache inducing 40hz refresh rate and instead go for a multiple of 40hz.  80hz, for example.  I'd be surprised if any display had a refresh rate lower than 50hz (EU) or 60hz (US).",
+                              "score": -8,
+                              "created_utc": 1747432528.0,
+                              "replies": [
+                                {
+                                  "id": "mspmiiz",
+                                  "author": "dreadcain",
+                                  "body": "This sounds like some pseudo science bullshit. \n\nVRR displays can often go down to like 12 hz. Considering the vast majority of content you watch is shot at 24, 25, or 30 hz that is a pretty useful feature.\n\nAlso not all screens flicker. For me the ones that do eventually give me headaches at any refresh rate.",
+                                  "score": 3,
+                                  "created_utc": 1747438647.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "msrixm1",
+                                  "author": "OnlyNeedJuan",
+                                  "body": "If you're referring to VRR flickering? Yeah, that's a thing, it's gotten much better over time, I'm not entirely sure how that relates to refresh rate itself, but the issue is minimized on most modern monitors. That said, I know less about VRR flickering, just that it's an issue, and that I'm glad that my monitor doesn't have it.\n\nIt's a very specific issue, and I, and seemingly a lot of other folks, weren't sure what you were talking about in your initial comment, lacked some details. Have a good one.",
+                                  "score": 1,
+                                  "created_utc": 1747470805.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msoajah",
+          "author": "LBTerra",
+          "body": "Variable Refresh Rate. The monitor syncs up with the output FPS to help eliminate screen tearing and allow for smoother visuals.",
+          "score": 14,
+          "created_utc": 1747422377.0,
+          "replies": []
+        },
+        {
+          "id": "msoc5bp",
+          "author": "HopelessRespawner",
+          "body": "Throwing my hat in the ring. \n\nTV fps matches game fps = fewer graphic issues (screen tearing, stuttering, etc)",
+          "score": 6,
+          "created_utc": 1747422871.0,
+          "replies": []
+        },
+        {
+          "id": "msoa3ow",
+          "author": "ODaferio",
+          "body": "Variable Refresh Rate",
+          "score": 18,
+          "created_utc": 1747422244.0,
+          "replies": []
+        },
+        {
+          "id": "mspj2ao",
+          "author": "Ruttagger",
+          "body": "It's something that should work when it's hooked up to my theater system where my receiver and tv both support it.  Another Nintendo let down.",
+          "score": 2,
+          "created_utc": 1747437376.0,
+          "replies": []
+        },
+        {
+          "id": "msrgpr9",
+          "author": "alidan",
+          "body": "effectively it has a range from 1 to x(whatever max frame rate for monitor is) anything in between there it will show the frame that is made when its made and not switch in between frames, this is what tearing is and is usually a line but can be other shapes as well in rare cases.\n\nvrr has two side benefits that no one talks about\n\n1) it makes low frame rates feel far FAR more responsive, my little brother got a monitor capable of it, and was showing it off, the game would go between 90 and 130fps (monitor was 144), this was cool but the gpu glitched for some reason and wouldn't clock up when he restarted the game, we both played a bit but something was off, and I noticed the fire was kinda low frame rate, that's when we brought up the hardware monitoring tools and found out the game was running at 17 frames a second, let me be very clear, we both are the kind of people who complain when crap goes sub 60fps because it feels like hell, but vrr makes inputs feel perfect even at lower frame rates\n\nbecause of this\n\n2) the need to always max out frame rate is gone, sure it may not feel as smooth, but as far as inputs go, the need is gone.",
+          "score": 2,
+          "created_utc": 1747469369.0,
+          "replies": []
+        },
+        {
+          "id": "mspuvo9",
+          "author": "Neo_Techni",
+          "body": "people have only been giving you a partial explanation\n\nback when we used Cathode Ray Tube-based TVs, they didn't have complex computers driving them, but simple electronics that used the frequency of the power grid itself as the clock signal (clock signals are the heartbeat of any electronic, driving when actions take place). This meant in North America/Japan they were limited to 60 HZ, and 50 HZ in Europe. When we switched to more complex electronics in the displays, we could separate the clock signal from the power grid. So that we could run at frame rates that were not a multiple of 60 or 50.\n\nGames send their frames out in 1 of 2 ways:\n\nV(ertical) synced, in that they are synchronized with the vertical blanking interval, which happens at the end of a HZ/clock cycle. This means 1 frame is sent out for each HZ   \n\nNon-synced, which means if a frame isn't done rendering the time it has (1/60 or 1/50 of a second), it's sent out anyway, resulting in an image that is half the new frame, half the previous frame, looking like an ugly puzzle. Some weirdos chose this willingly, cause of the faster response time\n\nNow VRR has the advantage of both modes. No jarring puzzle effect, faster response time. A frame is sent to the TV when it's done, and the TV doesn't care about how many frames per second there are.",
+          "score": 1,
+          "created_utc": 1747441782.0,
+          "replies": []
+        },
+        {
+          "id": "msoab7a",
+          "author": "ericstern",
+          "body": "Vehicle \u2026 registration\u2026 reader? Must be an app so you can show police officers your registration in the case you don\u2019t have the paper one in the car!",
+          "score": -15,
+          "created_utc": 1747422308.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msobzbj",
+      "author": "ersan191",
+      "body": "Such a weird thing to cheap out on, I'm pretty sure the GPU supports HDMI 2.1, all other Ampere GPUs do - they really had to save a few bucks not putting a port in the dock?",
+      "score": 106,
+      "created_utc": 1747422820.0,
+      "replies": [
+        {
+          "id": "msodih7",
+          "author": "mrturret",
+          "body": ">HDMI 2.1\n\nAt bare minimum, they could just let you use a USB-C to Displayport adapter.",
+          "score": 40,
+          "created_utc": 1747423290.0,
+          "replies": []
+        },
+        {
+          "id": "msonc6v",
+          "author": "one2hit",
+          "body": "If I had to guess, Nintendo only intended VRR to be used as a stopgap to cover performance dips in handheld. Or maybe that\u2019s their reasoning.",
+          "score": 24,
+          "created_utc": 1747426317.0,
+          "replies": [
+            {
+              "id": "mst70lh",
+              "author": "Eruannster",
+              "body": "Which is kind of nuts because you'll absolutely see the very same performance drops in docked mode (if not worse, because docked modes typically render at a higher resolution).",
+              "score": 10,
+              "created_utc": 1747497468.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msqi9b8",
+          "author": "byneothername",
+          "body": "I still think the weirdest thing they ever did was provide a firmware update to allow you to use Bluetooth headphones. I remember thinking, wait, that was an option all along?",
+          "score": 8,
+          "created_utc": 1747450854.0,
+          "replies": [
+            {
+              "id": "msrhm4k",
+              "author": "Yummier",
+              "body": "I mean, the bluetooth audio output on Switch 1 is so dreadful I fully understand them not originally supporting it. Hopefully it should be part of the design for Switch 2.",
+              "score": 4,
+              "created_utc": 1747469947.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msoyyd2",
+          "author": "QuillQuickcard",
+          "body": "Judging by the reactions to the pricetag- yes. They really, REALLY needed to",
+          "score": 7,
+          "created_utc": 1747429858.0,
+          "replies": []
+        },
+        {
+          "id": "msoczh2",
+          "author": "Yayti",
+          "body": "More reason to get an OLED like revision when that eventually drops",
+          "score": 4,
+          "created_utc": 1747423127.0,
+          "replies": [
+            {
+              "id": "msolfvv",
+              "author": "rnnd",
+              "body": "In like 4 years from now?",
+              "score": 26,
+              "created_utc": 1747425734.0,
+              "replies": [
+                {
+                  "id": "msp11a9",
+                  "author": "casino_r0yale",
+                  "body": "Plenty of time to finish my switch backlog\u00a0",
+                  "score": 3,
+                  "created_utc": 1747430512.0,
+                  "replies": [
+                    {
+                      "id": "msp1pzz",
+                      "author": "rnnd",
+                      "body": "Or have a switch 2 that offers improved framerates, resolution, and features. Hopefully it's something they can patch with an update.",
+                      "score": 1,
+                      "created_utc": 1747430733.0,
+                      "replies": [
+                        {
+                          "id": "msp4gak",
+                          "author": "Clugaman",
+                          "body": "They can\u2019t patch in a brand new port lol \n\nAnd if they have the port there would be no reason to not include the functionality. This is not going to be something they can patch",
+                          "score": 5,
+                          "created_utc": 1747431628.0,
+                          "replies": [
+                            {
+                              "id": "msp5wmp",
+                              "author": "rnnd",
+                              "body": "Well, the switch 2 has a day 1 patch. Obviously as they get the hardware ready for use. As far as I know, which I can be wrong, since I don't have the switch 2, the HDMI port on the dock is capable of VRR. \n\nIf you lift up a switch console. The console itself, you won't see any HDMI port on it. You'll find a USB-C port. The switch uses \"Realtek RTD2175N-CG DisplayPort v1.4 to HDMI 2.1 protocol converter\" according to the rumors. This makes it tricky. But it is something a patch may be able to fix. \n\nI expect that we will see many many hardware patch over the switch 2's lifespan. I'm gonna guess and say we'll see at least a 100 patches targeting hardware.",
+                              "score": 0,
+                              "created_utc": 1747432108.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "msq3vfa",
+                          "author": "casino_r0yale",
+                          "body": "With a shittier screen\u00a0",
+                          "score": 1,
+                          "created_utc": 1747445218.0,
+                          "replies": [
+                            {
+                              "id": "mssg1tc",
+                              "author": "Treyspurlock",
+                              "body": "The switch 2's screen is worse than the switch 1's?",
+                              "score": 1,
+                              "created_utc": 1747488249.0,
+                              "replies": [
+                                {
+                                  "id": "mssn6jx",
+                                  "author": "casino_r0yale",
+                                  "body": "Than the oled absolutely. LCD is a downgrade, 120hz can\u2019t make up for the glowy, low contrast color. You could tell it was worse at the showcase event where reviewers brought oled models to compare and all said as much\u00a0",
+                                  "score": 1,
+                                  "created_utc": 1747490918.0,
+                                  "replies": [
+                                    {
+                                      "id": "mssnu34",
+                                      "author": "Treyspurlock",
+                                      "body": "That's only for the like 10% of people who bought the OLED model though",
+                                      "score": 1,
+                                      "created_utc": 1747491147.0,
+                                      "replies": [
+                                        {
+                                          "id": "mssoc1d",
+                                          "author": "casino_r0yale",
+                                          "body": "The oled switch has outsold the other two for at least the last 3 years. E.g. 9 million oleds in 2024 vs. 3m LCD and 2m Lites.\u00a0\n\nThis thread was about waiting for an oled switch 2 because the screen is a downgrade. Those 9 million that bought last year have now been given an incentive to wait for a better machine.\u00a0",
+                                          "score": 1,
+                                          "created_utc": 1747491321.0,
+                                          "replies": [
+                                            {
+                                              "id": "mssp2db",
+                                              "author": "Treyspurlock",
+                                              "body": "OLED switch has only sold about 10 million units from what I can find, while the console line as a whole has sold 150 million",
+                                              "score": 1,
+                                              "created_utc": 1747491575.0,
+                                              "replies": [
+                                                {
+                                                  "id": "msspibw",
+                                                  "author": "casino_r0yale",
+                                                  "body": "You didn\u2019t look very much then. The OLED switch sold 9 million in FY2024 alone, as I indicated in my comment. This subthread was about waiting for an OLED switch 2. The LCD switch 2 is a downgrade for people who bought the oled recently and play portable\u00a0",
+                                                  "score": 1,
+                                                  "created_utc": 1747491728.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mspjaw7",
+              "author": "Ruttagger",
+              "body": "More like more reason to sell my pre order and make some money.",
+              "score": 3,
+              "created_utc": 1747437465.0,
+              "replies": []
+            },
+            {
+              "id": "msph2dw",
+              "author": "XInceptor",
+              "body": "Honestly. No.\n\nIf it\u2019s a Switch 2 Pro, then maybe. If it\u2019s an OLED Switch 2 and they just added fully functional VRR, then no that\u2019s a fat L for anyone who mainly plays docked",
+              "score": 1,
+              "created_utc": 1747436630.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msopqc9",
+          "author": "Horibori",
+          "body": "They gotta sell the upgrades in the OLED refresh somehow.",
+          "score": 2,
+          "created_utc": 1747427043.0,
+          "replies": []
+        },
+        {
+          "id": "msr80m9",
+          "author": "Idolofdust",
+          "body": "perhaps held off for the potential Switch 2 OLED/Pro",
+          "score": 1,
+          "created_utc": 1747463997.0,
+          "replies": []
+        },
+        {
+          "id": "msr0yky",
+          "author": "gardotd426",
+          "body": "Or just use DisplayPort like all good people do. Yeah I get that most people will be docking to TVs which generally don't have DP ports but who cares, external adapters are cheap as fuck and don't require you handicapping your own device by locking it down to HDMI 2.0 internally. At this point I honestly think it'd probably be an almost negligible cost for Nintendo to just include an external DP>HDMI adapter like how a lot of phones and stuff will include USB OTG or C>A (or A>C) adapters.",
+          "score": 0,
+          "created_utc": 1747459932.0,
+          "replies": [
+            {
+              "id": "mssgavk",
+              "author": "Treyspurlock",
+              "body": "No need to even do that, they could just sell a different dock with a Display Port instead then you could choose which one you like more",
+              "score": 1,
+              "created_utc": 1747488346.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mssbs0c",
+          "author": "TrriF",
+          "body": "Yea, but realistically most people would connect the dock to a tv that doesn't have vrr anyway.",
+          "score": 0,
+          "created_utc": 1747486537.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msol1ca",
+      "author": "godnorazi",
+      "body": "How much is Nintendo saving by going with an HDMI 2.0 port vs 2.1? It's like they want to add it to the inevitable OLED refresh so people will double dip.",
+      "score": 28,
+      "created_utc": 1747425610.0,
+      "replies": [
+        {
+          "id": "msp8gf6",
+          "author": "Streetperson12345",
+          "body": "That's not why it won't support VRR. The technology to convert a displayport to HDMI and keep VRR literally does not exist.\n\nIf it does, show me a displayport to to HDMI 2.1 with VRR adapter. I'll wait...and then I'll buy it when you show me because I've been looking.",
+          "score": 15,
+          "created_utc": 1747432963.0,
+          "replies": [
+            {
+              "id": "msq7nbo",
+              "author": "haahaahaa",
+              "body": "https://connect.synaptics.com/synaptics-vmm7100\n\n~~They're just being cheap on the dock.~~\n\nI'll take that back.  VRR isn't easy tech to support and I would bet its as much about compatibility and support as it is about absolute cost.",
+              "score": 6,
+              "created_utc": 1747446681.0,
+              "replies": [
+                {
+                  "id": "msx4ejq",
+                  "author": "ihateusednames",
+                  "body": "Hey fella\n\nI respect that",
+                  "score": 1,
+                  "created_utc": 1747552931.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mswglum",
+              "author": "jl91569",
+              "body": "[https://www.paradetech.com/products/ps196/](https://www.paradetech.com/products/ps196/)\n\n>Supports DP Adaptive-Sync Video to HDMI VRR conversion\n\nThe tech has been available for product development [since 2021](https://www.paradetech.com/parade-launches-displayport-2-0-to-hdmi-2-1-protocol-converter-solutions/) and is currently [available for purchase](https://www.avnet.com/americas/product/parade-technologies/ps196-evb/evolve-115485035/), though it doesn't seem very popular.",
+              "score": 1,
+              "created_utc": 1747539830.0,
+              "replies": []
+            },
+            {
+              "id": "mspqkja",
+              "author": "Odd_Level9850",
+              "body": "The steam deck does it?",
+              "score": -1,
+              "created_utc": 1747440151.0,
+              "replies": []
+            },
+            {
+              "id": "msprotc",
+              "author": "Neo_Techni",
+              "body": "Steam Deck uses it\n\nthough Nintendo doesn't have to use display port to begin with, they can use proper HDMI",
+              "score": 0,
+              "created_utc": 1747440575.0,
+              "replies": [
+                {
+                  "id": "msptw20",
+                  "author": "darkmacgf",
+                  "body": "What do you mean proper HDMI? Like, put an HDMI port on the Switch 2 itself? Displayport is what connects it to the dock.",
+                  "score": 3,
+                  "created_utc": 1747441406.0,
+                  "replies": []
+                },
+                {
+                  "id": "msrk8c2",
+                  "author": "reddltlsfvckingdumm",
+                  "body": "neither one or the other is \"proper\". People like you are the reason others keep talkin bs. But i underrstand the different protocoll standards are confusing",
+                  "score": 0,
+                  "created_utc": 1747471650.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mso8m46",
+      "author": "_Rand_",
+      "body": "\u2026 Nintendo always has to be just a tiny bit backwards don\u2019t they?",
+      "score": 106,
+      "created_utc": 1747421790.0,
+      "replies": [
+        {
+          "id": "mso9ixo",
+          "author": "rnnd",
+          "body": " PS5 also didn't have VRR support at launch.",
+          "score": 2,
+          "created_utc": 1747422066.0,
+          "replies": [
+            {
+              "id": "msohet8",
+              "author": "justthisones",
+              "body": "That was 4 and a half years ago when it was newish.",
+              "score": 63,
+              "created_utc": 1747424495.0,
+              "replies": []
+            },
+            {
+              "id": "msoc86a",
+              "author": "bamila",
+              "body": "VRR was relatively new back in 2020, also ps5 came with HDMI 2.1 which wasn't an issue as it is now supported. It was just lacking on software. In switch case it's their hardware already outdated",
+              "score": 54,
+              "created_utc": 1747422895.0,
+              "replies": [
+                {
+                  "id": "msoo4n8",
+                  "author": "CrispenedLover",
+                  "body": "Nvidia G-sync came out in 2013, or is that different?",
+                  "score": 10,
+                  "created_utc": 1747426556.0,
+                  "replies": [
+                    {
+                      "id": "msopge1",
+                      "author": "Horibori",
+                      "body": "Gsync is a form of VRR, but PCs used Displayport, not hdmi for output and for functionality of VRR. \n\nHDMI 2.1 came about in 2017 I think, and was very new on release. It took a long time for TVS that were not on the high end to support HDMI 2.1. And even now, some tvs will only have 1 or 2 HDMI 2.1 ports.",
+                      "score": 18,
+                      "created_utc": 1747426960.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msont9s",
+              "author": "Johnny_Menace",
+              "body": "No but it shipped with hdmi 2.1",
+              "score": 6,
+              "created_utc": 1747426461.0,
+              "replies": [
+                {
+                  "id": "msot8ke",
+                  "author": "rnnd",
+                  "body": "If you can provide any proof that the switch dock ships without HDMI 2.1, I'll love to it.",
+                  "score": 7,
+                  "created_utc": 1747428106.0,
+                  "replies": [
+                    {
+                      "id": "msszd4l",
+                      "author": "Phoenix__Light",
+                      "body": "The thing that clues me into it not being hdmi 2.1 is the lack of 4k 120 support. Even if games can\u2019t run at that resolution and frame rate, it should still be able to do that with the Ui",
+                      "score": 1,
+                      "created_utc": 1747495007.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msothdm",
+                      "author": "Johnny_Menace",
+                      "body": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/#nintendoswitch2dock\n\nOn the ports section it only lists HDMI.",
+                      "score": -1,
+                      "created_utc": 1747428181.0,
+                      "replies": [
+                        {
+                          "id": "msoto8l",
+                          "author": "rnnd",
+                          "body": "Yeah so it can be HDMI 2.1 or whatever HDMI . What makes you think it's not HDMI 2.1?",
+                          "score": 5,
+                          "created_utc": 1747428239.0,
+                          "replies": [
+                            {
+                              "id": "msov0gw",
+                              "author": "Johnny_Menace",
+                              "body": "Because any product whether its a smart tv or gaming console would specifically list HDMI. 2.1 in the specs sheet. HDMI alone is just HDMI.",
+                              "score": -6,
+                              "created_utc": 1747428642.0,
+                              "replies": [
+                                {
+                                  "id": "msox7ai",
+                                  "author": "i_need_a_moment",
+                                  "body": "All new Macs have HDMI 2.1 and they don\u2019t list it.",
+                                  "score": 7,
+                                  "created_utc": 1747429312.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "msovoin",
+                                  "author": "rnnd",
+                                  "body": "No it's not. \ud83d\ude02 What is HDMI alone? Even the very first HDMI version of hdmi was HDMI 1.0. Switch 1 used HDMI 1.4",
+                                  "score": 6,
+                                  "created_utc": 1747428845.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "msq0j0x",
+                                  "author": "Neo_Techni",
+                                  "body": "or Nintendo is being purposely vague as they always are with specs",
+                                  "score": 2,
+                                  "created_utc": 1747443924.0,
+                                  "replies": [
+                                    {
+                                      "id": "n1byitl",
+                                      "author": "rnnd",
+                                      "body": "guess what? it turns out the dock hardware is vrr capable. it's not a hardware issue.",
+                                      "score": 1,
+                                      "created_utc": 1751647141.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "n1bznqq",
+                  "author": "rnnd",
+                  "body": "and guess what? you were wrong. the dock actually supports vrr. nintendo's hardware supports vrr.",
+                  "score": 1,
+                  "created_utc": 1751647489.0,
+                  "replies": []
+                },
+                {
+                  "id": "msoofgb",
+                  "author": "rnnd",
+                  "body": "I am looking the information about switch 2 dock shipping with HDMI 2.0 and I can't find it. \n\nI can only use the information I have available.",
+                  "score": 0,
+                  "created_utc": 1747426648.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msobn7b",
+              "author": "_Rand_",
+              "body": "And if the ps6 doesn\u2019t have it at launch I\u2019ll question why too.\n\nParticularly since it has it, just not docked.",
+              "score": 3,
+              "created_utc": 1747422716.0,
+              "replies": [
+                {
+                  "id": "msocq0y",
+                  "author": "rnnd",
+                  "body": "Connection between built-in screen and chipset would be different to that between separate screen and chipset. From what I know vrr through HDMI can be tricky.",
+                  "score": 3,
+                  "created_utc": 1747423046.0,
+                  "replies": [
+                    {
+                      "id": "msotk4y",
+                      "author": "beefjerky9",
+                      "body": "> From what I know vrr through HDMI can be tricky.\n\nIt used to be, back when it was limited to proprietary AMD and nVidia tech tacked onto their cards and certain monitors. However, VRR is now a standard part of the HDMI 2.1+ standards.",
+                      "score": -3,
+                      "created_utc": 1747428204.0,
+                      "replies": [
+                        {
+                          "id": "msour71",
+                          "author": "rnnd",
+                          "body": "It's the standard for HDMI to HDMI, but not for DisplayPort v1.4 to HDMI 2.1 protocol converter which the switch 2 is using.",
+                          "score": 4,
+                          "created_utc": 1747428563.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msou18g",
+                          "author": "rnnd",
+                          "body": "Lemme explain it to you. \n\nWhile the switch 2 dock accepts HDMI input. The switch itself accepts DP input via USB-C. So it's not HDMI to HDMI. \n\nIt's HDMI to HDMI to DP. Getting VRR from HDMI to DP is very tricky.",
+                          "score": 2,
+                          "created_utc": 1747428348.0,
+                          "replies": [
+                            {
+                              "id": "msoz5pb",
+                              "author": "beefjerky9",
+                              "body": "So, Nintendo has chosen to use 9 year old technology (DPv1.4 3/2016), when they could have instead gone with 8 year old technology (HDMIv2.1 1/2017) and not limited their device's ability. That's certainly...a choice...\n\nHowever, that totally tracks with the way Nintendo has been going. They *used to be* a very innovative company.",
+                              "score": -4,
+                              "created_utc": 1747429922.0,
+                              "replies": [
+                                {
+                                  "id": "msp0lqk",
+                                  "author": "rnnd",
+                                  "body": "Lol. Even the PS5 pro uses HDMI 2.1. the latest MacBook Pro uses HDMI 2.1. \n\n2.1 is the current standard. \n\nHDMI 2.2 was announced just this year. It's so new that we are yet to adopt it and use it. \n\nI'm done here. I'm pursuing my master's in comp sci, and I'm here explaining very simple IT to people who have no idea what the heck they are talking about.",
+                                  "score": 1,
+                                  "created_utc": 1747430377.0,
+                                  "replies": [
+                                    {
+                                      "id": "mspeg7g",
+                                      "author": "PM_artsy_fartsy_nude",
+                                      "body": "> people who have no idea what the heck they are talking about\n\nCome on now, that's not true. The guy you're talking to obviously knows that he hates Nintendo, and that everything else is just a question of how he'll hate Nintendo today.",
+                                      "score": -1,
+                                      "created_utc": 1747435187.0,
+                                      "replies": [
+                                        {
+                                          "id": "mssk52h",
+                                          "author": "beefjerky9",
+                                          "body": "And then you have folks who will worship Nintendo no matter what. I bet you praised them for their new T&Cs where they can brick your device because you do something with it that they don't like.",
+                                          "score": 1,
+                                          "created_utc": 1747489809.0,
+                                          "replies": [
+                                            {
+                                              "id": "mt06yzo",
+                                              "author": "PM_artsy_fartsy_nude",
+                                              "body": "I didn't praise them of course, that doesn't make any sense, but I did wonder why so many people were throwing a tantrum. As though these terms were substantively new or different from past Nintendo consoles, or from consoles from Sony or Microsoft. \n\nIt's like suddenly everyone's a pirate. Except the pirates don't care about these terms either, since the pirates just don't connect their consoles to the internet. No one is really effected by these terms in any substantive way. \n\nI've noticed a lot of hatred directed at Nintendo on reddit. It's weird man. It's not like they're some great company, but they're just doing the same things that they've always done. They make games. They sell games. They're about as inoffensive as you could ask for. It's weird.",
+                                              "score": 1,
+                                              "created_utc": 1747597410.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "msp2ayr",
+                                      "author": "beefjerky9",
+                                      "body": "> I'm pursuing my master's in comp sci, and I'm here explaining very simple IT to people who have no idea what the heck they are talking about.\n\nYeah, your condescending attitude also tracks for someone with your degree path.",
+                                      "score": -3,
+                                      "created_utc": 1747430921.0,
+                                      "replies": [
+                                        {
+                                          "id": "msp3fby",
+                                          "author": "rnnd",
+                                          "body": "You're the one arguing over / speaking over something you have absolutely no idea about. You have no idea about the HDMI specifications whatsoever. Why not just take a minute, Google? Find some reputable information.",
+                                          "score": 0,
+                                          "created_utc": 1747431289.0,
+                                          "replies": [
+                                            {
+                                              "id": "msp4lpd",
+                                              "author": "beefjerky9",
+                                              "body": "Excellent job at proving that my assessment of you is accurate.\n\nI'm aware of what HDMI specifications are, including full VRR support in v2.1+. However, I was not aware that Nintendo chose to go with a roundabout way of going DP-to-HDMI, rather than direct HDMI output. And, you could have easily educated me on that without being a condescending jackass.",
+                                              "score": 0,
+                                              "created_utc": 1747431676.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msq7ctd",
+              "author": "MovieGuyMike",
+              "body": "Not hardware issue in the case of PS5.",
+              "score": 0,
+              "created_utc": 1747446569.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msppunm",
+      "author": "JozzyV1",
+      "body": "This is really dissapointing. So many Switch one games  can benefit from VRR and I almost exclusively play in docked mode.",
+      "score": 5,
+      "created_utc": 1747439883.0,
+      "replies": []
+    },
+    {
+      "id": "mso8ueu",
+      "author": "Salkinator",
+      "body": "This is something that might be fixable overtime with software. PS5 didn\u2019t launch with VRR support at all. \n\nEdit: I stand corrected! Wasn\u2019t aware HDMI alternative mode doesn\u2019t support VRR yet. Shame.",
+      "score": 41,
+      "created_utc": 1747421859.0,
+      "replies": [
+        {
+          "id": "msobnno",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 29,
+          "created_utc": 1747422720.0,
+          "replies": [
+            {
+              "id": "msotowy",
+              "author": "RJE808",
+              "body": "I'm far from tech savvy, but I'm curious *why* they wouldn't do something else to support it while docked. Would it be a cost issue or just Nintendo being Nintendo?",
+              "score": 6,
+              "created_utc": 1747428245.0,
+              "replies": [
+                {
+                  "id": "msoweqk",
+                  "author": "NeonJungleTiger",
+                  "body": "I believe it\u2019s because it would require an HDMI port inside the Switch 2 itself.\n\nThe current Switch uses USB-C to charge and connects to the dock via that USB-C port. The dock then converts the signal from the Switch\u2019s USB-C to HDMI which is what allows you to plug an HDMI cable into the dock and see the Switch footage on your TV or monitor.\n\nThe technology to have VRR from USB-C to HDMI does not exist currently. It is impossible for anyone (barring some sort of theoretical government military project) to do this, not just Nintendo. The only way for VRR to work while docked would be a direct HDMI connection from the Switch 2 itself which would require an additional port for the HDMI cable, a rework of the internal design of the Switch 2 and an entirely new dock design.\n\n*Edit:\nIt\u2019s also possible that implementing this change would be physically impossible unless they made the Switch 2 thicker, etc. and they didn\u2019t want to do that.*",
+                  "score": 14,
+                  "created_utc": 1747429067.0,
+                  "replies": [
+                    {
+                      "id": "msoxov6",
+                      "author": "RJE808",
+                      "body": "Yeah, that makes sense. I know a lot of people rag on Nintendo, but this is one of those things where I can understand why it's not a thing. A huge bummer, but understandable.",
+                      "score": 7,
+                      "created_utc": 1747429465.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mspbdv4",
+                      "author": "Varonth",
+                      "body": "Adding an HDMI port to the Switch handheld itself which then connects to to the dock might also be not technically feasible.\n\nIn order to use HDMI, as it is not an open specification, you need to be compliant with the HDMI specification itself. Those port have latches to keep the cable and port connected. Removing the Switch from the dock may require significantly more force thanks to the HDMI connection which would hold the Switch in place inside the dock.",
+                      "score": 6,
+                      "created_utc": 1747433985.0,
+                      "replies": [
+                        {
+                          "id": "mspugu6",
+                          "author": "NeonJungleTiger",
+                          "body": "That\u2019s another good point. It would also probably make it harder to dock in the first place with the current design since it wouldn\u2019t go in as easily and you\u2019d have to line up two separate connections blind.\n\nYou might be able to do it with a redesigned dock but at that point you\u2019re looking at a redesigned Switch and a redesigned dock vs keeping the same general design and just making the feature handheld only.",
+                          "score": 2,
+                          "created_utc": 1747441624.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mspqax2",
+                  "author": "Odd_Level9850",
+                  "body": "Double dipping probably. They can upsell you a dock with an HDMI 2.1 port separately or with the OLED model later on.",
+                  "score": -6,
+                  "created_utc": 1747440051.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msq0di0",
+              "author": "Neo_Techni",
+              "body": "> USB-C to HDMI output with VRR physically doesn\u2019t exist yet.\n\nSteam Deck does it",
+              "score": -3,
+              "created_utc": 1747443866.0,
+              "replies": []
+            },
+            {
+              "id": "msq37fn",
+              "author": "zuss33",
+              "body": "How does PSVR2 do it?",
+              "score": -1,
+              "created_utc": 1747444964.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msob7t3",
+          "author": "tfox245",
+          "body": "The dock only has HDMI 2.0, it\u2019s a hardware limitation.",
+          "score": 29,
+          "created_utc": 1747422585.0,
+          "replies": [
+            {
+              "id": "msobx1w",
+              "author": "3vilchild",
+              "body": "Really? This is just a weird choice in 2025",
+              "score": 30,
+              "created_utc": 1747422800.0,
+              "replies": [
+                {
+                  "id": "msp89b2",
+                  "author": "defeater-",
+                  "body": "It\u2019s irrelevant as USB-C to HDMI with VRR is currently not possible, and the alternative would be adding an HDMI port or proprietary port to the switch itself. \n\nIt docks and charges with USB-C, so it has to send its signal with that connection and in that case is subject to the limitations of that connection.",
+                  "score": 8,
+                  "created_utc": 1747432895.0,
+                  "replies": []
+                },
+                {
+                  "id": "msomv0c",
+                  "author": "explosiv_skull",
+                  "body": "Saves them a few pennies per console.",
+                  "score": 6,
+                  "created_utc": 1747426170.0,
+                  "replies": []
+                },
+                {
+                  "id": "msodpfz",
+                  "author": "SsooooOriginal",
+                  "body": "$20 for the masturbatorytutorialdocumentary on how much \"thought and care\" went into this.",
+                  "score": -18,
+                  "created_utc": 1747423350.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msoeaii",
+              "author": "thelastsupper316",
+              "body": "It's not, they could actually add 4k 120hz support if they wanted too using DSC but it's not enabled for some reason. It supports the 2.1 bandwidth, the issue is converting dp1.4 to HDMI 2.1 means you lose vrr and it's impossible to get it back.",
+              "score": 6,
+              "created_utc": 1747423531.0,
+              "replies": [
+                {
+                  "id": "msra2fi",
+                  "author": "duckofdeath87",
+                  "body": "Also no one makes a chip to convey dp1.4 to hdmi 2.1. it could exist but just doesn't",
+                  "score": 1,
+                  "created_utc": 1747465218.0,
+                  "replies": [
+                    {
+                      "id": "msraags",
+                      "author": "thelastsupper316",
+                      "body": "Yes it does exist and the switch 2 uses one, they could enable 4k 120hz with DSC like I said but it's disabled for whatever reason. They've existed since 2019.",
+                      "score": -2,
+                      "created_utc": 1747465353.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msobxg8",
+              "author": "bamila",
+              "body": "Idk how can someone design a console with hardware from 2010",
+              "score": -3,
+              "created_utc": 1747422803.0,
+              "replies": []
+            },
+            {
+              "id": "n1bzyov",
+              "author": "rnnd",
+              "body": "nope. now that the hardware is out, we know the dock supports vrr. people have even connected the steam deck to the Nintendo switch 2 dock and use vrr. it's a software thing just like with the ps5.",
+              "score": 0,
+              "created_utc": 1751647583.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mso8wwf",
+          "author": "Transposer",
+          "body": "Very true",
+          "score": 3,
+          "created_utc": 1747421880.0,
+          "replies": []
+        },
+        {
+          "id": "mso9eb4",
+          "author": "Luigi_loves_Mario",
+          "body": "I hope so but I don\u2019t think the usb c hdmi on the dock can do it at all :(",
+          "score": 1,
+          "created_utc": 1747422027.0,
+          "replies": []
+        },
+        {
+          "id": "msoc1r9",
+          "author": "Racxie",
+          "body": "I saw someone mention elsewhere that Nintendo is using [HDMI 2.0 for Switch 2](https://www.gamesradar.com/platforms/nintendo-switch-2/nintendo-says-your-old-switch-hdmi-cable-isnt-compatible-with-the-switch-2-but-id-argue-thats-not-strictly-true-or-helpful/) which doesn't support VRR in Switch 2's case as it uses an [Nvidia-based GPU](https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/#nintendoswitch2), and VRR support over HDMI 2.0 is [exclusive to AMD](https://www.reddit.com/r/Monitors/s/TTrcHp4UxU) (and even then is very limited).  \n  \nSo if that's the case (which would make sense based in the above sources I've linked above when having a quick look into it), it wouldn't be possible to fix it with a software update.  \n  \nIt also makes sense as to why they can do it on the device as they can ensure whatever connection the GPU has to the on-board display is compatible without having to pay the higher HDMI licensing fees.",
+          "score": -1,
+          "created_utc": 1747422841.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msrdolo",
+      "author": "SiroccoDream",
+      "body": "I freely admit that I only want a Nintendo handheld for happy little games of the types that kept my kids happy on long car rides when they were little.  \n\nI have an original Switch, mostly used for Pok\u00e9mon and Animal Crossing and some other cozy games.  \n\nI was thinking about the Switch 2, but the more of these articles that come out, the less enthusiastic I get.  \n\nTrying to make a handheld perform like a console, but adding caveat after caveat, \u201coh, that feature will only work in this mode,\u201d or \u201coh, you\u2019ll need a $300 aftermarket piece to get that feature,\u201d it really spoils the whole experience for me.  \n\nLol I realize I am NOT the target demographic, but man, my kids\u2019 faces LIT UP when they realized they had FINALLY each saved up half the money to get their own Nintendo Gameboys, which meant we (Mom and Dad) were going to contribute the other half AND A GAME!  They worked really hard doing chores at home and odd jobs for our elderly neighbors, and it was a blast taking them to Gamestop for the big purchase.\n\nI feel bad for today\u2019s parents trying to teach their kids to work towards what they want, when a freaking HANDHELD costs as much as a console \u201cback in the day\u201d!",
+      "score": 3,
+      "created_utc": 1747467467.0,
+      "replies": []
+    },
+    {
+      "id": "mssk04t",
+      "author": "Mountain-Song-6024",
+      "body": "They are doing a solid fucking job cementing my fact that I'm avoiding this console. I took a break from them before. Time to do it again.",
+      "score": 3,
+      "created_utc": 1747489758.0,
+      "replies": []
+    },
+    {
+      "id": "msuaryf",
+      "author": "Dapper_Weight3919",
+      "body": "Every time I see an update it make me want to buy it less",
+      "score": 3,
+      "created_utc": 1747510474.0,
+      "replies": []
+    },
+    {
+      "id": "msolbwk",
+      "author": "ScoobiesSnacks",
+      "body": "Booooo. Nintendo better make sure their games release with rock solid 60FPS targets. Does this mean that 40fps modes would not be possible? Or does 40fps only require a 120hz screen?",
+      "score": 9,
+      "created_utc": 1747425700.0,
+      "replies": [
+        {
+          "id": "msomuze",
+          "author": "one2hit",
+          "body": "40fps only requires a 120hz screen.",
+          "score": 18,
+          "created_utc": 1747426169.0,
+          "replies": [
+            {
+              "id": "msonb22",
+              "author": "ScoobiesSnacks",
+              "body": "That\u2019s good at least",
+              "score": 2,
+              "created_utc": 1747426307.0,
+              "replies": [
+                {
+                  "id": "msoojzo",
+                  "author": "one2hit",
+                  "body": "I mean technically a 120hz screen isn\u2019t actually required. If a dev wanted to cap their game at 40 and let you play it that way they could. But it would look bad. A 120hz screen will display 40fps properly but you need a VRR display to use VRR. And there are still issues with it sometimes depending on the hardware and game support. I think they probably just didn\u2019t think it was worth it but who knows how or why they made that calculation.",
+                  "score": 6,
+                  "created_utc": 1747426687.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msoeuw3",
+      "author": "EvilGypsyQueen",
+      "body": "I\u2019m over it. Won\u2019t buy one.",
+      "score": 18,
+      "created_utc": 1747423705.0,
+      "replies": [
+        {
+          "id": "mspv28b",
+          "author": "HeadTickTurd",
+          "body": "Neither will my Grandma. Nobody Cares.",
+          "score": 1,
+          "created_utc": 1747441852.0,
+          "replies": [
+            {
+              "id": "msyil3y",
+              "author": "Kezsora",
+              "body": "He says, telling people that he doesn't care",
+              "score": 1,
+              "created_utc": 1747578208.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msrg7al",
+      "author": "blackmagichustle",
+      "body": "That\u2019s outrageous! I don\u2019t even know what that means and they are telling me like I do!",
+      "score": 2,
+      "created_utc": 1747469037.0,
+      "replies": []
+    },
+    {
+      "id": "msssvoq",
+      "author": "TheFourSkin",
+      "body": "But yes spend $500 on it\u2026",
+      "score": 2,
+      "created_utc": 1747492866.0,
+      "replies": []
+    },
+    {
+      "id": "msp20bm",
+      "author": "Fredasa",
+      "body": "Well, they're half right.\n\nIt'll support VRR in handheld and _Switch 2 emulator_ mode.",
+      "score": 4,
+      "created_utc": 1747430826.0,
+      "replies": []
+    },
+    {
+      "id": "msqf96w",
+      "author": "No_Dot_7792",
+      "body": "The system is not powerful enough to do VRR in 4K and therefore they decided to not support it. \n\nWould have been nice to be given the option to do VRR in 1080p or 1440p though. The PS5 does that.",
+      "score": 3,
+      "created_utc": 1747449619.0,
+      "replies": []
+    },
+    {
+      "id": "mspdl9w",
+      "author": "kushpeshin",
+      "body": "That\u2019s actually pretty stupid for a 2025 gaming console and can be an instant write off for using this system docked. \n\nVRR is a crucial feature to help with hiding frame rate dips between 48 to 60fps. \n\nAnd also with no VRR\u2026does that mean we\u2019d have to set the console to 1440p?",
+      "score": 4,
+      "created_utc": 1747434758.0,
+      "replies": [
+        {
+          "id": "mssl37l",
+          "author": "music_crawler",
+          "body": "It definitely is necessary for a console that is so limited on power. They really needed VRR in docked to cover up those dips that the devs basically can't do anything about because it's frankly not that powerful.",
+          "score": 2,
+          "created_utc": 1747490161.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msomhsa",
+      "author": "explosiv_skull",
+      "body": "> While this might disappoint those hoping for variable refresh rate on the Switch 2's TV settings at launch, it might not mean all hope is lost. Sony issued an update rolling VRR support out to PS5 consoles post-launch, so it stands to reason we could see something similar happen here.\n\nThat's some cope right there. Unless proof exists otherwise, I'm guessing Nintendo opted to save a few pennies by going HDMI 2.0 or less and thus the dock hardware can't do VRR. If they were planning to roll it out, they'd say that.",
+      "score": 4,
+      "created_utc": 1747426057.0,
+      "replies": []
+    },
+    {
+      "id": "msofwns",
+      "author": "rejectallgoats",
+      "body": "Kinda late to mention that eh?",
+      "score": 5,
+      "created_utc": 1747424030.0,
+      "replies": []
+    },
+    {
+      "id": "mspthzk",
+      "author": "barterclub",
+      "body": "How are they failing behind the Steam deck, after 2 years being out? Nintendo is doing Nintendo again, as it has every other generation.",
+      "score": 3,
+      "created_utc": 1747441257.0,
+      "replies": []
+    },
+    {
+      "id": "msoriu4",
+      "author": "harrybeastfeet",
+      "body": "McFuckin \u2018scuse me? Who greenlit that decision? Nintendo, we love your games, but damn, get it together.",
+      "score": 4,
+      "created_utc": 1747427590.0,
+      "replies": [
+        {
+          "id": "msskp0k",
+          "author": "music_crawler",
+          "body": "They're going to release a console with VRR in 2033. Lmao.",
+          "score": 1,
+          "created_utc": 1747490016.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msops43",
+      "author": "chiefmackdaddypuff",
+      "body": "This is such a weird decision. The GPU supposedly should support it, the Switch 2 is already under powered compared to its competitors and could definitely use it as a platform. It just seems like a backward thing to not include, particularly if it\u2019s due to the dock being only HDMI2.0 capable.\u00a0\n\nI\u2019m sure it\u2019s going to help with cost, but the experiential loss, particularly down the line when games are going to get more complex and will need VRR to help with frame rates is a pretty big miss.\u00a0\n\nThey should have eaten the cost of a HDMI2.1 capable dock in service of the longevity experience.\u00a0",
+      "score": 4,
+      "created_utc": 1747427059.0,
+      "replies": [
+        {
+          "id": "mspnfzx",
+          "author": "Steelfenix",
+          "body": "The problem itself is the dock concept. To have a docked VRR it will require that the switch to have the hdmi port not the dock. Currently there is no way to support VRR using a USB-C to HDMI conversion",
+          "score": 2,
+          "created_utc": 1747438989.0,
+          "replies": [
+            {
+              "id": "mspxh4f",
+              "author": "chiefmackdaddypuff",
+              "body": "DP over USB-C supports adaptive sync.\u00a0",
+              "score": -1,
+              "created_utc": 1747442763.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msozw40",
+      "author": "asumhaloman",
+      "body": "As someone who has an older pc that often dips under 60fps, I value VRR greatly, and I don\u2019t like this news. Real shame.",
+      "score": 2,
+      "created_utc": 1747430153.0,
+      "replies": []
+    },
+    {
+      "id": "msp14g7",
+      "author": "badger906",
+      "body": "I just got a new oled tv with 144hz freesync. So that sucks!",
+      "score": 3,
+      "created_utc": 1747430540.0,
+      "replies": []
+    },
+    {
+      "id": "msp20pg",
+      "author": "Oz24846",
+      "body": "Coming soon NS2 2.0 OLED $600.00 With VRR to support tv! Lol",
+      "score": 3,
+      "created_utc": 1747430829.0,
+      "replies": []
+    },
+    {
+      "id": "msp941g",
+      "author": "CriticalSpeed4517",
+      "body": "It\u2019s seems every day there is news released of lacking features or performance for the Switch 2. The thing is shaping up to be a real dud cause Nintendo is too cheap to put some actual hardware in there.",
+      "score": 3,
+      "created_utc": 1747433190.0,
+      "replies": [
+        {
+          "id": "mspyusv",
+          "author": "Theguest217",
+          "body": "Yet the ridiculous price point. \n\nThey either have an insane profit margin on this hardware, or they have absolute horrible partnership deals with their part suppliers.",
+          "score": 1,
+          "created_utc": 1747443286.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mss2sx3",
+      "author": "illusion121",
+      "body": "Nintendo, always a generation behind.",
+      "score": 2,
+      "created_utc": 1747482579.0,
+      "replies": []
+    },
+    {
+      "id": "msp9qzj",
+      "author": "barbrady123",
+      "body": "Released in two-ish weeks and here comes stuff lol....on June 4th they're gonna be like \"only dogs and squirrels can use the controller\" lol",
+      "score": 0,
+      "created_utc": 1747433412.0,
+      "replies": []
+    },
+    {
+      "id": "msobrlt",
+      "author": "Gambler_720",
+      "body": "Just like before this is primarily a handheld and not really a proper hybrid machine as people like to think it is.",
+      "score": 3,
+      "created_utc": 1747422753.0,
+      "replies": []
+    },
+    {
+      "id": "mspa38g",
+      "author": "Fuzzylojak",
+      "body": "And not in a footheld mode?",
+      "score": 1,
+      "created_utc": 1747433530.0,
+      "replies": []
+    },
+    {
+      "id": "mspggxc",
+      "author": "FlanOk4765",
+      "body": "\u2026at first",
+      "score": 1,
+      "created_utc": 1747436402.0,
+      "replies": []
+    },
+    {
+      "id": "mspi1v8",
+      "author": "abody8",
+      "body": "Why is that?",
+      "score": 1,
+      "created_utc": 1747437002.0,
+      "replies": [
+        {
+          "id": "mspkwz7",
+          "author": "Neo_Techni",
+          "body": "The HDMI encoder chip they use lacks support for it",
+          "score": 1,
+          "created_utc": 1747438060.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mspzsbe",
+      "author": "BleachSoulMater",
+      "body": "Everyone on here is missing the point, this is a console for the masses. A mass market which will be plugging it into their TVs which most of them don\u2019t support VRR",
+      "score": 1,
+      "created_utc": 1747443640.0,
+      "replies": []
+    },
+    {
+      "id": "msq180d",
+      "author": "None",
+      "body": "I bought my 7yo a switch for his bday.  I have no idea what \u201cVRR in handheld mode\u201d means.  Does it matter?",
+      "score": 1,
+      "created_utc": 1747444191.0,
+      "replies": []
+    },
+    {
+      "id": "msq5pnl",
+      "author": "deusfaux",
+      "body": "that's so lame. it should be an industry standard by now and is MORE important for lower powered devices that will struggle to hit 60 in many games.\n\njust spring for the part to allow it! i'll pay $10 more",
+      "score": 1,
+      "created_utc": 1747445933.0,
+      "replies": [
+        {
+          "id": "mssidgu",
+          "author": "Treyspurlock",
+          "body": "From what I read it sounds like it's more complicated than just \"pay a little extra for a more expensive part\"",
+          "score": 1,
+          "created_utc": 1747489144.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msr4blw",
+      "author": "Alienhaslanded",
+      "body": "So if you have a nice monitor or a TV with VRR, you can shove that up your butt, because Nintendon't.",
+      "score": 1,
+      "created_utc": 1747461817.0,
+      "replies": []
+    },
+    {
+      "id": "msrjdi4",
+      "author": "Alacrityneeded",
+      "body": "It\u2019ll be interesting to see this thing modified chip wise and hardware wise at a later date\n\n![gif](giphy|H7SaUQ5vEbocJqYZKO|downsized)",
+      "score": 1,
+      "created_utc": 1747471096.0,
+      "replies": []
+    },
+    {
+      "id": "msrrdmt",
+      "author": "thisisdell",
+      "body": "That\u2019s fucking dumb.",
+      "score": 1,
+      "created_utc": 1747476284.0,
+      "replies": []
+    },
+    {
+      "id": "msry8cy",
+      "author": "Yummier",
+      "body": "Hopefully the display-port to hdmi convertion issue can be resolved with a revision to the dock in the not too distant future.",
+      "score": 1,
+      "created_utc": 1747480277.0,
+      "replies": []
+    },
+    {
+      "id": "mssge77",
+      "author": "xiacexi",
+      "body": "What the fuck?",
+      "score": 1,
+      "created_utc": 1747488382.0,
+      "replies": []
+    },
+    {
+      "id": "mstnf2g",
+      "author": "TheSammy58",
+      "body": "Possibly a dumb question but does this mean 120fps will be limited to the Switch\u2019s display only?",
+      "score": 1,
+      "created_utc": 1747502760.0,
+      "replies": []
+    },
+    {
+      "id": "mt6qayz",
+      "author": "mattsonlyhope",
+      "body": "Switch 2 keeps getting worse and worse.",
+      "score": 1,
+      "created_utc": 1747687810.0,
+      "replies": []
+    },
+    {
+      "id": "mtpoytg",
+      "author": "TheW83",
+      "body": "Well I was gonna buy on release but now I think I'll wait for the oled upgrade.",
+      "score": 1,
+      "created_utc": 1747943783.0,
+      "replies": []
+    },
+    {
+      "id": "msokrpr",
+      "author": "pbates89",
+      "body": "More I read about switch 2 the less I like it",
+      "score": 0,
+      "created_utc": 1747425527.0,
+      "replies": []
+    },
+    {
+      "id": "msphvry",
+      "author": "Practis",
+      "body": "Every switch should come with a very miniscule, safe amount of C4 explosives to blow the thing up if Nintendo suspects you are playing a game that you have failed to demonstrate that own the license to play. There are so many cool, novel ways to drive shareholder value.",
+      "score": 1,
+      "created_utc": 1747436938.0,
+      "replies": []
+    },
+    {
+      "id": "msobpos",
+      "author": "None",
+      "body": "Bummer. Then it\u2019ll just remain locked at 60Hz for me. I cannot stand screen-tearing.",
+      "score": 0,
+      "created_utc": 1747422737.0,
+      "replies": []
+    },
+    {
+      "id": "msoygon",
+      "author": "colonelc4",
+      "body": "VRR removed, let's see until launch what will not be available at that price \ud83d\udc4d",
+      "score": 0,
+      "created_utc": 1747429706.0,
+      "replies": []
+    },
+    {
+      "id": "msonh9y",
+      "author": "VirtuaFighter6",
+      "body": "That\u2019s messed up",
+      "score": 1,
+      "created_utc": 1747426360.0,
+      "replies": []
+    },
+    {
+      "id": "msrfc85",
+      "author": "josephush",
+      "body": "i just want a non-handheld nintendo",
+      "score": 1,
+      "created_utc": 1747468500.0,
+      "replies": []
+    },
+    {
+      "id": "mss13ix",
+      "author": "BurntWaffle303",
+      "body": "Yeah\u2026 just buy a steam deck.",
+      "score": 1,
+      "created_utc": 1747481747.0,
+      "replies": []
+    },
+    {
+      "id": "msp36i6",
+      "author": "Most-Bench6465",
+      "body": "Functionally unplayable",
+      "score": 0,
+      "created_utc": 1747431209.0,
+      "replies": []
+    },
+    {
+      "id": "mspco90",
+      "author": "WhiteHawk77",
+      "body": "Bad decision Nintendo, bad decision.",
+      "score": 1,
+      "created_utc": 1747434436.0,
+      "replies": []
+    },
+    {
+      "id": "msoca4k",
+      "author": "Kitakitakita",
+      "body": "a crispy clean 30 fps :)",
+      "score": -1,
+      "created_utc": 1747422911.0,
+      "replies": []
+    },
+    {
+      "id": "mso9k5d",
+      "author": "DavidinCT",
+      "body": "LOL, the Switch 2 is a joke spec wise.....",
+      "score": -10,
+      "created_utc": 1747422076.0,
+      "replies": [
+        {
+          "id": "msod359",
+          "author": "HopelessRespawner",
+          "body": "Yes... from a console/pc perspective. What does that have to do with VRR support in docked mode?",
+          "score": 3,
+          "created_utc": 1747423158.0,
+          "replies": [
+            {
+              "id": "msoombr",
+              "author": "DavidinCT",
+              "body": "See my post from above.... Not retyping it again..",
+              "score": -1,
+              "created_utc": 1747426706.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msof91h",
+          "author": "radikalkarrot",
+          "body": "Heard that of the Switch 1 as well and it\u2019s arguably(if you don\u2019t count the magic extra PS2s sold that appeared under a rug) the best selling console of all time.",
+          "score": 2,
+          "created_utc": 1747423828.0,
+          "replies": [
+            {
+              "id": "msokhox",
+              "author": "blueB0wser",
+              "body": "The PS2 also had the ability to play DVDs, which was rarer at the time. The Switch 2 is comparable to hardware from 9 years ago.",
+              "score": -2,
+              "created_utc": 1747425443.0,
+              "replies": [
+                {
+                  "id": "msokyu5",
+                  "author": "DavidinCT",
+                  "body": "The specs, Yes, it's about equal to a 9-10 year old console, crap the last consoles that could do ONLY 4k @ 60fps, was the Xbox one X and the PS4 pro, both like 8-10 year old consoles. By the numbers, it's not even as powerful as those consoles.\n\nTruth is by the numbers, even the SteamDeck is more powerful than the Switch 2.",
+                  "score": 0,
+                  "created_utc": 1747425588.0,
+                  "replies": []
+                },
+                {
+                  "id": "msulfkj",
+                  "author": "llamapower13",
+                  "body": "In handheld mode. Meaning it delivers that power for hours while on battery. It\u2019s pretty cool",
+                  "score": 0,
+                  "created_utc": 1747513990.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msogto2",
+              "author": "DavidinCT",
+              "body": "I don't think the Switch 2 will sell near what the Switch 1 did by a large margin.  Console price and claimed $80-90 physical games.\n\nSwitch 1 was cheaper than the other consoles by a good amount ($300 vs $500), switch 2 is the same price as the higher end consoles with a game but, a lot less powerful by a HUGE amount.\n\nEveryone with another console would never buy a Nintendo console to play 3rd party games, as the other Series X/PS5 are like 10-20x more powerful and would give a better result.\n\nPeople would buy a Nintendo console to play Nintendo games. Nothing more. Sure on release the fanboys will buy it, and the numbers will look good but, the long-term numbers count more.\n\n$500 consoles (with Mario Kart) and $80 games, a Nintendo console a WAS good value because it was cheaper than the other ones, now it's the same price for less quality just to play Nintendo games?\n\nA lot of people are going to have a hard time with that one. Personally, I think it's a joke.\n\nDownvote away Nintendo fanboys....",
+              "score": -6,
+              "created_utc": 1747424315.0,
+              "replies": [
+                {
+                  "id": "msokhvr",
+                  "author": "BigTonyT30",
+                  "body": "Less quality compared to what? Other consoles? Other Nintendo consoles?\n\nNintendo has never wanted to be cutting edge when it comes to their consoles. Everything they do is purely optimized for first party games. I have no doubt it\u2019ll function better and look better than the original switch, which is their goal.",
+                  "score": 3,
+                  "created_utc": 1747425445.0,
+                  "replies": [
+                    {
+                      "id": "msoltn8",
+                      "author": "DavidinCT",
+                      "body": "The Switch 2 is $500 with a game.  They are playing with the big boys, Xbox Series X and PS5 are the same price.  The Switch 2 hardware is not even 1/2 has powerful as those 2 consoles. \n\nNintendo does not want to be cutting edge but, they want to charge as much and charge more for games that are cutting edge? This is why I think it's a joke.\n\nThis is one of the major problems, if the Switch 2 was $350 (where it should be based on specs and hardware) and games were $60-70, This would not even be a discussion.",
+                      "score": -5,
+                      "created_utc": 1747425852.0,
+                      "replies": [
+                        {
+                          "id": "msorbh0",
+                          "author": "BigTonyT30",
+                          "body": "When I can pick up my PS5 and go play it on an airplane or in a car on a roadtrip I\u2019ll accept the criticism but you can\u2019t compare a handheld to a home console. Compared to other similar spec handhelds the pricing is comparable.",
+                          "score": 3,
+                          "created_utc": 1747427527.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msoop7k",
+                          "author": "UnsorryCanadian",
+                          "body": "The answer why it's $500?\n\nExclusives",
+                          "score": -7,
+                          "created_utc": 1747426730.0,
+                          "replies": [
+                            {
+                              "id": "msopawn",
+                              "author": "DavidinCT",
+                              "body": "and charge $80-90 for each game?  Ok, justify it by calling it exclusives...\n\nNintendo has always been the value console. Now they are trying to go against the big boys. \n\nLike said, this will sell pretty good on release due to fanboys, but, after that, it's going to not sell very well, and won't even sell 1/2 of what the Switch 1 did unless it gets a huge price cut in less than a year... INCLUDING GAMES",
+                              "score": 0,
+                              "created_utc": 1747426913.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mspy1r6",
+      "author": "pastword",
+      "body": "This news honestly sucks for competitive games like Street Fighter 6, Smash, and Splatoon. Handheld players would have the smoothest experience.",
+      "score": 0,
+      "created_utc": 1747442981.0,
+      "replies": []
+    },
+    {
+      "id": "msp779h",
+      "author": "Right_Ostrich4015",
+      "body": "Also seemingly adjacent question, why is docked mode sub gigahertzenphelfen",
+      "score": 0,
+      "created_utc": 1747432539.0,
+      "replies": []
+    },
+    {
+      "id": "msocw7k",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -15,
+      "created_utc": 1747423099.0,
+      "replies": [
+        {
+          "id": "msojmp4",
+          "author": "AQUEMlNI",
+          "body": "I have a very mid range tv. Still has VRR",
+          "score": 7,
+          "created_utc": 1747425180.0,
+          "replies": []
+        },
+        {
+          "id": "msofz4y",
+          "author": "el_sattchmo",
+          "body": "It's been a standard for years now.",
+          "score": 10,
+          "created_utc": 1747424052.0,
+          "replies": [
+            {
+              "id": "msogfsl",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -11,
+              "created_utc": 1747424195.0,
+              "replies": [
+                {
+                  "id": "msohrsg",
+                  "author": "JSoppenheimer",
+                  "body": "Again, it doesn't just \"exist\", it has been standard on every non-cheapo TV for years.",
+                  "score": 11,
+                  "created_utc": 1747424606.0,
+                  "replies": []
+                },
+                {
+                  "id": "msogyff",
+                  "author": "el_sattchmo",
+                  "body": "If you have a TV with HDMI 2.1, you have VRR, it's a core standard feature and a requirement.",
+                  "score": 4,
+                  "created_utc": 1747424355.0,
+                  "replies": [
+                    {
+                      "id": "msoijai",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -13,
+                      "created_utc": 1747424842.0,
+                      "replies": [
+                        {
+                          "id": "msooneo",
+                          "author": "explosiv_skull",
+                          "body": "By that logic the Switch 2 shouldn't bother with WiFi 6 because some people out there still have 802.11g routers.",
+                          "score": 7,
+                          "created_utc": 1747426715.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msoj58b",
+                          "author": "el_sattchmo",
+                          "body": "Nintendo 101. The moment the game single leaves the dock it's no longer Nintendo's concern. Wait for the updated dock with 2.1 to come out, the Pro Dock. Lol",
+                          "score": 5,
+                          "created_utc": 1747425031.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msofjja",
+          "author": "bmd201",
+          "body": "plenty\u2026",
+          "score": 3,
+          "created_utc": 1747423917.0,
+          "replies": []
+        },
+        {
+          "id": "msoge4a",
+          "author": "Cronotyr",
+          "body": "At least 2 in my house. There are plenty.",
+          "score": 0,
+          "created_utc": 1747424180.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

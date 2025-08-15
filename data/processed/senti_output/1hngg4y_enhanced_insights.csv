@@ -1,0 +1,49 @@
+metric,value
+file,1hngg4y.csv
+title,Lenovo readies self-charging Bluetooth keyboard with a solar panel that can draw power from solar and ambient light
+rows,40
+num_posts,1
+num_comments,39
+unique_authors,28
+max_depth,5
+avg_comment_words,57.21
+median_comment_words,33.0
+max_comment_words,178
+positive_count,7
+negative_count,32
+neutral_count,0
+positive_pct,17.949
+negative_pct,82.051
+neutral_pct,0.0
+topic_1_keywords,"keyboard, logitech, solar, one, type, generating, waiting, charges"
+topic_1_label,A keyboard and a solar cell generating one
+topic_2_keywords,"maybe, ago, time, would, idea, like, typing, thought"
+topic_2_label,i think i would like to typing
+topic_3_keywords,"energy, mechanical, would, keys, key, travel, 4mm, keyboard"
+topic_3_label,A keyboard with a 4mm key travels 4mm
+topic_4_keywords,"battery, supposed, may, cancelled, solar, one, wasnt, well"
+topic_4_label,battery not cancelled
+topic_5_keywords,"toy, earlier, using, im, calculators, said, farther, windup"
+topic_5_label,calculators say windup
+topic_6_keywords,"keyboard, sound, infinite, device, energy, press, keys, like"
+topic_6_label,keyboard and sound like keys
+top_ngram_1,years ago (10)
+top_ngram_2,type battery (6)
+top_ngram_3,real world (6)
+top_ngram_4,10 years (6)
+top_ngram_5,10 years ago (6)
+top_ngram_6,solar keyboard (6)
+top_ngram_7,waiting keyboard (5)
+top_ngram_8,keyboard uses (5)
+top_ngram_9,uses key (5)
+top_ngram_10,key depression (5)
+ner_1,Logitech|ORG|6
+ner_2,##gitech Wireless Solar Keyboard|ORG|2
+ner_3,Apple Product|MISC|2
+ner_4,Apple|ORG|2
+ner_5,Logitech Wireless Solar Keyboard|ORG|2
+ner_6,##tor|ORG|1
+ner_7,CNE|ORG|1
+ner_8,C|ORG|1
+ner_9,Lenovo|ORG|1
+ner_10,Cherry M|MISC|1

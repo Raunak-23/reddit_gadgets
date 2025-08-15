@@ -1,0 +1,49 @@
+metric,value
+file,1khcwhx.csv
+title,"Samsung's Super Thin 'Galaxy S25 Edge' Will Debut Next Week, Beating iPhone 17 Air."
+rows,228
+num_posts,1
+num_comments,227
+unique_authors,162
+max_depth,8
+avg_comment_words,53.69
+median_comment_words,44.0
+max_comment_words,222
+positive_count,15
+negative_count,212
+neutral_count,0
+positive_pct,6.608
+negative_pct,93.392
+neutral_pct,0.0
+topic_1_keywords,"storage, phones, dont, battery, jack, headphone, file, need"
+topic_1_label,"jack, phone, battery, jack, phone"
+topic_2_keywords,"battery, jack, headphone, storage, want, bigger, making, thinner"
+topic_2_label,"jacks, headphone, storage"
+topic_3_keywords,"asking, battery, thinner, phones, market, phone, want, one"
+topic_3_label,phone is asking for thinner battery
+topic_4_keywords,"phone, dont, case, phones, thinner, want, thin, anyone"
+topic_4_label,phone doesn't have a case
+topic_5_keywords,"storage, apps, card, sd, sure, dont, people, music"
+topic_5_label,sd apps and apps
+topic_6_keywords,"phone, make, people, would, one, water, battery, max"
+topic_6_label,phone would make people one
+top_ngram_1,headphone jack (69)
+top_ngram_2,bigger battery (39)
+top_ngram_3,battery headphone (34)
+top_ngram_4,battery headphone jack (34)
+top_ngram_5,stop making (32)
+top_ngram_6,jack removal (31)
+top_ngram_7,headphone jack removal (31)
+top_ngram_8,guys want (30)
+top_ngram_9,want bigger (30)
+top_ngram_10,removal storage (30)
+ner_1,Apple|ORG|25
+ner_2,Samsung|ORG|18
+ner_3,Red|MISC|14
+ner_4,##dit|ORG|10
+ner_5,Android|MISC|10
+ner_6,iPhone|MISC|8
+ner_7,Motorola|ORG|8
+ner_8,Bluetooth|MISC|5
+ner_9,Android|ORG|5
+ner_10,SD|MISC|5

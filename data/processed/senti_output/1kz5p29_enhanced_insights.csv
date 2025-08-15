@@ -1,0 +1,49 @@
+metric,value
+file,1kz5p29.csv
+title,Modder crams RTX 4060 PC inside an office chair | That's one way to hide a PC
+rows,45
+num_posts,1
+num_comments,44
+unique_authors,31
+max_depth,5
+avg_comment_words,26.36
+median_comment_words,22.5
+max_comment_words,66
+positive_count,11
+negative_count,33
+neutral_count,0
+positive_pct,25.0
+negative_pct,75.0
+neutral_pct,0.0
+topic_1_keywords,"back, hazard, fire, literally, one, butt, worry, thats"
+topic_1_label,"hazard, fire, butt, fear"
+topic_2_keywords,"chair, like, hot, youre, lmao, guy, farming, karma"
+topic_2_label,karma karma karma
+topic_3_keywords,"rig, powered, gas, youtube, stuff, using, fishing, lines"
+topic_3_label,rig powered by gas on youtube
+topic_4_keywords,"cable, effort, going, something, worry, lol, one, youre"
+topic_4_label,i want to go to the movies
+topic_5_keywords,"seat, heated, lol, wrong, year, time, man, nice"
+topic_5_label,idk 's seat heated lol
+topic_6_keywords,"diwhy, mean, material, cool, like, really, literally, one"
+topic_6_label,a diwhy and a simple thing
+top_ngram_1,heated seat (9)
+top_ngram_2,lol youre (5)
+top_ngram_3,youre going (5)
+top_ngram_4,going much (5)
+top_ngram_5,much effort (5)
+top_ngram_6,effort run (5)
+top_ngram_7,run long (5)
+top_ngram_8,long hdmi (5)
+top_ngram_9,hdmi cable (5)
+top_ngram_10,cable closet (5)
+ner_1,##rm|ORG|1
+ner_2,##thi|PER|1
+ner_3,ASUS Prime|ORG|1
+ner_4,And|ORG|1
+ner_5,Asus TUF Gaming|ORG|1
+ner_6,Australia|LOC|1
+ner_7,Big|MISC|1
+ner_8,Doom Eternal|MISC|1
+ner_9,Doom Eternal|ORG|1
+ner_10,E|PER|1

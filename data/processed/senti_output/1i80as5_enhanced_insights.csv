@@ -1,0 +1,49 @@
+metric,value
+file,1i80as5.csv
+title,"Canon Unveils 410-Megapixel Sensor, Most Pixels In a 35mm Sensor Ever"
+rows,70
+num_posts,1
+num_comments,69
+unique_authors,40
+max_depth,9
+avg_comment_words,88.29
+median_comment_words,30.0
+max_comment_words,583
+positive_count,6
+negative_count,31
+neutral_count,32
+positive_pct,8.696
+negative_pct,44.928
+neutral_pct,46.377
+topic_1_keywords,"well, use, lit, pixels, resolution, unless, lens, pixel"
+topic_1_label,pixel pixel pixel pixel pixel
+topic_2_keywords,"sensor, pixel, dynamic, range, larger, sensors, pixels, get"
+topic_2_label,pixel gets bigger and more dynamic
+topic_3_keywords,"resolution, red, blue, green, sensor, pixel, binned, pixels"
+topic_3_label,pixel resolution in red and blue pixel
+topic_4_keywords,"pixels, pixel, bayer, better, smartphone, size, always, array"
+topic_4_label,"pixel, pixel, bayer, pixel"
+topic_5_keywords,"size, pixels, lenses, thought, pixel, resolution, sensor, photosites"
+topic_5_label,pixel resolution in pixel
+topic_6_keywords,"point, canon, sensors, sensor, industrial, results, would, get"
+topic_6_label,a canon is a sensor that would get the best results
+top_ngram_1,dynamic range (34)
+top_ngram_2,smaller pixels (19)
+top_ngram_3,pixel size (12)
+top_ngram_4,size pixel (12)
+top_ngram_5,pixel density (12)
+top_ngram_6,things like (12)
+top_ngram_7,single pixel (12)
+top_ngram_8,larger pixel (12)
+top_ngram_9,5d mark (12)
+top_ngram_10,mark iii (12)
+ner_1,Canon|ORG|13
+ner_2,iPhone|MISC|11
+ner_3,AP|MISC|9
+ner_4,C|MISC|8
+ner_5,EOS1D Mark I|MISC|6
+ner_6,BS|MISC|6
+ner_7,Rebel XSi|MISC|6
+ner_8,EOS 5D Mark III|MISC|6
+ner_9,5D Mark III|MISC|5
+ner_10,Light|ORG|5

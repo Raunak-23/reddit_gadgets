@@ -1,0 +1,49 @@
+metric,value
+file,1kz1czv.csv
+title,Flying robot morphs in mid-air to land and roll on wheels
+rows,31
+num_posts,1
+num_comments,30
+unique_authors,28
+max_depth,4
+avg_comment_words,14.33
+median_comment_words,11.5
+max_comment_words,50
+positive_count,4
+negative_count,26
+neutral_count,0
+positive_pct,13.333
+negative_pct,86.667
+neutral_pct,0.0
+topic_1_keywords,"theyre, want, dont, converts, sued, get, us, vacate"
+topic_1_label,i want to get sued by a guy who wants to get sued
+topic_2_keywords,"transform, anything, terms, word, trademarked, trademark, common, actually"
+topic_2_label,a word that is actually trademarked
+topic_3_keywords,"see, new, think, time, us, transformers, like, best"
+topic_3_label,like transformers
+topic_4_keywords,"used, best, us, see, transformers, like, theyre, think"
+topic_4_label,transformers like theyre
+topic_5_keywords,"would, say, go, far, ittransformed, like, time, want"
+topic_5_label,like to say a word
+topic_6_keywords,"transformers, work, video, ton, needs, saw, interesting, anything"
+topic_6_label,transformers work in video
+top_ngram_1,go far (7)
+top_ngram_2,far say (7)
+top_ngram_3,go far say (7)
+top_ngram_4,would go (6)
+top_ngram_5,say ittransformed (6)
+top_ngram_6,would go far (6)
+top_ngram_7,far say ittransformed (6)
+top_ngram_8,dont want (4)
+top_ngram_9,interesting needs (2)
+top_ngram_10,needs ton (2)
+ner_1,##bro|ORG|2
+ner_2,Trans|MISC|2
+ner_3,Carbot|MISC|1
+ner_4,##ograph|ORG|1
+ner_5,Michael Rechtin|PER|1
+ner_6,NASA|ORG|1
+ner_7,S|MISC|1
+ner_8,The Simpsons|ORG|1
+ner_9,Trans|ORG|1
+ner_10,Transformers|MISC|1

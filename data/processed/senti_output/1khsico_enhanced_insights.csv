@@ -1,0 +1,49 @@
+metric,value
+file,1khsico.csv
+title,"No GeForce RTX 5060 analysis for launch on May 19, 2025 - No drivers, no party"
+rows,44
+num_posts,1
+num_comments,43
+unique_authors,32
+max_depth,4
+avg_comment_words,41.21
+median_comment_words,27.0
+max_comment_words,137
+positive_count,5
+negative_count,38
+neutral_count,0
+positive_pct,11.628
+negative_pct,88.372
+neutral_pct,0.0
+topic_1_keywords,"time, reviews, release, dont, product, give, unless, prevents"
+topic_1_label,if you don t give it unless you don t give it unless you don t give it
+topic_2_keywords,"3060, gpu, gpus, 6gb, could, cause, buy, desktop"
+topic_2_label,"gpu, gpus, 6gb could cause desktop to buy"
+topic_3_keywords,"3060, 8gb, 12gb, card, 2025, 5060, edition, windows"
+topic_3_label,"2025 edition of 3060, 8gb, 12gb, 2025, 5060"
+topic_4_keywords,"comment, actually, wrong, thanks, post, haha, one, though"
+topic_4_label,i just got a bad comment
+topic_5_keywords,"8gb, card, 3060ti, series, 12gb, would, version, make"
+topic_5_label,card would make a series 12gb
+topic_6_keywords,"nvidia, rtx, gpu, one, clear, ones, unfortunately, gamersbuilders"
+topic_6_label,"nvidia, gpu, clear"
+top_ngram_1,3060 12gb (10)
+top_ngram_2,8gb 2025 (9)
+top_ngram_3,2025 3060 (9)
+top_ngram_4,12gb card (9)
+top_ngram_5,8gb 2025 3060 (9)
+top_ngram_6,2025 3060 12gb (9)
+top_ngram_7,3060 12gb card (9)
+top_ngram_8,3060ti 8gb (5)
+top_ngram_9,proven time (4)
+top_ngram_10,time time (4)
+ner_1,Nvidia|ORG|7
+ner_2,Windows|MISC|4
+ner_3,AMD|ORG|2
+ner_4,##vidia|ORG|2
+ner_5,3060|MISC|2
+ner_6,nVidia|ORG|2
+ner_7,Radbrad|PER|2
+ner_8,Jimmy Carter|PER|2
+ner_9,Carter|PER|2
+ner_10,Trump|PER|2

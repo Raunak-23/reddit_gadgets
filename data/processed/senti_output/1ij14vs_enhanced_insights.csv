@@ -1,0 +1,49 @@
+metric,value
+file,1ij14vs.csv
+title,MSI and Asus increase Nvidia RTX 5090 and RTX 5080 prices by up to 400USD | It's like 2021 all over again
+rows,457
+num_posts,1
+num_comments,456
+unique_authors,334
+max_depth,8
+avg_comment_words,66.19
+median_comment_words,43.0
+max_comment_words,331
+positive_count,61
+negative_count,395
+neutral_count,0
+positive_pct,13.377
+negative_pct,86.623
+neutral_pct,0.0
+topic_1_keywords,"people, card, pc, kind, invest, console, dont, new"
+topic_1_label,pcs invest in pcs
+topic_2_keywords,"upgrade, performance, price, card, 5080, 3080, really, id"
+topic_2_label,id of card upgrade price
+topic_3_keywords,"card, dont, games, years, still, im, new, pc"
+topic_3_label,"card games, games, pc"
+topic_4_keywords,"got, im, super, card, 5080, 4k, would, pc"
+topic_4_label,i got a card with 4k pc
+topic_5_keywords,"gaming, year, billion, data, center, right, fiscal, best"
+topic_5_label,'Best Gaming' in the center of the world
+topic_6_keywords,"sold, price, like, im, prices, one, thats, used"
+topic_6_label,i like the price of a iii
+top_ngram_1,data center (42)
+top_ngram_2,new card (41)
+top_ngram_3,fiscal year (36)
+top_ngram_4,billion data (36)
+top_ngram_5,billion data center (36)
+top_ngram_6,covid hit (32)
+top_ngram_7,right covid (31)
+top_ngram_8,buying 20series (30)
+top_ngram_9,20series card (30)
+top_ngram_10,card right (30)
+ner_1,AMD|ORG|42
+ner_2,Nvidias|ORG|24
+ner_3,Covid|ORG|23
+ner_4,Nvidia|ORG|17
+ner_5,PC|MISC|17
+ner_6,God|PER|16
+ner_7,Center|ORG|15
+ner_8,##vid|ORG|12
+ner_9,##vidia|ORG|9
+ner_10,Co|MISC|8

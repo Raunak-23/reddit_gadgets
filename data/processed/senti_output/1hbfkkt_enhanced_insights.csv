@@ -1,0 +1,43 @@
+metric,value
+file,1hbfkkt.csv
+title,"Another smart (cloud-connected) gadget bites the dust, as Moxie emotional-support robot will soon be bricked when the manufacturer goes under."
+rows,14
+num_posts,1
+num_comments,13
+unique_authors,11
+max_depth,1
+avg_comment_words,46.23
+median_comment_words,45.0
+max_comment_words,133
+positive_count,1
+negative_count,12
+neutral_count,0
+positive_pct,7.692
+negative_pct,92.308
+neutral_pct,0.0
+topic_1_keywords,"think, emotional, source, support, open, used, like, software"
+topic_1_label,a source of support for a software
+topic_2_keywords,"really, dont, people, monthly, buy, offsite, service, depend"
+topic_2_label,if you buy a home on a offsite you will not be able to buy it
+topic_3_keywords,"make, emotional, going, see, might, ebay, snag, cheap"
+topic_3_label,snags cheap ebay
+topic_4_keywords,"support, least, cloud, people, coming, updates, system, would"
+topic_4_label,support for cloud
+topic_5_keywords,"could, something, source, used, like, open, devices, model"
+topic_5_label,a device can be used to open a device
+topic_6_keywords,"emotional, think, source, support, open, used, like, software"
+topic_6_label,"a sexy, emotional, and open source of support"
+top_ngram_1,open source (3)
+top_ngram_2,dont buy (2)
+top_ngram_3,buy devices (2)
+top_ngram_4,devices depend (2)
+top_ngram_5,depend offsite (2)
+top_ngram_6,offsite cloud (2)
+top_ngram_7,cloud service (2)
+top_ngram_8,service work (2)
+top_ngram_9,dont buy devices (2)
+top_ngram_10,buy devices depend (2)
+ner_1,##B|ORG|2
+ner_2,Chat|MISC|2
+ner_3,e|MISC|2
+ner_4,PC|LOC|1

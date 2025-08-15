@@ -1,0 +1,49 @@
+metric,value
+file,1id2ic1.csv
+title,Atari releases Asteroids watches for game's 45th anniversary – they're already sold out | They have a unique way of showing the time
+rows,75
+num_posts,1
+num_comments,74
+unique_authors,49
+max_depth,8
+avg_comment_words,47.76
+median_comment_words,32.5
+max_comment_words,280
+positive_count,9
+negative_count,65
+neutral_count,0
+positive_pct,12.162
+negative_pct,87.838
+neutral_pct,0.0
+topic_1_keywords,"watch, dont, people, think, make, priced, correctly, move"
+topic_1_label,watch don't watch
+topic_2_keywords,"watch, sapphire, going, price, watches, mechanical, youre, depending"
+topic_2_label,you're going to watch a sapphire
+topic_3_keywords,"time, ring, read, watches, ufo, outer, inner, hand"
+topic_3_label,ufo watches read in ring
+topic_4_keywords,"automatic, watch, price, 500, expensive, get, mean, doesnt"
+topic_4_label,automatic watch with a price of 500
+topic_5_keywords,"id, one, pay, 499, even, 125, oh, man"
+topic_5_label,"id, pay, man"
+topic_6_keywords,"watch, face, literally, already, smart, watches, existing, app"
+topic_6_label,a smart watch with a face and a face
+top_ngram_1,id pay (8)
+top_ngram_2,read time (8)
+top_ngram_3,oh man (7)
+top_ngram_4,man id (7)
+top_ngram_5,id love (7)
+top_ngram_6,love one (7)
+top_ngram_7,one even (7)
+top_ngram_8,even 499 (7)
+top_ngram_9,499 id (7)
+top_ngram_10,pay maybe (7)
+ner_1,S|MISC|4
+ner_2,##watch|ORG|3
+ner_3,Electronics|ORG|2
+ner_4,##B|ORG|2
+ner_5,Hamilton|MISC|2
+ner_6,e|MISC|2
+ner_7,Asteroids|MISC|2
+ner_8,##watch Watch|ORG|1
+ner_9,Chinese|MISC|1
+ner_10,##le|ORG|1

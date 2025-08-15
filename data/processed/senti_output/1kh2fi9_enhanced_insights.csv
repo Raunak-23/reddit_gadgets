@@ -1,0 +1,49 @@
+metric,value
+file,1kh2fi9.csv
+title,Nintendo Switch 2 confirmed to feature NVIDIA T239 SoC with 1536 CUDA Ampere GPU
+rows,428
+num_posts,1
+num_comments,427
+unique_authors,236
+max_depth,11
+avg_comment_words,91.43
+median_comment_words,68.0
+max_comment_words,526
+positive_count,60
+negative_count,356
+neutral_count,11
+positive_pct,14.052
+negative_pct,83.372
+neutral_pct,2.576
+topic_1_keywords,"games, switch, like, console, nintendo, pc, even, get"
+topic_1_label,Switching to a console and a PC
+topic_2_keywords,"switch, would, nintendo, people, games, like, want, buy"
+topic_2_label,nintendo people want to buy a switch
+topic_3_keywords,"switch, gpu, much, maxwell, like, architecture, emulator, new"
+topic_3_label,"gpu, gpu, much, gpu, gpu"
+topic_4_keywords,"games, switch, performance, steam, handheld, deck, power, like"
+topic_4_label,Steam Switch Switching
+topic_5_keywords,"switch, games, even, game, like, good, im, dlss"
+topic_5_label,dlss game likes to switch games
+topic_6_keywords,"switch, nintendo, even, like, games, one, console, thats"
+topic_6_label,"Switch, nintendo, even, like, games, one"
+top_ngram_1,steam deck (64)
+top_ngram_2,switch games (29)
+top_ngram_3,current gen (26)
+top_ngram_4,year old (23)
+top_ngram_5,years old (23)
+top_ngram_6,party games (22)
+top_ngram_7,30 short (20)
+top_ngram_8,third party (19)
+top_ngram_9,cuda cores (18)
+top_ngram_10,dont know (18)
+ner_1,Nintendo|ORG|216
+ner_2,Switch 2|MISC|152
+ner_3,Switch|MISC|97
+ner_4,Switch 1|MISC|71
+ner_5,PS4|MISC|46
+ner_6,PS5|MISC|43
+ner_7,Am|MISC|31
+ner_8,PC|MISC|29
+ner_9,Maxwell|ORG|27
+ner_10,Wii|MISC|25

@@ -1,0 +1,43 @@
+metric,value
+file,1j394qu.csv
+title,Lenovo teases solar-powered and foldable screen laptops in latest concept
+rows,50
+num_posts,1
+num_comments,49
+unique_authors,41
+max_depth,3
+avg_comment_words,33.86
+median_comment_words,26.0
+max_comment_words,131
+positive_count,11
+negative_count,38
+neutral_count,0
+positive_pct,22.449
+negative_pct,77.551
+neutral_pct,0.0
+topic_1_keywords,"screens, foldable, think, long, get, makes, uses, go"
+topic_1_label,foldable screen
+topic_2_keywords,"laptop, lenovo, laptops, work, last, thats, years, garbage"
+topic_2_label,laptops work last year and last for garbage
+topic_3_keywords,"often, solar, laptop, laptops, sun, lenovo, extra, use"
+topic_3_label,use of solar laptops
+topic_4_keywords,"laptop, think, still, dont, focus, yoga, work, features"
+topic_4_label,laptop doesn t focus on yoga
+topic_5_keywords,"good, plug, outlet, working, home, cant, laptop, wifi"
+topic_5_label,A laptop with good plugs and outlet working in home
+topic_6_keywords,"screen, two, fold, 9i, benefit, seems, take, laptop"
+topic_6_label,9i is a benefit for laptop
+top_ngram_1,often laptops (9)
+top_ngram_2,laptops sun (9)
+top_ngram_3,often laptops sun (9)
+top_ngram_4,extra hour (7)
+top_ngram_5,sun probably (5)
+top_ngram_6,probably often (5)
+top_ngram_7,often people (5)
+top_ngram_8,people reading (5)
+top_ngram_9,reading past (5)
+top_ngram_10,past headline (5)
+ner_1,Lenovo|ORG|14
+ner_2,From|MISC|2
+ner_3,Alex|PER|1
+ner_4,##keybrd|ORG|1

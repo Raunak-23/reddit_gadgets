@@ -1,0 +1,49 @@
+metric,value
+file,1kt799s.csv
+title,Apple Smart Glasses Launching in 2026
+rows,241
+num_posts,1
+num_comments,240
+unique_authors,163
+max_depth,11
+avg_comment_words,45.77
+median_comment_words,27.5
+max_comment_words,505
+positive_count,33
+negative_count,159
+neutral_count,48
+positive_pct,13.75
+negative_pct,66.25
+neutral_pct,20.0
+topic_1_keywords,"like, apple, would, glasses, 90, see, said, im"
+topic_1_label,"like, apple, glasses, and glasses"
+topic_2_keywords,"privacy, apple, meta, data, google, glass, infrastructure, verdict"
+topic_2_label,Google's verdict on privacy
+topic_3_keywords,"apple, 2k, want, like, vision, around, pro, people"
+topic_3_label,i want to see a pro in a small apple
+topic_4_keywords,"apple, privacy, meta, data, im, care, id, actually"
+topic_4_label,Apple's privacy data is a data id
+topic_5_keywords,"dont, meta, glasses, market, tech, smart, every, thats"
+topic_5_label,i dont have glasses in the market
+topic_6_keywords,"vr, good, market, apple, without, glasses, use, one"
+topic_6_label,apple without glasses in vr
+top_ngram_1,meta raybans (18)
+top_ngram_2,google glass (17)
+top_ngram_3,vision pro (17)
+top_ngram_4,smart glasses (13)
+top_ngram_5,start around (12)
+top_ngram_6,around 2k (12)
+top_ngram_7,2k guess (12)
+top_ngram_8,start around 2k (12)
+top_ngram_9,around 2k guess (12)
+top_ngram_10,ar glasses (12)
+ner_1,Apple|ORG|92
+ner_2,Google Glass|MISC|10
+ner_3,##dit|ORG|9
+ner_4,Google|ORG|9
+ner_5,Meta|ORG|9
+ner_6,Red|MISC|9
+ner_7,Apple Vision Pro|MISC|8
+ner_8,Sir|PER|8
+ner_9,Vision Pro|MISC|8
+ner_10,Apple|MISC|8

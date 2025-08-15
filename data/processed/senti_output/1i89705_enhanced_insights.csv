@@ -1,0 +1,49 @@
+metric,value
+file,1i89705.csv
+title,"Ryzen 7 9800X3D remains ""insane in a good way"" as even the RTX 5090 won't bottleneck at 1080p"
+rows,29
+num_posts,1
+num_comments,28
+unique_authors,18
+max_depth,7
+avg_comment_words,62.14
+median_comment_words,62.5
+max_comment_words,150
+positive_count,4
+negative_count,24
+neutral_count,0
+positive_pct,14.286
+negative_pct,85.714
+neutral_pct,0.0
+topic_1_keywords,"submission, removal, please, sensationalized, removed, moderators, regarding, questions"
+topic_1_label,Comments on submissions
+topic_2_keywords,"1080p, gpu, cpu, 4k, 5090, bottleneck, plays, buy"
+topic_2_label,"gpu, cpu, 4k, 5090, bottleneck"
+topic_3_keywords,"cpu, even, gpu, frames, would, choice, good, fps"
+topic_3_label,"cpu, even, gpu, frames, would, choice"
+topic_4_keywords,"cpus, lower, higher, well, headline, powerful, thats, site"
+topic_4_label,cpus lowers than site
+topic_5_keywords,"5090, buying, every, 4k, youre, afford, could, one"
+topic_5_label,"5090, buying every 4k, could afford one"
+topic_6_keywords,"well, never, ran, dysentery, tech, goes, budget, cpus"
+topic_6_label,cpus goes to cpus
+top_ngram_1,buying 5090 (8)
+top_ngram_2,good choice (6)
+top_ngram_3,regarding removal (6)
+top_ngram_4,removal submission (6)
+top_ngram_5,regarding removal submission (6)
+top_ngram_6,could afford (6)
+top_ngram_7,plays 1080p (5)
+top_ngram_8,1080p buy (5)
+top_ngram_9,buy 4k (5)
+top_ngram_10,plays 1080p buy (5)
+ner_1,Ninja|ORG|6
+ner_2,Ryzen|ORG|6
+ner_3,##dgets|ORG|3
+ner_4,u|ORG|3
+ner_5,##ge|ORG|3
+ner_6,Oregon Trail|MISC|2
+ner_7,##messagecomposetor|ORG|2
+ner_8,DOS|MISC|2
+ner_9,Nvidia|ORG|2
+ner_10,##gecomposetor|ORG|1

@@ -1,0 +1,2128 @@
+{
+  "post": {
+    "title": "NVIDIA official GeForce RTX 50 vs. RTX 40 benchmarks: 15 to 33 percent performance uplift without DLSS Multi-Frame Generation ",
+    "author": "a_Ninja_b0y",
+    "id": "1i1zm1n",
+    "score": 644,
+    "created_utc": 1736954156.0,
+    "selftext": "",
+    "num_comments": 249,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i1zm1n/nvidia_official_geforce_rtx_50_vs_rtx_40/"
+  },
+  "comments": [
+    {
+      "id": "m7a6g07",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1736954157.0,
+      "replies": []
+    },
+    {
+      "id": "m7achic",
+      "author": "Gunfreak2217",
+      "body": "The biggest disappointment for me with the 5000 series announcement was that it was on the same process node. It pretty much just screamed low improvement.",
+      "score": 261,
+      "created_utc": 1736956005.0,
+      "replies": [
+        {
+          "id": "m7afzyx",
+          "author": "dertechie",
+          "body": "I\u2019m guessing either N3 was too expensive or they couldn\u2019t get the defect rate acceptable when NVidia was taping out Blackwell.  I think Apple is still buying all of the N3E wafers and N3B had some issues.",
+          "score": 97,
+          "created_utc": 1736957060.0,
+          "replies": [
+            {
+              "id": "m7dlxbk",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 46,
+              "created_utc": 1736991172.0,
+              "replies": [
+                {
+                  "id": "m7ej72x",
+                  "author": "cogitocool",
+                  "body": "I, too, am always amazed by the knowledge that gets dropped on the regular.",
+                  "score": 17,
+                  "created_utc": 1737003689.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7gmvxt",
+                  "author": "nipple_salad_69",
+                  "body": "All mouths 'round these parts",
+                  "score": 1,
+                  "created_utc": 1737040752.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7d5vtm",
+              "author": "vdubsession",
+              "body": "Didn't they also have to change the wafer \"mask\" or something due to the Blackwell AI supercomputer glitches? I wonder if that means more chips will end up available for GPUs, it sounded like big companies like microsoft and meta were switching their orders to the older generation in the meantime.",
+              "score": 24,
+              "created_utc": 1736985747.0,
+              "replies": [
+                {
+                  "id": "m7las63",
+                  "author": "kiloSAGE",
+                  "body": "This is really interesting. Where do you read about this kind of stuff?",
+                  "score": 1,
+                  "created_utc": 1737096418.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7et03b",
+              "author": "Emu1981",
+              "body": ">I\u2019m guessing either N3 was too expensive\n\nOr it could be that Apple always co-opts the entire production capacity of TSMC's newest process node.",
+              "score": 7,
+              "created_utc": 1737008541.0,
+              "replies": [
+                {
+                  "id": "m7go2aw",
+                  "author": "dertechie",
+                  "body": "There are other customers on TSMC N3B at this point.  Intel\u2019s client generation of Lunar Lake mobile CPU has the compute tile made on TSMC N3B, for example.  It launched in September 2024.  \n\nApple has moved on from N3B to N3E.  Their exclusivity on TSMC N3 is over.",
+                  "score": 3,
+                  "created_utc": 1737041112.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7c5wyh",
+          "author": "jassco2",
+          "body": "4000 Super Duper series, as expected!",
+          "score": 16,
+          "created_utc": 1736974817.0,
+          "replies": [
+            {
+              "id": "m7d5yt8",
+              "author": "vdubsession",
+              "body": "Super TI!",
+              "score": 5,
+              "created_utc": 1736985775.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7askzx",
+          "author": "Zeraru",
+          "body": "And a large part of the improvement seems to be increased power consumption.",
+          "score": 53,
+          "created_utc": 1736960768.0,
+          "replies": [
+            {
+              "id": "m7bjubh",
+              "author": "FlarblesGarbles",
+              "body": "Numbers go up. ALL OF THEM.",
+              "score": 20,
+              "created_utc": 1736968576.0,
+              "replies": []
+            },
+            {
+              "id": "m7dor8k",
+              "author": "ThePretzul",
+              "body": "Since when did gamers care about power consumption so long as the cooling was sufficient to avoid overheating?",
+              "score": 15,
+              "created_utc": 1736992143.0,
+              "replies": [
+                {
+                  "id": "m7e40jk",
+                  "author": "iaace",
+                  "body": "\"sufficient cooling\" can be noisy and large enough to not fit in all chassis",
+                  "score": 23,
+                  "created_utc": 1736997523.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7dsqmd",
+                  "author": "mrureaper",
+                  "body": "Since price of electricity and gas went up",
+                  "score": 8,
+                  "created_utc": 1736993517.0,
+                  "replies": [
+                    {
+                      "id": "m7dtpkg",
+                      "author": "ThePretzul",
+                      "body": "Electricity is still less than $0.50/kWh virtually everywhere in the world. Pretending that the 30-50 watt difference, tops, is meaningful or noticeable in terms of cost in any way is disingenuous. \n\nYou can play video games on a top-end system for 40 hours before the difference would cost you a dollar even at $0.50/kWh prices. You\u2019d have to play video games for 40,000 hours, or 4.6 years without ever stopping, before the cost difference amounts to the price of a 5080.",
+                      "score": 19,
+                      "created_utc": 1736993862.0,
+                      "replies": [
+                        {
+                          "id": "m7mlws7",
+                          "author": "looncraz",
+                          "body": "That's how poor people are made.  Nickel and dimed to death.",
+                          "score": 2,
+                          "created_utc": 1737122089.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m7ez3m7",
+                      "author": "Leuel48Fan",
+                      "body": "BS. Efficieny only matters when there's a battery involved.",
+                      "score": 2,
+                      "created_utc": 1737012001.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m7ix07w",
+                      "author": "billymcnilly",
+                      "body": "Especially when you've gotta run the aircon to counteract the 600 watt heater running in the room",
+                      "score": 1,
+                      "created_utc": 1737064522.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m7fdjvi",
+                  "author": "Arclite02",
+                  "body": "Since power draw started getting high enough to cut into PSU margins, and associated transient spikes are potentially getting big enough to overload all but he beefiest power supplies out there.  Also since that fire hazard of a single power cable showed up, people are understandably not thrilled about ramming EVEN MORE juice through the thing...",
+                  "score": 1,
+                  "created_utc": 1737021097.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7l3qw0",
+                  "author": "welter_skelter",
+                  "body": "Since PC parts started drawing enough power to literally trip the breaker for your room lol.",
+                  "score": 1,
+                  "created_utc": 1737092703.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7ei82a",
+              "author": "orangpelupa",
+              "body": "And Nvidia disabled over volting on rtx 4000 series. Hmmm m mmmm",
+              "score": 1,
+              "created_utc": 1737003254.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7btsk6",
+          "author": "gramathy",
+          "body": "I\u2019ll give them credit for the size improvement on the 5090",
+          "score": 9,
+          "created_utc": 1736971424.0,
+          "replies": [
+            {
+              "id": "m7bw5ni",
+              "author": "icebeat",
+              "body": "Yeah 2000$ of improvement",
+              "score": 11,
+              "created_utc": 1736972107.0,
+              "replies": [
+                {
+                  "id": "m7k5rx9",
+                  "author": "grilled_cheese_gang",
+                  "body": "![gif](giphy|sDcfxFDozb3bO)",
+                  "score": 1,
+                  "created_utc": 1737079161.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7e3i1v",
+          "author": "gitg0od",
+          "body": "n4p vs n5, it's not the same node.",
+          "score": 3,
+          "created_utc": 1736997334.0,
+          "replies": []
+        },
+        {
+          "id": "m7dkynl",
+          "author": "CiraKazanari",
+          "body": "Look, 4080s and 4090s are still overkill for most everything. So whatever.",
+          "score": 1,
+          "created_utc": 1736990842.0,
+          "replies": [
+            {
+              "id": "m7vmg8p",
+              "author": "Stormfrosty",
+              "body": "5090 is double the performance of my 4090 because it can run my monitor at 240hz, while the later can only do 120hz. DP 2.1 is the only reason to upgrade here.",
+              "score": 1,
+              "created_utc": 1737239608.0,
+              "replies": [
+                {
+                  "id": "m7vt4wo",
+                  "author": "CiraKazanari",
+                  "body": "Cause you need 4k240? \n\nMy 4080s handles 1440 ultra wide at 165 juuuuust fine.",
+                  "score": 1,
+                  "created_utc": 1737241788.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m85rv2g",
+              "author": "SomewhatOptimal1",
+              "body": "Wrong subreddit it\u2019s r/gadets not r/reasonablethought , people will die if they don\u2019t consume leaks, rumors for a day and then get a new shiny thing.",
+              "score": 1,
+              "created_utc": 1737381447.0,
+              "replies": []
+            },
+            {
+              "id": "m7j901b",
+              "author": "Inquisitor2195",
+              "body": "I am guessing you game at 1080p or 1440p? For those resolutions, yes, complete overkill. At 4k they need every DLSS and Frame gen trick in the book still to get consistent FPS above like 90 with high settings in a lot of games, my 4070 Super struggles in some titles just to give me a solid 60 without having to drop some settings.",
+              "score": -2,
+              "created_utc": 1737068149.0,
+              "replies": [
+                {
+                  "id": "m7kms8z",
+                  "author": "CiraKazanari",
+                  "body": "DLSS and Frame Gen are great and keep getting better, so whatever. \n\nOf course it\u2019s gonna struggle in some titles. Not all games are made well. You don\u2019t need a 5080/5090 because of games that aren\u2019t made well.",
+                  "score": 1,
+                  "created_utc": 1737085351.0,
+                  "replies": [
+                    {
+                      "id": "m7ko973",
+                      "author": "Inquisitor2195",
+                      "body": "Bare in mind I am talking about specifically 4k, most modern games struggle with 4k even with DLSS, hell I can't get a consistent 60 fps in Warthunder on high settings and that is not a graphically intensive game. 4k requires an exponential increase in processing power and VRAM.\n\nMy point is for 1080p gaming, I think cards 2-3 generations behind are fine, and in 1440p you can probably get a very playable experience in modern games on lastgen hardware.",
+                      "score": 0,
+                      "created_utc": 1737085911.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7bgsm7",
+          "author": "PainterRude1394",
+          "body": "It's on a revision of 4nm, not exactly the same. \n\nWait till you see AMD's - similar node and less performance than last gen.",
+          "score": -18,
+          "created_utc": 1736967700.0,
+          "replies": [
+            {
+              "id": "m7cbs24",
+              "author": "Embarrassed_Adagio28",
+              "body": "100% false",
+              "score": 11,
+              "created_utc": 1736976459.0,
+              "replies": [
+                {
+                  "id": "m7choon",
+                  "author": "PainterRude1394",
+                  "body": "Nope!",
+                  "score": -19,
+                  "created_utc": 1736978132.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7a8snr",
+      "author": "ErsatzNihilist",
+      "body": "On the upside, this gives me plenty of time to save in a relaxed fashion for the RTX 60 series AND buy an stupidly expensive DLSR camera in the mean time for my other hobby.\n\nThanks Nvidia.",
+      "score": 237,
+      "created_utc": 1736954886.0,
+      "replies": [
+        {
+          "id": "m7ait1j",
+          "author": "RBS95",
+          "body": "If you're spending a lot of money on a camera in 2025 it should be for a mirrorless camera, not a DSLR. Unless you're just using that term to generally mean \"high end camera\"",
+          "score": 133,
+          "created_utc": 1736957908.0,
+          "replies": [
+            {
+              "id": "m7aj2wz",
+              "author": "ErsatzNihilist",
+              "body": "Sorry, yes, I'm being lazy with my terminology - you're quite right.",
+              "score": 70,
+              "created_utc": 1736957989.0,
+              "replies": [
+                {
+                  "id": "m7bf5mf",
+                  "author": "Kortesch",
+                  "body": "a7 V will come out soon, ~3k roughly. Thats what I'm going for \ud83d\ude0d\n\nedit: ah lol you even said that in a different comment chain :D",
+                  "score": 20,
+                  "created_utc": 1736967234.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7coilv",
+              "author": "QuickQuirk",
+              "body": "Cameras are in the same boat though. Anything from the past 5 years are so amazing that the new ones just aren't compelling enough to upgrade.",
+              "score": 11,
+              "created_utc": 1736980140.0,
+              "replies": []
+            },
+            {
+              "id": "m7ck6ws",
+              "author": "Tywele",
+              "body": "As someone not in the hobby: why?",
+              "score": 8,
+              "created_utc": 1736978845.0,
+              "replies": [
+                {
+                  "id": "m7dcm00",
+                  "author": "user11711",
+                  "body": "In simple terms Mirrorless has less moving parts and is able to capture exactly what you \u201csee\u201d on the view finder. DLSR is very mechanical and has lots of moving parts. To the point where shutter count is something to take into consideration when buying a used one. As well, since the viewfinder is a reflection on a DLSR, it might not capture what you see exactly.",
+                  "score": 20,
+                  "created_utc": 1736988007.0,
+                  "replies": [
+                    {
+                      "id": "m7eqd8a",
+                      "author": "TechSupportTime",
+                      "body": "That's all well and good, but can mirrorless cameras make the \"ka-chunk\" noise when taking a photo? Yeah I didn't think so",
+                      "score": 12,
+                      "created_utc": 1737007153.0,
+                      "replies": [
+                        {
+                          "id": "m7exk75",
+                          "author": "Froody129",
+                          "body": "Many actually play a convincing shutter sound",
+                          "score": 11,
+                          "created_utc": 1737011097.0,
+                          "replies": [
+                            {
+                              "id": "m7fdr2u",
+                              "author": "pinionist",
+                              "body": "They don't play it - they have a moving shutter, which you can turn off and shoot silently. Which is very desirable for a lot of professionally working photographers. \n\n  \nAlso the whole thing about not having mirror blocking sensor is that camera can process what lens sees all the time and be ready or even shoot photos before you actually press the shutter button. It can use AI to focus better and more organically on minutia details like people's eyes.",
+                              "score": 4,
+                              "created_utc": 1737021224.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m7fdjjc",
+                      "author": "styx66",
+                      "body": "The majority of mirrorless cameras still have a mechanical shutter. Still less parts than a flipping mirror shutter combo but still would have a shutter that can wear.  A few cameras like the Nikon z9 have no mechanical shutter at all, and some let you turn on an electronic shutter for silent operation but with some drawbacks.",
+                      "score": 2,
+                      "created_utc": 1737021091.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7ga4g7",
+              "author": "TetsuoTechnology",
+              "body": "Anyone in photography knows what they meant. Lol\u2026.",
+              "score": 1,
+              "created_utc": 1737036580.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7awv05",
+          "author": "Neil_Patrick",
+          "body": "Then there is me still using a 1080. lol \n\nNot sure what\u2019s the best choice for 1440p max settings to upgrade. Was hoping the 50 series would drop prices for 40 series cards. But doesn\u2019t seem like it will.",
+          "score": 17,
+          "created_utc": 1736962017.0,
+          "replies": [
+            {
+              "id": "m7c1tge",
+              "author": "Dirty_Dragons",
+              "body": "You might want to consider used 3080, 4070ti etc.\n\nI'm sure there will be plenty of people trying to sell their cards so they can buy 50 series.",
+              "score": 12,
+              "created_utc": 1736973696.0,
+              "replies": []
+            },
+            {
+              "id": "m7bgl7b",
+              "author": "Kortesch",
+              "body": "Well as someone with semi-Ultrawide 1440p (so 3440x1440), 4090 already isnt enough for PvP games 175hz. People will always tell you 4090 is more than enough even for 4k, and that might be true for SP games. But for PvP games thats just not true. I simply can't play on max settings (because I of course want 175 fps) and I dont even have 4k, more like 3k. So, depends on how many frames you want and how bad the games you play are optimized :D\n\nBut the general consensus is that my \"opinion\" (mind, thats not an opinion, its how many frames I objectively have) is bullshit lol",
+              "score": -5,
+              "created_utc": 1736967641.0,
+              "replies": [
+                {
+                  "id": "m7cht38",
+                  "author": "lxs0713",
+                  "body": "Don't people who play pvp games competitively turn settings down anyways? I thought running games on max wasn't common. And even then, those games usually aren't very demanding. I know Marvel Rivals isn't that optimized, but then again, what UE5 game is?",
+                  "score": 6,
+                  "created_utc": 1736978166.0,
+                  "replies": [
+                    {
+                      "id": "m7cyocg",
+                      "author": "Kortesch",
+                      "body": "Yea but because the performance isnt good enough, at least in my case",
+                      "score": 2,
+                      "created_utc": 1736983335.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m7c5trr",
+                  "author": "ExaltedCrown",
+                  "body": "Know the feels. The sub for my country says a 4070 super is good enough for all games (and future games) for 144hz 1440p (many even claim 4k) gaming. I get super downvoted when I say that\u2019s not true.",
+                  "score": 2,
+                  "created_utc": 1736974792.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7aad2j",
+          "author": "positivcheg",
+          "body": "Yeah. Sadly tech these days is not as fun as it was before. Same goes to iPhones. Every year I just look at new models lineup and \u201cnah, I\u2019ll wait one more year\u201d.",
+          "score": 25,
+          "created_utc": 1736955366.0,
+          "replies": [
+            {
+              "id": "m7ak3tz",
+              "author": "S4L7Y",
+              "body": "It does feel like over the years I've gone from \"Hey, I need this new shiny thing\" to \"Hey, this shiny thing I have is good enough, I'll keep it longer.\"",
+              "score": 24,
+              "created_utc": 1736958295.0,
+              "replies": [
+                {
+                  "id": "m7g0ypt",
+                  "author": "twigboy",
+                  "body": "The price hikes are unjustified",
+                  "score": 3,
+                  "created_utc": 1737033238.0,
+                  "replies": [
+                    {
+                      "id": "m7gaepc",
+                      "author": "TetsuoTechnology",
+                      "body": "These consume much less power, have higher performance especially with DLSS and other features. We haven\u2019t had reviewers share their experience. How can you decide already it\u2019s not worth it?",
+                      "score": 1,
+                      "created_utc": 1737036678.0,
+                      "replies": [
+                        {
+                          "id": "m7gderd",
+                          "author": "twigboy",
+                          "body": "Because tech prices used to drop over time and the new gen releases too the place of the old gen at release \n\nNow we have prices that either stay MSRP or go over, and people are somehow ok with that\n\nNVIDIA is taking you all for a ride as planned. This was in their leaked notes to control market pricing.",
+                          "score": 3,
+                          "created_utc": 1737037700.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7adbrw",
+              "author": "Airanuva",
+              "body": "Used to be tech jumped every 2 years such that a powerhouse machine one year was another year's minimum... But I'm only now upgrading my PC after 6 years on a Dolphin-level machine and the upgrades are only now actually somewhat substantial, but not by a lot, such that the only changes are that my CPU won't run hot when playing certain games.",
+              "score": 11,
+              "created_utc": 1736956256.0,
+              "replies": [
+                {
+                  "id": "m7apykz",
+                  "author": "SsooooOriginal",
+                  "body": "Got a Samsung phone that's like 6 years old and still just fine. 6gb of ram.\n\n\nWe're back at the point where it's more like we have to get better software to actually use all the computing power we have available. Outside of STEM industry and (imo unnecessary) 8k video processing we are very much at diminishing returns for gaming until we have the jump to VR and well integrated AI.\u00a0",
+                  "score": 9,
+                  "created_utc": 1736960002.0,
+                  "replies": [
+                    {
+                      "id": "m7b6qsy",
+                      "author": "notmoleliza",
+                      "body": "Galaxy S here.  Idgaf.",
+                      "score": 1,
+                      "created_utc": 1736964838.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m7bu2b6",
+                  "author": "CookieKeeperN2",
+                  "body": "I got a 1080ti in the summer of 2017. I upgraded to a 3080 on launch (lucky enough to get one) in the fall of 2020. I was thinking this over $800 MSRP was crazy and I can't believe I didn't upgrade my GPU for 3 years. Now it's 2025 and I have no intention of upgrading at all.",
+                  "score": 6,
+                  "created_utc": 1736971503.0,
+                  "replies": [
+                    {
+                      "id": "m7fbs5s",
+                      "author": "SpeedflyChris",
+                      "body": "Yeah I also got a launch 3080, 2000 series to 3000 series was the last really decent generational improvement.\n\nAlso the gap between the 3080 and 3090 was tiny really and the pricing made no sense, but now we've swung too far the other way I think with the 5090 being the only really interesting card in the new lineup and the 5080 delivering barely over half the performance.",
+                      "score": 1,
+                      "created_utc": 1737019948.0,
+                      "replies": [
+                        {
+                          "id": "m7g0bxh",
+                          "author": "MrMahavishnu",
+                          "body": "I really think the 3080 will go down in history as a legendary card similar to the 1080 Ti. Crazy performance leap over the previous gen, likely doesn\u2019t need to be upgraded for 6-7 years, and of course the insane demand and infamous scalping",
+                          "score": 2,
+                          "created_utc": 1737032992.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m7avbcs",
+                  "author": "krectus",
+                  "body": "This is about the same performance jump in graphics cards as it has always been.",
+                  "score": 0,
+                  "created_utc": 1736961570.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7an5ii",
+              "author": "okram2k",
+              "body": "while we're not at the theoretical limit of chip technology yet I think we've reached a stagnation point because any improvements are exponentially more expensive to achieve. So we have been seeing a focus on other areas to improve that are less flashy but still nice like more efficient power usage,  cooler temps, bigger memories and storage capacity, more parallel processors,  and better coded features. And if you're really honest with yourself, most consumers probably don't need much more power to meet the demands of what they ask of their devices. unfortunately, companies have built their entire business model off of a new product at a regular basis and it's getting harder and harder to convince people to spend on a new phone and computer every other year",
+              "score": 5,
+              "created_utc": 1736959188.0,
+              "replies": []
+            },
+            {
+              "id": "m7akl5y",
+              "author": "djphatjive",
+              "body": "I\u2019m on a 1060 3gb. So yea me too.",
+              "score": 2,
+              "created_utc": 1736958436.0,
+              "replies": []
+            },
+            {
+              "id": "m7i8dz6",
+              "author": "kennystetson",
+              "body": "The 4090 was a pretty significant improvement over the 3090 in pure raster performance compared to earlier gens.\n\nThese new card feel like 2xxx series all over. The 2xxx offered little raster improvement and relied on Ray tracing - which was a bit of a gimmick at the time - to carry the sales. The 4090 is banking on DLSS4 to do the same thing",
+              "score": 1,
+              "created_utc": 1737057387.0,
+              "replies": [
+                {
+                  "id": "m7i8v7j",
+                  "author": "positivcheg",
+                  "body": "XX90 models are for less than 1% of all gamers, I don\u2019t see any point even talking about it",
+                  "score": 1,
+                  "created_utc": 1737057528.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7b5li8",
+              "author": "Eritar",
+              "body": "I\u2019d buy a foldable iphone in an instant tbh, they just  stopped innovating at all",
+              "score": 1,
+              "created_utc": 1736964509.0,
+              "replies": [
+                {
+                  "id": "m7d6lp9",
+                  "author": "vdubsession",
+                  "body": "I don't think I can go back to a non-fold after owning a fold phone for a while. Likely switching from my Samsung fold to a google fold in the future as I like their proportions better (samsung is more narrow when folded and harder to type on)",
+                  "score": 1,
+                  "created_utc": 1736985988.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7bm7cm",
+              "author": "PainterRude1394",
+              "body": "Wild that's your takeaway. Maybe you don't understand what is being released. \n\nFolks who have been around for a while recognize this is the most innovation in graphics rendering we've had in decades. \n\nThe whole \"a little bit faster at the same stuff\" was boring imo.",
+              "score": -7,
+              "created_utc": 1736969253.0,
+              "replies": [
+                {
+                  "id": "m7bmhh3",
+                  "author": "positivcheg",
+                  "body": "You call blurry and hallucinating frames an innovation? Pretty sad to hear that.",
+                  "score": 4,
+                  "created_utc": 1736969333.0,
+                  "replies": [
+                    {
+                      "id": "m7bqnuj",
+                      "author": "PainterRude1394",
+                      "body": "Seen this is the problem. People don't even understand the basics of what they are talking about, they are just parroting talking points to whine. \n\nYes, dlss4 transformer model noticably increases dlss upscaling quality, solidifying dlss upscaling as the best upscaling product available. And this is being updated for all rtx cards ever made, all the way back to 2018\n\nYes, dlss multi frame gen now allows for 3 generated frames per individual frame while adding maybe 10ms latency. \n\nYes, the new frame gen also reduces memory consumption.\n\n\n\nThen we turn to other features they are releasing:\n\nNvidia reflex 2 further reduces latency of camera movement. Brand new features that can be stacked with reflex. \n\nRTX Neural Shaders, RTX Neural Texture Compression, RTX Texture Filtering, RTX Neural Materials, RTX Mega Geometry can all be used to greatly increase visual fidelity and/or decrease resource consumption. Since you're totally unaware of all of this, I highly recommend reading a bit or at least watching a video to get the basics:\n\nhttps://youtu.be/tuf4rvQld6c?si=naRQnZ9zMMPNsnhy\n \n\n\n\nYes, these are innovative despite you not understanding what you're talking about. Yes, this is a lot more innovation than just switching to a new node and throwing more transistors on the chip. \n\nNeural shaders are already being implemented in directx to support many of these features.",
+                      "score": -3,
+                      "created_utc": 1736970529.0,
+                      "replies": [
+                        {
+                          "id": "m7bt1x0",
+                          "author": "positivcheg",
+                          "body": "As a guy who actually programs graphics and writes shaders I would say that only half of that feels like might be of use. The other half might just be a marketing stuff.\n\nThe problem is that all the neural blablabla are simply math models that transform something into something. And those transformations usually give something but sacrifice something (sacrifice is usually in accuracy compared to precise algorithms).\n\nRay tracing in real time was a nice thing. But using \u201cAI\u201d for faking frames and also altering stuff to me doesn\u2019t look like a right path to go to progress. To me it\u2019s an insanely LAZY way to provide increments. However, it gives huge marketing space as simply doubles FPS, reduces memory (but hello, loses precision) and stuff like that. It\u2019s not a progression towards something good. It\u2019s just using buzzwords and workarounds to achieve better pure metrics like FPS.",
+                          "score": 5,
+                          "created_utc": 1736971208.0,
+                          "replies": [
+                            {
+                              "id": "m7by9oq",
+                              "author": "PainterRude1394",
+                              "body": "\nAlways funny when redditors try to mislead people about their job to cover up not knowing what they are talking about.",
+                              "score": -8,
+                              "created_utc": 1736972714.0,
+                              "replies": [
+                                {
+                                  "id": "m7bzhhc",
+                                  "author": "positivcheg",
+                                  "body": "You have your own rights to live in delusions. If that\u2019s against your fluffy pinky world just ignore my opinion on that.",
+                                  "score": 8,
+                                  "created_utc": 1736973051.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7an0ef",
+          "author": "ChucklesInDarwinism",
+          "body": "Sony a7 IV is great. Best purchase I\u2019ve done.",
+          "score": 6,
+          "created_utc": 1736959146.0,
+          "replies": [
+            {
+              "id": "m7aoza4",
+              "author": "ErsatzNihilist",
+              "body": "Hah! This is the exact thing I was looking at, or possibly wait for the V to see if it's any good and/or the IV drops in price.\n\nThank you for affirming my purchasing decision in a blind test!",
+              "score": 2,
+              "created_utc": 1736959718.0,
+              "replies": [
+                {
+                  "id": "m7bw40p",
+                  "author": "Crunktasticzor",
+                  "body": "If you\u2019re doing video the A7iv has overheated on me in the summer in longer recording, beware. I had to hold a cold water bottle on the body to try and postpone the shutoff. And yes this is after changing the setting in the menu and such. \n\nGreat camera but really hope the A7V fixes that",
+                  "score": 2,
+                  "created_utc": 1736972094.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7awdpr",
+          "author": "krectus",
+          "body": "Be prepared for the same thing in the camera world minor upgrades every few years and still big price increases",
+          "score": 2,
+          "created_utc": 1736961879.0,
+          "replies": [
+            {
+              "id": "m7blblo",
+              "author": "speedisntfree",
+              "body": "Canon and Nikon DSLR dominance era was grim for this.",
+              "score": 2,
+              "created_utc": 1736969000.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7ax4cn",
+          "author": "AmericanKamikaze",
+          "body": "dinner weather glorious outgoing familiar hungry tap snails offer market\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+          "score": 2,
+          "created_utc": 1736962090.0,
+          "replies": [
+            {
+              "id": "m7c06kd",
+              "author": "FormABruteSquad",
+              "body": "I heard a rumour that Fuji might bring out a compact medium format this year.",
+              "score": 2,
+              "created_utc": 1736973244.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7j9fwt",
+          "author": "Inquisitor2195",
+          "body": "For me, the temptation is the more reasonable amounts of VRAM on the cards, looking at the resources usage of my 4070 Super, it feels like I can never use the full GPU chip due to VRAM shortages always holding me back.",
+          "score": 1,
+          "created_utc": 1737068288.0,
+          "replies": []
+        },
+        {
+          "id": "m7fdodd",
+          "author": "Arclite02",
+          "body": "You're saving in advance for 1 real frame and EIGHT frames of AI generated BS??",
+          "score": 0,
+          "created_utc": 1737021177.0,
+          "replies": [
+            {
+              "id": "m7fem4x",
+              "author": "ErsatzNihilist",
+              "body": "I\u2019m saving 7 virtual \u00a3 for every real \u00a3 I save. Saving them as jpg files. Pretty sure Nvidia has to accept it.",
+              "score": 1,
+              "created_utc": 1737021767.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7akvp1",
+      "author": "2001zhaozhao",
+      "body": "Well this is probably the first time I go 3 generations without upgrading.",
+      "score": 61,
+      "created_utc": 1736958523.0,
+      "replies": [
+        {
+          "id": "m7d1gbr",
+          "author": "happy-cig",
+          "body": "From a 10x0 or 20x0?\u00a0",
+          "score": 7,
+          "created_utc": 1736984257.0,
+          "replies": [
+            {
+              "id": "m7dzfob",
+              "author": "2001zhaozhao",
+              "body": "3080, won't be upgrading until 6000 series or if AMD launches a really good card before now and 6000 launch",
+              "score": 15,
+              "created_utc": 1736995879.0,
+              "replies": [
+                {
+                  "id": "m7e8js0",
+                  "author": "happy-cig",
+                  "body": "You should b good for quite some time. I went from 1070 to 4070s and honestly didnt need to do it. Played most my games over 100 fps with adjusted settings.\u00a0",
+                  "score": 5,
+                  "created_utc": 1736999233.0,
+                  "replies": []
+                },
+                {
+                  "id": "m85srd5",
+                  "author": "SomewhatOptimal1",
+                  "body": "Probably they left some umph for Super series refresh.\n\nCan only imagine 5070 Super 18GB, 5070Ti Super 24GB and 5080 Super 24GB and all being another 10-15% faster. \n\nSo you getting 5070 Super as fast as 4070TiS for 550\u20ac and 5070TiS only 10% slower than 4090 for 750\u20ac and 5080S only 25% away from 5090 for 999\u20ac.\n\nIf not then at least 6000 series should be sooner and bring just that. Not to mention, they probably want to release 6000 series before new console generation to double dip on obsolete VRAM like with PS4 (GTX700 series) and PS5 (RTx3000 series). Especially when the rumors says that PS6 will have 32-48GB of memory capacity. Definitely wait if you can.",
+                  "score": 1,
+                  "created_utc": 1737381777.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7ftfes",
+          "author": "SirNokarma",
+          "body": "Vega 56 here",
+          "score": 1,
+          "created_utc": 1737030047.0,
+          "replies": []
+        },
+        {
+          "id": "m7latks",
+          "author": "MyDearBrotherNumpsay",
+          "body": "I built a pc almost 10 years ago for work with a couple 1080ti. It still plays fine.  But I\u2019m not really a hardcore gamer.",
+          "score": 1,
+          "created_utc": 1737096440.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7aqa6u",
+      "author": "MooseBoys",
+      "body": "*Contemplates spending $3000 to get an extra 8GB of VRAM*\n\n![gif](giphy|VKtsOAHDx1Luo)",
+      "score": 91,
+      "created_utc": 1736960096.0,
+      "replies": [
+        {
+          "id": "m7f2rwg",
+          "author": "Yasai101",
+          "body": "\"dew it\"",
+          "score": 2,
+          "created_utc": 1737014231.0,
+          "replies": [
+            {
+              "id": "m7fg80e",
+              "author": "MooseBoys",
+              "body": "![gif](giphy|gitp8bQ5sAJxj6Ps3Y)",
+              "score": 3,
+              "created_utc": 1737022783.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8aer9p",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1737430258.0,
+          "replies": [
+            {
+              "id": "m8ag0ay",
+              "author": "MooseBoys",
+              "body": "256GB will generally decrease game performance because running four modules will lower the total clock, and no current game will be able to take advantage of it.",
+              "score": 1,
+              "created_utc": 1737430687.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7dz9am",
+      "author": "KennKennyKenKen",
+      "body": "15 to 33 percent uplift of 5070ti and 5090, which is good. \n\nBut 5080.vs 4080 is more like 10%. Truly the shittest value card. Sucks for us xx80 enjoyers",
+      "score": 11,
+      "created_utc": 1736995818.0,
+      "replies": [
+        {
+          "id": "m85tw36",
+          "author": "SomewhatOptimal1",
+          "body": "Benchmarks shows its 24% avg across 4 games with RT , but without MFG for 5080 over 4080. Don\u2019t know where you got the 10% from, the lowest uplift for single game was 15% and the highest (without MFG) was 33%.",
+          "score": 1,
+          "created_utc": 1737382192.0,
+          "replies": [
+            {
+              "id": "m9y6hme",
+              "author": "KennKennyKenKen",
+              "body": "Lol",
+              "score": 1,
+              "created_utc": 1738207312.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7b2ynk",
+      "author": "ChafterMies",
+      "body": "Moore\u2019s Law really is dead.",
+      "score": 19,
+      "created_utc": 1736963753.0,
+      "replies": [
+        {
+          "id": "m7cqtph",
+          "author": "Thandor369",
+          "body": "It was dead when transistors size become comparable to the size of atoms. With such sizes quantum effects start to cause issues making it impossible to shrink it more. And because of high frequency chips now operate on, speed of light actually prevents them from becoming bigger.",
+          "score": 24,
+          "created_utc": 1736980841.0,
+          "replies": [
+            {
+              "id": "m7e8sm8",
+              "author": "Tee__B",
+              "body": "Good old quantum tunneling.",
+              "score": 8,
+              "created_utc": 1736999326.0,
+              "replies": []
+            },
+            {
+              "id": "m7uivml",
+              "author": "randynumbergenerator",
+              "body": "Yeah. I stupidly thought when we got to this point, the industry would be ready to switch to full-on photonics or whatever the next big thing would be instead of architecture or whatever they're doing. But then I'm totally not in the right field to understand such things.",
+              "score": 1,
+              "created_utc": 1737227259.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7g3piw",
+          "author": "therealpigman",
+          "body": "It\u2019s been dead for years. My electrical engineering school professors loved presenting that fact on the first day of class every semester",
+          "score": 1,
+          "created_utc": 1737034273.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7bje62",
+      "author": "Hot_Cheese650",
+      "body": "I\u2019m skipping the RTX 50 series this year and I\u2019ll spend the money on a nice OLED monitor instead. \n\nI\u2019ve seen too many people with top of the line GPU but still game on an old LCD panel.\n\nEdit: I also game on Steam Deck OLED and Nintendo Switch OLED. After spending some time with an OLED screen it\u2019s so difficult to go back to my PC monitor\u2019s LCD panel, the colors just look so dull and flat if that makes any sense.",
+      "score": 20,
+      "created_utc": 1736968448.0,
+      "replies": [
+        {
+          "id": "m7d6g7t",
+          "author": "None",
+          "body": "Exactly what I\u2019m thinking. An upgrade from LCD to OLED monitor is so much better.",
+          "score": 10,
+          "created_utc": 1736985937.0,
+          "replies": [
+            {
+              "id": "m85ua4n",
+              "author": "SomewhatOptimal1",
+              "body": "I can recommend the MSI 271QPX or URX which are glossy QD OLED 360Hz or LG 42C4.\n\nSadly OLEDs monitors have their share of issues. Probably returning my sister Asus XG27AQDMG (glossy WOLED brighter than QD OLEDs 240Hz) due to Gradient Banding and Black crush issue.\n\nNo revierwers mention the issue in YT anymore and this monitor on paper looked perfect only to find out it has a major flaw. Only to find out on Reddit that Dell and Asus and Gigabyte OLED have their share of issues. MSI only one who updated their FW to fix the issue of proper ETOF tracking for now. Dell gave up, left customers with no fixes, Asus and Gigabyte still no one knows.\n\nI love my LG 42 C2 by the way, no issues what so ever.",
+              "score": 1,
+              "created_utc": 1737382333.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7dsmek",
+          "author": "dc1964",
+          "body": "Took the plunge a few months ago and upgraded to an Alienware 32\" 4k OLED. Made more difference to QOL than I thought possible, it's a thing of beauty. Still rockin' a 3070Ti which handles most games pretty well.  Horizon Zero Dawn Remastered was stunning.",
+          "score": 6,
+          "created_utc": 1736993476.0,
+          "replies": []
+        },
+        {
+          "id": "m7g2txy",
+          "author": "Drawmeomg",
+          "body": "Do it. Upgrading to an OLED was the single biggest improvement in visuals I\u2019ve experienced on a PC and I\u2019d recommend prioritizing that even if the 50 series benchmarks were a lot more impressive.\u00a0",
+          "score": 2,
+          "created_utc": 1737033946.0,
+          "replies": []
+        },
+        {
+          "id": "m7e9wpk",
+          "author": "Tee__B",
+          "body": "See that's the thing. I'm going from a 4090 to 5090 specifically FOR the OLED monitor. DSC is such a pain, so having DP 2.1 is worth the $900 or whatever it'll be after selling my 4090. Going from IPS DSC 160Hz (OCed) to OLED 240Hz is going to be really nice.",
+          "score": 2,
+          "created_utc": 1736999755.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7aux6c",
+      "author": "TheTruth808",
+      "body": "Looking to grab a 5080 for my new build. I can see why those with a 40 series or even 30 series may skip this gen though.",
+      "score": 34,
+      "created_utc": 1736961456.0,
+      "replies": [
+        {
+          "id": "m7djgtf",
+          "author": "ilyich_commies",
+          "body": "Gonna keep my used 3090 for a long long time. Runs even cyberpunk so well at mostly max settings",
+          "score": 11,
+          "created_utc": 1736990331.0,
+          "replies": [
+            {
+              "id": "m7eu7at",
+              "author": "xGHOSTRAGEx",
+              "body": "With a 9800X3D you get a huge jump even from a 5800X3D or similar, more jump than just upgrading gpu lol",
+              "score": 8,
+              "created_utc": 1737009196.0,
+              "replies": [
+                {
+                  "id": "m7fbz7y",
+                  "author": "SpeedflyChris",
+                  "body": "Yeah I picked up a 5700x3d for \u00a3157 back in November and that thing plus my 3080 runs basically anything beautifully.",
+                  "score": 2,
+                  "created_utc": 1737020079.0,
+                  "replies": [
+                    {
+                      "id": "m7gnm9t",
+                      "author": "xGHOSTRAGEx",
+                      "body": "My 3090 is still fairly new and I never have upgrade fever, but I now really want the 9800X3D for the 3090. It's a real boost almost 40-50% from what I have seen vs my 5950x. So I'm going to put away a few bucks a month till I reach the upgrade kit's mark and when I do I will see if they will release a new line of X3D within 6 months from the time I reached the mark, If so then I set a dead-on target to save the last few bucks till I can outright buy the new \"let's it's say the R980x3D @ 6+Ghz\". If it does not release within the next 6 months from my saved mark then I just buy the 9800X3D and get it over with, then turn the 5090x into a game server hosting machine.\n\nWhen every single one of my parts age past their usual lifespan mark I become weary of the sudden death of a part, but not stressed as they are actually easy to repair when you take it to professional repair people that do extremely fine PCB repair on computer components without charging an arm and a leg. Your GPU's DIE can blow up and they will still fix it if they can find a spare or donor DIE. You can throw it against the wall and they might still be able to fix it.\n\nThey are the unsung heroes of PC repair, they give off that vibe like when your dad's got your back when you severely struggle with something and he masters it like an OG.\n\nIt is then at this point that if the parts have started to randomly whisper Memento Mori that I will put away a set amount per month to save for an entirely new PC, when I eventually reach that mark I buy whatever is available at the time and falls into that number of the saved amount regardless of a new CPU or GPU launching that year, unless it's like than 3-4 months away lol, cause that's usually when they start upping the prices on the existing parts to create a fake \"price dropping effect\" that when the new stuff launches the prices drop on the old stuff. I giggle like a goat every time when someone says the prices suddenly dropped on the previous generations. Like my dude... just take a screenshot or use the wayback machine around 2-4 months prior to release and then around a week before release to see the evidence for yourself",
+                      "score": 1,
+                      "created_utc": 1737040975.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m7klqq7",
+                  "author": "TheTruth808",
+                  "body": "I grabbed a 9800x3d for my build",
+                  "score": 1,
+                  "created_utc": 1737084963.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7erx1o",
+          "author": "mister2forme",
+          "body": "You\u2019d be better off with a 4090 then.  5080 doesn\u2019t look to be much better than the 7900XTX which is half the price.  At least the 4090 is 20-25% faster for the same price.",
+          "score": 10,
+          "created_utc": 1737007958.0,
+          "replies": []
+        },
+        {
+          "id": "m7fwcsv",
+          "author": "DublaneCooper",
+          "body": "2070 checking in. I'll wait to take a look at the 600 series.",
+          "score": 3,
+          "created_utc": 1737031367.0,
+          "replies": []
+        },
+        {
+          "id": "m7e8pvp",
+          "author": "Genocode",
+          "body": "I'm on a 3070 (not Ti) and i'm considering it, I have everything i need for 1440p 165Hz except for the graphics card in modern games =| Performance was also absolutely awful in the MHWilds beta and other games.",
+          "score": 2,
+          "created_utc": 1736999297.0,
+          "replies": [
+            {
+              "id": "m7e9n7h",
+              "author": "PercsAndCaicos",
+              "body": "Yeah seems like us 3070 people are right on the edge of wanting the upgrade. I upgraded my CPU so I\u2019m kinda wanting to pull the trigger and be set for years.",
+              "score": 4,
+              "created_utc": 1736999652.0,
+              "replies": [
+                {
+                  "id": "m7fhwtq",
+                  "author": "Genocode",
+                  "body": "Yep, I mean its a \\~4 years old card and it wasn't even designed as a high-end card, just a mid-spec so =|\n\nI think i might do it depending on 5080 prices",
+                  "score": 2,
+                  "created_utc": 1737023844.0,
+                  "replies": [
+                    {
+                      "id": "m7ftyq4",
+                      "author": "huskerarob",
+                      "body": "I'm on a 3080 but on a 4k screen, just not enough frames for me. I'm gonna get the 5080.",
+                      "score": 1,
+                      "created_utc": 1737030293.0,
+                      "replies": [
+                        {
+                          "id": "m7fyq7a",
+                          "author": "Genocode",
+                          "body": "Well 4k is a bit overkill to me ;p but 1440 165hz would be nice. Atleast more than 80 lol.",
+                          "score": 1,
+                          "created_utc": 1737032356.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7g3eal",
+          "author": "therealpigman",
+          "body": "This might finally be the time I upgrade my 2080",
+          "score": 1,
+          "created_utc": 1737034157.0,
+          "replies": []
+        },
+        {
+          "id": "m7gtz6e",
+          "author": "TehMephs",
+          "body": "2080ti here.  Skipped 3000 and even 4000 cuz I had just put my computer together when these came out rapid fire.  So after a few years I just decided 5000 was where I\u2019d upgrade and for me it\u2019s a huge leap and don\u2019t break the bank",
+          "score": 1,
+          "created_utc": 1737042881.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7ah97m",
+      "author": "Peteostro",
+      "body": "Hmm have a 3080 (non super, 12gb) I wonder if 5070ti would be a worthwhile upgrade. Do VR and can use all the power I can get but don\u2019t want to apend 2k to upgrade.",
+      "score": 23,
+      "created_utc": 1736957441.0,
+      "replies": [
+        {
+          "id": "m7c3e2i",
+          "author": "Jrnail88",
+          "body": "My dilemma exactly. I am fairly confident that I can get $500CAD out of my 3080, then upgrade for the extra $5-600 which doesn\u2019t seem outrageous for a 3-4 year bridge. Ideally I want 20+ GBs of Vram for MSFS, but do not want to sell my soul for it at the 5090 pricing.",
+          "score": 11,
+          "created_utc": 1736974123.0,
+          "replies": [
+            {
+              "id": "m7c57uf",
+              "author": "Peteostro",
+              "body": "Yeah 5090 is too much. I just looked at the 5070ti stats and my 3080 12gb has more bandwidth than the 5070ti! 912GB/s vs 896 GB/s. Kind of crazy \nMaybe I\u2019ll look at the 5080 which has 960 GB/s bandwidth",
+              "score": 6,
+              "created_utc": 1736974623.0,
+              "replies": [
+                {
+                  "id": "m7cibb7",
+                  "author": "Jrnail88",
+                  "body": "That is disappointing.",
+                  "score": 1,
+                  "created_utc": 1736978306.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7b1vv9",
+      "author": "Cabadasss",
+      "body": "I don\u2019t care for 2k, I\u2019m still rockin the 1070",
+      "score": 24,
+      "created_utc": 1736963447.0,
+      "replies": []
+    },
+    {
+      "id": "m7aq17u",
+      "author": "datnetcoder",
+      "body": "I\u2019m torn, on the one hand the improvements aren\u2019t huge. On the other, I really, really want DisplayPort 2.1 to be able to drive my Samsung 57\u201d past 120 hz, which requires 2.1 which the 4000 series cards don\u2019t have.",
+      "score": 20,
+      "created_utc": 1736960023.0,
+      "replies": [
+        {
+          "id": "m7beuat",
+          "author": "Kosaro",
+          "body": "Getting the 5090 specifically for that monitor too. Got the 7900 XTX for it but the only game I play that surpasses 120 fps is counterstrike.",
+          "score": 7,
+          "created_utc": 1736967144.0,
+          "replies": []
+        },
+        {
+          "id": "m7baksx",
+          "author": "OgreTrax71",
+          "body": "DP 2.1 is the only reason I\u2019m upgrading.\u00a0",
+          "score": 2,
+          "created_utc": 1736965933.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7atc0q",
+      "author": "golflimalama2",
+      "body": "Hmm 3080Ti -> 5080 worth it? I\u2019m using VR so can\u2019t really get most benefit of 2D FakeyFrames (tm)",
+      "score": 19,
+      "created_utc": 1736960992.0,
+      "replies": [
+        {
+          "id": "m7bo9gq",
+          "author": "cman674",
+          "body": "Yeah 3080Ti is trash honestly, I'd take it off your hands to dispose of free of charge though.",
+          "score": 57,
+          "created_utc": 1736969842.0,
+          "replies": []
+        },
+        {
+          "id": "m7bdqu0",
+          "author": "None",
+          "body": "Probably yes, the jump in dlss and power saving is huge\n\nMight be worth if you live in a good country.",
+          "score": 5,
+          "created_utc": 1736966835.0,
+          "replies": [
+            {
+              "id": "m7eujay",
+              "author": "Blapanda",
+              "body": "Which won't benefit people in VR. Most of the games, commonly seen on VRChat, as a great example, use shaders which are not DLSS-able. It will cause lots of artificial fragmets, image smearing and so on due to the complex double image (stereoscopic) render technique. Everyone saw a glitchy graphics effect by now in VR by even simply turning on occlusion techniques like space screen (mirroring effect on reflective surfaces). One eye sees the mirrored image while the other does not. That is even worse with DLSS.\n\nFrame generation doesn't work in VR at all (not knowing a single game which makes it possible to function that function), not even on those which have been injected with UEVR.\n\nAs a VR user, it's the best to stay away from those minor improved 50X0 GPUs, as those are just lifting most of the stuff via AI.",
+              "score": 2,
+              "created_utc": 1737009380.0,
+              "replies": [
+                {
+                  "id": "m7fux5d",
+                  "author": "None",
+                  "body": "I wasn't aware it didn't work with VR! Then I agree, it wouldn't be a good thing for him.",
+                  "score": 1,
+                  "created_utc": 1737030729.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7ap3ut",
+      "author": "Kanguin",
+      "body": "Yawn, for the cost and amount of time that has passed since the 40 series, this is a pretty bad generational performance uplift.",
+      "score": 27,
+      "created_utc": 1736959755.0,
+      "replies": [
+        {
+          "id": "m7cp794",
+          "author": "MiloIsTheBest",
+          "body": "I mean unless you're some kind of whale if you've got a 40 series I'd expect you'd be waiting at least one more generation anyway right?\n\nI've always been a 'gAmInG eNtHuSiAt', like since the 90s, but I've pretty much always had a couple generations between upgrades.",
+          "score": 15,
+          "created_utc": 1736980347.0,
+          "replies": [
+            {
+              "id": "m7cvhjb",
+              "author": "Kanguin",
+              "body": "Don't get me wrong if it wasn't for Nvidia pushing all the AI bullshit and fudging benchmarks I'd be ok with 15-30% uplift, but that whole thing left a bad taste.\n\n\nI'll stick with my 3090 for another generation.",
+              "score": 0,
+              "created_utc": 1736982303.0,
+              "replies": [
+                {
+                  "id": "m7d41yy",
+                  "author": "salcedoge",
+                  "body": "I mean they still need to market their cards, it's like how people complain about iPhone releasing a new phone every year but every year there's literally people who needs to upgrade everytime",
+                  "score": 5,
+                  "created_utc": 1736985122.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7hedbs",
+                  "author": "nickypoo25",
+                  "body": "I'm personally fine with the frame gen benchmarks. I was very impressed by DLSS 3 and use it whenever it's available, so if DLSS 4 can truly deliver 3 AI frames for each \"real\" frame in games that support it, and it looks natural, who cares that they're fake? It makes the game look insane in my opinion",
+                  "score": 0,
+                  "created_utc": 1737048766.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7bh31b",
+          "author": "PainterRude1394",
+          "body": "Compared to the competition this is excellent. AMD will be releasing gpus with less performance than last gen.",
+          "score": -7,
+          "created_utc": 1736967782.0,
+          "replies": [
+            {
+              "id": "m7clycq",
+              "author": "Kanguin",
+              "body": "While true, AMD isn't competing in the same market so Nvidia has no real incentive to give us proper performance improvements. Instead they give us the minimum because people will buy it regardless.\n\nAlso your statement is factually false. AMD's 9000 series is looking very compelling as an alternative to NVidia's midrange and is not weaker than the previous generation.",
+              "score": 1,
+              "created_utc": 1736979366.0,
+              "replies": []
+            },
+            {
+              "id": "m7brdmq",
+              "author": "crazymofo988",
+              "body": "Damn dude you\u2019re out here hard shilling Nvidia, \u201cbut AMD\u201d",
+              "score": -2,
+              "created_utc": 1736970731.0,
+              "replies": [
+                {
+                  "id": "m7bx3ig",
+                  "author": "PainterRude1394",
+                  "body": "Referencing the competition isn't shilling. It's okay to recognize reality instead of squeeling Nvidia bads nonstop.",
+                  "score": -2,
+                  "created_utc": 1736972379.0,
+                  "replies": [
+                    {
+                      "id": "m7ccolp",
+                      "author": "Embarrassed_Adagio28",
+                      "body": "Claiming that AMD will somehow have less performance than their last gen is absolutely shilling for the competition. The 9070 XT is a replacement for the 7800 XT and offers 7900 xtx /4080 performance.",
+                      "score": 3,
+                      "created_utc": 1736976717.0,
+                      "replies": [
+                        {
+                          "id": "m7cs498",
+                          "author": "PainterRude1394",
+                          "body": "There is no evidence the 9070 will offer xtx performance. Leaked benchmarks show the 9070xt as slower than the xtx. \n\n>Regarding the scores we currently have, it appears that the Radeon RX 9070 XT fails to match the Radeon RX 7900 XTX in both the tests\n\nhttps://www.techpowerup.com/forums/threads/amd-radeon-rx-9070-xt-benchmarked-in-3d-mark-time-spy-extreme-and-speed-way.330859/",
+                          "score": -1,
+                          "created_utc": 1736981239.0,
+                          "replies": [
+                            {
+                              "id": "m7cu3d8",
+                              "author": "Embarrassed_Adagio28",
+                              "body": "Lmao you linked a week old article. New leaks show it within 5% of a 4080s... Which is around 8% faster than a 7900 xtx in hardware unboxed 15 game benchmarks.",
+                              "score": 3,
+                              "created_utc": 1736981857.0,
+                              "replies": [
+                                {
+                                  "id": "m7d2nk8",
+                                  "author": "PainterRude1394",
+                                  "body": "Within 5 percent of a 4080s you say?\n\nHere is a hub multi game benchmark showing the 4080s is getting 85fps avg vs the xtx 93. 89fps is 5% more. \n\nhttps://www.reddit.com/r/pcmasterrace/s/QzCQSkIqsK\n\nSo even your alleged benchmark shows it's slower then the xtx.",
+                                  "score": -1,
+                                  "created_utc": 1736984659.0,
+                                  "replies": [
+                                    {
+                                      "id": "m7d4vwf",
+                                      "author": "Embarrassed_Adagio28",
+                                      "body": "Wow a whole 5% while comparing it to the wrong card entirely. Like I said, the 9070 XT isn't a 7900 xtx replacement. It is a 7800xt replacement that is 49% faster. \n\nThe 5070 is a 4070 replacement and is around 20% faster.",
+                                      "score": 1,
+                                      "created_utc": 1736985400.0,
+                                      "replies": [
+                                        {
+                                          "id": "m7drz0i",
+                                          "author": "PainterRude1394",
+                                          "body": "Yes, so like I said, they will be releasing gpus slower than last gen.  They can't even beat their own xtx.",
+                                          "score": 1,
+                                          "created_utc": 1736993249.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m7by2fm",
+                      "author": "crazymofo988",
+                      "body": "It is when in a thread about Nvidia all you have said is \u201cbut AMD\u201d. I don\u2019t think I\u2019ve squealed Nvidia bad once in my entire life, especially since I\u2019m running a RTX 4080\u2026",
+                      "score": 2,
+                      "created_utc": 1736972657.0,
+                      "replies": [
+                        {
+                          "id": "m7bym6t",
+                          "author": "PainterRude1394",
+                          "body": "Lying about what I said isn't convincing. I said compared to the competition these are excellent.",
+                          "score": -1,
+                          "created_utc": 1736972809.0,
+                          "replies": [
+                            {
+                              "id": "m7cml1y",
+                              "author": "Kanguin",
+                              "body": "There is no competition in the ultra high end. It's Nvidia or no GPU, and this is the problem, no competition means no meaningful improvements and astronomical prices for what we do get.\n\nIntel won't be competitive in the high end any time soon and AMD isn't bothering with it at all.",
+                              "score": 1,
+                              "created_utc": 1736979556.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7c0hqh",
+              "author": "talex365",
+              "body": "Where you hear that? So far I haven\u2019t seen anything referencing actual performance numbers in AMD 9000 yet",
+              "score": -1,
+              "created_utc": 1736973330.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7ajbu2",
+      "author": "icchansan",
+      "body": "So DLSS 4 can just work on the 40 series?",
+      "score": 10,
+      "created_utc": 1736958063.0,
+      "replies": [
+        {
+          "id": "m7aonrr",
+          "author": "XxBig_D_FreshxX",
+          "body": "Nope, 50 exclusive. But you still get 3.5.\n\nIn theory, it \u201cshould\u201d work, but if it did, there\u2019d be no point in 50 outside 5090 irt raster improvement.",
+          "score": -34,
+          "created_utc": 1736959625.0,
+          "replies": [
+            {
+              "id": "m7aufiu",
+              "author": "Carefully_Crafted",
+              "body": "This isn't true. [NVIDIA DLSS 4 Introduces Multi Frame Generation & Enhancements For All DLSS Technologies | GeForce News | NVIDIA](https://www.nvidia.com/en-us/geforce/news/dlss4-multi-frame-generation-ai-innovations/)\n\n50 is the only cards getting Multi-Frame-Generation with DLSS 4. But DLSS 4 is coming to all cards, just with limited suites of what is packaged in that for older cards.\n\nThough MFG is the thing most people would see \"FPS\" number go up on.",
+              "score": 29,
+              "created_utc": 1736961312.0,
+              "replies": [
+                {
+                  "id": "m7d837h",
+                  "author": "W0O0O0t",
+                  "body": "Even then, I'd imagine its disabled at a driver level and the 40 series *can* run MFG, just probably not fast enough to land between frames. Would be curious to know if the 4090 would be able to if it were allowed, as it's still roughly equivalent to the 5070ti in TOPS",
+                  "score": 2,
+                  "created_utc": 1736986489.0,
+                  "replies": [
+                    {
+                      "id": "m7dpogr",
+                      "author": "Carefully_Crafted",
+                      "body": "Maybe. I mean it\u2019s possible it\u2019s not a true hardware limitation but honestly I wouldn\u2019t be too sure. They haven\u2019t locked DLSS behind hardware before when possible. And even here the only thing not coming is MFG. It\u2019s entirely possible the new chips were designed for MFG somehow and that didn\u2019t play well with old chips. \n\nThe real competition is between them and amd for gpus. It helps them to add this type of tech to older cards. Just like adding DLSS originally to older cards was a jump in performance.",
+                      "score": 2,
+                      "created_utc": 1736992462.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7aulq3",
+              "author": "MadOrange64",
+              "body": "Nope, only multi-frame gen is not included everything else is. 4000 series folks are eating good, no reason to upgrade if you have one.",
+              "score": 11,
+              "created_utc": 1736961363.0,
+              "replies": [
+                {
+                  "id": "m7bhdhr",
+                  "author": "XxBig_D_FreshxX",
+                  "body": "What else outside of MFG does DLSS 4 have, again?",
+                  "score": -2,
+                  "created_utc": 1736967866.0,
+                  "replies": [
+                    {
+                      "id": "m7biv21",
+                      "author": "MadOrange64",
+                      "body": "Enhancement to the existing DLSS tech, better image quality etc\u2026 go watch the DLSS 4 video from Nvidia.",
+                      "score": 3,
+                      "created_utc": 1736968297.0,
+                      "replies": [
+                        {
+                          "id": "m7bj0bt",
+                          "author": "XxBig_D_FreshxX",
+                          "body": "Thanks",
+                          "score": 1,
+                          "created_utc": 1736968338.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7bh089",
+              "author": "PainterRude1394",
+              "body": "Confidently incorrect",
+              "score": 4,
+              "created_utc": 1736967760.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7bmfh1",
+      "author": "Childofthesea13",
+      "body": "I am still pretty happy with my 3080 but the 10gb VRAM is starting to become a problem. Maybe I\u2019ll get a new gpu in the fall or spring \u201826 but the games I have in my backlog all seem to be just fine with what I\u2019ve got for now",
+      "score": 5,
+      "created_utc": 1736969317.0,
+      "replies": [
+        {
+          "id": "m7gqcn6",
+          "author": "geldersekifuzuli",
+          "body": "I also have 3080. No issue with 4K gaming with ultra settings up to know. Of course, frame generation is active.",
+          "score": 2,
+          "created_utc": 1737041807.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7ay7c4",
+      "author": "LargelyInnocuous",
+      "body": "They need to heavily invest in better power efficiency, a basic pod is pulling 100kW+. When you have to build a new building to accommodate power and cooling something needs to improve.",
+      "score": 10,
+      "created_utc": 1736962402.0,
+      "replies": [
+        {
+          "id": "m7bkcbp",
+          "author": "firedrakes",
+          "body": "They  do. But consumer  don't want to pay 10k or up for those  cards",
+          "score": 3,
+          "created_utc": 1736968720.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7bwq0x",
+      "author": "Same-Effect845",
+      "body": "I\u2019m running a 1060 so I think I\u2019ll make the jump to a 5070ti",
+      "score": 5,
+      "created_utc": 1736972269.0,
+      "replies": []
+    },
+    {
+      "id": "m7arw83",
+      "author": "BenjiSBRK",
+      "body": "33% more than on the 4090 that was already a behemoth would be huge.",
+      "score": 7,
+      "created_utc": 1736960564.0,
+      "replies": []
+    },
+    {
+      "id": "m7c57mg",
+      "author": "Maleficent-Squash746",
+      "body": "Kudos to that website for a great article heading for once. That is super rare these days",
+      "score": 2,
+      "created_utc": 1736974621.0,
+      "replies": []
+    },
+    {
+      "id": "m7jj14n",
+      "author": "Terror-Reaper",
+      "body": "Who tf is videocardz.com? I'll wait for a more reliable source.",
+      "score": 2,
+      "created_utc": 1737071448.0,
+      "replies": []
+    },
+    {
+      "id": "m7bt40l",
+      "author": "ablackcloudupahead",
+      "body": "Raw increase of 33% for the 5090 over the 4090 is actually pretty big jump for gen vs gen",
+      "score": 4,
+      "created_utc": 1736971225.0,
+      "replies": []
+    },
+    {
+      "id": "m7acl3f",
+      "author": "StaysAwakeAllWeek",
+      "body": "This is a deliberate design choice here. They have foregone increasing the raster and even RT performance in favor of doubling the AI performance. I guess it remains to be seen whether the AI frame warp will make the AI frame generation more generally usable and whether the new AI model for the AI upscaling is significantly better",
+      "score": 4,
+      "created_utc": 1736956034.0,
+      "replies": []
+    },
+    {
+      "id": "m7agr4p",
+      "author": "Noxiuz",
+      "body": "What I don't understand is why they didn't teach the AI how to bring back SLI and make it far more efficient than it used to be years ago, or how to make GPUs significantly more powerful instead of being stuck with just a 15 to 33 percent performance uplift with each release, lunless you use DLSS.\n\nI know it's easier said than done, but didn't they just show us impossible graphics by using DLSS?  \n  \nYet, I'm still sure they could have done far more than just DLSS.",
+      "score": 7,
+      "created_utc": 1736957289.0,
+      "replies": [
+        {
+          "id": "m7amk62",
+          "author": "KingKapwn",
+          "body": "SLI loses you performance because the cards need to sync up, and that often loses your performance as the cards need to ensure they\u2019re in-sync before they do anything, adding latency that a single card just doesn\u2019t have, and that\u2019s just the reality of why SLI went away. Closest you can get to bringing SLI back is adding an Intel ARC card just for AV1 Encoding.",
+          "score": 24,
+          "created_utc": 1736959013.0,
+          "replies": [
+            {
+              "id": "m7bkqqy",
+              "author": "ThisFreakinGuyHere",
+              "body": "You're just explaining why SLI has drawbacks. Nothing they said indicates they didn't know that. All they said was, \"AI should be being used to overcome the drawbacks.\"\n\nNot every reddit comment you come across is an excuse to try to look smart.",
+              "score": -9,
+              "created_utc": 1736968834.0,
+              "replies": [
+                {
+                  "id": "m7copy3",
+                  "author": "Thandor369",
+                  "body": "AI is not a wizard that can grand wishes. Machine learning is great for making assumptions based on existing information, or finding patterns and a lot of data. But it can\u2019t just create new ideas. \nSLI was quite questionable thing for gaming even back in the day, you was lucky if you got 50% more performance for adding another cart. And lot of games just did not support it, because it was hard to implement properly. What the guy above said and you failed to understand is that having two separate cards nowadays just can\u2019t be feasible, there is just no such port that will not be a bottleneck in such setup. It is much better and cheaper to just squeeze more cores into one GPU. Every GPU producer ditched that idea not because they can\u2019t do it, but because it proved to be a dead end.",
+                  "score": 5,
+                  "created_utc": 1736980202.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7amv1z",
+          "author": "kazuviking",
+          "body": "SLI would be the perfect use for a dedicated hardware RT/PT accelerator.",
+          "score": 3,
+          "created_utc": 1736959102.0,
+          "replies": [
+            {
+              "id": "m7b5q0s",
+              "author": "JP_HACK",
+              "body": "If they made SLI come back and work where each card focuses on rendering half the screen, it could be a thing.",
+              "score": 2,
+              "created_utc": 1736964545.0,
+              "replies": [
+                {
+                  "id": "m7cpg5s",
+                  "author": "Thandor369",
+                  "body": "As people above mentioned, syncing them to avoid tearing will hurt performance more than having second card can add.",
+                  "score": 2,
+                  "created_utc": 1736980423.0,
+                  "replies": [
+                    {
+                      "id": "m7fw985",
+                      "author": "JP_HACK",
+                      "body": "I think with a bit more delvelopment, they could of worked on the sync issues. They stopped offical suport in the 2080 times.",
+                      "score": 1,
+                      "created_utc": 1737031323.0,
+                      "replies": [
+                        {
+                          "id": "m7fxgpw",
+                          "author": "Thandor369",
+                          "body": "Yeah, and they did this for a reason, not because they were just lazy. Having more cores on one die will always be more performant and cheaper solution. The technology itself isn\u2019t dead, there are still cases where some communication between multiple GPUs required, this is why they still have NVLink. But for gaming it proved to be useless, you can\u2019t just get around sync, it has to be in place, and any way of syncing will be cause performance degradation, modern GPUs are just too fast for it to give any advantage.",
+                          "score": 1,
+                          "created_utc": 1737031837.0,
+                          "replies": [
+                            {
+                              "id": "m7fxx3m",
+                              "author": "JP_HACK",
+                              "body": "Agreed. I need multiple GPUs cause I run more then 4 monitors (I have 5 now and need a second GPU just for the extra Display Port)",
+                              "score": 1,
+                              "created_utc": 1737032026.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7b63nh",
+          "author": "Scalybeast",
+          "body": "Bring back SLI from where? It didn\u2019t die, it\u2019s just not used on consumer grade cards anymore. They still use it under the NVLink moniker for Quadro and Tesla hardware.",
+          "score": -2,
+          "created_utc": 1736964654.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7b3r4e",
+      "author": "Crazyinferno",
+      "body": "Physics says NVIDIA is fucked after basically like the 60 series by the way guys. Transistors are entering spooky quantum size scales and power is starting to exceed household circuits",
+      "score": 4,
+      "created_utc": 1736963974.0,
+      "replies": [
+        {
+          "id": "m7bc19d",
+          "author": "kawag",
+          "body": "This is why they are investing so much in AI for graphics rendering. Mark Cerny said the same thing. \n\nBasically, the only way left to improve traditional raster performance is to make bigger and bigger GPUs (\u201cbigger\u201d in the sense of cramming more compute units in there). That\u2019s made possible by manufacturing advances, but it\u2019s not going to last forever. Instead, we need to look at different approaches to achieve better graphics, and RT and AI seem like they could be paths for massive gains in fidelity. DLSS has already been hugely successful, so the concept seems sound.\n\nYet people (at this early stage) don\u2019t seem too impressed by the reliance on AI from what I can tell.",
+          "score": 8,
+          "created_utc": 1736966349.0,
+          "replies": [
+            {
+              "id": "m7bk1q4",
+              "author": "firedrakes",
+              "body": "Mark over rated cerny...\nWelcome to ai and upscaling... many many many years ago.",
+              "score": -6,
+              "created_utc": 1736968635.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7bmxux",
+      "author": "sodihpro",
+      "body": "Considering the length of my backlog I wont have to upgrade for another 6 years before I reach todays game-releases.\n\nI blame humble bundle and all the steam-sales.",
+      "score": 2,
+      "created_utc": 1736969462.0,
+      "replies": []
+    },
+    {
+      "id": "m7bwmz1",
+      "author": "KyberKrystalParty",
+      "body": "Can someone explain this to me? Didn\u2019t the keynote he had say that the 50 models are faster and only like $500 for lowest model. I forgot the numbers and terms, but isn\u2019t that pretty cheap? Does thin make more sense to get if you don\u2019t have any current graphics card?\n\nDisclaimer, I don\u2019t own a pc for gaming. Just a basic laptop for work. Maybe one day though..",
+      "score": 1,
+      "created_utc": 1736972245.0,
+      "replies": [
+        {
+          "id": "m7crxj1",
+          "author": "Thandor369",
+          "body": "They obviously faster than previous generation, but it is unclear how much faster really because they use benchmarks with generated frames in their graphs. And if you compare with \u201csuper\u201d models that came out later and replaced original 40 cards prices apr pretty much the same. So it is not a revolution, you just get ~25% more performance for the same money. People just expected more.",
+          "score": 1,
+          "created_utc": 1736981183.0,
+          "replies": []
+        },
+        {
+          "id": "m7cc26o",
+          "author": "pukem0n",
+          "body": "Their 500 dollar card is pretty good, but obviously people only see the 2000 dollar card that only the biggest nerds buy and start whining.",
+          "score": 0,
+          "created_utc": 1736976539.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7bzonn",
+      "author": "DarkerSavant",
+      "body": "I hate %. Show me the raw numbers.",
+      "score": 1,
+      "created_utc": 1736973106.0,
+      "replies": [
+        {
+          "id": "m7febja",
+          "author": "Arclite02",
+          "body": "Well, their own promo stuff shows the 5090 only managing like, 27 fps in 4K Cyberpunk without all the AI BS making things up?",
+          "score": 1,
+          "created_utc": 1737021581.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7cjbfu",
+      "author": "Portocala69",
+      "body": "So that was a lie",
+      "score": 1,
+      "created_utc": 1736978590.0,
+      "replies": []
+    },
+    {
+      "id": "m7cx7vg",
+      "author": "Gwynthehunter",
+      "body": "So the 5070 would still be a pretty significant upgrade from a 6900, right? Or is it worth waiting a bit longer to upgrade",
+      "score": 1,
+      "created_utc": 1736982861.0,
+      "replies": []
+    },
+    {
+      "id": "m7cy3o8",
+      "author": "javalib",
+      "body": "... my first reaction was that's pretty good? cards are still way too expensive, but what is this figure normally?",
+      "score": 1,
+      "created_utc": 1736983147.0,
+      "replies": []
+    },
+    {
+      "id": "m7danlx",
+      "author": "humanman42",
+      "body": "And here I am playing elden ring on a 1070...",
+      "score": 1,
+      "created_utc": 1736987353.0,
+      "replies": []
+    },
+    {
+      "id": "m7effse",
+      "author": "slayez06",
+      "body": "So I am of the camp the most impressive thing about the 5090 is the cooling solution and only the FE has that.",
+      "score": 1,
+      "created_utc": 1737002029.0,
+      "replies": []
+    },
+    {
+      "id": "m7emlm0",
+      "author": "BeanCommander",
+      "body": "Skip",
+      "score": 1,
+      "created_utc": 1737005266.0,
+      "replies": []
+    },
+    {
+      "id": "m7erpy7",
+      "author": "mister2forme",
+      "body": "If it\u2019s nvidia provided numbers, cut it in half to get what real world sees.  That\u2019s been my rule of thumb for as long as I remember.",
+      "score": 1,
+      "created_utc": 1737007855.0,
+      "replies": []
+    },
+    {
+      "id": "m7es3r1",
+      "author": "Labinemagique",
+      "body": "I play slay the spire balatro rocket league shadow of and 55 other gamez like those.\n\nMy 3060 12gig will suffise.",
+      "score": 1,
+      "created_utc": 1737008058.0,
+      "replies": []
+    },
+    {
+      "id": "m7f2u79",
+      "author": "Forward-Heart-69420",
+      "body": "Have a 3060ti, was gonna get a 5080 but maybe in a few months I will pick up a 4090",
+      "score": 1,
+      "created_utc": 1737014268.0,
+      "replies": []
+    },
+    {
+      "id": "m7f5jo2",
+      "author": "baitboy3191",
+      "body": "I am going to wait for the reputable hardware YouTubers to give me actual benchmarks and not the catered shit nvidia spews out.",
+      "score": 1,
+      "created_utc": 1737015914.0,
+      "replies": []
+    },
+    {
+      "id": "m7fraka",
+      "author": "stere0man",
+      "body": "Nvidia are updating dlss3 and framegen for 40 series cards as well so I imagine the improvement will be even less at that point but it does make the 40 series more appealing as people will be selling off old cards to upgrade to the 50 series, might be time for an upgrade.",
+      "score": 1,
+      "created_utc": 1737029031.0,
+      "replies": []
+    },
+    {
+      "id": "m7fvvq4",
+      "author": "DonDahlmann",
+      "body": "As someone with a 4090, I am more interested in how much better the 5080 compares to the 4090. From what I see, it will be maybe 10%. And the Multiframe Stuff is interesting, but the question is, how much it will raise the overall PC latency for FPS games. At the moment, I don't feel that I want to upgrade this year.",
+      "score": 1,
+      "created_utc": 1737031160.0,
+      "replies": []
+    },
+    {
+      "id": "m7fwx54",
+      "author": "Sad-Pound1087",
+      "body": "I don\u2019t know shit. I have a 2070 super. Curious which card would fit into a new ~$2k build and last me another 4 years",
+      "score": 1,
+      "created_utc": 1737031609.0,
+      "replies": []
+    },
+    {
+      "id": "m7g2z4f",
+      "author": "GagOnMacaque",
+      "body": "Apples to oranges.",
+      "score": 1,
+      "created_utc": 1737034000.0,
+      "replies": []
+    },
+    {
+      "id": "m7g4q65",
+      "author": "Dayv1d",
+      "body": "But what if FG 4x still doubles framerate without adding input lag? That is not bad at all, no?",
+      "score": 1,
+      "created_utc": 1737034648.0,
+      "replies": []
+    },
+    {
+      "id": "m7g9z69",
+      "author": "TetsuoTechnology",
+      "body": "Why would you compare these without DLSS and multi frame gen?",
+      "score": 1,
+      "created_utc": 1737036529.0,
+      "replies": []
+    },
+    {
+      "id": "m7h9z7g",
+      "author": "MaharajahofPookajee",
+      "body": "Grabbed a brand new 4070 TI S for sub 600 and was waiting for these benchmarks, looks like I\u2019ll be holding onto it",
+      "score": 1,
+      "created_utc": 1737047508.0,
+      "replies": []
+    },
+    {
+      "id": "m7iaxak",
+      "author": "BritishAnimator",
+      "body": "I'm underwhelmed.  Will instead upgrade AMD CPU+Mobo+Faster Ram+larger M.2 and skip 50 series GPU this round.",
+      "score": 1,
+      "created_utc": 1737058137.0,
+      "replies": []
+    },
+    {
+      "id": "m7iuy6a",
+      "author": "popmanbrad",
+      "body": "I\u2019ve got an GTX 1650 lol I need to save up for an rtx",
+      "score": 1,
+      "created_utc": 1737063942.0,
+      "replies": []
+    },
+    {
+      "id": "m7l8s88",
+      "author": "Laika93",
+      "body": "As someone who's 1070 is finally starting to kick the bucket, I've been waiting for so long to buy. \nHere's hoping either the 40 series cards go downenough to be reasonable, or the 50 series isn't too bad.",
+      "score": 1,
+      "created_utc": 1737095315.0,
+      "replies": []
+    },
+    {
+      "id": "m7ans0j",
+      "author": "dpx6101",
+      "body": "Was going to upgrade from my 20 series (Titan) to this but I think I will wait",
+      "score": 1,
+      "created_utc": 1736959370.0,
+      "replies": []
+    },
+    {
+      "id": "m7dycow",
+      "author": "prroteus",
+      "body": "4090 here, see ya another time nvidia. Maybe the 6 line",
+      "score": 1,
+      "created_utc": 1736995504.0,
+      "replies": []
+    },
+    {
+      "id": "m7ag0zb",
+      "author": "ReinrassigerRuede",
+      "body": "Yeah I didn't want to upgrade from my 1080ti because the 4000 series was not strong enough. I think I will wait and see what 6000 will bring.",
+      "score": -15,
+      "created_utc": 1736957068.0,
+      "replies": [
+        {
+          "id": "m7ahm43",
+          "author": "cythric",
+          "body": "I mean, the 4080 is roughly 2-3x more fps in 1440p and 4k. \"Strong enough\" is certainly relative but the 4080 absolutely smokes the 1080ti and is a clear upgrade - unlike the 15-30% increment between the 4000 and 5000 series.",
+          "score": 25,
+          "created_utc": 1736957550.0,
+          "replies": [
+            {
+              "id": "m7alnph",
+              "author": "ReinrassigerRuede",
+              "body": "Totally true. But I have a 2k display which my slightly overclocked 1080ti can drive at 144hz most of the time. So upgrading would mean new 4 k display and so on and neither 4000 nor 5000 series sound very tempting to me right now since they can't run 4k at 144hz natively without \"magic and imagination\" (dlss and so on)",
+              "score": -12,
+              "created_utc": 1736958750.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7ain8y",
+          "author": "JerryLZ",
+          "body": "1080ti was good but it\u2019s not THAT good lol",
+          "score": 16,
+          "created_utc": 1736957860.0,
+          "replies": [
+            {
+              "id": "m7amqwh",
+              "author": "ReinrassigerRuede",
+              "body": "It runs 2k with 144hz most of the time playing hell let loose and other games. I slightly overclocked it. Put a 50$ aircooler on top. Now it runs at 59\u00b0C and totally quiet.\n\nI think that IS pretty good for a GPU that old.\n\nIt is better than having to buy a 2000$ GPU to run another 1500$ 4k Display (because I will not upgrade from 2k to 2k)",
+              "score": -19,
+              "created_utc": 1736959068.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7apa0t",
+          "author": "Liamesque",
+          "body": "I will wait for the 7000 series because the 6000 series is right around the block tbh and I don't want to feel behind.",
+          "score": 5,
+          "created_utc": 1736959804.0,
+          "replies": [
+            {
+              "id": "m7apqvx",
+              "author": "ReinrassigerRuede",
+              "body": "Very wise",
+              "score": -2,
+              "created_utc": 1736959939.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7aikxh",
+          "author": "Tolendario",
+          "body": "![gif](giphy|98pZs1ZVaWb1C)",
+          "score": 6,
+          "created_utc": 1736957841.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7c05lw",
+      "author": "karrotwin",
+      "body": "Pay up, idiots.\u00a0",
+      "score": -2,
+      "created_utc": 1736973236.0,
+      "replies": []
+    },
+    {
+      "id": "m7cy8k3",
+      "author": "Max-Phallus",
+      "body": "15 to 33% sounds reasonable for a next generation, if the price is right. Oh.",
+      "score": 0,
+      "created_utc": 1736983192.0,
+      "replies": [
+        {
+          "id": "m7d94m9",
+          "author": "joomla00",
+          "body": "The prices are the same across the board except for the top end",
+          "score": 1,
+          "created_utc": 1736986841.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7aipw7",
+      "author": "Tolendario",
+      "body": "my 4090 is doing just fine, thanks",
+      "score": -10,
+      "created_utc": 1736957881.0,
+      "replies": [
+        {
+          "id": "m7anghs",
+          "author": "IvaNoxx",
+          "body": "New series is not meant for last gen buyers.",
+          "score": 17,
+          "created_utc": 1736959277.0,
+          "replies": [
+            {
+              "id": "m7bohv6",
+              "author": "Tolendario",
+              "body": "then why is is being marketed to 40 series owners, as the stats posted in the title are leaning into.",
+              "score": 4,
+              "created_utc": 1736969910.0,
+              "replies": [
+                {
+                  "id": "m7crabr",
+                  "author": "Thandor369",
+                  "body": "Because obviously comparing them to 10 series wouldn\u2019t be that interesting.",
+                  "score": 2,
+                  "created_utc": 1736980985.0,
+                  "replies": [
+                    {
+                      "id": "m7fh37b",
+                      "author": "Tolendario",
+                      "body": "Perhaps but to say that a company that has spent literally billions of dollars on technology wouldn\u2019t want absolutely everybody to buy is kind of ridiculous.",
+                      "score": 1,
+                      "created_utc": 1737023329.0,
+                      "replies": [
+                        {
+                          "id": "m7fwfhh",
+                          "author": "Thandor369",
+                          "body": "Obviously they will be happy if everyone bought two, and maybe a few for their family. But they understand the reality, very few 40 owners will jump to 50 just for 15-20% performance benefit and more frame gen.",
+                          "score": 1,
+                          "created_utc": 1737031399.0,
+                          "replies": [
+                            {
+                              "id": "m7h7lvv",
+                              "author": "Tolendario",
+                              "body": "\"they understand\" stopped taking you seriously right there. corporations exist to make money. thats all. they dont care about peoples wants and needs they will do whatever it takes to take your money.",
+                              "score": 1,
+                              "created_utc": 1737046821.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7bwf62",
+              "author": "Goossebumps",
+              "body": "And for a 3090 owner?",
+              "score": 2,
+              "created_utc": 1736972183.0,
+              "replies": [
+                {
+                  "id": "m7cg7vf",
+                  "author": "kaeldrakkel",
+                  "body": "I'm considering a 5080 personally. Basically I'll try to buy one for MSRP, but if I don't get one I'll wait for the next series.",
+                  "score": 2,
+                  "created_utc": 1736977718.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7aj5mc",
+          "author": "Oil_slick941611",
+          "body": "getting by just fine with my 4070 ti super",
+          "score": 5,
+          "created_utc": 1736958012.0,
+          "replies": []
+        },
+        {
+          "id": "m7b3d8h",
+          "author": "Elite_Slacker",
+          "body": "Duh",
+          "score": 1,
+          "created_utc": 1736963865.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7avrvz",
+      "author": "None",
+      "body": "That's it? What a rip off",
+      "score": -2,
+      "created_utc": 1736961704.0,
+      "replies": []
+    },
+    {
+      "id": "m7cduhk",
+      "author": "flogman12",
+      "body": "Kind of a joke",
+      "score": -2,
+      "created_utc": 1736977047.0,
+      "replies": []
+    }
+  ]
+}

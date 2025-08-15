@@ -1,0 +1,49 @@
+metric,value
+file,1ixx21d.csv
+title,Powerplay 2: Logitech made its magic mousepad cheaper instead of better
+rows,188
+num_posts,1
+num_comments,187
+unique_authors,136
+max_depth,12
+avg_comment_words,79.59
+median_comment_words,60.0
+max_comment_words,280
+positive_count,19
+negative_count,168
+neutral_count,0
+positive_pct,10.16
+negative_pct,89.84
+neutral_pct,0.0
+topic_1_keywords,"years, good, still, time, mean, make, new, replaced"
+topic_1_label,a year is good for the new
+topic_2_keywords,"mice, mouse, battery, gaming, like, logitech, buttons, steelseries"
+topic_2_label,mouse likes the buttons and the steelseries
+topic_3_keywords,"mouse, pad, mice, like, bought, still, years, power"
+topic_3_label,mouse likes to buy a pad
+topic_4_keywords,"mat, powerplay, usb, mouse, cable, pad, instead, one"
+topic_4_label,a pad with a powerplay and cable
+topic_5_keywords,"logitech, mouse, years, issue, ive, one, year, product"
+topic_5_label,logitech mouse is a product that has been marketed for years
+topic_6_keywords,"mouse, one, issues, years, ive, logitech, im, still"
+topic_6_label,"mouse, one, logitech, im"
+top_ngram_1,powerplay mat (49)
+top_ngram_2,gaming mice (24)
+top_ngram_3,mouse pad (22)
+top_ngram_4,wireless mouse (15)
+top_ngram_5,power play (14)
+top_ngram_6,mx master (14)
+top_ngram_7,cable instead (12)
+top_ngram_8,usb cable (12)
+top_ngram_9,thumb buttons (12)
+top_ngram_10,issues ive (12)
+ner_1,Logitech|ORG|41
+ner_2,##gitech|ORG|21
+ner_3,Lo|MISC|21
+ner_4,SteelSeries|ORG|12
+ner_5,USB|MISC|8
+ner_6,G602|MISC|8
+ner_7,G502|MISC|7
+ner_8,G903|MISC|7
+ner_9,Walmart|ORG|6
+ner_10,G|MISC|6

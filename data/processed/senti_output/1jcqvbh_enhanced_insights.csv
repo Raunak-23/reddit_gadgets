@@ -1,0 +1,49 @@
+metric,value
+file,1jcqvbh.csv
+title,Nvidia RTX 50 series supply woes extend to system builders as scalpers drive up prices
+rows,254
+num_posts,1
+num_comments,253
+unique_authors,156
+max_depth,11
+avg_comment_words,62.81
+median_comment_words,54.0
+max_comment_words,224
+positive_count,12
+negative_count,241
+neutral_count,0
+positive_pct,4.743
+negative_pct,95.257
+neutral_pct,0.0
+topic_1_keywords,"gpus, many, sold, units, consumer, dont, profit, twice"
+topic_1_label,gpus sells units and profits twice
+topic_2_keywords,"supply, gpus, ai, nvidia, market, prices, data, point"
+topic_2_label,gpus nvidia supply data
+topic_3_keywords,"price, real, gpus, hardware, power, per, cards, rt"
+topic_3_label,gpus for real cards
+topic_4_keywords,"scalpers, people, selling, used, im, one, got, theyre"
+topic_4_label,scalpers used in i
+topic_5_keywords,"msrp, get, card, series, ti, dont, right, pretty"
+topic_5_label,"msrp get, card, ti, ti"
+topic_6_keywords,"market, like, scalpers, thats, price, buy, supply, im"
+topic_6_label,i like scalpers and thats price
+top_ngram_1,feel like (20)
+top_ngram_2,inflate prices (17)
+top_ngram_3,50 series (16)
+top_ngram_4,5070 ti (15)
+top_ngram_5,data centres (15)
+top_ngram_6,supply problems (14)
+top_ngram_7,consumer gpus (14)
+top_ngram_8,like decade (13)
+top_ngram_9,decade rtx (13)
+top_ngram_10,rtx supply (13)
+ner_1,Nvidia|ORG|41
+ner_2,TSMC|ORG|15
+ner_3,Taiwan|LOC|12
+ner_4,Nvidias|ORG|12
+ner_5,AI|ORG|10
+ner_6,3090|MISC|7
+ner_7,AMD|ORG|7
+ner_8,RT|ORG|6
+ner_9,US|LOC|5
+ner_10,e|MISC|5

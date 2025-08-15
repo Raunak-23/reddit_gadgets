@@ -1,0 +1,424 @@
+{
+  "post": {
+    "title": "Overblown quantum dot conspiracy theories make important points about QLED TVs | Lawsuits and allegations are creating doubt around quantum dot TVs' use of QDs.",
+    "author": "chrisdh79",
+    "id": "1jo1vap",
+    "score": 326,
+    "created_utc": 1743423708.0,
+    "selftext": "",
+    "num_comments": 50,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1jo1vap/overblown_quantum_dot_conspiracy_theories_make/"
+  },
+  "comments": [
+    {
+      "id": "mkobclh",
+      "author": "gchaudh2",
+      "body": "TCL haa long known to be a cheap brand. Their phones and TVs both use the standard Chinese manufacturing concept of lower prices which is seen in their \u2018feature laded\u2019 but poor performing and poorly manufactured products. Had a TCL 55\u201d TV for a year. Not only did it have terrible backlight bleed, I had to disable its wifi as it kept sending location data without my consent to some random location. It was only $199 though and I was starting a new job with not much money.\n\nTldr; its TCL. Dont expect them to not lie",
+      "score": 112,
+      "created_utc": 1743424366.0,
+      "replies": [
+        {
+          "id": "mkojwzx",
+          "author": "ads1031",
+          "body": "How did you determine that it was still sending location data?",
+          "score": 20,
+          "created_utc": 1743427602.0,
+          "replies": [
+            {
+              "id": "mkpo0fs",
+              "author": "n00b001",
+              "body": "Wireshark",
+              "score": 17,
+              "created_utc": 1743440030.0,
+              "replies": []
+            },
+            {
+              "id": "mkpbqzn",
+              "author": "gchaudh2",
+              "body": "Of the many things I did was \u2018opt out\u2019 of their location sharing. Turned off \u2018smart tv experience\u2019 and then a tech buddy of mine who set up a pihole for me came in to help me fix wifi security issues. He said he looked at packet data to determine if location was being shared or not. He looked at the device IP address and then pinpointed that it was the TV.\u00a0\n\nI am sorry, I like computers but I am not a network specialist so do t have more info.\n\nEventually I just changed TVs, disabled wifi on them and also blocked them from the router. I also switched to an apple tv for all my smart tv needs.",
+              "score": 27,
+              "created_utc": 1743436348.0,
+              "replies": [
+                {
+                  "id": "mkruv2r",
+                  "author": "IchBinMalade",
+                  "body": "When it comes to privacy and tech, I am firmly in the \"guilty until proven innocent\" mindset. It's just too lucrative for them not to do it, so just assume your data is being collected no matter what, and work under that assumption if you care.",
+                  "score": 12,
+                  "created_utc": 1743464500.0,
+                  "replies": [
+                    {
+                      "id": "mkrxhsh",
+                      "author": "orion-7",
+                      "body": "It's a bit daft here though\n\n>Location of 60\" TV: here\n\n>Location of 60\" TV: still here\n\nRepeat basically forever",
+                      "score": 10,
+                      "created_utc": 1743465428.0,
+                      "replies": [
+                        {
+                          "id": "mkt4cj1",
+                          "author": "mk0aurelius",
+                          "body": "Not really, think about it as a status check - is it online and available? Later on you identify a juicy target and hit the backdoor activation of the tv\u2019s built in microphone etc - if the location data\u2019s route back to home is good and transmitting audio data only for a brief burst, the target may not ever know and your bug is good until you need it next time or it stops reporting back to home.",
+                          "score": 3,
+                          "created_utc": 1743482557.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mkoljav",
+              "author": "MadK9TheReal1",
+              "body": "I also need to know that as I am using a TCL!\nPlease share your method.",
+              "score": 3,
+              "created_utc": 1743428176.0,
+              "replies": [
+                {
+                  "id": "mkowyu9",
+                  "author": "Yellow_Triangle",
+                  "body": "I would expect you need to inspect network traffic and be knowledgeable enough to do an analysis on the collected data.\n\nMy knowledge is only superficial. In this case google might be the way to go.",
+                  "score": 8,
+                  "created_utc": 1743431873.0,
+                  "replies": []
+                },
+                {
+                  "id": "mkpbrpp",
+                  "author": "gchaudh2",
+                  "body": "Of the many things I did was \u2018opt out\u2019 of their location sharing. Turned off \u2018smart tv experience\u2019 and then a tech buddy of mine who set up a pihole for me came in to help me fix wifi security issues. He said he looked at packet data to determine if location was being shared or not. He looked at the device IP address and then pinpointed that it was the TV.\u00a0\n\nI am sorry, I like computers but I am not a network specialist so do t have more info.\n\nEventually I just changed TVs, disabled wifi on them and also blocked them from the router. I also switched to an apple tv for all my smart tv needs.",
+                  "score": 7,
+                  "created_utc": 1743436355.0,
+                  "replies": [
+                    {
+                      "id": "mks4wnw",
+                      "author": "TooStrangeForWeird",
+                      "body": "I like your honest answers.",
+                      "score": 2,
+                      "created_utc": 1743468147.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mku4bqz",
+                      "author": "porkpiehat_and_gravy",
+                      "body": "Yeah if the the data was encrypted, and it very likely;y would be as that\u2019s industry standard, then it would be impossible to determine what data it was sending.   Sounds like your buddy was all elite hacker bullshitting you.   I\u2019d also wonder if the tv even has a gps chip.   You dan get close with geolocating your ip,  but not  close that i\u2019d worry about it.  oh and i\u2019m not saying they don\u2019t send info like that BTW.",
+                      "score": 2,
+                      "created_utc": 1743505156.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mkp0k46",
+          "author": "DigitalStefan",
+          "body": "I got fed up of the ever changing T&C\u2019s and more and more data collection I \u201chad\u201d to opt into with LG.\n\nFinally ditched their slow, annoying apps and just got an Apple TV instead. Haven\u2019t ever set up the WiFi on my new TV.",
+          "score": 18,
+          "created_utc": 1743432964.0,
+          "replies": [
+            {
+              "id": "mkr0c8l",
+              "author": "speculatrix",
+              "body": "I got a NUC computer and I can run a browser with full adblocking on it, and don't need the spyware smarts in my TV which can be used as a dumb monitor. YouTube with sponsor block, adblock etc is actually enjoyable.",
+              "score": 7,
+              "created_utc": 1743454374.0,
+              "replies": [
+                {
+                  "id": "mks4ejl",
+                  "author": "TooStrangeForWeird",
+                  "body": "A real PC (NUC to desktop) is the absolute pinnacle of streaming right now. I can go anywhere and use any service.",
+                  "score": 5,
+                  "created_utc": 1743467961.0,
+                  "replies": [
+                    {
+                      "id": "mktgt1g",
+                      "author": "speculatrix",
+                      "body": "'zactly\n\nVPN unlocks services and YouTube channels too",
+                      "score": 1,
+                      "created_utc": 1743489768.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mkzwwhk",
+                  "author": "SolidOshawott",
+                  "body": "In my experience the tough part about using a PC is ensuring the HDMI outputs 4K HDR 120Hz properly, plus stuff like DolbyVision and DolbyAtmos if you care.\n\nI use my TV's smart apps for Plex and Netflix but they feel slower after each update. Soon enough I'll just go back to using my Xbox for streaming.",
+                  "score": 1,
+                  "created_utc": 1743586211.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mkpa50f",
+              "author": "gchaudh2",
+              "body": "Apple TV is the GOAT",
+              "score": 7,
+              "created_utc": 1743435869.0,
+              "replies": [
+                {
+                  "id": "mks0xp4",
+                  "author": "NecroCannon",
+                  "body": "The only thing that could pull me is a needed Shield refresh, other than that, I love it",
+                  "score": 3,
+                  "created_utc": 1743466680.0,
+                  "replies": []
+                },
+                {
+                  "id": "mksmy3h",
+                  "author": "baldycoot",
+                  "body": "The AppleTV interface is a total PITA. Steve Jobs is probably spinning in his grave.\n\nStill, it\u2019s 1000% better than every other Tv OS, not least because they\u2019re all abysmal, bloated and slow, and now they want to force ads on us too. Lol no.",
+                  "score": 2,
+                  "created_utc": 1743474894.0,
+                  "replies": [
+                    {
+                      "id": "mkywg7v",
+                      "author": "lkn240",
+                      "body": "I much prefer roku... and my pihole blocks all the ads",
+                      "score": 1,
+                      "created_utc": 1743564612.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mkt8w31",
+                      "author": "fnot",
+                      "body": "Yeah, I don\u2019t know understand why they can\u2019t implement a pointer controlled by the remote, like LG\u2019s TV\u2019s. Is it a patent thing? It\u2019s 2025 and we\u2019re still dicking around with a \u00a0U, D, L, R button interface.\u00a0",
+                      "score": 1,
+                      "created_utc": 1743484990.0,
+                      "replies": [
+                        {
+                          "id": "mkzx3am",
+                          "author": "SolidOshawott",
+                          "body": "Pretty sure it is a patent thing yeah, by LG or maybe even Nintendo.\n\nNintendo solved interacting with a TV in 2006, LG did a great job replicating it with different tech tbh. Should be the standard by now.",
+                          "score": 1,
+                          "created_utc": 1743586340.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mktwkvj",
+                          "author": "GreggAlan",
+                          "body": "I want to know why YouTube has broken keyboard support on smart TVs, at least on Samsungs. Every other app that accepts text input works with a bluetooth keyboard but YouTube is like it's using a foreign language keymap (no response on many of the keys) and displaying the keymap code numbers instead of the actual letters and numbers.",
+                          "score": 0,
+                          "created_utc": 1743500511.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mkr5y6p",
+              "author": "clockworkred360",
+              "body": "About to do this with my TV it is a Samsung but it has been spamming us everyday for weeks about new Terms and Conditions. What\u2019s sketchy is that they are about them collecting and selling your data, I opted out but it still kept spamming us about it.",
+              "score": 1,
+              "created_utc": 1743456117.0,
+              "replies": []
+            },
+            {
+              "id": "mktu2s6",
+              "author": "Rengax",
+              "body": "LG OLED TV's with AppleTV is the best experience i ever had.   \nJust watching the apple screensavers is so damn beautiful",
+              "score": 1,
+              "created_utc": 1743498820.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkr2tj1",
+          "author": "Nolejd50",
+          "body": "You bought a 55\" TV for 199$ and expected it to not have issues? Come on.",
+          "score": 7,
+          "created_utc": 1743455133.0,
+          "replies": [
+            {
+              "id": "mksdkgs",
+              "author": "funkyonion",
+              "body": "I have a $500 75\u201d Hisense with great picture and os.",
+              "score": -1,
+              "created_utc": 1743471368.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkrpfkn",
+          "author": "AzKondor",
+          "body": "Hey, I love my 65\" TCL, currently watching The Pursuit of Happiness on it hah I've got it for under 1000$, it's really good for this price range",
+          "score": 4,
+          "created_utc": 1743462627.0,
+          "replies": []
+        },
+        {
+          "id": "mkubd47",
+          "author": "ML7777777",
+          "body": "Its hilarious how often they are getting sued for stealing samsung/lg tech. At least stop being a cheap ass liar and maybe license the tech like every civilized society does.",
+          "score": 1,
+          "created_utc": 1743508562.0,
+          "replies": [
+            {
+              "id": "ml9muir",
+              "author": "other_goblin",
+              "body": "TCL literally bought Samsungs entire LCD division including *all* their patents, so what are you yapping about? \n\nSamsung use TCL panels in their TVs lmfao",
+              "score": 1,
+              "created_utc": 1743714068.0,
+              "replies": []
+            },
+            {
+              "id": "mkukdt5",
+              "author": "pcor",
+              "body": "Every \u201ccivilized society\u201d which emerged as a major industrial power has undermined intellectual property and engaged in industrial espionage. The founding father of the American Industrial Revolution, Samuel Slater, owed his success to stealing British textile production technology and designs, post-war Korea and Japan reverse engineered western technology to produce world-leading electronics and semiconductor industries etc etc.\n\nCriticise China for it all you want, but you\u2019re criticising them for failing to hold their industries to a higher standard than other societies.",
+              "score": 1,
+              "created_utc": 1743512259.0,
+              "replies": [
+                {
+                  "id": "mkvn225",
+                  "author": "Esc777",
+                  "body": "Now Ive seen everything, people simping for Chinese IP theft.\u00a0",
+                  "score": 2,
+                  "created_utc": 1743524924.0,
+                  "replies": [
+                    {
+                      "id": "mkvnl5v",
+                      "author": "pcor",
+                      "body": "Awareness of the historical precedent and context of intellectual property violations between rival economies is not \u201csimping for Chinese IP theft\u201d, grow up.\u00a0",
+                      "score": 1,
+                      "created_utc": 1743525088.0,
+                      "replies": [
+                        {
+                          "id": "mkvo3za",
+                          "author": "Esc777",
+                          "body": "One guy copied a textile design hundreds of years ago in America so we should go easy on China now? Probably the most wildly misconstrued thing I\u2019ll read today.\u00a0",
+                          "score": 1,
+                          "created_utc": 1743525252.0,
+                          "replies": [
+                            {
+                              "id": "mkvouka",
+                              "author": "pcor",
+                              "body": "Not \u201cone guy\u201d, no, that was the best single example. It was done on a massive scale in the early years of US industrial development, Alexander Hamilton literally [sponsored](https://apnews.com/general-news-b40414d22f2248428ce11ff36b88dc53) IP pirates.\n\nI don\u2019t know who \u201cwe\u201d are or what \u201cgo easy on China\u201d means in your statement, I certainly don\u2019t recognise saying it.",
+                              "score": 1,
+                              "created_utc": 1743525482.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mkp0ahp",
+          "author": "ibite-books",
+          "body": "your ip address is enough to get your location, and very requests sends your ip address unless you\u2019re using a vpn",
+          "score": -2,
+          "created_utc": 1743432885.0,
+          "replies": [
+            {
+              "id": "mkp7jhz",
+              "author": "ml20s",
+              "body": "Yes, which is why he disabled its network connection entirely",
+              "score": 5,
+              "created_utc": 1743435077.0,
+              "replies": [
+                {
+                  "id": "mkp8p56",
+                  "author": "ibite-books",
+                  "body": "sure",
+                  "score": 0,
+                  "created_utc": 1743435430.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mkozb4a",
+          "author": "Paddy3118",
+          "body": "Like their cars - their TV's are getting better, and there is a scramble from incumbents to head them off from becoming best.",
+          "score": -9,
+          "created_utc": 1743432589.0,
+          "replies": [
+            {
+              "id": "mkr75kh",
+              "author": "Immediate-Worry-1090",
+              "body": "Hey look everyone! A paid monkey bot",
+              "score": 1,
+              "created_utc": 1743456501.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkttjlj",
+      "author": "WolfyTn615",
+      "body": "My 65\u201d Samsung QLED is the shit.. been going strong for 2 years",
+      "score": 6,
+      "created_utc": 1743498454.0,
+      "replies": [
+        {
+          "id": "mku37o3",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 22,
+          "created_utc": 1743504551.0,
+          "replies": [
+            {
+              "id": "mkucrow",
+              "author": "WolfyTn615",
+              "body": "lol like what ya did there",
+              "score": 1,
+              "created_utc": 1743509185.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkuuykc",
+          "author": "Sick_Wave_",
+          "body": "My 75\" Vizio just started to die recently. Had it for 13 years and through 3 moves.\u00a0 I miss it and its flipover qwerty remote.\u00a0",
+          "score": 2,
+          "created_utc": 1743516095.0,
+          "replies": []
+        },
+        {
+          "id": "mktxbqk",
+          "author": "hyperforms9988",
+          "body": "I have the Q90T in the 55\" flavour.  Agree.  Maybe the only complaint I can level against it is the classic issue of anything that isn't OLED having an issue with the color black and its backlighting.  Honestly, I don't even notice it most of the time if I discount instances of having to look at a logo or something on a black screen... which, who gives a shit what something like that looks like?",
+          "score": 4,
+          "created_utc": 1743501001.0,
+          "replies": [
+            {
+              "id": "mkuczt0",
+              "author": "WolfyTn615",
+              "body": "I got it to pair with my PS5 when I bought it because it had the 2.1 hdmi for 120hz.. still have yet to play a 120hz game lol",
+              "score": 2,
+              "created_utc": 1743509283.0,
+              "replies": []
+            },
+            {
+              "id": "ml0qhph",
+              "author": "None",
+              "body": "I love my QLED Samsung- the color is mind blowing, but it\u2019s absolutely awful with black scenes. Lots of banding and artifacts.",
+              "score": 2,
+              "created_utc": 1743600576.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1k95429.csv
+title,USB 2.0 is 25 years old today — the interface standard that changed the world | USB 2.0 was the game-changer we needed to revolutionize data transfer between devices.
+rows,319
+num_posts,1
+num_comments,318
+unique_authors,192
+max_depth,10
+avg_comment_words,55.52
+median_comment_words,38.0
+max_comment_words,282
+positive_count,40
+negative_count,278
+neutral_count,0
+positive_pct,12.579
+negative_pct,87.421
+neutral_pct,0.0
+topic_1_keywords,"usb, firewire, remember, 20, time, faster, still, old"
+topic_1_label,Firewire remembers 20 seconds of time
+topic_2_keywords,"usb, would, well, like, one, could, cables, hour"
+topic_2_label,cable cable a good idea
+topic_3_keywords,"usb, still, apple, cable, scsi, device, drive, care"
+topic_3_label,"Apple still, cable, scsi, device"
+topic_4_keywords,"usb, time, much, would, using, back, one, atari"
+topic_4_label,asian sb is a time consuming and time consuming method
+topic_5_keywords,"years, plug, way, still, 25, cant, time, right"
+topic_5_label,time is not the right time
+topic_6_keywords,"usb, would, things, orientation, cable, port, thats, upside"
+topic_6_label,cable and cable orientation
+top_ngram_1,usb 20 (51)
+top_ngram_2,still cant (29)
+top_ngram_3,25 years (26)
+top_ngram_4,years old (22)
+top_ngram_5,right way (22)
+top_ngram_6,25 years old (22)
+top_ngram_7,old still (20)
+top_ngram_8,cant figure (20)
+top_ngram_9,figure right (20)
+top_ngram_10,way plug (20)
+ner_1,USB|MISC|85
+ner_2,USB 20|MISC|32
+ner_3,USB|ORG|28
+ner_4,FireWire|ORG|24
+ner_5,Apple|ORG|20
+ner_6,Fire|MISC|18
+ner_7,USB 2|MISC|18
+ner_8,SAS|ORG|18
+ner_9,SCSI|MISC|12
+ner_10,USBC|ORG|11

@@ -1,0 +1,49 @@
+metric,value
+file,1icak00.csv
+title,Garmin users say their watches are bricked with a ‘blue triangle of death | ’It’s not just you. Several users are reporting their watches are crashing while displaying the ‘blue triangle of death.’
+rows,131
+num_posts,1
+num_comments,130
+unique_authors,105
+max_depth,8
+avg_comment_words,49.02
+median_comment_words,35.5
+max_comment_words,253
+positive_count,24
+negative_count,106
+neutral_count,0
+positive_pct,18.462
+negative_pct,81.538
+neutral_pct,0.0
+topic_1_keywords,"death, ring, red, xbox, 360, one, blue, screen"
+topic_1_label,xbox 360 ring blue screen
+topic_2_keywords,"drive, death, bsod, hardware, windows, would, software, kernel"
+topic_2_label,bsod drives death
+topic_3_keywords,"garmin, screen, windows, watch, could, blue, would, back"
+topic_3_label,blue watch watch back
+topic_4_keywords,"device, bricked, like, brick, completely, used, update, mean"
+topic_4_label,Android device bricked like brick
+topic_5_keywords,"days, gps, battery, triangle, mip, gets, happens, back"
+topic_5_label,gps and battery get back
+topic_6_keywords,"watch, support, garmin, discount, get, light, yellow, ps3"
+topic_6_label,"watch, support, garmin, ps3"
+top_ngram_1,blue screen (23)
+top_ngram_2,red ring (22)
+top_ngram_3,ring death (20)
+top_ngram_4,red ring death (19)
+top_ngram_5,screen death (18)
+top_ngram_6,blue screen death (17)
+top_ngram_7,xbox 360 (15)
+top_ngram_8,kernel panic (13)
+top_ngram_9,thing bricked (11)
+top_ngram_10,well red (10)
+ner_1,Garmin|ORG|14
+ner_2,Windows|MISC|12
+ner_3,Epix|MISC|5
+ner_4,Xbox 360|MISC|5
+ner_5,BS|ORG|4
+ner_6,Vivosport|ORG|4
+ner_7,Chinese|MISC|4
+ner_8,GPS|ORG|4
+ner_9,Red Ring of Death|MISC|4
+ner_10,Windows 95|MISC|4

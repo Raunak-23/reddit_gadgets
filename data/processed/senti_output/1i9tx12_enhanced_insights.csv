@@ -1,0 +1,49 @@
+metric,value
+file,1i9tx12.csv
+title,Apple Pressed by India to Pre-Install Government Apps on iPhones
+rows,53
+num_posts,1
+num_comments,52
+unique_authors,35
+max_depth,6
+avg_comment_words,59.35
+median_comment_words,36.0
+max_comment_words,248
+positive_count,8
+negative_count,44
+neutral_count,0
+positive_pct,15.385
+negative_pct,84.615
+neutral_pct,0.0
+topic_1_keywords,"use, already, insecure, sensitive, try, know, little, quickly"
+topic_1_label,if you are sensitive to sensitive things you should try to know quickly
+topic_2_keywords,"app, want, dont, government, store, shit, must, need"
+topic_2_label,shit app doesn t need to be used
+topic_3_keywords,"secure, nothing, democracy, instead, security, could, numbers, private"
+topic_3_label,democracy is not secure
+topic_4_keywords,"democracy, largest, world, ass, could, cook, happy, government"
+topic_4_label,democracy is the largest world ass and could cook
+topic_5_keywords,"pc, devices, secure, home, government, information, already, dont"
+topic_5_label,"pc, devices, secure home"
+topic_6_keywords,"people, democracy, fuck, like, government, dont, surveillance, elected"
+topic_6_label,democracy fucks in government
+top_ngram_1,nothing secure (9)
+top_ngram_2,largest democracy (8)
+top_ngram_3,app store (8)
+top_ngram_4,must kept (8)
+top_ngram_5,home pc (8)
+top_ngram_6,secure anymore (7)
+top_ngram_7,cart horse (7)
+top_ngram_8,democracy world (6)
+top_ngram_9,largest democracy world (6)
+top_ngram_10,dont like (6)
+ner_1,Apple|ORG|6
+ner_2,iPhone|MISC|6
+ner_3,China|LOC|5
+ner_4,Indians|MISC|4
+ner_5,US|LOC|4
+ner_6,India|LOC|4
+ner_7,Indian|MISC|3
+ner_8,Modhi|PER|2
+ner_9,iBharat|ORG|2
+ner_10,Tim Cook|PER|2

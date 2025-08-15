@@ -1,0 +1,49 @@
+metric,value
+file,1jounzt.csv
+title,"Some Ryzen 7 9800X3D CPUs are dying unexpectedly, mostly on Asrock motherboards | There are over 100 reported incidents"
+rows,101
+num_posts,1
+num_comments,100
+unique_authors,77
+max_depth,5
+avg_comment_words,57.22
+median_comment_words,30.0
+max_comment_words,392
+positive_count,20
+negative_count,80
+neutral_count,0
+positive_pct,20.0
+negative_pct,80.0
+neutral_pct,0.0
+topic_1_keywords,"article, boards, 108, reddit, 98, cases, issues, ive"
+topic_1_label,ids of articles on reddit
+topic_2_keywords,"chips, cases, ryzen, reddit, dying, 9800x3d, time, died"
+topic_2_label,"chips, ryzen, reddit, died in 9800x3d"
+topic_3_keywords,"asrock, back, issues, gigabyte, 9800x3d, far, last, years"
+topic_3_label,"asrock back issues, a year ago"
+topic_4_keywords,"parts, motherboard, asrock, certain, much, people, built, go"
+topic_4_label,parts of a motherboard and other parts of a lot of people
+topic_5_keywords,"asus, board, im, best, rog, also, happy, ive"
+topic_5_label,i am happy with my board
+topic_6_keywords,"asrock, msi, people, wifi, cpu, b850, boards, mobo"
+topic_6_label,"Asrock, msi, people, cpu, b850, boards"
+top_ngram_1,ryzen 9800x3d (13)
+top_ngram_2,98 cases (11)
+top_ngram_3,reddit posts (10)
+top_ngram_4,108 reddit (9)
+top_ngram_5,108 reddit posts (9)
+top_ngram_6,9800x3d asrock (9)
+top_ngram_7,compiled list (8)
+top_ngram_8,list 108 (8)
+top_ngram_9,cases 82 (8)
+top_ngram_10,asrock boards (8)
+ner_1,As|MISC|18
+ner_2,##rock|ORG|10
+ner_3,##dit|ORG|10
+ner_4,Red|MISC|10
+ner_5,Asrock|ORG|9
+ner_6,AS|MISC|8
+ner_7,R|MISC|7
+ner_8,Ryzen 7|MISC|7
+ner_9,AMD|ORG|6
+ner_10,##5|MISC|6

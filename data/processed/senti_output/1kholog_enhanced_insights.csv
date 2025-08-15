@@ -1,0 +1,49 @@
+metric,value
+file,1kholog.csv
+title,"Toshiba says Europe doesn't need 24TB HDDs, witholds beefy models from region | But there is demand for 24TB drives in America and the U.K."
+rows,231
+num_posts,1
+num_comments,230
+unique_authors,133
+max_depth,13
+avg_comment_words,68.15
+median_comment_words,40.0
+max_comment_words,481
+positive_count,15
+negative_count,183
+neutral_count,32
+positive_pct,6.522
+negative_pct,79.565
+neutral_pct,13.913
+topic_1_keywords,"data, people, also, europe, us, point, doesnt, backup"
+topic_1_label,data on people and not backups in europe
+topic_2_keywords,"america, one, europe, continent, people, like, say, drives"
+topic_2_label,america drives people to drive
+topic_3_keywords,"market, drives, prices, europe, dont, enough, people, hard"
+topic_3_label,hard to find people in the market
+topic_4_keywords,"drive, uk, one, eu, system, actually, economy, two"
+topic_4_label,eu drives the economy
+topic_5_keywords,"years, drive, 10, like, im, well, might, still"
+topic_5_label,i think i'm a bit old
+topic_6_keywords,"drives, 24tb, need, tb, drive, one, cost, nas"
+topic_6_label,tb drives cost nas
+top_ngram_1,hard drives (26)
+top_ngram_2,people say (20)
+top_ngram_3,24tb drive (17)
+top_ngram_4,24 tb (15)
+top_ngram_5,tb drives (15)
+top_ngram_6,consumer base (15)
+top_ngram_7,united states (14)
+top_ngram_8,surveillance footage (13)
+top_ngram_9,data center (13)
+top_ngram_10,europe mean (12)
+ner_1,Europe|LOC|76
+ner_2,US|LOC|42
+ner_3,America|LOC|42
+ner_4,EU|ORG|37
+ner_5,UK|LOC|34
+ner_6,Toshiba|ORG|33
+ner_7,USA|LOC|26
+ner_8,European|MISC|14
+ner_9,China|LOC|12
+ner_10,Europeans|MISC|10

@@ -1,0 +1,49 @@
+metric,value
+file,1kr3hyn.csv
+title,"Samsung's 2025 OLED TV lineup will support Nvidia G-Sync | Coming to the new flagship models first, with other 2025 OLEDs following later this year"
+rows,43
+num_posts,1
+num_comments,42
+unique_authors,32
+max_depth,6
+avg_comment_words,44.26
+median_comment_words,37.0
+max_comment_words,125
+positive_count,2
+negative_count,40
+neutral_count,0
+positive_pct,4.762
+negative_pct,95.238
+neutral_pct,0.0
+topic_1_keywords,"lg, dts, c4, tvs, via, back, licensing, issues"
+topic_1_label,"lg, dts, c4, tvs, back"
+topic_2_keywords,"gsync, licensing, interesting, hardware, pay, certification, money, even"
+topic_2_label,gsync licensing fees
+topic_3_keywords,"support, standard, gsync, hdr, probably, dolby, vision, think"
+topic_3_label,gsync hdr thinks dolby is a good fit for vision
+topic_4_keywords,"samsung, tv, even, like, hell, 2016, anymore, tvs"
+topic_4_label,samsung tvs like hell
+topic_5_keywords,"samsung, dolby, vision, going, vrr, lg, tv, switched"
+topic_5_label,Samsung Galaxy S7
+topic_6_keywords,"issue, format, vrr, banding, mentioned, couple, friends, proprietary"
+topic_6_label,vrr banding in issue format
+top_ngram_1,dolby vision (12)
+top_ngram_2,samsung tvs (6)
+top_ngram_3,dont even (5)
+top_ngram_4,vrr tech (5)
+top_ngram_5,also dropped (5)
+top_ngram_6,dropped dts (5)
+top_ngram_7,dts passthrough (5)
+top_ngram_8,passthrough via (5)
+top_ngram_9,via earc (5)
+top_ngram_10,earc licensing (5)
+ner_1,Samsung|ORG|17
+ner_2,LG|ORG|16
+ner_3,Dolby Vision|MISC|7
+ner_4,HD|MISC|6
+ner_5,Sony|ORG|5
+ner_6,D|MISC|5
+ner_7,eARC|ORG|5
+ner_8,Dolby|MISC|4
+ner_9,TV|MISC|4
+ner_10,GS|MISC|3

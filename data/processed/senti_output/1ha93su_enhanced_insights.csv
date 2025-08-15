@@ -1,0 +1,49 @@
+metric,value
+file,1ha93su.csv
+title,"It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500"
+rows,151
+num_posts,1
+num_comments,150
+unique_authors,103
+max_depth,8
+avg_comment_words,70.35
+median_comment_words,63.0
+max_comment_words,233
+positive_count,16
+negative_count,134
+neutral_count,0
+positive_pct,10.667
+negative_pct,89.333
+neutral_pct,0.0
+topic_1_keywords,"pi, like, still, dont, cost, schools, useful, better"
+topic_1_label,pi isn't useful
+topic_2_keywords,"pi, chromebook, better, ipad, see, many, need, os"
+topic_2_label,ipad ipad : ipad
+topic_3_keywords,"like, use, want, get, using, much, monitor, really"
+topic_3_label,"like, use, get, use, really"
+topic_4_keywords,"use, gpu, computer, get, replace, commodore, run, pi"
+topic_4_label,gpu reinstalls gpu
+topic_5_keywords,"old, usb, 20, form, im, linux, sure, powered"
+topic_5_label,linux is a linux based operating system
+topic_6_keywords,"pi, pc, also, really, linux, better, 90, one"
+topic_6_label,linux is better than pc and linux
+top_ngram_1,chromebook ipad (38)
+top_ngram_2,raspberry pi (36)
+top_ngram_3,much better (19)
+top_ngram_4,dont see (19)
+top_ngram_5,see better (19)
+top_ngram_6,better education (19)
+top_ngram_7,education chromebook (19)
+top_ngram_8,ipad peripherals (19)
+top_ngram_9,peripherals including (19)
+top_ngram_10,including nice (19)
+ner_1,Chromebook|MISC|46
+ner_2,iPad|MISC|39
+ner_3,Pi|MISC|29
+ner_4,Linux|MISC|15
+ner_5,Google|ORG|11
+ner_6,Raspberry Pi|MISC|11
+ner_7,OS|MISC|10
+ner_8,Raspberry Pi 5|MISC|9
+ner_9,GPIO|MISC|8
+ner_10,Windows|MISC|7

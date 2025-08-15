@@ -1,0 +1,49 @@
+metric,value
+file,1h795hq.csv
+title,PlayStation VR2 will get hand-tracking support soon
+rows,89
+num_posts,1
+num_comments,88
+unique_authors,50
+max_depth,10
+avg_comment_words,49.49
+median_comment_words,36.0
+max_comment_words,281
+positive_count,22
+negative_count,66
+neutral_count,0
+positive_pct,25.0
+negative_pct,75.0
+neutral_pct,0.0
+topic_1_keywords,"vr, game, use, console, dont, soon, cost, gimmicky"
+topic_1_label,"vr, game, cost, gimmicky"
+topic_2_keywords,"games, metro, give, run, game, solid, gt7, imo"
+topic_2_label,gt7 gt7 gt7 gt7
+topic_3_keywords,"adapter, games, pc, vr, one, ive, lot, get"
+topic_3_label,"Adapter for PC, vr, one"
+topic_4_keywords,"adapter, get, port, need, even, psvr2, graphics, card"
+topic_4_label,adapter for psvr2 and graphics card
+topic_5_keywords,"playstation, years, old, doesnt, like, sold, even, support"
+topic_5_label,Playstation doesn't like the old ones
+topic_6_keywords,"price, vr, since, available, thats, sale, months, back"
+topic_6_label,vr has been available since the last month
+top_ngram_1,years old (11)
+top_ngram_2,get games (9)
+top_ngram_3,pc adapter (9)
+top_ngram_4,supported pc (9)
+top_ngram_5,buy adapter (9)
+top_ngram_6,graphics card (8)
+top_ngram_7,vr games (6)
+top_ngram_8,bluetooth adapter (6)
+top_ngram_9,20 series (6)
+top_ngram_10,series cards (6)
+ner_1,PSVR2|MISC|16
+ner_2,Sony|ORG|8
+ner_3,PS5|MISC|7
+ner_4,PC|MISC|7
+ner_5,Steam|ORG|6
+ner_6,GT7|MISC|5
+ner_7,VirtualLink|ORG|5
+ner_8,DisplayPort|ORG|4
+ner_9,Canada|LOC|4
+ner_10,VR|MISC|4

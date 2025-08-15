@@ -1,0 +1,45 @@
+metric,value
+file,1k5p16s.csv
+title,Google Assistant branding is being phased out on Wear OS
+rows,12
+num_posts,1
+num_comments,11
+unique_authors,10
+max_depth,3
+avg_comment_words,44.27
+median_comment_words,38.0
+max_comment_words,94
+positive_count,1
+negative_count,10
+neutral_count,0
+positive_pct,9.091
+negative_pct,90.909
+neutral_pct,0.0
+topic_1_keywords,"google, switched, killing, keep, figure, cant, making, invest"
+topic_1_label,Google 's 's 's 's 's 's 's 's 's
+topic_2_keywords,"switched, every, time, bit, app, yet, wasnt, linked"
+topic_2_label,i didnt switch every time
+topic_3_keywords,"apple, things, long, products, created, year, ignorant, good"
+topic_3_label,apple products created in the year of ignorance
+topic_4_keywords,"back, long, switched, create, last, time, phones, eventually"
+topic_4_label,a long time switched on to phones
+topic_5_keywords,"google, switched, killing, keep, figure, cant, making, invest"
+topic_5_label,Google 's 's 's 's 's 's 's 's 's
+topic_6_keywords,"google, like, products, kills, nobody, switched, cant, killing"
+topic_6_label,Google likes products and kills nobody
+top_ngram_1,last long (5)
+top_ngram_2,things apple (4)
+top_ngram_3,long time (4)
+top_ngram_4,switched apple (3)
+top_ngram_5,apple google (3)
+top_ngram_6,google cant (3)
+top_ngram_7,cant figure (3)
+top_ngram_8,figure keep (3)
+top_ngram_9,keep making (3)
+top_ngram_10,making things (3)
+ner_1,Apple|ORG|6
+ner_2,Apple Google|ORG|3
+ner_3,Gemini|ORG|2
+ner_4,Israel of|MISC|1
+ner_5,LL|ORG|1
+ner_6,The|ORG|1

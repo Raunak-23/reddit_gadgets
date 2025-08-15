@@ -1,0 +1,49 @@
+metric,value
+file,1l2rw63.csv
+title,Nintendo Switch 2 Size Comparison vs. Original Switch vs. Steam Deck
+rows,225
+num_posts,1
+num_comments,224
+unique_authors,164
+max_depth,8
+avg_comment_words,56.69
+median_comment_words,37.0
+max_comment_words,1104
+positive_count,36
+negative_count,124
+neutral_count,64
+positive_pct,16.071
+negative_pct,55.357
+neutral_pct,28.571
+topic_1_keywords,"deck, steam, portable, handheld, switch, something, play, games"
+topic_1_label,Steam Switches Steam Deck
+topic_2_keywords,"switch, like, oled, screen, even, better, isnt, make"
+topic_2_label,oled screen makes it even better
+topic_3_keywords,"oled, hdr, switch, like, lcd, brightness, display, people"
+topic_3_label,hdr switch like lcd
+topic_4_keywords,"switch, one, gameboy, sp, lol, man, psp, people"
+topic_4_label,"Switch, one, gameboy, sp, lol"
+topic_5_keywords,"like, screen, games, deck, steam, oled, laminate, years"
+topic_5_label,oled games and games
+topic_6_keywords,"switch, screen, still, like, sold, oled, play, air"
+topic_6_label,"Switch, screen, oled, air"
+top_ngram_1,steam deck (74)
+top_ngram_2,isnt oled (31)
+top_ngram_3,switch isnt (28)
+top_ngram_4,switch isnt oled (28)
+top_ngram_5,absolutely wild (26)
+top_ngram_6,wild switch (26)
+top_ngram_7,absolutely wild switch (26)
+top_ngram_8,wild switch isnt (26)
+top_ngram_9,deck oled (19)
+top_ngram_10,steam deck oled (18)
+ner_1,Switch 2|MISC|51
+ner_2,Switch|MISC|36
+ner_3,HD|MISC|26
+ner_4,Nintendo|ORG|18
+ner_5,PSP|MISC|15
+ner_6,Steam Deck|ORG|15
+ner_7,iPhone|MISC|11
+ner_8,Switch 1|MISC|11
+ner_9,S|MISC|10
+ner_10,Sony|ORG|8

@@ -1,0 +1,3399 @@
+{
+  "post": {
+    "title": "China launches HDMI and DisplayPort alternative \u2014 GPMI boasts up to 192 Gbps bandwidth, 480W power delivery",
+    "author": "chrisdh79",
+    "id": "1jt6ehb",
+    "score": 3621,
+    "created_utc": 1743978836.0,
+    "selftext": "",
+    "num_comments": 398,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1jt6ehb/china_launches_hdmi_and_displayport_alternative/"
+  },
+  "comments": [
+    {
+      "id": "mlsre7a",
+      "author": "UltraCynar",
+      "body": "Is it an open standard with no licensing fees?",
+      "score": 278,
+      "created_utc": 1743991503.0,
+      "replies": [
+        {
+          "id": "mltnyu4",
+          "author": "38B0DE",
+          "body": "Isn't every tech in China?",
+          "score": 121,
+          "created_utc": 1744007244.0,
+          "replies": [
+            {
+              "id": "mlv25y5",
+              "author": "zeehkaev",
+              "body": "No, and its not, both the new connector and standard is proprietary. Type C can already \"achieve this\" but with lower power numbers (the new thing is the 480w)",
+              "score": 90,
+              "created_utc": 1744033710.0,
+              "replies": [
+                {
+                  "id": "mlxbnsk",
+                  "author": "johnny_fives_555",
+                  "body": ">480w\n\nSo a fridge",
+                  "score": 2,
+                  "created_utc": 1744058816.0,
+                  "replies": []
+                },
+                {
+                  "id": "mm8kkfm",
+                  "author": "BlinksTale",
+                  "body": "ELI5: what\u2019s an example where it\u2019s nice to have 480w through a display cable? Is the laptop a TV\u2019s power supply here?",
+                  "score": 1,
+                  "created_utc": 1744216831.0,
+                  "replies": [
+                    {
+                      "id": "mm8twnd",
+                      "author": "zeehkaev",
+                      "body": "I don't know to be honest.\n\nThe only usage I can think abour are portable monitors without power source. Altough USB type c already does this, but at a much lower wattage and without the other hdmi connection.",
+                      "score": 2,
+                      "created_utc": 1744219518.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mltwnbl",
+              "author": "Marcoscb",
+              "body": "Only the ones from outside of China.",
+              "score": 76,
+              "created_utc": 1744012509.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlsgxaf",
+      "author": "Emu1981",
+      "body": "I like how the article assumes that it will be the monitor providing the 480W of power delivery rather than the computer providing the 480W of power for the monitor.  Being able to power the monitor\\* and provide the display data via a single cable would be a game changer for reducing cable clutter for your desk.\n\n\\*I have a 48\" 4K120 OLED and 480W would be way more than enough power for it.",
+      "score": 787,
+      "created_utc": 1743987364.0,
+      "replies": [
+        {
+          "id": "mlsplu2",
+          "author": "Trekintosh",
+          "body": "Apple tried many times to do this before giving up. Most recently was ADC, which carried power, video, and USB on one connector and cable. \u00a0It was a big DVI-like connector and worked reasonably well, but if you used an ADC equipped monitor with a non-ADC computer you needed a comical adapter box that was bigger than a pre-M4 Mac Mini, that then had its own external power supply box! It also meant you effectively couldn\u2019t upgrade your graphics card unless it was to another ADC-capable card, of which there weren\u2019t many because Apple. \u00a0",
+          "score": 314,
+          "created_utc": 1743990800.0,
+          "replies": [
+            {
+              "id": "mlttr9v",
+              "author": "alarbus",
+              "body": "[Samsung Frames have all power and data coming through a single 0.16\" thick wire](https://www.samsung.com/us/televisions-home-theater/television-home-theater-accessories/televisions/15m-one-invisible-connection-tm-cable-for-qled-4k-and-the-frame-tvs-2019-vg-socr15-za/)",
+              "score": 72,
+              "created_utc": 1744010603.0,
+              "replies": [
+                {
+                  "id": "mluag1p",
+                  "author": "Er_Chisus",
+                  "body": "And they have to be RMA'd constantly.",
+                  "score": 73,
+                  "created_utc": 1744021549.0,
+                  "replies": [
+                    {
+                      "id": "mluv6g6",
+                      "author": "roll_for_initiative_",
+                      "body": "I have two frames without issue, knock on wood. To another poster: I coil that thing like 3\" around to hide the excess.",
+                      "score": 16,
+                      "created_utc": 1744031129.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mluocpa",
+                      "author": "kyhoop",
+                      "body": "Never had an issue with mine",
+                      "score": 13,
+                      "created_utc": 1744028375.0,
+                      "replies": [
+                        {
+                          "id": "mlv4uj6",
+                          "author": "Er_Chisus",
+                          "body": "The cable itself is not the issue, but the OneConnect box. Probably completely unrelated to this new cable thing, but it's the most similar use case. I don't know how can Samsung have more issues with the computer in a box than behind the TV panels, if anything it should be easier to avoid them due to not requiring a leaner size and the thermal constraints.",
+                          "score": 10,
+                          "created_utc": 1744034607.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mlwealr",
+                      "author": "r_a_d_",
+                      "body": "Q7 here with the same system.  Works perfectly.",
+                      "score": 1,
+                      "created_utc": 1744048531.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mlud7tt",
+                  "author": "BigTravWoof",
+                  "body": "I like how they offer 12-month financing right at the top. For a wire.",
+                  "score": 22,
+                  "created_utc": 1744023103.0,
+                  "replies": [
+                    {
+                      "id": "mlukx1b",
+                      "author": "alarbus",
+                      "body": "I was super scared of bending it. They do give you some curve brackets, which is nice.",
+                      "score": 5,
+                      "created_utc": 1744026848.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mm5pdlj",
+                      "author": "glen_ko_ko",
+                      "body": "I remember seeing gold HDMI cables at Best buy for like 500 bucks in like 2006",
+                      "score": 1,
+                      "created_utc": 1744171737.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mluvd97",
+                  "author": "pairoflytics",
+                  "body": "Imagine buying a $300 cable instead of just doing 15 minutes of work with an oscillating tool or drill and some drywall grommets\u2026..",
+                  "score": 2,
+                  "created_utc": 1744031202.0,
+                  "replies": [
+                    {
+                      "id": "mlux3q8",
+                      "author": "wurstbowle",
+                      "body": "It's included with the TV. There are concrete and brick buildings on this planet.",
+                      "score": 15,
+                      "created_utc": 1744031864.0,
+                      "replies": [
+                        {
+                          "id": "mluxarj",
+                          "author": "pairoflytics",
+                          "body": "That makes it less unreasonable and fair point.",
+                          "score": 9,
+                          "created_utc": 1744031937.0,
+                          "replies": [
+                            {
+                              "id": "mlv80vs",
+                              "author": "alarbus",
+                              "body": "Also since the controls are bluetooth and all the components except the display matrix itself are in a control box, you dont even need to have it in the same room, let alone wall. Hell you could but it inside the wall behind it in a media box and never see anything except the tv itself.",
+                              "score": 3,
+                              "created_utc": 1744035624.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mlv2uh7",
+                  "author": "parisidiot",
+                  "body": "so annoying that they won't release an oled version of these. paying soooo much money for an inferior panel because it looks nice :/",
+                  "score": 1,
+                  "created_utc": 1744033938.0,
+                  "replies": [
+                    {
+                      "id": "mlv6t1j",
+                      "author": "alarbus",
+                      "body": "The whole conceit of the thing is that it displays art when not in tv mode, so OLED, which suffers burn-in effects, would have ghostly art after a while. You'd have to have an old school screensaver instead.",
+                      "score": 5,
+                      "created_utc": 1744035244.0,
+                      "replies": [
+                        {
+                          "id": "mlxa49h",
+                          "author": "parisidiot",
+                          "body": "eh you could just change the art displayed more often, or do subtle pixel shifts",
+                          "score": 1,
+                          "created_utc": 1744058338.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mlv3092",
+              "author": "parisidiot",
+              "body": "you don't count thunderbolt?",
+              "score": 7,
+              "created_utc": 1744033992.0,
+              "replies": [
+                {
+                  "id": "mlvsund",
+                  "author": "Trekintosh",
+                  "body": "I guess I kinda forgot about TB, yeah they finally succeeded and it became so mainstream I didn\u2019t even consider it.\u00a0",
+                  "score": 6,
+                  "created_utc": 1744042033.0,
+                  "replies": [
+                    {
+                      "id": "mm0c6xg",
+                      "author": "SolidOshawott",
+                      "body": "Yet with TB is still the display powering the computer. I think it makes more sense, since the display is more likely to be stationary and less likely to have its own battery.\n\nMaybe what would be neat is if we could power a Mac Mini (or even a Studio?) off the same cable that plugs to the display.",
+                      "score": 2,
+                      "created_utc": 1744106216.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mlttgcc",
+              "author": "Plank_With_A_Nail_In",
+              "body": "> Most recently was ADC\n\nReddit: ADC is 25 years old....\"recently\" lol.",
+              "score": 35,
+              "created_utc": 1744010405.0,
+              "replies": [
+                {
+                  "id": "mltuyby",
+                  "author": "Evepaul",
+                  "body": "\"most recently\"\n\nThere have been many mass extinctions in the past. **Most recently**, 75% percent of all species became extinct in the End Cretaceous extinction 66 million years ago.\n\n66 million years ago is not recent but it's the most recent large extinction event.",
+                  "score": 81,
+                  "created_utc": 1744011399.0,
+                  "replies": [
+                    {
+                      "id": "mltz8dp",
+                      "author": "None",
+                      "body": "coherent bake run sip marble money hurry zephyr deer frame\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                      "score": 20,
+                      "created_utc": 1744014241.0,
+                      "replies": [
+                        {
+                          "id": "mlu6eqs",
+                          "author": "Crack4kids31",
+                          "body": "Back in my day we had to go extinct up hill both ways...IN THE SNOW!",
+                          "score": 8,
+                          "created_utc": 1744019089.0,
+                          "replies": [
+                            {
+                              "id": "mlvljyw",
+                              "author": "beren12",
+                              "body": "That wasn\u2019t snow, that was Ash from the impact.",
+                              "score": 3,
+                              "created_utc": 1744039779.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mlu0tb9",
+                      "author": "Anthro_the_Hutt",
+                      "body": "To be fair, the most recent large extinction event is arguably happening right now, and is human-induced.",
+                      "score": 1,
+                      "created_utc": 1744015337.0,
+                      "replies": [
+                        {
+                          "id": "mlu1er4",
+                          "author": "Evepaul",
+                          "body": "I found an estimate that we were at 3% in 2015, and will reach 13-27% by 2100. We're definitely in an extinction event, but it's not reached the 75% for a large extinction event yet. Give it a couple hundred years (a microsecond in geological times).\n\nWhen we reach 75% humans will long be extinct anyway, if we work together it would be a miracle to survive until the 30-40% mark",
+                          "score": 3,
+                          "created_utc": 1744015741.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mlv52zd",
+                      "author": "DisplacedPersons12",
+                      "body": "suck eggs bro. fair enough, \u201cmost recently\u201d reads as if it was a recent attempt by apple, the comment is misleading and should be stated differently",
+                      "score": -2,
+                      "created_utc": 1744034685.0,
+                      "replies": [
+                        {
+                          "id": "mlv57aw",
+                          "author": "Evepaul",
+                          "body": "Eggs? In this economy?",
+                          "score": 3,
+                          "created_utc": 1744034724.0,
+                          "replies": [
+                            {
+                              "id": "mlv5c8q",
+                              "author": "DisplacedPersons12",
+                              "body": "didn\u2019t wanna like you but i do hahahhahaha",
+                              "score": 1,
+                              "created_utc": 1744034770.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mlv02md",
+              "author": "Projectrage",
+              "body": "Cat 5POE is data and 48v power.",
+              "score": 2,
+              "created_utc": 1744032969.0,
+              "replies": []
+            },
+            {
+              "id": "mlw3iu4",
+              "author": "swolfington",
+              "body": "the DVI to ADC box was pretty chonky but it was definitely not bigger than an old Mac Mini (though it probably was bigger than the new one). And for what its worth, if you did have the box, you could upgrade your graphics card since only the monitor really cared (ADC monitors biggest issue is they had no other way to be powered), and you could run a standard DVI monitor on an ADC card with a much more simple conversion cable since the video signal on ADC was just DVI.\n\nusing an ADC monitor also also put a huge strain on the computer's power supply (especially if you had that one ADC CRT) and is probably responsible for killing a pretty large percentage of various G4 tower power supplies",
+              "score": 2,
+              "created_utc": 1744045318.0,
+              "replies": [
+                {
+                  "id": "mlxvj6z",
+                  "author": "Trekintosh",
+                  "body": "Also an ADC CRT doesn\u2019t work with the converter box because\u2026 \ud83e\udd37\u200d\u2642\ufe0f It\u2019s only for the LCDs.\u00a0",
+                  "score": 2,
+                  "created_utc": 1744065413.0,
+                  "replies": [
+                    {
+                      "id": "mlxy3ej",
+                      "author": "swolfington",
+                      "body": "That one always seemed a little lame, even by apples standards. Maybe the current draw was too much for the power supply they wanted to use, or maybe it was because the CRT needed to be woken up in a nonstandard way and apple just didn't want to deal with the support/software hassle. I think the only technical thing keeping CRTs from working with the box is it doesn't pass through the analog video signal pins, which seems like it would both be a very easy thing to fix and probably something they would have to do deliberately in the first place.\n\neither way, it was a pretty lame thing for apple to do to its customers who bought the CRT.",
+                      "score": 1,
+                      "created_utc": 1744066296.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mltx2b1",
+              "author": "pmoO0",
+              "body": "Apple will charge you for using premium products with their premium ideas, but if China can establish it for cheap it will get traction. \n\nIt\u2019s unfortunate that margin is the number one concern, while profit can also be achieved by other means.",
+              "score": 1,
+              "created_utc": 1744012780.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlt94nw",
+          "author": "OrSomeSuch",
+          "body": "The monitor presumably stays in one spot while your laptop moves around with you. It makes sense to treat the monitor as a docking station that powers your laptop rather than having to plug in your laptop charger and monitor every time",
+          "score": 91,
+          "created_utc": 1743999119.0,
+          "replies": [
+            {
+              "id": "mltujxd",
+              "author": "spike_walker",
+              "body": "HERESY! The monitor revolves around the laptop just as written in the Holy Instruction Manual",
+              "score": 24,
+              "created_utc": 1744011128.0,
+              "replies": []
+            },
+            {
+              "id": "mltqg7s",
+              "author": "vemundveien",
+              "body": "This. At the company I manage IT for I've started buying monitors with built in docking stations for this exact reason. Cuts down complexity a lot and these days an ultrawide with built in docking costs the same as 2 monitors and a docking station.",
+              "score": 17,
+              "created_utc": 1744008634.0,
+              "replies": [
+                {
+                  "id": "mlu3lqr",
+                  "author": "rlnrlnrln",
+                  "body": "I tried that for home, but couldn't find a gaming monitor with more than 2 ports.",
+                  "score": 1,
+                  "created_utc": 1744017224.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlujaki",
+              "author": "pnw-techie",
+              "body": "This. Our office got rid of all docking stations, just all new monitors with usb c out to supply power",
+              "score": 5,
+              "created_utc": 1744026105.0,
+              "replies": []
+            },
+            {
+              "id": "mlttkrr",
+              "author": "Plank_With_A_Nail_In",
+              "body": "Only one even more valuable cable for employees  to steal too so an efficiency gain there too. \n\nMake it a power bus that way it doesn't matter which devices is providing the power.",
+              "score": 2,
+              "created_utc": 1744010485.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlt1zn0",
+          "author": "Jess_S13",
+          "body": "I'm assuming this is basically a dock replacement. Instead of a dock that has the monitor connected and whatever peripherals you need connected to it, with the dock powering the laptop and the other peripherals getting their own power (unless USB powered) the monitor would be the dock and the power to the laptop so that the only power input is the monitor and all I/O goes down that path. Given how many all in ones just end up being monitors for newer better computers I'm not sure I would actually want to invest into that ecosystem instead of the convenience of an inexpensive dock I buy whenever I get a new laptop with a higher thundbolt version, but who knows maybe it will catch on.",
+          "score": 18,
+          "created_utc": 1743995844.0,
+          "replies": [
+            {
+              "id": "mm1z825",
+              "author": "ThePr0vider",
+              "body": "thunderbolt, we've re-invented thunderbolt",
+              "score": 1,
+              "created_utc": 1744128344.0,
+              "replies": [
+                {
+                  "id": "mm1zy5i",
+                  "author": "Jess_S13",
+                  "body": "Yeah I don't disagree. Seems like the xkcd \"we need a new standard\".",
+                  "score": 1,
+                  "created_utc": 1744128562.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mltd1ys",
+          "author": "tommyk1210",
+          "body": "That\u2019s basically how laptop/monitor setups are intended to work though no? Your monitor is plugged into the outlet and receives power for both itself ND transmits power to the laptop down the type C cable (or in this case type B)",
+          "score": 9,
+          "created_utc": 1744001065.0,
+          "replies": [
+            {
+              "id": "mm1zdgs",
+              "author": "ThePr0vider",
+              "body": "depends, if you want to do it the crappy way yes. i'd rather have everything plugged into a dock and then run the video cables to the 2 screens on my desk. that's how we do it at work",
+              "score": 1,
+              "created_utc": 1744128389.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mltqcnq",
+          "author": "Striky_",
+          "body": "My PSU is getting PTSD just reading this. Triple HDR OLED setup... Those PSUs will become massive\u00a0",
+          "score": 7,
+          "created_utc": 1744008585.0,
+          "replies": []
+        },
+        {
+          "id": "mluo7et",
+          "author": "raptir1",
+          "body": ">\u00a0I like how the article assumes that it will be the monitor providing the 480W of power delivery rather than the computer providing the 480W of power for the monitor\n\n\nThe monitor providing the power makes far more sense. While I work remote now, my office has docking stations setup with one USB-C cable. That cable provides power for your laptop and connects your monitor and keyboard.\u00a0\n\n\nIf the laptop provided power to the monitor you would need a second cable plugged into your laptop for power.\u00a0",
+          "score": 6,
+          "created_utc": 1744028311.0,
+          "replies": []
+        },
+        {
+          "id": "mlttsf2",
+          "author": "5c044",
+          "body": "USB-C monitors already can do that to a degree, not the same power or data bandwidth but enough. I got an MSI monitor for my new laptop a few months ago it provides up to 65W to the laptop and has a built in kvm and audio out so if I am using wifi I have a single cable.",
+          "score": 5,
+          "created_utc": 1744010625.0,
+          "replies": [
+            {
+              "id": "mm1zhrk",
+              "author": "ThePr0vider",
+              "body": "\\*thunderbolt monitors. displayport alt mode doesn't work the same",
+              "score": 1,
+              "created_utc": 1744128426.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlubvge",
+          "author": "teh_mICON",
+          "body": "Can't you do this with USB C anyway? I know USB C delivers power and also has display pass trhough so it should be possible?\n\nend game is USB C for everything anyway, no?",
+          "score": 3,
+          "created_utc": 1744022364.0,
+          "replies": [
+            {
+              "id": "mm1zlr6",
+              "author": "ThePr0vider",
+              "body": "thunderbolt, not plain USB-C",
+              "score": 1,
+              "created_utc": 1744128460.0,
+              "replies": [
+                {
+                  "id": "mm281dq",
+                  "author": "teh_mICON",
+                  "body": "Elaborate.\n\n>  The designation C refers only to the connector's physical configuration, or form factor, not to be confused with the connector's specific capabilities and performance, such as Thunderbolt 3, DisplayPort 2.0, USB 3.2 Gen 2\u00d72.\n\nhttps://en.wikipedia.org/wiki/USB-C\n\nSo USB-C supports DisplayPort 2.0 and also power delivery so in theory it should be possible to connect a display without an additional power connector on the display",
+                  "score": 0,
+                  "created_utc": 1744130975.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mltmi0d",
+          "author": "TJonesyNinja",
+          "body": "Treating the monitor like a dock and having it power a laptop or mini computer is not that out there. Plenty of computers also use less than 480W of power if you aren\u2019t taking about a high performance computer.",
+          "score": 4,
+          "created_utc": 1744006340.0,
+          "replies": [
+            {
+              "id": "mltolpp",
+              "author": "Kaptain_Napalm",
+              "body": "It's kinda already \"out there\" since it's a pretty normal setup to have lol. I use something like that for work and it's working great.",
+              "score": 3,
+              "created_utc": 1744007640.0,
+              "replies": [
+                {
+                  "id": "mltwam8",
+                  "author": "TJonesyNinja",
+                  "body": "By \u201cout there\u201d I mean crazy, reaching, hard to imagine etc\u2026",
+                  "score": 1,
+                  "created_utc": 1744012278.0,
+                  "replies": [
+                    {
+                      "id": "mlty8hv",
+                      "author": "Kaptain_Napalm",
+                      "body": "I know, I just found it was funny that they're not that much \"out there\" (as in crazy) because they're already literally out there.",
+                      "score": 1,
+                      "created_utc": 1744013562.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mltuatu",
+              "author": "Plank_With_A_Nail_In",
+              "body": "This is already what happens with USB C PD.",
+              "score": 2,
+              "created_utc": 1744010959.0,
+              "replies": [
+                {
+                  "id": "mltx7a9",
+                  "author": "pmoO0",
+                  "body": "If companies like Dell would play along nicely. \nEven Apple has issues, but that\u2019s probably intentional \ud83d\ude0a",
+                  "score": 1,
+                  "created_utc": 1744012870.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlvlv9d",
+              "author": "beren12",
+              "body": "And it\u2019s awesome until standards change and things no longer plug-in so well. I have a 24 inch monitor with a USB 2.0 dock picture is great, dock is less useful.",
+              "score": 1,
+              "created_utc": 1744039877.0,
+              "replies": [
+                {
+                  "id": "mlvxw8u",
+                  "author": "TJonesyNinja",
+                  "body": "I\u2019ve found USB 2.0 works great for permanent things like keyboard, mouse, speakers, even printers, only really need 3.0 for high speed things like external storage and such which can be plugged in directly when needed. There is probably a few things you would want to plug in to the dock with high speed but that tends to be more the exception than the rule in my experience. USB 2.0 despite being slower holds up really well for most use cases.",
+                  "score": 1,
+                  "created_utc": 1744043587.0,
+                  "replies": [
+                    {
+                      "id": "mlw5lnu",
+                      "author": "beren12",
+                      "body": "All of those things except the storage I don\u2019t want hanging off the side of my monitor, though. It\u2019s so terrible looking.",
+                      "score": 1,
+                      "created_utc": 1744045955.0,
+                      "replies": [
+                        {
+                          "id": "mlwuscz",
+                          "author": "TJonesyNinja",
+                          "body": "I mount my monitors and all my cables run neatly in a bundle to the post where they spread out when they hit the desk. There\u2019s convenient usb ports on the side for flash drives, security keys, or other short term usage; but everything  long term plugs in the cable cubby on the back with the power and video. If that\u2019s not enough a simple usb hub and/or extension moves them wherever they need to be with a single cord. There\u2019s no reason a decent monitor would have them hanging off the side. Many smaller computers even mount to the back of the monitor so in that case the cables would be running up there anyway. My laptop plugs in to two monitors and all peripherals including power with one usb c cable. Higher bandwidth and power on a single cable could support things like external pci ports for external graphics cards, higher resolution displays or high bandwidth networking among other things.",
+                          "score": 1,
+                          "created_utc": 1744053592.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mltxfct",
+          "author": "GrynaiTaip",
+          "body": "Going from two cables to one isn't really a \"game changer\", is it?",
+          "score": 2,
+          "created_utc": 1744013018.0,
+          "replies": [
+            {
+              "id": "mm8l0do",
+              "author": "BlinksTale",
+              "body": "From a UX standpoint it\u2019s huge",
+              "score": 1,
+              "created_utc": 1744216958.0,
+              "replies": [
+                {
+                  "id": "mm8o09y",
+                  "author": "GrynaiTaip",
+                  "body": "It's absolutely minuscule and most people wouldn't even notice it.",
+                  "score": 1,
+                  "created_utc": 1744217827.0,
+                  "replies": [
+                    {
+                      "id": "mm8rm6k",
+                      "author": "BlinksTale",
+                      "body": "I\u2019m not sure if you\u2019ve ever lived with the difference of wired vs wireless CarPlay/AndroidAuto, but it\u2019s an easy reference point in this. I personally use a laptop that I relocate with a couple times most days, and the difference in one cable vs multiple is noteworthy to me (but also I\u2019m a UX snob).\u00a0\n\nThe average person won\u2019t be able to articulate that but you can be sure that they can feel it. The real question is how much it impacts engagement, but there\u2019s a reason that Google being the fastest search engine got them to take over the tech world.",
+                      "score": 1,
+                      "created_utc": 1744218871.0,
+                      "replies": [
+                        {
+                          "id": "mm93f4l",
+                          "author": "GrynaiTaip",
+                          "body": "So now you're using multiple monitors and power adapters?",
+                          "score": 1,
+                          "created_utc": 1744222172.0,
+                          "replies": [
+                            {
+                              "id": "mm992t4",
+                              "author": "BlinksTale",
+                              "body": "Correct. And I change monitors about every 6-12mo at my desk (a strange amount of luck with friends donating monitors) with monitor arms that allow for cable hiding. Currently that means swapping both out with each change, and worrying about whether I have enough power slots under my desk from my surge protector. While it's not a game changer for me directly on any given day, I would say it's a game changer for the general UX and use over time - and how many people will be impacted by this. It would certainly help clean my desk up to have half as many cables for the 2-3 monitors I keep with this and my other desk setup.",
+                              "score": 1,
+                              "created_utc": 1744223812.0,
+                              "replies": [
+                                {
+                                  "id": "mm9fjby",
+                                  "author": "GrynaiTaip",
+                                  "body": "It wouldn't reduce the number of cables going into your monitors, you'd still have to use power cords. The article talks about powering laptops from the monitor.",
+                                  "score": 1,
+                                  "created_utc": 1744225704.0,
+                                  "replies": [
+                                    {
+                                      "id": "mm9nlg6",
+                                      "author": "BlinksTale",
+                                      "body": "at 480W? I think you are only thinking of existing monitors, I mean to say that there will be monitors that support power over this cable in the future.",
+                                      "score": 1,
+                                      "created_utc": 1744228071.0,
+                                      "replies": [
+                                        {
+                                          "id": "mme00fd",
+                                          "author": "GrynaiTaip",
+                                          "body": "Did you read the article? It specifically talks about stationary monitors, you plug them into your laptop and that cable supplies power to the laptop. \n\nNone of this applies to anything currently on the market, neither laptops nor monitors can supply 480W of power over any display ports. These GPMI cables aren't even for sale yet.",
+                                          "score": 1,
+                                          "created_utc": 1744293299.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mluapw7",
+          "author": "gasoline_farts",
+          "body": "I have that same TV as a monitor and it fucks so hard",
+          "score": 2,
+          "created_utc": 1744021707.0,
+          "replies": []
+        },
+        {
+          "id": "mluderx",
+          "author": "grumd",
+          "body": "GPUs already have insane power consumption with melting cables, please don't make them also support 480W output ports",
+          "score": 3,
+          "created_utc": 1744023201.0,
+          "replies": [
+            {
+              "id": "mlvp599",
+              "author": "EggsAndRice7171",
+              "body": "The melting cables have little to do with the gpu and everything to do with the cables/connecters. Linus tech tips explained it pretty well and even sauntered on a different standard to test. Nvidia just picked poor cables for their standard",
+              "score": 1,
+              "created_utc": 1744040890.0,
+              "replies": [
+                {
+                  "id": "mlvrqbr",
+                  "author": "grumd",
+                  "body": "Yeah I know, the connector shouldn't have been rated for 600W, more like 400W. But if you want to have at least a couple of 480W ports, you'd need a GPU with 1500W max TDP? How many 12vhpwr connectors would we need lol?",
+                  "score": 2,
+                  "created_utc": 1744041680.0,
+                  "replies": [
+                    {
+                      "id": "mm04c1s",
+                      "author": "RadVarken",
+                      "body": "US houses generally have 15amp circuits. 12amp sustained is the design load. 1500w for the whole circuit is max draw. In older homes that can be a couple bedrooms plus the hall outlet where the vacuum plugs in. These GPUs are going start burning houses down.",
+                      "score": 1,
+                      "created_utc": 1744101080.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mltp88t",
+          "author": "eirlous",
+          "body": "480W?? Sorry, I draw the line when my HDMI cable can electrocute me.\n\nThat and paradoxically I usually can't get USB-C cables out of China to do 65W as is.",
+          "score": 5,
+          "created_utc": 1744008024.0,
+          "replies": [
+            {
+              "id": "mltu73l",
+              "author": "Plank_With_A_Nail_In",
+              "body": "Watts is not what kills you. You need a voltage high enough to get over your bodies resistance 50V+ and then a current high enough which is only 0.01 A for a severe shock or 0.1 A for 2 seconds to kill you. That means 110V at 0.1A = 11 Watts will kill you. \n\nHDMI already sends 5V @ 0.5 Amps which i'm sure you know. \n\nThis is clearly 48V @ 10 A and unless your body provides the hand shake signal you won't be in any danger and even if you were it wouldn't shock you and even if it did it would be across your fingers not your heart.",
+              "score": 20,
+              "created_utc": 1744010892.0,
+              "replies": [
+                {
+                  "id": "mlu3oyu",
+                  "author": "rlnrlnrln",
+                  "body": "Run 480W through it and you bet my hand would shake.",
+                  "score": -9,
+                  "created_utc": 1744017284.0,
+                  "replies": []
+                },
+                {
+                  "id": "mltw8iy",
+                  "author": "AirFryerAreOverrated",
+                  "body": "Wet hands exist.",
+                  "score": -9,
+                  "created_utc": 1744012238.0,
+                  "replies": [
+                    {
+                      "id": "mlua0jl",
+                      "author": "r34p3rex",
+                      "body": "The current return path would be through the water on your hands and back to the cable, not through your body. Also, it's not going to be a live 48V/10A connection, that sort of power is always negotiated via the data lines like USB-PD, as soon as the data lines drop, the high voltage/current supply stops",
+                      "score": 7,
+                      "created_utc": 1744021297.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mluz3gx",
+                  "author": "Sigaromanzia",
+                  "body": "At full tilt, that's practically a third of the wattage that a typical 15amp  circuit breaker will provide.  The human body is typically only good up to 24V, and who hasn't experienced static discharge from crawling around and messing with AV cables.  Yeah, no thanks.",
+                  "score": -7,
+                  "created_utc": 1744032604.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlu1nxo",
+              "author": "Randommaggy",
+              "body": "I've found ones that does 100W and 40Gbit networking just fine and with a decently accurate power consumption display.  \nBought 25 of them once I found one that was this good,",
+              "score": 3,
+              "created_utc": 1744015914.0,
+              "replies": []
+            },
+            {
+              "id": "mlts1yv",
+              "author": "Swastik496",
+              "body": "stop buying cheap cables and they\u2019ll go above 65W",
+              "score": 6,
+              "created_utc": 1744009514.0,
+              "replies": []
+            },
+            {
+              "id": "mltpu35",
+              "author": "AirFryerAreOverrated",
+              "body": "Yeah, I'd prefer the peripheral cables be limited to below 50V and 5A respectively... 240W is a good stopping point in my opinion (48V*5A)",
+              "score": 1,
+              "created_utc": 1744008328.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mltoo6x",
+          "author": "gamerjerome",
+          "body": "PSU industry\n\n![gif](giphy|MAA3oWobZycms)",
+          "score": 1,
+          "created_utc": 1744007683.0,
+          "replies": []
+        },
+        {
+          "id": "mltp6vx",
+          "author": "nimble7126",
+          "body": "For business use it replaces a dock and the hassle of more cords. With this I only need my Surface instead of a dock, charger, possibly an HDMI, and a backpack for it all.",
+          "score": 1,
+          "created_utc": 1744008003.0,
+          "replies": [
+            {
+              "id": "mltpzfx",
+              "author": "tml25",
+              "body": "The dock has already been replaced. We use monitors with only a power cord to the wall and then a USBc from the monitor to the laptop.",
+              "score": 1,
+              "created_utc": 1744008402.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mltrx2s",
+          "author": "FezVrasta",
+          "body": "For TVs where you have multiple devices all connected to a single TV it would be much more convenient the way they describe it, so you only need to power the TV from the wall socket",
+          "score": 1,
+          "created_utc": 1744009431.0,
+          "replies": [
+            {
+              "id": "mltysra",
+              "author": "Eruannster",
+              "body": "There used to be a standard that would let you power smaller devices like a phone or a Chromecast through the HDMI port, called HDMI-MHL: https://en.wikipedia.org/wiki/Mobile_High-Definition_Link\n\n\nUnfortunately it wasn't used much and seems to have been mostly dropped.\n\n\nSome devices seem pretty doable even with current TV power supplies (like phones or media players) but video game consoles could be a problem for the current TV power supplies as a PS5 alone can draw like ~200 W.",
+              "score": 2,
+              "created_utc": 1744013944.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlu1k8f",
+          "author": "alockbox",
+          "body": "Well, to me, that makes better sense. Unless it\u2019s a portable monitor, it is stationary. Whereas most computers are portable. So the monitor should be plugged into the wall and the computer can be placed down, plugged in, and immediately have power coming in and data throughput. The monitor really should be more like a monitor + hub/dock. \n\nThis is my current setup on a USB-C PD monitor and it\u2019s fantastic. All accessories stay connected to the screen. Including a keyboard and mouse dongle, ethernet, NVME backup drive, etc. Bring in the laptop, plug in one cable and it\u2019s charging plus display plus all accessories. This is even more handy in environments like conference rooms or flex offices. With this kind of power delivery standard, practically any computer becomes a \u201cportable\u201d (ie the new Mac mini, an Intel NUC / mini PC).",
+          "score": 1,
+          "created_utc": 1744015845.0,
+          "replies": []
+        },
+        {
+          "id": "mluclxj",
+          "author": "Ahad_Haam",
+          "body": "Old PSUs used to include a power port for a monitor.",
+          "score": 1,
+          "created_utc": 1744022779.0,
+          "replies": []
+        },
+        {
+          "id": "mlujn38",
+          "author": "WolpertingerRumo",
+          "body": "I\u2018m using that setup already, though with a laptop. The monitor is stationary, so it makes more sense to have it hooked up. For desktops it\u2019s a little more complicated, but doable, if Mainboard and GPU makers make both possible. Both should have ample power to give off the little Wattage the screen needs.",
+          "score": 1,
+          "created_utc": 1744026272.0,
+          "replies": []
+        },
+        {
+          "id": "mlur4y6",
+          "author": "USPS_Nerd",
+          "body": "Apple did this in the early 2000s with ADC, and it was great. Problem being that some larger displays could not be reliably driven from some Macs once you starting adding bus powered peripherals and such.",
+          "score": 1,
+          "created_utc": 1744029545.0,
+          "replies": []
+        },
+        {
+          "id": "mluy3ss",
+          "author": "ChiefStrongbones",
+          "body": "\"game changer\" is an exageration.  I've got like twenty cables zigzagging across my desk.  Reducing that to nineteen cables doesn't amount to much.",
+          "score": 1,
+          "created_utc": 1744032238.0,
+          "replies": []
+        },
+        {
+          "id": "mlv7m7f",
+          "author": "burgonies",
+          "body": "Wouldn\u2019t it be the same number of cables if the monitor powered the laptop?",
+          "score": 1,
+          "created_utc": 1744035496.0,
+          "replies": []
+        },
+        {
+          "id": "mlwultt",
+          "author": "NoisyGog",
+          "body": ">Being able to power the monitor* and provide the display data via a single cable would be a game changer for reducing cable clutter for your desk.\n\nIt gets rid of one cable. ONE.",
+          "score": 1,
+          "created_utc": 1744053535.0,
+          "replies": []
+        },
+        {
+          "id": "mm16mq8",
+          "author": "trainbrain27",
+          "body": "I'm surprised we don't see more USB C monitors doing that.  We use portable USB C monitors at work so we don't have to carry or run power cords.",
+          "score": 1,
+          "created_utc": 1744119600.0,
+          "replies": []
+        },
+        {
+          "id": "mm1re85",
+          "author": "None",
+          "body": "I don't know if I'd trust a 5080 with an extra 480w getting pumped into it, unless it was done through a separate power supply.",
+          "score": 1,
+          "created_utc": 1744126028.0,
+          "replies": []
+        },
+        {
+          "id": "mlty1d0",
+          "author": "chirpz88",
+          "body": "Most laptop chargers are around 65W us wall outlets can provide 1800W so it's a safe assumption the monitor would be powering the laptop. The monitors that use these are going to have to be specific I'd imagine.  You don't want to pump 500W of power into a monitor and only only need 50 for the monitor and 450 passing through without some kind of hardware to handle the excess wattage.\n\n\nMy guess is these connections will only take off of the industry stating making new products with them in mind.",
+          "score": 0,
+          "created_utc": 1744013428.0,
+          "replies": [
+            {
+              "id": "mlxyggz",
+              "author": "StaysAwakeAllWeek",
+              "body": "He's not talking about a laptop, he's talking about a gaming PC that at the high end can now consume upwards of 800W",
+              "score": 1,
+              "created_utc": 1744066418.0,
+              "replies": [
+                {
+                  "id": "mly2q3g",
+                  "author": "chirpz88",
+                  "body": "Oh great so now power supply would need to increase by 450w for a high end gaming machine that already has a 1200w PSU?",
+                  "score": 1,
+                  "created_utc": 1744067869.0,
+                  "replies": [
+                    {
+                      "id": "mly33do",
+                      "author": "StaysAwakeAllWeek",
+                      "body": "There's plenty of 1600W PSUs out there",
+                      "score": 1,
+                      "created_utc": 1744067998.0,
+                      "replies": [
+                        {
+                          "id": "mlyam5v",
+                          "author": "chirpz88",
+                          "body": "Ithe point is it's cheaper to just use a wall outlet and not buy a 1600w psu",
+                          "score": 1,
+                          "created_utc": 1744070650.0,
+                          "replies": [
+                            {
+                              "id": "mlybi5u",
+                              "author": "StaysAwakeAllWeek",
+                              "body": "It's also cheaper to use a power brick with a laptop than integrate a 700W PSU into a monitor\n\nThe point is to not need any extra cables on the desk",
+                              "score": 1,
+                              "created_utc": 1744070972.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlrxn0h",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 1131,
+      "created_utc": 1743980185.0,
+      "replies": [
+        {
+          "id": "mlrzi65",
+          "author": "Luckybuckets",
+          "body": "Gotta pay license for hdmi\n\nAlso it uses the same formfactor as the usb-c",
+          "score": 621,
+          "created_utc": 1743980856.0,
+          "replies": [
+            {
+              "id": "mltdztv",
+              "author": "cheetuzz",
+              "body": "> Gotta pay license for hdmi\n\nwow, TIL.\n\ndo you know what other popular ports require license or not? such as DisplayPort, USB, etc.",
+              "score": 67,
+              "created_utc": 1744001548.0,
+              "replies": [
+                {
+                  "id": "mludt89",
+                  "author": "donnysaysvacuum",
+                  "body": "It's worse than that. The org controlling HDMI has extremely restrictive licensing. AMD can't even include some features in their open source drivers.",
+                  "score": 90,
+                  "created_utc": 1744023399.0,
+                  "replies": [
+                    {
+                      "id": "mlv2oon",
+                      "author": "MeisterGlizz",
+                      "body": "It\u2019s worse than that. The org controlling HDMI is made up of all the companies who currently have products on the market. \n  \nIt\u2019s almost like if we want a standardized input that reduces waste and increases productivity we shouldn\u2019t leave that decision in the hands of corporations who stand to profit from its design. \n  \nLike, maybe have a standard created by a governing body that doesn\u2019t have players that stand to lose or gain anything, they just make the best decision based on info available and don\u2019t have licensing restrictions. Call me Chinese or Russian spy I guess.",
+                      "score": 55,
+                      "created_utc": 1744033883.0,
+                      "replies": [
+                        {
+                          "id": "mlvor43",
+                          "author": "jorbleshi_kadeshi",
+                          "body": "It feels like our best and only hope for this kind of tech standardization is the EU. That's the only entity I could see effectively legislating that into being.",
+                          "score": 17,
+                          "created_utc": 1744040768.0,
+                          "replies": [
+                            {
+                              "id": "mlw6e4l",
+                              "author": "dasteez",
+                              "body": "I am grateful for the EU\u2019s hand in standardizing and enforcing usb-c. I still have some older devices on other connectors and will milk all the life I can, but will be nice to eventually get everything consistent. \n\nI\u2019m sure as soon as I do, some other replacement will be announced.",
+                              "score": 12,
+                              "created_utc": 1744046192.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mlvfmf6",
+                          "author": "Montana_Gamer",
+                          "body": "That sounds like communism, my friend. Come with me. You are going to the pit.",
+                          "score": 10,
+                          "created_utc": 1744037962.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mm460pc",
+                          "author": "AkirIkasu",
+                          "body": "The thing that bugs me is that when HDMI came on the scene, we already had a standardized royalty-free connector that was better: DVI. Yes, it had a big bulky connector you had to screw in, but it was capable of higher data throughput because it was functionally equivalent to two HDMI connectors. It took a while for HDMI to completely catch up. While I think the physical connector is probably the number one reason why HDMI won, I'd venture a close second would be that HDMI licensing usually required implementing HDCP. Gotta make life harder on your users, after all.\n\nThese days there's an even better royalty-free standard in the form of DisplayPort. The original DP connector is better than HDMI and has a great self-locking connector, but nowadays I think most people probably know it better as the video output capability of USB-C.",
+                          "score": 2,
+                          "created_utc": 1744151633.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mlyeoix",
+                  "author": "None",
+                  "body": "Have you ever bought a modern high zoot video card? They come with a single HDMI poet and like three Display Ports, because they only want to pay the HDMI fee once per card.",
+                  "score": 6,
+                  "created_utc": 1744072133.0,
+                  "replies": []
+                },
+                {
+                  "id": "mm69tf4",
+                  "author": "A_Witty_Name_",
+                  "body": "I think that's basically the reason DisplayPort exists",
+                  "score": 1,
+                  "created_utc": 1744182772.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mls2b7n",
+              "author": "_EleGiggle_",
+              "body": "So just use DisplayPort? You can connect it via USB-C as well, and it supports daisy chaining.",
+              "score": 157,
+              "created_utc": 1743981870.0,
+              "replies": [
+                {
+                  "id": "mls3has",
+                  "author": "Luckybuckets",
+                  "body": "Did you read the article? It has FASTER BANDWIDTH AND 480W POWER DELIVERY",
+                  "score": 253,
+                  "created_utc": 1743982293.0,
+                  "replies": [
+                    {
+                      "id": "mlsji2u",
+                      "author": "Affectionate-Memory4",
+                      "body": "That's for the type B cable. The type-c one is 96gbps and 240W.",
+                      "score": 116,
+                      "created_utc": 1743988381.0,
+                      "replies": [
+                        {
+                          "id": "mlso9lg",
+                          "author": "p_giguere1",
+                          "body": "Which is actually worse than Thunderbolt 5, which has been out since last year and also uses a USB-C connector. TB5 can do 120Gbps video and 240W power delivery.\n\nThere's also \"USB 4.0 Version 2\" that's around the corner. Will be similar to TB5, but cheaper and more widespread (similar to TB4 vs USB4).",
+                          "score": 142,
+                          "created_utc": 1743990265.0,
+                          "replies": [
+                            {
+                              "id": "mlucxyq",
+                              "author": "grumd",
+                              "body": "On a side note, USB still hasn't decided on a sane naming scheme",
+                              "score": 42,
+                              "created_utc": 1744022962.0,
+                              "replies": [
+                                {
+                                  "id": "mlv2018",
+                                  "author": "S4VN01",
+                                  "body": "They have, to consumers at least. Their new forward facing naming scheme is just USB + Speed.\n\n[New naming scheme](https://visiontek.com/blogs/blog/usb-is-changing-naming-conventions-again?srsltid=AfmBOopt8BcGJpQzBEAsUcL8Bab0PFx6jX4jRR6kwg_tUFojdMplK4mS)",
+                                  "score": 18,
+                                  "created_utc": 1744033654.0,
+                                  "replies": [
+                                    {
+                                      "id": "mlv5l0u",
+                                      "author": "grumd",
+                                      "body": "Hey, that looks great. Looking forward to seeing this actually becoming standard",
+                                      "score": 7,
+                                      "created_utc": 1744034849.0,
+                                      "replies": [
+                                        {
+                                          "id": "mlvmayn",
+                                          "author": "beren12",
+                                          "body": "So USB 20\u201310 X2? And USB 20\u201320\u00d71?",
+                                          "score": 1,
+                                          "created_utc": 1744040011.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "mlzz25y",
+                                          "author": "ITuser999",
+                                          "body": "Except that this doesn't include power delivery naming. So that has to be put on top I guess.",
+                                          "score": 1,
+                                          "created_utc": 1744097545.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mls4lhb",
+                      "author": "no6969el",
+                      "body": "Of course they didn't",
+                      "score": -8,
+                      "created_utc": 1743982699.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mls4x2i",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -17,
+                      "created_utc": 1743982816.0,
+                      "replies": [
+                        {
+                          "id": "mls6ndk",
+                          "author": "Luckybuckets",
+                          "body": "It already exists ITS CALLED USB-C",
+                          "score": 28,
+                          "created_utc": 1743983454.0,
+                          "replies": [
+                            {
+                              "id": "mlsb9au",
+                              "author": "pinkyepsilon",
+                              "body": "[this is where I say the next circuitous version of rewording the above HDMI/GPMI/DP/USBC comments]",
+                              "score": 8,
+                              "created_utc": 1743985208.0,
+                              "replies": [
+                                {
+                                  "id": "mlsbyi2",
+                                  "author": "akeean",
+                                  "body": "The new Chinese connector thing is *not* called USB-*C*?",
+                                  "score": 4,
+                                  "created_utc": 1743985473.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mlsap8a",
+                          "author": "TheCh0rt",
+                          "body": "melodic command piquant scary normal heavy childlike entertain tap tender\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                          "score": 14,
+                          "created_utc": 1743984997.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mm0m5lt",
+                  "author": "adamkex",
+                  "body": "For whatever reason lots of TVs just don't come with HDMI. I'm not an expert but there might be tech that's reliant on it?",
+                  "score": 1,
+                  "created_utc": 1744111561.0,
+                  "replies": [
+                    {
+                      "id": "mm0olie",
+                      "author": "_EleGiggle_",
+                      "body": "Really? My RTX 5080 came with 2x HDMI, 3x DisplayPort, and no USB-C.\n\nSo I don\u2019t see USB-C as a display standard.\n\nMy not that old PC monitors have USB-C in I think, as well as HDMI & DisplayPort.\n\nI personally use DisplayPort to USB-C cables at lot with my dock & laptop, especially if that\u2019s the only ports your laptop, and dock has.\n\nMy Samsung TV only has 4x HDMI but it\u2019s an older model. It has nothing else except an USB-A (not sure for what, as it\u2019s not USB-C), the port for cable TV, one for Ethernet, and optical audio.",
+                      "score": 1,
+                      "created_utc": 1744112676.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mlshmq8",
+              "author": "TingleyStorm",
+              "body": "I hate that.\n\nUSB-C should be the standard for data transfer and light power consumption.\n\nHDMI should be the standard for Video and ARC transfer.",
+              "score": 9,
+              "created_utc": 1743987635.0,
+              "replies": [
+                {
+                  "id": "mltwtjy",
+                  "author": "Kike328",
+                  "body": "hdmi shouldn\u2019t be anything, it\u2019s a paid standard",
+                  "score": 53,
+                  "created_utc": 1744012621.0,
+                  "replies": []
+                },
+                {
+                  "id": "mltj46a",
+                  "author": "mrMalloc",
+                  "body": "HDMI 2.1 can match the 8k@120 refresh rating.  \n\nBut Dp allow daisy chaining.  And \nDp2.0 supports 16k@60hz \n\nI would claim we need both standards.   (Both have new features in the pipeline)\nExample DP is Giotto be compatible usb in next gen.",
+                  "score": 17,
+                  "created_utc": 1744004347.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlt7oyj",
+                  "author": "thekevingreene",
+                  "body": "I\u2019m keeping my VGA cables in case they come back.",
+                  "score": 35,
+                  "created_utc": 1743998432.0,
+                  "replies": [
+                    {
+                      "id": "mlw9on0",
+                      "author": "ikediggety",
+                      "body": "Five wire or gtfo",
+                      "score": 4,
+                      "created_utc": 1744047174.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mlvmdkj",
+                      "author": "beren12",
+                      "body": "They are still here",
+                      "score": 2,
+                      "created_utc": 1744040033.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mltgqk2",
+                  "author": "Correct-Explorer-692",
+                  "body": "Hdmi should die in pain",
+                  "score": 33,
+                  "created_utc": 1744003014.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlt6i0q",
+              "author": "yeahdixon",
+              "body": "Always wondered why those cables were so pricey",
+              "score": 1,
+              "created_utc": 1743997867.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mls0gwq",
+          "author": "_not2na",
+          "body": "HDMI refuses to innovate unless it's on their terms and you pay them for every cable made. HDMI fucking sucks",
+          "score": 222,
+          "created_utc": 1743981201.0,
+          "replies": [
+            {
+              "id": "mls9fii",
+              "author": "neilm-cfc",
+              "body": "China about to make Western standards committees irrelevant, now that China is holding all the cards.",
+              "score": 96,
+              "created_utc": 1743984507.0,
+              "replies": [
+                {
+                  "id": "mlso0ey",
+                  "author": "None",
+                  "body": "The U.S. has an uncanny power to reject technology advancement. We have no high-speed rail, we have an appallingly awful system of healthcare finance, and we refuse to adopt the metric system. Oh, and we're dumping clean energy and returning to coal.\n\nIt fucking sucks but it is our reality rn.",
+                  "score": 65,
+                  "created_utc": 1743990163.0,
+                  "replies": [
+                    {
+                      "id": "mlsogeb",
+                      "author": "neilm-cfc",
+                      "body": "The US has just pissed off the rest of the world and shown that it cannot be trusted. The US may now find that it's former allies will be moving ahead without it influencing their decisions, and the US will be left to stew in it's own mess.",
+                      "score": 47,
+                      "created_utc": 1743990341.0,
+                      "replies": [
+                        {
+                          "id": "mltdj8m",
+                          "author": "A_Seiv_For_Kale",
+                          "body": "In 10-20 years when we look like Russia, half the country will be blaming Obama.\n\nAmericans really don't deserve the country they inherited from their betters.",
+                          "score": 4,
+                          "created_utc": 1744001308.0,
+                          "replies": [
+                            {
+                              "id": "mltfi8v",
+                              "author": "EpilepticPuberty",
+                              "body": "The betters being?",
+                              "score": 10,
+                              "created_utc": 1744002346.0,
+                              "replies": [
+                                {
+                                  "id": "mluw2xz",
+                                  "author": "ProfSquirtle",
+                                  "body": "I think he means the greatest generation who gave everything to boomers.",
+                                  "score": 10,
+                                  "created_utc": 1744031476.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mm06cqs",
+                                  "author": "lemonade_eyescream",
+                                  "body": "native_american_tear.gif",
+                                  "score": 2,
+                                  "created_utc": 1744102445.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mltdyr2",
+                      "author": "tlst9999",
+                      "body": "It has the uncanny power to reject whatever threatens the existing rich or whatever requires the existing rich to do extra work.\n\nNo HSR is good for the car industry. No healthcare finance is good for the insurance industry. No clean energy is good for the fossil fuels industry.\n\nThey made a taxi service tunnel loop in Vegas with a hundred Tesla taxis instead of you know, a train.\n\nBut what if those existing industries do R&D to adapt to the changing times? Don't be silly. That would require them to spend their money, which is unAmerican.",
+                      "score": 14,
+                      "created_utc": 1744001532.0,
+                      "replies": [
+                        {
+                          "id": "mltnazt",
+                          "author": "bremidon",
+                          "body": ">They made a taxi service tunnel loop in Vegas with a hundred Tesla taxis instead of you know, a train.\n\nAnd for the use case was less expensive, more efficient and with the idea to automate it.  You know, that R&D that you say you want to see.  Although I suspect it only counts if it is from someone you like.",
+                          "score": -9,
+                          "created_utc": 1744006838.0,
+                          "replies": [
+                            {
+                              "id": "mlunrgv",
+                              "author": "Friend_or_FoH",
+                              "body": "There\u2019s a monorail that runs directly over the route, and costs 1/2 as much for a single trip. But, you know, it doesn\u2019t have Hyper in the name.",
+                              "score": 1,
+                              "created_utc": 1744028120.0,
+                              "replies": [
+                                {
+                                  "id": "mlztiay",
+                                  "author": "bremidon",
+                                  "body": "Except that none of what you wrote is true.",
+                                  "score": 0,
+                                  "created_utc": 1744094195.0,
+                                  "replies": [
+                                    {
+                                      "id": "mlzvvih",
+                                      "author": "Friend_or_FoH",
+                                      "body": "I apologize. It is cheaper to ride the hyperloop from *checks notes* the convention center to also the convention center. It costs $4.50 to go to one of three hotels, which are all directly adjacent to the convention center. It costs $6 (it\u2019s on sale now for $5.50), to ride the monorail one way from the MGM to the SAHARA, which is 3.5 miles and almost the entire length of the functional Las Vegas Strip. \n\nAlso, if you stay at the encore and want to go from there to anywhere but LVCC Central Hall, you have to leave the hyperloop and walk to another station in Central Hall and get back on.\n\nSources: hyperloop website https://lvloop.com/tickets\n\nLV Monorail route map and fare table https://www.lvmonorail.com/route-map/",
+                                      "score": 1,
+                                      "created_utc": 1744095538.0,
+                                      "replies": [
+                                        {
+                                          "id": "mm1gcxz",
+                                          "author": "bremidon",
+                                          "body": "Too much snark.  I am no longer following what you are really trying to say.\n\nYou are comparing ticket prices?  Is it possible that the prices for the tunnel might just be because people find it cooler?  Or more convenient?  \n\nI'm also confused as to why you are comparing a system that is already there with one that was clearly built to purpose and still in construction.  Obviously Las Vegas felt that the monorail was not enough, otherwise they would not have started the bidding process for a new or expanded system. And Boring won the bidding process.  And obviously Las Vegas is quite happy with it, which is why the system keeps expanding.\n\nAnyway, I am not going to go into this with you much more, because it's already been done to death.  I will just refer you to [\\*here\\*](https://www.reddit.com/r/BoringCompany/comments/vfcli7/why_not_build_a_train_some_answers/) which already handles all your objections.",
+                                          "score": 1,
+                                          "created_utc": 1744122729.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mlue0h5",
+                      "author": "ToMorrowsEnd",
+                      "body": "It's easy to figure out why.    American government rejects anything that doesn't make someone money.  IF it's not a grift to make a single rich person richer then we dont want it.",
+                      "score": 0,
+                      "created_utc": 1744023501.0,
+                      "replies": [
+                        {
+                          "id": "mlvmkwq",
+                          "author": "beren12",
+                          "body": "Esp with the grifter in chief.",
+                          "score": 2,
+                          "created_utc": 1744040098.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mlt3958",
+                  "author": "OffbeatDrizzle",
+                  "body": "we're in trouble if they've got the suit to go with it",
+                  "score": 4,
+                  "created_utc": 1743996397.0,
+                  "replies": []
+                },
+                {
+                  "id": "mltn415",
+                  "author": "bremidon",
+                  "body": "\"...now that China is holding all the cards.\"\n\nLol!  Yeah.  Ok.  That sounds...totally not like a fantasy.",
+                  "score": 3,
+                  "created_utc": 1744006717.0,
+                  "replies": [
+                    {
+                      "id": "mlvx8hc",
+                      "author": "thegodfather0504",
+                      "body": "America is basically handing them all the remaining cards,buddy.",
+                      "score": 4,
+                      "created_utc": 1744043380.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mltki8f",
+              "author": "YyyyyyYyYy-_-",
+              "body": "You actually pay for every single port on any given device",
+              "score": 2,
+              "created_utc": 1744005156.0,
+              "replies": [
+                {
+                  "id": "mluedvu",
+                  "author": "_not2na",
+                  "body": "Displayport is license free",
+                  "score": 5,
+                  "created_utc": 1744023685.0,
+                  "replies": []
+                },
+                {
+                  "id": "mluee8z",
+                  "author": "_not2na",
+                  "body": "Displayport is license free",
+                  "score": 2,
+                  "created_utc": 1744023690.0,
+                  "replies": [
+                    {
+                      "id": "mluglud",
+                      "author": "YyyyyyYyYy-_-",
+                      "body": "You were talking about HDMI, weren't you? HDMI requires a license fee for any port on any device.",
+                      "score": 1,
+                      "created_utc": 1744024795.0,
+                      "replies": [
+                        {
+                          "id": "mlvt42f",
+                          "author": "Beznia",
+                          "body": "I think others misunderstood your reply - you were correcting about how you're paying for the HDMI ports, not the HDMI cables. I think others misunderstood your reply as you pay for every single port (of all types (VGA, DP, USB) and not just HDMI, which would be an incorrect statement.",
+                          "score": 1,
+                          "created_utc": 1744042117.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlskecn",
+          "author": "None",
+          "body": "HDMI refuses to let open source implementations of 2.1.",
+          "score": 43,
+          "created_utc": 1743988737.0,
+          "replies": []
+        },
+        {
+          "id": "mlt0gkj",
+          "author": "krectus",
+          "body": "Work with HDMI, lol. HDMI group doesn\u2019t want to work with anyone and are terrible. Hopefully this helps destroy them.",
+          "score": 40,
+          "created_utc": 1743995187.0,
+          "replies": [
+            {
+              "id": "mlue9ef",
+              "author": "ToMorrowsEnd",
+              "body": "Every wonder WHO is at the lead for that?  oh look Intel.  See how intel is dying in their key business processors...   you will understand why once you look at the key players of that group",
+              "score": 6,
+              "created_utc": 1744023623.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlu352f",
+          "author": "NuclearReactions",
+          "body": "That's a weird way of spelling display port.\n\nHDMI has nothing that DP doesn't besides some tv relatrd stuff, it requires licensing and it's a nightmare to work with in offices due to their lack of a latching system. HDMI needs to go",
+          "score": 9,
+          "created_utc": 1744016910.0,
+          "replies": [
+            {
+              "id": "mluf3oh",
+              "author": "ToMorrowsEnd",
+              "body": "lack of latching?  there are 2 standards for HDMI latching. \n\nThere is the spring clip that engages two holes at the top of the connector with the mech being disengaged when you pull on the connector body. and the single screw above the hdmi standard.\n\nEven on amazon you can find tons of Locking HDMI cables.\nhttps://www.amazon.com/locking-hdmi-cable/s?k=locking+hdmi+cable.",
+              "score": 1,
+              "created_utc": 1744024040.0,
+              "replies": [
+                {
+                  "id": "mlufwhg",
+                  "author": "NuclearReactions",
+                  "body": "That's cool i had no idea, I've never seen those, while dp always come with latching. All I've seen is 10 years worth of dumb ass Tickets \"my display is broken\" due to hdmi cabling issues lol\n\nAs long as it's not standard and won't get adopted by oem suppliers it won't help us.",
+                  "score": 2,
+                  "created_utc": 1744024444.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlspmrz",
+          "author": "Small_Editor_3693",
+          "body": "It uses USBC. This is just another protocol",
+          "score": 5,
+          "created_utc": 1743990810.0,
+          "replies": []
+        },
+        {
+          "id": "mls9p3u",
+          "author": "dradaeus",
+          "body": "It\u2019s now a matter of time before China leaves America in the dust when it comes to hardware standards!",
+          "score": 21,
+          "created_utc": 1743984611.0,
+          "replies": [
+            {
+              "id": "mlsd3jh",
+              "author": "Massive_Weiner",
+              "body": "They already are.",
+              "score": 15,
+              "created_utc": 1743985907.0,
+              "replies": [
+                {
+                  "id": "mltvbkl",
+                  "author": "TheBelgianDuck",
+                  "body": "Of course they are. But at this point they're smart enough to not brag about it. When they'll do the rest of the world will be so fucked.",
+                  "score": 4,
+                  "created_utc": 1744011644.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlsac7c",
+          "author": "LazerWolfe53",
+          "body": "Except this one cord would prevent the manufacture of two cords, one of which requires sophisticated electronics. Power delivery to a monitor over the communications cord would be awesome.",
+          "score": 6,
+          "created_utc": 1743984858.0,
+          "replies": [
+            {
+              "id": "mltdbj2",
+              "author": "tommyk1210",
+              "body": "To be clear: that already exists\u2026\n\nUSB Type C can also deliver power.",
+              "score": 5,
+              "created_utc": 1744001200.0,
+              "replies": [
+                {
+                  "id": "mluehy3",
+                  "author": "LazerWolfe53",
+                  "body": "Right, and it's AWESOME! THIS Chinese standard is almost 5 times as much power though.",
+                  "score": -1,
+                  "created_utc": 1744023740.0,
+                  "replies": [
+                    {
+                      "id": "mm3ihhz",
+                      "author": "p_giguere1",
+                      "body": "It's not, it maxes out at 240W when using a USB-C connector. So same as USB4 v2 and Thunderbolt 5.",
+                      "score": 0,
+                      "created_utc": 1744144357.0,
+                      "replies": [
+                        {
+                          "id": "mm3zm1u",
+                          "author": "LazerWolfe53",
+                          "body": "The title says this Chinese standard is 480W.",
+                          "score": 0,
+                          "created_utc": 1744149492.0,
+                          "replies": [
+                            {
+                              "id": "mm4bfsy",
+                              "author": "p_giguere1",
+                              "body": "Cool. And what does the article say?",
+                              "score": 0,
+                              "created_utc": 1744153477.0,
+                              "replies": [
+                                {
+                                  "id": "mm4qcp5",
+                                  "author": "LazerWolfe53",
+                                  "body": "\"GPMI Type-B beats all other cables, though, with its maximum bandwidth of 192 Gbps and power delivery of up to 480 watts\"",
+                                  "score": 1,
+                                  "created_utc": 1744158615.0,
+                                  "replies": [
+                                    {
+                                      "id": "mm4v7yl",
+                                      "author": "p_giguere1",
+                                      "body": "Yeah, so this is about the type B (proprietary) connector, while my comment was about the type C (standard) connector. This new format only has benefits if we trade an existing standard connector for a proprietary one, which I don't see happening.",
+                                      "score": 1,
+                                      "created_utc": 1744160326.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlu5iug",
+          "author": "Hithaeglir",
+          "body": "HDMI is dead end since it is controlled by media industry that does anything to protect copyrights.",
+          "score": 1,
+          "created_utc": 1744018519.0,
+          "replies": []
+        },
+        {
+          "id": "mludt3d",
+          "author": "ToMorrowsEnd",
+          "body": "Thunderbolt5 and usb4 is already coming very soon that does this except for the dumb levels of power.  This is a china company making a standard that nobody outside of china will support.",
+          "score": 1,
+          "created_utc": 1744023398.0,
+          "replies": []
+        },
+        {
+          "id": "mlt0gso",
+          "author": "Useuless",
+          "body": "Adapters? It's technically best to use the fastest standard and then just adapt it to slower ones of needed.",
+          "score": -2,
+          "created_utc": 1743995189.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mls0yin",
+      "author": "djshadesuk",
+      "body": "Obligatory XKCD: [https://xkcd.com/927/](https://xkcd.com/927/)",
+      "score": 252,
+      "created_utc": 1743981377.0,
+      "replies": [
+        {
+          "id": "mlspsfl",
+          "author": "Small_Editor_3693",
+          "body": "It\u2019s USB type C connector. This is just a new protocol. To end users they won\u2019t even notice",
+          "score": 109,
+          "created_utc": 1743990872.0,
+          "replies": [
+            {
+              "id": "mlsxebk",
+              "author": "Kylo_Rens_8pack",
+              "body": "I love how some of my usb-c cables work with some of my stuff but not others and they look exactly the same.",
+              "score": 118,
+              "created_utc": 1743993926.0,
+              "replies": [
+                {
+                  "id": "mltz7f6",
+                  "author": "Eruannster",
+                  "body": "Trying to search for what specific USB-C cables do is an absolute exercise in frustration. I was trying to find a longer replacement cable for a USB-C cable that connects to a screen (65 W power, data+video) and it's fucking impossible to figure out what cable supports what from reading electronics retailers descriptions alone. \n\n\nSo many cables are marked as just \"superfast USB-C cable!\" or some  random nonsense and then you have to go digging into the spec sheets and it turns out they support 30 W charging and USB 2.0 speeds and no video output. Aaaaarrrgh.",
+                  "score": 31,
+                  "created_utc": 1744014222.0,
+                  "replies": [
+                    {
+                      "id": "mlu934v",
+                      "author": "Hendlton",
+                      "body": "And then you have to replace a USB C port on one of your devices and it makes you want to just chuck it in the bin instead. Does the 2\u20ac port from AliExpress do the exact same thing as the 20\u20ac port I can find locally? Nobody knows!\n\nI truly hate USB C. The only good thing about it is that it can be plugged in either way. Yeah, with micro USB I went through several cables per phone, but I never had to replace a port on any of my devices.",
+                      "score": 10,
+                      "created_utc": 1744020748.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mlu93bw",
+                      "author": "MightyDickTwist",
+                      "body": "Like this? https://www.amazon.com/dp/B0DJ1CQ1M1",
+                      "score": 3,
+                      "created_utc": 1744020751.0,
+                      "replies": [
+                        {
+                          "id": "mlufthj",
+                          "author": "Eruannster",
+                          "body": "I mean sure, but I was looking for something I could just buy from an electronics retailer (essentially my equivalent of Best Buy or whatever) and use it today and not wait for shipping for who knows how long. The information on their pages is, let's put it mildly, lackluster. 95% of what they sell is phone charger cables and it's not easy to figure out what can actually charge my laptop and give me video+data.\n\n\nThat particular cable isn't available from my Amazon (Sweden) so the shipping is three weeks for that particular cable which is kind of bleh for a cable imo.",
+                          "score": 5,
+                          "created_utc": 1744024403.0,
+                          "replies": [
+                            {
+                              "id": "mlv88l4",
+                              "author": "MiaowaraShiro",
+                              "body": "Cables is one of those things you're better of going online for I think.\n\nDunno if it's the same in Sweden, but Best Buy-like retailers absolutely fuck you on cables in both cost and selection.",
+                              "score": 1,
+                              "created_utc": 1744035692.0,
+                              "replies": [
+                                {
+                                  "id": "mmchjq4",
+                                  "author": "coatimundislover",
+                                  "body": "Pro tip: Best Buy does stock cheap cables (at least display). You need to ask them to get them for you, cause they hide them away from the cable section and they will insist they don\u2019t have them and that the $30 hdmi cable gives better video. But they do, because they need to stock in store pickup that\u2019s competitive with online prices.",
+                                  "score": 2,
+                                  "created_utc": 1744265900.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mm17fsf",
+                                  "author": "Eruannster",
+                                  "body": "Yeah, but the problem is when you need some specific cable sort of *now* and you need to order it and it doesn't show up for a week... that's pretty annoying.\n\n\nAnd it shouldn't be this hard to find what I consider not a particularly strange cable.",
+                                  "score": 1,
+                                  "created_utc": 1744119875.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mlws3l5",
+                              "author": "Talaaty",
+                              "body": "You can usually buy a thunderbolt cable with the highest number after it you see and trust that it does what you need it to for situations like that",
+                              "score": 1,
+                              "created_utc": 1744052749.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mm06z20",
+                      "author": "lemonade_eyescream",
+                      "body": "Exactly. They need to standardize the versioning scheme as well. It's so fucking annoying, as you noted, to browse listings and they're ALL like \"super ultra mega fast USB-C!!1!\"",
+                      "score": 1,
+                      "created_utc": 1744102859.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mly9cul",
+                      "author": "Cakeking7878",
+                      "body": "And this is why I always liked having different connectors for every different thing. Boxes of cables be damned when I plug the right cable into the right connector, in it would just work without learning later this specific cable just can\u2019t do this important thing I need so back to the box of exactly alike but of slightly different quality cables",
+                      "score": 1,
+                      "created_utc": 1744070195.0,
+                      "replies": [
+                        {
+                          "id": "mlz9uue",
+                          "author": "djshadesuk",
+                          "body": ">Boxes of cables be damned\n\nI still have mine. Null modem cable, anyone? \ud83d\ude02",
+                          "score": 1,
+                          "created_utc": 1744084000.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mltl4f7",
+                  "author": "SarcasticOptimist",
+                  "body": "And there's so many usb 3, 3.1, and 3.2 things that totally are intuitive and consumer friendly. And some thunderbolts too.",
+                  "score": 6,
+                  "created_utc": 1744005517.0,
+                  "replies": [
+                    {
+                      "id": "mm8ldhp",
+                      "author": "BlinksTale",
+                      "body": "They started labeling the cables at both ends and that\u2019s all I need tbh, but this new standard has me worried things will just get more confusing again",
+                      "score": 2,
+                      "created_utc": 1744217064.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mlszlis",
+                  "author": "Small_Editor_3693",
+                  "body": "Stop buying cheap cables then. They are leaving out pins in the cable",
+                  "score": -27,
+                  "created_utc": 1743994824.0,
+                  "replies": [
+                    {
+                      "id": "mlt5le9",
+                      "author": "cat_prophecy",
+                      "body": "The point is: if someone hands you a \"USB c\" cable, you have zero clue as to its actual capabilities. It could barely charge your phone, or it could power your laptop. \n\nWhy does \"USB C\" have so many different protocols? Why can't it just be \"a USB c cable can *always* do \"X\"\"?",
+                      "score": 30,
+                      "created_utc": 1743997449.0,
+                      "replies": [
+                        {
+                          "id": "mlt6qx1",
+                          "author": "RedMoustache",
+                          "body": "At the very least part of the standard should be labels.",
+                          "score": 25,
+                          "created_utc": 1743997982.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mltdltg",
+                          "author": "mikenew02",
+                          "body": "Two reasons:\n\n1. New protocols with new capabilities are always being released.\n\n2. If it could always do x it would be very expensive. Would you want all cables to be priced at Thunderbolt 4 prices?\n\nThe alternative would be a new form factor, which would be worse.",
+                          "score": 10,
+                          "created_utc": 1744001345.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mlt2dmh",
+                      "author": "quajeraz-got-banned",
+                      "body": "Yeah, I'll just buy a $50 thunderbolt cable even if I only need one for charging, what a perfect solution.",
+                      "score": 8,
+                      "created_utc": 1743996013.0,
+                      "replies": [
+                        {
+                          "id": "mlt2ne6",
+                          "author": "Small_Editor_3693",
+                          "body": "Then buy a cheap cable. You can\u2019t have it both ways",
+                          "score": -11,
+                          "created_utc": 1743996133.0,
+                          "replies": [
+                            {
+                              "id": "mlt3dqu",
+                              "author": "OffbeatDrizzle",
+                              "body": "I love how some of my usb-c cables work with some of my stuff but not others and they look exactly the same.",
+                              "score": 27,
+                              "created_utc": 1743996453.0,
+                              "replies": [
+                                {
+                                  "id": "mlt6xy2",
+                                  "author": "Strict-Location6195",
+                                  "body": "Nicely done.",
+                                  "score": 3,
+                                  "created_utc": 1743998072.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mluqdzl",
+                                  "author": "SpaceChimera",
+                                  "body": "What happened to the color coding system? I know that C has a lot of capabilities and maybe you couldn't perfectly capture all the nuance with color, but at least let me know if it's a data cable!",
+                                  "score": 1,
+                                  "created_utc": 1744029233.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mlt6wmp",
+                                  "author": "lurkinglurkerwholurk",
+                                  "body": "Obligatory XKCD: https://xkcd.com/927/",
+                                  "score": 1,
+                                  "created_utc": 1743998055.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mlt7nxp",
+                                  "author": "Kylo_Rens_8pack",
+                                  "body": "Stop buying cheap cables then. They are leaving out pins in the cable.",
+                                  "score": 0,
+                                  "created_utc": 1743998418.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mltdll0",
+                      "author": "tommyk1210",
+                      "body": "You\u2019re missing the point here. We\u2019re now heading for a reality where you can have two USB type C cables that support different standards. That is simply confusing for consumers, and means your cable may very well not work for the device you\u2019re using it with - especially if these cables aren\u2019t backwards compatible with HDMI and DP (due to license fees)",
+                      "score": 4,
+                      "created_utc": 1744001342.0,
+                      "replies": [
+                        {
+                          "id": "mltegyp",
+                          "author": "namerankserial",
+                          "body": "We've been living in that reality for sometime.  And it's more than two different options. USB-C cables have several possible maximums for power and video/data bandwidth, right now.  This is just one more added to the list. I agree it sucks though.",
+                          "score": 2,
+                          "created_utc": 1744001797.0,
+                          "replies": [
+                            {
+                              "id": "mlteukr",
+                              "author": "tommyk1210",
+                              "body": "Sure, but for the most part your USB C cable will support video. With another standard means your GPU/monitor/TV may very well have no idea how to communicate over that cable, making it essentially eWaste.\n\nThe different bandwidth/power delivery maximums is annoying but rarely a deal breaker for the average consumer (yes, it impacts those looking for the latest and greatest but they tend to be more discerning anyway).",
+                              "score": 1,
+                              "created_utc": 1744001996.0,
+                              "replies": [
+                                {
+                                  "id": "mltf95j",
+                                  "author": "namerankserial",
+                                  "body": "I have several USB-C cables that don't support video.  Anything that comes with a charging brick usually doesn't in my experience.  I carry two (a high wattage power cable, and a video capable cable).",
+                                  "score": 1,
+                                  "created_utc": 1744002211.0,
+                                  "replies": [
+                                    {
+                                      "id": "mltfbih",
+                                      "author": "tommyk1210",
+                                      "body": "Ah yeah that\u2019s true, the thin ones tend not to. Alright, well now we have 3 types coming \ud83d\ude02",
+                                      "score": 2,
+                                      "created_utc": 1744002245.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mltiw3q",
+                      "author": "BorgDrone",
+                      "body": "They\u2019re not leaving out pins. USB-C cables that provide anything byt the most basic functionality have a little chip inside that tells the computer what the cable is capable of. This includes charging speed and alt-mode functions. It has nothing to do with the number of pins that are wired and everything with the quality of the cable itself. I.e. higher power delivery wattage requires thicker cables, faster speeds may require better shielding, etc.",
+                      "score": 0,
+                      "created_utc": 1744004220.0,
+                      "replies": [
+                        {
+                          "id": "mlu972l",
+                          "author": "Small_Editor_3693",
+                          "body": "The USB c cable that do power only only have a few pins",
+                          "score": 2,
+                          "created_utc": 1744020814.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mltblpo",
+              "author": "im_from_detroit",
+              "body": "Not exactly, the standard uses a GPMI-C which is a USB C connector, but if you want the full powered standard, there is a GPMI-B which will use a property connector. My guess is they're trying to piggy back off USB C to help transition people to their proprietary connector in the long run\n\nSource: I read the article in full",
+              "score": 16,
+              "created_utc": 1744000332.0,
+              "replies": [
+                {
+                  "id": "mlw39cl",
+                  "author": "RevolutionaryDrive5",
+                  "body": "\"Source: I read the article in full\" The absolute madlad",
+                  "score": 6,
+                  "created_utc": 1744045236.0,
+                  "replies": []
+                },
+                {
+                  "id": "mmchpep",
+                  "author": "coatimundislover",
+                  "body": "It might also just be really costly to put 480W through USB C\u2019s physical spec.",
+                  "score": 1,
+                  "created_utc": 1744265991.0,
+                  "replies": [
+                    {
+                      "id": "mmffhyg",
+                      "author": "im_from_detroit",
+                      "body": "That's not how cable standards work. Sacrificing control of the specs, like power availability, is the price to using a popular and widely available cable format.\n\nThe only thing that would be costly about putting 480W through USB C is the lawsuits when people's houses burn down because you didn't follow the standards all the other cable manufacturers use.",
+                      "score": 1,
+                      "created_utc": 1744308497.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mltda3t",
+              "author": "None",
+              "body": "And some of my chargers are \u201ctoo smart\u201d to charge my cheap usb c devices.  Gotta use a cheap dumb charger for cheap stuff.  I wish I could just have one fancy usb c charger for *everything*",
+              "score": 2,
+              "created_utc": 1744001180.0,
+              "replies": []
+            },
+            {
+              "id": "mltu5l7",
+              "author": "howardhus",
+              "body": "therefore destroying the standard as now a device looks like usbc but is maybe not\u2026.\n\nthe point of the \u201eu\u201c in usb is that you should not have to care. as long as it plugs it works.",
+              "score": 0,
+              "created_utc": 1744010864.0,
+              "replies": [
+                {
+                  "id": "mlu9d9f",
+                  "author": "Small_Editor_3693",
+                  "body": "It is USBc. That has nothing to do with the capabilities. You can have usb 2.0 connection over USBc",
+                  "score": 3,
+                  "created_utc": 1744020915.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlsqhuz",
+          "author": "Neo_Techni",
+          "body": "came to post this. Deleted my post cause you beat me to it and we don't want competing posts",
+          "score": -10,
+          "created_utc": 1743991151.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlshyhu",
+      "author": "tablepennywad",
+      "body": "How do you get a system to output 500w and signal on the same card? GPU is already 600w and another 200w-400w for the rest of the system, we gonna need 1500W PSes standard now.",
+      "score": 53,
+      "created_utc": 1743987764.0,
+      "replies": []
+    },
+    {
+      "id": "mm1435a",
+      "author": "trainbrain27",
+      "body": "Oh goody, another 'standard'.\n\nIt 'boasts' significantly more speed and power than Thunderbolt/USB4, but that requires a proprietary connector.  If it gets popular, it'll be folded into the One True Port and we'll get to guess what the C port actually supports.\n\nDon't get me wrong, it's still way better than a dozen different ports and 12x12 different adapters!\n\n|Standard|Bandwidth|Power Delivery|\n|:-|:-|:-|\n|DP 2.1 UHBR20|80 Gbps|No Power|\n|GPMI Type-B|192 Gbps|480W|\n|GPMI Type-C|96 Gbps|240W|\n|HDMI 2.1 FRL|48 Gbps|No Power|\n|Thunderbolt 4|40 Gbps|100W|\n|USB4|40 Gbps|240W|",
+      "score": 3,
+      "created_utc": 1744118711.0,
+      "replies": []
+    },
+    {
+      "id": "mmhwh9n",
+      "author": "Plastic_Apricot_3819",
+      "body": "can we just normalize usb c video thx",
+      "score": 3,
+      "created_utc": 1744337541.0,
+      "replies": []
+    },
+    {
+      "id": "mls7njt",
+      "author": "YYM7",
+      "body": "I am actually interested in the type-b part, as the current usb-type-c is just too susceptible to damage and are unnecessary small for anything except phone/tablet/ultra-thin-laptop. This will be, afaik, the only standard that carries all of data (PCIe?), video and power outside of usb-c.",
+      "score": 23,
+      "created_utc": 1743983831.0,
+      "replies": [
+        {
+          "id": "mlsva6w",
+          "author": "elsjpq",
+          "body": "It looks the same thickness as USB-C, just wider: https://videocardz.com/newz/chinas-general-purpose-media-interface-gpmi-set-to-deliver-up-to-192gb-of-bandwidth-and-480w-power-through-a-single-usb-cable\n\nThat's rather disappointing as I was hoping for a thicker connector to resist bending, like as thick as typical desktop connector like USB-A, DisplayPort, etc.",
+          "score": 9,
+          "created_utc": 1743993069.0,
+          "replies": [
+            {
+              "id": "mlt3jks",
+              "author": "Znuffie",
+              "body": "Thanks for that, I was curious on how that looks like.",
+              "score": 5,
+              "created_utc": 1743996526.0,
+              "replies": []
+            },
+            {
+              "id": "mlts1s5",
+              "author": "YYM7",
+              "body": "That's kinda disappointing. Though I still hope the additional width make it stronger.",
+              "score": 1,
+              "created_utc": 1744009511.0,
+              "replies": []
+            },
+            {
+              "id": "mlvn1kv",
+              "author": "beren12",
+              "body": "I do sometimes miss the bolt down connectors and steel frame screens",
+              "score": 1,
+              "created_utc": 1744040240.0,
+              "replies": []
+            },
+            {
+              "id": "mlywe88",
+              "author": "TenderfootGungi",
+              "body": "There are devices already artificually thick just for the USB-C connector. We will need a thinner connector, not thicker.",
+              "score": 1,
+              "created_utc": 1744078607.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlsfla4",
+          "author": "bakir1234",
+          "body": "Totally agree. Type-C connectors are too fragile for regular use and a pain to replace when damaged. Having a more robust connector that handles everything (data, video, power) would be a huge improvement. If GPMI delivers on durability while maintaining that feature set, it could be a solid alternative to USB-C for devices where size isn't the primary concern.",
+          "score": 11,
+          "created_utc": 1743986856.0,
+          "replies": [
+            {
+              "id": "mlt3p99",
+              "author": "Znuffie",
+              "body": "I have never broken a Type-c connector yet.\n\nSure, I have some cheap cables that are no longer properly charging, but never an actual receptacle.",
+              "score": 18,
+              "created_utc": 1743996595.0,
+              "replies": [
+                {
+                  "id": "mltryly",
+                  "author": "YYM7",
+                  "body": "I have. I guess everyone's mileage varies. But if you photograph/shoot videos, you will know how much mini HDMI port (which is very similar to usb-c) is hated for being fragile.",
+                  "score": 5,
+                  "created_utc": 1744009456.0,
+                  "replies": [
+                    {
+                      "id": "mlug66a",
+                      "author": "Shadow647",
+                      "body": "micro HDMI is even more terrible, just looking at it wrong can cause it to break",
+                      "score": 1,
+                      "created_utc": 1744024578.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mluace4",
+                  "author": "Hendlton",
+                  "body": "I'm the opposite. I've never had a cable fail, which is nice because they're so expensive, but I've had a couple ports fail. I liked it much better when all you had to replace was a 3\u20ac cable instead of having to open up your phone (or keyboard) and desolder a port.\n\nWhile we're on the topic, what is it with keyboards having removable cables these days? That's not necessary. It's just another thing to break.",
+                  "score": 2,
+                  "created_utc": 1744021491.0,
+                  "replies": [
+                    {
+                      "id": "mlzyvtn",
+                      "author": "fluffycats1",
+                      "body": "being able to swap to a nicer cable is very nice IMO",
+                      "score": 1,
+                      "created_utc": 1744097431.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlsffja",
+          "author": "2roK",
+          "body": "I fucking hate USB C because of this. I bought a huge drawing tablet/screen and it has the flimsiest USB C port. I already know this entire thing will be bricked in a few years because of how flimsy the USB port is and there is exactly one of them.",
+          "score": 0,
+          "created_utc": 1743986796.0,
+          "replies": [
+            {
+              "id": "mltdrt3",
+              "author": "mikenew02",
+              "body": "An electronics repair shop can easily replace a port. Takes half an hour, tops.",
+              "score": 4,
+              "created_utc": 1744001432.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlrxzfo",
+      "author": "sourceholder",
+      "body": "I don't understand the purpose of this.\n\nWhy not contribute extensions to HDMI / DisplayPort standard?  I'm sure these manufactures are already long established members of the existing standards.",
+      "score": 38,
+      "created_utc": 1743980308.0,
+      "replies": [
+        {
+          "id": "mls0jo5",
+          "author": "_not2na",
+          "body": "HDMI refuses to innovate unless it's on their terms and you pay them for every cable made. HDMI fucking sucks",
+          "score": 67,
+          "created_utc": 1743981229.0,
+          "replies": []
+        },
+        {
+          "id": "mlrygxb",
+          "author": "Magnusg",
+          "body": "Dude it's just USB C",
+          "score": 107,
+          "created_utc": 1743980483.0,
+          "replies": [
+            {
+              "id": "mls5dd3",
+              "author": "Excellent-Diamond270",
+              "body": "Kind of. It supports USB-C but only with half the speed and power. You need their bespoke port for the full speed and power.",
+              "score": 49,
+              "created_utc": 1743982982.0,
+              "replies": [
+                {
+                  "id": "mls7kym",
+                  "author": "Magnusg",
+                  "body": "yes. more connectors probably on that other port.",
+                  "score": 4,
+                  "created_utc": 1743983803.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlsehta",
+              "author": "Northern23",
+              "body": "Which version though? 2.0, 3.0, 3.1, 3.2, 4.0? Gen 1, 1x2, 2, 2x1, 2x2...? 5, 10, 20, 40 or 80Gbps?",
+              "score": 24,
+              "created_utc": 1743986439.0,
+              "replies": [
+                {
+                  "id": "mlskdvl",
+                  "author": "Magnusg",
+                  "body": "5 I guess. Faster than 4v2 more power...  It's a new PD standard basically",
+                  "score": 0,
+                  "created_utc": 1743988732.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlt3eik",
+              "author": "Znuffie",
+              "body": "I'm more interested in the \"type b\" connector they mentioned for 480W.\n\n\n...and the article has no screenshot of",
+              "score": 5,
+              "created_utc": 1743996463.0,
+              "replies": [
+                {
+                  "id": "mlt6cb3",
+                  "author": "Magnusg",
+                  "body": "vaporware magic",
+                  "score": 1,
+                  "created_utc": 1743997792.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlt0gdt",
+          "author": "andynator1000",
+          "body": "https://carnegieendowment.org/research/2021/10/three-takeaways-from-chinas-new-standards-strategy?lang=en",
+          "score": 3,
+          "created_utc": 1743995184.0,
+          "replies": []
+        },
+        {
+          "id": "mltahxh",
+          "author": "placidlakess",
+          "body": "HDMI/DisplayPort are both from American corporations which are entirely proprietary.\n\nI understand why china is doing this. What\u2019s stopping these companies installing some type of spying code?\n\nI already hate HDMI for having arbitrary limits to outputs and other shit to try and prevent piracy or other dumb shit.",
+          "score": 5,
+          "created_utc": 1743999786.0,
+          "replies": [
+            {
+              "id": "mltdzlg",
+              "author": "tommyk1210",
+              "body": "Does China spy on people? Sure.\n\nAre they going to install \u201cspy code\u201d into a passive cable? Unlikely. There\u2019s nowhere for that \u201ccode\u201d to run, unless they\u2019re also going to put chips in every cable. Then the tricky bit comes with deciphering 192GBPS of data.",
+              "score": 7,
+              "created_utc": 1744001545.0,
+              "replies": [
+                {
+                  "id": "mlunr51",
+                  "author": "DaRadioman",
+                  "body": "I mean to be fair there are chips in most modern USB cables. \nhttps://www.totalphase.com/blog/2020/10/what-is-e-marker-how-does-it-work/\n\nBut your point stands the level of sophistication from a capabilities id to some kind of eavesdropping is crazy high. You would need enough processing power to understand the signal in real time, some mechanism to exfiltrate that data once you siphoned it. Doable? Sure, but the cable would have a big bulge for all the needed hardware.",
+                  "score": 3,
+                  "created_utc": 1744028116.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlumlyz",
+              "author": "giritrobbins",
+              "body": "Isn't that because of patents mostly",
+              "score": 1,
+              "created_utc": 1744027611.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mluvgw8",
+          "author": "leaflock7",
+          "body": "HDMI is a forum with very specific goals from the companies in that forum. Need to remind the AMD open source f HDMI and high refresh rate?   \nSo HDMI would not be possible since others may not be ready to jump on that train or they will have losses.  \nDP being more open could be, but again this is a massive change on the workings , none of the 2 standards could easily adopted",
+          "score": 1,
+          "created_utc": 1744031241.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlsbfsd",
+      "author": "likewut",
+      "body": "A lot of people in here hate the idea. I think it could be a great addition. The physical size of USB connectors limits the amps it can transfer. Having a USB-C for small stuff, and GPMI for big stuff, would be awesome. Power your TV, charge your power tools, connect your storage array, etc, with more power and more bandwidth than USB-C can provide.\n\nRemember the 240 watt limit on USB-C is only for 48v output. I believe if you're sending 12v, it's limited to 60 watts. To go above that, your device probably needs a DC-to-DC converter, which is adds costs and reduces efficiency.\n\nI'd like it to be a bigger, more robust connector, ideally with an optional locking mechanism. That would be huge in the commercial AV space.",
+      "score": 13,
+      "created_utc": 1743985276.0,
+      "replies": [
+        {
+          "id": "mlsvo4a",
+          "author": "elsjpq",
+          "body": "It looks the same thickness as USB-C, just wider: https://videocardz.com/newz/chinas-general-purpose-media-interface-gpmi-set-to-deliver-up-to-192gb-of-bandwidth-and-480w-power-through-a-single-usb-cable\n\nThat's rather disappointing as I was hoping for a thicker connector to resist bending, like as thick as typical desktop connector like USB-A, DisplayPort, etc.",
+          "score": 7,
+          "created_utc": 1743993225.0,
+          "replies": [
+            {
+              "id": "mlt0tu4",
+              "author": "likewut",
+              "body": "The cable could still be thicker, just gets thin where it attaches to the device, possibly to support thinner devices.",
+              "score": 2,
+              "created_utc": 1743995343.0,
+              "replies": [
+                {
+                  "id": "mltasn2",
+                  "author": "elsjpq",
+                  "body": "Sorry, I meant connector not cable",
+                  "score": 1,
+                  "created_utc": 1743999932.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlsci1k",
+          "author": "akeean",
+          "body": "For pro grade stuff it would better just going optical fiber for signal and use copper only for some higher amp power delivery. Silicon photonics aren't that far off anymore and HDMI fiber adapters are already very cheap compared to high end cables.",
+          "score": 0,
+          "created_utc": 1743985680.0,
+          "replies": [
+            {
+              "id": "mlsd9vb",
+              "author": "likewut",
+              "body": "Like for devices near each other? Why bother with fiber? It's more fragile and more expensive.\n\n This is one cable vs two regardless.",
+              "score": 3,
+              "created_utc": 1743985975.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mltjsjo",
+      "author": "whatsasyria",
+      "body": "This is better then usb c how",
+      "score": 2,
+      "created_utc": 1744004741.0,
+      "replies": []
+    },
+    {
+      "id": "mlutysc",
+      "author": "Mithrandir2k16",
+      "body": "So instead of DisplayPort via USBC this'll be an alternative protocol? But still support all the USB stuff? Neat.",
+      "score": 2,
+      "created_utc": 1744030658.0,
+      "replies": []
+    },
+    {
+      "id": "mlvzyjh",
+      "author": "Inevitable_Long_8629",
+      "body": "Doesn\u2019t matter\u2026 probably won\u2019t happen in the US because of tariffs",
+      "score": 2,
+      "created_utc": 1744044235.0,
+      "replies": []
+    },
+    {
+      "id": "mm6alqt",
+      "author": "Calgrei",
+      "body": "I have designs for a 2tbps, 2kw cable, the connector is the same omnidirectional design as USB C, it is 1ft wide tho",
+      "score": 2,
+      "created_utc": 1744183272.0,
+      "replies": []
+    },
+    {
+      "id": "mm95zki",
+      "author": "unasyn",
+      "body": "And it looks exactly like every other goddamn hdmi cable",
+      "score": 2,
+      "created_utc": 1744222912.0,
+      "replies": []
+    },
+    {
+      "id": "mltxw56",
+      "author": "Nilmerdrigor",
+      "body": "Great, another plug.\n\n[https://xkcd.com/927/](https://xkcd.com/927/)",
+      "score": 4,
+      "created_utc": 1744013331.0,
+      "replies": []
+    },
+    {
+      "id": "mltfu1z",
+      "author": "zubchowski",
+      "body": "Oh great. More connector standards",
+      "score": 3,
+      "created_utc": 1744002525.0,
+      "replies": []
+    },
+    {
+      "id": "mlusgne",
+      "author": "MichaelDeets",
+      "body": "If they are free and open-source, then this is great. \n\nHDMI Forum is an awful company, who has a stranglehold over their standards.\n\nI try to use DisplayPort everywhere, but it's just not popular outside of monitors.",
+      "score": 2,
+      "created_utc": 1744030072.0,
+      "replies": []
+    },
+    {
+      "id": "mlrwedd",
+      "author": "gchaudh2",
+      "body": "With a hidden chip somewhere to send data back to Beijing or something. /s\n\nTo be fair, it will be interesting to see if western nations or other other nations not on good tersm with China actually adopt a tech like this. I dont see any benefit of further fragmentation of connectivity and peripherala. DP and HDMI are more than enough",
+      "score": 6,
+      "created_utc": 1743979738.0,
+      "replies": [
+        {
+          "id": "mls8o5p",
+          "author": "neilm-cfc",
+          "body": "Yeah because let's face it, the NSA would never do anything like that.",
+          "score": 11,
+          "created_utc": 1743984218.0,
+          "replies": [
+            {
+              "id": "mlsdmps",
+              "author": "Massive_Weiner",
+              "body": "You\u2019re not getting it, it\u2019s cool when *our* surveillance state does it.",
+              "score": 14,
+              "created_utc": 1743986112.0,
+              "replies": [
+                {
+                  "id": "mluhfyf",
+                  "author": "Songrot",
+                  "body": "USA is enemy of the west. Finally we are aware not to trust American companies and institutions",
+                  "score": 3,
+                  "created_utc": 1744025211.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mlun3wa",
+              "author": "gchaudh2",
+              "body": "I am not an American so idk what NSA does\u00a0",
+              "score": 1,
+              "created_utc": 1744027833.0,
+              "replies": [
+                {
+                  "id": "mluyg3u",
+                  "author": "neilm-cfc",
+                  "body": "Your don't need to be an American to be spied upon by the NSA, that's why all this relatively recent mud slinging at China is so hypocritical. The NSA has been including backdoors in products [for decades](https://www.tumblr.com/ethanheilman/70646748808/a-brief-history-of-nsa-backdoors).",
+                  "score": 3,
+                  "created_utc": 1744032365.0,
+                  "replies": [
+                    {
+                      "id": "mlwamlb",
+                      "author": "gchaudh2",
+                      "body": "Meh but I still wouldn\u2019t trust a government with no transparency than one with some degree of transparency. Both are terrible but one is worse.",
+                      "score": 0,
+                      "created_utc": 1744047452.0,
+                      "replies": [
+                        {
+                          "id": "mlwkg9k",
+                          "author": "neilm-cfc",
+                          "body": "About now, I actually feel less threatened by China than the Orange Baby in the White House and to be honest, I think that's probably the opinion of most of the rest of the world which is why America is now so cooked - Trump has burned through in a matter of months all of the goodwill that America has taken 75 years to foster as world Super power.\n\nBravo. Fucking bravo. \ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd37\u200d\u2642\ufe0f",
+                          "score": 1,
+                          "created_utc": 1744050402.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mlv9a8i",
+              "author": "TehRiddles",
+              "body": "Nobody said they wouldn't, but China are far more aggressive with it for sure.",
+              "score": 1,
+              "created_utc": 1744036015.0,
+              "replies": [
+                {
+                  "id": "mm1648z",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 3,
+                  "created_utc": 1744119425.0,
+                  "replies": [
+                    {
+                      "id": "mm1okpi",
+                      "author": "TehRiddles",
+                      "body": "I didn't say anything about size, I said that China are more aggressive with their surveillance. Also the very nature of the subject kind of makes it very difficult to accurately say who is larger anyway.",
+                      "score": 0,
+                      "created_utc": 1744125190.0,
+                      "replies": [
+                        {
+                          "id": "mm1qih9",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 3,
+                          "created_utc": 1744125765.0,
+                          "replies": [
+                            {
+                              "id": "mm1ywdh",
+                              "author": "TehRiddles",
+                              "body": "I'm questioning you now why you are so confident with that claim.\n\nThe very nature of spying is to not be seen. I shouldn't need to explain how proper spying is the stuff we don't know about. The more you know about the size of a spy network, the less effective it is. If you know more about the size of the US network than the Chinese one that doesn't tell you that the US is larger, it just means that the US is more widely known.\n\nEffective spying is like an iceberg where it looks small to unnoticeable on the surface but is massive below.\n\nThink of it this way. Say we know about 5 US spies and 1 Chinese spy. That doesn't mean that the US has a larger network if they have 5 spies we don't know about and China has 99.",
+                              "score": 0,
+                              "created_utc": 1744128247.0,
+                              "replies": [
+                                {
+                                  "id": "mm26d2b",
+                                  "author": "None",
+                                  "body": "[deleted]",
+                                  "score": 3,
+                                  "created_utc": 1744130484.0,
+                                  "replies": [
+                                    {
+                                      "id": "mm2a1k5",
+                                      "author": "TehRiddles",
+                                      "body": "China literally set up overseas police stations to control Chinese citizens, working covertly to essentially break the law of the lands they are in. They openly patrol the South Asian Sea threatening anyone in \"their territory\" that conveniently borders so close to the shorelines of so many other countries. The whole social credit system or whatever name you want to give it is based on keeping close surveillance of citizens.\n\n[China has 277 CCTV cameras per square kilometer compared to the 17 that the US has.](https://surfshark.com/surveillance-cities)\n\nThis of course is only the stuff in the open.",
+                                      "score": 2,
+                                      "created_utc": 1744131546.0,
+                                      "replies": [
+                                        {
+                                          "id": "mm2mgz4",
+                                          "author": "None",
+                                          "body": "[deleted]",
+                                          "score": 2,
+                                          "created_utc": 1744135039.0,
+                                          "replies": [
+                                            {
+                                              "id": "mm2o3gl",
+                                              "author": "TehRiddles",
+                                              "body": "Well it obviously isn't passive now, isn't it?",
+                                              "score": 2,
+                                              "created_utc": 1744135490.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mm3yvso",
+                                                  "author": "None",
+                                                  "body": "[deleted]",
+                                                  "score": 2,
+                                                  "created_utc": 1744149257.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mm40n08",
+                                                      "author": "TehRiddles",
+                                                      "body": "These are aggressive actions, how do I make this more obvious without directing you to the dictionary? Like do you not understand the implications there are in setting up an illegal secret police outpost in a country where you don't have jurisdiction in order to track citizens and keep an eye on their actions?",
+                                                      "score": 1,
+                                                      "created_utc": 1744149828.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "mm429wa",
+                                                          "author": "None",
+                                                          "body": "[deleted]",
+                                                          "score": 2,
+                                                          "created_utc": 1744150370.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "mm8o4pz",
+                                                              "author": "TehRiddles",
+                                                              "body": "I think you need to read your own question here. Do you even know what you're asking? I swear your disagreement seems to be not realising that the forest is the trees.",
+                                                              "score": 1,
+                                                              "created_utc": 1744217862.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "mm8qiwv",
+                                                                  "author": "None",
+                                                                  "body": "[deleted]",
+                                                                  "score": 1,
+                                                                  "created_utc": 1744218556.0,
+                                                                  "replies": [
+                                                                    {
+                                                                      "id": "mm8sojw",
+                                                                      "author": "TehRiddles",
+                                                                      "body": "My explanation was clear, you read it or we can end this go nowhere convo here.",
+                                                                      "score": 1,
+                                                                      "created_utc": 1744219177.0,
+                                                                      "replies": []
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "id": "mm4xwib",
+                                                          "author": "neilm-cfc",
+                                                          "body": "Right. And invading another country on a made up pretence isn't aggressive? You're actually trying to claim that China is more aggressive on the world stage than USA? How many countries has China gone to war with in the last, I dunno, 50 years? Less than America, by any chance?",
+                                                          "score": 2,
+                                                          "created_utc": 1744161278.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "mm8np1y",
+                                                              "author": "TehRiddles",
+                                                              "body": "> And invading another country on a made up pretence isn't aggressive?\n\nNobody said it wasn't, but we're talking about spying here.\n\n> You're actually trying to claim that China is more aggressive on the world stage than USA?\n\nI think you've lost track of what the subject is. We're talking about spying, not invading.\n\n> How many countries has China gone to war with in the last, I dunno, 50 years? Less than America, by any chance?\n\nYes, but that's besides the point and not really relevant. I never made any argument that America invade less than China, we're talking about their aggression with spying, surveillance and that general area.",
+                                                              "score": 1,
+                                                              "created_utc": 1744217736.0,
+                                                              "replies": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mlvac4j",
+                  "author": "neilm-cfc",
+                  "body": "Really? It's seems more like a double standard in the way it is reported. The NSA have been installing backdoors in products for decades yet it rarely gets talked about, I wonder why that is? \ud83e\udd14",
+                  "score": 1,
+                  "created_utc": 1744036345.0,
+                  "replies": [
+                    {
+                      "id": "mlvcxg7",
+                      "author": "TehRiddles",
+                      "body": "> but China are far more aggressive with it for sure",
+                      "score": 1,
+                      "created_utc": 1744037152.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mls5orr",
+          "author": "None",
+          "body": "[removed]",
+          "score": -8,
+          "created_utc": 1743983098.0,
+          "replies": [
+            {
+              "id": "mls6ia1",
+              "author": "iAtty",
+              "body": "First, he indicated he was being sarcastic. Second, there is evidence of malicious design in some cheaper products coming from China. Firewalls, security cameras, etc. I\u2019m not sure if it\u2019s a state run thing (doubt it) or just cheap manufactures exploiting consumers to offset low prices and sell data. It\u2019s not paranoia or racism, imo.",
+              "score": 1,
+              "created_utc": 1743983402.0,
+              "replies": [
+                {
+                  "id": "mlsn28x",
+                  "author": "dweakz",
+                  "body": "oh no because NSA would never do this and its only china lol",
+                  "score": 5,
+                  "created_utc": 1743989792.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlt346g",
+                  "author": "itsaride",
+                  "body": "> sell data\n\nWhat's more likely is easily abused backdoors which would be useful in time of war but not actively abused by the state till then but still, those backdoors that can be discovered in peacetime by bad actors. Cameras and other network devices should be put onto VLANs and blocked from accessing the internet..but even then, a lot of domestic routers are made in China.",
+                  "score": 2,
+                  "created_utc": 1743996337.0,
+                  "replies": []
+                },
+                {
+                  "id": "mls6y8t",
+                  "author": "None",
+                  "body": "Occam\u2019s razor.\n\nCheap prices equals cheap / bad designs.",
+                  "score": -1,
+                  "created_utc": 1743983566.0,
+                  "replies": [
+                    {
+                      "id": "mlsa852",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 1,
+                      "created_utc": 1743984814.0,
+                      "replies": [
+                        {
+                          "id": "mlslqmb",
+                          "author": "Fredasa",
+                          "body": "Still waiting for bro to respond to this.  I was letting him cook.",
+                          "score": 2,
+                          "created_utc": 1743989266.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlswzy7",
+      "author": "pixel_of_moral_decay",
+      "body": "No chance.\n\nNo European companies in the patent pool means no chance you\u2019d be allowed to introduce that to the marketplace. \n\n You\u2019ll need to stick with existing standards or let a few European companies into the pool.\n\nThis is untimely the cost of introducing tech now. You need to partner with a company who will be paying taxes in the EU if you want to be allowed into that market.",
+      "score": 4,
+      "created_utc": 1743993765.0,
+      "replies": [
+        {
+          "id": "mltv4yj",
+          "author": "hacktheself",
+          "body": "gods forbid a market of a tenth of the world\u2019s population with labor and safety standards get a say",
+          "score": 15,
+          "created_utc": 1744011523.0,
+          "replies": [
+            {
+              "id": "mluo4e4",
+              "author": "pixel_of_moral_decay",
+              "body": "It\u2019s not about say, or safety it\u2019s about profit.\n\nWe could have license free standards for all this stuff. China wanted license free alternatives to HDMI and USB.\n\nThe EU saw that as a threat to easy money, and now regulates standards.",
+              "score": 1,
+              "created_utc": 1744028275.0,
+              "replies": [
+                {
+                  "id": "mlvgfd3",
+                  "author": "ImFromBosstown",
+                  "body": "That's why my company avoids the EU like the plague and we're not the only one. And no we're not missing lost opportunity.",
+                  "score": 2,
+                  "created_utc": 1744038202.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlywmm2",
+          "author": "TenderfootGungi",
+          "body": "The EU is not that many people.",
+          "score": 1,
+          "created_utc": 1744078695.0,
+          "replies": [
+            {
+              "id": "mlz1fq9",
+              "author": "pixel_of_moral_decay",
+              "body": "But it\u2019s a lot of financial power due to wealth",
+              "score": 1,
+              "created_utc": 1744080539.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mluipm4",
+          "author": "TheUncleOfAllUncles",
+          "body": "This is for China. They're moving forward. They don't give a fuck about shitholes like the EU or the US. They'll leave 'em in the fucking dust while they jump light years ahead.\n\nEnjoy your hdmi cables.",
+          "score": 0,
+          "created_utc": 1744025826.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mluiabj",
+      "author": "imanoobee",
+      "body": "I'll buy something new and powerful. We need to progress.",
+      "score": 3,
+      "created_utc": 1744025623.0,
+      "replies": []
+    },
+    {
+      "id": "mlscjep",
+      "author": "Mehhish",
+      "body": "As long as it uses the same form factor as another cable that I already use, I'm okay with it.",
+      "score": 2,
+      "created_utc": 1743985695.0,
+      "replies": [
+        {
+          "id": "mlseive",
+          "author": "kernpanic",
+          "body": "I'm not.  I like different form factors showing me which cables and connectors i can use.  Dig through a pile of cables, and i know the vga cable can be used for vga.\n\nUsb-c? Does it support pd? Is it high speed? Is the connector? Suddenly cables will plug in, but not actually work.",
+          "score": 6,
+          "created_utc": 1743986450.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mltnhe4",
+      "author": "ChiefTestPilot87",
+      "body": "Does it melt like 12vHipwr",
+      "score": 1,
+      "created_utc": 1744006944.0,
+      "replies": []
+    },
+    {
+      "id": "mltnzm7",
+      "author": "smartone2000",
+      "body": "But Ukraine is",
+      "score": 1,
+      "created_utc": 1744007257.0,
+      "replies": []
+    },
+    {
+      "id": "mltsluj",
+      "author": "Uncle-Badtouch",
+      "body": "Average people already can't tell the difference between HDMI and DP. Sure let's add more cables",
+      "score": 1,
+      "created_utc": 1744009858.0,
+      "replies": []
+    },
+    {
+      "id": "mltud6o",
+      "author": "Plank_With_A_Nail_In",
+      "body": "So basically USB C 2.0 but with a more robust connector.",
+      "score": 1,
+      "created_utc": 1744011003.0,
+      "replies": []
+    },
+    {
+      "id": "mlu33ht",
+      "author": "SmallIslandBrother",
+      "body": "That\u2019s honestly great performance, 96 gigs with a usb-c interface is appealing. Wonder if this will catch on in the next decade or not.",
+      "score": 1,
+      "created_utc": 1744016882.0,
+      "replies": []
+    },
+    {
+      "id": "mlu5zgj",
+      "author": "HammerTh_1701",
+      "body": "It's just another USB-C alt mode with even more expensive cables to hit the data rate and power targets.",
+      "score": 1,
+      "created_utc": 1744018819.0,
+      "replies": []
+    },
+    {
+      "id": "mlucor0",
+      "author": "ToMorrowsEnd",
+      "body": "Great more connector fragmentation.  Just support HDBaseT 8K standard and use a $0.12 easy to terminate connector and cat7a.",
+      "score": 1,
+      "created_utc": 1744022822.0,
+      "replies": []
+    },
+    {
+      "id": "mluqp7g",
+      "author": "TemperateStone",
+      "body": "This sounds like something that has probably been thought about before but not done for good reasons. But when did that ever stop China?",
+      "score": 1,
+      "created_utc": 1744029366.0,
+      "replies": []
+    },
+    {
+      "id": "mluruwt",
+      "author": "Firecracker048",
+      "body": "So theyve announced it but have not provided any true specs or pictures of said cable?\n\nAlso would just modifying DP be better?",
+      "score": 1,
+      "created_utc": 1744029833.0,
+      "replies": []
+    },
+    {
+      "id": "mluwlte",
+      "author": "Mental5tate",
+      "body": "China having Sony moment\u2026.",
+      "score": 1,
+      "created_utc": 1744031677.0,
+      "replies": []
+    },
+    {
+      "id": "mlvfx1d",
+      "author": "festiveSpeedoGuy24",
+      "body": "The ghost of ADC lives with us.",
+      "score": 1,
+      "created_utc": 1744038049.0,
+      "replies": []
+    },
+    {
+      "id": "mlvyjr6",
+      "author": "scalyblue",
+      "body": "https://xkcd.com/927/",
+      "score": 1,
+      "created_utc": 1744043794.0,
+      "replies": []
+    },
+    {
+      "id": "mlw4lp4",
+      "author": "fatfuckindoinkers",
+      "body": "xkcd moment",
+      "score": 1,
+      "created_utc": 1744045649.0,
+      "replies": []
+    },
+    {
+      "id": "mlwg1ng",
+      "author": "johnnyLochs",
+      "body": "Hmmm",
+      "score": 1,
+      "created_utc": 1744049056.0,
+      "replies": []
+    },
+    {
+      "id": "mlybm2e",
+      "author": "chirpz88",
+      "body": "Correct.  It's not a realistic everyday product that's going to replace docking stations.",
+      "score": 1,
+      "created_utc": 1744071012.0,
+      "replies": []
+    },
+    {
+      "id": "mlza6yg",
+      "author": "EatsAlotOfBread",
+      "body": "I'm sure the newest 6000-euro-after-tarrifs graphics\u00a0cards/space heaters will be able to take full advantage of this.",
+      "score": 1,
+      "created_utc": 1744084147.0,
+      "replies": []
+    },
+    {
+      "id": "mm24eyi",
+      "author": "Jenetyk",
+      "body": "How shielded is the data signal from the power signal?",
+      "score": 1,
+      "created_utc": 1744129901.0,
+      "replies": []
+    },
+    {
+      "id": "mm2h18j",
+      "author": "Supermkcay",
+      "body": "Interesting",
+      "score": 1,
+      "created_utc": 1744133546.0,
+      "replies": []
+    },
+    {
+      "id": "mm4z8st",
+      "author": "goldaxis",
+      "body": "Gradually, they are overtaking the US in tech.",
+      "score": 1,
+      "created_utc": 1744161754.0,
+      "replies": []
+    },
+    {
+      "id": "mm6hi6e",
+      "author": "IdontneedtoBonreddit",
+      "body": "Great! I hope it catches on!  I love buying new cables and equipment.... I hope they have some baked in DRM and other restrictions so I can spend even more!",
+      "score": 1,
+      "created_utc": 1744187773.0,
+      "replies": []
+    },
+    {
+      "id": "mmdkvfq",
+      "author": "SniperDuty",
+      "body": "Need this. Will it spy on my 5090?",
+      "score": 1,
+      "created_utc": 1744287933.0,
+      "replies": []
+    },
+    {
+      "id": "mmhpxge",
+      "author": "StupendousMalice",
+      "body": "What's the use case for pushing 480 watts through a display cable?",
+      "score": 1,
+      "created_utc": 1744335090.0,
+      "replies": []
+    },
+    {
+      "id": "mltip8k",
+      "author": "SubstantialSir696",
+      "body": "They are overtaking the world.",
+      "score": 1,
+      "created_utc": 1744004111.0,
+      "replies": [
+        {
+          "id": "mltnfxi",
+          "author": "bremidon",
+          "body": "Jesus.  No they are not.  People are so damn weird.",
+          "score": -1,
+          "created_utc": 1744006919.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlub5ic",
+      "author": "stromm",
+      "body": "Can\u2019t inject malware without increased bandwidth\u2026",
+      "score": 1,
+      "created_utc": 1744021959.0,
+      "replies": []
+    },
+    {
+      "id": "mlvw8ju",
+      "author": "x42f2039",
+      "body": "With the added bonus of bursting into flame and burning your house down",
+      "score": 1,
+      "created_utc": 1744043077.0,
+      "replies": []
+    },
+    {
+      "id": "mlsoaou",
+      "author": "a_o",
+      "body": "\"who needs cables anymore when all content is available via paid monthly subscription and streamed over wifi directly to your device?\"",
+      "score": 1,
+      "created_utc": 1743990278.0,
+      "replies": []
+    },
+    {
+      "id": "mlt79e9",
+      "author": "RadlEonk",
+      "body": "Will this one had ads too?",
+      "score": 1,
+      "created_utc": 1743998224.0,
+      "replies": []
+    },
+    {
+      "id": "mlt8d7a",
+      "author": "blichterman",
+      "body": "Can\u2019t wait to buy all new cables to replace shit I already have",
+      "score": 1,
+      "created_utc": 1743998752.0,
+      "replies": []
+    },
+    {
+      "id": "mlw34pl",
+      "author": "None",
+      "body": "Turns into a VGA with upgrades",
+      "score": 1,
+      "created_utc": 1744045196.0,
+      "replies": []
+    },
+    {
+      "id": "mlskgxu",
+      "author": "HansBooby",
+      "body": "with free \u2018virus via cable\u2122 \u2018 software distribution functionality",
+      "score": -3,
+      "created_utc": 1743988765.0,
+      "replies": []
+    },
+    {
+      "id": "mlsgndo",
+      "author": "WeldAE",
+      "body": "This isn't engineerng, this is just turning everything up to 11.  Just because it can deliever 480w, doesn't mean you want anything to.  This just causes confusion as to what the heck any given version of this does.",
+      "score": 1,
+      "created_utc": 1743987259.0,
+      "replies": []
+    },
+    {
+      "id": "mlrydn3",
+      "author": "Magnusg",
+      "body": "So they gave USB C a new name and tried to make a proprietary connection for it and claim it's a new invention? \n\n\nClassic China? Look at our deepseek which totally wasn't trained on other ai's data sets. We invented it for $1 with a quarter of the people and research all by ourselves.",
+      "score": -26,
+      "created_utc": 1743980450.0,
+      "replies": [
+        {
+          "id": "mls002r",
+          "author": "Themasterofcomedy209",
+          "body": "Just wait until you find out what other ai companies used for training data lmao",
+          "score": 26,
+          "created_utc": 1743981034.0,
+          "replies": []
+        },
+        {
+          "id": "mls4txr",
+          "author": "Alphalcon",
+          "body": "USB C is just a connector standard. This is a protocol, like with HDMI, DisplayPort and Thunderbolt. You can use USB C with any of those protocols, but they also often have their own native connectors which then get conflated with the protocol.",
+          "score": 10,
+          "created_utc": 1743982784.0,
+          "replies": [
+            {
+              "id": "mls6i7m",
+              "author": "Magnusg",
+              "body": "From the original announcement on HKEPC:  \n\n\n\"\u00a0The Type-C version is compatible with the existing USB Type-C interface and can support up to 96Gbps data transmission and 240W power transmission.\u00a0\"  \n  \n\"Currently, the GPMI Type-C interface has obtained the approval of the USB Association, so the GPMI Type-C interface is compatible with the USB Type-C ecosystem.\"\n\nThe GPMI seems like they changed very little... , basically structured in the same way, likely with more connection points to increase data and power.",
+              "score": -6,
+              "created_utc": 1743983401.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mls4t79",
+          "author": "no6969el",
+          "body": "Usb-C is just the connector typeand it's not the technology underneath.  \n\nThat's why there's high transport data throughput USBCs and then there's high power throughput usbcs",
+          "score": 4,
+          "created_utc": 1743982776.0,
+          "replies": [
+            {
+              "id": "mls5ajb",
+              "author": "Magnusg",
+              "body": "but they didnt change the tech underneath, they said its compatible with usbc and just has more power and throughput. that's what im saying.",
+              "score": -1,
+              "created_utc": 1743982953.0,
+              "replies": [
+                {
+                  "id": "mls5m0d",
+                  "author": "no6969el",
+                  "body": "Then how does it have more power and throughput? USBC is just a connector, if they're using any form of normal conductor it's going to also be a USBC cable. But often high throughput power charging USBC cables don't work with every single phone because they don't require as much throughput. So just because the connector connects doesn't mean that it's always going to be compatible. That's my point. However they organize the cables inside of that USBC Is different than another cable that charges your phone. \n\nI'm more knowledgeable about this than normal because I recently got a whole bunch of different USBC cables and tested them out with all my different devices so that I wasn't wasting any port that could do either faster or higher volume charging.",
+                  "score": 5,
+                  "created_utc": 1743983069.0,
+                  "replies": [
+                    {
+                      "id": "mls7g9c",
+                      "author": "Magnusg",
+                      "body": "ok, a PD cable will work with all phones, it wont give rapid charging to a phone which cant communicate with the PD device at the other end. That's not a function of the cable that's a function of the device at either side of the cable. \n\nWhat im saying is that the cable is probably not remarkable, they probably added more connection points but didn't change the communication standards at all, didn't route anything in a new way otherwise it shouldnt work seemlessly with USB standards off the rip. \n\nIn essence the best way to describe it is now a USB cable that supports GPMI not a GPMI Type C cable. \n\nThe same as there are USB cables with PD.  a standard of USB 4 is to by default support PD so likely a standard of USB 5 is going to by default support GPMI.  \n\n  \nI just think its pretty much silly to say, 'oh, here's brand new tech.'",
+                      "score": 1,
+                      "created_utc": 1743983755.0,
+                      "replies": [
+                        {
+                          "id": "mlscgog",
+                          "author": "no6969el",
+                          "body": "Yeah I got you now that you explained yourself there. I guess they figure if they claim it as a standard or the chance that it actually could become that. \n\nGuess I need to go buy another cable to test LOL.",
+                          "score": 1,
+                          "created_utc": 1743985666.0,
+                          "replies": [
+                            {
+                              "id": "mlsef0u",
+                              "author": "Magnusg",
+                              "body": "Yeah I was being reductive before... \n\nPart of that is my familiarity with the technology having worked in the display, technology field and home theater, this whole announcement strikes me as...   Overly aggrandizing lol",
+                              "score": 1,
+                              "created_utc": 1743986409.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mls1n4z",
+          "author": "VietOne",
+          "body": "So the same thing all AI companies have done so far, train on other people's data and claim it's a new invention.",
+          "score": 8,
+          "created_utc": 1743981624.0,
+          "replies": [
+            {
+              "id": "mls29yv",
+              "author": "Magnusg",
+              "body": "yes but like, this claim is more similar to claiming they invented something new im no defender of AI but this is silly, 'oh look we took an existing standard and added a new connection point with better power and throughput.\"\n\n\"We invented something.\"\n\nAt least AI says\n\n\"Hey we stole all your data and now have a tool that approximates what is usually done when you do x y or z.\"",
+              "score": -12,
+              "created_utc": 1743981857.0,
+              "replies": [
+                {
+                  "id": "mls40y1",
+                  "author": "VietOne",
+                  "body": "Other than the original ML models, all subsequent models are just taking the existing standard, adding a few more improvements, and then releasing the improved model.\n\n\nLarge Language Models are just that, doesn't matter who released it at this point. The only reason they are getting larger is because the hardware is making it possible to do so.\n\n\nAnyone who you could claim DeepSeek copied it wouldn't take much effort to show they also copied.",
+                  "score": 3,
+                  "created_utc": 1743982491.0,
+                  "replies": [
+                    {
+                      "id": "mls4yfn",
+                      "author": "Magnusg",
+                      "body": "i dont even know what point you are trying to make. we are saying the same goddamn thing the difference is whenever news comes from china about some tech they say they've invented something new with half the people on a wing and a prayer.",
+                      "score": -2,
+                      "created_utc": 1743982829.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mls140i",
+          "author": "HUMMEL_at_the_5_4eva",
+          "body": "Low key though this will be Chinas response to the tariffs. You think IP infringement is bad now - get ready for ultra weaponised IP theft targeting US tech.",
+          "score": 2,
+          "created_utc": 1743981431.0,
+          "replies": [
+            {
+              "id": "mls6qg7",
+              "author": "xkegsx",
+              "body": "They better do everyone and everything all at once because no one will ever use China again if they do that.\u00a0",
+              "score": -3,
+              "created_utc": 1743983485.0,
+              "replies": [
+                {
+                  "id": "mls9z2y",
+                  "author": "neilm-cfc",
+                  "body": ">because no one will ever use China again if they do that.\u00a0\n\nChina is calling the shots, the US is cooked and is now just an isolationist backwater.",
+                  "score": 0,
+                  "created_utc": 1743984716.0,
+                  "replies": [
+                    {
+                      "id": "mlsatni",
+                      "author": "xkegsx",
+                      "body": "It's not about USA vs China with regard to IP. If China starts making carbon copies of everything they produce for companies from other countries no one will continue to use them. You'd have no choice but to not use China.",
+                      "score": -1,
+                      "created_utc": 1743985044.0,
+                      "replies": [
+                        {
+                          "id": "mlsb8hg",
+                          "author": "neilm-cfc",
+                          "body": "They're just setting the pace. There's nothing illegal about this new interface, it's just got nothing to do with the Western companies and China is going this alone. The West can ignore it or get onboard. If the US objects, they can go do one because they're now a lot less relevant and important than they were 3 months ago.",
+                          "score": 2,
+                          "created_utc": 1743985200.0,
+                          "replies": [
+                            {
+                              "id": "mlsc6pi",
+                              "author": "xkegsx",
+                              "body": "You've talked about two different things than what I'm talking about in both your replies. I'm responding to someone else mentioning China's next move is to steal everyone's IP. I'm not talking about the connector and I'm not talking about whether China or the USA is more powerful.",
+                              "score": 0,
+                              "created_utc": 1743985560.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlsebf2",
+      "author": "0r0B0t0",
+      "body": "Does it support drm? It\u2019s a dead standard if 4K Netflix doesn\u2019t work.",
+      "score": 0,
+      "created_utc": 1743986371.0,
+      "replies": [
+        {
+          "id": "mltvx59",
+          "author": "None",
+          "body": "You're paying for Netflix? L take. Either buy the physical media or Pirate it and support the creators directly some other way.",
+          "score": 0,
+          "created_utc": 1744012033.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlsazni",
+      "author": "kalowbee",
+      "body": "The reason is if they ever ban the Chinese for using DP/HDMI Standard, their own standard will be a backup don\u2019t say it will never happen they already ban Huawei from using google play services even tho is a open source",
+      "score": -1,
+      "created_utc": 1743985108.0,
+      "replies": [
+        {
+          "id": "mlseyyq",
+          "author": "RenoMD",
+          "body": "Google Play Services isn't open source, it's proprietary.  The base Android is open source",
+          "score": 9,
+          "created_utc": 1743986620.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mls4lla",
+      "author": "lifestop",
+      "body": "This sounds amazing! It's a straight upgrade to all existing cables. Finally, maybe I can get away from display screen compression. So annoying when alt-tabbing!",
+      "score": -4,
+      "created_utc": 1743982700.0,
+      "replies": []
+    },
+    {
+      "id": "mlzseiy",
+      "author": "Arduou",
+      "body": "Upspeced Chinese stuff. I found the dividing by 4 is a  relatively sound safety factor for AliExpress level quality.",
+      "score": 0,
+      "created_utc": 1744093597.0,
+      "replies": []
+    },
+    {
+      "id": "mlt918d",
+      "author": "Semen_K",
+      "body": "it can power your monitor AND steal your data! Buy now!",
+      "score": -3,
+      "created_utc": 1743999073.0,
+      "replies": []
+    },
+    {
+      "id": "mlrw162",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -18,
+      "created_utc": 1743979607.0,
+      "replies": [
+        {
+          "id": "mlry0ko",
+          "author": "Musicman1972",
+          "body": "You don't think they're discussing trump in china?",
+          "score": 3,
+          "created_utc": 1743980319.0,
+          "replies": [
+            {
+              "id": "mlrz11w",
+              "author": "Harley2280",
+              "body": "I'm sure they are. They're probably celebrating how Trump has helped them destroy America as an economic superpower.",
+              "score": 2,
+              "created_utc": 1743980686.0,
+              "replies": []
+            },
+            {
+              "id": "mls2yvo",
+              "author": "VietOne",
+              "body": "Not on the same way, China is making moves to replace the US as the economic center of the world. They already were in prime position simply due to the amount of outsourced manufacturing in China has established all the logistics leading to and from China.\n\n\nDue to their large population of people who are buying more and more, China is in the best position of all global powers to replace the US.\n\n\nAll Trump has done and is doing is making it that much easier for China to negotiate and establish trade relations as Trumps government is now more volatile and risky than Chinas government.",
+              "score": 1,
+              "created_utc": 1743982108.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mltiinc",
+      "author": "ilovefacebook",
+      "body": "tariffs lol",
+      "score": 0,
+      "created_utc": 1744004007.0,
+      "replies": []
+    },
+    {
+      "id": "mluy1ee",
+      "author": "None",
+      "body": "I know I\u2019m getting old when things like this make me mad. At least  usb c is here to stay\u2026right?",
+      "score": 0,
+      "created_utc": 1744032212.0,
+      "replies": []
+    },
+    {
+      "id": "mm1bcgl",
+      "author": "Mason_Miami",
+      "body": "400 watts will require 8 gauge cable and pin connection and I'm not seeing it in the photo. China probably invented a good way to burn down someone's house.",
+      "score": 0,
+      "created_utc": 1744121151.0,
+      "replies": []
+    },
+    {
+      "id": "mlt29qy",
+      "author": "Melodic-Comb9076",
+      "body": "i\u2019m sure it\u2019ll have a microchip that\u2019ll steal all your info and the life out of you.",
+      "score": -1,
+      "created_utc": 1743995966.0,
+      "replies": []
+    },
+    {
+      "id": "mls1idu",
+      "author": "ObviouslyTriggered",
+      "body": "Great standard but unfortunately it cannot display certain bears and squares.",
+      "score": -7,
+      "created_utc": 1743981576.0,
+      "replies": []
+    },
+    {
+      "id": "mlry1ep",
+      "author": "Atilim87",
+      "body": "And?",
+      "score": -8,
+      "created_utc": 1743980328.0,
+      "replies": []
+    },
+    {
+      "id": "mlw7aau",
+      "author": "mintysoul",
+      "body": "screw China and their tech until they acknowledge the legitimate ruler of East and West Taiwan - the current Taiwanese government",
+      "score": -3,
+      "created_utc": 1744046459.0,
+      "replies": []
+    },
+    {
+      "id": "mls0d94",
+      "author": "kungfungus",
+      "body": "Ah, look ma' I'll have another fucking adapter that malfunctions.",
+      "score": -14,
+      "created_utc": 1743981165.0,
+      "replies": []
+    }
+  ]
+}

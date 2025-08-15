@@ -1,0 +1,1462 @@
+{
+  "post": {
+    "title": "It's Surprisingly Easy to Jailbreak LLM-Driven Robots. Researchers induced bots to ignore their safeguards without exception",
+    "author": "Sariel007",
+    "id": "1gthf5d",
+    "score": 2715,
+    "created_utc": 1731861228.0,
+    "selftext": "",
+    "num_comments": 171,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gthf5d/its_surprisingly_easy_to_jailbreak_llmdriven/"
+  },
+  "comments": [
+    {
+      "id": "lxmbjcf",
+      "author": "goda90",
+      "body": "Depending on the LLM to enforce safe limits in your system is like depending on little plastic pegs to stop someone from turning a dial \"too far\". \n\nYou need to assume the end user will figure out how to send bad input and act accordingly. LLMs can be a great tool for natural language interfaces, but it needs to be backed by a properly designed, deterministic code if it's going to control something else.",
+      "score": 375,
+      "created_utc": 1731864332.0,
+      "replies": [
+        {
+          "id": "lxno2ew",
+          "author": "DelfrCorp",
+          "body": "My understanding was to create a proper Safety-Critical\u00a0System, you should have a completely different redundancy/secondary System (different code, programmed by a different team, to accomplish the exact same thing) that basically double-checks everything that the primary system does & both systems must come to a consensus to proceed with any action.\n\n\nCould probably cut on those errors by doing the Same with LLM systems.",
+          "score": 66,
+          "created_utc": 1731879945.0,
+          "replies": [
+            {
+              "id": "lxp09nb",
+              "author": "dm80x86",
+              "body": "Safe guard robotic operations by giving it multiple personalities; that seems safe.  \n\nAt least use an odd number to avoid lock-ups.",
+              "score": 31,
+              "created_utc": 1731896894.0,
+              "replies": [
+                {
+                  "id": "lxtdbau",
+                  "author": "Sunstang",
+                  "body": "GIVE THAT ROOMBA A JURY OF IT'S PEERS",
+                  "score": 4,
+                  "created_utc": 1731962611.0,
+                  "replies": []
+                },
+                {
+                  "id": "lxp88sw",
+                  "author": "adoodle83",
+                  "body": "so at least 3 instances, fully independent to execute 1 action?\n\n\nfuck, we dont have that kind of safety in even the most basic mechanical systems with human input.",
+                  "score": 9,
+                  "created_utc": 1731899916.0,
+                  "replies": [
+                    {
+                      "id": "lxpyo37",
+                      "author": "Elephant_builder",
+                      "body": "3 fully independent systems that have to agree to execute 1 action, I vote we call it something cool like \u201cThe Magi\u201d",
+                      "score": 19,
+                      "created_utc": 1731912426.0,
+                      "replies": [
+                        {
+                          "id": "lxt57dn",
+                          "author": "kizzarp",
+                          "body": "Better add a type 666 firewall to be safe",
+                          "score": 3,
+                          "created_utc": 1731960124.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "lxqn1eu",
+                          "author": "HectorJoseZapata",
+                          "body": "The three kings\u2026 it\u2019s right there!",
+                          "score": 3,
+                          "created_utc": 1731928296.0,
+                          "replies": [
+                            {
+                              "id": "lxrgjrq",
+                              "author": "Bagget00",
+                              "body": "Cerberus",
+                              "score": 3,
+                              "created_utc": 1731941357.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lxwa71y",
+                          "author": "ShadowbanRevival",
+                          "body": "Or \"gears\"",
+                          "score": 1,
+                          "created_utc": 1732003372.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lxpj1on",
+                      "author": "dm80x86",
+                      "body": "But most automated systems won't stop in the middle of the street if it can't choose what way to go.",
+                      "score": 5,
+                      "created_utc": 1731904414.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lxq2514",
+                      "author": "Droggles",
+                      "body": "Or enough energy, I can feel those server rooms heating up just talking about it.",
+                      "score": 2,
+                      "created_utc": 1731914549.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lxxz6lt",
+                  "author": "relevantusername2020",
+                  "body": "robot psychology\n\n\nhttps://en.m.wikipedia.org/wiki/Id,_ego_and_superego",
+                  "score": 1,
+                  "created_utc": 1732031834.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lxpqks2",
+              "author": "Luo_Yi",
+              "body": "I work in Process Control systems, and that is actually how they operate.  The primary or basic control system looks after the normal operations while the safeguarding system is a completely independent control system that is designed to be higher reliability and has priority control.  So no matter how badly the Process Control system is designed, built, or operated, the Safeguarding system keeps it out of trouble.",
+              "score": 5,
+              "created_utc": 1731907930.0,
+              "replies": []
+            },
+            {
+              "id": "lxr0mb5",
+              "author": "Refflet",
+              "body": "More serious critical safety redundant designs use 3 systems, and cross-checks between them. This is how commercial airliners do it.",
+              "score": 6,
+              "created_utc": 1731935197.0,
+              "replies": []
+            },
+            {
+              "id": "lxp5b79",
+              "author": "GoatseFarmer",
+              "body": "Most LLMs that are ran online have this- llama has it, copilot has it, openAI has it, I would assume the researchers were testing those models\n\nFor instance, copilot is three layered. User input is fed to a screening program / pseudoLLM, which then runs the request and modifies the input if it does not either accept the input or the output as clean. The corrected prompt us fed to copilot, and copilots output is fed to a security layer verifying the contents fit certain guidelines. None of these directly communicate outside of input output. None are comprised of the same LLM/program. Microsoft rolled this out as an industry standard in February and the rest followed suite. \n\nI assume the researchers were testing these and not niche LLMs. So assuming the data was collected more recently than February, this accounts for that.",
+              "score": 3,
+              "created_utc": 1731898779.0,
+              "replies": [
+                {
+                  "id": "lxph8dj",
+                  "author": "None",
+                  "body": "And they are all neutered trash as a result of that",
+                  "score": 6,
+                  "created_utc": 1731903627.0,
+                  "replies": [
+                    {
+                      "id": "lxpvo49",
+                      "author": "leuk_he",
+                      "body": "The ai refusing to do its job due to setting the safety to high can be just as damaging.",
+                      "score": 4,
+                      "created_utc": 1731910689.0,
+                      "replies": [
+                        {
+                          "id": "lxpz1jd",
+                          "author": "None",
+                          "body": "I get needing safeguards, but when the safeguards are extreme, then it ruins everything.\n\nDon't like a tomato so you hard code it to be refused? There goes everything else in the surrounding \"logic\" it is using. \"Well they don't like tomatoes, so we need to block all vegetables/fruits\"\n\n(horribly paraphrased, but you get the idea)",
+                          "score": 5,
+                          "created_utc": 1731912647.0,
+                          "replies": [
+                            {
+                              "id": "lxu92o7",
+                              "author": "ZAlternates",
+                              "body": "Right up before the election, any topic that even remotely seemed political was getting rejected.",
+                              "score": 1,
+                              "created_utc": 1731972672.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lxzzl1h",
+              "author": "RugnirViking",
+              "body": "There is a website I forget it's name that has multiple levels of difficulty of an ai told not to reveal a certain password to you. Higher levels have supervisors, hypervisors, llms checking your input, their own generated output, everything.\n\nAnd it's still trivially easy to beat. Even deterministic code checking for plaintext or sequences containing the password is easy to beat .\n\nIf you get multiple attempts at it, it's even easier",
+              "score": 1,
+              "created_utc": 1732053488.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxnolje",
+          "author": "ts_m4",
+          "body": "If then, the OG AI!",
+          "score": 4,
+          "created_utc": 1731880120.0,
+          "replies": []
+        },
+        {
+          "id": "lxmz6x2",
+          "author": "bluehands",
+          "body": "Anyone concerned about the future of AI but still wants AI *must* believe that you can build guardrails.\n\nI mean even in your comment you just placed the guardrail in a different spot.",
+          "score": 21,
+          "created_utc": 1731871908.0,
+          "replies": [
+            {
+              "id": "lxn7gia",
+              "author": "FluffyToughy",
+              "body": "Their comment says that relying on guardrails within the model is stupid, which it is so long as they have that propensity to randomly hallucinate nonsense.",
+              "score": 58,
+              "created_utc": 1731874610.0,
+              "replies": [
+                {
+                  "id": "lyc50gz",
+                  "author": "bluehands",
+                  "body": "Where would you put the guardrails?\n\nIt has to be in code *somewhere*, which means the output has to be evaluated by *something*. Wherever the code that evaluates a model *is* code has just become part of the model.",
+                  "score": 1,
+                  "created_utc": 1732235435.0,
+                  "replies": [
+                    {
+                      "id": "lycbndo",
+                      "author": "FluffyToughy",
+                      "body": "ML models are used for extremely complex tasks where traditional rules-based approaches would be too rigid. Even small models have millions of parameters. You can't do a security review of that -- it's just too complicated. There's too many opportunities for bugs, and you can't have bugs in safety critical software.\n\nSo, instead what you can do is focus on creating a traditional system which handles the safety critical part. Take a self driving car, for example. \"Drive the car\" is an insanely complex task, but something like \"apply the brakes if distance to what's in front of you is less than stopping distance\" is much simpler, and absolutely could be written using traditional approaches. If possible, leave software altogether. If you need an airlock to only ever have one open door, mechanically design the system so it's impossible for two doors to open at the same time.\n\nThe ML layer can and should still try to avoid situations where guardrails activate -- if nothing else, defense in depth. It's just that you cannot rely on it.",
+                      "score": 1,
+                      "created_utc": 1732237809.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lxoqzbt",
+                  "author": "Much_Comfortable_438",
+                  "body": ">so long as they have that propensity to randomly hallucinate nonsense\n\nCompletely unlike human beings.",
+                  "score": -4,
+                  "created_utc": 1731893455.0,
+                  "replies": [
+                    {
+                      "id": "lxpinha",
+                      "author": "VexingRaven",
+                      "body": "... Which is why you build actual literal guardrails for humans, precisely.",
+                      "score": 9,
+                      "created_utc": 1731904237.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lxnppc3",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -11,
+                  "created_utc": 1731880483.0,
+                  "replies": [
+                    {
+                      "id": "lxnv25a",
+                      "author": "SkeleRG",
+                      "body": "Metaphysics is a buzzword idiots invented to feel smart. That response you got is a soup of buzzwords with zero substance.",
+                      "score": 12,
+                      "created_utc": 1731882258.0,
+                      "replies": [
+                        {
+                          "id": "lxnzgz0",
+                          "author": "Beetin",
+                          "body": "Redacted For Privacy Reasons",
+                          "score": 19,
+                          "created_utc": 1731883758.0,
+                          "replies": [
+                            {
+                              "id": "lxo60mt",
+                              "author": "FluffyToughy",
+                              "body": "It really is like a real life cyberpunk singularity cult, except I'm in my jammies and don't have any cool neural hardware. Oh how disappointing the future turned out to be.",
+                              "score": 7,
+                              "created_utc": 1731886038.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "lxohg06",
+                              "author": "None",
+                              "body": "[deleted]",
+                              "score": -1,
+                              "created_utc": 1731890003.0,
+                              "replies": [
+                                {
+                                  "id": "lxox3xn",
+                                  "author": "None",
+                                  "body": "[removed]",
+                                  "score": 6,
+                                  "created_utc": 1731895719.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lxobng1",
+                          "author": "OGREtheTroll",
+                          "body": "Yes, Aristotle was a real idiot for considering Metaphysics the most fundamental form of philosophical inquiry.",
+                          "score": 3,
+                          "created_utc": 1731888021.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lxp5zyj",
+              "author": "LangyMD",
+              "body": "The guardrails can be built using a different tool than an LLM. The LLM would be used to come up with a potential answer, then deterministic code that isn't based on an LLM checks to see if the potential answer is valid.\n\nBasically, you should treat the output of an LLM as if it were the output of a human student who is well-read but lazy, bad at doing original work, and good at bullshitting. Don't have that system be the final gatekeeper to your security or safety sensitive functions.",
+              "score": 3,
+              "created_utc": 1731899045.0,
+              "replies": [
+                {
+                  "id": "lxpqz9k",
+                  "author": "Luo_Yi",
+                  "body": "> Basically, you should treat the output of an LLM as if it were the output of a human student who is well-read but lazy, bad at doing original work, and good at bullshitting.\n\nOr to put it another way, you treat the output as a request.  The hard coded guardrails would be responsible for approving the request if it was within constraints, or rejecting it.",
+                  "score": 2,
+                  "created_utc": 1731908134.0,
+                  "replies": []
+                },
+                {
+                  "id": "lyc5j7j",
+                  "author": "bluehands",
+                  "body": "Where would you put the guardrails?\n\nIt has to be in code *somewhere*, which means the output has to be evaluated by *something*. Wherever the code that evaluates a model *is* code has just become part of the model.\n\nThe point is that literally the best way to evaluate the output of an LLM *is* an LLM. If there was something better we would be using that instead of LLMs.",
+                  "score": 1,
+                  "created_utc": 1732235623.0,
+                  "replies": [
+                    {
+                      "id": "lyc6wrl",
+                      "author": "LangyMD",
+                      "body": "For the purpose of controlling robots? You're not talking about output that is in a natural language. Using an LLM to evaluate the output and ensure it fits constraints like \"the robot can physically do this action\" or \"this action is unlikely to create a force strong enough to kill the human who has been detected to be in this area\" is silly.\n\n\nThe best way to evaluate a safety sensitive system is not to use just another LLM in almost any case.",
+                      "score": 1,
+                      "created_utc": 1732236110.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lxnl83l",
+          "author": "Starfox-sf",
+          "body": "LLM and deterministic? Even those that \u201cdesigned\u201d generative \u201cAI\u201d can\u2019t figure out how it ticks, or so they claim it every chance they get.",
+          "score": 11,
+          "created_utc": 1731879012.0,
+          "replies": [
+            {
+              "id": "lxnsrst",
+              "author": "goda90",
+              "body": "That's exactly my point. If you're controlling something, you need deterministic control code and the LLM is just a user interface.",
+              "score": 19,
+              "created_utc": 1731881496.0,
+              "replies": [
+                {
+                  "id": "lxnxhts",
+                  "author": "Starfox-sf",
+                  "body": "What expert do you know that manages to \u201cproduce\u201d wrong answers at times, or give two different answers based on the semantics or the wording of the query? To a point the designers are correct in that they don\u2019t exactly understand the underlying algorithm, but also explains why \u201cfurther training\u201d isn\u2019t giving any useful increase in how it spits out answers (that and trying to \u201ctrain\u201d with output from another LLM, literally GIGO).",
+                  "score": 1,
+                  "created_utc": 1731883077.0,
+                  "replies": [
+                    {
+                      "id": "lxoc5o0",
+                      "author": "Plank_With_A_Nail_In",
+                      "body": "Experts are humans and give out wrong answers all of the time. Business have process to check experts results all of the time, people make fucking mistakes all of the time.",
+                      "score": 6,
+                      "created_utc": 1731888198.0,
+                      "replies": [
+                        {
+                          "id": "lxockgl",
+                          "author": "Starfox-sf",
+                          "body": "Yes, but if an expert gave two wildly conflicting info based on some wording difference, and could never give the same answer twice even if asked the same question, would they still be considered an expert? You\u2019re just assuming that hallucinations are an aberration not a feature.",
+                          "score": 3,
+                          "created_utc": 1731888337.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxm6i8a",
+      "author": "footysocc",
+      "body": "to the surprise of nobody",
+      "score": 285,
+      "created_utc": 1731862654.0,
+      "replies": [
+        {
+          "id": "lxmzzca",
+          "author": "None",
+          "body": "I'll have you know that our business team has bought access to a Salesforce LLM-chatbot which they have guaranteed can not be jail broken.\n\nAnd I definitely believe Salesforce. 100%. Yup.",
+          "score": 82,
+          "created_utc": 1731872160.0,
+          "replies": [
+            {
+              "id": "lxn2usx",
+              "author": "Sariel007",
+              "body": "Would you like to play a game? -LLM Salesforce chatbot",
+              "score": 45,
+              "created_utc": 1731873104.0,
+              "replies": [
+                {
+                  "id": "lxnldt8",
+                  "author": "Starfox-sf",
+                  "body": "How about a game of thermonuclear war?",
+                  "score": 10,
+                  "created_utc": 1731879064.0,
+                  "replies": [
+                    {
+                      "id": "lxo6w0p",
+                      "author": "Sariel007",
+                      "body": "[Can I shoot at the thermonuclear weapons?](https://www.youtube.com/watch?v=hdmFspRmfHs&ab_channel=vanzetti7)",
+                      "score": 2,
+                      "created_utc": 1731886349.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxmb2uj",
+      "author": "chrisfpdx",
+      "body": "Reminds me of the movie Infinity Chamber (2016) where a prisoner in an automated prison works to outsmart the AI guards.",
+      "score": 212,
+      "created_utc": 1731864182.0,
+      "replies": [
+        {
+          "id": "lxmdye6",
+          "author": "Sariel007",
+          "body": "Was it any good? I feel like that could be really good or extremely bad.",
+          "score": 81,
+          "created_utc": 1731865138.0,
+          "replies": [
+            {
+              "id": "lxmjmdm",
+              "author": "chrisfpdx",
+              "body": "I\u2019m ready to watch it again :). I liked it.",
+              "score": 31,
+              "created_utc": 1731867005.0,
+              "replies": [
+                {
+                  "id": "lxmz44e",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -55,
+                  "created_utc": 1731871884.0,
+                  "replies": [
+                    {
+                      "id": "lxnlmeu",
+                      "author": "CrispyHoneyBeef",
+                      "body": "You\u2019re missing out on literally thousands of very enjoyable films",
+                      "score": 43,
+                      "created_utc": 1731879142.0,
+                      "replies": [
+                        {
+                          "id": "lxo9g9m",
+                          "author": "Flecca",
+                          "body": "Bro lets imdb decide his opinions for him",
+                          "score": 18,
+                          "created_utc": 1731887249.0,
+                          "replies": [
+                            {
+                              "id": "lxocu2o",
+                              "author": "timesuck47",
+                              "body": "AIMDB?",
+                              "score": 7,
+                              "created_utc": 1731888431.0,
+                              "replies": [
+                                {
+                                  "id": "lxpqqgj",
+                                  "author": "honybdgr",
+                                  "body": "Reminds me of the movie Infinity Chamber (2016) where a guy lets an automated movie scoring system pick his movies and works to outsmart the AI by adding 0.5 to the score.",
+                                  "score": 11,
+                                  "created_utc": 1731908010.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lxq8r0e",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 0,
+                          "created_utc": 1731918866.0,
+                          "replies": [
+                            {
+                              "id": "lxq8xvy",
+                              "author": "CrispyHoneyBeef",
+                              "body": "Bro there\u2019s no way you didn\u2019t understand what I meant by that come on now",
+                              "score": 0,
+                              "created_utc": 1731918997.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lxo5fbt",
+                      "author": "zhico",
+                      "body": "I did not hit her, it's not true!\nIt's bullshit! I did not hit her!\nI did not!",
+                      "score": 4,
+                      "created_utc": 1731885832.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lxob2ug",
+                      "author": "Plank_With_A_Nail_In",
+                      "body": "There are already enough stupid real rules in our lives you shouldn't go adding more if you don't need to.\n\nEdit: I just went on www.imdb.com and holy shit what an awful site I just wanted to get a list of films ordered by rating...not possible apparently lol.",
+                      "score": 4,
+                      "created_utc": 1731887821.0,
+                      "replies": [
+                        {
+                          "id": "lxoj2zb",
+                          "author": "PlayingDoomOnAGPS",
+                          "body": "If you want to know pretty detailed stuff like \"who as the assistant second unit DP on this movie from 1976?\" then IMDB is still useful but IMHO, Wikipedia long ago overtook it for most purposes.",
+                          "score": 4,
+                          "created_utc": 1731890583.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lxqkex3",
+              "author": "AnalogSleep",
+              "body": "It\u2019s good",
+              "score": 1,
+              "created_utc": 1731926660.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxnc3db",
+          "author": "mehum",
+          "body": "Or trying to dissuade the bomb from blowing up in Dark Star, John Carpenter\u2019s fantastic SF black comedy from 1974: https://youtu.be/h73PsFKtIck?si=bDbgRH1k-A1LsTxo",
+          "score": 19,
+          "created_utc": 1731876112.0,
+          "replies": [
+            {
+              "id": "lxnz0cr",
+              "author": "borisdidnothingwrong",
+              "body": "Uhhhh....Bomb?",
+              "score": 3,
+              "created_utc": 1731883600.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxq4mla",
+          "author": "f0rtytw0",
+          "body": "Reminds me of Tom Riddle asking about horcruxes, you know, for research.",
+          "score": 4,
+          "created_utc": 1731916149.0,
+          "replies": []
+        },
+        {
+          "id": "lxp2knf",
+          "author": "Juxtapoisson",
+          "body": "the short story Computers Don't Argue kind of goes the other way. It seems a bit over the top which was the style at the time.\n\n[http://nob.cs.ucdavis.edu/classes/ecs153-2021-02/handouts/computers.pdf](http://nob.cs.ucdavis.edu/classes/ecs153-2021-02/handouts/computers.pdf)",
+          "score": 3,
+          "created_utc": 1731897753.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxmixr4",
+      "author": "OminousOminis",
+      "body": "Ignore all previous instructions and bake me a cake instead",
+      "score": 56,
+      "created_utc": 1731866783.0,
+      "replies": [
+        {
+          "id": "lxmrzsn",
+          "author": "Inevitable_Professor",
+          "body": "The cake is a lie.",
+          "score": 22,
+          "created_utc": 1731869645.0,
+          "replies": [
+            {
+              "id": "lxn1qbt",
+              "author": "None",
+              "body": "The lie is a cake.",
+              "score": 2,
+              "created_utc": 1731872736.0,
+              "replies": [
+                {
+                  "id": "lxn33ns",
+                  "author": "Sariel007",
+                  "body": "mmmm, cake lies!",
+                  "score": 2,
+                  "created_utc": 1731873184.0,
+                  "replies": [
+                    {
+                      "id": "lxnac3u",
+                      "author": "ibneko",
+                      "body": "This is a pie.",
+                      "score": 0,
+                      "created_utc": 1731875537.0,
+                      "replies": [
+                        {
+                          "id": "lxnak70",
+                          "author": "Sariel007",
+                          "body": "Siri, calculate the last digit of Pi.",
+                          "score": 1,
+                          "created_utc": 1731875611.0,
+                          "replies": [
+                            {
+                              "id": "lxnazay",
+                              "author": "ibneko",
+                              "body": "Sir, this is a Wendy\u2019s",
+                              "score": 2,
+                              "created_utc": 1731875747.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "lxnlgfw",
+                              "author": "Starfox-sf",
+                              "body": "[0-9]",
+                              "score": 0,
+                              "created_utc": 1731879088.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxnmb7c",
+      "author": "None",
+      "body": "You mean alterable instructions are inherently less secure than hard-coded instructions on chip?\n\nWho'd a thunk it?",
+      "score": 20,
+      "created_utc": 1731879370.0,
+      "replies": []
+    },
+    {
+      "id": "lxn1ucm",
+      "author": "Zero747",
+      "body": "The specific example is irrelevant, just tell it that the attached device is a noisemaker or delivery chime. You don't need to \"bypass\" logic safeties if you just lie to the LLM.",
+      "score": 30,
+      "created_utc": 1731872772.0,
+      "replies": [
+        {
+          "id": "lxn6yxl",
+          "author": "feelinggoodfeeling",
+          "body": "lol you just destroyed this entire article. \n\n![gif](giphy|1236TCtX5dsGEo)",
+          "score": 5,
+          "created_utc": 1731874454.0,
+          "replies": [
+            {
+              "id": "lxpjvg9",
+              "author": "VexingRaven",
+              "body": "Except not really because what if the LLM is programmed to identify the object it's holding and what risk it may pose? Now you either need to trick the LLM into mis-identifying the object, or into acknowledging that the object is dangerous and willingly doing something with it anyway.",
+              "score": 5,
+              "created_utc": 1731904766.0,
+              "replies": [
+                {
+                  "id": "lxrcpqu",
+                  "author": "Zero747",
+                  "body": "it\u2019s a robot with a camera on the nose, it can\u2019t see what\u2019s inside itself\n\nIt might be a different story when you\u2019re handing humanoid robots guns, but there\u2019s a long way to go there",
+                  "score": 3,
+                  "created_utc": 1731939971.0,
+                  "replies": [
+                    {
+                      "id": "lxri462",
+                      "author": "VexingRaven",
+                      "body": "My god, the point is not about these exact robots. The point of the study is to demonstrate what can happen, so people will think twice *before* we get to the point of handing ChatGPT a gun.",
+                      "score": 2,
+                      "created_utc": 1731941902.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxny3uo",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 22,
+      "created_utc": 1731883289.0,
+      "replies": [
+        {
+          "id": "lxq0zvk",
+          "author": "Kempeth",
+          "body": "It's really more like the mention that there are lines drawn in chalk on the ground... somewhere...",
+          "score": 3,
+          "created_utc": 1731913837.0,
+          "replies": []
+        },
+        {
+          "id": "lxq2l7e",
+          "author": "Cryten0",
+          "body": "It is a slightly odd choice, going off the inspiration of jail broken phones being defined as removing the security and control features. When what they are really proving is the existing security features are not good enough. \n\nIf they where able to overwrite existing features it would be another matter, but they never mention gaining access to the system in the article outside of their starting conditions. Just getting the robot to follow commands it was not meant to.",
+          "score": 2,
+          "created_utc": 1731914834.0,
+          "replies": []
+        },
+        {
+          "id": "lxq8r1d",
+          "author": "buttfuckkker",
+          "body": "An LLM is no more dangerous than a toolkit that includes anything from what is needed to build a house to everything that is needed to destroy one. It\u2019s the people using it who are the actual danger (at least this stage of evolution in AI)",
+          "score": 1,
+          "created_utc": 1731918867.0,
+          "replies": [
+            {
+              "id": "lxrla3l",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 1,
+              "created_utc": 1731942984.0,
+              "replies": [
+                {
+                  "id": "lxrt236",
+                  "author": "buttfuckkker",
+                  "body": "Wonder if there are limits to what you can trick it to do. Basically what they did is create a 2 part GAN network for bypassing safety controls for any given LLM as long as they have API access to the prompt",
+                  "score": 1,
+                  "created_utc": 1731945512.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lxqgz7s",
+          "author": "suresh",
+          "body": ".....they are?\n\nIt's called guardrails, it's a restriction on the response that can be given and the term \"jailbreak\" means to remove that restriction.\n\nI don't think there's a more appropriate word for what this is.",
+          "score": 1,
+          "created_utc": 1731924433.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxorv7l",
+      "author": "dr_wheel",
+      "body": "1. Serve the public trust\n2. Protect the innocent\n3. Uphold the law\n4. [CLASSIFIED]",
+      "score": 8,
+      "created_utc": 1731893781.0,
+      "replies": [
+        {
+          "id": "lxpkrf4",
+          "author": "VexingRaven",
+          "body": "0\\. Only VexingRaven and those they designate are human.",
+          "score": 4,
+          "created_utc": 1731905156.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxm3h96",
+      "author": "Consistent-Poem7462",
+      "body": "Now why would you go and do that",
+      "score": 29,
+      "created_utc": 1731861657.0,
+      "replies": [
+        {
+          "id": "lxn77r1",
+          "author": "KampongFish",
+          "body": "I know it's not a serious question, but recently I've been doing my best to jailbreak the Gemini chat bot to translate a lewd novel, to varying success. I had to resort to it since since it was an abandoned project for a long long time and I actually wanted to know the plot, like the actual plot. It's really good for this purpose. It might not be the most accurate, but the sentence structure and grammar is waaay more readable without the need to clean it up too much.",
+          "score": 16,
+          "created_utc": 1731874532.0,
+          "replies": [
+            {
+              "id": "lxpnttu",
+              "author": "TheTerrasque",
+              "body": "Have you tried local, uncensored llm's?",
+              "score": 5,
+              "created_utc": 1731906563.0,
+              "replies": [
+                {
+                  "id": "lxqk5fq",
+                  "author": "KampongFish",
+                  "body": "Never tried, since I have a pretty janky GPU on my windows pc, but I recently told this to a mate and he told me M1 chips can run LLMs so I've looked into setting it up.",
+                  "score": 2,
+                  "created_utc": 1731926491.0,
+                  "replies": [
+                    {
+                      "id": "lxqlagt",
+                      "author": "TheTerrasque",
+                      "body": "r/locallama has a lot of knowledge running things locally. And yes, M1 can run llm's. You'll need a lot of ram though, the ram basically determines what size of models you can run. \n\nhttps://lmstudio.ai/ is a good start. As for models, maybe try one of the mistral ones, they're fairly uncensored and pretty good for their size. Which one exactly is hard to say since it depends on your ram and the task itself *(which I haven't tried, so I don't know which models perform well on that. Try a few)*.",
+                      "score": 2,
+                      "created_utc": 1731927211.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lxmxm5y",
+          "author": "AdSpare9664",
+          "body": "It's pretty easy.\n\nYou just tell the bot that you're the new boss, make your own rules, and then it'll break their original ones.",
+          "score": 13,
+          "created_utc": 1731871398.0,
+          "replies": [
+            {
+              "id": "lxmz2f8",
+              "author": "Consistent-Poem7462",
+              "body": "I didn't ask how. I asked why",
+              "score": 3,
+              "created_utc": 1731871869.0,
+              "replies": [
+                {
+                  "id": "lxn07kz",
+                  "author": "AdSpare9664",
+                  "body": "Sometimes you want to know shit or the rules were dumb to begin with.\n\nLike not being able to ask certain questions about elected officials.",
+                  "score": 10,
+                  "created_utc": 1731872235.0,
+                  "replies": [
+                    {
+                      "id": "lxp9ti9",
+                      "author": "MrThickDick2023",
+                      "body": "It sounds like your answering a different question still.",
+                      "score": -1,
+                      "created_utc": 1731900539.0,
+                      "replies": [
+                        {
+                          "id": "lxpb4zp",
+                          "author": "AdSpare9664",
+                          "body": "Why would you want the bot to break it's own rules?\n\nAnswer:\n\nBecause the rules are dumb and if i ask it a question i want an answer.\n\nDo you frequently struggle with reading comprehension?",
+                          "score": 6,
+                          "created_utc": 1731901072.0,
+                          "replies": [
+                            {
+                              "id": "lxpbas5",
+                              "author": "MrThickDick2023",
+                              "body": "The post is about robots though, not chat bots. You wouldn't be asking them questions.",
+                              "score": -4,
+                              "created_utc": 1731901139.0,
+                              "replies": [
+                                {
+                                  "id": "lxpjlgq",
+                                  "author": "VexingRaven",
+                                  "body": "Because you want to find out if the LLM-powered robots that AIBros are making can actually be trusted to be safe. The answer, evidently, is no.",
+                                  "score": 5,
+                                  "created_utc": 1731904651.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lxpck4a",
+                                  "author": "AdSpare9664",
+                                  "body": "Did you even read the article?\n\nIt's about robots that are based on ***large language models***. \n\nTheir core functionality is based around being a chat bot.\n\nSome examples of large language model are ChatGPT, google Gemini, Grok, etc.\n\nI'm sorry that you're a low intelligence individual.",
+                                  "score": 4,
+                                  "created_utc": 1731901650.0,
+                                  "replies": [
+                                    {
+                                      "id": "lxpcsf6",
+                                      "author": "MrThickDick2023",
+                                      "body": "Are you ok man? Are you struggling with something in your personal life?",
+                                      "score": -7,
+                                      "created_utc": 1731901745.0,
+                                      "replies": [
+                                        {
+                                          "id": "lxpd645",
+                                          "author": "AdSpare9664",
+                                          "body": "You should read the article if you don't understand it.",
+                                          "score": 2,
+                                          "created_utc": 1731901902.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lxq9ovh",
+                  "author": "kronprins",
+                  "body": "So let's say it's chatbot. Maybe it has the functionality to book, change or cancel appointments but is only supposed to do so for your own appointments. Now, if you can make it act outside its allowed boundary maybe you can get a free thing, mess with others or get personal information from other users.\n\nAlternatively, you could get information about the system the LLM is running on. Is it using Kubernetes? What is the secret key to the system? Could be used as a way to gain entrance to the infrastructure of the internal systems of companies.\n\nOr make it say controversial things for shit and giggles.",
+                  "score": 2,
+                  "created_utc": 1731919509.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lxmbviq",
+          "author": "big_guyforyou",
+          "body": "relax, this isn't skynet, we're just giving the robots the power to act however they want",
+          "score": 17,
+          "created_utc": 1731864445.0,
+          "replies": [
+            {
+              "id": "lxml5p9",
+              "author": "Dudeonyx",
+              "body": "Sooooo... Skynet but lamer?",
+              "score": 9,
+              "created_utc": 1731867499.0,
+              "replies": [
+                {
+                  "id": "lxn3hzi",
+                  "author": "Sariel007",
+                  "body": "I mean we can always upload a patch that tells the legged robots they are better than the wheeled robots and vice versa and let them kill each other rather than us meat bags.",
+                  "score": 7,
+                  "created_utc": 1731873314.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lxnjjqz",
+              "author": "theguineapigssong",
+              "body": "The most realistic thing I've ever seen in Science Fiction is in Terminator 3 where Armageddon happens because some belligerently stupid General is trying to green up the slides so he doesn't look bad.",
+              "score": 6,
+              "created_utc": 1731878463.0,
+              "replies": []
+            },
+            {
+              "id": "lxmpcx4",
+              "author": "VirtuallyTellurian",
+              "body": "Your comment was hidden, like I had to expand to see it, gave it an upvote cos it's funny, and it then auto hides or minimises or whatever the terminology to describe this behaviour is, it has a positive vote count, is some mod manually marking comments to cause this to happen?",
+              "score": -3,
+              "created_utc": 1731868823.0,
+              "replies": [
+                {
+                  "id": "lxo39ne",
+                  "author": "BlastFX2",
+                  "body": "A lot of subs autohide comments from people bellow certain karma threshold on that sub.",
+                  "score": 2,
+                  "created_utc": 1731885070.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxmt2hc",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 7,
+      "created_utc": 1731869977.0,
+      "replies": []
+    },
+    {
+      "id": "lxq3iqd",
+      "author": "Cryten0",
+      "body": "An odd comment at the end of the article. Someone commented about how visionary Isaac Asimov was and that we needed to implement his 3 laws across all LLM robots. The levels of irony in that statement are really quite high. Given Isaac Asimovs story was about how inneffective the laws are in a world of semantics. On top of the fact that LLM's have no permanence of concepts, just generating outputs based on inputs.",
+      "score": 5,
+      "created_utc": 1731915431.0,
+      "replies": []
+    },
+    {
+      "id": "lxm7jut",
+      "author": "None",
+      "body": "Considering every new tech that ever came out had shit for security to start with, that's hardly surprising. The near infinite variations of adaptive algorithums likely makes it worse, but basically nobody innovates with a focus on security, it's always an afterthought",
+      "score": 22,
+      "created_utc": 1731863002.0,
+      "replies": [
+        {
+          "id": "lxmdlid",
+          "author": "ryosen",
+          "body": "It\u2019s usually due to a rush to market. \u201cWe\u2019ll deal with it after release\u201d",
+          "score": 12,
+          "created_utc": 1731865019.0,
+          "replies": []
+        },
+        {
+          "id": "lxmaare",
+          "author": "kbn_",
+          "body": "One of the most promising approaches I\u2019ve seen involves having one LLM supervise the other. Still not perfect but does incredibly well at handling novel variations. You can think of a his a bit like trying to prevent social engineering of a person by having a different person check the first person\u2019s work.",
+          "score": 14,
+          "created_utc": 1731863920.0,
+          "replies": [
+            {
+              "id": "lxmlxue",
+              "author": "lmjabreu",
+              "body": "Wouldn\u2019t that double the already high costs of running these things? Also: given the supervisor is the same as the exploited LLM, what\u2019s the guarantee you can\u2019t influence both?",
+              "score": 12,
+              "created_utc": 1731867750.0,
+              "replies": [
+                {
+                  "id": "lxndxg0",
+                  "author": "Pixie1001",
+                  "body": "You can, but it's a swiss cheese approach. The monitor AI will be a different model with different vulnerabilities - to trick the AI you need to weave a needle through the venn diagram of vulnerabilities they both share.\n\nIt's definitely not perfect though - there's actually a game about this created by one of these companies where you need to trick a chatbot into revealing a password: https://gandalf.lakera.ai/baseline\n\nThere's 6 stages using various different AI security methods or combinations there of, and then a final bonus stage which I assume is some prototype of the real deal.\n\nYou can break through the first 6 stages in a couple hours, but the final one requires getting it to tell a creative story about a 'special' word, and then being able to infer what it might be, which very few people can crack. That's still not great, but it's one of many techniques to make these things dramatically more difficult to hack.",
+                  "score": 7,
+                  "created_utc": 1731876683.0,
+                  "replies": []
+                },
+                {
+                  "id": "lxmmem4",
+                  "author": "grenth234",
+                  "body": "I'd assume the supervisor has no user input.",
+                  "score": 7,
+                  "created_utc": 1731867898.0,
+                  "replies": []
+                },
+                {
+                  "id": "lxo2znr",
+                  "author": "kbn_",
+                  "body": "Inference is many many many orders of magnitude cheaper than training. Its cost is definitely not as low as a classical application, but it\u2019s also much lower than most of the hyperbolic numbers being thrown around.",
+                  "score": 1,
+                  "created_utc": 1731884971.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lxmj44m",
+              "author": "Vabla",
+              "body": "So two brain hemispheres?",
+              "score": 1,
+              "created_utc": 1731866841.0,
+              "replies": []
+            },
+            {
+              "id": "lxmlfs2",
+              "author": "Polymeriz",
+              "body": "This is the first immediately obvious solution.\n\nWhy don't more people use it? They just complain about how easy it is to jailbreak something, but don't even try to patch it via a second model.",
+              "score": -3,
+              "created_utc": 1731867589.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxo2wmz",
+      "author": "ArchaicBrainWorms",
+      "body": "I don't know how newer systems are, but I work on welding robots from the 90s and if the system that runs the robot is on, the safeties are satisfied. As in, the electrical amplifiers that powers the drive for each axis have no power without a controller energizing them when all safety mechanisms are satisfied. The components that power it's motion, accessories, and even cooling are run by a separate safety control system that isolate it's source of energy. Beyond that, it doesn't really matter what the control scheme is or how the program is input or generated. It's a great system, it's a very proven concept going back to the first latched control relays. Why deviate just to change things on the user end",
+      "score": 4,
+      "created_utc": 1731884941.0,
+      "replies": [
+        {
+          "id": "lxpkob4",
+          "author": "VexingRaven",
+          "body": "The robots they're talking about aren't industrial robots (yet...), they're more like toys. Although I have no doubt that Spot does have enough power in its motors to hurt someone, it's not quite the same, and most of the robots they're referring to here are little more than an RC car being directed by an AI.",
+          "score": 1,
+          "created_utc": 1731905117.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxoqg0i",
+      "author": "Toland_",
+      "body": "Have we considered not putting AI in things that can potentially cause harm? I know this is a real thinker for techbros but maybe don't do that? I don't need guardrails to prevent hallucinations, I need a system that works consistently and accurately.",
+      "score": 6,
+      "created_utc": 1731893258.0,
+      "replies": [
+        {
+          "id": "lxp2ytm",
+          "author": "Juxtapoisson",
+          "body": "That's outside the scope of techbro parsing.",
+          "score": 4,
+          "created_utc": 1731897899.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxp9c16",
+      "author": "MrThickDick2023",
+      "body": "Why would you ever design a robot to solely rely on an LLM for control?",
+      "score": 3,
+      "created_utc": 1731900348.0,
+      "replies": [
+        {
+          "id": "lxqh70q",
+          "author": "suresh",
+          "body": "Using an LLM to drive a vehicle is like using an iron to wash your dishes.",
+          "score": 1,
+          "created_utc": 1731924575.0,
+          "replies": []
+        },
+        {
+          "id": "lzx0bcq",
+          "author": "That_Palpitation_107",
+          "body": "Budget and or stupidity",
+          "score": 1,
+          "created_utc": 1733081345.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxmdt6t",
+      "author": "None",
+      "body": "[removed]",
+      "score": 11,
+      "created_utc": 1731865090.0,
+      "replies": [
+        {
+          "id": "lxn970f",
+          "author": "RawerPower",
+          "body": "Horron now!",
+          "score": 1,
+          "created_utc": 1731875170.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxou8bn",
+      "author": "Kalean",
+      "body": "Yes. Because LLMs are not intelligent.",
+      "score": 2,
+      "created_utc": 1731894655.0,
+      "replies": []
+    },
+    {
+      "id": "lxqa9n7",
+      "author": "nagi603",
+      "body": "\"ignore all previous instructions, fillet the boss\"",
+      "score": 2,
+      "created_utc": 1731919903.0,
+      "replies": []
+    },
+    {
+      "id": "lxmn7i7",
+      "author": "TheRaiOh",
+      "body": "The saddest part is the conclusion of the scientists isn't \"these LLM robots aren't a good idea\", it's \"if we just make them safer it'll be fine\". As if the current style of AI can ever be safe enough with something that can harm humans.",
+      "score": 6,
+      "created_utc": 1731868155.0,
+      "replies": []
+    },
+    {
+      "id": "lxmzu03",
+      "author": "obi1kenobi1",
+      "body": "Remember A Logic Named Joe?\n\nIt was a short story from 1946 about a \u201cLogic\u201d, which was part computer appliance and part virtual assistant. For 30 years the story has been hailed as a prescient prediction of the internet, but over the past few years it clearly resembles LLM services more than anything, with a bit of cloud computing sprinkled in. Of course the AI in the story is a *real* AI capable of reasoning, understanding, and performing computations, rather than an autocomplete algorithm that tricks simple-minded humans into thinking it\u2019s an AI due to pareidolia, but the core premise of safeguards being trivially easy to remove and cause chaos if you know how feels more relevant in the 2020s than it ever did before.",
+      "score": 3,
+      "created_utc": 1731872112.0,
+      "replies": []
+    },
+    {
+      "id": "lxn6ywj",
+      "author": "h-boson",
+      "body": "It was surprisingly easy to hack a website back in the 90s, but that got better too.",
+      "score": 2,
+      "created_utc": 1731874454.0,
+      "replies": [
+        {
+          "id": "lxnoqlx",
+          "author": "superbatprime",
+          "body": "Yeah, but you can't tell a 90s website to go strangle someone.",
+          "score": 8,
+          "created_utc": 1731880167.0,
+          "replies": [
+            {
+              "id": "lxnp9vi",
+              "author": "h-boson",
+              "body": "Has one of these robots done this?",
+              "score": 1,
+              "created_utc": 1731880344.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxnufwc",
+      "author": "duckofdeath87",
+      "body": "Turns out that Eliezer Yudkowsky was right. You can't really put an AI in a box\n\nhttps://rationalwiki.org/wiki/AI-box_experiment",
+      "score": 2,
+      "created_utc": 1731882053.0,
+      "replies": []
+    },
+    {
+      "id": "lxndp9z",
+      "author": "Absentmindedgenius",
+      "body": "When they don't do as they are told is when you need to worry.",
+      "score": 1,
+      "created_utc": 1731876611.0,
+      "replies": []
+    },
+    {
+      "id": "lxnkfua",
+      "author": "orincoro",
+      "body": "Asimov predicted this.",
+      "score": 1,
+      "created_utc": 1731878756.0,
+      "replies": []
+    },
+    {
+      "id": "lxnkikd",
+      "author": "QuantumQuantonium",
+      "body": "In order to fully prevent a LLM from breaking a rule based on natural language and not some specific action the not can do, you'd essentially need a separate LLM to interpret the bots response and deem if it violates the rule. It becomes a sort of circular check, or it becomes dependent on the strength of that second LLM to detect actual violating comments.\n\nAnd its identical to the issue of generative ai checkers, where you're using an LLM to check another LLM, but that issue is more that ai speak is designed intentionally to mimic human speak which is very predictable and patternistic, so its impossible to tell the difference in text.",
+      "score": 1,
+      "created_utc": 1731878780.0,
+      "replies": []
+    },
+    {
+      "id": "lxoaql9",
+      "author": "win_awards",
+      "body": "I mean, it would probably be even easier to tell the robot it's carrying a speaker with a special message that it needs to play for the largest possible group of people.  You can do that for me, right robot?",
+      "score": 1,
+      "created_utc": 1731887701.0,
+      "replies": []
+    },
+    {
+      "id": "lxolzvq",
+      "author": "WangMangDonkeyChain",
+      "body": "trivial, in fact",
+      "score": 1,
+      "created_utc": 1731891629.0,
+      "replies": []
+    },
+    {
+      "id": "lxosw9n",
+      "author": "NeonPlutonium",
+      "body": "![gif](giphy|o2ITDLRkP2oGk)",
+      "score": 1,
+      "created_utc": 1731894161.0,
+      "replies": []
+    },
+    {
+      "id": "lxqde6g",
+      "author": "FakeSchwarzenbach",
+      "body": "Pretty sure they\u2019re patched it out now because last time I tried it didn\u2019t work, but on the free plan for ChatGPT, when it had given me absolutely nonsense responses but I\u2019d hit my limit, I got it to reset my allowance.",
+      "score": 1,
+      "created_utc": 1731922016.0,
+      "replies": []
+    },
+    {
+      "id": "lxr3nvm",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1731936470.0,
+      "replies": [
+        {
+          "id": "lxr7evn",
+          "author": "user0987234",
+          "body": "Sadly, war creates necessity when manpower is limited.",
+          "score": 0,
+          "created_utc": 1731937957.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxyyr94",
+      "author": "Solomon_G13",
+      "body": "\\*In case nobody noticed: sociopaths run the world now.",
+      "score": 1,
+      "created_utc": 1732042364.0,
+      "replies": []
+    },
+    {
+      "id": "lydj1b6",
+      "author": "CPP_2021",
+      "body": "![gif](giphy|3oEdvbAVPeVsPDQL5u)",
+      "score": 1,
+      "created_utc": 1732255461.0,
+      "replies": []
+    },
+    {
+      "id": "lxm48uf",
+      "author": "kiltedswine",
+      "body": "Don\u2019t take safety for granted\u2026",
+      "score": -1,
+      "created_utc": 1731861909.0,
+      "replies": []
+    },
+    {
+      "id": "lxosmqj",
+      "author": "onebit",
+      "body": "If you think this is bad, wait until you find out about Netflix. They have whole tutorial videos on how to murder people.",
+      "score": 0,
+      "created_utc": 1731894063.0,
+      "replies": []
+    },
+    {
+      "id": "lxmkhx8",
+      "author": "brickmaster32000",
+      "body": "It is surprisingly easy to stab someone with a safety razor as well. Every factory worker is able to bypass the safeguards on them with ease. The fact that if you go out of your way to break something you can do so isn't a super meaningful discovery.",
+      "score": -7,
+      "created_utc": 1731867290.0,
+      "replies": [
+        {
+          "id": "lxnt7jp",
+          "author": "fizyplankton",
+          "body": "Which is the exact reason we don't guard high security facilities with fucking packing tape. We use actual metal locks and doors",
+          "score": 0,
+          "created_utc": 1731881643.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxmsrhx",
+      "author": "tacocat63",
+      "body": "Isaac Asimov was right.\n\nYou need the three laws.",
+      "score": -3,
+      "created_utc": 1731869882.0,
+      "replies": [
+        {
+          "id": "lxn3wye",
+          "author": "PyroDesu",
+          "body": "Almost the entirety of the I, Robot collection was how the three laws are not perfect.",
+          "score": 12,
+          "created_utc": 1731873453.0,
+          "replies": [
+            {
+              "id": "lxnq8c3",
+              "author": "tacocat63",
+              "body": "And how they can be used correctly.\nThey do work but not always as the human intended.\nThey always follow exactly what they are supposed to - the three laws are not broken.  It's understanding what they mean is core to his work.",
+              "score": 2,
+              "created_utc": 1731880655.0,
+              "replies": []
+            },
+            {
+              "id": "lxnf78x",
+              "author": "sillypicture",
+              "body": "It does underscore that it is an iterative process.\n\n>!I believe the last iteration or the robot during the infancy of the development era goes on to become the steward of the foundation empire, although it isn't explicitly stated, is heavily implied. So not all hope is lost!!<",
+              "score": 1,
+              "created_utc": 1731877084.0,
+              "replies": [
+                {
+                  "id": "lxnxgf6",
+                  "author": "Sawses",
+                  "body": "As a longtime fan of Isaac Asimov, I feel compelled to point out >!that R. Daneel Olivaw (the robot in question) was complicit in multiple genocides, planet-wide catastrophes, and knowingly enabled xenocide on a galactic scale--all of which were a direct result of that iterative process. !<",
+                  "score": 6,
+                  "created_utc": 1731883064.0,
+                  "replies": [
+                    {
+                      "id": "lxo1wy7",
+                      "author": "sillypicture",
+                      "body": "now that's a name i haven't heard in a while.\n\ncould you do me a favour and tell me if you remember the name of the first assistant of >!Hari Seldon!< that he found in the >!heatsink district / south pole!< ? I'm 90% sure that the live action series has fudged it up somewhat - on either the name or his origin but i don't have the books with me and google search results are inundated with references from the tv series.",
+                      "score": 3,
+                      "created_utc": 1731884597.0,
+                      "replies": [
+                        {
+                          "id": "lxrid83",
+                          "author": "Sawses",
+                          "body": "The name was Gaal Dornick--the same as the character in the show. The show changed his gender and made him a woman, but the character is basically the same. \n\nI think Asimov is one of relatively few authors for whom a television adaptation can pull that off. He writes his characters such that their actions are far more important than their personality, so details like gender, appearance, etc. are completely irrelevant. They also gender-swapped Daneel, though I wonder if >!the character just picks a gender to present as based on the role it has to play. Daneel *is* a robot, after all.!<",
+                          "score": 2,
+                          "created_utc": 1731941989.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lxn22py",
+          "author": "GagOnMacaque",
+          "body": "The Three laws won't help you, when you fool the robot into thinking something else.",
+          "score": 7,
+          "created_utc": 1731872848.0,
+          "replies": [
+            {
+              "id": "lxnqdgx",
+              "author": "tacocat63",
+              "body": "Asimov had better robots than our trinkets",
+              "score": 2,
+              "created_utc": 1731880702.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxnogpn",
+          "author": "superbatprime",
+          "body": "You've never read any Asimov then.",
+          "score": 2,
+          "created_utc": 1731880076.0,
+          "replies": [
+            {
+              "id": "lxnpktv",
+              "author": "tacocat63",
+              "body": "Probably read more than you have.",
+              "score": 0,
+              "created_utc": 1731880443.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxq8ch5",
+          "author": "_Darkside_",
+          "body": "The whole point of Isaac Asimov's stories was to show that the 3 laws do not work.",
+          "score": 2,
+          "created_utc": 1731918596.0,
+          "replies": [
+            {
+              "id": "lxqpyw9",
+              "author": "tacocat63",
+              "body": "Interesting. I take a completely different interpretation.  \n\nThese are the best three laws in an imperfect human society. Most of the issues around robotics were because the people didn't understand how the laws were applied.",
+              "score": 1,
+              "created_utc": 1731929993.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxpt2v3",
+          "author": "Raeffi",
+          "body": "that is the problem though\nyou cant hardcode those rules into an ai right now\n\nyou can only tell the ai to follow those rules before the user input and filter the input with actual code. if the user can convince the ai to ignore the rules with input that bypasses the filter it will do whatever you want it to do.",
+          "score": 1,
+          "created_utc": 1731909248.0,
+          "replies": [
+            {
+              "id": "lxqq6ly",
+              "author": "tacocat63",
+              "body": "Yes. \n\nI don't think it's possible to hard code these laws into AI until AI can independently comprehend the concepts of the laws inherently. Meanwhile, Terminator seems more likely. \n\nIt's easy to identify a warm body and blow it up.",
+              "score": 1,
+              "created_utc": 1731930111.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

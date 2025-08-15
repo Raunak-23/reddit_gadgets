@@ -1,0 +1,44 @@
+metric,value
+file,1kpep5w.csv
+title,Zen Flute Is A Teensy Powered Mouth Theramin
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,11
+max_depth,5
+avg_comment_words,18.38
+median_comment_words,16.0
+max_comment_words,40
+positive_count,5
+negative_count,11
+neutral_count,0
+positive_pct,31.25
+negative_pct,68.75
+neutral_pct,0.0
+topic_1_keywords,"yer, wi, trei, sweden, thi, h0liday, n0t, onlee"
+topic_1_label,"yer, wi, trei, thi, onlee"
+topic_2_keywords,"pruv, nawt, weigh, ai, onlee, hrd, chek, spel"
+topic_2_label,"nawt weighs ai , chek, spel"
+topic_3_keywords,"get, project, hand, like, suspiciously, looks, got, diy"
+topic_3_label,i like to get a hand
+topic_4_keywords,"theremin, werk, uhp, kip, mr, gud, journalist, called"
+topic_4_label,a journalist called theremin
+topic_5_keywords,"thereminy, touch, operate, talk, via, really, controller, box"
+topic_5_label,The box is a box with a touch and a controller
+topic_6_keywords,"thing, actual, play, theremin, laser, harp, til, yes"
+topic_6_label,harp and til play til
+top_ngram_1,talk box (3)
+top_ngram_2,box midi (3)
+top_ngram_3,midi controller (3)
+top_ngram_4,controller touch (3)
+top_ngram_5,touch doesnt (3)
+top_ngram_6,doesnt operate (3)
+top_ngram_7,operate via (3)
+top_ngram_8,via capacitance (3)
+top_ngram_9,capacitance really (3)
+top_ngram_10,really nothing (3)
+ner_1,There|MISC|7
+ner_2,Sweden|LOC|2
+ner_3,Futurama|MISC|1
+ner_4,On|ORG|1
+ner_5,TIL|ORG|1

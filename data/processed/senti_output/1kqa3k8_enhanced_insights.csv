@@ -1,0 +1,49 @@
+metric,value
+file,1kqa3k8.csv
+title,"You shouldn't buy the GeForce RTX 5060 today, and Nvidia knows it | Nvidia's 299 Dollars GeForce RTX 5060 looks decent on paper, but there's a reason Nvidia is burying it."
+rows,115
+num_posts,1
+num_comments,114
+unique_authors,69
+max_depth,9
+avg_comment_words,77.52
+median_comment_words,62.0
+max_comment_words,292
+positive_count,13
+negative_count,101
+neutral_count,0
+positive_pct,11.404
+negative_pct,88.596
+neutral_pct,0.0
+topic_1_keywords,"get, games, 300, caught, 279, really, people, 5060"
+topic_1_label,"'get' games '300, caught '279', 'responsible'"
+topic_2_keywords,"im, might, get, ram, price, 9070, vram, go"
+topic_2_label,ram is a cheap way to get a ram
+topic_3_keywords,"gaming, console, ram, pc, buy, 1080p, still, upgrade"
+topic_3_label,"Gaming console, ram, pc, still upgrade"
+topic_4_keywords,"users, 8gb, card, steam, still, problem, 19, 55"
+topic_4_label,Users have problems with 8gb card
+topic_5_keywords,"gpu, 1080p, monitor, games, lower, years, im, consoles"
+topic_5_label,gpu 1080p monitor games lower
+topic_6_keywords,"ti, gb, 16, 5060, would, vram, 5070, think"
+topic_6_label,ti thinks vram would be 5070
+top_ngram_1,5060 ti (17)
+top_ngram_2,55 steam (14)
+top_ngram_3,steam users (14)
+top_ngram_4,rtx 5060 (13)
+top_ngram_5,16 gb (13)
+top_ngram_6,people still (10)
+top_ngram_7,card 300 (10)
+top_ngram_8,gaming 1080p (10)
+top_ngram_9,get caught (10)
+top_ngram_10,thats problem (9)
+ner_1,Steam|ORG|21
+ner_2,##I|MISC|13
+ner_3,50|MISC|13
+ner_4,Nvidia|ORG|10
+ner_5,PS5|MISC|7
+ner_6,RTX 50|MISC|7
+ner_7,TI|MISC|5
+ner_8,RTX 5060|MISC|4
+ner_9,Newegg|ORG|4
+ner_10,PC|MISC|4

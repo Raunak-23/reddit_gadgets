@@ -1,0 +1,2517 @@
+{
+  "post": {
+    "title": "Nvidia is making a new PC CPU to take on Intel, AMD, and Apple, says report | The gaming GPU maker reportedly has a new consumer PC Arm CPU in the works, set to challenge the AMD Ryzen and Intel Core duopoly.",
+    "author": "a_Ninja_b0y",
+    "id": "1gkzhol",
+    "score": 2592,
+    "created_utc": 1730902576.0,
+    "selftext": "",
+    "num_comments": 305,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gkzhol/nvidia_is_making_a_new_pc_cpu_to_take_on_intel/"
+  },
+  "comments": [
+    {
+      "id": "lvppu4e",
+      "author": "kclongest",
+      "body": "Really gambling on ARM to mature as a gaming platform. I'm well aware of translation layers available today, but still.",
+      "score": 711,
+      "created_utc": 1730902791.0,
+      "replies": [
+        {
+          "id": "lvprey4",
+          "author": "powerhcm8",
+          "body": "If Nvidia really releases a cpu for pc they will invest on making games run better on arm, they will want everyone to couple their gpus with their cpus.",
+          "score": 413,
+          "created_utc": 1730903252.0,
+          "replies": [
+            {
+              "id": "lvqutwd",
+              "author": "namur17056",
+              "body": "Can\u2019t wait for the return of gameworks /s",
+              "score": 10,
+              "created_utc": 1730913918.0,
+              "replies": [
+                {
+                  "id": "n60ev6v",
+                  "author": "Ok_Conclusion_6895",
+                  "body": "What's so bad about gameworks ?!",
+                  "score": 1,
+                  "created_utc": 1753895455.0,
+                  "replies": [
+                    {
+                      "id": "n60q5gs",
+                      "author": "namur17056",
+                      "body": "What\u2019s good? Unless you like games performance being  gimped on any hardware other than nvidia",
+                      "score": 1,
+                      "created_utc": 1753898468.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvqazzz",
+              "author": "Zomunieo",
+              "body": "There\u2019s actually room for a hardware shakeup. The GPU is the most expensive component now, and the most power hungry. Logic would dictate you design the motherboard around that and tack on a CPU, but the typical PC design is still CPU centric. \n\nEven big CPUs are small compared to GPUs. Might as well have them integrated. All a modern GPU really needs is some USB and NVMe slots to be a full computer.",
+              "score": 150,
+              "created_utc": 1730908651.0,
+              "replies": [
+                {
+                  "id": "lvsh72n",
+                  "author": "Emu1981",
+                  "body": ">All a modern GPU really needs is some USB and NVMe slots to be a full computer.\n\nThis is incorrect.  Modern GPUs struggle with general purpose computing (e.g. running a game engine) while excelling at specific workloads (e.g. rendering 2D representations of a 3D scene) while modern CPUs excel at general purpose computing (e.g. running a game engine) while struggling with certain specific workloads (e.g. rendering 2D representations of a 3D scene).  This is why modern computers have both a CPU and GPU because now you have a setup that will excel at both the general purpose workloads and specific workloads that the average person will ask of modern computers.\n\nThis is also why the average person will never have a quantum computer sitting on their desk but rather will have a quantum co-processor inside their classical computer.  Quantum computing excels at certain workloads while being absolutely terrible at most other workloads.",
+                  "score": 101,
+                  "created_utc": 1730929797.0,
+                  "replies": [
+                    {
+                      "id": "lwwy8ob",
+                      "author": "Complete_Lurk3r_",
+                      "body": "He is right. Especially considering Nvidia are making an APU first. APU in a GPU sized box with a power cord and an HDMI port. Boom.",
+                      "score": 1,
+                      "created_utc": 1731505296.0,
+                      "replies": [
+                        {
+                          "id": "n60ff5q",
+                          "author": "Ok_Conclusion_6895",
+                          "body": "That already exists and is called an eGPU (via Thunderbolt).",
+                          "score": 1,
+                          "created_utc": 1753895603.0,
+                          "replies": [
+                            {
+                              "id": "n62a6z4",
+                              "author": "Complete_Lurk3r_",
+                              "body": "No. That is not what I described, Im talking Nvidia Project Digits.",
+                              "score": 1,
+                              "created_utc": 1753914619.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lvufm3f",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -7,
+                      "created_utc": 1730953071.0,
+                      "replies": [
+                        {
+                          "id": "lvugwqp",
+                          "author": "None",
+                          "body": "[removed]",
+                          "score": 19,
+                          "created_utc": 1730953612.0,
+                          "replies": [
+                            {
+                              "id": "lvuhjy9",
+                              "author": "None",
+                              "body": "[deleted]",
+                              "score": -9,
+                              "created_utc": 1730953880.0,
+                              "replies": [
+                                {
+                                  "id": "lvuyt7w",
+                                  "author": "funforgiven",
+                                  "body": "Good luck matching the bandwidth of modern VRAMs with your DDR5 DRAM.",
+                                  "score": 2,
+                                  "created_utc": 1730962418.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lvuv0y1",
+                                  "author": "permawl",
+                                  "body": "I like to think of a cpu core as a math professor and a gpu core as a student. The professor knows more mathematics and is faster at all of them, but if you want a set of equations to be solved over and over again for a period of time, it's better to teach 1000 engineering and math students how to do them perfectly than ask 10 professors. \n\nA gpu core still to this day is a ASIC, the amount of specific things they solve has increased tremendously over the years, but they're still application specific.",
+                                  "score": 1,
+                                  "created_utc": 1730960316.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lvukzbu",
+                                  "author": "None",
+                                  "body": "[removed]",
+                                  "score": 0,
+                                  "created_utc": 1730955362.0,
+                                  "replies": [
+                                    {
+                                      "id": "lvun4tb",
+                                      "author": "None",
+                                      "body": "[deleted]",
+                                      "score": -8,
+                                      "created_utc": 1730956342.0,
+                                      "replies": [
+                                        {
+                                          "id": "lvuozpo",
+                                          "author": "Sousanators",
+                                          "body": "I'm actually not as familiar with the all the systems in Reddit for blocking or silencing, but I think the person who has like 60k more comment karma than me is likely much more terminally online.\n\nMy career is in digital design. I literally design niche CPUs for niche tasks. GPUs are also Turing complete - they can do whatever a cpu can do in theory.\n\nOn top of that, show me one commercially available CPU that has 1TB/s bandwidth to main memory, like many GPUs do? There is no CPU that can achieve those numbers, counter to your uninformed argument.\n\nTo summarize my point: you claimed the OC said something false, which they didn't, while you have demonstrated a front-page wikipedia knowledge of the topic.",
+                                          "score": 4,
+                                          "created_utc": 1730957229.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lvsqdyp",
+                  "author": "huuaaang",
+                  "body": "> All a modern GPU really needs is some USB and NVMe slots to be a full computer. \n\nOnly very technically. It wouldn't be a very GOOD computer. GPUs are extremely specialized.",
+                  "score": 28,
+                  "created_utc": 1730932455.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvqbkvi",
+                  "author": "powerhcm8",
+                  "body": ">Logic would dictate\n\nFound the undercover Vulcan.",
+                  "score": 120,
+                  "created_utc": 1730908802.0,
+                  "replies": [
+                    {
+                      "id": "lvrxe8m",
+                      "author": "Raztax",
+                      "body": "It's been much too long of a day at work. I read that and was thinking for a second that you meant the Vulkan API.",
+                      "score": 35,
+                      "created_utc": 1730924408.0,
+                      "replies": [
+                        {
+                          "id": "lvum8f9",
+                          "author": "KingZarkon",
+                          "body": "That would be appropriate for the conversation.",
+                          "score": 3,
+                          "created_utc": 1730955925.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "lvujrcg",
+                          "author": "chicknfly",
+                          "body": "If it\u2019s any consolation, I\u2019ve been laid off for three weeks and haven\u2019t done shit today, and I still thought they meant the API, too",
+                          "score": 7,
+                          "created_utc": 1730954825.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "lvw682x",
+                          "author": "fish312",
+                          "body": "Furthermore, rocm needs to be eradicated",
+                          "score": 2,
+                          "created_utc": 1730986253.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m5o1vgx",
+                          "author": "MetalingusMikeII",
+                          "body": "Same \ud83d\ude02",
+                          "score": 1,
+                          "created_utc": 1736150910.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lvt1h6c",
+                      "author": "timbredesign",
+                      "body": "Live long and processor. \ud83d\udd96\ud83c\udffc",
+                      "score": 17,
+                      "created_utc": 1730935916.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lvrm61s",
+                      "author": "Far_Recommendation82",
+                      "body": "lol",
+                      "score": 5,
+                      "created_utc": 1730921345.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lvuc5dp",
+                      "author": "n3rv",
+                      "body": "Live long and prosper.",
+                      "score": 2,
+                      "created_utc": 1730951667.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lvtgpba",
+                  "author": "OneBigBug",
+                  "body": ">Logic would dictate you design the motherboard around that and tack on a CPU, but the typical PC design is still CPU centric. \n\nI can think of a reason why the *Central* Processing Unit might be more *central* to the PC than the Graphics Processing Unit.\n\nA CPU is central because it actually does all the *computer* things. You can have a computer without a GPU, you can't have a computer without a CPU. A GPU that becomes the central processor wouldn't become GPU centric, it would need to be redesigned so much as to become itself a CPU. It would just be a CPU with an incredibly large iGPU, presumably.\n\nI *do* think we're long overdue for vertical (? \"Co-planar\", perhaps) mounting of the GPU, though, because of the power (and therefore heat, and therefore size) demands of modern GPUs.\n\nI can imagine some sort of ATX-like standard where your CPU, and all its associated components were themselves something more video-card sized, and you connected a bunch of equally-sized cards together rather than one big motherboard that we strap everything else to. Sort of like the trash can mac pro, if you \"unrolled\" it.\n\nIt's unreasonable to expect so much of PCI-e brackets.",
+                  "score": 21,
+                  "created_utc": 1730940850.0,
+                  "replies": [
+                    {
+                      "id": "lvumety",
+                      "author": "LaxVolt",
+                      "body": "To your last point, this has actually been a thing for a while. A lot of older industrial computers would have an ITX motherboard with extended pci slots for a dual slot cpu board that plugged in like a large graphics card. \n\nhttps://www.industrialpcpro.com/pcie-q170-picmg-13-full-size-cpu-card\n\nIn addition some of the nuc pro models have this architecture where the cpu unit and the gpu unit are mounted side by side. \n\nhttps://www.newegg.com/intel-nuc11btmi9-nuc-11-extreme/p/3D5-002J-000J0",
+                      "score": 2,
+                      "created_utc": 1730956007.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lvuqg8x",
+                      "author": "tastyratz",
+                      "body": "yes and no on reorienting the GPU.\nYes, we're asking a lot of the brackets/slots from the most extreme top end large cards.\nBut... reorientation is either displacing the expansion slots for more than just GPU's (like 2.5/10gbe cards, wifi cards, storage adapters, etc) or if not then it's going where the 3.5/5.5 bays are. It could be rotated 90 degrees but then it blocks airflow across a case. If it was fully coplanar, you're not going to want to give up other peripherals so the case just grows deeper.\n\nHonestly what I'd rather see first is getting away from PCIE slots and moving towards interconnecting internally with PCIE over thunderbolt cables. Then we could flexibly modularly mount anything anywhere. Maybe even see repurposing 3.5 slots for standalone accessories that would have otherwise been a slot card.\n\nThat being said, any of this gets in the way of case compatibility and interoperability of existing peripherals largely driven by very niche needs (excessively large high power top tier gfx cards).",
+                      "score": 1,
+                      "created_utc": 1730957949.0,
+                      "replies": [
+                        {
+                          "id": "lvv18od",
+                          "author": "ElusiveGuy",
+                          "body": "> Honestly what I'd rather see first is getting away from PCIE slots and moving towards interconnecting internally with PCIE over thunderbolt cables.\n\nAs much as I'd love that in concept, I don't think that's ever going to happen for bandwidth reasons if nothing else. Thunderbolt 5 gives you a grand total of 4 PCIe 4.0 lanes. PCIe 5.0 gives twice the per-lane throughput, and a full-featured slot gives you 16 lanes for a total of 8x the throughput.\n\nNow, current gen (e.g. 4090) GPUs don't actually use PCIe 5.0 x16, but they *do* use PCIe 4.0 x16, you do start seeing a performance dip at x8, and it gets pretty significant at x4. Ref: https://www.pugetsystems.com/labs/articles/impact-of-gpu-pci-e-bandwidth-on-content-creation-performance/\n\nGaming will likely suffer less than content creation, as far as throughput requirements go. But it's still suboptimal, and therefore unlikely to be seen in conventional PCs.\n\nAnd AFAIK there's a significant amount of signal conditioning required to get even PCIe 4.0 working over the much longer distance of a TB cable, so not only is the interface more expensive but I'd be surprised if they manage to get PCIe 5.0 or higher into a cable form anytime soon (TB has always lagged PCIe by approx a generation, so it *could* happen, but will be a while at least).",
+                          "score": 1,
+                          "created_utc": 1730963830.0,
+                          "replies": [
+                            {
+                              "id": "lvwhe7a",
+                              "author": "tastyratz",
+                              "body": ">Now, current gen (e.g. 4090) GPUs don't actually use PCIe 5.0 x16, but they do use PCIe 4.0 x16, you do start seeing a performance dip at x8, and it gets pretty significant at x4. Ref:\n\nYes and no. There is an almost tiny statistical variance there where the difference is incredibly minor until you all but choke out the card. That link I've used to argue the other point, all but the most grossly overpremium cards don't come close to really fully utilizing modern PCIE lanes. We just don't need them for most cases.\n\nAnd in those instances? Those cards that really WANT all those good good lanes?\n\nWhy don't we just... use 2 thunderbolt cables to connect them? or 4 if we ever really need to?\n\nA pack of plugs on the bottom of a motherboard similar to how SATA connector blocks look for thunderbolt to all the peripherals would displace all the slot space and render full size boards obsolete. If modern remote gfx cards had the same bolt pattern of the bottom of an ATX board it might even allow us to retrofit existing chassis by making all new boards mITX and bolting graphics directly underneath it... or maybe small graphics cards sit in a drive slot, or bolt to the top or bottom of the case. A cable gives you options. We could see a resurgence of cases that have that broken out subtunnel under them just for graphics with big fans moving fresh air across them.\nYou might even see better performance from better cooling and better packaging than the theoretical lanes give you.\n\nI think we CAN do pcie lanes over thunderbolt and we're ready for a modern interconnect that's adequately fast enough to support our needs. The card can be flexibly located in the case and IO can be handled with a remote daughter board that attaches to the case.\n\nHell, if we really needed it for specialty connections there is no reason we couldn't plug in 5 thunderbolts and give a card 20x, it goes the other direction too should the need ACTUALLY come about.\n\nI also think we have a lot to gain by letting us have more flexibility in how lanes are assigned without being 1x-4x-8x-16x configurations. Maybe we see 2x or 3x (non-gfx) cards. We could see cheaper motherboards with less lanes because we don't need to burn them up on slots not in use. Ultimately that's the real benefit to new PCIE standards, doing more on less lanes.",
+                              "score": 1,
+                              "created_utc": 1730990096.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m5o1zbx",
+                      "author": "MetalingusMikeII",
+                      "body": "Modular PC would be amazing.",
+                      "score": 1,
+                      "created_utc": 1736150979.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lvqy4ie",
+                  "author": "TwoBionicknees",
+                  "body": "Pretty much none of that makes sense.\n\ngaming is primarily gpu limited, meaning more people upgrade their gpu than cpu throughout the lifespan of a build, it's also easiest to upgrade a gpu. GPus are not latency sensitive, cpus are incredibly latency sensitive and to run gaming code, you need a cpu for the OS and game code itself, which is all latency sensitive, which means distance from cpu to major components like ram is by far, magnitudes more crucial than the gpu.\n\nintegrated gpus and making other things modular is like, the worst idea in pc building history.\n\n>Logic would dictate you design the motherboard around that and tack on a CPU, but the typical PC design is still CPU centric. \n\nif you know absolutely nohting about cpu, gpu, and pc architecture, sure, in reality, no it wouldn't. Surprisingly, the entire industry and millions of hardware designers all randomly went against logic... or you're wrong.",
+                  "score": 68,
+                  "created_utc": 1730914806.0,
+                  "replies": [
+                    {
+                      "id": "lvr6shg",
+                      "author": "Zuiia",
+                      "body": "I agree with most of this, but I think the OC meant that it would make sense for the CPU to be integrated in the motherboard, which would be in line with most of your points.",
+                      "score": 13,
+                      "created_utc": 1730917166.0,
+                      "replies": [
+                        {
+                          "id": "lvs5c3v",
+                          "author": "None",
+                          "body": "Yumm. so when one components falls apart, everything goes",
+                          "score": 14,
+                          "created_utc": 1730926555.0,
+                          "replies": [
+                            {
+                              "id": "lvsian8",
+                              "author": "Zuiia",
+                              "body": "Integrated does not need to mean non-replaceable/repairable.",
+                              "score": -15,
+                              "created_utc": 1730930103.0,
+                              "replies": [
+                                {
+                                  "id": "lvsii1y",
+                                  "author": "None",
+                                  "body": "*checks around the industry*\n\nSure... they'll have your best interests at heart",
+                                  "score": 16,
+                                  "created_utc": 1730930161.0,
+                                  "replies": [
+                                    {
+                                      "id": "lvsrb6k",
+                                      "author": "jureeriggd",
+                                      "body": "motherboards with integrated CPUs and RAM are already a thing and have been for a long time\n\nyou could totally buy a \"good enough\" integrated board/processor/ram and just replace the GPU. Most PC enthusiasts do that without the integrated part anyhow. I know my last board/processor/memory combo lasted me a decade and 3 GPUs before upgrading.\n\nWhy not go the extra mile for integration if it helps in another category, like price. Manufacturers may sell an integrated product cheaper than the sum of the equivalent non-integrated components because it means they own every aspect of the sale. Laptops run on the same idea. Trade off integration for advantages somewhere else, like space, power consumption, weight, or price.",
+                                      "score": -7,
+                                      "created_utc": 1730932729.0,
+                                      "replies": [
+                                        {
+                                          "id": "lvti543",
+                                          "author": "elite_haxor1337",
+                                          "body": "> motherboards with integrated CPUs and RAM \n\nyeah and they suck ass! they're called prebuilts from like 2008 and earlier. proprietary garbage that cannot be repaired and generally is designed as cheaply as possible at the expense of the product's performance.\n\nout of curiosity, why do you want integrated parts? what's the reason for wanting this in the first place? because it's obvious to anyone who actually uses pc's that integrated parts suck. oh another example i'll leave you with is apple just like, generally lol. apple. nuff said",
+                                          "score": 9,
+                                          "created_utc": 1730941316.0,
+                                          "replies": [
+                                            {
+                                              "id": "lvug9j8",
+                                              "author": "Paavo_Nurmi",
+                                              "body": "> ! they're called prebuilts from like 2008 and earlier. \n\nMy first PC was a Puckered Hell (Packard Bell) 486 SX with the RAM soldered in and no way to add more or swap it out. The CPU you could at least change out and put a DX CPU in.",
+                                              "score": 2,
+                                              "created_utc": 1730953343.0,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "lvumu1g",
+                                              "author": "KingZarkon",
+                                              "body": ">> motherboards with integrated CPUs and RAM \n>\n>yeah and they suck ass! they're called prebuilts from like 2008 and earlier. proprietary garbage that cannot be repaired and generally is designed as cheaply as possible at the expense of the product's performance.\n\nOr almost every laptop made. Some of them you can replace RAM and storage, but the CPU is almost always soldered down.",
+                                              "score": 0,
+                                              "created_utc": 1730956204.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lvuxeb2",
+                                                  "author": "elite_haxor1337",
+                                                  "body": "true but is that an aspect of laptops that you like?",
+                                                  "score": 2,
+                                                  "created_utc": 1730961620.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lvssgrq",
+                                  "author": "Aleyla",
+                                  "body": "That\u2019s literally the definition of integrated.",
+                                  "score": 9,
+                                  "created_utc": 1730933079.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lvr7ajn",
+                      "author": "im_thatoneguy",
+                      "body": "GPUs are extremely latency sensitive, so latency sensitive that they usually are on a full generation newer RAM and memory. The only reason you can say GPUs aren\u2019t latency sensitive is because we already have a nearly full computer on the GPU. It\u2019s like a second computer connected by a highspeed network.\n\nWhen you integrate a CPU and GPU you are removing the redundancy of holding the game in CPU and GPU memory if they can both share the same game state.\n\nApple has shown how powerful it is to have a SoC that shares memory for allowing a 48GB GPU on an enthusiast class laptop. To get 48GB of memory on a GPU, normally you need a like $20k Nvidia GPU.\n\nThe Apple M series processors have already demonstrated the potential performance, especially of single threaded applications by pairing a cpu core with next gen memory.",
+                      "score": -14,
+                      "created_utc": 1730917301.0,
+                      "replies": [
+                        {
+                          "id": "lvrangm",
+                          "author": "TwoBionicknees",
+                          "body": "By the very basic nature of a gpu. Something that is highly parralel with vastly lower clockspeeds is inherently less latency sensitive than something that is highly sequential and requires a higher clock speed.\n\nGpus are NOT latency sensitive compared to cpus, full stop. they require massive bandwidth and the memory they use has insanely higher latency than system ram. it's why your gpu pcb has gddr and not ddr4/5/etc. \n\nIntegrating things can help, but it's not proof that they are equally latency sensitive as a cpu, at all.",
+                          "score": 21,
+                          "created_utc": 1730918211.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lvtg8m1",
+                  "author": "elite_haxor1337",
+                  "body": "> All a modern GPU really needs is some USB and NVMe slots to be a full computer.\n\nwtf are you talking about man lol",
+                  "score": 11,
+                  "created_utc": 1730940702.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvv8cht",
+                  "author": "TONKAHANAH",
+                  "body": "Somebody just posted in the Linux gaming subreddit a clip from a YouTube video he was working on showing him running an AMD GPU connected to a Raspberry Pi through a pcie lane.\n\nIt look like he was using some x86 to arm software to run the first crisis game.\n\nThat reality maybe a possibility in the near future. I guess if it happens on arm though that would kind of be a good thing. It at least would mean there could be competition with many other companies making arm cpus",
+                  "score": 3,
+                  "created_utc": 1730968253.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvuinqn",
+                  "author": "heinzbumbeans",
+                  "body": "> Even big CPUs are small compared to GPUs\n\nis that true though? I dont know what size the actual GPU chip is, but i know most of the size of a card is the cooling and its own board to plug into the PCIE slot. And I have an AIO thats bigger than my whole graphics card, which you would have to include for a fair comparison if youre just going by the size of the graphics card.",
+                  "score": 1,
+                  "created_utc": 1730954353.0,
+                  "replies": []
+                },
+                {
+                  "id": "lwhox8h",
+                  "author": "Opening_AI",
+                  "body": "so like Apple M chips, wow ground breaking \ud83e\udd78",
+                  "score": 1,
+                  "created_utc": 1731279796.0,
+                  "replies": []
+                },
+                {
+                  "id": "lzog166",
+                  "author": "Excellent_Brilliant2",
+                  "body": "for the average office computer, a gpu card really does nothing. onboard graphics have gotten to the point where they are good enough for pretty much everything except high end design and gaming.",
+                  "score": 1,
+                  "created_utc": 1732948059.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvrueju",
+                  "author": "brando56894",
+                  "body": "> The GPU is the most expensive component now, and the most power hungry. \n\nYou aren't kidding. I bought a new custom built PC last night and bought a 4080 Super...it was more than everything else combined (granted I didn't buy a case or storage, since I'm replacing an AIO I unintentionally broke yesterday and still have my 10+ year old NZXT H440), it also consumes more power than the 12 core Ryzen 9 I added to the build.\n\nI have a Threadripper 2970wx (which is known to be on the high end of power consumption) in my server and the 4080S consumes about 70 watts more than that does at max draw.",
+                  "score": 0,
+                  "created_utc": 1730923580.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvrdzhi",
+                  "author": "Dirty_Dragons",
+                  "body": "That would be interesting. There already is CPU with an integrated GPU. Why not the inverse?",
+                  "score": -3,
+                  "created_utc": 1730919111.0,
+                  "replies": [
+                    {
+                      "id": "lvrivwd",
+                      "author": "ArseBurner",
+                      "body": "Could argue that GH200 is already that but for the datacenter.",
+                      "score": 5,
+                      "created_utc": 1730920448.0,
+                      "replies": [
+                        {
+                          "id": "lvrz98l",
+                          "author": "CatProgrammer",
+                          "body": "Yeah, that sounds like a coprocessor.",
+                          "score": 2,
+                          "created_utc": 1730924917.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvvw7zc",
+              "author": "cemges",
+              "body": "Nvidia could do another thing like gameworks and go to big companies to help them port their engine to arm. Only if windows arm support is sufficiently mature.",
+              "score": 3,
+              "created_utc": 1730982279.0,
+              "replies": []
+            },
+            {
+              "id": "lvvk1ly",
+              "author": "None",
+              "body": "They will most likely go the route that ryzen did. Have their gpus work better when paired with their cpus. Maybe not but we shall see.",
+              "score": 2,
+              "created_utc": 1730975904.0,
+              "replies": []
+            },
+            {
+              "id": "lwwxme4",
+              "author": "Complete_Lurk3r_",
+              "body": "They're making an apu first",
+              "score": 1,
+              "created_utc": 1731505054.0,
+              "replies": []
+            },
+            {
+              "id": "lzt8ums",
+              "author": "ZigZagZor",
+              "body": "If Nvidia succeeds, Nvidia will have a huge monopoly in the PC industry even better than before!!!",
+              "score": 1,
+              "created_utc": 1733020417.0,
+              "replies": [
+                {
+                  "id": "lztbcpk",
+                  "author": "powerhcm8",
+                  "body": "That's if they succeed, they have a good chance, but it's not granted. While intel is way ahead in terms of sales, they have been leaving a lot to desire recently, more competition should be good, and I don't think will dethrone Intel, at least not in less than a decade, they would have to release an amazing product at a great price for do that. And they are just starting, so it will probably take at least 3 generations to catch up. And meanwhile Intel and AMD will be watching and trying to respond accordingly.\n\nAs example you can see how Intel is doing with their GPUs, although it's possible that Nvidia will have better luck with CPUs than Intel with GPUs.\n\nOverall, I think by the end of the decade we will have a healthy 3-way competition on CPU and GPU market, the monopoly probably only has a chance of happening in the next decade. I hope no one give up.",
+                  "score": 1,
+                  "created_utc": 1733021399.0,
+                  "replies": [
+                    {
+                      "id": "lztcttx",
+                      "author": "ZigZagZor",
+                      "body": "No matter what x86 is destined to decline, ARM is overtaking in data center, automotive and IoT. As we know, the role of custom accelerators will increase in the data center, the role of CPUs will be decreased. Every company will try to have their own  ARM chip and I think even  PC OEMs like Dell will try to make their own chip, that's the beauty of ARM. Qualcomm is not trying very hard to make a monopoly right now it will fail.",
+                      "score": 1,
+                      "created_utc": 1733021984.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvudnrl",
+              "author": "alidan",
+              "body": "they wont make a pc cpu for gaming, they will make a server side arm cpu that is effectively a pcie machine.",
+              "score": 0,
+              "created_utc": 1730952272.0,
+              "replies": [
+                {
+                  "id": "lvuenjt",
+                  "author": "powerhcm8",
+                  "body": "The title says PC, as in Personal Computer, and I heard someone saying that they already make server CPUs, I looked it up and it's called Grace Hopper and it was released 2 years ago.",
+                  "score": 4,
+                  "created_utc": 1730952675.0,
+                  "replies": [
+                    {
+                      "id": "lvuj90a",
+                      "author": "alidan",
+                      "body": "nvidia has seemingly wanted to get out of the consumer end stuff for a long time, I just don't see them trying to go into the consumer market, especially where they would have to actually compete in pricing with their hands tied behind their back, as a market they would want to join, especially with already limited fab space where a 200$ die could have been used to make a 8000$ die.",
+                      "score": 0,
+                      "created_utc": 1730954607.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvpslgk",
+          "author": "octagonaldrop6",
+          "body": "I don\u2019t think the gaming market is a major factor in their decision making process anymore.",
+          "score": 70,
+          "created_utc": 1730903598.0,
+          "replies": [
+            {
+              "id": "lvptjlo",
+              "author": "kclongest",
+              "body": "The title mentions consumer market, I just assumed we are talking about a gaming processor.",
+              "score": 28,
+              "created_utc": 1730903874.0,
+              "replies": [
+                {
+                  "id": "lvpufw4",
+                  "author": "octagonaldrop6",
+                  "body": "We are, but I don\u2019t think the market segment itself has anything to do with the decision. They are already pumping out these massive server CPUs and are just tacking on a consumer lineup.\n\nIf the dies underperform, they go to consumer. I don\u2019t think it\u2019s a gamble, I think they are recycling their leftovers.",
+                  "score": 33,
+                  "created_utc": 1730904130.0,
+                  "replies": [
+                    {
+                      "id": "lvpvcfl",
+                      "author": "danielv123",
+                      "body": "The integration is also important - consumer GPUs means students and developers  start their career experimenting on Nvidia hardware and software, this is a big advantage and helps create lockin. Currently this is not a factor on the CPU side.",
+                      "score": 16,
+                      "created_utc": 1730904386.0,
+                      "replies": [
+                        {
+                          "id": "lvpvz72",
+                          "author": "octagonaldrop6",
+                          "body": "Yup this is huge. There are a lot of IT people that chose to buy Nvidia GPUs for their company because they have been using them at home for years.\n\nSame reason why Cloudflare offers such a generous free service. So that when it\u2019s time to pick a provider for the company, all the decision makers already use Cloudflare at home and are familiar with it.",
+                          "score": 13,
+                          "created_utc": 1730904566.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lvtf9b7",
+                      "author": "Anjz",
+                      "body": "The consumer lineup is basically the Costco rotisserie chicken segment of these companies. It brings in the market with software and marketing for their current gen. If everyone is using NVIDIA GPUs you can bet they\u2019ll be inclined to also integrate it into their enterprise ecosystem.",
+                      "score": 3,
+                      "created_utc": 1730940382.0,
+                      "replies": [
+                        {
+                          "id": "lvtg0ty",
+                          "author": "octagonaldrop6",
+                          "body": "That\u2019s true. Same reason Cloudflare has such a generous free tier.\n\nThough idk about gaming on ARM, at least for the immediate future. Power efficient laptops or workstations might achieve this goal better.",
+                          "score": 3,
+                          "created_utc": 1730940631.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lvpultv",
+                  "author": "sylfy",
+                  "body": "Gaming is only a tiny fraction of the consumer market, a big part of the market is low cost office PCs and laptops.",
+                  "score": 8,
+                  "created_utc": 1730904176.0,
+                  "replies": [
+                    {
+                      "id": "lvvksw0",
+                      "author": "soulsoda",
+                      "body": "Phones and laptops most likely since it's ARM. Although windows on ARM is still and probably always will be \ud83e\udd2e. That battery life though!",
+                      "score": 0,
+                      "created_utc": 1730976364.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvqezdr",
+              "author": "kevihaa",
+              "body": "Hard to tell. \n\nIf their goal is to extend the hockey stick profitability graph even further, then the real money is in either data centers or OEMs that supply large businesses. \n\nIn both cases, there is little appetite for anything flashy or untested, even if it is \u201cbetter\u201d or, more importantly, better for the price. \n\nAs a result, I could see a path for NVIDIA where they essentially *start* with a \u201cgaming\u201d CPU and then use that niche to get established in the market. \n\nPure speculation of course, and NVIDIA certainly just has absolutely stupid amounts of cash to throw at new markets in the hope something sticks.",
+              "score": 3,
+              "created_utc": 1730909714.0,
+              "replies": [
+                {
+                  "id": "lvqg50p",
+                  "author": "octagonaldrop6",
+                  "body": "Starting with gaming is pretty unusual in today\u2019s chip economy. You always start with the highest-end and then the defective chips get binned down to workstation or gaming, and then general consumer.\n\nOnly reason why you start in the lower performance segments is when yields are too low and it takes a while to build stock for the server class.\n\nThough as you say, they have so much money they can do whatever they want and break the mould if they choose to. So who knows.\n\nEdit: also there absolutely is a market for the flashy and untested, look at Blackwell",
+                  "score": 1,
+                  "created_utc": 1730910023.0,
+                  "replies": [
+                    {
+                      "id": "lvsmf95",
+                      "author": "Lycaniz",
+                      "body": "i think the point is, start at the gaming market, cause if its a huge flop and perform like intel arc, you didnt piss off your cash cows in the AI/server market etc by delivering a flawed product, get it a generation or two to work out the kinks, then expand into server market with a competitive product",
+                      "score": 2,
+                      "created_utc": 1730931288.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvuyrq4",
+              "author": "quicksilverpr",
+              "body": "I'm with you, gaming is dying because of DEI and nonsense. If Nvidia is going to bet on that, it's a bad move.",
+              "score": -1,
+              "created_utc": 1730962395.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvquhxw",
+          "author": "wang_li",
+          "body": "Nintendo Switch is ARM based. In fact it's Nvidia Tegra based. Nvidia already makes a variety of SBCs with ARM CPU + Nvidia GPU.",
+          "score": 17,
+          "created_utc": 1730913829.0,
+          "replies": []
+        },
+        {
+          "id": "lvpsre6",
+          "author": "ArdiMaster",
+          "body": "ARM as an architecture is plenty mature. It\u2019s more a matter of overcoming the x86 momentum/defaultism.",
+          "score": 14,
+          "created_utc": 1730903646.0,
+          "replies": [
+            {
+              "id": "lvsr7n0",
+              "author": "huuaaang",
+              "body": "Also, most desktop ARM systems are geared to lower power and to run on batteries. There's just really not much reason to target those for typical PC games. \n\nThat said, I doubt there's a huge barrier to recompiling a Windows x86 game source code to WIndows ARM. It's just not worth even that much effort. Apple has some high end performing ARM CPUs that could run t he games, but that would mean more than recompiling. You'd have to actually port it to MacOS.",
+              "score": 7,
+              "created_utc": 1730932700.0,
+              "replies": [
+                {
+                  "id": "lvt3pwv",
+                  "author": "elreniel2020",
+                  "body": "> Also, most desktop ARM systems are geared to lower power and to run on batteries. There's just really not much reason to target those for typical PC games. \n\nSteamdeck says hi. so does every other handheld gaming device that is released recently.",
+                  "score": 4,
+                  "created_utc": 1730936641.0,
+                  "replies": [
+                    {
+                      "id": "lvt8esx",
+                      "author": "huuaaang",
+                      "body": "So... what's your point exactly? How does ARM fit in here? You think PC game publishers are going to target ARM just to get the relatively small handheld market that is apparently covered by x86 CPUs already?",
+                      "score": 8,
+                      "created_utc": 1730938159.0,
+                      "replies": [
+                        {
+                          "id": "lvuaeqj",
+                          "author": "Dick_Lazer",
+                          "body": "I think Apple has already shown that ARM can be great for the desktop market as well. The fact that they require less power also means they produce less heat, you'll have a lot easier time keeping your system cool and quiet (on the CPU side, at least).",
+                          "score": 4,
+                          "created_utc": 1730950996.0,
+                          "replies": [
+                            {
+                              "id": "m4iqi7k",
+                              "author": "KerbalEssences",
+                              "body": "It's not a fact that ARM requires less power than x86 to do the same workload. It's just that software running on ARM is heavily cut compared to its x86 variants. Like games not having the same fidelity because you can't tell the difference on a small screen.",
+                              "score": 0,
+                              "created_utc": 1735565684.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ly1mdux",
+                  "author": "Realistic-Nature9083",
+                  "body": "There is an iso for windows 11 arm.",
+                  "score": 1,
+                  "created_utc": 1732073835.0,
+                  "replies": [
+                    {
+                      "id": "ly5huf7",
+                      "author": "huuaaang",
+                      "body": "And? A lot of software, and nearly all games games, still aren't ARM native even on WIndows.",
+                      "score": 1,
+                      "created_utc": 1732132802.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvpwcf5",
+          "author": "sudoku7",
+          "body": "The wrinkle is that most gaming revenue now goes through ARM chipsets now. It\u2019s just that is on mobile.",
+          "score": 8,
+          "created_utc": 1730904670.0,
+          "replies": []
+        },
+        {
+          "id": "lvtk9iq",
+          "author": "YourLoliOverlord",
+          "body": "Pretending that the largest company in the world gives a single shit about \"gaming\" anymore when 99% of their business is no longer related at all is interesting",
+          "score": 7,
+          "created_utc": 1730942010.0,
+          "replies": [
+            {
+              "id": "lvvt8wh",
+              "author": "candre23",
+              "body": "Man, this comment is way too far down in this thread.\n\nNvidia has little to no interest in gaming any more.  Why would they?  As you correctly (if slightly hyperbolically) pointed out, the overwhelming majority of their profit comes from enterprise GPU sales.  They have the market on lockdown, and they have the largest corpos on earth *waiting in line* to hand over blank checks.  Enterprise is responsible for hundreds of billions per year, and the entire gaming market is a rounding error in comparison.",
+              "score": 3,
+              "created_utc": 1730980921.0,
+              "replies": [
+                {
+                  "id": "lvz8tge",
+                  "author": "antara33",
+                  "body": "I think you both are missing something about the consumer market for nvidia.\n\n\nLets talk about the 4090.\n\n\nThe 4090 is not a gaming product. Is a way to recycle bad chips that are not fit for an ADA RTX6000.\n\n\nSame goes for most of the GPU lineup.\n\n\nThey serve as a way to recycle chips not fit for enterprise.\n\n\nThe gaming division may not be the main source of money, but it serves HARD to ensure money is not wasted.",
+                  "score": 1,
+                  "created_utc": 1731018721.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvrxr7o",
+          "author": "ticuxdvc",
+          "body": "There's only so much gaming performance the integrated GPUs of the M-series/Snapdragons/etc can do. We need dedicated GPU drivers for ARM. Each one of those ARM laptops that come out are immediately DoA for me because I can't hook up an eGPU to it like I can on my (noisy, space heating, low battery) 12th gen intel laptop.\n\nDesktop ARM will be similarly DoA if we can't hook up a GPU on its PCIe slots.",
+          "score": 2,
+          "created_utc": 1730924507.0,
+          "replies": []
+        },
+        {
+          "id": "lvptrod",
+          "author": "Stunning_Variety_529",
+          "body": "ARM is the future for the vast majority of consumer electronics. Gaming will follow where the people are.",
+          "score": 7,
+          "created_utc": 1730903938.0,
+          "replies": [
+            {
+              "id": "lvsy8c0",
+              "author": "zer00eyz",
+              "body": "\\> he vast majority of consumer electronics\n\nPhones, desktops, consoles... I could see it. But there are more esp32 and will be more RISC chips quickly. \n\nMeanwhile it takes about a decade for \"server\" chps to come down to the \"desktop\" space. ....  AMD is building 256 thread chips today. \n\nIntel and AMD just agreed that they are going to work on extending the x86 spec together. \n\nI suspect that we're hitting a wall interns of \"step/Node\" for wafers/chips. If we end up on one for a \"while\" then ts likely we get some \"interesting\" products \n\nNet net: dont be so quick to make predictions it's interesting right now.",
+              "score": 3,
+              "created_utc": 1730934873.0,
+              "replies": [
+                {
+                  "id": "m4iqydt",
+                  "author": "KerbalEssences",
+                  "body": "x86 is RISC too just so you know. [https://en.wikipedia.org/wiki/Micro-operation](https://en.wikipedia.org/wiki/Micro-operation)",
+                  "score": 1,
+                  "created_utc": 1735565879.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvrz26k",
+          "author": "CatProgrammer",
+          "body": "ARM has been a mature gaming platform since the early 2000s. The GBA was ARM!",
+          "score": 3,
+          "created_utc": 1730924864.0,
+          "replies": []
+        },
+        {
+          "id": "lvshb80",
+          "author": "hishnash",
+          "body": "NV have some ability to pressure the industry to move.\n\nthey can tell OEMs \"Such shame you delivery of 4090s was delayed... we would love to see more sales of our APU by the way...\"\n\nThey can tell game devs \"Oh we would love to fix that driver issue your having but the game does not have a native NV-ARM build and thus our QA team is limited in the x86 debugging department if you need priority support form us it might be good to get a native NV-ARM build... (not stanared ARM64 please no we want something custom)\"...\n\nAnd then to MS \"We are NV you do not get to look at our driver... yes our driver is about as large as the rest of your kernel and completely replaces most of the runtime for all x86 emulation but that's just how it is toughe\"",
+          "score": 2,
+          "created_utc": 1730929829.0,
+          "replies": []
+        },
+        {
+          "id": "lvq7x2c",
+          "author": "MaChao20",
+          "body": "What\u2019s ARM? I\u2019m also thinking of upgrading my i5-11600k to AMD cpu.",
+          "score": 1,
+          "created_utc": 1730907836.0,
+          "replies": [
+            {
+              "id": "lvqf2j6",
+              "author": "LupusDeusMagnus",
+              "body": "It\u2019s a different architecture, as of now there\u2019s no discrete desktop ARM CPUs, only laptops.",
+              "score": 10,
+              "created_utc": 1730909738.0,
+              "replies": [
+                {
+                  "id": "lvqfo2g",
+                  "author": "MaChao20",
+                  "body": "Ah I see. I really don\u2019t have any technical knowledge with PCs in general except for building it and the basic commands.",
+                  "score": 2,
+                  "created_utc": 1730909899.0,
+                  "replies": [
+                    {
+                      "id": "lvqtkxy",
+                      "author": "an0maly33",
+                      "body": "In a sense, Intel and AMD CPUs speak a common \"language\" called x86.  ARM is a different \"language\" commonly used by mobile CPUs. Apple's desktop and laptop chips are also ARM-based now.",
+                      "score": 5,
+                      "created_utc": 1730913585.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvtkjgr",
+              "author": "manaworkin",
+              "body": "ARM is a style of chip that has a lot of power compared to how energy efficient it is. They are primarily used in mobile devices such a phones, tablets, and handheld gaming devices. Apple also uses them in interesting ways such as macbook air that is cooled completely passively (no fans) leading to a quieter slimmer laptop.\n\nUse in the PC space is fairly new territory though since the windows operating system was not readily compatible with them until the development of windows 11. The announcement of a line of ARM processors is quite exciting as a concept for a number of reasons such as longer battery life laptops and cooler running desktops. Over time it could even lead to a potential change to the idea of even needing a dedicated GPU on a high end PC.\n\nHowever I would not recommend buying it as an \"upgrade\" any time in the near future. It will experience MANY growing pains in terms of compatibility and early generations of the tech will quickly become obsolete as it grows in popularity and use due to changes in market demands. IF it grows in use. There is a non zero chance it will fizzle out and become yet another \"unrealized miracle format that never got it's fair shot\" debate for tech enthusiasts to argue about for decades to come like the 8 track, betamax, and the firewire cable.",
+              "score": 2,
+              "created_utc": 1730942099.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvrzh9u",
+          "author": "speculatrix",
+          "body": "I want riscV because arm is still proprietary.",
+          "score": 1,
+          "created_utc": 1730924978.0,
+          "replies": []
+        },
+        {
+          "id": "lvsj3gz",
+          "author": "WhenPantsAttack",
+          "body": "This feels like a gamble on the handheld gaming market. Arm efficiency really seems to be the missing sauce to having truly great handheld. People are handicapping their experiences just to get over the 2 hour mark in battery life.",
+          "score": 1,
+          "created_utc": 1730930329.0,
+          "replies": []
+        },
+        {
+          "id": "lvspze9",
+          "author": "huuaaang",
+          "body": "I mean, mobile gaming is huge and already dominated by ARM. You probably won't see ARM compete directly with PC gaming though.",
+          "score": 1,
+          "created_utc": 1730932335.0,
+          "replies": []
+        },
+        {
+          "id": "lvt85n4",
+          "author": "Warskull",
+          "body": "I would say they are betting on being able to throw their weight around and forcing it. Given how big they've gotten with AI, they can probably do it.",
+          "score": 1,
+          "created_utc": 1730938077.0,
+          "replies": []
+        },
+        {
+          "id": "lvurjxg",
+          "author": "supervisord",
+          "body": "There is no other way to update the standard. It\u2019s hard and expensive, but it has to be done.",
+          "score": 1,
+          "created_utc": 1730958494.0,
+          "replies": []
+        },
+        {
+          "id": "lw5njb9",
+          "author": "Chilkoot",
+          "body": "Looks like it's the real deal:\n\nhttps://www.youtube.com/watch?v=8bfS0fcyXpg\n\n(first segment in this vid is the sauce)",
+          "score": 1,
+          "created_utc": 1731104815.0,
+          "replies": []
+        },
+        {
+          "id": "lwwxi9o",
+          "author": "Complete_Lurk3r_",
+          "body": "Considering how well x86 games are running on smartphones under unofficial emulation, I'm sure game Devs and driver Devs will have no problem.",
+          "score": 1,
+          "created_utc": 1731505010.0,
+          "replies": []
+        },
+        {
+          "id": "lvr6ca5",
+          "author": "126270",
+          "body": "If I could write my younger self a letter, it would have been a list of ibm, yahoo, apple and so on stocks..  \n\nMore recently that letter would just be btc and nvda",
+          "score": 1,
+          "created_utc": 1730917043.0,
+          "replies": []
+        },
+        {
+          "id": "lvs4j4i",
+          "author": "Plank_With_A_Nail_In",
+          "body": "More to gaming than PC just ask Nintendo. Gaming market going to change a lot in next 5 years due to AI too.",
+          "score": -1,
+          "created_utc": 1730926341.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvps115",
+      "author": "UnsorryCanadian",
+      "body": "Intel starts making GPUs, then Nvidia starts making CPUs",
+      "score": 263,
+      "created_utc": 1730903431.0,
+      "replies": [
+        {
+          "id": "lvro4cm",
+          "author": "CrazyTillItHurts",
+          "body": "> Intel starts making GPUs\n\nThey've tried for a LONG time, and it's always garbage and gets canceled. The only reason anyone even uses the Arc is for on-the-fly video transcoding. It sucks for literally anything else",
+          "score": 87,
+          "created_utc": 1730921875.0,
+          "replies": [
+            {
+              "id": "lvsivyb",
+              "author": "SteveThePurpleCat",
+              "body": "The Arcs have had a decent series of updates this past year, performance in most titles is in the 3060-3070 region, which the cards have the same ~\u00a3280 price point as.\n\nThey obviously lag far behind the current gen 4070's etc. But they are also half the price. A few more of the same level of driver updates over the next few months and they will be perfectly reasonable cards. The big question is if Intel can get the extrapolative frame generation working on the AI cores, if they do, it will be a huge boost. But the fact that they haven't already suggests that it's proving a much harder challenge than expected.",
+              "score": 39,
+              "created_utc": 1730930270.0,
+              "replies": []
+            },
+            {
+              "id": "lvuj09r",
+              "author": "somenewacc",
+              "body": "Let me tell you something about Intel. \n\nIt's a dinosaur. The guys who founded it were brilliant but now it's mainly who've been there 30+ years in middle management just coasting in Arizona, SC, Folsom and Oregon. No one has come up with an innovative design in 15 years. The political games they play rivals the schemes they hatch up in Washington. Nobody tracks any metrics internally. \nThey're clinging on by a thread because they build great big fabs and can manufacturer at scale, but lately, since their products are garbage, they've been manufacturing others chips including Nvidia.\n\nAt this point they should transform into a pure fabrication company and sell all the rest of their business at auction to whoever is willing to pay.",
+              "score": 9,
+              "created_utc": 1730954503.0,
+              "replies": [
+                {
+                  "id": "lvwiif4",
+                  "author": "Ok_Gate8187",
+                  "body": "Their i9 CPU\u2019s aren\u2019t good?",
+                  "score": 1,
+                  "created_utc": 1730990464.0,
+                  "replies": [
+                    {
+                      "id": "lvygk7q",
+                      "author": "Tandemdonkey",
+                      "body": "In comparison to what amd has been putting out, not necessarily, they generally compete in productivity tasks and lose in games, the 13900k and 14900k slightly outperform the 7950x in productivity while being harder to cool and generally using more power, and the 7950x3d wins in most gaming cases while promising you the future upgradability of the am5 platform\n\nIt's a fairly similar story with the new generation, though neither the core ultra series or the Ryzen 9000 series have been received very well as a whole, in this case the 9950x is on par with the core ultra 9 285k in productivity and the 9800x3d wins in gaming over anything else currently on the market, the way things are in the high end CPU market right now it's kind of hard to justify going Intel, but it's not like the CPU won't get the job done just fine either",
+                      "score": 1,
+                      "created_utc": 1731010596.0,
+                      "replies": [
+                        {
+                          "id": "m286c8r",
+                          "author": "Novenari",
+                          "body": "That\u2019s the thing though. First or second gen Ryzen, very debatable if they beat Intel in any areas. But at least AMD was semi close. Suddenly Ryzen 3000 series and beyond, and it\u2019s what you go to for personal computing. 100% for gaming, but also in a lot of cases it makes sense for productivity. Intel is barely keeping pace with AMD now.\u00a0\n\nPre-Ryzen? Intel was always, unquestionably, the CPU king. Mid 2000s onward and Intel dominated so heavily it was absurd. AMD has caught up and is putpacing and innovating while Intel treads water and has the corporate topside making wild pricing decisions\u2026",
+                          "score": 1,
+                          "created_utc": 1734296959.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvr9ipc",
+          "author": "im_thatoneguy",
+          "body": "You do have to wonder if they weren\u2019t worried before about stepping on toes. I know companies like Microsoft bend over backward to not compete with big partners. The Surface brand was very controversial because it would go directly head to head with dell, Lenovo etc.",
+          "score": 14,
+          "created_utc": 1730917904.0,
+          "replies": []
+        },
+        {
+          "id": "lvs8xus",
+          "author": "cpdx7",
+          "body": "Next thing you know, Intel starts making Nvidia's CPUs...",
+          "score": 5,
+          "created_utc": 1730927526.0,
+          "replies": []
+        },
+        {
+          "id": "lvsg38q",
+          "author": "nipsen",
+          "body": "Nvidia made ION (without Intel) in 2012. The Tegra chipsets (that are in the Switch, for example) are basically a small version of that, also with nvidia's graphics instruction sets embedded on the computation cores of the arm chipset. Apple's entire success, which is not much in techical terms, rests on having specialized instruction sets on extended instruction sets in ARM-cores, in exactly the same way.\n\nThe only reason we don't have a proper RISC computer again, with literally all the hardware manufacturers standing in line to offer products on it, is that Intel sues the stones off whoever will try to programatically, runtime, embed x86 instruction sets on general computation cores. That's a threat to their business-model, and they don't want that to happen.",
+          "score": 5,
+          "created_utc": 1730929491.0,
+          "replies": [
+            {
+              "id": "lwhp4zr",
+              "author": "Opening_AI",
+              "body": "so AMD didn't get sued?",
+              "score": 1,
+              "created_utc": 1731279871.0,
+              "replies": [
+                {
+                  "id": "lwhryiq",
+                  "author": "nipsen",
+                  "body": "AMD buried their \"generic compute core\" project (where the idea was to put different instruction sets on programmable cores as needed), and spent several years getting around to the zen design (which has similar cores on the different graphics and cpu ccds, but with different specialisation). I can't imagine they did that for the sake of their own convenience, unless a risky lawsuit would be in the making were they to go ahead with it. \n\nThe very interesting part of a design like this would of course be that you wouldn't actually need specializations and optimisations \"on the metal\" that work towards cache-hits and predictions, branching and so on. You could have programmed instruction sets that would require absurdly much lower clock-speeds to do exactly the same task. It'd be a renaissance for programmers who actually know what the f they're doing - and a disaster for the \"yes, I guess it's another day of fixing things that never worked and also never will\"- engineers.\n\nNote that the EeePC with an all-day video-player battery, based on an arm setup with nvidia instruction sets on the core-extensions did exist - just not for purchase. Nvidia's smaller labs created that - and that project was buried. They could have had a laptop that would have completely destroyed the competition in the thin and light setup, many years before any chromebooks - and nvidia hq decided that it would be bad for business. Which I suppose it would be, if your idea of good business is to charge 1000 euro for a graphics card only a tiny fraction of the market actually has a use for.",
+                  "score": 1,
+                  "created_utc": 1731280843.0,
+                  "replies": [
+                    {
+                      "id": "lwhtoe5",
+                      "author": "Opening_AI",
+                      "body": "My guess is that what looked good on paper and failed in actual application is what made them give up. Chip design isn't as simple as following a recipe.\n\nGoogle is finding that out with their tensor chips. This was design in house.\n\n[https://www.reddit.com/r/gadgets/comments/1gn4xjo/according\\_to\\_googles\\_own\\_data\\_overheating\\_issues/](https://www.reddit.com/r/gadgets/comments/1gn4xjo/according_to_googles_own_data_overheating_issues/)\n\nNvidia is good at one thing, GPU which is a totally different beast than CPU. It's not like nvidia can simply just scale up one of the GPU to a CPU design and make it work and handle all the work that a CPU has to do.\n\nA smart thing would be for NVIDIA to buy Intel, stock for stock and then split and sell off/IPO the foundry business, gut the GPU division if it wants to get into the CPU business. Intel knows CPU and is hampered by aging middle management.\n\nWhy do you think Qualcomm wants to buy Intel. Their snapdragon is ok but still can't compete against Intel. Can they catch up, sure if Intel continues to be asleep at the wheel.",
+                      "score": 1,
+                      "created_utc": 1731281437.0,
+                      "replies": [
+                        {
+                          "id": "lwhupgk",
+                          "author": "nipsen",
+                          "body": "Literally every piece of information you suggest here is impossible, pure fantasy, or wrong in some major way. But whatever.\n\nFor example: Fairchild was making integrated circuits with complex math on it before Intel existed. The concept I'm talking about is older than the Intel breakout. The Intel specialisation bent is made, specifically, by exploiting a very narrow niche in computing, by saving money on the one component that was prohibitively expensive at the time, the level1 cache.\n\nNote that it hasn't been prohibitively expensive since the 1990s. And we're still stuck with this because Intel just has too much money to spend, and too many customers who have no idea what they're buying.",
+                          "score": 1,
+                          "created_utc": 1731281800.0,
+                          "replies": [
+                            {
+                              "id": "lwhvgf7",
+                              "author": "Opening_AI",
+                              "body": "Chill bruh, it's a discussion, not some thesis.\n\nHope this helps, not just my opinion.\n\n[https://www.forbes.com/sites/greatspeculations/2024/09/24/nvidia-can-pay-50-more-for-intel/](https://www.forbes.com/sites/greatspeculations/2024/09/24/nvidia-can-pay-50-more-for-intel/)",
+                              "score": 1,
+                              "created_utc": 1731282058.0,
+                              "replies": [
+                                {
+                                  "id": "lwk3txa",
+                                  "author": "nipsen",
+                                  "body": "Ah, yes. Forbes via \"Trefis Team\" and \"Great Speculations\" affords us the insight into how Intel might be purchased by Qualcomm or Nvidia (or Apple or even AMD, according to rumours), because supposedly a number of sharks have been circling the wounded giant recently for smaller purchase deals for stocks (as they have plummeted).\n\nWhat might happen, of course, is that the chip-manufacturing division of Intel, that Intel has been cutting in for the last two decades, might get an offer. But Intel will genuinely stop being Intel if that trade happens, and that's not something the board will go for until the company disintegrates.\n\nWhich I hope is going to happen, don't get me wrong. But it's not likely that it is going to. We're going to get many more Intel attempts at selling pointless products, and the Intel barrier to emulating x86 with \"microcode optimisations\" (i.e., the extended instruction set, or derived instruction sets from that base) on generic instruction set computers is going to persist.",
+                                  "score": 2,
+                                  "created_utc": 1731318707.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lz9uqf8",
+          "author": "kimjongun-69",
+          "body": "They already had integrated gpus for a while, just like how nvidia had ARM chips (tegra) for a while",
+          "score": 1,
+          "created_utc": 1732729063.0,
+          "replies": []
+        },
+        {
+          "id": "lvqxn63",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -1,
+          "created_utc": 1730914677.0,
+          "replies": [
+            {
+              "id": "lvr7ylv",
+              "author": "burnSMACKER",
+              "body": "More competition in each space is good",
+              "score": 6,
+              "created_utc": 1730917483.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvpu48d",
+      "author": "BellerophonM",
+      "body": "It'll be interesting to see if they do a similar thing to Apple where they include a mode with Intel memory ordering, which is a major factor in allowing Apple Silicon to run x86 applications in emulation via Rosetta 2 so fast. That could be a key factor in an ARM Windows device being successful.\n\n(IIRC other companies - maybe even NVidia? - considered trying that for ARM in past and Intel threatened legal action, but Apple just went ahead and did it anyway)",
+      "score": 76,
+      "created_utc": 1730904037.0,
+      "replies": [
+        {
+          "id": "lvq1eoy",
+          "author": "LegendOfVinnyT",
+          "body": "I think there's going to be a big intellectual property fight between ARM Holdings, Apple, Intel, Qualcomm, and Nvidia at some point. ARM Holdings has already put Qualcomm in a licensing headlock lawsuit over Nuvia tech finding its way into Snapdragon X. (Oops, Q forgot that acquiring Nuvia severed Nuvia's license, and Q's own ARM license didn't cover what Nuvia was doing. ARM licensing is very complicated. If Oracle's legal team is an army, ARM Holdings' is a special forces unit.) If that happened to be the secret sauce that turned around x86 translation performance, this could turn into a royal rumble real fast.",
+          "score": 25,
+          "created_utc": 1730906077.0,
+          "replies": [
+            {
+              "id": "lvq6z5u",
+              "author": "etal19",
+              "body": "We don\u2019t have the license details but I\u2019m quite sure the Qualcomm license allows everything Arm has to offer.\nIt\u2019s more likely that the Nuvia license requires higher royalties on product sales which Qualcomm do not want to pay.",
+              "score": 10,
+              "created_utc": 1730907584.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvtp8lf",
+          "author": "nope_nic_tesla",
+          "body": "Windows for ARM is already a thing and Microsoft themselves are heavily marketing Snapdragon based Windows laptops right now",
+          "score": 2,
+          "created_utc": 1730943634.0,
+          "replies": [
+            {
+              "id": "lwhpgp4",
+              "author": "Opening_AI",
+              "body": "Right but isn't snapdragon crap compared to Intel, just saying.",
+              "score": 1,
+              "created_utc": 1731279983.0,
+              "replies": [
+                {
+                  "id": "lwi97fp",
+                  "author": "nope_nic_tesla",
+                  "body": "No, they are far more power efficient which is why they're moving their Surface tablets and laptops to use them",
+                  "score": 1,
+                  "created_utc": 1731286898.0,
+                  "replies": [
+                    {
+                      "id": "lwijtz2",
+                      "author": "Opening_AI",
+                      "body": "Isn;t that the whole advantage in ARM is power efficiency but not necessarily raw computing power? I can see why MS wants power efficiency given that the idea is to compete with the dell xps, macbook regards to battery life. They figure most people buying surface laptops aren't looking to have power compared to battery life. \n\nFrom what I understand, Intel chips sucks regarding power efficiency even when compared to AMD chips but regarding raw power, it's still ranked up there. \n\n[https://nanoreview.net/en/cpu-compare/qualcomm-snapdragon-x-elite-vs-intel-core-i9-14900k](https://nanoreview.net/en/cpu-compare/qualcomm-snapdragon-x-elite-vs-intel-core-i9-14900k)",
+                      "score": 1,
+                      "created_utc": 1731290708.0,
+                      "replies": [
+                        {
+                          "id": "lwm6qld",
+                          "author": "nope_nic_tesla",
+                          "body": "No, they have traditionally been used in low power applications because power efficiency is really important when it comes to mobile devices, but there is no inherent problem with them that means they cannot be scaled up for higher power usage. The reason Intel continues to dominate in the desktop and datacenter space is simply because the x86 architecture has a massive incumbent advantage and power efficiency matters less for that use case, so the advantage just hasn't been strong enough for everyone to switch. Most applications for desktop/datacenter usage are written for x86 instruction sets. So companies like Qualcomm don't even bother making ARM CPUs targeting desktop gaming for example because so few games would even work on it (or if they did, they would require some kind of translation layer which kills the performance advantage of ARM chips). \n\nThis is starting to change in the datacenter space as more and more applications are moving to CPU agnostic designs that can be compiled for any architecture, but it's going to take a while. Amazon and Google are already making their own custom ARM chips to use in their datacenters. We will also see a gradual change in the desktop computing space, as Apple has moved entirely to ARM based CPUs, including for their desktops (and their M4 Max chip beats out Intel chips pretty handily in single threaded performance). As software support for it grows we will likely see it take over.",
+                          "score": 1,
+                          "created_utc": 1731348573.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvs5a77",
+          "author": "Plank_With_A_Nail_In",
+          "body": "Its not going to be a Windows device. The Nintendo Switch outsell the 2 consoles 10:1....everyone seems to forget it.",
+          "score": -8,
+          "created_utc": 1730926541.0,
+          "replies": [
+            {
+              "id": "lvuez1i",
+              "author": "Mirkrid",
+              "body": "This is unbelievably irrelevant.",
+              "score": 7,
+              "created_utc": 1730952806.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvptmqh",
+      "author": "gats1212",
+      "body": "Worrysome that the GPU monopoly wants to challenge the CPU duopoly.",
+      "score": 188,
+      "created_utc": 1730903899.0,
+      "replies": [
+        {
+          "id": "lvpx15c",
+          "author": "Rizenstrom",
+          "body": "Is it really a monopoly if there are other options out there and people just choose to buy Nvidia anyways?\n\nAMD is plenty competitive and Intel is steadily improving from what I've seen. \n\nPeople don't want other products though. They want AMD to be better so they can go buy Nvidia at a lower price.",
+          "score": 53,
+          "created_utc": 1730904863.0,
+          "replies": [
+            {
+              "id": "lvpy6am",
+              "author": "torb",
+              "body": "Yes, that is still a monopoly when a large actor pretty much has control of the market.",
+              "score": 79,
+              "created_utc": 1730905179.0,
+              "replies": [
+                {
+                  "id": "lvs5iqj",
+                  "author": "Plank_With_A_Nail_In",
+                  "body": "Most GPU's sold are in phones, Nvidia isn't close to having that kind of volume.",
+                  "score": -11,
+                  "created_utc": 1730926603.0,
+                  "replies": [
+                    {
+                      "id": "lvtrpo7",
+                      "author": "MVPVisionZ",
+                      "body": "GPU's in phones are not part of the consumer GPU market",
+                      "score": 20,
+                      "created_utc": 1730944443.0,
+                      "replies": [
+                        {
+                          "id": "lvvkda0",
+                          "author": "dat_oracle",
+                          "body": "Huh I just put an 4090 in my galaxy S10+",
+                          "score": 7,
+                          "created_utc": 1730976102.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvq5340",
+              "author": "PeterIanStaker",
+              "body": "Yes. In most of the market AMD isn\u2019t even an option because people need CUDA.",
+              "score": 22,
+              "created_utc": 1730907071.0,
+              "replies": [
+                {
+                  "id": "lvr8n24",
+                  "author": "im_thatoneguy",
+                  "body": "Which made this all the more baffling.\n\nhttps://www.phoronix.com/news/AMD-ZLUDA-CUDA-Taken-Down\n\nI\u2019m sure the thinking was something like \u201cif we offer this then nobody will bother with opencl so we\u2019ll have to support this forever and people will say why get fake cuda when they can get real cuda?\u201d But I\u2019m not sure that it\u2019s sound thinking since what we really think is why would we get no cuda when we can get all the cuda.",
+                  "score": 8,
+                  "created_utc": 1730917667.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvqwieb",
+                  "author": "LevianMcBirdo",
+                  "body": "Which AMD accepted and will reportedly do their own take of.",
+                  "score": 2,
+                  "created_utc": 1730914370.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lvq5kix",
+              "author": "wicktus",
+              "body": "Frankly the newest intel do consume less but are not an improvement they are really not on par with AMD, especially in gaming, add to that bugs/stability issues...",
+              "score": 4,
+              "created_utc": 1730907203.0,
+              "replies": []
+            },
+            {
+              "id": "lvu90lf",
+              "author": "nullstring",
+              "body": "It's not a monopoly. Nvidia is just a strong leader right now. \n\nBut there is no reason that amd can't catch up. The real monopoly is in AI products. (Ie graphics when used for AI).\n\nOtherwise we would claim that Intel was a x86 monopoly for a while... But that's really not a fare statement.",
+              "score": 2,
+              "created_utc": 1730950466.0,
+              "replies": []
+            },
+            {
+              "id": "lvv2nuh",
+              "author": "AyyyyLeMeow",
+              "body": "DLSS, that's why.\n\nCap fps to 90, medium settings and you'll be saving money on electricity in the long run...",
+              "score": 1,
+              "created_utc": 1730964681.0,
+              "replies": []
+            },
+            {
+              "id": "lzr0wiy",
+              "author": "SithTrooperReturnsEZ",
+              "body": "No shit?\n\n  \nI want Nvidia only, I want AMD to do good so I can get better GPUs for better prices. The more shit Nvidia gets the better. Same with Intel, Apple ,etc. \n\nThat's how it works",
+              "score": 1,
+              "created_utc": 1732992328.0,
+              "replies": [
+                {
+                  "id": "lzr45xc",
+                  "author": "Rizenstrom",
+                  "body": "It really isn't. Competition means to compete for something, in this case your money. If you won't even consider anything else it's not a competition. The others aren't even in the race. \n\nFor AMD to truly compete and innovate, and for Nvidia to see them as a legitimate threat, people have to be willing to switch.",
+                  "score": 1,
+                  "created_utc": 1732993394.0,
+                  "replies": [
+                    {
+                      "id": "lzsrh0g",
+                      "author": "SithTrooperReturnsEZ",
+                      "body": "I hope people switch, I won't be but I hope there is others who do.\n\n  \nSame with Intel CPUs. I really don't want AMD for my next build, luckily I'm not doing it until this time next year and by then Intel should have their shit together with this new architecture and release something on par or better than AMDs counterpart.\n\n  \nThis is how it's always been yet people for years just shit on people for buying Intel or Nvidia when in reality nobody cares what others think and also now suddenly people are \"discovering\" this like it's new. It's not new, we always wanted to stick with Nvidia and Intel. \n\n  \nThis is why I love when people shit on Apple, Windows, Intel, Nvidia, etc. Make more people switch and in the end, I win. That's all I want.\n\n  \nI truly do hope people switch, again, I'm not, but I do hope some do. I'm in it for performance, so I won't leave Nvidia until there is something better performance wise. At this point though I've been with Nvidia and Intel so long I just don't want to. Luckily I'm not making my new PC now as I said because Intels newest gen sucks but next year I will be",
+                      "score": 1,
+                      "created_utc": 1733013846.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvqllr7",
+              "author": "OnceUponAcheese",
+              "body": "Intel will most likely abandon their efforts with dedicated GPUs.\nAMD competes but falls short in certain areas as people have mentioned.",
+              "score": 0,
+              "created_utc": 1730911473.0,
+              "replies": []
+            },
+            {
+              "id": "lvr4twi",
+              "author": "mobrocket",
+              "body": "It's a monopoly from the stand point of their market share and influence over the market",
+              "score": 0,
+              "created_utc": 1730916631.0,
+              "replies": []
+            },
+            {
+              "id": "lvtnobr",
+              "author": "HanzoNumbahOneFan",
+              "body": "AMD isn't going to make high-end gpus anymore. Meaning the only company that's going to be making cards for enthusiasts is Nvidia. If you don't want a beefy PC, AMD is still there and probably the better option. But for anyone who wants a beefier GPU either for playing higher end games with good frames, or to future proof themselves, they're gonna have to go with Nvidia and pay a massive premium.",
+              "score": -1,
+              "created_utc": 1730943123.0,
+              "replies": [
+                {
+                  "id": "lyf0hrd",
+                  "author": "None",
+                  "body": "Late reply but just want to point out that the best two supercomputer clusters on this planet right now uses the latest AMD data center GPU. They may be exiting the high end consumer market but definitely not data center business.",
+                  "score": 1,
+                  "created_utc": 1732284641.0,
+                  "replies": []
+                },
+                {
+                  "id": "lvu9k08",
+                  "author": "nullstring",
+                  "body": "Who says that?\n\nThey are trying to get into the datacenter market. That's where the real money is.\n\nBut the cards use the same tech. If they make datacenter cards it would be silly not to release high end cards. \n\nThe real question is can they catch up",
+                  "score": -1,
+                  "created_utc": 1730950671.0,
+                  "replies": [
+                    {
+                      "id": "lvucpfu",
+                      "author": "HanzoNumbahOneFan",
+                      "body": "AMD says that. They said they're going to move away from high-end gpus and are instead targeting mid-tier and budget gamers to increase their marketshare. Maybe in the future they'll start trying to compete in the high-end market again, dunno. But they've literally stated they're no longer going to be targeting high-end gamers. Which, mid-tier cards is where most of gamers fall when they're looking for a card. But people wanting high end stuff are going to be forced to go to Nvidia.",
+                      "score": 0,
+                      "created_utc": 1730951887.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvsqk9w",
+          "author": "SiscoSquared",
+          "body": "Increase in competition should be good. The problem is if one ways the other to consolidate or if one stops competing.",
+          "score": 3,
+          "created_utc": 1730932507.0,
+          "replies": []
+        },
+        {
+          "id": "lvq05jz",
+          "author": "produit1",
+          "body": "Intel are finished. In this scenario where you have two CEO\u2019s who are related, cousins. There is no outcome where they dont help each other and leave Intel to bite dust (which Intel probably deserves for its monopolistic tactics through the 90\u2019s/ early 00\u2019s)",
+          "score": 26,
+          "created_utc": 1730905732.0,
+          "replies": [
+            {
+              "id": "lvqn0k8",
+              "author": "Fatigue-Error",
+              "body": "Deleted by User",
+              "score": 35,
+              "created_utc": 1730911842.0,
+              "replies": []
+            },
+            {
+              "id": "lvtd8iv",
+              "author": "MushinZero",
+              "body": "They do not help each other. They want to beat each other.",
+              "score": 8,
+              "created_utc": 1730939727.0,
+              "replies": [
+                {
+                  "id": "lvv6gl9",
+                  "author": "rk06",
+                  "body": "Yes, but it doesn't mean they are not willing to cooperate to get the third player out of business",
+                  "score": 4,
+                  "created_utc": 1730967036.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvqnqdg",
+          "author": "oppositetoup",
+          "body": "Not really. More competition is always good",
+          "score": 4,
+          "created_utc": 1730912030.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvqenmj",
+      "author": "surmoiFire",
+      "body": "NVDA had been trying to enter a non-gpu market from time to time, e.g. Tegra, Shield, and then lost interest after product release.",
+      "score": 12,
+      "created_utc": 1730909626.0,
+      "replies": [
+        {
+          "id": "lwhrzym",
+          "author": "Opening_AI",
+          "body": "It's not because they lost interest, more they couldn't compete with Intel and AMD. Though look how long it has taken AMD to overtake Intel regarding performance and price. It really wasn't until the Ryzen chips came out in 2017 and still took a bit to overcome Intel processor.",
+          "score": 1,
+          "created_utc": 1731280857.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvt9hgd",
+      "author": "Potential-Bag-8200",
+      "body": "I remember when the math coprocessor was an option.  LOL",
+      "score": 9,
+      "created_utc": 1730938509.0,
+      "replies": [
+        {
+          "id": "lvteiqp",
+          "author": "saintpetejackboy",
+          "body": "Ooof! Remember when old people were the old people?",
+          "score": 6,
+          "created_utc": 1730940143.0,
+          "replies": []
+        },
+        {
+          "id": "lvu3zho",
+          "author": "chibiace",
+          "body": "i got some of those.",
+          "score": 1,
+          "created_utc": 1730948632.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvq0vk9",
+      "author": "None",
+      "body": "Nvidia is making a CPU because their video cards and AI platforms have reached saturation.\n\nThe only direction for them to head is creating/crafting an entire system instead of only components.",
+      "score": 43,
+      "created_utc": 1730905930.0,
+      "replies": [
+        {
+          "id": "lvqwlt2",
+          "author": "CiraKazanari",
+          "body": "They already make their own CPUs for their AI machines.\u00a0",
+          "score": 16,
+          "created_utc": 1730914395.0,
+          "replies": []
+        },
+        {
+          "id": "lvuh3op",
+          "author": "sigmoid10",
+          "body": "AI hasn't come close to saturation. Especially while all the big companies try to gobble up every bit of compute to beat each other for the best foundation model. Nvidia's new Blackwell architecture for enterprise is already sold out for the next 12 months. That means every high-end ultra high performance card that TSMC builds in the next 12 months goes straight to Zuck, Elon, Altman and co. for training AI.",
+          "score": 9,
+          "created_utc": 1730953693.0,
+          "replies": []
+        },
+        {
+          "id": "lvv86q6",
+          "author": "Azrael707",
+          "body": "Nintendo Switch uses Nvidia\u2019s Tegra SoC.",
+          "score": 1,
+          "created_utc": 1730968148.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvptpwp",
+      "author": "Gerrut_batsbak",
+      "body": "Yea, I'm not going to support nvividia taking over all aspects of my pc with their ridiculous prices.\n\nWe don't need more monopolies",
+      "score": 50,
+      "created_utc": 1730903924.0,
+      "replies": [
+        {
+          "id": "lvqrtob",
+          "author": "joewHEElAr",
+          "body": "Quadopoly",
+          "score": 6,
+          "created_utc": 1730913111.0,
+          "replies": [
+            {
+              "id": "lvvbzq1",
+              "author": "AbhishMuk",
+              "body": "But also a Quadropoly?",
+              "score": 0,
+              "created_utc": 1730970685.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvt50e0",
+          "author": "ElBartoMan15",
+          "body": "No but it would be cool to have a triopoly rather than a duopoly",
+          "score": 2,
+          "created_utc": 1730937058.0,
+          "replies": []
+        },
+        {
+          "id": "lvvlgo9",
+          "author": "XTornado",
+          "body": "Well...  I agree on standalone CPUs but Nvidia APUs would be interesting....",
+          "score": 1,
+          "created_utc": 1730976753.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvq6kil",
+      "author": "killrmeemstr",
+      "body": "this combined with valves recent interests in arm based development, the next 10 years are gonna be fucking awesome",
+      "score": 8,
+      "created_utc": 1730907475.0,
+      "replies": []
+    },
+    {
+      "id": "lvqa10v",
+      "author": "W8kingNightmare",
+      "body": "If this becomes successful you'd think the government will have to break up the company. It is getting just too massive",
+      "score": 7,
+      "created_utc": 1730908397.0,
+      "replies": [
+        {
+          "id": "lvwezbi",
+          "author": "ckal09",
+          "body": "Look man, Trump ain\u2019t breaking up any company. He might threaten to in order to get them subservient to him and add to his oligarch group of anti-American traitors that run the country.",
+          "score": 5,
+          "created_utc": 1730989296.0,
+          "replies": [
+            {
+              "id": "lvwnbzv",
+              "author": "W8kingNightmare",
+              "body": "this isn't going to be successful over night..like best case scenario has to be like 15yrs from now (making CPU chips ain't easy). I'd be surprised if Trump is still alive in 5yrs let alone 15",
+              "score": 2,
+              "created_utc": 1730991983.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvsjmb9",
+          "author": "SteveThePurpleCat",
+          "body": "The government is now for sale to the highest bidder, nvidia will just have to give trump a cheque, and they can carry on with whatever they want.",
+          "score": 11,
+          "created_utc": 1730930477.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvqflvt",
+      "author": "Sonder332",
+      "body": "What kind of timeframe are we looking at here when it finally gets into consumers hands? A decade?",
+      "score": 6,
+      "created_utc": 1730909882.0,
+      "replies": [
+        {
+          "id": "lvrq68z",
+          "author": "None",
+          "body": "They have been in the SoC market for awhile though. Nintendo switch and electric vehicles still so they aren\u2019t a stranger with designing their own.",
+          "score": 4,
+          "created_utc": 1730922434.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvpr2vd",
+      "author": "DonutConfident7733",
+      "body": "They should put the cpu in the gpu and say:\n\"Gpu: Look at me, I'm the pc now\"",
+      "score": 23,
+      "created_utc": 1730903153.0,
+      "replies": [
+        {
+          "id": "lvpv412",
+          "author": "Em42",
+          "body": "It should go like this: \n\nNvidia, because integrated just works better. Try the new G+CPU and see for yourself. \n\nThen some slick advertising graphic for print or a commercial showing some of the chips falling out of the dark like rain backlit by some colorful lights and a fast car with techno music or something.",
+          "score": 12,
+          "created_utc": 1730904319.0,
+          "replies": [
+            {
+              "id": "lvrff66",
+              "author": "DonutConfident7733",
+              "body": "Nvidia, they way it's meant to be ~~played~~ operated.",
+              "score": 4,
+              "created_utc": 1730919495.0,
+              "replies": [
+                {
+                  "id": "lvyle9a",
+                  "author": "Em42",
+                  "body": "Nvidia, playperate it.",
+                  "score": 1,
+                  "created_utc": 1731011971.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvpwyea",
+          "author": "BigBalkanBulge",
+          "body": "*PTSD flashbacks from Intel Integrated Graphics*",
+          "score": 3,
+          "created_utc": 1730904841.0,
+          "replies": [
+            {
+              "id": "lvsnype",
+              "author": "Caleth",
+              "body": "Nvidia Integrated Compute will be the new PTSD trigger phrase in 10 years.",
+              "score": 3,
+              "created_utc": 1730931740.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvpza5r",
+          "author": "madlabdog",
+          "body": "That\u2019s an SoC",
+          "score": 1,
+          "created_utc": 1730905491.0,
+          "replies": [
+            {
+              "id": "lvr9w0j",
+              "author": "DonutConfident7733",
+              "body": "I meant on the Gpu board, which will actually be a motherboard, not on the gpu die.",
+              "score": 1,
+              "created_utc": 1730918004.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvu046y",
+      "author": "None",
+      "body": "Yah, it\u2019s called Tegra, it\u2019s been around for almost a decade.",
+      "score": 4,
+      "created_utc": 1730947300.0,
+      "replies": []
+    },
+    {
+      "id": "lvpsqx7",
+      "author": "kyleleblanc",
+      "body": "The only thing I care about is how it stacks up against Apple\u2019s SoC.",
+      "score": 3,
+      "created_utc": 1730903642.0,
+      "replies": []
+    },
+    {
+      "id": "lvs0bhz",
+      "author": "HG21Reaper",
+      "body": "We are about to enter a CPU renaissance very soon and the consumer is going to benefit from this.",
+      "score": 3,
+      "created_utc": 1730925205.0,
+      "replies": [
+        {
+          "id": "lvsky87",
+          "author": "SteveThePurpleCat",
+          "body": "The energy grid could well be the winner, CPU's have been sucking down household appliance levels of power for far too long. And with less power comes less cooling, which also lowers the power draw with stacks of 120mm fans trying to stop an Intel chip from doing its best 'I'm a kettle' impression.",
+          "score": 3,
+          "created_utc": 1730930858.0,
+          "replies": [
+            {
+              "id": "lvuh8im",
+              "author": "TooStrangeForWeird",
+              "body": "Or they'll just do what Nvidia has already been doing and making even bigger and more power hungry stuff anyways. \n\nThe M2 Pro maxes out at 185W already, but I suppose that's an APU.",
+              "score": 1,
+              "created_utc": 1730953749.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvtluzp",
+      "author": "zippyfan",
+      "body": "Why is Nvidia even partnering with Mediatek for ARM PC? \n\nThey are already making an ARM PC. It's called Jetson. It's an APU that's reportedly pretty powerful. The previous version (Jetson Orin) had the capability of a cut down 3050. The latest version (Jetson Thor) is closer to a 3090.\n\nRight now they're selling this product to robotics and autonomous driving companies. Why can't they ditch the expensive connectors and market this for the PC market? I'd love to get my hands on this if they have improved the memory bandwidth. It should be great for AI if that's the case.",
+      "score": 3,
+      "created_utc": 1730942530.0,
+      "replies": [
+        {
+          "id": "lvuhm73",
+          "author": "TooStrangeForWeird",
+          "body": "Because they can charge those companies a hell of a lot more than they can charge regular consumers. Same for the best chips going into their GPUs for supercomputers and stuff.",
+          "score": 3,
+          "created_utc": 1730953907.0,
+          "replies": [
+            {
+              "id": "lw23g6k",
+              "author": "zippyfan",
+              "body": "I understand that. But what I said was they already made an ARM APU in the form of Jetson. Why don't they just sell that for the PC?\n\nRight now it's linux capable. But when Qualcomm's monopoly license with Windows ends, they can work out the kinks for it to be windows compatible if not already so.",
+              "score": 2,
+              "created_utc": 1731062123.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvppqig",
+      "author": "PancAshAsh",
+      "body": "Does Microsoft even have up to date ARM software?",
+      "score": 9,
+      "created_utc": 1730902761.0,
+      "replies": [
+        {
+          "id": "lvpxhav",
+          "author": "ianlulz",
+          "body": "Microsoft has invested heavily internally the last decade in ARM and *especially* arm64 compatibility across a bunch of its divisions.\n\n\nSource: used to work a Microsoft and wrote some of the arm64 libraries for a popular product. I haven\u2019t kept up with it much since I quit but I wouldn\u2019t be surprised if they have full arm64 Windows devices already or in the very near future.",
+          "score": 29,
+          "created_utc": 1730904986.0,
+          "replies": [
+            {
+              "id": "lvrpo89",
+              "author": "Awol",
+              "body": "They have the new Qualcomm laptops that were released a few months back show Microsoft cares and is working towards it just the world isn't really all that interested yet. Mostly due to Microsoft forcing stupid AI stuff no one wants in the OS.",
+              "score": 8,
+              "created_utc": 1730922296.0,
+              "replies": []
+            },
+            {
+              "id": "lvt0sa1",
+              "author": "krisirk",
+              "body": "They used to too, Windows 8 RT.  It SUCKED because it wasn't compatible with x86 binaries at all.  So the only thing that ran on it was crappy windows store stuff.\n\n  \n[https://en.wikipedia.org/wiki/Windows\\_RT](https://en.wikipedia.org/wiki/Windows_RT)",
+              "score": 2,
+              "created_utc": 1730935693.0,
+              "replies": [
+                {
+                  "id": "lvugfk0",
+                  "author": "TooStrangeForWeird",
+                  "body": "At my last job I had someone bring one of those in. They didn't want to buy a computer from us because we didn't sell the bottom of the barrel stuff. If it wasn't something we'd be happy to use (i3+ and 8GB RAM minimum basically) we wouldn't sell it. Definitely not gonna sell an ARM Windows machine at that time. \n\nSo this lady goes to Worst Buy, gets this shitty thing, and waits like 6 months to finally bring it in. Her old computer it was supposed to replace was about dead. She couldn't figure out how to install QuickBooks on it (of course) and ended up just buying a laptop from us anyways. \n\nYou could tell she just wanted to scream at us. You could almost see the steam coming off of her when she realized that \"you didn't buy it here\" actually meant it wasn't our fault. She could drive over an hour to go yell at the people where she bought it from, but there's no way they'd let her return it. Or even remember who she was lol. \n\nIt wasn't even good at web browsing. A Chromebook on a Celeron would waste it.",
+                  "score": 1,
+                  "created_utc": 1730953414.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvptx2v",
+          "author": "Stunning_Variety_529",
+          "body": "What do you suppose those Copilot + PCs are running on?",
+          "score": 11,
+          "created_utc": 1730903981.0,
+          "replies": []
+        },
+        {
+          "id": "lvpr7ku",
+          "author": "TripleSecretSquirrel",
+          "body": "The Surface Laptop runs an an ARM processor. Microsoft seems to have gone all-in on supporting ARM devices recently with the release of Qualcomm\u2019s Snapdragon X platform.\n\nThe latest major Windows update, 24H2, among other things, is supposed to be really well-optimized for ARM devices.",
+          "score": 35,
+          "created_utc": 1730903192.0,
+          "replies": [
+            {
+              "id": "lvrtm8x",
+              "author": "crevulation",
+              "body": "We have been being told the x86 is at the end of the road and some flavor of RISC is the future since the 1980s, so I am not surprised to see it finally start happening for real, especially with the penetration of Arm smartphones over the last decade and a half.\n\nBut it seems the best accelerant to the Arm takeover has more to do with market and financial pressures than any advantages CISC or RISC has, with Intel circling the drain and getting dropped from the DJIA and all.",
+              "score": 4,
+              "created_utc": 1730923361.0,
+              "replies": [
+                {
+                  "id": "lvsd4h1",
+                  "author": "TripleSecretSquirrel",
+                  "body": "I don\u2019t know enough about computer architecture to speak intelligently about the advantages/disadvantages of RISC over x86, but Apple\u2019s ARM64 chips beat the shit out of all the x86 chips on the market. The M4 is outperforming Intel\u2019s and AMD\u2019s top-end offerings in single and multi-core performance! If there was ever a time for ARM to take off, it seems like it\u2019s now.",
+                  "score": -4,
+                  "created_utc": 1730928674.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvpzv58",
+      "author": "KoviCZ",
+      "body": "Bold to bet on ARM. They could win big here if ARM becomes the mainstream architecture for PCs within like 10 years. Heck, Nvidia manufacturing them might help bring it on.",
+      "score": 2,
+      "created_utc": 1730905653.0,
+      "replies": [
+        {
+          "id": "lvq2e5p",
+          "author": "karatekid430",
+          "body": "Legally they cannot make x86 and us moving to arm64 will allow this competition. ARM is inevitable",
+          "score": 7,
+          "created_utc": 1730906345.0,
+          "replies": []
+        },
+        {
+          "id": "lvraefr",
+          "author": "im_thatoneguy",
+          "body": "Arm isn\u2019t just mainstream it\u2019s exclusive on the Apple side. And Apple is the number one laptop maker.\n\nMicrosoft also makes you shop their business store to buy x86 surfaces now, otherwise you get ARM.\n\nThe only place we don\u2019t see ARM is in the Desktop/Discreet GPu side of things.\n\nNvidia has to be sweating bullets since desktop is a niche and development will move more and more to arm.",
+          "score": 2,
+          "created_utc": 1730918143.0,
+          "replies": [
+            {
+              "id": "lvsgd7s",
+              "author": "hishnash",
+              "body": "There is no reason you cant use ARM on a desktop with a dGPU.",
+              "score": -1,
+              "created_utc": 1730929567.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvrm7gz",
+          "author": "redsterXVI",
+          "body": "No if, just a when",
+          "score": 1,
+          "created_utc": 1730921356.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvqumt4",
+      "author": "Wrich73",
+      "body": "That would be nice, the games that can run on my M1 Pro 14\u201d run really, really well (No Man\u2019s Sky, WoW). Better frame rates and way better battery usage than my kids Ryzen/3060 gaming laptop.",
+      "score": 2,
+      "created_utc": 1730913866.0,
+      "replies": [
+        {
+          "id": "lvsznjl",
+          "author": "sCeege",
+          "body": "I play some Steam games on my M1 Max with CrossOver, works great even without native compatibility.",
+          "score": 1,
+          "created_utc": 1730935327.0,
+          "replies": [
+            {
+              "id": "lvwnjuq",
+              "author": "Wrich73",
+              "body": "What is this CrossOver you speak of?!?",
+              "score": 1,
+              "created_utc": 1730992051.0,
+              "replies": [
+                {
+                  "id": "lvx4oe4",
+                  "author": "sCeege",
+                  "body": "It's like a [paid version of WINE/Bottles](https://www.codeweavers.com/crossover). If you can figure out emulation on your own, great, but I like having a mostly one click solution and CrossOver works really well for me. They also have a Linux version but I haven't tried it so idk if it's the same experience. I run Nier Automata, Assetto Corsa, and GW2 on it no problems at all. Nice to play some console games on a 16\" screen when you're on a plane. Usually someone on YouTube or the [Mac gaming wiki has a coupon code](https://www.applegamingwiki.com/wiki/CrossOver) for it if you find it interesting. You can check for compatible apps/games [here](https://www.codeweavers.com/compatibility).\n\nThis being said, as Apple's game porting toolkit gets more mature, maybe I won't need this in the future? ymmv.",
+                  "score": 3,
+                  "created_utc": 1730997150.0,
+                  "replies": [
+                    {
+                      "id": "lvx91py",
+                      "author": "Wrich73",
+                      "body": "Thank you! \nI\u2019ve had my M1 Pro for a few years but didn\u2019t game on it until the new WoW expansion came out in September. The amount of support and tools available now is amazing compared to what it was back then.",
+                      "score": 2,
+                      "created_utc": 1730998392.0,
+                      "replies": [
+                        {
+                          "id": "lvxalaa",
+                          "author": "sCeege",
+                          "body": "Yeup. I only expected to run iOS/iPadOS type games in the beginning, but now that I can play desktop class games? It's very exciting indeed.\n\nI'm also stoked for more development on the the Game Porting Toolkit, if we get xx60/xx70 level performance in a MBP form factor, MBP may very well be one of the best gaming laptops for its form factor.",
+                          "score": 2,
+                          "created_utc": 1730998827.0,
+                          "replies": [
+                            {
+                              "id": "lvxg2w9",
+                              "author": "Wrich73",
+                              "body": "Ugh, going all in lol. \nI just ordered a m4 pro 14\u201d with the nano glass. Apple gave me 700 trade for my M1 Pro 14 I bought for on sale at Best Buy for $1199 two years ago. I love my M1 Pro so this should be an amazing upgrade",
+                              "score": 2,
+                              "created_utc": 1731000382.0,
+                              "replies": [
+                                {
+                                  "id": "lw07av1",
+                                  "author": "sCeege",
+                                  "body": "Enjoy! I'll have to wait a bit longer, rumor has it 2026 is bringing OLED and a thinner chassis to the MBP, and I can't exactly justify upgrading from a M1 Max lol.",
+                                  "score": 1,
+                                  "created_utc": 1731030057.0,
+                                  "replies": [
+                                    {
+                                      "id": "lw07xuh",
+                                      "author": "Wrich73",
+                                      "body": "lol yeah. The Max is nice. If I had more then 512gb of storage I would be in the same boat.",
+                                      "score": 1,
+                                      "created_utc": 1731030272.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvrwis7",
+      "author": "HeadAche2012",
+      "body": "ARM beating x86? Then RISC-V beating ARM? Microsoft and driver support is the only limitation",
+      "score": 2,
+      "created_utc": 1730924168.0,
+      "replies": [
+        {
+          "id": "lvsg2c2",
+          "author": "hishnash",
+          "body": "Will take a long time for \u00a0RISC-V to be beating ARM and when it does the key bits you need to do the ARM beating will require you to license them.  Stuff like out of order instruction buffers, etc that will all be Ip the you can license (possibly even from ARM)   after all one could take a cortex core and replace the decoder with a RISC-V decoder and it would be the fastest RISC-V chip on the market (by a long way).",
+          "score": 1,
+          "created_utc": 1730929484.0,
+          "replies": []
+        },
+        {
+          "id": "lxhkyw5",
+          "author": "9Epicman1",
+          "body": "with the new surface laptops being ARM based it seems like Microsoft is trying somewhat",
+          "score": 1,
+          "created_utc": 1731789640.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvs7tzi",
+      "author": "Chrunchyhobo",
+      "body": "Nforce is back on the menu bois.",
+      "score": 2,
+      "created_utc": 1730927228.0,
+      "replies": []
+    },
+    {
+      "id": "lvsp9k3",
+      "author": "Kalinon",
+      "body": "Guess we don\u2019t need to bail out intel.",
+      "score": 2,
+      "created_utc": 1730932122.0,
+      "replies": []
+    },
+    {
+      "id": "lvqq23e",
+      "author": "razvanmg15",
+      "body": "Being NGridia it will probably start at 600$ and have low amount of cache.",
+      "score": 2,
+      "created_utc": 1730912642.0,
+      "replies": []
+    },
+    {
+      "id": "lvpuzld",
+      "author": "Chriscic",
+      "body": "The report is from Digitimes, which is notoriously unreliable. So I\u2019d take with a big grain of salt.",
+      "score": 1,
+      "created_utc": 1730904284.0,
+      "replies": []
+    },
+    {
+      "id": "lvpzyac",
+      "author": "xkegsx",
+      "body": "Just give me a new shield.\u00a0",
+      "score": 1,
+      "created_utc": 1730905677.0,
+      "replies": []
+    },
+    {
+      "id": "lvqaoer",
+      "author": "jgriesshaber",
+      "body": "They making an OS too?",
+      "score": 1,
+      "created_utc": 1730908566.0,
+      "replies": []
+    },
+    {
+      "id": "lvqaqud",
+      "author": "penelopiecruise",
+      "body": "Calling it now, AMD and INTEL are going to end up merging.",
+      "score": 1,
+      "created_utc": 1730908584.0,
+      "replies": []
+    },
+    {
+      "id": "lvrgj3j",
+      "author": "jacobpederson",
+      "body": "This has to be related to Switch 2.",
+      "score": 1,
+      "created_utc": 1730919798.0,
+      "replies": [
+        {
+          "id": "lvyeq1p",
+          "author": "Twigler",
+          "body": "Nah all that development has been done already",
+          "score": 2,
+          "created_utc": 1731010070.0,
+          "replies": [
+            {
+              "id": "lvytjmh",
+              "author": "jacobpederson",
+              "body": "Right, which they could then piggyback on to release something on their own.  It was similar but reversed with Switch 1 (they released their own handheld first, which later on became switch).",
+              "score": 1,
+              "created_utc": 1731014279.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvrm7pm",
+      "author": "csfalcao",
+      "body": "Problem is Windows in Arm.",
+      "score": 1,
+      "created_utc": 1730921358.0,
+      "replies": []
+    },
+    {
+      "id": "lvrtcie",
+      "author": "John____Wick",
+      "body": "Great! More competition is better for us all.",
+      "score": 1,
+      "created_utc": 1730923288.0,
+      "replies": []
+    },
+    {
+      "id": "lvs3126",
+      "author": "fusionsofwonder",
+      "body": "Well, that's one place for them to put their extra money.  Interested to see where it goes.",
+      "score": 1,
+      "created_utc": 1730925940.0,
+      "replies": []
+    },
+    {
+      "id": "lvsbh7f",
+      "author": "None",
+      "body": "Nvidia have been making ARM based CPU/GPU chips for many MANY years already. Nintendo uses one in the Switch FFS.",
+      "score": 1,
+      "created_utc": 1730928217.0,
+      "replies": [
+        {
+          "id": "lvsmkfl",
+          "author": "SteveThePurpleCat",
+          "body": "Those are licenced chips based on the ageing Cortex platform, not Nvidia's own.\n\nThese will be, if made, new in house chips intended for wide desktop and server use, not just handheld SOCs. Think Snapdragon X.",
+          "score": 0,
+          "created_utc": 1730931330.0,
+          "replies": [
+            {
+              "id": "lvtef0x",
+              "author": "None",
+              "body": "Split as many hairs as you like to fit your narrative. Fact is, this is hardly new.",
+              "score": 1,
+              "created_utc": 1730940110.0,
+              "replies": [
+                {
+                  "id": "lvuvk7q",
+                  "author": "SteveThePurpleCat",
+                  "body": "If Nvidia is making a new chip, then it would indeed be new.",
+                  "score": 0,
+                  "created_utc": 1730960604.0,
+                  "replies": [
+                    {
+                      "id": "lvxc82x",
+                      "author": "None",
+                      "body": "OOOOH I see, I'm sorry. I didn't realize at first that you have the cognitive function of a sleepy toddler.\n\nnevermind. Moving on.",
+                      "score": 1,
+                      "created_utc": 1730999295.0,
+                      "replies": [
+                        {
+                          "id": "lvxhtr3",
+                          "author": "SteveThePurpleCat",
+                          "body": "So you really think that a manufacturer can never make a new product?\n\nThe new Ryzen can't exist because the old Ryzen exists, etc. \n\nNvidia made an old product, they are now making a new product. Noone said that they have never made a product before.",
+                          "score": 1,
+                          "created_utc": 1731000871.0,
+                          "replies": [
+                            {
+                              "id": "lvximl8",
+                              "author": "None",
+                              "body": "Hush now. Adults are talking.",
+                              "score": 1,
+                              "created_utc": 1731001097.0,
+                              "replies": [
+                                {
+                                  "id": "lvxixgu",
+                                  "author": "SteveThePurpleCat",
+                                  "body": "Yes, one with dementia apparently. \n\nIt's ok, you just sit down there and think about the Model T, which Ford never ever replaced!",
+                                  "score": 1,
+                                  "created_utc": 1731001181.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvshsiy",
+      "author": "EnolaGayFallout",
+      "body": "Competition is good so that AMD won\u2019t become lazy and it become Intel.",
+      "score": 1,
+      "created_utc": 1730929963.0,
+      "replies": []
+    },
+    {
+      "id": "lvsps4s",
+      "author": "huuaaang",
+      "body": "I'm sorry, how does an ARM CPU directly challenge AMD and Intel? Sounds like they're challenging Apple and Qualcomm.",
+      "score": 1,
+      "created_utc": 1730932275.0,
+      "replies": []
+    },
+    {
+      "id": "lvstzai",
+      "author": "viperfan7",
+      "body": "I can't see it working out being ARM.\n\nNot for gaming at least",
+      "score": 1,
+      "created_utc": 1730933542.0,
+      "replies": []
+    },
+    {
+      "id": "lvt6z6x",
+      "author": "playdohplaydate",
+      "body": "Remember the good days when ARM was traded on the stock market\u2026",
+      "score": 1,
+      "created_utc": 1730937696.0,
+      "replies": []
+    },
+    {
+      "id": "lvt7ywt",
+      "author": "Fredasa",
+      "body": "Probably just in time.  Whatever Intel comes out with next will probably be the last time anyone takes them seriously, so it could be we'll need a slot-in for the duopoly.  As fun as it may be for brand loyalists to jeer at the loser, we'd see a pretty quick halt to CPU advancements if Intel weren't providing at least some theoretical competition.",
+      "score": 1,
+      "created_utc": 1730938017.0,
+      "replies": []
+    },
+    {
+      "id": "lvtlddb",
+      "author": "SuperSaiyanBlue",
+      "body": "Qualcomm and Apple are doing it too. Same with AMD",
+      "score": 1,
+      "created_utc": 1730942370.0,
+      "replies": []
+    },
+    {
+      "id": "lvtvkni",
+      "author": "zmunky",
+      "body": "With the way Intel is going this could be good.",
+      "score": 1,
+      "created_utc": 1730945753.0,
+      "replies": []
+    },
+    {
+      "id": "lvtx9hn",
+      "author": "dogs-are-perfect",
+      "body": "Would be nice to get standardized sockets so cpu can be interchangeable",
+      "score": 1,
+      "created_utc": 1730946326.0,
+      "replies": []
+    },
+    {
+      "id": "lvtzdr6",
+      "author": "Hanzo_The_Ninja",
+      "body": "Nvidia tried to buy ARM a few years ago (but was blocked by regulators), Nvidia is releasing an ARM CPU (and possibly APU) in 2025, and Simultaneous & Heterogeneous Multithreading -- which has the potential to be a game-changer -- has only been successfully tested with an ARM CPU paired with an Nvidia GPU thus far.\n\nThe reality is things are looking very good for ARM and Nvidia, which is probably why last month Intel and AMD formed an \"x86-x64 Ecosystem Advisory Group\".",
+      "score": 1,
+      "created_utc": 1730947047.0,
+      "replies": []
+    },
+    {
+      "id": "lvu2vyt",
+      "author": "steve2166",
+      "body": "nvida just need to buy intel",
+      "score": 1,
+      "created_utc": 1730948251.0,
+      "replies": []
+    },
+    {
+      "id": "lvu6ae5",
+      "author": "Quento96",
+      "body": "The rise of arm chips as high end consumer compute is sending shockwaves through the entire industry",
+      "score": 1,
+      "created_utc": 1730949447.0,
+      "replies": []
+    },
+    {
+      "id": "lvu7xra",
+      "author": "Dick_Lazer",
+      "body": "Cool to see more ARM action for PC.",
+      "score": 1,
+      "created_utc": 1730950057.0,
+      "replies": []
+    },
+    {
+      "id": "lvu9nuz",
+      "author": "ironicallynotironic",
+      "body": "Can we get a new Nvidia shield tv while you\u2019re at it \ud83d\ude1d",
+      "score": 1,
+      "created_utc": 1730950712.0,
+      "replies": []
+    },
+    {
+      "id": "lvuayoi",
+      "author": "EcoKllr",
+      "body": "Triopoly",
+      "score": 1,
+      "created_utc": 1730951207.0,
+      "replies": []
+    },
+    {
+      "id": "lvubyv1",
+      "author": "Reluctantkill3r",
+      "body": "I don't even care how good it is. They'll price themselves out of the market for casual consumers.",
+      "score": 1,
+      "created_utc": 1730951596.0,
+      "replies": []
+    },
+    {
+      "id": "lvuig0f",
+      "author": "Chilkoot",
+      "body": "NVDA has an order of magnitude more R&D budget than Intel, AMD and Qualcomm combined.  They have priority fab contracts, decades of IC design experience, and are hell-bent on diversifying their revenue stream.\n\nAn integrated Nvidia chip with DLSS/DLAA for WoA could absolutely be an industry disruptor.",
+      "score": 1,
+      "created_utc": 1730954262.0,
+      "replies": []
+    },
+    {
+      "id": "lvuli0b",
+      "author": "AlteredCabron2",
+      "body": "nvda to moon \ud83d\ude80",
+      "score": 1,
+      "created_utc": 1730955593.0,
+      "replies": []
+    },
+    {
+      "id": "lvuuewl",
+      "author": "Jsane7263",
+      "body": "They are so smart.",
+      "score": 1,
+      "created_utc": 1730959984.0,
+      "replies": []
+    },
+    {
+      "id": "lvuxi7h",
+      "author": "straightcrossthemind",
+      "body": "Man! Wished ist was the other way around. Reading something like: \u201cIntel e.g. Apple is making a new GPU to take on NVIDIA\u2026\u201d\nWe have good an affordable CPUs. Damn",
+      "score": 1,
+      "created_utc": 1730961681.0,
+      "replies": []
+    },
+    {
+      "id": "lvuxn9x",
+      "author": "Bitter-Good-2540",
+      "body": "And it will unique Nvidia features no one else can copy and will cost you an arm and a leg lol",
+      "score": 1,
+      "created_utc": 1730961761.0,
+      "replies": []
+    },
+    {
+      "id": "lvw4tbi",
+      "author": "1970s_MonkeyKing",
+      "body": "And you should be able to cook meals off the case, too.",
+      "score": 1,
+      "created_utc": 1730985737.0,
+      "replies": []
+    },
+    {
+      "id": "lvwque6",
+      "author": "Camerotus",
+      "body": "TIL the word duopoly.",
+      "score": 1,
+      "created_utc": 1730993050.0,
+      "replies": []
+    },
+    {
+      "id": "lvykh5e",
+      "author": "wickednyx",
+      "body": "Hopefully none of the parts are going to be sent from outside of the us. Tariffs are going to make the price skyrocket the trump administration.",
+      "score": 1,
+      "created_utc": 1731011709.0,
+      "replies": []
+    },
+    {
+      "id": "lvz05p7",
+      "author": "Nisekoi_",
+      "body": "Could be related to switch 2 soc",
+      "score": 1,
+      "created_utc": 1731016162.0,
+      "replies": []
+    },
+    {
+      "id": "lvzct0g",
+      "author": "ZephyrSK",
+      "body": "How much will it cost post tariffs?",
+      "score": 1,
+      "created_utc": 1731019953.0,
+      "replies": []
+    },
+    {
+      "id": "lw1amyq",
+      "author": "kruzztee",
+      "body": "Wow, Tegra will be back!",
+      "score": 1,
+      "created_utc": 1731044847.0,
+      "replies": []
+    },
+    {
+      "id": "lwt3slv",
+      "author": "internetlad",
+      "body": "Intel tries to break into the GPU game and Nvidia is like Counter! Parry!!",
+      "score": 1,
+      "created_utc": 1731444408.0,
+      "replies": []
+    },
+    {
+      "id": "m0q885t",
+      "author": "JollyGreenVampire",
+      "body": "Don't expect these to be standalone CPU's. I think they will go the apple route and create a powerful SoC with unified memory. That is way more efficient and profitable (because they can overcharge for memory).",
+      "score": 1,
+      "created_utc": 1733502670.0,
+      "replies": []
+    },
+    {
+      "id": "lvrdhqp",
+      "author": "Shell_hurdle7330",
+      "body": "Intel is cooked if nvidia succeeds, once again we will have two but this time it will be red and green.",
+      "score": 1,
+      "created_utc": 1730918979.0,
+      "replies": []
+    },
+    {
+      "id": "lvqng6f",
+      "author": "BigCommieMachine",
+      "body": "Why make a CPU instead of just going full APU? It doesn\u2019t make sense to me.\n\nNvidia should be aiming at Apple\u2019s M-series if anything.",
+      "score": 0,
+      "created_utc": 1730911955.0,
+      "replies": [
+        {
+          "id": "lvqwpyr",
+          "author": "CiraKazanari",
+          "body": "Intel sucks and is burning. This leaves us with just AMD. I\u2019m open to more competition\u00a0",
+          "score": 2,
+          "created_utc": 1730914427.0,
+          "replies": []
+        },
+        {
+          "id": "lvsg5b7",
+          "author": "hishnash",
+          "body": "Will be API for sure.",
+          "score": 1,
+          "created_utc": 1730929507.0,
+          "replies": []
+        },
+        {
+          "id": "lvslku5",
+          "author": "WhenPantsAttack",
+          "body": "It will likely be an APU. Nvidia \u00a0has been manufacturing Tegra, of Nintendo Switch and phone processor fame, for a while. This will likely be just an evolution of that targeted at general computing supported by Microsoft\u2019s recent ARM push, not an entire new product line.",
+          "score": 1,
+          "created_utc": 1730931041.0,
+          "replies": [
+            {
+              "id": "lvuhyi2",
+              "author": "TooStrangeForWeird",
+              "body": "Nvidia doesn't really manufacture anything, they just design it. And they've been using existing ARM CPUs and just slapping them together so far, not actually designing their own cores or anything.",
+              "score": 0,
+              "created_utc": 1730954052.0,
+              "replies": [
+                {
+                  "id": "lvv4926",
+                  "author": "WhenPantsAttack",
+                  "body": "Weird take. In that case Qualcomm, Samsung, et al don\u2019t \u201creally manufacture anything, the just design it.\u201d Most arm processor makers contract out their manufacturing. Intel might be one of the few majors processors that owns their own fab.\u00a0\n\nTegra cpus are different from snapdragon are different from exynos. They aren\u2019t just existing cpus \u201cslapped together\u2026\u201d",
+                  "score": 3,
+                  "created_utc": 1730965650.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvpufde",
+      "author": "Phormitago",
+      "body": "Was interested until the ARM bit \n\nNot getting my hopes up",
+      "score": -4,
+      "created_utc": 1730904125.0,
+      "replies": [
+        {
+          "id": "lvsmvfy",
+          "author": "SteveThePurpleCat",
+          "body": "I have bad news for you, the world is going to be moving to ARM over the next 10 years anyway.",
+          "score": 1,
+          "created_utc": 1730931419.0,
+          "replies": [
+            {
+              "id": "lvtgapo",
+              "author": "Phormitago",
+              "body": "!remindme 10 years\n\nIm calling x86 is still the default for desktop and servers",
+              "score": 1,
+              "created_utc": 1730940720.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvqi7p1",
+      "author": "BigPhilip",
+      "body": "I see camel, I give coin",
+      "score": -1,
+      "created_utc": 1730910573.0,
+      "replies": []
+    },
+    {
+      "id": "lvptbd3",
+      "author": "Less_Party",
+      "body": "It\u2019s about time, this has obviously been the future since the day the M1 Macs hit but Qualcomm are really not cutting it on the Windows side.",
+      "score": -2,
+      "created_utc": 1730903808.0,
+      "replies": []
+    },
+    {
+      "id": "lvpvgsp",
+      "author": "maRRtin79",
+      "body": "2025 Nvidia who?",
+      "score": -2,
+      "created_utc": 1730904420.0,
+      "replies": []
+    },
+    {
+      "id": "lvpvux9",
+      "author": "saposapot",
+      "body": "Hmm, seems strange. They are selling AI stuff as much as they can produce, why bother with this? \n\nARM based? Unless the world really shifts to arm I don\u2019t see how it can succeeded beyond a niche.",
+      "score": -4,
+      "created_utc": 1730904531.0,
+      "replies": [
+        {
+          "id": "lvpxahm",
+          "author": "lemlurker",
+          "body": "I can see a global shift to arm, were reaching the limit of die shrinkage performance so we need to re-evaluate the way the software works to achieve the result. Doing it with bespoke hardware is faster, more efficient and more consistent, it just needs that critical mass of support and it'll become cost effective to dev dofteare in a RISC environment",
+          "score": 8,
+          "created_utc": 1730904934.0,
+          "replies": [
+            {
+              "id": "lvr854t",
+              "author": "saposapot",
+              "body": "Not going to be an easy transition. A lot of software to move. Not even mentioning games. A lot of installed user base to move.",
+              "score": 1,
+              "created_utc": 1730917532.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvq1itr",
+          "author": "Raknaren",
+          "body": "They already use Arm cores in their BG100 superchips : [NVIDIA Grace CPU and Arm Architecture | NVIDIA](https://www.nvidia.com/en-us/data-center/grace-cpu/?srsltid=AfmBOopy1E0CJfTrDEfX82P01oP-hj9aM0a-d7qYxMFbQoSSX7WLGas_)",
+          "score": 2,
+          "created_utc": 1730906108.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

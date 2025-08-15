@@ -1,0 +1,49 @@
+metric,value
+file,1ijikdk.csv
+title,Nintendo patent explains Switch 2 Joy-Cons’ “mouse operation” mode
+rows,225
+num_posts,1
+num_comments,224
+unique_authors,164
+max_depth,7
+avg_comment_words,59.28
+median_comment_words,38.0
+max_comment_words,467
+positive_count,43
+negative_count,181
+neutral_count,0
+positive_pct,19.196
+negative_pct,80.804
+neutral_pct,0.0
+topic_1_keywords,"games, mouse, switch, could, nintendo, new, would, trauma"
+topic_1_label,nintendo 's mouse could switch to nintendo
+topic_2_keywords,"mouse, like, im, hand, controller, use, joycon, looks"
+topic_2_label,mouse likes the controller and looks like joycon
+topic_3_keywords,"game, nintendo, design, mouse, patents, specific, patent, games"
+topic_3_label,Nintendo patents for games
+topic_4_keywords,"mario, mouse, console, paint, new, bringing, back, hopefully"
+topic_4_label,bringing back the mouse
+topic_5_keywords,"mouse, good, game, console, controller, games, would, really"
+topic_5_label,good game
+topic_6_keywords,"mouse, even, switch, nintendo, make, feature, would, like"
+topic_6_label,mouse even switch
+top_ngram_1,mario paint (18)
+top_ngram_2,bringing back (17)
+top_ngram_3,trauma center (16)
+top_ngram_4,looks like (16)
+top_ngram_5,game design (15)
+top_ngram_6,hopefully means (14)
+top_ngram_7,means theyre (14)
+top_ngram_8,theyre bringing (14)
+top_ngram_9,back mario (14)
+top_ngram_10,hopefully means theyre (14)
+ner_1,Nintendo|ORG|75
+ner_2,Switch 2|MISC|9
+ner_3,Switch|MISC|9
+ner_4,Wii|MISC|7
+ner_5,Mario|MISC|6
+ner_6,Mario Paint|ORG|6
+ner_7,Xi|MISC|5
+ner_8,SNES|MISC|5
+ner_9,Call of Duty|MISC|4
+ner_10,Lenovo|ORG|4

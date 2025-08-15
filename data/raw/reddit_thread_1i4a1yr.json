@@ -1,0 +1,794 @@
+{
+  "post": {
+    "title": "Just-released AMD Ryzen 5 7400F 6-core CPU only costs 116 Dollars in China ",
+    "author": "a_Ninja_b0y",
+    "id": "1i4a1yr",
+    "score": 1200,
+    "created_utc": 1737214578.0,
+    "selftext": "",
+    "num_comments": 95,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i4a1yr/justreleased_amd_ryzen_5_7400f_6core_cpu_only/"
+  },
+  "comments": [
+    {
+      "id": "m7tcrjv",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1737214591.0,
+      "replies": []
+    },
+    {
+      "id": "m7tdr89",
+      "author": "samtherat6",
+      "body": "This could be a really solid entry to the AM5 platform if people are put off by the high prices of having to buy everything at once.",
+      "score": 267,
+      "created_utc": 1737214903.0,
+      "replies": [
+        {
+          "id": "m7uopry",
+          "author": "YeOldeSandwichShoppe",
+          "body": "Looks like a continuation of an established trend: after production is well-established, salvage the lower quality silicon and sell a downclocked, but otherwise feature complete product (as with the 7500F, 5700X3D etc). Hope this carries on in future architectures and they dont try to cut cache etc.",
+          "score": 88,
+          "created_utc": 1737229026.0,
+          "replies": [
+            {
+              "id": "m7yc1mn",
+              "author": "zyntaxable",
+              "body": "Interesting, I don't really know much about CPU manufacturing. Is this really how it works? Lower grade silicon results in a slower CPU? I'd imagine silicon is silicon so I wonder how is it lower grade?",
+              "score": 9,
+              "created_utc": 1737276280.0,
+              "replies": [
+                {
+                  "id": "m7yd9rc",
+                  "author": "TheLepersAffinity",
+                  "body": "Yes it is, it\u2019s an essential part of chip making. Parts of the chip don\u2019t always work so they get disabled and sold with fewer cores. This is really common and only 70% ish of chips made are actually good enough to be used for their intended product.",
+                  "score": 31,
+                  "created_utc": 1737277016.0,
+                  "replies": [
+                    {
+                      "id": "m7ydcfc",
+                      "author": "zyntaxable",
+                      "body": "Huh, interesting. The more you know! Thanks.",
+                      "score": 3,
+                      "created_utc": 1737277061.0,
+                      "replies": [
+                        {
+                          "id": "m7yhsxb",
+                          "author": "Zed_or_AFK",
+                          "body": "Massive GPUs probably have even lower yield. Statistically random errors will fault more chips if chips become larger is area.",
+                          "score": 15,
+                          "created_utc": 1737279790.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m7yibf2",
+                  "author": "SteveThePurpleCat",
+                  "body": "Silicon can have a lot of internal flaws, and modern processors with a lot of cores require quite a significant perfect area of it, which can be difficult. Chip makers can get very unlucky and end up with a yield that they can only get a handful of good large chips out of.\n\nSo they make there super fancy 16 core chip, to find out that the batch fails internal testing, but make perfectly fine 12 core chips with the faulty areas disabled. Turning a total loss into a still profitable product.\n\nSome APU/SOCs (combined CPU and GPU chips) may have faulty GPU cores due to silicon failures, so those areas can be disabled and the rest of the chip sold purely as a CPU. You can buy AMD systems which are essentially PS5's but the chips only work as CPUs. The 4700S.",
+                  "score": 15,
+                  "created_utc": 1737280104.0,
+                  "replies": [
+                    {
+                      "id": "m7yiroy",
+                      "author": "zyntaxable",
+                      "body": "So, how do they sell these 'faulty' processors as a single product? I can't imagine the same area of these processors failing all the time. Does this mean that each lower grade CPU is unique in the sense that different cores are enabled on each chip?",
+                      "score": 1,
+                      "created_utc": 1737280380.0,
+                      "replies": [
+                        {
+                          "id": "m7ylg7s",
+                          "author": "SteveThePurpleCat",
+                          "body": "CPUs are built in families, same architecture, pin layout, and features but different core counts and speeds. So if a 8 core CPU has a faulty core or two, they get locked off and it is sold the same as the 6 core member of the family. Which in turn would get sold as the budget 4 core if that had a faulty core or two. There will be *thousands* failing from every yield and getting knocked down to the lower version. And Chips may indeed have different locked off cores, but the internal logic of the chip is just set to ignore them, 2 and 3 don't work? Then use 1,4,5,6,7,8 and display as a 6-core.\n\nOr all the cores work, but are *slightly* flawed and don't clock as high, so that gets sold as a non-overclockable slower version. This can effect the end user if they are into overclocking etc. Your chip might become unstable with a tiny overclock, while your mate with the exact same chip can get an extra Ghz with ease. We calling that winning/losing the silicon lottery.\n\nSo an I7 would become an I5, or a high clocked 7600K, would become a locked lower speed 7600T.\n\nThe Cell processor in the Playstation 3 had 8 special little cores, SPE's, however it was unlikely that all of them would work, so the faulty one was disabled, or if all worked then a working one was disabled, so every PS3 had a dead or disabled core inside making all systems equal and to reduce costs from yield wastage.",
+                          "score": 18,
+                          "created_utc": 1737282019.0,
+                          "replies": [
+                            {
+                              "id": "m7ymdt6",
+                              "author": "zyntaxable",
+                              "body": "Thank you for the comprehensive explanation! It all makes sense and it's fun to know!",
+                              "score": 3,
+                              "created_utc": 1737282592.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m87rr4s",
+                      "author": "None",
+                      "body": "Interesting! Thx for sharing this. The newly released Ryzen 5 7400F might be this type of a processor with no onboard graphics.",
+                      "score": 1,
+                      "created_utc": 1737402050.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m81hi2u",
+                  "author": "YeOldeSandwichShoppe",
+                  "body": "Just to be clear, I don't think the raw silicon wafers are of any lower quality but the lithography process isn't flawless or perfectly consistent. Some individual dies may have defects or variation in their electrical properties. So in addition to what the other reply mentioned - obvious defects, there will be more subtle differences between individual CPUs that have an effect on their operating frequencies and voltage.\n\nSo during verification some CPUs may not reliably operate at the desired frequency and voltage of a given model thus cannot be sold as such. They might be thrown away or, as is suspected with all these late AMD launches, clocked lower and branded as a new model. \n\nThis is all super complicated and I know next to nothing but that's the general gist.",
+                  "score": 1,
+                  "created_utc": 1737318151.0,
+                  "replies": []
+                },
+                {
+                  "id": "m8nimjr",
+                  "author": "Thewonderboy94",
+                  "body": "Same applies to GPUs in a similar manner.\n\nLike I think usually or at least sometimes NVIDIA's 70 series GPUs are based off lower quality 80 series dilicone with a bunch of disabled CUDA cores etc. Although with GPUs this applies more specifically on the GPU core itself, while there's a lot of stuff literally \"around\" the core that's built for that card model and price target specifically.\n\nThe 60 series GPUs on the other hand usually tend to be their own model, even though I know some prebuit OEM GPUs could sometimes be really funky like this too (my old prebuilt had a GTX 560 Ti with 1256MB of VRAM, but no 560 had that amount of VRAM, so the card was actually a further downgraded 570 with some CUDA cores disabled. Though I don't know if 570 was a downgraded 580 in that gen a well)\n\nEdit. In some instances it's possible to unlock some of those disabled cores and features with custom firmware, but usually it's not recommended since they were originally disabled for a reason to begin with. There are still some instances of that working and people essentially get a \"free upgrade\" there.",
+                  "score": 1,
+                  "created_utc": 1737597925.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7tyeer",
+          "author": "--Bazinga--",
+          "body": "Yes, because a AM5 and DDR5 memory are so cheap\u2026 /s. AM4 with R5x00 and DDR4 is still cheaper and a lot faster than this.",
+          "score": -72,
+          "created_utc": 1737221117.0,
+          "replies": [
+            {
+              "id": "m7u1sfp",
+              "author": "Cry_Wolff",
+              "body": "I paid less for Ryzen 3500 + B550 mobo + 32 GB RAM than cheapest AM5 processor. AM5 is getting cheaper so I'm not complaining either.",
+              "score": 23,
+              "created_utc": 1737222128.0,
+              "replies": []
+            },
+            {
+              "id": "m7u3wfo",
+              "author": "Paweron",
+              "body": "How is AM4 a lot fast than this? Anything except the x3d CPUs are all worse than the 7400f for gaming. This leaves the 5700x3d as the only real competition and it is more expensive than a 7400f. While the mainboard and RAM for AM5 are more expensive, they became a lot cheaper recently.\n\nSo an AM4 is a little cheaper but certainly not a lot faster",
+              "score": 20,
+              "created_utc": 1737222748.0,
+              "replies": [
+                {
+                  "id": "m7ukdr8",
+                  "author": "diuturnal",
+                  "body": "Microcenter should still be selling the 5600x3D. But that\u2019s a moot point.",
+                  "score": 2,
+                  "created_utc": 1737227719.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7wkcwe",
+                  "author": "Plank_With_A_Nail_In",
+                  "body": "The 7600X is faster than a 5800X3D in a lot of games. As you say this 7400f won't be far enough off of the best AM4 to worry about and being able to upgrade to the last of the line AM5 X3D next year is a big plus.",
+                  "score": 1,
+                  "created_utc": 1737250599.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7tpzs4",
+      "author": "Darknessie",
+      "body": "...me sneaks away and checks temu!",
+      "score": 61,
+      "created_utc": 1737218622.0,
+      "replies": [
+        {
+          "id": "m7tztbo",
+          "author": "ClickF0rDick",
+          "body": "Do they sell PC parts on Temu?",
+          "score": 17,
+          "created_utc": 1737221542.0,
+          "replies": [
+            {
+              "id": "m7u3d5t",
+              "author": "Ty_Lee98",
+              "body": "I got my CPU from aliexpress so I wouldn't be surprised if TEMU sold parts too. Tiktok shop also sold pc parts.",
+              "score": 24,
+              "created_utc": 1737222593.0,
+              "replies": [
+                {
+                  "id": "m7u8w0d",
+                  "author": "LOONGMOVIE22",
+                  "body": "How legit is it? I never trusted aliexpress and consider it similar to wish. Ordered some things many years ago and wasn\u2019t satisfied. I do have experience with alibaba but I also worked with them in messages until satisfied.",
+                  "score": 14,
+                  "created_utc": 1737224235.0,
+                  "replies": [
+                    {
+                      "id": "m7urehs",
+                      "author": "nopointers",
+                      "body": "I\u2019ve had good success with AliExpress buying small electronics supplies (standard chips, connectors, solder, etc.). Basically, you don\u2019t have to worry about counterfeits because you\u2019re not buying a brand and the producing a part would be as expensive as the real thing. Shipping times vary all over the place, from days to weeks.\n\nSpeaking of which, watch the shipping costs. Sometimes they try to slip in \u201cper item\u201d instead of for the entire order. Also an order that has multiple sellers will charge separately for each. It\u2019s especially irritating because their logistics are pretty good about getting everything consolidated into a single package (usually an envelope with bubble wrap and lots of tape).",
+                      "score": 31,
+                      "created_utc": 1737229862.0,
+                      "replies": [
+                        {
+                          "id": "m7vbwdo",
+                          "author": "gramathy",
+                          "body": "Their mini pc selection is pretty good too, again you're not really buying a name brand for a premium so counterfeits are rare as you're buying low end parts anyway\n\nmy opnsense box was an aliexpress purchase with 4x2.5g interfaces for about $120, WAY more capable than a consumer router at the same price (assuming you could even get one at that price that didn't have wifi, since I manage wifi separately)",
+                          "score": 10,
+                          "created_utc": 1737236381.0,
+                          "replies": [
+                            {
+                              "id": "m7w0jel",
+                              "author": "AirFryerAreOverrated",
+                              "body": "While the price is great, I would never buy a whole pre-built from Aliexpress because of shit like this:\n\nhttps://www.notebookcheck.net/Chinese-mini-PC-gets-caught-for-shipping-with-factory-installed-spyware.801946.0.html\n\nAnd funnily enough, many of the Chinese manufacturers isn't even doing this on purpose. They just copy the installation media that some other manufacturer made and somewhere down the chain, it gets infected and keeps spreading. There have been instances of an infected Android image being used for a whole bunch of generic Android boxes and half of the malware aren't even functional because it's been installed to an incompatible hardware.\n\nhttps://www.youtube.com/watch?v=1vpepaQ-VQQ",
+                              "score": 4,
+                              "created_utc": 1737244088.0,
+                              "replies": [
+                                {
+                                  "id": "m7wjngx",
+                                  "author": "Mindereak",
+                                  "body": "Can't you fix the issue by nuking the OS and making a clean install as soon as you get it?",
+                                  "score": 8,
+                                  "created_utc": 1737250357.0,
+                                  "replies": [
+                                    {
+                                      "id": "m7wl0cl",
+                                      "author": "Left_ctrl",
+                                      "body": "Yes which should be standard practice for anything like that from China.",
+                                      "score": 3,
+                                      "created_utc": 1737250820.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "m7z5647",
+                                      "author": "TheAspiringFarmer",
+                                      "body": "No. You don\u2019t know that the BIOS on the board isn\u2019t compromised or backdoored. Personally I would never trust any of the generic Chinese boxes.",
+                                      "score": 2,
+                                      "created_utc": 1737292660.0,
+                                      "replies": [
+                                        {
+                                          "id": "m7zdhd2",
+                                          "author": "bafko",
+                                          "body": "The bios hacks do rely on you running windows which will autoload stuff from the bios tonrun at install time. So, ditch windows (which is a smart thing in and of itself) en install bsd/linux whatever and you're golden.",
+                                          "score": 1,
+                                          "created_utc": 1737295924.0,
+                                          "replies": [
+                                            {
+                                              "id": "m84eqem",
+                                              "author": "TheAspiringFarmer",
+                                              "body": "Not necessarily.",
+                                              "score": 1,
+                                              "created_utc": 1737354512.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "m7wmyg1",
+                                  "author": "Plank_With_A_Nail_In",
+                                  "body": "Install your own software on them. The person you are replying to installed opnsense on his. \n\nThese devices aren't intended for dumbass consumers anyway.",
+                                  "score": 2,
+                                  "created_utc": 1737251466.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "m7ycwwt",
+                                  "author": "gramathy",
+                                  "body": "Yeah I bought a barebones (zero installed anything, just board+CPU) since I had my own RAM and SSD, I'd never trust whatever's preinstalled anyway",
+                                  "score": 1,
+                                  "created_utc": 1737276800.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m7x3ei4",
+                          "author": "None",
+                          "body": ">producing a part would be as expensive as the real thin\n\nThere have definitely been counterfeit GPUs/CPUs produced, often rebrands of lower end stuff.",
+                          "score": 3,
+                          "created_utc": 1737256985.0,
+                          "replies": [
+                            {
+                              "id": "m7x4w3r",
+                              "author": "nopointers",
+                              "body": "True, the stuff I trust them for are lower end already. Things I can solder by hand.",
+                              "score": 1,
+                              "created_utc": 1737257529.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m7u9it6",
+                      "author": "Ty_Lee98",
+                      "body": "I've been ordering since I gotten a graphics tablet from them years ago and went crazy with it (ordering) recently. I think you just have to look at the sellers and check their reputation and comment section. I got mine from SZCPU or something along those lines. I got a 5700x3d for around 140-160.",
+                      "score": 15,
+                      "created_utc": 1737224424.0,
+                      "replies": [
+                        {
+                          "id": "m7u9t08",
+                          "author": "LOONGMOVIE22",
+                          "body": "Thanks! I\u2019ll reinstall it and check it out, so basically just like eBay in a way.. just watch the reviews and sellers reputation and I should be okay.",
+                          "score": 1,
+                          "created_utc": 1737224509.0,
+                          "replies": [
+                            {
+                              "id": "m7ual26",
+                              "author": "stellvia2016",
+                              "body": "I would say overall, there are a lot more shady sellers or simply sellers of junk offbrands than eBay/Amazon, but AliExpress is at least one step up from Wish or Temu. Getting ripped off/being disappointed is the default experience for Wish/Temu. With AliExpress, yes if you vet sellers you can be moderately assured of at least getting the product as shown/described.",
+                              "score": 8,
+                              "created_utc": 1737224742.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "m7ub067",
+                              "author": "Ty_Lee98",
+                              "body": "Yeah pretty much. There's also aliexpress choice or like buyer guaranteed things. It's on there where you can see the seller.",
+                              "score": 2,
+                              "created_utc": 1737224868.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "m7wn5ui",
+                              "author": "Plank_With_A_Nail_In",
+                              "body": "Its a website what are you installing? It is like ebay just without auctions I guess.",
+                              "score": -1,
+                              "created_utc": 1737251534.0,
+                              "replies": [
+                                {
+                                  "id": "m7xb0ta",
+                                  "author": "theycmeroll",
+                                  "body": "Maybe the app that exists on mobile platforms?",
+                                  "score": 2,
+                                  "created_utc": 1737259453.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m7ugcxk",
+                      "author": "nightshde",
+                      "body": "Aliexpress used to be great, on my last build I pretty much bought all my water cooling parts from it except for the water block. Now working on building a new pc for myself and trying to build something cheap for a friend as a gift and it\u2019s a complete shit show. There is no longer a way to filter out anything you just hope the search gives you what you are looking for; like I just searched for the 7400f and some of the results came back with a power drill and such.",
+                      "score": 2,
+                      "created_utc": 1737226491.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m7zic7r",
+                      "author": "karatekid430",
+                      "body": "It\u2019s fine, same as Amazon, avoid the scams. If you think a 128TB SSD for $60 sounds real then there\u2019s no helping",
+                      "score": 1,
+                      "created_utc": 1737297618.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7x7cov",
+              "author": "kurotech",
+              "body": "If they did I sure as shit wouldn't build a system with them",
+              "score": 3,
+              "created_utc": 1737258337.0,
+              "replies": []
+            },
+            {
+              "id": "m7zwaqq",
+              "author": "1h8fulkat",
+              "body": "You got another month or so before prices go up 25%",
+              "score": 2,
+              "created_utc": 1737301938.0,
+              "replies": [
+                {
+                  "id": "m7zxb65",
+                  "author": "ClickF0rDick",
+                  "body": "Took me a moment to realize it was a Trump's joke",
+                  "score": 0,
+                  "created_utc": 1737302230.0,
+                  "replies": [
+                    {
+                      "id": "m7zzupj",
+                      "author": "1h8fulkat",
+                      "body": "Not really a joke.  He said he's applying 25% tariffs to all Chinese imports as soon as he gets in office.  It's why I bought all the parts for my new server in January.",
+                      "score": 2,
+                      "created_utc": 1737302954.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7xsbkm",
+      "author": "Just-Shoe2689",
+      "body": "Damn send me 12000 of them",
+      "score": 3,
+      "created_utc": 1737265769.0,
+      "replies": []
+    },
+    {
+      "id": "m7tok0a",
+      "author": "paco_dasota",
+      "body": "purchasing power\n\nSo, it\u2019s not a fair comparison\u2014what seems affordable in one economy might not be as accessible in another.",
+      "score": 23,
+      "created_utc": 1737218192.0,
+      "replies": [
+        {
+          "id": "m7u5ttp",
+          "author": "dweakz",
+          "body": "$116 here is half a months work minimum wage \ud83e\udee2",
+          "score": 16,
+          "created_utc": 1737223317.0,
+          "replies": [
+            {
+              "id": "m7vtq4k",
+              "author": "ImFromBosstown",
+              "body": "Where is here",
+              "score": 16,
+              "created_utc": 1737241987.0,
+              "replies": [
+                {
+                  "id": "m7wkv26",
+                  "author": "SkeletonSwoon",
+                  "body": "Here is right here. \n\nWhat's it like in Bosstown?",
+                  "score": 3,
+                  "created_utc": 1737250770.0,
+                  "replies": [
+                    {
+                      "id": "m7xgo4a",
+                      "author": "ironpug751",
+                      "body": "Dog town choom",
+                      "score": 1,
+                      "created_utc": 1737261295.0,
+                      "replies": [
+                        {
+                          "id": "m7xisyq",
+                          "author": "SkeletonSwoon",
+                          "body": "Have you seen the president around anywhere?",
+                          "score": 1,
+                          "created_utc": 1737262038.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m7zbawb",
+                  "author": "Aware-Restaurant-281",
+                  "body": "Probably America, their minimum wage is very low compared to developed countries",
+                  "score": 0,
+                  "created_utc": 1737295115.0,
+                  "replies": [
+                    {
+                      "id": "m7zhpgj",
+                      "author": "Billytherex",
+                      "body": "Virginia minimum wage is $12.41, and the number of American workers on the federal minimum wage is 1.3% but go off king",
+                      "score": 2,
+                      "created_utc": 1737297403.0,
+                      "replies": [
+                        {
+                          "id": "m7zi53r",
+                          "author": "Aware-Restaurant-281",
+                          "body": "America minimum wage is 7.50. America is a 3rd world country",
+                          "score": -1,
+                          "created_utc": 1737297550.0,
+                          "replies": [
+                            {
+                              "id": "m7zmuh2",
+                              "author": "Billytherex",
+                              "body": "You\u2019re quite right that the federal minimum wage is $7.50! However, most states have their own minimum set. Additionally, the vast majority of workers aren\u2019t on the minimum wage, like I said! As for it being third world, that\u2019s delusional! Have a nice day!",
+                              "score": 2,
+                              "created_utc": 1737299083.0,
+                              "replies": [
+                                {
+                                  "id": "m7zvg0l",
+                                  "author": "Aware-Restaurant-281",
+                                  "body": "Cap",
+                                  "score": 0,
+                                  "created_utc": 1737301686.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m80xzzg",
+                              "author": "theycmeroll",
+                              "body": "Colorado is $14.81 for non tipped employees and $11.79 for tipped employees. Then many cities have even higher liked Boulder that\u2019s $16.57, Edgewater at $16.57 and Denver at $18.81.",
+                              "score": 0,
+                              "created_utc": 1737312540.0,
+                              "replies": [
+                                {
+                                  "id": "m812jjk",
+                                  "author": "Aware-Restaurant-281",
+                                  "body": "Cap",
+                                  "score": -3,
+                                  "created_utc": 1737313822.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m7xbona",
+              "author": "theycmeroll",
+              "body": "Here it\u2019s about 7 hours.",
+              "score": 3,
+              "created_utc": 1737259664.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7upyhe",
+      "author": "caribbean_caramel",
+      "body": "Nice.",
+      "score": 2,
+      "created_utc": 1737229412.0,
+      "replies": []
+    },
+    {
+      "id": "m7z5vxt",
+      "author": "ack4",
+      "body": "China has always had cheap obscure consumer electronics that aren't available elsewhere",
+      "score": 1,
+      "created_utc": 1737292964.0,
+      "replies": []
+    },
+    {
+      "id": "m7vm2g9",
+      "author": "TechGoat",
+      "body": "Is there a possibility that AMD is being forced to \"pay to play\" by the CCP in this case? If they're selling this cpu at a noticeably different price than what they sell it at in different markets, then clearly they're taking a bath somewhere. The question is why - why sell a chip for a lower price in just one market?",
+      "score": -16,
+      "created_utc": 1737239487.0,
+      "replies": [
+        {
+          "id": "m7wf3r5",
+          "author": "CarpeMofo",
+          "body": "It's not selling in other markets yet so take off your tin foil hat.",
+          "score": 19,
+          "created_utc": 1737248832.0,
+          "replies": []
+        },
+        {
+          "id": "m7wnpw4",
+          "author": "Plank_With_A_Nail_In",
+          "body": "Because people in China can't afford the prices of the other CPU's at least not at point of entry. Companies sell different products in different regions all of the time. Any profitable sale is better than no sale at all.\n\nAMD make a ton of money on each CPU, they aren't making 5% profit on each one more like 400% at the bottom end and crazy amounts at the top end.",
+          "score": 8,
+          "created_utc": 1737251722.0,
+          "replies": [
+            {
+              "id": "m7x0c5n",
+              "author": "therealdilbert",
+              "body": "They have to make up the stupid amount of NRE it takes to develop a modern IC, but the actual CPU doesn't cost much to make",
+              "score": 4,
+              "created_utc": 1737255906.0,
+              "replies": [
+                {
+                  "id": "m7ziq8z",
+                  "author": "karatekid430",
+                  "body": "TSMC is wildly expensive, but yes AMD will still make a profit.",
+                  "score": 1,
+                  "created_utc": 1737297751.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7tiegx",
+      "author": "ohiocodernumerouno",
+      "body": "PUBG cheaters unite!",
+      "score": -33,
+      "created_utc": 1737216342.0,
+      "replies": [
+        {
+          "id": "m7tpazo",
+          "author": "MrCrunchies",
+          "body": "Im out of the loop. What's the connection with this cpu and cheaters?",
+          "score": 17,
+          "created_utc": 1737218417.0,
+          "replies": [
+            {
+              "id": "m7tt78z",
+              "author": "avoere",
+              "body": "I guess the keyword is \"China\".",
+              "score": 22,
+              "created_utc": 1737219563.0,
+              "replies": [
+                {
+                  "id": "m7tv821",
+                  "author": "dr_wheel",
+                  "body": "China and cheating in video games... it's like peanut butter and jelly!",
+                  "score": -16,
+                  "created_utc": 1737220165.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7u1e3k",
+      "author": "Fraternal_Mango",
+      "body": "Probably costs something different the dollars in China\u2026.",
+      "score": -16,
+      "created_utc": 1737222010.0,
+      "replies": []
+    },
+    {
+      "id": "m7tgrgk",
+      "author": "None",
+      "body": "[removed]",
+      "score": -75,
+      "created_utc": 1737215839.0,
+      "replies": [
+        {
+          "id": "m7tieti",
+          "author": "G8M8N8",
+          "body": "what the fuck are you on",
+          "score": 55,
+          "created_utc": 1737216345.0,
+          "replies": [
+            {
+              "id": "m7tkrb3",
+              "author": "nib13",
+              "body": "I think this accounts comments are made by an AI, they comment like non-stop",
+              "score": 28,
+              "created_utc": 1737217058.0,
+              "replies": [
+                {
+                  "id": "m7tqd06",
+                  "author": "DigitallyDetained",
+                  "body": "That makes way more sense. AI trying to take all the GPU for itself.",
+                  "score": 7,
+                  "created_utc": 1737218732.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7tifwq",
+          "author": "Kromgar",
+          "body": "What do you mean when you say better processors?\n\nGpus are processors - graphical processing units",
+          "score": 8,
+          "created_utc": 1737216354.0,
+          "replies": [
+            {
+              "id": "m7tse95",
+              "author": "OperatorJo_",
+              "body": "I think they're under the impression that a heavy enough graphics card can perform well with integrated graphics instead of having a separate gpu.",
+              "score": 2,
+              "created_utc": 1737219325.0,
+              "replies": [
+                {
+                  "id": "m7ttc35",
+                  "author": "Kromgar",
+                  "body": "Lol.",
+                  "score": 2,
+                  "created_utc": 1737219602.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7tixpw",
+          "author": "TheUmgawa",
+          "body": "Yes, because machines don\u2019t need maintenance, technicians\u2026 definitely don\u2019t need anyone to get pallets out the door. Certainly don\u2019t need anyone to *design* the chips, because apparently AI has taken their jobs. So, yeah, there\u2019s only gonna be like three people in that whole facility and it\u2019s going to be running at 100 percent output the second they flip the lights on. \n\nHave you ever even worked in a factory of any level, or do you listen to podcasts and develop an overly simplistic view of how the world works?",
+          "score": 9,
+          "created_utc": 1737216505.0,
+          "replies": [
+            {
+              "id": "m7tklo4",
+              "author": "None",
+              "body": "[removed]",
+              "score": -29,
+              "created_utc": 1737217011.0,
+              "replies": [
+                {
+                  "id": "m7tpv0l",
+                  "author": "New2ThisThrowaway",
+                  "body": "You need to get back on your Bipolar meds.",
+                  "score": 4,
+                  "created_utc": 1737218583.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7tkxsj",
+                  "author": "None",
+                  "body": "[removed]",
+                  "score": -28,
+                  "created_utc": 1737217113.0,
+                  "replies": [
+                    {
+                      "id": "m7trmt0",
+                      "author": "BrunusManOWar",
+                      "body": "If you're being serious: please get checked for schizophrenia",
+                      "score": 5,
+                      "created_utc": 1737219103.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m7u3te0",
+                      "author": "Twelvve12",
+                      "body": "Mad r/gangstalking vibes from you",
+                      "score": 3,
+                      "created_utc": 1737222723.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m7u3enk",
+                      "author": "Nanocephalic",
+                      "body": "Please find a therapist and talk to them. Were worried about you. \n\nRemember this: if you know something that nobody else knows, either you\u2019re brilliant or your brain is playing silly games. \n\nIt\u2019s worth finding out which it is, because guessing wrong can mess your life up real bad.",
+                      "score": 2,
+                      "created_utc": 1737222604.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7twj2a",
+          "author": "Legacyx1",
+          "body": "AI generated comment bruh",
+          "score": 2,
+          "created_utc": 1737220554.0,
+          "replies": []
+        },
+        {
+          "id": "m7tn160",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1737217736.0,
+          "replies": [
+            {
+              "id": "m7tn753",
+              "author": "bot-sleuth-bot",
+              "body": "Analyzing user profile...\n\nTime between account creation and oldest post is greater than 2 years.\n\nSuspicion Quotient: 0.17\n\nThis account exhibits one or two minor traits commonly found in karma farming bots. While it's possible that u/twasjc is a bot, it's very unlikely.\n\n^(I am a bot. This action was performed automatically. Check my profile for more information.)",
+              "score": 5,
+              "created_utc": 1737217786.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

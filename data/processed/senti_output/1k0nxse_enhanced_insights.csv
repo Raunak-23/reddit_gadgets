@@ -1,0 +1,49 @@
+metric,value
+file,1k0nxse.csv
+title,Android phones will soon reboot themselves after sitting unused for 3 days | The latest Google update will make your phone more secure if you don't touch it
+rows,335
+num_posts,1
+num_comments,334
+unique_authors,205
+max_depth,16
+avg_comment_words,56.03
+median_comment_words,46.0
+max_comment_words,312
+positive_count,23
+negative_count,311
+neutral_count,0
+positive_pct,6.886
+negative_pct,93.114
+neutral_pct,0.0
+topic_1_keywords,"android, thats, apple, calls, like, youre, still, fact"
+topic_1_label,Android calls like you are still
+topic_2_keywords,"phone, feature, reboot, security, restart, every, night, unlock"
+topic_2_label,ipods feature a reboot every night and every night
+topic_3_keywords,"phone, days, disabled, android, would, use, first, feature"
+topic_3_label,Android phones would feature a disabled feature on their phones
+topic_4_keywords,"phone, biometrics, im, turned, police, iphone, people, still"
+topic_4_label,iPhone 's biometrics turned on police
+topic_5_keywords,"phone, sim, pin, dont, disable, phones, feature, turn"
+topic_5_label,phone don't disable disable feature on phones
+topic_6_keywords,"phone, android, something, need, days, use, app, fine"
+topic_6_label,"Android phone, apps, apps"
+top_ngram_1,security feature (32)
+top_ngram_2,first unlock (26)
+top_ngram_3,sim pin (22)
+top_ngram_4,every night (21)
+top_ngram_5,need restart (21)
+top_ngram_6,biometrics turned (20)
+top_ngram_7,reboot every (18)
+top_ngram_8,reboot every night (16)
+top_ngram_9,iphone locks (16)
+top_ngram_10,restart phone (14)
+ner_1,iPhone|MISC|39
+ner_2,Android|MISC|35
+ner_3,Google|ORG|23
+ner_4,Android|ORG|21
+ner_5,Apple|ORG|21
+ner_6,iOS|MISC|12
+ner_7,Nexus 5|MISC|7
+ner_8,Samsung|ORG|5
+ner_9,iPhone|ORG|5
+ner_10,Android OS|MISC|4

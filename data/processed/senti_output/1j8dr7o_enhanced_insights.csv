@@ -1,0 +1,49 @@
+metric,value
+file,1j8dr7o.csv
+title,"Firmware update bricks HP printers, makes them unable to use HP cartridges | HP already has a reputation for breaking printers with updates."
+rows,193
+num_posts,1
+num_comments,192
+unique_authors,160
+max_depth,7
+avg_comment_words,60.29
+median_comment_words,42.0
+max_comment_words,260
+positive_count,17
+negative_count,175
+neutral_count,0
+positive_pct,8.854
+negative_pct,91.146
+neutral_pct,0.0
+topic_1_keywords,"brother, hp, printers, cartridges, printer, last, wouldnt, ink"
+topic_1_label,"printers, cartridges, printer, printer"
+topic_2_keywords,"ive, lan, privileges, dont, still, connected, use, ads"
+topic_2_label,i have a lan and don t connect
+topic_3_keywords,"printer, company, people, hp, anything, dont, good, companies"
+topic_3_label,hp is a company that doesn t have a lot of people
+topic_4_keywords,"update, firmware, brother, bambulabs, always, since, printers, especially"
+topic_4_label,"firmware update, brother, bambulabs"
+topic_5_keywords,"one, hp, printer, years, epson, days, im, print"
+topic_5_label,hp printers print in epson
+topic_6_keywords,"hp, ink, cheap, printer, brother, buy, worth, also"
+topic_6_label,"hp, ink, printer, brother"
+top_ngram_1,new printer (21)
+top_ngram_2,years ago (21)
+top_ngram_3,printer one (20)
+top_ngram_4,need get (19)
+top_ngram_5,get new (19)
+top_ngram_6,one days (19)
+top_ngram_7,days im (19)
+top_ngram_8,im definitely (19)
+top_ngram_9,definitely avoiding (19)
+top_ngram_10,avoiding hp (19)
+ner_1,HP|ORG|121
+ner_2,Epson|ORG|38
+ner_3,E|MISC|20
+ner_4,Brother|PER|14
+ner_5,##ps|ORG|10
+ner_6,Canon|ORG|9
+ner_7,##on|MISC|9
+ner_8,Agilent|ORG|8
+ner_9,Dell|ORG|8
+ner_10,##pson|ORG|8

@@ -1,0 +1,49 @@
+metric,value
+file,1kc9ya1.csv
+title,Nvidia RTX 50-series GPU prices drop below MSRP in Germany as demand wanes | Strong euro and weak demand push GPU prices down
+rows,69
+num_posts,1
+num_comments,68
+unique_authors,44
+max_depth,7
+avg_comment_words,60.31
+median_comment_words,49.0
+max_comment_words,209
+positive_count,10
+negative_count,58
+neutral_count,0
+positive_pct,14.706
+negative_pct,85.294
+neutral_pct,0.0
+topic_1_keywords,"amd, nvidia, generation, average, first, rt, years, consumer"
+topic_1_label,nvidia generation averages first
+topic_2_keywords,"series, far, spend, melting, cables, waiting, overpriced, hoping"
+topic_2_label,overpriced cables for long time
+topic_3_keywords,"prices, demand, gpu, weak, pushing, gpus, fact, actually"
+topic_3_label,gpu is a fact
+topic_4_keywords,"radeon, since, cards, keep, also, nvidia, replacement, experience"
+topic_4_label,nvidia is a replacement for radeon
+topic_5_keywords,"theyre, still, uk, price, good, 930, get, literally"
+topic_5_label,uk is still good for 930
+topic_6_keywords,"nvidia, msrp, cant, one, find, thats, really, consumers"
+topic_6_label,consumers find nvidia in msrp
+top_ngram_1,gpu prices (11)
+top_ngram_2,weak demand (10)
+top_ngram_3,radeon cards (9)
+top_ngram_4,cant find (8)
+top_ngram_5,arguably first (7)
+top_ngram_6,first generation (7)
+top_ngram_7,generation average (7)
+top_ngram_8,average consumer (7)
+top_ngram_9,consumer sees (7)
+top_ngram_10,sees amd (7)
+ner_1,AMD|ORG|26
+ner_2,Nvidia|ORG|25
+ner_3,Ra|MISC|9
+ner_4,UK|LOC|9
+ner_5,##deon|ORG|9
+ner_6,US|LOC|7
+ner_7,NVidia|ORG|6
+ner_8,NVIDIA|ORG|5
+ner_9,Nvidias|ORG|5
+ner_10,Intel|ORG|5

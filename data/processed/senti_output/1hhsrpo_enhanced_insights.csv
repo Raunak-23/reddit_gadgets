@@ -1,0 +1,49 @@
+metric,value
+file,1hhsrpo.csv
+title,"LG’s Transparent TV Is Finally Available to Buy for 60k | The LG Signature OLED T comes in at 77 inches, and you can see through it or bring up a shade to turn it into a regular TV."
+rows,129
+num_posts,1
+num_comments,128
+unique_authors,90
+max_depth,8
+avg_comment_words,37.23
+median_comment_words,27.5
+max_comment_words,129
+positive_count,17
+negative_count,111
+neutral_count,0
+positive_pct,13.281
+negative_pct,86.719
+neutral_pct,0.0
+topic_1_keywords,"ive, people, think, hi, ever, one, used, reason"
+topic_1_label,i have a reason to think
+topic_2_keywords,"spy, like, tv, 60k, better, would, make, info"
+topic_2_label,spy like tv and tv
+topic_3_keywords,"tv, transparent, like, screen, black, whole, think, im"
+topic_3_label,i think im a black person
+topic_4_keywords,"see, lg, want, tv, behind, visionpro, shit, would"
+topic_4_label,lg want tv behind visionpro
+topic_5_keywords,"4k, tv, better, projector, like, looks, cheaper, board"
+topic_5_label,"4k, tv, better, board"
+topic_6_keywords,"way, tv, projector, need, expensive, decor, isnt, people"
+topic_6_label,"tv, projector, need, expensive decor"
+top_ngram_1,would want (10)
+top_ngram_2,spy 60k (9)
+top_ngram_3,60k better (9)
+top_ngram_4,better spy (9)
+top_ngram_5,spy sell (9)
+top_ngram_6,sell info (9)
+top_ngram_7,spy 60k better (9)
+top_ngram_8,60k better spy (9)
+top_ngram_9,better spy sell (9)
+top_ngram_10,spy sell info (9)
+ner_1,LG|ORG|27
+ner_2,Samsung|ORG|6
+ner_3,Vision|ORG|6
+ner_4,##P|MISC|5
+ner_5,Ikea|ORG|4
+ner_6,VisionPro|ORG|3
+ner_7,G4|MISC|3
+ner_8,Best|ORG|2
+ner_9,##D|MISC|2
+ner_10,Black|MISC|2

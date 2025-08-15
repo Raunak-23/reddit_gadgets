@@ -1,0 +1,49 @@
+metric,value
+file,1gv2s08.csv
+title,Sony's A1 II features a dedicated AI processor and refined ergonomics
+rows,63
+num_posts,1
+num_comments,62
+unique_authors,37
+max_depth,11
+avg_comment_words,58.87
+median_comment_words,39.0
+max_comment_words,257
+positive_count,7
+negative_count,55
+neutral_count,0
+positive_pct,11.29
+negative_pct,88.71
+neutral_pct,0.0
+topic_1_keywords,"camera, tech, old, midrange, mirrorless, gap, bigger, sensor"
+topic_1_label,"camera, midrange, mirrorless, gap"
+topic_2_keywords,"better, like, even, features, autofocus, price, flagship, light"
+topic_2_label,i like the price of the light and the features
+topic_3_keywords,"think, thats, one, old, two, get, new, processing"
+topic_3_label,i think one is one
+topic_4_keywords,"new, software, better, update, a1, upgrades, af, updates"
+topic_4_label,Updates to Af and Updates to Af
+topic_5_keywords,"raw, cant, take, iphone, could, turn, wish, processing"
+topic_5_label,Apple cant turn on the iphone
+topic_6_keywords,"ai, iphone, good, thing, photography, camera, buzzword, would"
+topic_6_label,good thing for iphone
+top_ngram_1,software update (9)
+top_ngram_2,new features (8)
+top_ngram_3,camera tech (8)
+top_ngram_4,seeing iphone (7)
+top_ngram_5,iphone employs (7)
+top_ngram_6,employs computational (7)
+top_ngram_7,computational photography (7)
+top_ngram_8,photography consider (7)
+top_ngram_9,consider good (7)
+top_ngram_10,good thing (7)
+ner_1,Sony|ORG|12
+ner_2,iPhone|MISC|11
+ner_3,DSLR|MISC|10
+ner_4,A1|MISC|9
+ner_5,AI|MISC|7
+ner_6,DallE|ORG|7
+ner_7,DS|MISC|4
+ner_8,D|MISC|3
+ner_9,AI|ORG|3
+ner_10,I|ORG|2

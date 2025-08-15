@@ -1,0 +1,49 @@
+metric,value
+file,1i500bc.csv
+title,"This fast and agile robotic insect could someday aid in mechanical pollination. With a new design, the bug-sized bot was able to fly 100 times longer than prior versions."
+rows,78
+num_posts,1
+num_comments,77
+unique_authors,64
+max_depth,6
+avg_comment_words,53.3
+median_comment_words,35.0
+max_comment_words,502
+positive_count,15
+negative_count,49
+neutral_count,13
+positive_pct,19.481
+negative_pct,63.636
+neutral_pct,16.883
+topic_1_keywords,"bees, pollination, episode, like, animals, black, mirror, fucking"
+topic_1_label,bees like fucking fucking
+topic_2_keywords,"organic, bees, could, maybe, one, something, im, thing"
+topic_2_label,Bees can be found in organic food
+topic_3_keywords,"ever, film, pol, pot, bugs, well, like, even"
+topic_3_label,"ever pol, pol, bugs and even pol"
+topic_4_keywords,"bees, would, vertical, need, fly, engineering, dont, material"
+topic_4_label,bees need to fly vertically
+topic_5_keywords,"without, great, feels, joke, seems, comment, nation, watch"
+topic_5_label,a joke is a joke
+topic_6_keywords,"mirror, black, cities, article, cant, still, multilevel, indoor"
+topic_6_label,a city with a cant and a cant
+top_ngram_1,something could (13)
+top_ngram_2,hear might (12)
+top_ngram_3,might sound (12)
+top_ngram_4,sound weird (12)
+top_ngram_5,weird used (12)
+top_ngram_6,used organic (12)
+top_ngram_7,organic bug (12)
+top_ngram_8,bug thing (12)
+top_ngram_9,thing something (12)
+top_ngram_10,could buzz (12)
+ner_1,Pol Pot|PER|4
+ner_2,AgroMegaCorp|ORG|3
+ner_3,Black Mirror|ORG|3
+ner_4,Black Mirror|MISC|2
+ner_5,Blade Runner|MISC|2
+ner_6,##C|ORG|2
+ner_7,Silicon Valley|LOC|2
+ner_8,Netflix|ORG|2
+ner_9,##i|MISC|1
+ner_10,##iB|MISC|1

@@ -1,0 +1,1822 @@
+{
+  "post": {
+    "title": "RTX 5090 cable overheats to 150 degrees Celsius \u2014 Uneven current distribution likely the culprit | One wire was spotted carrying 22A, more than double the max spec.",
+    "author": "chrisdh79",
+    "id": "1in0el5",
+    "score": 2532,
+    "created_utc": 1739285775.0,
+    "selftext": "",
+    "num_comments": 218,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1in0el5/rtx_5090_cable_overheats_to_150_degrees_celsius/"
+  },
+  "comments": [
+    {
+      "id": "mc73ywm",
+      "author": "NovaHorizon",
+      "body": "Not gonna be that hard recalling the 10 units that hit the market.",
+      "score": 1372,
+      "created_utc": 1739288208.0,
+      "replies": [
+        {
+          "id": "mc83h05",
+          "author": "Nimbokwezer",
+          "body": "Maybe not, but that's at least 10 million in revenue.",
+          "score": 410,
+          "created_utc": 1739298241.0,
+          "replies": [
+            {
+              "id": "mc8m786",
+              "author": "Mapex",
+              "body": "Both of these comments were gold looooooool",
+              "score": 66,
+              "created_utc": 1739303440.0,
+              "replies": [
+                {
+                  "id": "mcci4md",
+                  "author": "Afferbeck_",
+                  "body": "Gold is worth its weight in 5090s",
+                  "score": 18,
+                  "created_utc": 1739358158.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mcbblz7",
+              "author": "CakeEuphoric",
+              "body": "Take gold you champion",
+              "score": 5,
+              "created_utc": 1739334433.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mc7x8qg",
+          "author": "bunkSauce",
+          "body": "500ish now, probably",
+          "score": 11,
+          "created_utc": 1739296504.0,
+          "replies": []
+        },
+        {
+          "id": "mc9o6qj",
+          "author": "jryniec",
+          "body": "Sick burn, the cables & the joke",
+          "score": 8,
+          "created_utc": 1739314001.0,
+          "replies": []
+        },
+        {
+          "id": "mcagvmn",
+          "author": "xilsagems",
+          "body": "My 5080 already got RMA\u2019d",
+          "score": 2,
+          "created_utc": 1739323295.0,
+          "replies": [
+            {
+              "id": "mcaoyz3",
+              "author": "USB-SOY",
+              "body": "My mom got RMA\u2019d",
+              "score": 3,
+              "created_utc": 1739326033.0,
+              "replies": [
+                {
+                  "id": "mcautsc",
+                  "author": "wappledilly",
+                  "body": "*RAM\u2019d",
+                  "score": 6,
+                  "created_utc": 1739328077.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mceornl",
+          "author": "DohRayMe",
+          "body": "Golden",
+          "score": 1,
+          "created_utc": 1739384771.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc6yycd",
+      "author": "Explosivpotato",
+      "body": "There\u2019s a reason that the 8 pin only has 3 current carrying positive wires. It\u2019s all that was required to make a connector that is physically capable of safely handling close to double the rated spec. \n\nThis 12vhpwr cable seems to rely on numerous small wires to divide the load. That\u2019s a lot of points of failure that seemingly aren\u2019t monitored.",
+      "score": 386,
+      "created_utc": 1739286716.0,
+      "replies": [
+        {
+          "id": "mc78oi9",
+          "author": "RedMoustache",
+          "body": "Except the ASUS $$$ 5090.\n\nThe fact that company is putting in per wire monitoring says they probably saw that the cable issue was not resolved after the 4090 and knew the 5090 would be worse.",
+          "score": 281,
+          "created_utc": 1739289567.0,
+          "replies": [
+            {
+              "id": "mc7be3i",
+              "author": "Explosivpotato",
+              "body": "100%. Wild that they\u2019re the only ones doing that.",
+              "score": 121,
+              "created_utc": 1739290348.0,
+              "replies": [
+                {
+                  "id": "mc7iqjx",
+                  "author": "shalol",
+                  "body": "Maybe they and other AIBs could do it on lower end cards, if Nvidia offered a reasonable margin to work with\u2026",
+                  "score": 41,
+                  "created_utc": 1739292422.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mc931gr",
+              "author": "Themarshal2",
+              "body": "RIP EVGA, the best brand that made Nvidia GPUs",
+              "score": 67,
+              "created_utc": 1739308095.0,
+              "replies": [
+                {
+                  "id": "mccbd3f",
+                  "author": "killer89_",
+                  "body": "Nvidia really must [suck as a business partner,](https://www.extremetech.com/gaming/339629-bombshell-evga-terminates-relationship-with-nvidia) seeing that about 80% of EVGA's revenue came from making Nvidia's GPUs, yet they decided to end the partnership.",
+                  "score": 27,
+                  "created_utc": 1739354020.0,
+                  "replies": [
+                    {
+                      "id": "mcd1ghn",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 14,
+                      "created_utc": 1739367007.0,
+                      "replies": [
+                        {
+                          "id": "mcd22z5",
+                          "author": "OramaBuffin",
+                          "body": " I mean revenue and profit are different things. Nvidia treats board partners so poorly its totally possible EVGA was barely making any money on the cards",
+                          "score": 8,
+                          "created_utc": 1739367239.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mc8yyqc",
+              "author": "Magiwarriorx",
+              "body": "It may still not be enough. [Great video on how older Nvidia cards load balanced here](https://www.youtube.com/watch?v=kb5YzMoVQyw), but TL;DR is previous generation Nvidia cards would load balance between the connectors (or between wires for 30 series 12vhpwr cards). Absolute worst case scenario would only put 150-200W through one wire before the card electrically couldn't turn on anymore, and those wires were arguably overspeced anyway.\n\n\n40 and 50 series don't load balance, at all, even the Asus cards. It isn't clear to me if Asus' monitoring actually shuts the card down when it sees major over current on one wire, or just warns you something's fucky. It certainly doesn't seem to have a way to actually fix the problem.",
+              "score": 24,
+              "created_utc": 1739306979.0,
+              "replies": [
+                {
+                  "id": "mcbwgcg",
+                  "author": "jakubmi9",
+                  "body": "Asus sends a notification. In their software. Assuming you installed it, which is something you don't want to do usually. Their hardware is (was?) good, but their software used to be basically unusable. I'm not sure if the ASTRAL uses armory crate or something else though.",
+                  "score": 5,
+                  "created_utc": 1739344798.0,
+                  "replies": [
+                    {
+                      "id": "mccdgrw",
+                      "author": "dan_Qs",
+                      "body": "Their api actually calls your local fire department for you. You just need to enable all their tracking in there software. No personalised ads? Here is an ad for fire insurance. /s",
+                      "score": 7,
+                      "created_utc": 1739355324.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mc7jmnv",
+              "author": "terraphantm",
+              "body": "Hmm, between that and the extra hdmi port, almost makes me want to just spend the extra money and get the Asus card",
+              "score": 14,
+              "created_utc": 1739292672.0,
+              "replies": [
+                {
+                  "id": "mcbgwsc",
+                  "author": "Consistent-Youth-407",
+                  "body": "The wire view by derbaurer for like $40 seems more and more like a sensible purchase",
+                  "score": 5,
+                  "created_utc": 1739336737.0,
+                  "replies": []
+                },
+                {
+                  "id": "mc87zaa",
+                  "author": "Sciencebitchs",
+                  "body": "Which Asus card is it?",
+                  "score": 2,
+                  "created_utc": 1739299492.0,
+                  "replies": [
+                    {
+                      "id": "mc8g67i",
+                      "author": "BenadrylChunderHatch",
+                      "body": "Asus ROG Plz don't catch fire.",
+                      "score": 31,
+                      "created_utc": 1739301769.0,
+                      "replies": [
+                        {
+                          "id": "mc8mqym",
+                          "author": "Mapex",
+                          "body": "Ahhh yes I saw that movie recently, it was the seventh Hunger Games film.",
+                          "score": 6,
+                          "created_utc": 1739303590.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mc8jfkt",
+                      "author": "ArseBurner",
+                      "body": "The Rog Astral",
+                      "score": 5,
+                      "created_utc": 1739302672.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mc9q6v4",
+              "author": "cipri_tom",
+              "body": "But their cards are triple slot",
+              "score": -1,
+              "created_utc": 1739314605.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mc7773k",
+          "author": "roshanpr",
+          "body": "It\u2019s intentional. That way you buy more cards\u00a0",
+          "score": -40,
+          "created_utc": 1739289144.0,
+          "replies": [
+            {
+              "id": "mc78yre",
+              "author": "Explosivpotato",
+              "body": "Most people who have a computer component catch on literal fire would be unlikely to buy another product from that same brand.",
+              "score": 79,
+              "created_utc": 1739289648.0,
+              "replies": [
+                {
+                  "id": "mc8nocf",
+                  "author": "Fredasa",
+                  "body": "Haven't had a fire yet, but I had one GPU outright die on me in my history with PCs.  AMD's R9 290X\u2014a card that was quite blatantly factory-overclocked, ran at close to 90 degrees, and was the loudest component I've ever owned by a literal base 10 logarithmic order of magnitude.  I was quite unsurprised when it gave me a permanent black screen with zero forewarning.\n\nAnd yeah, I've been off AMD GPUs since.",
+                  "score": 3,
+                  "created_utc": 1739303844.0,
+                  "replies": [
+                    {
+                      "id": "mcbqt15",
+                      "author": "Ozzy-",
+                      "body": "Orders of magnitude are by definition base 10 btw",
+                      "score": 2,
+                      "created_utc": 1739341620.0,
+                      "replies": [
+                        {
+                          "id": "mcbwn07",
+                          "author": "Fredasa",
+                          "body": "It's just my personal spin on \"metric ton\".  The point is to emphasize in an over the top fashion.",
+                          "score": 1,
+                          "created_utc": 1739344907.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mc7fp09",
+              "author": "joebear174",
+              "body": "That is a wild strategy to propose. Who would buy another of the same product after their original purchase caught on fire?",
+              "score": 14,
+              "created_utc": 1739291567.0,
+              "replies": [
+                {
+                  "id": "mc8f0f1",
+                  "author": "Unnomable",
+                  "body": "I still don't buy Seagate from a drive failing, if my shit caught on fire I would probably maybe definitely not buy Nvidia.",
+                  "score": 3,
+                  "created_utc": 1739301446.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mc78274",
+              "author": "Cakalacky",
+              "body": "![gif](giphy|h1QI7dgjZUJO60nu2X|downsized)",
+              "score": 12,
+              "created_utc": 1739289391.0,
+              "replies": []
+            },
+            {
+              "id": "mc7dms6",
+              "author": "UpsetKoalaBear",
+              "body": "12VHPWR was created by Dell and Nvidia then submitted to PCI-SIG who approved it and incorporated it as part of ATX 3.0, though it was part of PCIE-5.0 before that. Nvidia was just the first to use it. \n\nhttp://www.jongerow.com/12VHPWR/index.html\n\nIt\u2019s most likely if this was implemented by _literally_ any other manufacturer, it would end with the same issue. Though there are concerns about connector quality, I don\u2019t think [Nvidia would risk another class action lawsuit.](https://uk.pcmag.com/graphics-cards/143891/nvidia-faces-class-action-lawsuit-over-melting-12vhpwr-cables)\n\nPCI-SIG is a consortium, companies who make products interfacing with ATX or PCIE have to pay for membership to be able to access the standards. As a result, it falls on the entirety of PCI-SIG that _they_ allowed this to be implemented into the specifications without proper and thorough testing.\n\nIt also falls on Nvidia and Dell for creating the spec and submitting it without testing thoroughly, but PCI-SIG is also responsible for not having checks and balances in place for this. \n\nEven if it is user error, the number of issues people have had with it means that it\u2019s clearly a problem. What\u2019s worse is PCI-SIG have tried to [wash their hands of the problem](https://www.theregister.com/2022/12/02/pcisig_melting_cables_nvidia/), despite being the ones that approved it in the first place.",
+              "score": 8,
+              "created_utc": 1739290985.0,
+              "replies": []
+            },
+            {
+              "id": "mcch3al",
+              "author": "jfp1992",
+              "body": "What cards?",
+              "score": 1,
+              "created_utc": 1739357561.0,
+              "replies": [
+                {
+                  "id": "mccp8j9",
+                  "author": "roshanpr",
+                  "body": "The disposable type .",
+                  "score": 1,
+                  "created_utc": 1739361935.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc71h3p",
+      "author": "kjjustinXD",
+      "body": "12VHWPR is the solution to a problem we didn't have, and now it has become the problem.",
+      "score": 265,
+      "created_utc": 1739287474.0,
+      "replies": [
+        {
+          "id": "mc78gku",
+          "author": "CptKillJack",
+          "body": "I would prefer a wider larger connector. Same size as the 8 pin but more pins. This going with smaller pins to take up less space doesn't seem to be cutting it.",
+          "score": 62,
+          "created_utc": 1739289503.0,
+          "replies": [
+            {
+              "id": "mc7g4mn",
+              "author": "joebear174",
+              "body": "It's especially stupid if their reasoning is to \"take up less space\" since the connector is so fragile you need to give it plenty of space to accomodate a wide bend radius anyway.",
+              "score": 34,
+              "created_utc": 1739291688.0,
+              "replies": [
+                {
+                  "id": "mcazgs7",
+                  "author": "CptKillJack",
+                  "body": "Iirc they wanted to take up the same space as an 8 pin connector with more power.",
+                  "score": 2,
+                  "created_utc": 1739329748.0,
+                  "replies": [
+                    {
+                      "id": "mcbr3r9",
+                      "author": "nagi603",
+                      "body": "Sadly, physics does not really work that way. And especially not with even increasing power uptake ever since and cheaping out in power sensing/balancing.",
+                      "score": 2,
+                      "created_utc": 1739341782.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mc7h92z",
+              "author": "Trichotillomaniac-",
+              "body": "I wouldn\u2019t even be mad if there was a standard power cord that goes in the back of the gpu. That would look clean actually",
+              "score": 28,
+              "created_utc": 1739292006.0,
+              "replies": [
+                {
+                  "id": "mcakrpg",
+                  "author": "_Rand_",
+                  "body": "On the one hand this is probably a great solution, on the other hand the damn things are expensive enough without having a 500w power brick the size of housecat included.",
+                  "score": 7,
+                  "created_utc": 1739324597.0,
+                  "replies": []
+                },
+                {
+                  "id": "mc7qw7y",
+                  "author": "DonArgueWithMe",
+                  "body": "I'd love for the future versions to provide power through the mobo and replace pcie. Keep moving towards motherboards that allow you to plug power connectors to the back side for shorter travel through the pcb and better cable management.",
+                  "score": 9,
+                  "created_utc": 1739294725.0,
+                  "replies": [
+                    {
+                      "id": "mc87yvx",
+                      "author": "Zomunieo",
+                      "body": "There\u2019s a proposed design that would have the power supply as a pluggable module that provides power to the motherboard. That would also let the motherboard provide enough power to graphics cards through the slot connector.",
+                      "score": 8,
+                      "created_utc": 1739299489.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mcd71g1",
+                  "author": "ManyCalavera",
+                  "body": "That would be a huge unnecessary waste. It would essentially be replicating a PSU circuit inside a GPU",
+                  "score": 1,
+                  "created_utc": 1739368996.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mcan9cc",
+              "author": "wkavinsky",
+              "body": "Safe current carrying capacity of wire rises with the square of the diameter of wire.\n\nThat said, if these wires were 14AWG, any one wire could carry > 25a at 12v with no issues.",
+              "score": 4,
+              "created_utc": 1739325445.0,
+              "replies": [
+                {
+                  "id": "mccuker",
+                  "author": "Mayor_of_Loserville",
+                  "body": "They're 16 awg and even then, the guves more context about the issues. Its not just too much current.",
+                  "score": 2,
+                  "created_utc": 1739364324.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc83m2i",
+          "author": "Spiz101",
+          "body": "In my view the worst part is the ATX power supply spec already has a -12Vdc rail. They could have designed the card with a +/-12V (so 24V) supply and avoided this mad dash to ever higher currents.\n\nSure you'd need new power supplies with way more -12V current, but this is just silly.",
+          "score": 12,
+          "created_utc": 1739298280.0,
+          "replies": [
+            {
+              "id": "mcbrgw6",
+              "author": "nagi603",
+              "body": "They can get away with a new adapter, but everyone ditching all PSUs in use currently and forcing PSU companies to re-engineer all their lineup is a no-go.",
+              "score": 3,
+              "created_utc": 1739341985.0,
+              "replies": []
+            },
+            {
+              "id": "mchex9d",
+              "author": "Quasi_Evil",
+              "body": "The problem there is that all the other signals in the system are referenced to ground.  So instead of a \"simple\" 12V to core voltage (multi-phase) buck converter, you'd need some sort of isolated topology of switching converter.  It's hard enough making the current system function within specs - doing it with an isolated converter would be absolutely bonkers and chew up a huge amount of board area with transformers.\n\nI say \"simple\" because a friend of mine actually designs these things for one of NV's suppliers.  They're absolutely hideously complicated to meet the absolutely insane specs in terms of current and tight voltage overshoot/undershoot when the current demand suddenly swings a few hundred amps in microseconds.\n\nThey'd be much better off building a better connector from scratch, or moving to a ground-referenced 24 or 48V DC rail for future high power use for both the CPU and GPU.  Now if you move to 48V that poses its own challenges, but they're probably better than anything unholy that involves isolated converters.",
+              "score": 2,
+              "created_utc": 1739413849.0,
+              "replies": []
+            },
+            {
+              "id": "mcy4d1u",
+              "author": "User_2C47",
+              "body": "The -12V rail on an ATX power supply is rated for very little current, usually less than one amp, and it's only routed to one pin on the mobo connector. It was only ever used for RS232 and a few very old expansion cards.\n\nImplementing this would require an entirely new 24 volt standard that takes the place 12V0 was meant to, and separate 12v and 24v versions of graphics cards for several years.",
+              "score": 1,
+              "created_utc": 1739646963.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mcaxvwh",
+          "author": "mariano3113",
+          "body": "Something about \"living long enough to become the villain\"",
+          "score": 1,
+          "created_utc": 1739329176.0,
+          "replies": []
+        },
+        {
+          "id": "mcbxml7",
+          "author": "dud3sweet777",
+          "body": "I bet the PM that spearheaded 12vhpwr is still at the company and can't admit fault without losing his/her job.",
+          "score": 1,
+          "created_utc": 1739345501.0,
+          "replies": []
+        },
+        {
+          "id": "mcb1owf",
+          "author": "Kuli24",
+          "body": "Yup.  Give me 4 8 pin connectors and I'll be happy.  Seriously.  I used to have the evga 1600w that had 9 8 pins coming out XD",
+          "score": 1,
+          "created_utc": 1739330566.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc703mh",
+      "author": "FUTURE10S",
+      "body": "Wasn't the entire point of this connector so it can't do something like this?",
+      "score": 100,
+      "created_utc": 1739287062.0,
+      "replies": [
+        {
+          "id": "mcbn2zk",
+          "author": "soulsoda",
+          "body": "The new 12VHPWR, 12V-2x6 is just a 12VHPWR with longer contact pins, and shorter sensing pins. This helps with user error like improper connections, but does diddly squat for load balance.\n\nelectricity doesn't really care how many connections you give it, the majority is going to follow the path of least resistance. Yes there's 6 paths it can flow, but there's no mechanism for the card to say hey don't run 500-600watts through only one of six wires, since to the card its all \"one wire\".",
+          "score": 17,
+          "created_utc": 1739339668.0,
+          "replies": []
+        },
+        {
+          "id": "mcaa9kc",
+          "author": "eaeorls",
+          "body": "The main point of the connector was that it would be more efficient at delivering high amounts of power.\n\nWhere to remain in spec for the old PCI power, they'd need 3x 8 pin and 1x 6 pin at minimum for 575w, since the spec is rated for 150w 8pin or 75w 6pin (+75 from the slot itself).\n\nThey probably should have just developed the cable for a safer 300w--or even just 450w--though.",
+          "score": 26,
+          "created_utc": 1739321111.0,
+          "replies": []
+        },
+        {
+          "id": "mcbqyq3",
+          "author": "DamianKilsby",
+          "body": ">using a custom cable from MODDIY instead of official Nvidia adapters\n\nThe guy wasn't using one",
+          "score": 1,
+          "created_utc": 1739341706.0,
+          "replies": [
+            {
+              "id": "mccdtqa",
+              "author": "benjathje",
+              "body": "And the official cable didn't fail",
+              "score": 1,
+              "created_utc": 1739355546.0,
+              "replies": []
+            },
+            {
+              "id": "mcctuqv",
+              "author": "FUTURE10S",
+              "body": "I never said anything about whose cable it is. It shouldn't matter whose cable it is.",
+              "score": 1,
+              "created_utc": 1739364023.0,
+              "replies": [
+                {
+                  "id": "mcd0k5g",
+                  "author": "DamianKilsby",
+                  "body": "Have fun with your aliexpress cable then I guess \ud83e\udee1",
+                  "score": -2,
+                  "created_utc": 1739366674.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc72w35",
+      "author": "UnsorryCanadian",
+      "body": "6090 better just come with a 3 pin wall outlet plug at this rate",
+      "score": 118,
+      "created_utc": 1739287889.0,
+      "replies": [
+        {
+          "id": "mc7bcxi",
+          "author": "Sinocatk",
+          "body": "Hopefully the worlds best 3 point plug from the UK with built in fuse!",
+          "score": 24,
+          "created_utc": 1739290339.0,
+          "replies": [
+            {
+              "id": "mc7l1n9",
+              "author": "RadVarken",
+              "body": "Have used UK plugs. Am fan.",
+              "score": 12,
+              "created_utc": 1739293070.0,
+              "replies": [
+                {
+                  "id": "mc7ru7d",
+                  "author": "None",
+                  "body": "As a fan, how are you posting on Reddit?",
+                  "score": 11,
+                  "created_utc": 1739294989.0,
+                  "replies": [
+                    {
+                      "id": "mc85z9s",
+                      "author": "Thelk641",
+                      "body": "The wind they make carries their voice to us.",
+                      "score": 2,
+                      "created_utc": 1739298938.0,
+                      "replies": [
+                        {
+                          "id": "mc8l6ka",
+                          "author": "RadVarken",
+                          "body": "The oscillations carry my thoughts on the breeze.",
+                          "score": 2,
+                          "created_utc": 1739303159.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mcd0dz1",
+                      "author": "ki11bunny",
+                      "body": "3 pin uk plug, obviously",
+                      "score": 2,
+                      "created_utc": 1739366610.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mc7to9r",
+                  "author": "random_reddit_user31",
+                  "body": "Just don't step on one with bare feet lol.",
+                  "score": 5,
+                  "created_utc": 1739295507.0,
+                  "replies": [
+                    {
+                      "id": "mc7wozo",
+                      "author": "ItsyouNOme",
+                      "body": "I jumped off my top bunk as a teen to get water and landed one one, nearly tore skin. Learnt how to do breathing exercises pretty damn fast.",
+                      "score": 1,
+                      "created_utc": 1739296351.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mdevthf",
+                      "author": "JoseMinges",
+                      "body": "Nightmare scenario time: UK 3 pin plug made from LEGO.",
+                      "score": 1,
+                      "created_utc": 1739878125.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc7bxat",
+          "author": "DaedalusRaistlin",
+          "body": "Like the 3dfx Voodoo 5 (6?)? We've had wall warts for graphics cards before, when consumer PSUs weren't up to the task.",
+          "score": 11,
+          "created_utc": 1739290501.0,
+          "replies": [
+            {
+              "id": "mc7cmd4",
+              "author": "UnsorryCanadian",
+              "body": "I looked it up\n3dfx Voodoo 5 6000 *quad gpu* had a wall adapter\u00a0\n\n\nIf Nvidia tried that today, they'd flip most american circuit breakers",
+              "score": 14,
+              "created_utc": 1739290700.0,
+              "replies": [
+                {
+                  "id": "mc7cvx5",
+                  "author": "DaedalusRaistlin",
+                  "body": "It was just bonkers at the time, and I wanted it so badly lol. I think very few of those were ever made.",
+                  "score": 3,
+                  "created_utc": 1739290776.0,
+                  "replies": [
+                    {
+                      "id": "mc7e2ah",
+                      "author": "UnsorryCanadian",
+                      "body": "A google result said it's a $15,000 GPU? I don't know if that's modern private sale or accounting for inflation or just made up, but that's a damn workstation card for sure",
+                      "score": 2,
+                      "created_utc": 1739291107.0,
+                      "replies": [
+                        {
+                          "id": "mc88clz",
+                          "author": "NeedsMoreGPUs",
+                          "body": "That was an auction price from 2023. An official MSRP was never announced because the card wasn't technically launched, but it was planned to be around $600 in Q4 2000.",
+                          "score": 10,
+                          "created_utc": 1739299594.0,
+                          "replies": [
+                            {
+                              "id": "mc891tk",
+                              "author": "UnsorryCanadian",
+                              "body": "That makes sense\n\n\nNo wonder Linus was in the thumbnail",
+                              "score": 3,
+                              "created_utc": 1739299787.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mc7ebcp",
+                      "author": "UnsorryCanadian",
+                      "body": "Google said it's a $15,000 card.i don't know if that's private sale, auction, accounting for inflation or just made up\n\n\nBut thats a damn workstation card for sure",
+                      "score": 1,
+                      "created_utc": 1739291178.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mcb0d6e",
+              "author": "hadronflux",
+              "body": "Was about to reply with the same - loved my Voodoo cards at the time.",
+              "score": 2,
+              "created_utc": 1739330075.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mc7rb8q",
+          "author": "Livesies",
+          "body": "With an extension to another breaker section.",
+          "score": 2,
+          "created_utc": 1739294842.0,
+          "replies": []
+        },
+        {
+          "id": "mca1vmx",
+          "author": "droppinkn0wledge",
+          "body": "Honestly at this point why not? I\u2019d rather deal with another wall plug than whatever Jerry rigged half measures Nvidia is implementing to suck power out of a PSU.",
+          "score": 1,
+          "created_utc": 1739318360.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc74yyv",
+      "author": "aitorbk",
+      "body": "An industrial 40A connector would be simpler and safer. \nWith a 10% safety margin a single connector failure means it is unsafe.  6 points of failure vs 1.\n\nWhoever designed this, please go away.",
+      "score": 90,
+      "created_utc": 1739288502.0,
+      "replies": [
+        {
+          "id": "mc7x6b9",
+          "author": "bal00",
+          "body": "Exactly. This was such a bad design from the beginning. It's a bad idea to deliver 600W at just 12V, it's a bad idea to run multiple pins in parallel and it's a bad idea to use so few pins that even if their resistance is perfectly identical, they're still running very close to their rated maximum. The only way to make this design safe is to add current/temperature monitoring. Everything else is just a gamble.",
+          "score": 31,
+          "created_utc": 1739296486.0,
+          "replies": [
+            {
+              "id": "mc86e73",
+              "author": "audigex",
+              "body": "Yeah it\u2019s just a fundamentally bad idea to send 600W at 12V over this type of connector\n\nWe either need a new (read: thicker) connector suitable for higher currents, or to just accept that once you get to this kind of power consumption 12V just isn\u2019t suitable for this kind of application if you want to keep the thinner connectors, and you need eg 20-24V",
+              "score": 26,
+              "created_utc": 1739299053.0,
+              "replies": [
+                {
+                  "id": "mcb9qus",
+                  "author": "bogglingsnog",
+                  "body": "I'd be happy just to slap in some housing-gauge wire...",
+                  "score": 2,
+                  "created_utc": 1739333669.0,
+                  "replies": [
+                    {
+                      "id": "mcdbjwy",
+                      "author": "audigex",
+                      "body": "That's basically what it comes down to - either a 6-gauge wire or a couple of 8-10 gauge\n\nAssuming I've not cocked the maths up, a new 6-pin with 10 gauge, for example, would allow for 90A (3x +12v up to 30A, 3x GND)\n\nThat would max out at 1.08kW, giving plenty of headroom for current cards which, realistically, are probably hitting the limits of what the thermals can handle anyway. Even if the thermals could be improved it still allows for theoretically 80% more power draw than the 5090. You'd probably want to reduce that down somewhat for safety, but using 10ga rather than 12ga is already giving us some headroom",
+                      "score": 3,
+                      "created_utc": 1739370510.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mcdl2zw",
+              "author": "Pepparkakan",
+              "body": "Is there an actual good reason they even stayed with 12V when designing a whole ass new connector? Were they unable to get PSU manufacturers to agree to add new higher voltage power rails?",
+              "score": 2,
+              "created_utc": 1739373511.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc8qjo9",
+      "author": "Tommy__want__wingy",
+      "body": "This is why being an early adopter isn\u2019t worth the hype.\n\nYou paid 2k for melted wires. Even if it\u2019s a .1 percent failure rate, it\u2019s a rate NVidia will accept.",
+      "score": 16,
+      "created_utc": 1739304651.0,
+      "replies": []
+    },
+    {
+      "id": "mc6wohg",
+      "author": "roiki11",
+      "body": "Gee I wouldn't have guessed...",
+      "score": 48,
+      "created_utc": 1739286010.0,
+      "replies": []
+    },
+    {
+      "id": "mc70exe",
+      "author": "w1n5t0nM1k3y",
+      "body": "Probably won't be too long before these high end GPUs are just dedicated boxes that come with their own power supply so the quality of the connection can be designed directly into the unit rather than relying on these connectors which aren't up to the task.\n\nOr design a completely different type of connector that provides better contact and haas a right angle so that we don't have bendy cables coming out the side of the card which end up getting bent and distorted causing bad connections.",
+      "score": 53,
+      "created_utc": 1739287155.0,
+      "replies": [
+        {
+          "id": "mc71qes",
+          "author": "DaRadioman",
+          "body": "We have contractors that handle many times this amount of current daily across all kinds of industries. \n\nThis is just lazy engineering at this point.",
+          "score": 71,
+          "created_utc": 1739287549.0,
+          "replies": [
+            {
+              "id": "mc76cod",
+              "author": "w1n5t0nM1k3y",
+              "body": "That's where my second paragraph comes in. Just design a better connector to meet the requirements of these high powered cards.",
+              "score": 2,
+              "created_utc": 1739288899.0,
+              "replies": [
+                {
+                  "id": "mc78boy",
+                  "author": "DaRadioman",
+                  "body": "Yep, not necessarily disagreeing with you, just pointing out this is a totally solvable problem they are facing. They don't *need* to have an included PSU if they did stuff right.",
+                  "score": 6,
+                  "created_utc": 1739289466.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mc8crpq",
+              "author": "smurficus103",
+              "body": "Lazy engineering would be slapping 6 gauge wiring to the wall, lol",
+              "score": 0,
+              "created_utc": 1739300824.0,
+              "replies": [
+                {
+                  "id": "mc8l338",
+                  "author": "DaRadioman",
+                  "body": "Lol I think I would support excessive over-engineering over under specced or failure mode littered solutions like we have today.",
+                  "score": 3,
+                  "created_utc": 1739303133.0,
+                  "replies": [
+                    {
+                      "id": "mc8opm5",
+                      "author": "smurficus103",
+                      "body": "Yeah it seems like their requirement was \"how do we make the same connector push 500 watts?\"\n\nThe result is absurd. \n\nThey spun some engineers wheels for too long with the wrong requirement(s)\n\nApple, as much as we all despise their closed ecosystem, got pretty creative with their monolith design. Just wish it could slot in... APPLE MAKE A CPU/GPU/RAM + MOBO DAMN IT",
+                      "score": 2,
+                      "created_utc": 1739304132.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc757m7",
+          "author": "trucorsair",
+          "body": "More likely a Fallout Fusion Core will be needed",
+          "score": 5,
+          "created_utc": 1739288572.0,
+          "replies": []
+        },
+        {
+          "id": "mc7x35i",
+          "author": "LegendOfVinnyT",
+          "body": "A 5090 would draw about 12 amps total on a 48V rail. Nobody wants to be the one to say we need a new power supply standard, and tell customers that they have to replace their working ATX or SFX PSUs, because we've run all-gas-no-brakes into the Moore's Law wall, though.",
+          "score": 9,
+          "created_utc": 1739296461.0,
+          "replies": [
+            {
+              "id": "mc84ayi",
+              "author": "Spiz101",
+              "body": "We could get 24V within the notional ATX standard by using the -12V rail.\n\nIt would require new power supplies with way more -12V current. However, the fundamental engineering wouldn't change and backwards compatibility would be maintained.",
+              "score": 13,
+              "created_utc": 1739298472.0,
+              "replies": []
+            },
+            {
+              "id": "mc8crel",
+              "author": "ThePr0vider",
+              "body": "yeah sure, but that high voltage then gets tranformed down again on the card itself to like, sub 3.3V. you're just adding a bigger and bigger DC-DC converter",
+              "score": 3,
+              "created_utc": 1739300822.0,
+              "replies": [
+                {
+                  "id": "mc8nytx",
+                  "author": "cbf1232",
+                  "body": "But that\u2019s built into the card and not likely to fail.",
+                  "score": 1,
+                  "created_utc": 1739303925.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc71m13",
+          "author": "CambodianJerk",
+          "body": "This.  At the point that they are pulling this much power, lets just power it properly.  Either mains power straight in, or PSU's with another port on the external for a C13 to C14 cable out into the GPU.",
+          "score": 6,
+          "created_utc": 1739287513.0,
+          "replies": [
+            {
+              "id": "mc7t5my",
+              "author": "DonArgueWithMe",
+              "body": "I could also see someone like Intel or amd designing a setup where the cpu socket is embedded on the gpu. Have a small motherboard for storage and other i/o like USB. With amd's infinity fabric to pass data could allow for major improvements to the data pipeline, especially if the drivers were optimized to use vram for system ram when there's extra.",
+              "score": 3,
+              "created_utc": 1739295362.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc78ln6",
+      "author": "Fyyar",
+      "body": "Hmm, where have we seen this before? Oh yeah, on the 4090.",
+      "score": 15,
+      "created_utc": 1739289544.0,
+      "replies": [
+        {
+          "id": "mc8amw9",
+          "author": "MakesMyHeadHurt",
+          "body": "I keep feeling better about the money I spent on my 3080Ti with every new generation.",
+          "score": -2,
+          "created_utc": 1739300228.0,
+          "replies": [
+            {
+              "id": "mc8fvom",
+              "author": "GiveMePronz",
+              "body": "With 12 GB VRAM? Lmao (I'm saying this as a 3080Ti owner as well).",
+              "score": -3,
+              "created_utc": 1739301689.0,
+              "replies": [
+                {
+                  "id": "mc8o5dr",
+                  "author": "MakesMyHeadHurt",
+                  "body": "I'd call it the bare minimum, but at 1440p, I haven't had any problems with it yet.",
+                  "score": 4,
+                  "created_utc": 1739303974.0,
+                  "replies": [
+                    {
+                      "id": "mc9n2d9",
+                      "author": "SpiritJuice",
+                      "body": "I'm very much feeling the limits on some games with my 3070 Ti and 8 GB of VRAM. Only 3 years old and it feels like a dead card outside of 1080p for current games. The 50 series only having 16 GB has me worried it'll be outdated in two years minimum.",
+                      "score": 1,
+                      "created_utc": 1739313667.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc8f9mr",
+      "author": "ThatGuyFromTheM0vie",
+      "body": "$2000+",
+      "score": 5,
+      "created_utc": 1739301519.0,
+      "replies": [
+        {
+          "id": "mc8utb6",
+          "author": "Zaphod392",
+          "body": "3,000+ now",
+          "score": 4,
+          "created_utc": 1739305837.0,
+          "replies": [
+            {
+              "id": "mcdmsuc",
+              "author": "ThatGuyFromTheM0vie",
+              "body": "\ud83e\udd2e",
+              "score": 1,
+              "created_utc": 1739374020.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc71rw7",
+      "author": "Contemplationz",
+      "body": "This is my call for graphics cards to stop getting bigger and drawing more power. Focus on efficiency, not just a larger die that will take the energy output of a miniature sun to power.",
+      "score": 35,
+      "created_utc": 1739287561.0,
+      "replies": [
+        {
+          "id": "mc73nfb",
+          "author": "scbundy",
+          "body": "But they can't get faster if they don't get bigger.  You need die shrinks to be more efficient.",
+          "score": 19,
+          "created_utc": 1739288113.0,
+          "replies": [
+            {
+              "id": "mc77tfi",
+              "author": "Contemplationz",
+              "body": "Each successive generation of cards keeps drawing more and more power. For instance, take the X080 across the generations.  \n1080 180 W  \n2080 225 W  \n3080 320 W  \n4080 320 W  \n5080 360 W\n\nI understand that we're up against the limits of Moore's law, but continuing to draw more power isn't the answer long-term.",
+              "score": 24,
+              "created_utc": 1739289322.0,
+              "replies": [
+                {
+                  "id": "mc7jdv6",
+                  "author": "Chronotaru",
+                  "body": "360 watts is getting into rice cooker levels of power usage.",
+                  "score": 22,
+                  "created_utc": 1739292604.0,
+                  "replies": []
+                },
+                {
+                  "id": "mc7bklr",
+                  "author": "scbundy",
+                  "body": "This is why you're seeing technologies like DLSS and MFG.  That's how we're increasing performance and efficiency with physical limits where they are.",
+                  "score": 9,
+                  "created_utc": 1739290400.0,
+                  "replies": [
+                    {
+                      "id": "mcbnzom",
+                      "author": "soulsoda",
+                      "body": "I totally agree with the sentiment except for MFG. Nvidia has been hyping that up, but honestly MFG is a \"win better\" gimmick and only useful if you're already have good framerates, and doesn't help turn shitty framerates into good ones.",
+                      "score": 4,
+                      "created_utc": 1739340129.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mcbkph2",
+                      "author": "Statharas",
+                      "body": "I swear that's what's using the power...",
+                      "score": 1,
+                      "created_utc": 1739338504.0,
+                      "replies": [
+                        {
+                          "id": "mcbr7ks",
+                          "author": "DamianKilsby",
+                          "body": "It's not, the cards are rated at that wattage under max load regardless of AI upscaling.",
+                          "score": 1,
+                          "created_utc": 1739341841.0,
+                          "replies": [
+                            {
+                              "id": "mcc7m6z",
+                              "author": "Statharas",
+                              "body": "Yeah, imma stick with AMD",
+                              "score": 1,
+                              "created_utc": 1739351673.0,
+                              "replies": [
+                                {
+                                  "id": "mcc7wzv",
+                                  "author": "DamianKilsby",
+                                  "body": "\ud83d\udc4d",
+                                  "score": 1,
+                                  "created_utc": 1739351858.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mc7uep5",
+                  "author": "DonArgueWithMe",
+                  "body": "It's partly that they're listening to their users, people who want higher end cards and are willing to spend over a grand don't care that much about power efficiency. \n\nUnless there's a substantial shift in how the market prioritizes performance you're not going to see high end cards cut back.",
+                  "score": 3,
+                  "created_utc": 1739295715.0,
+                  "replies": [
+                    {
+                      "id": "mc8f0h8",
+                      "author": "dertechie",
+                      "body": "I think we will see some reduction next generation.  Part of the reason 50-series is so hungry and feels like a refresh more than a new gen is that it's the same 4NP node as 40-series.",
+                      "score": 1,
+                      "created_utc": 1739301447.0,
+                      "replies": [
+                        {
+                          "id": "mc8q6ra",
+                          "author": "DonArgueWithMe",
+                          "body": "If they fix their power delivery problems or go back to two or three 8 pin cables I only see it going up. People are paying two to three times msrp already, you think they'd stop if it hits 750 watts?\n\nI'd bet if they came out with a model that used double the power of the 5090 but generated just 50% more frames people would still clear the shelves. But maybe I'm biased since I used to use two vega's for gaming (500-600 watts combined).",
+                          "score": 2,
+                          "created_utc": 1739304550.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mcbxmjy",
+                  "author": "domi1108",
+                  "body": "Hey, it worked for Intel, well at least for a few years.\n\nThe problem is, there isn't much competition at the GPU market right now. \n\nAnd to be simply clear: Nvidia would easily still make money if they stopped doing new cards for 5-10 years and just get more existing cards on the market while trying to improve the efficiency on existing cards.",
+                  "score": 1,
+                  "created_utc": 1739345500.0,
+                  "replies": []
+                },
+                {
+                  "id": "mc7uv07",
+                  "author": "DonArgueWithMe",
+                  "body": "Realistically power use for high end cards went down over the generations, since sli and crossfire died out.\n\n4x1080ti's was a thing",
+                  "score": 0,
+                  "created_utc": 1739295841.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc793x4",
+          "author": "FOSSnaught",
+          "body": "Um, no.  I won't be happy until I can heat my home with it.",
+          "score": 3,
+          "created_utc": 1739289690.0,
+          "replies": [
+            {
+              "id": "mc87gfx",
+              "author": "Simpicity",
+              "body": "You can already easily do that.",
+              "score": 7,
+              "created_utc": 1739299348.0,
+              "replies": [
+                {
+                  "id": "mc8b3rx",
+                  "author": "FixTheUSA2020",
+                  "body": "Blessing in the winter, torture in the summer.",
+                  "score": 2,
+                  "created_utc": 1739300357.0,
+                  "replies": [
+                    {
+                      "id": "mc8bqu7",
+                      "author": "Simpicity",
+                      "body": "I have a 1080Ti, and it can bake an entire room, and that's at half the wattage.",
+                      "score": 5,
+                      "created_utc": 1739300536.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mcb9wb3",
+                      "author": "bogglingsnog",
+                      "body": "I underclock in the summer lol",
+                      "score": 2,
+                      "created_utc": 1739333730.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mcala4w",
+          "author": "fweaks",
+          "body": "Intel did that for a while, focusing on making their CPUs more efficient instead of more powerful.\n\nIt lost them a significant amount of market share to AMD.\n\nSo now they've pivoted in the opposite direction. Their top of the line CPUs have such high power draw that it's essentially impossible to cool them sufficiently to reach their maximum potential (i.e. no thermal throttling)",
+          "score": 1,
+          "created_utc": 1739324768.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc7b0id",
+      "author": "_ILP_",
+      "body": "lol this seems like tradition at this point- new GPU? New FIRE aww yeah. They\u2019ll be \u201csafe\u201d post release. Shoutout/R.I.P. to those $3000 beta testers tho \ud83d\ude14",
+      "score": 5,
+      "created_utc": 1739290239.0,
+      "replies": []
+    },
+    {
+      "id": "mc6ze4n",
+      "author": "W1shm4ster",
+      "body": "A \u201csolution\u201d would be getting a cable that can actually transfer this amount on just one pin. \n\nThis shouldn\u2019t be a thing at all obviously, especially considering the price. \n\nWho knows, maybe it is good that we lack stock of 5090s",
+      "score": 19,
+      "created_utc": 1739286848.0,
+      "replies": [
+        {
+          "id": "mc70up9",
+          "author": "jcforbes",
+          "body": "The cable doesn't matter, it's the pins themselves that cannot handle the current. If you put the same pin on a the end of a 0awg cable the pin will melt just the same as if the pin was on a 20awg cable.",
+          "score": 14,
+          "created_utc": 1739287287.0,
+          "replies": [
+            {
+              "id": "mc74yme",
+              "author": "Rcarlyle",
+              "body": "The point is, it\u2019s a shitty design. We have connectors rated for 60A readily available. Paralleling current across a bunch of underrated connector pins is well-known for >50 years to be bad practice from an electrical engineering standpoint. It\u2019s bonkers that computer parts manufacturers insist on using old connector pins standards with paralleling to carry high current rather than switching to a fit-for-purpose design.",
+              "score": 22,
+              "created_utc": 1739288499.0,
+              "replies": [
+                {
+                  "id": "mc75gea",
+                  "author": "jcforbes",
+                  "body": "Yes, that's correct. That is absolutely not the point of the person I replied to, though. It's a bit ambiguous, but the wording of their comment is to say changing the cable, but nothing about changing the connector or the pins. You'd have to change the connector/pins to improve the situation, changing the cabling between the connectors won't help.",
+                  "score": -1,
+                  "created_utc": 1739288643.0,
+                  "replies": [
+                    {
+                      "id": "mc76pma",
+                      "author": "Rcarlyle",
+                      "body": "People are definitely bundling/confusing the conductors with the connectors when they discuss this \u2014 the wire gauge/count is almost never the weak point in designs, it\u2019s almost always the connector that overheats",
+                      "score": 1,
+                      "created_utc": 1739289003.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc7jt42",
+          "author": "BlackTone91",
+          "body": "Its hard to find a solution when other people test the same thing and didn't find the problem",
+          "score": -1,
+          "created_utc": 1739292722.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc7x21u",
+      "author": "Visual_Moment5174",
+      "body": "Can we have our perfectly fine 8pin connection back? Why are we reinventing the wheel? For vanity? It's a computer not a sports car. We were doing fine with looks and reliability with the same old industry standards.",
+      "score": 3,
+      "created_utc": 1739296452.0,
+      "replies": []
+    },
+    {
+      "id": "mc890j2",
+      "author": "ledow",
+      "body": "Fuse the damn connections.",
+      "score": 3,
+      "created_utc": 1739299777.0,
+      "replies": []
+    },
+    {
+      "id": "mcbteqs",
+      "author": "None",
+      "body": "The hardware engineer in me wonders why they ever thought these connectors were a good idea for this application. The ATX standard needs to be updated. The pins are rated for something like 6A each, maximum.",
+      "score": 3,
+      "created_utc": 1739343063.0,
+      "replies": [
+        {
+          "id": "mcdj2ai",
+          "author": "silon",
+          "body": "They need some future proofing -> use Dinse 13 mm plugs.",
+          "score": 1,
+          "created_utc": 1739372899.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc71ku2",
+      "author": "pewbdo",
+      "body": "I just hate these damn connectors. Installed my 5080 yesterday, first GPU I've had with the connection and I couldn't for the life of me get the connector to seat properly on the GPU (12vhpwr cable fresh from my new PSU). After a while I just flipped the cable around, the other end was finally able to seat into the GPU and since the psu was much safer to brute force, I was able to finally jam the end that didn't like the GPU into its seat fully. Why make it so hard and complicated? The connector has so many edges and gaps that imperceptible manufacturing defects make it dangerous to install as the force required is enough to break things.",
+      "score": 7,
+      "created_utc": 1739287504.0,
+      "replies": [
+        {
+          "id": "mc7xkn7",
+          "author": "bunkSauce",
+          "body": "I think you're doing it wrong.",
+          "score": -1,
+          "created_utc": 1739296595.0,
+          "replies": [
+            {
+              "id": "mc7xv3p",
+              "author": "pewbdo",
+              "body": "It only goes in one direction. Don't be an asshole for no reason.",
+              "score": 3,
+              "created_utc": 1739296675.0,
+              "replies": [
+                {
+                  "id": "mc7ydll",
+                  "author": "bunkSauce",
+                  "body": ">Don't be an asshole for no reason\n\nI'm not. If you feel uncomfortable forcing it, take a break. You probably don't need to force it.\n\nIt's just good pc building advice, in general.",
+                  "score": 0,
+                  "created_utc": 1739296817.0,
+                  "replies": [
+                    {
+                      "id": "mc7zxkq",
+                      "author": "pewbdo",
+                      "body": "If you understood my original post you wouldn't have made that comment. While the cable has the same connector on each end, the first direction I tried wouldn't seat in the GPU without pushing it to an uncomfortable point. After flipping it, the other end seated easily in the GPU but the old GPU end (now on the PSU) wasnt fitting without unreasonable force. We're talking a fraction of a millimeter off. It was 99% in place but missing that last little bit for the clip to settle in. The force required to finally lock it in was safe to push on the PSU but it was too much for the GPU. If I was doing it wrong it wouldn't have been that close to locking in place. The plug is overly engineered and a slight variance to the tolerances of the plug can make it a very sketchy situation.\n\n\nI've built my own and friends PCs for over 20 years and the plug is way worse than anything I've seen in that time.",
+                      "score": 3,
+                      "created_utc": 1739297254.0,
+                      "replies": [
+                        {
+                          "id": "mc835p6",
+                          "author": "bunkSauce",
+                          "body": ">If you understood my original post you wouldn't have made that comment.\n\nI'm a computer engineer, and gaming enthusiast. I build a lot of PCs, and solder a lot more delicate stuff inside embedded electronics (consoles to controllers to phones).\n\nI guarantee you there is nothing you could say that would cause me to rescind my advice of \"stepping away\" when feeling something needs to be forced.\n\nI have built multiple PCs with 12VHPWR and 12V2x6 cables.\n\nThe cable in and of itself I do hate. But that doesn't not mean you are doing the right thing by forcing it. In fact, feeling required to force things is often (not always) a sign of something already being wrong.",
+                          "score": -2,
+                          "created_utc": 1739298154.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc80961",
+      "author": "rockelroolen1",
+      "body": "How did this get past testing before production? I'm baffled that they didn't at least try this with different PSU units.",
+      "score": 2,
+      "created_utc": 1739297342.0,
+      "replies": []
+    },
+    {
+      "id": "mc9zs3p",
+      "author": "hexahedron17",
+      "body": "I'm pretty sure it would be illegal to install 22a 14-16awg wires in your wall for fire safety. why is Nvidia allowed to provide them to your room?",
+      "score": 2,
+      "created_utc": 1739317661.0,
+      "replies": []
+    },
+    {
+      "id": "mca1wy8",
+      "author": "bdw666",
+      "body": "Nvidia makes far more money on the gb200s . Gpus are an afterthought now",
+      "score": 2,
+      "created_utc": 1739318373.0,
+      "replies": []
+    },
+    {
+      "id": "mca2h44",
+      "author": "duckliin",
+      "body": "i could use that gpu as a hotend for my 3d printer",
+      "score": 2,
+      "created_utc": 1739318558.0,
+      "replies": []
+    },
+    {
+      "id": "mcawqwb",
+      "author": "thatdudedylan",
+      "body": "I'll continue happily playing my shit in 1080. Man, high end PC gaming is such a chore these days.",
+      "score": 2,
+      "created_utc": 1739328764.0,
+      "replies": []
+    },
+    {
+      "id": "mc7izfp",
+      "author": "punkinabox",
+      "body": "How do they fucked this same shit up twice \ud83d\ude02",
+      "score": 2,
+      "created_utc": 1739292491.0,
+      "replies": [
+        {
+          "id": "mc97l45",
+          "author": "Oh_ffs_seriously",
+          "body": "They have no financial incentive to learn on their mistakes.",
+          "score": 1,
+          "created_utc": 1739309332.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc95qsd",
+      "author": "stamper2495",
+      "body": "How the fuck does stuff like this leave the factory?",
+      "score": 2,
+      "created_utc": 1739308836.0,
+      "replies": []
+    },
+    {
+      "id": "mca96rx",
+      "author": "NO_SPACE_B4_COMMA",
+      "body": "It sounds like Nvidia rushed the video cards out the door without properly testing them.\u00a0\n\n\nI hate Nvidia. And I'm confident they are purposely causing the shortage.",
+      "score": 2,
+      "created_utc": 1739320757.0,
+      "replies": [
+        {
+          "id": "mcaa127",
+          "author": "GustavSnapper",
+          "body": "Of course they\u2019re causing the shortage. They buy fab space from TSMC and are prioritising >90% of that space to AI instead of consumer grade products because they make way more money selling AI chips at $30k-$70k than they do a $1k-$2k GPU lol. \n\nIt\u2019s not like they\u2019re holding back stock like Rolex do to create artificial exclusivity, they just don\u2019t give a fuck about meeting market demand for gaming GPUs because it\u2019s not as profitable.",
+          "score": 4,
+          "created_utc": 1739321033.0,
+          "replies": [
+            {
+              "id": "mcag7xn",
+              "author": "NO_SPACE_B4_COMMA",
+              "body": "Yeah, makes sense. I was going to get a 5090, but seeing this on top of their greed, I'll stick with my 3090ti and probably just get an AMD in the future. I don't really play many games anymore anyway.",
+              "score": 1,
+              "created_utc": 1739323073.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc75264",
+      "author": "trucorsair",
+      "body": "Overheating cables on an NVIDIA graphics card! Say it isn\u2019t so",
+      "score": 1,
+      "created_utc": 1739288528.0,
+      "replies": []
+    },
+    {
+      "id": "mc8ghyo",
+      "author": "Alienhaslanded",
+      "body": "Oh shit! Here we go again.",
+      "score": 1,
+      "created_utc": 1739301859.0,
+      "replies": []
+    },
+    {
+      "id": "mc8ty1s",
+      "author": "Relevant-Doctor187",
+      "body": "They should up the voltage and step it down on the card if needed.",
+      "score": 1,
+      "created_utc": 1739305593.0,
+      "replies": []
+    },
+    {
+      "id": "mc95s47",
+      "author": "CaveManta",
+      "body": "10 gauge wires should handle the current. But the connector needs to go.",
+      "score": 1,
+      "created_utc": 1739308846.0,
+      "replies": []
+    },
+    {
+      "id": "mc9nwo0",
+      "author": "InterstellarReddit",
+      "body": "So what's the solution here exactly ? After marker cable or we don't know yet.",
+      "score": 1,
+      "created_utc": 1739313917.0,
+      "replies": [
+        {
+          "id": "mcc1ylp",
+          "author": "Asunen",
+          "body": "According to [this video](https://youtu.be/kb5YzMoVQyw?si=7ISSHRz56X2BSWr7) it\u2019s basically a design flaw with the card.\n\nTL;DW Nvidia keeps simplifying and stripping down the redundancies and power safety features they\u2019ve had in their cards.\n\nIt\u2019s now at the point if a couple of pins aren\u2019t seated on the connector there\u2019s nothing to stop the card from drawing the entire power supply from one pin causing a fire.",
+          "score": 1,
+          "created_utc": 1739348106.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc9ywsx",
+      "author": "mixer2017",
+      "body": "Hey I have seen this story already!\n\nYa think it would have been learned last time but nope....",
+      "score": 1,
+      "created_utc": 1739317374.0,
+      "replies": []
+    },
+    {
+      "id": "mc9zesv",
+      "author": "pittguy578",
+      "body": "What can they do to fix this ? Anything other than recall / redesign ?",
+      "score": 1,
+      "created_utc": 1739317539.0,
+      "replies": []
+    },
+    {
+      "id": "mcbq6c9",
+      "author": "Ghozer",
+      "body": "Because they aren't individually wired and loaded, they are all soldered at each end as a mass, if they designed it properly it wouldn't be an issue!",
+      "score": 1,
+      "created_utc": 1739341280.0,
+      "replies": []
+    },
+    {
+      "id": "mccl0k1",
+      "author": "reddittorbrigade",
+      "body": "This news was brought to you by Cablemod- Cables Perfected.",
+      "score": 1,
+      "created_utc": 1739359763.0,
+      "replies": []
+    },
+    {
+      "id": "mcj3bvh",
+      "author": "Fludched",
+      "body": "The 5070 won\u2019t have this issue bec it doesn\u2019t need as much right?",
+      "score": 1,
+      "created_utc": 1739443608.0,
+      "replies": []
+    },
+    {
+      "id": "mcr46w6",
+      "author": "thegree2112",
+      "body": "This makes me not want to build a new pc",
+      "score": 1,
+      "created_utc": 1739550614.0,
+      "replies": []
+    },
+    {
+      "id": "mwtqr6l",
+      "author": "Then-Dress3390",
+      "body": "Is this still an issue? It's concerning. I've ordered today:  \nMSI GeForce RTX 5090 32GB VENTUS 3X OC",
+      "score": 1,
+      "created_utc": 1749474892.0,
+      "replies": []
+    },
+    {
+      "id": "mc74y3r",
+      "author": "teejayhoward",
+      "body": "profit cough alleged practice soup stupendous cagey trees depend engine\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+      "score": 0,
+      "created_utc": 1739288496.0,
+      "replies": [
+        {
+          "id": "mc7p0co",
+          "author": "ApproximatelyC",
+          "body": "This is absolutely not the case on the 5090 FE. All of the power pins are joined at the connector, and then all the power goes through a single shunt resistor and then is split out on the board. \n\nThere\u2019s no component drawing 20A down a 16A line or anything - if you break four wires then the entire board is trying to draw power through the remaining two.",
+          "score": 12,
+          "created_utc": 1739294192.0,
+          "replies": [
+            {
+              "id": "mc9ddex",
+              "author": "teejayhoward",
+              "body": "boast like full oatmeal paltry tidy flowery waiting enjoy history\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+              "score": 0,
+              "created_utc": 1739310907.0,
+              "replies": [
+                {
+                  "id": "mc9oov1",
+                  "author": "ApproximatelyC",
+                  "body": "> If I'm understanding your argument correctly\n\nIt's not an argument - it's a fact.  The individual pins are directly connected to a single metal rail at the back of the connector, which runs down into the board.  You can see it really clearly on the GN teardown vid: https://youtu.be/IyeoVe_8T3A?si=mkx1PKfR9r2qf-DS&t=1180\n\n> The fact that there IS current being measured on all the other wires means that the other wires aren't \"broken.\"\n\nI'm not saying the wires were broken - just expanding on the point that as the card is effectively just one +12v point and one GND point, if four of the wires were broken then there's nothing stopping the card from pulling the ~45a or so that the card would need to operate at 600w through the remaining two wires.  Your original assumption that the pins individually supplied discrete parts of the board wouldn't allow this, as you'd be limited by whatever component the individual pins were connected to.\n\n> So what is causing the uneven current distribution?\n\nThat's the million dollar question.  I've seen speculation that in the case of the cable that sparked this issue, it's potentially the connectors in the cable becoming slightly worn, which reduces contact at the pins, increasing resistance.  This also lines up with the der8auer video that was the source of the OP article, as he specifically notes that the cable being used has been plugged into/taken out of multiple cards before.  As the cable is effectively one big parallel resistor, increasing the resistance of any one connector also increases the resistance of the cable as a whole, but current will increase through the paths of least resistance to ensure compliance with Ohm's law.  \n\nAs a complete dumb example, if the pins in new condition have a resistance of 0.1ohm each, and you're drawing 42A to reach 504w on the connector, each cable will have 7A running through it.  If four of those cables wear and have a resistance of 1ohm each instead, you'd have 1.75A running through the four wires with higher resistance and 17.5A running through the two in-tact wires. \n\nI've no idea if that's what's happening here - and a big part of the problem is that you can't test the cable that caused the fault as there's...a bit of damage there.  Testing for this type of issue I imagine would be difficult, as there's no way to directly measure resistance along each wire while plugged in to both the PSU and GPU.",
+                  "score": 8,
+                  "created_utc": 1739314152.0,
+                  "replies": [
+                    {
+                      "id": "mcdc90u",
+                      "author": "teejayhoward",
+                      "body": "wise plant lock entertain encouraging frame knee ten wide birds\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                      "score": 1,
+                      "created_utc": 1739370741.0,
+                      "replies": [
+                        {
+                          "id": "mcdh7bw",
+                          "author": "ApproximatelyC",
+                          "body": "I think the only way you could try to measure the resistance is once at each end like you suggest, but it would require both the PSU and GPU to be disassembled to the point where the power ails are accessed.  Plug into GPU, measure GPU rail to pins at PSU connector end , then plug into PSU side and measure PSU rail to pins at GPU connector end.  The issue there is that you\u2019re having to plug in/remove the cable, and if that\u2019s causing wear, you\u2019ll be degrading the cable and altering the results with each test.",
+                          "score": 1,
+                          "created_utc": 1739372324.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mc70uk3",
+      "author": "karatekid430",
+      "body": "Don't the servers have a connector that is actually reliable? Why don't we get to use that?",
+      "score": 1,
+      "created_utc": 1739287286.0,
+      "replies": [
+        {
+          "id": "mc7b0kc",
+          "author": "kuncol02",
+          "body": "They costs more than 10c.",
+          "score": 4,
+          "created_utc": 1739290239.0,
+          "replies": []
+        },
+        {
+          "id": "mc7d3wl",
+          "author": "ChaZcaTriX",
+          "body": "Old generations used the CPU 8-pin connector (rated for about 300W, double the PCIe in the same space).\n\nCurrent generation uses 12VHPWR, too. Some use Minifit connectors in the middle for different length adapters.",
+          "score": 0,
+          "created_utc": 1739290838.0,
+          "replies": []
+        },
+        {
+          "id": "mc8ije5",
+          "author": "BearsBeetsBattlestrG",
+          "body": "Bc gaming gpus don't make Nvidia as much money as servers. They don't really care about the gaming market anymore bc their priority is AI",
+          "score": 0,
+          "created_utc": 1739302425.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc78fgl",
+      "author": "kjbaran",
+      "body": "Oh how my heart goes out to all the wealthy beta testers \ud83d\ude43",
+      "score": 1,
+      "created_utc": 1739289495.0,
+      "replies": []
+    },
+    {
+      "id": "mc79dd2",
+      "author": "roshanpr",
+      "body": "Get people camp to buy them after the 4090 fiasco",
+      "score": 1,
+      "created_utc": 1739289765.0,
+      "replies": []
+    },
+    {
+      "id": "mcaad2n",
+      "author": "burstdragon323",
+      "body": "This is why I\u2019m switching to AMD next time I get a GPU, they still use the reliable 8-pin connector",
+      "score": 1,
+      "created_utc": 1739321142.0,
+      "replies": []
+    },
+    {
+      "id": "mcapaz1",
+      "author": "Darklord_Bravo",
+      "body": "Glad I switched to team red last time I upgraded. Performance has been great, and I don't have to worry about stuff like this.",
+      "score": 1,
+      "created_utc": 1739326148.0,
+      "replies": []
+    },
+    {
+      "id": "mcc0urv",
+      "author": "ConciousGrapefruit",
+      "body": "When stuff like this happens, was it because the user used the adapter provided by Nvidia or the cable that came with their ATX 3.1 compliant PSU? I'm a little worried on my end.",
+      "score": 0,
+      "created_utc": 1739347441.0,
+      "replies": []
+    },
+    {
+      "id": "mc7zuqf",
+      "author": "EducationallyRiced",
+      "body": "No shit sherlock, no one saw this coming, not even the simpsons or the fallout 3 intro",
+      "score": 0,
+      "created_utc": 1739297231.0,
+      "replies": []
+    },
+    {
+      "id": "mc80f86",
+      "author": "shadowmage666",
+      "body": "Need better gauge wires and bigger connector ain\u2019t no way 600+ watts are running through there safely",
+      "score": 0,
+      "created_utc": 1739297390.0,
+      "replies": []
+    },
+    {
+      "id": "mc8di2s",
+      "author": "witheringsyncopation",
+      "body": "So the problem was on the PSU end or the GPU end? Because I\u2019m pretty sure all 50-series cards have a 12V-2x6 connectors. So if it was 12VHPWR on the GPU end, I could see it being because the load was unbalanced due to poor connections relegating too much power to too few pins.",
+      "score": 0,
+      "created_utc": 1739301027.0,
+      "replies": []
+    },
+    {
+      "id": "mc75kwv",
+      "author": "N3utro",
+      "body": "It was stupid to use a 12VHPWR cable in the first place when nvidia stated themselves that 12V-2x6 is here to avoid these problems. When you pay $2500+ it makes no sense not spending $50 more for a new 12V-2x6 cable",
+      "score": -5,
+      "created_utc": 1739288678.0,
+      "replies": [
+        {
+          "id": "mc78ghv",
+          "author": "dertechie",
+          "body": "The changes for 12V-2x6 are on the connector side to lengthen power pins and shorten sense pins to make sure power stops if it works loose or isn\u2019t all the way in.  The cables are the same.  A fully populated 600W 12VHPWR cable is the same as a fully populated 600W 12V-2x6.\n\nSource: [Corsair ](https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/will-my-12vhpwr-cable-work-with-12v-2x6/)[article](https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/evolving-standards-12vhpwr-and-12v-2x6/).",
+          "score": 3,
+          "created_utc": 1739289503.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mc6wtqy",
+      "author": "Itz_Eddie_Valiant",
+      "body": "Is this the same guy with the third party, old and out of spec cable that sympathy posted on Reddit?",
+      "score": -42,
+      "created_utc": 1739286056.0,
+      "replies": [
+        {
+          "id": "mc6y0tw",
+          "author": "dertechie",
+          "body": "The initial failure is from that post but the 22A on a cable designed for 9.5A max and 150C hot spot was derbauer\u2019s setup.  \n\nFrom what I understand, the user with the fried card did use a Moddiy cable but we have no particular reason to believe that it was out of spec.  \n\nKnowing derbauer, the cable he replicated on *was* in spec.",
+          "score": 37,
+          "created_utc": 1739286429.0,
+          "replies": [
+            {
+              "id": "mc6yepl",
+              "author": "Itz_Eddie_Valiant",
+              "body": "Ah depressingly interesting to read. Pretty major oversight for such an expensive card",
+              "score": 9,
+              "created_utc": 1739286549.0,
+              "replies": [
+                {
+                  "id": "mc71mp5",
+                  "author": "dertechie",
+                  "body": "Yeah.  Non-uniform power pull across GPU connectors has been a thing for a while.  \n\n8 pins are overbuilt enough by spec to be fine - a nominally 150W 8 pin can jam almost 300W safely based on the wire gauges in the spec.  That massive amount of safety margin covered for any issues with some pins or connections getting more juice than others.  \n\n12VHPWR and its descendants don\u2019t have that massive safety margin when trying to push 600W - it has about 10% of slop available in the spec.  You can\u2019t treat it the same when designing your power delivery circuitry.",
+                  "score": 9,
+                  "created_utc": 1739287519.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mc6ypiy",
+          "author": "crigsdigs",
+          "body": "A cable having 22 amps flow through it has nothing to do with it being aftermarket. Individually they need to be rated for 9-10 amps, so this is pulling 2.2x what they\u2019re rated for. It\u2019s an issue with the cards.",
+          "score": 14,
+          "created_utc": 1739286641.0,
+          "replies": [
+            {
+              "id": "mc6ztna",
+              "author": "Golluk",
+              "body": "That and a bad connection means higher resistance, so lower current flow if anything.\u00a0\n\n\nUnless they have some voltage regulator after that tries to boost the voltage, drawing more current. But again, it should be designed not to pull over spec.",
+              "score": 4,
+              "created_utc": 1739286978.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mc6x095",
+          "author": "piotrek211",
+          "body": "you are spitting bullshit. Go watch derbauers video and then the buildzoid's one. Cables are not the issue here",
+          "score": 14,
+          "created_utc": 1739286112.0,
+          "replies": [
+            {
+              "id": "mc6zl4s",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -4,
+              "created_utc": 1739286907.0,
+              "replies": [
+                {
+                  "id": "mc70h9j",
+                  "author": "jcforbes",
+                  "body": "The current draw being too high has absolutely nothing to do with the cable, at all. Nothing. Like you missed a physics lesson somewhere my guy.",
+                  "score": 11,
+                  "created_utc": 1739287175.0,
+                  "replies": [
+                    {
+                      "id": "mc71g4r",
+                      "author": "DaStompa",
+                      "body": "[https://www.pinterest.com/pin/pinterest--138274651038300024/](https://www.pinterest.com/pin/pinterest--138274651038300024/)\n\nTada!",
+                      "score": 1,
+                      "created_utc": 1739287465.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mc700hb",
+                  "author": "piotrek211",
+                  "body": "no that's not true",
+                  "score": 2,
+                  "created_utc": 1739287035.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mcb4qgv",
+      "author": "ADtotheHD",
+      "body": "Is it too soon to say I told you so?  I said anyone buying cards pushing 600W+ on this connector was bonkers.",
+      "score": -1,
+      "created_utc": 1739331710.0,
+      "replies": []
+    },
+    {
+      "id": "mcbjvuc",
+      "author": "grizzlymint209",
+      "body": "Where these ment to burn down rich peoples houses",
+      "score": -1,
+      "created_utc": 1739338112.0,
+      "replies": []
+    },
+    {
+      "id": "mc78ed0",
+      "author": "Ditzy_Pooper",
+      "body": "in 'murica we use farenheit",
+      "score": -13,
+      "created_utc": 1739289486.0,
+      "replies": [
+        {
+          "id": "mc7isos",
+          "author": "Chronotaru",
+          "body": "I don't understand why you guys out yourselves like this.",
+          "score": 8,
+          "created_utc": 1739292439.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

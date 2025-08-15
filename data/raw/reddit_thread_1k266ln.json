@@ -1,0 +1,279 @@
+{
+  "post": {
+    "title": "Nvidia rolling out another new Shield TV update with these fixes",
+    "author": "jagjitsandhu",
+    "id": "1k266ln",
+    "score": 355,
+    "created_utc": 1744986255.0,
+    "selftext": "",
+    "num_comments": 31,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1k266ln/nvidia_rolling_out_another_new_shield_tv_update/"
+  },
+  "comments": [
+    {
+      "id": "mnwrh9n",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 37,
+      "created_utc": 1745061317.0,
+      "replies": [
+        {
+          "id": "mo1p8yx",
+          "author": "ExultantSandwich",
+          "body": "It\u2019s certainly helpful that they made the entire SoC themselves. Qualcomm or MediaTek can\u2019t cut off support.\n\nI really do think they\u2019ll release another one sooner rather than later. They\u2019ve just given Nintendo a powerful semicustom 8nm SoC that would be perfect for their needs",
+          "score": 16,
+          "created_utc": 1745126229.0,
+          "replies": [
+            {
+              "id": "mo44ilz",
+              "author": "CosmicCreeperz",
+              "body": "I worked with Nvidia on Shield 4K / DolbyVision app support year ago\u2026 it\u2019s very impressive they are still supporting it.  It\u2019s the only Android TV device I didn\u2019t hate working with.\n\nI don\u2019t think it ever made Nvidia any money, so it\u2019s basically a demo platform for their Tegra mobile/set top SoCs.",
+              "score": 5,
+              "created_utc": 1745167283.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnvf4x0",
+      "author": "PocketNicks",
+      "body": "If they could please put out a new model, I'd appreciate it.",
+      "score": 49,
+      "created_utc": 1745033489.0,
+      "replies": [
+        {
+          "id": "mnwacps",
+          "author": "skydivingdutch",
+          "body": "Yes! I want vp9 10bit support (hdr)!",
+          "score": 15,
+          "created_utc": 1745050661.0,
+          "replies": [
+            {
+              "id": "mo5ksms",
+              "author": "IllllIIIllllIl",
+              "body": "AV1 decoding too please thank you \ud83d\ude4f\u00a0",
+              "score": 6,
+              "created_utc": 1745184290.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mo1p0pe",
+          "author": "ExultantSandwich",
+          "body": "It\u2019s been so long it really feels like it\u2019s not ever happening, but then again they just updated the old model.\n\nAlso the original Shield TV used the same SoC as the 2017 Nintendo Switch, a 20nm Tegra X1 (Erista). The refresh used the same chip as the 2019 Nintendo Switch, a 16nm Tegra X1 (Mariko).\n\nThe Switch 2 is about to come out, and Nintendo is again using a Nvidia chip. This time it\u2019s actually a semicustom design based off of some much more powerful hardware that would never fit in a handheld or set top box.\n\nI\u2019m thinking that\u2019s what they\u2019ve been waiting for. Otherwise they don\u2019t have volume to justify spinning up a custom ARM chip. Nintendo leads with R&D and hopefully the results can be used in another Shield TV.",
+          "score": 11,
+          "created_utc": 1745126109.0,
+          "replies": [
+            {
+              "id": "mo1pblt",
+              "author": "PocketNicks",
+              "body": "Yeah good point. Maybe in the next 6-8 months after Switch2 is launched we'll get notified about a new Shield model w the same chip.",
+              "score": 7,
+              "created_utc": 1745126270.0,
+              "replies": [
+                {
+                  "id": "mo1roqf",
+                  "author": "ExultantSandwich",
+                  "body": "Also Eurogamer confirmed the new Tegra T239 has AV1 encode / decode on its die.\n\nThat\u2019s the one feature people really want from a successor to the Shield TV, so \ud83e\udd37",
+                  "score": 9,
+                  "created_utc": 1745127581.0,
+                  "replies": [
+                    {
+                      "id": "mo1s31j",
+                      "author": "PocketNicks",
+                      "body": "Yeah, there's not a lot of codecs the Shield doesn't do natively. But it's becoming enough now that it warrants a hardware update.",
+                      "score": 2,
+                      "created_utc": 1745127809.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mo68rwy",
+          "author": "AustinLurkerDude",
+          "body": "I want a new model but unfortunately all their other products make more money in a quarter the shield makes in 100 years so it's hard to see why they'd spend the time in it",
+          "score": 2,
+          "created_utc": 1745192931.0,
+          "replies": [
+            {
+              "id": "mo6a0pc",
+              "author": "PocketNicks",
+              "body": "Don't tell them that. Also, the CEO of NVIDIA is like the 3rd richest person on earth, so maybe it could be a passion project fingers \ud83e\udd1e",
+              "score": 1,
+              "created_utc": 1745193386.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnvlciu",
+          "author": "stonedkrypto",
+          "body": "At this point I\u2019m happy with the hardware. It\u2019s already powerful enough for a streaming device. Apps and the OS could use some fine tuning but there\u2019s no reason to have a new hardware just for the sake of it.",
+          "score": 2,
+          "created_utc": 1745036340.0,
+          "replies": [
+            {
+              "id": "mnw3h0s",
+              "author": "BakaOctopus",
+              "body": "Needs Av1 codec",
+              "score": 14,
+              "created_utc": 1745046379.0,
+              "replies": []
+            },
+            {
+              "id": "mnvlio4",
+              "author": "PocketNicks",
+              "body": "There's always a good reason for new hardware. Even if it's just for the sake of it.",
+              "score": 4,
+              "created_utc": 1745036417.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnrlsoh",
+      "author": "JerkyChew",
+      "body": "Now fix the \"YouTube app gets stuck with a spinning wheel and the only way to play any videos is a reboot\" that they've had for years. It happens to all of my Shields so it can't be a just-me issue.",
+      "score": 58,
+      "created_utc": 1744987397.0,
+      "replies": [
+        {
+          "id": "mnrui74",
+          "author": "GentlemenHODL",
+          "body": ">Now fix the \"YouTube app gets stuck with a spinning wheel and the only way to play any videos is a reboot\" that they've had for years. It happens to all of my Shields so it can't be a just-me issue.\n\nNever had this issue but you can fix it by installing smartube, which you should do anyways for the ad skip.",
+          "score": 33,
+          "created_utc": 1744990001.0,
+          "replies": [
+            {
+              "id": "mnrxgk9",
+              "author": "The8Darkness",
+              "body": "Smarttube has a similiar issue where my shield will not play anything with sound anymore (keeps looping the applying fix message) until restarting the shield.",
+              "score": 3,
+              "created_utc": 1744990882.0,
+              "replies": [
+                {
+                  "id": "mnryh89",
+                  "author": "GentlemenHODL",
+                  "body": "Bummer, never happened to me. I have the 4k 2019 version.",
+                  "score": 8,
+                  "created_utc": 1744991187.0,
+                  "replies": []
+                },
+                {
+                  "id": "mnrzewy",
+                  "author": "Laucien",
+                  "body": "I've had this happen several times with smarttube but every time it happened there was an update waiting to be applied that literally said \"fixes 403 message\".",
+                  "score": 5,
+                  "created_utc": 1744991468.0,
+                  "replies": [
+                    {
+                      "id": "mns01kg",
+                      "author": "The8Darkness",
+                      "body": "No this isnt the known 403 smarttube issue its a specific message that tells you something about audio codec isnt supported, when you go into settings and turn audio off for the video it will play (without audio) also smarttube is at its latest version, restarting smarttube doesnt fix it. Only restarting the shield fixes it (without any smarttube updates.",
+                      "score": 3,
+                      "created_utc": 1744991654.0,
+                      "replies": [
+                        {
+                          "id": "mns07on",
+                          "author": "Laucien",
+                          "body": "Huh interesting. Haven't faced that one _yet_.",
+                          "score": 3,
+                          "created_utc": 1744991705.0,
+                          "replies": [
+                            {
+                              "id": "mns0nxn",
+                              "author": "The8Darkness",
+                              "body": "Jeah only started happening for me like 3 months ago about once per month. \nIts not a big issue to restart once a month but it exists.",
+                              "score": 1,
+                              "created_utc": 1744991840.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnrqyik",
+          "author": "Apostinggod",
+          "body": "Yeah I've never had that issue. I remember the shield cylinder generally sucked but the pro has never has a issue.",
+          "score": 9,
+          "created_utc": 1744988944.0,
+          "replies": []
+        },
+        {
+          "id": "mnrnu6e",
+          "author": "LazloHollifeld",
+          "body": "Never had that issue with my shields or android TVs, and my kid watches a buttload of YT.",
+          "score": 5,
+          "created_utc": 1744988014.0,
+          "replies": []
+        },
+        {
+          "id": "mns575v",
+          "author": "redditronc",
+          "body": "I have this issue with the YouTube TV app, not the YT one. Pretty much making me replace it with another streaming box, for now.",
+          "score": 2,
+          "created_utc": 1744993226.0,
+          "replies": []
+        },
+        {
+          "id": "mnx8mzs",
+          "author": "TheSchlaf",
+          "body": "Had this issue after the last update.  Factory resetting it solved the issue for me.",
+          "score": 1,
+          "created_utc": 1745068957.0,
+          "replies": [
+            {
+              "id": "mo05o50",
+              "author": "Bad-Lifeguard1746",
+              "body": "I factory reset mine the day they put ads on the home screen and have never updated since.",
+              "score": 1,
+              "created_utc": 1745103709.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnrtpau",
+          "author": "gramsaran",
+          "body": "I switched to SmartTube.",
+          "score": 1,
+          "created_utc": 1744989763.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mogvo2h",
+      "author": "Phatcub",
+      "body": "I would gladly buy a newer version with the lastest chip. Please, please, please let them come out with one that has the same chip as the Switch 2.",
+      "score": 1,
+      "created_utc": 1745344340.0,
+      "replies": []
+    },
+    {
+      "id": "mnwhdo2",
+      "author": "VirtuaFighter6",
+      "body": "Sold my Shield about a year ago. Vero V for me till Nvidia drops a new one.",
+      "score": -3,
+      "created_utc": 1745055214.0,
+      "replies": []
+    }
+  ]
+}

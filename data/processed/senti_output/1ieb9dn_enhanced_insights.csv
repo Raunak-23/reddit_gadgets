@@ -1,0 +1,49 @@
+metric,value
+file,1ieb9dn.csv
+title,Reviewer reports RTX 5080 FE instability — PCIe 5.0 signal integrity likely the culprit
+rows,63
+num_posts,1
+num_comments,62
+unique_authors,38
+max_depth,10
+avg_comment_words,50.94
+median_comment_words,43.5
+max_comment_words,218
+positive_count,6
+negative_count,56
+neutral_count,0
+positive_pct,9.677
+negative_pct,90.323
+neutral_pct,0.0
+topic_1_keywords,"pcie, lanes, use, yes, slot, difference, 50, mean"
+topic_1_label,"pcie, lanes, pcie, and pcie are all in the same place"
+topic_2_keywords,"one, doesnt, luxury, people, think, highend, work, properly"
+topic_2_label,luxury is not a luxury
+topic_3_keywords,"would, anything, expensive, outrageously, market, dont, well, thing"
+topic_3_label,"if anything, what would you do at the market"
+topic_4_keywords,"card, thats, 4090, negative, every, would, tier, one"
+topic_4_label,card thats 4090 negative would tier one
+topic_5_keywords,"50, issue, well, 40, would, boot, issues, set"
+topic_5_label,50 issues set up in boot
+topic_6_keywords,"like, issue, given, problems, pcie, nvidia, gen, switching"
+topic_6_label,"gen, pcie, nvidia"
+top_ngram_1,outrageously expensive (8)
+top_ngram_2,pcie 50 (7)
+top_ngram_3,second best (7)
+top_ngram_4,work properly (6)
+top_ngram_5,high end (6)
+top_ngram_6,pcie lanes (6)
+top_ngram_7,extension board (5)
+top_ngram_8,3rd party (5)
+top_ngram_9,party cards (5)
+top_ngram_10,3rd party cards (5)
+ner_1,Nvidia|ORG|9
+ner_2,PCI|MISC|5
+ner_3,50|MISC|4
+ner_4,JayzTwoCents|ORG|3
+ner_5,Reddit|MISC|3
+ner_6,GN|ORG|3
+ner_7,R|MISC|2
+ner_8,PCIE|MISC|2
+ner_9,FE|ORG|2
+ner_10,Elon|ORG|2

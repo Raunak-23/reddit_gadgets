@@ -1,0 +1,142 @@
+{
+  "post": {
+    "title": "If you thought PCIe Gen 5 SSDs were a little pointless, don't worry, here comes 32 GB's worth of Gen 6 technology",
+    "author": "a_Ninja_b0y",
+    "id": "1i7dwnb",
+    "score": 0,
+    "created_utc": 1737560347.0,
+    "selftext": "",
+    "num_comments": 15,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i7dwnb/if_you_thought_pcie_gen_5_ssds_were_a_little/"
+  },
+  "comments": [
+    {
+      "id": "m8jvgiv",
+      "author": "PabloBablo",
+      "body": "Ok then, let's not read the article because it's pointless.\n\n\nRage baiting has come full circle\u00a0",
+      "score": 13,
+      "created_utc": 1737560525.0,
+      "replies": [
+        {
+          "id": "m8jwqh4",
+          "author": "garry4321",
+          "body": "I don\u2019t get it. Is the outrage \u201cTechnology keeps progressing, and that scares and confuses me!\u201d",
+          "score": 7,
+          "created_utc": 1737560880.0,
+          "replies": [
+            {
+              "id": "m8jxnre",
+              "author": "wildddin",
+              "body": "I think it's because no other computer hardware can actually make use of the data transference speed of gen 5 even, meaning there is currently no use case for a gen 6. You'll pay early adopters rax for literally no benefit",
+              "score": 4,
+              "created_utc": 1737561135.0,
+              "replies": [
+                {
+                  "id": "m8jyf0e",
+                  "author": "NorysStorys",
+                  "body": "That and 99% of consumers will never transfer enough data all at once or often enough to even vaguely require the types of speeds gen 5 or 6 have. \n\nIt makes a load of sense for data centers, editing and vfx rigs, studio music production and those kinds of jobs but it\u2019s just not needed for video gaming, internet browsing, data entry, admin etc.",
+                  "score": 2,
+                  "created_utc": 1737561346.0,
+                  "replies": [
+                    {
+                      "id": "m8k4av5",
+                      "author": "NoEmu5969",
+                      "body": "But it can start Windows super fast! /s",
+                      "score": 1,
+                      "created_utc": 1737562981.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8jzxbd",
+              "author": "PabloBablo",
+              "body": "Whatever the article is trying to portray. 'You thought *this shit* was stupid..well, get a load of *this*'",
+              "score": 1,
+              "created_utc": 1737561764.0,
+              "replies": []
+            },
+            {
+              "id": "m94nadb",
+              "author": "The_JSQuareD",
+              "body": "The point the article makes is that they're pushing the envelope in a way that isn't actually very productive.\n\nGen 5 PCIe drives tend to be bottlenecked not by the PCIe speed but by their own thermal throttling, at least in large file transfers where you can actually make use of the extremely high consecutive transfer speed. So rather than bumping the protocol to PCIe 6, it makes more sense to invest in controllers that produce less heat, or improvements in heat dissipation.\n\nAdditionally, as the article points out, in real world scenarios the latency of the storage medium is now typically much more important than its read/write bandwidth. Optane was much better in this regard than NAND flash SSDs, but sadly that technology is basically dead. So rather than pushing on a metric that is likely to matter in the real world (latency), the drive developers are pushing a metric that is already near impossible to fully utilize (bandwidth).\n\nOf course, technology makers are free to experiment with any technology they wish, but it's reasonable for tech journalists to point out the flaws in what they're doing and to warn consumers about getting over-hyped about a technology that probably won't benefit them.",
+              "score": 1,
+              "created_utc": 1737828904.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8jwzux",
+      "author": "mark-haus",
+      "body": "Depends. If it were more available on computers I use, namely laptops and mini PC servers I'd using them as cache disks and swap spaces with high memory swap as a pseudo tier between RAM and regular persistent storage. If you had a top of the line ATX motherboard with this sort of thing or enterprise grade server systems you might be able to do this already or soon.",
+      "score": 3,
+      "created_utc": 1737560952.0,
+      "replies": [
+        {
+          "id": "m8jyhfd",
+          "author": "polypolip",
+          "body": "How do the modern SSDs deal with frequent overwrites? I remember it used to shorten the lifespan of SSDs but that was long time ago.",
+          "score": 2,
+          "created_utc": 1737561364.0,
+          "replies": [
+            {
+              "id": "m8kdr3r",
+              "author": "mark-haus",
+              "body": "Especially on desktop usage it\u2019s an over exaggeration of a problem, especially today. Even on my database servers that receive the most writes I am at least a magnitude off the yearly writes the disk is rated for",
+              "score": 2,
+              "created_utc": 1737565580.0,
+              "replies": [
+                {
+                  "id": "m8kpio1",
+                  "author": "polypolip",
+                  "body": "I've had a regular gen 1 or gen 2 nvme that reached its lifetime write number or was close to. Within 4 years of usage. It had overheating issues though.",
+                  "score": 1,
+                  "created_utc": 1737568740.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8ssx0v",
+          "author": "MasterPong",
+          "body": "Wasn\u2019t this the idea behind Intel Optane, or am I miss remembering?",
+          "score": 2,
+          "created_utc": 1737668498.0,
+          "replies": []
+        },
+        {
+          "id": "m8jzaku",
+          "author": "NorysStorys",
+          "body": "But you just don\u2019t need that unless you\u2019re doing specialised work like video editing or other high data throughput tasks that\u2019s in the realms of high end desktop classification anyway, it\u2019s not something 99% of the market needs. The use for these in servers and network storage, sure that\u2019s a use case but as it stands right now the vast vast majority of people can\u2019t even saturate gen 4 for more than a minute.",
+          "score": 1,
+          "created_utc": 1737561588.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8k37k1",
+      "author": "leandroc76",
+      "body": "Jeremy Laird clearly doesn't understand the difference between theoretical and real world. There has NEVER been a full 100% bandwidth device. EVERY storage device since inception has to interface an encoder. In the PCIE 2 days, the encoding scheme was 8b/10b which had a hefty overhead penalty. With Gen 3,4 and 5, the PCIE standard moved to a very efficient 128b/130b encoding scheme, so the overhead penalty is now less than 2%. \n\nHe also clearly doesn't know what the bandwidth is for. ***And it's not for gaming***. Believe it or not there are other uses for a computer. If ANYONE has ever edited video or analyzed databases or even machine learning you would know that PCIE is the only standard for PC based computing that opens up bandwidth to Storage, GPU's, Networking and any data transfer device.",
+      "score": 2,
+      "created_utc": 1737562681.0,
+      "replies": []
+    },
+    {
+      "id": "m8jya94",
+      "author": "smoothjedi",
+      "body": ">That SiliconMotion SM2508 controller, for instance, peaks at 14.5 GB/s and 14 GB/s sequential read and write, not the full 16 GB/s. Safe to say, then, that the new SM8466 won't hit 32 GB/s.\n\nThis is a silly argument. Sure, maybe it won't hit 32 GB/s, but even if it keeps the same 7/8 ratio, that's still 28 GB/s, double the previous generation. I'd be happy with that!",
+      "score": 1,
+      "created_utc": 1737561309.0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,1704 @@
+{
+  "post": {
+    "title": "Nintendo Switch 2 teardown reveals Nvidia Tegra T239 chip, raises repairability concerns",
+    "author": "chrisdh79",
+    "id": "1l4stu5",
+    "score": 1466,
+    "created_utc": 1749217579.0,
+    "selftext": "",
+    "num_comments": 211,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1l4stu5/nintendo_switch_2_teardown_reveals_nvidia_tegra/"
+  },
+  "comments": [
+    {
+      "id": "mwbhlxa",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 1758,
+      "created_utc": 1749218817.0,
+      "replies": [
+        {
+          "id": "mwbo9wm",
+          "author": "sagevallant",
+          "body": "I 'member when Nintendo made consoles that didn't require repairs because they never broke.",
+          "score": 409,
+          "created_utc": 1749220799.0,
+          "replies": [
+            {
+              "id": "mwbvohw",
+              "author": "Chipdip88",
+              "body": "Have a launch edition switch, it's been through hell and back and had thousands of hours put on it both in handheld and docked. It's been around the world a few times on planes, boats, motorcycles and cars. \n\nIt works as well as it did the day it came out.",
+              "score": 443,
+              "created_utc": 1749222938.0,
+              "replies": [
+                {
+                  "id": "mwd2a2j",
+                  "author": "Zappiticas",
+                  "body": "Same here! It also has lived in a house with 4 children. I\u2019ve never had a single problem out of it.",
+                  "score": 47,
+                  "created_utc": 1749235229.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwc8pyp",
+                  "author": "dmc2008",
+                  "body": "Still the same joycons?",
+                  "score": 44,
+                  "created_utc": 1749226686.0,
+                  "replies": [
+                    {
+                      "id": "mwg8utj",
+                      "author": "xSmallDeadGuyx",
+                      "body": "In 4 pairs of joycons I had to send a single left joycon in for repair after over 5 years of use, the original one that came with the console. The repair was also free. The rest of the joycons are all still perfect, some of which I've had nearly 8 years.",
+                      "score": 11,
+                      "created_utc": 1749278402.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwc9xdf",
+                      "author": "Chipdip88",
+                      "body": "Yes. Thumbsticks replaced for a few bucks with parts off Amazon. All working great.\n\nIf you expect a highly trafficked moving part like a joystick to work for 10 years and thousands of hours you are delusional. The main  Consol works great and I have spent less than 20 Canadian dollars over its lifespan on 2 sets of OEM joycons keeping them working great.\n\nKeyboards, mouse, joysticks wear out. It's life and I accept that. \n\nThe fact you can easily repair the joycons for a couple dollars and 10-15 mins of your time is quite nice actually and a plus to Nintendo in my books.",
+                      "score": 39,
+                      "created_utc": 1749227037.0,
+                      "replies": [
+                        {
+                          "id": "mwcdw0f",
+                          "author": "TheSpecialApple",
+                          "body": "i mean hall effect sticks can last over 10m cycles, ps5 dual sense potentiometer sticks last typically 2m cycles, switch 1 joy con sticks are rated for 600k cycles. \n\nthat 2m cycles gets about 420 hours of gameplay with around 80 cycles per minute. if we use the same method for getting a time estimate, that means switch joycons last 125 hours, and if we go with the hall effect sticks, using 5m cycles (what steam deck was rated for) you get over a thousand hours. \n\nconsidering hall effect sticks can go up to 15 million cycles, yes, you should definitely be able to expect your joysticks to work for thousands of hours, and if you play a little over 300 hours per year, you can definitely expect those to last 10 years. \n\ndon\u2019t get me wrong, its great that its an easy fix, but its also an easily avoided problem too",
+                          "score": 44,
+                          "created_utc": 1749228190.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwhifpo",
+                          "author": "telapo",
+                          "body": "It depends I guess? my brother's nunchuk has turned yellowish and greasy and his Wii is almost two decades old ,but the analog stick still works.",
+                          "score": 5,
+                          "created_utc": 1749302656.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwcl8k0",
+                          "author": "kazuviking",
+                          "body": "Yeah called hall effect joysticks.",
+                          "score": 26,
+                          "created_utc": 1749230289.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwd0zq4",
+                          "author": "CrazzluzSenpai",
+                          "body": "Yes, things absolutely wear out and break eventually, everything does. But I have a 7 year old $20 wired third party XSX controller that probably has 2000+ hours of game on it, and my Switch 1 Joycons started drifting after ~100 hours.\n\nFor the types of games I play (big single player RPGs) 100 hrs isn't even one full game playthrough before the sticks started drifting. You're telling me it's reasonable to go through 2 sets of Joycons for every new game I buy?",
+                          "score": 17,
+                          "created_utc": 1749234844.0,
+                          "replies": [
+                            {
+                              "id": "mwksq0r",
+                              "author": "Vectorman1989",
+                              "body": "I would have bought a Switch but the joycon issues really put me off.",
+                              "score": 0,
+                              "created_utc": 1749342090.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwecji6",
+                          "author": "Hour_Reindeer834",
+                          "body": "Ive been gaming for decades and only have had one joystick on an N64 pad \u201cwear out\u201d and fall over instead of returning to neutral. I never did have to replace my joycons but honestly we never played our switch much so it barely got used.\n\nJust admit Nintendo is no longer the same company under the old leadership that sells hardware at a loss and has CEOs voluntarily take pay cuts; their just another enshitified company that exists to funnel wealth to a few stakeholders.",
+                          "score": 4,
+                          "created_utc": 1749249854.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwh91fh",
+                          "author": "vincec36",
+                          "body": "My N64 controller works perfectly after almost 30 years",
+                          "score": 2,
+                          "created_utc": 1749298895.0,
+                          "replies": [
+                            {
+                              "id": "mwkodjy",
+                              "author": "your_evil_ex",
+                              "body": "How??? My N64 controllers (and my friends') all have loose sticks from the plastic wearing out",
+                              "score": 3,
+                              "created_utc": 1749340439.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwgdcbc",
+                          "author": "right_there",
+                          "body": "My original GameCube controller has been in consistent use for decades now and is in perfect condition.\n\nMy joycons started drifting randomly after my launch Switch sat unused in the dock for about four months. I barely used them before then.\n\nNintendo sold a defective product and should've been sued way harder than they were. They're scumbags.",
+                          "score": 1,
+                          "created_utc": 1749281047.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwk2c3q",
+                      "author": "Odium-Squared",
+                      "body": "Jokes on you, our joycons never worked in the first place. ;)",
+                      "score": -1,
+                      "created_utc": 1749332546.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwceoq7",
+                  "author": "sizzlinpapaya",
+                  "body": "Yea my 2017 switch still runs perfectly fun. Even the joycons don\u2019t give me issues.",
+                  "score": 13,
+                  "created_utc": 1749228421.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwc25qx",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 3,
+                  "created_utc": 1749224786.0,
+                  "replies": [
+                    {
+                      "id": "mwc2snh",
+                      "author": "Chipdip88",
+                      "body": "Replaced them for a few bucks off Amazon and 10 mins of time. Work great.\n\nI assume a joystick or button or keyboard or mouse is gonna wear out after heavy use and accept that",
+                      "score": 27,
+                      "created_utc": 1749224967.0,
+                      "replies": [
+                        {
+                          "id": "mwc479n",
+                          "author": "vingt-2",
+                          "body": "Moving parts prone to failure ?? What do you mean!!",
+                          "score": 19,
+                          "created_utc": 1749225370.0,
+                          "replies": [
+                            {
+                              "id": "mwcao99",
+                              "author": "Chipdip88",
+                              "body": "I deal with this all of the time as an Automotive technician.\n\nPeople expect to buy a car and drive it for 15 years without issue.... No.... Things wear out, things break and you have to maintain it. \n\nSame applies to pretty much any moving part that is used a lot, they wear out and require service. The fact that people are surprised by that just shows how little people understand about the real world.",
+                              "score": 10,
+                              "created_utc": 1749227253.0,
+                              "replies": [
+                                {
+                                  "id": "mwcsq8u",
+                                  "author": "Barrel123",
+                                  "body": "The issue is with premature wear\n\nThe switch joysticks tend to wear out ling before they're actually expected to fail\n\nDont tell me you're an automotive technician while not understanding that parts can fail prematurely due to bad design and not just because \"all moving parts fail anyway\"",
+                                  "score": -7,
+                                  "created_utc": 1749232406.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwcuwlz",
+                                      "author": "Chipdip88",
+                                      "body": "I disagree. They last quite a long time if you treat it properly. I've only had to replace mine once per controller since the system came out and again, it's had a lot of use.\n\nA lot of the joycons drift is abuse, people being rougher on components than they should. Not all, but a lot of it is.\n\nOn top of that, Nintendo will replace the joycons for you, very similar to the automotive world where they extend warranties or recalls for parts that become problematic.",
+                                      "score": 6,
+                                      "created_utc": 1749233032.0,
+                                      "replies": [
+                                        {
+                                          "id": "mwgo7m6",
+                                          "author": "Barrel123",
+                                          "body": "You should know that in the automotive world they specifically extend warranty or do recalls if there is a problem with the design\n\nJust like how there is a problem with joycon drift\n\n\"Once per controller\" how many is that ?\n\nYou mentioned how even keyboards need to switch out keys after extended use\n\nMy cherry mx switch keyboard bought like 8 years ago with basically heavy daily use has never had a single fault or nessesary replacement",
+                                          "score": 0,
+                                          "created_utc": 1749287714.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "mwf34o9",
+                                      "author": "stout936",
+                                      "body": "My launch joycons still don't drift. Maybe I'm lucky, idk.",
+                                      "score": 2,
+                                      "created_utc": 1749259488.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mwcl1ms",
+                              "author": "kazuviking",
+                              "body": "You buy hall effect joysticks and it will never go bad.",
+                              "score": 3,
+                              "created_utc": 1749230236.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwc2xcr",
+                      "author": "Zetra3",
+                      "body": "you assumed I ever use those POS controllers",
+                      "score": -3,
+                      "created_utc": 1749225004.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwh49st",
+                  "author": "rckhppr",
+                  "body": "We have ours since 2019. The kids dropped both the centerpiece numerous times and the controllers countless times, everything works fine.",
+                  "score": 3,
+                  "created_utc": 1749296733.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwem86z",
+                  "author": "skrugg",
+                  "body": "Same! My battery is expectedly shit at this point but it\u2019s still going strong as a docked console. Amazing for how long ago I bought it",
+                  "score": 2,
+                  "created_utc": 1749253235.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwevmgx",
+                  "author": "KaiserJustice",
+                  "body": "Bought mine late May of launch year, so mine is roughly same age, replaced one joystick, play docked and handheld (admittedly using a cradle for handheld) and play at least every other day. No issues",
+                  "score": 2,
+                  "created_utc": 1749256698.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwgu45h",
+                  "author": "woodcookiee",
+                  "body": "Mine is starting to make a noise finally, which is pretty good for a portable thing with fans that has probably been dropped a few times",
+                  "score": 2,
+                  "created_utc": 1749291314.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwhdifb",
+                  "author": "ghastlypxl",
+                  "body": "Same with my Animal Crossing edition Switch! i bought a replacement set of joycons because I didn\u2019t wanna break the pastel ones and primary play with a pro controller while docked. My joycons have been relatively safe!",
+                  "score": 2,
+                  "created_utc": 1749300753.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwdbxs0",
+                  "author": "NiteShdw",
+                  "body": "Except for the drifting joy cons you'd had to replace several times?",
+                  "score": 2,
+                  "created_utc": 1749238140.0,
+                  "replies": [
+                    {
+                      "id": "mwdcztb",
+                      "author": "Chipdip88",
+                      "body": "Nope.\n\nSpent 15 bucks on Amazon for 10 new thumb pads. Replaced them once each on 2 sets so I still got 6 thumb pads left.\n\nTakes 10 mins to replace. \n\nEasy peasy to fix them if you aren't completely useless and no need to buy new ones.\n\nOr you could just go along with the Reddit hivemind of \"Nintendo bad\" and ignore that people replace keyboards and computer mice and every other moving part that is highly used.....",
+                      "score": 6,
+                      "created_utc": 1749238465.0,
+                      "replies": [
+                        {
+                          "id": "mwdd518",
+                          "author": "NiteShdw",
+                          "body": "So you fixed drifting joy cons.",
+                          "score": -5,
+                          "created_utc": 1749238510.0,
+                          "replies": [
+                            {
+                              "id": "mwde13f",
+                              "author": "Chipdip88",
+                              "body": "Yes. Moving parts wear out and need to be replaced or serviced. Ever replace a computer mouse of keyboard keys? Do your car tires last forever?\n\nShit wears out.... It shouldn't be a foreign concept to you. The fact it is cheap and easy to replace is a good thing, hell.... Nintendo would replace them too for free if you mail it to them. I just found 15 bucks and 10 mins of my time was better than mailing it back to Nintendo.",
+                              "score": 10,
+                              "created_utc": 1749238784.0,
+                              "replies": [
+                                {
+                                  "id": "mwde7fm",
+                                  "author": "NiteShdw",
+                                  "body": "Wow you are really emotionally involved in this. I'm sorry that I triggered you.\n\nAll I did is ask if you repaired them.",
+                                  "score": -15,
+                                  "created_utc": 1749238837.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwdgpxt",
+                                      "author": "kungfoomasta",
+                                      "body": "You know exactly what you were doing.",
+                                      "score": 17,
+                                      "created_utc": 1749239602.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mweuh2x",
+                              "author": "CucumberBoy00",
+                              "body": "Not all joycons were broken",
+                              "score": 2,
+                              "created_utc": 1749256265.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwd1jkk",
+                  "author": "PatSajaksDick",
+                  "body": "Yeah, not sure what OP is on about, my launch Switch is working fine as well. Do people expect these to be like accident proof??",
+                  "score": 2,
+                  "created_utc": 1749235009.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwd38qj",
+                  "author": "catch22-",
+                  "body": "Ah wait but that doesn\u2019t fit in with Reddit\u2019s narrative of Nintendo being a horrible anti-consumer evil corp who sells us garbage by choice",
+                  "score": 0,
+                  "created_utc": 1749235517.0,
+                  "replies": [
+                    {
+                      "id": "mwdfb7e",
+                      "author": "LupusDeusMagnus",
+                      "body": "That\u2019s all companies\u2026 the fact you expect this one to be any different is worrying.",
+                      "score": 5,
+                      "created_utc": 1749239174.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwg4r2t",
+                      "author": "JFloriturin",
+                      "body": "I mean, they're creative with the consoles and the hardware problems are not in 100% of the them.\n\n\nThat does not change that Nintendo is a horrible anti-consumer evil corp. I believe people agree the products are not garbage, the way they manage/sell them and treat consumers is",
+                      "score": 1,
+                      "created_utc": 1749276039.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwfb359",
+                  "author": "mysecondaccountanon",
+                  "body": "Mine was tossed across the room by someone and while that did knock some things up, still runs well and has little to no issues. The joycons on the other hand, those came outta the box broken and back from the repair box broken as well.",
+                  "score": 1,
+                  "created_utc": 1749262516.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwoh32l",
+                  "author": "KillerAtari",
+                  "body": "Same same, the OG joycons for drift a few years in but since is shell swapped and installed hall effect sticks it\u2019s been a workhorse since.",
+                  "score": 1,
+                  "created_utc": 1749400220.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx0yxhl",
+                  "author": "Capokid",
+                  "body": "My 25yo n64 is still kickin. I dropped it last week.",
+                  "score": 1,
+                  "created_utc": 1749567324.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwcdwo0",
+                  "author": "NIN10DOXD",
+                  "body": "Same. Every Nintendo console I have ever owned still works while Sony has been 50/50. Even when I had to have the laser adjusted due to Brawl's dual layer disk, Nintendo took my Wii and hastily worked on it for free. The Wii could read other games, it was just Brawl, but they willingly fixed the issue for a single game when I was a kid and I've been pretty happy Nintendo customer service ever since.",
+                  "score": 1,
+                  "created_utc": 1749228195.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwcan4t",
+                  "author": "Iucidium",
+                  "body": "Same, I upgraded to OLED a few months ago. Only thing up with it was a slightly raised bottom right corner of the screen (adhesive)",
+                  "score": 1,
+                  "created_utc": 1749227244.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwczbu9",
+                  "author": "woodzopwns",
+                  "body": "I've never had problems with stick drift, I feel it's primarily just poor design but ALSO combinedwith people using them in dirty environments (which, as a portable device, was surley a concern in design). My switch has started to chug though and get extremely hot, not launch but close to it. TOTK basically barely runs anymore.",
+                  "score": -3,
+                  "created_utc": 1749234345.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwc5r6o",
+              "author": "Shoelebubba",
+              "body": "Consoles were also way less complex back in the day.   \n    \nTear open a NES, SNES, N64 or GameCube then really inspect the boards then the processor and you\u2019ll see how comically simple they are to more modern day ones.",
+              "score": 43,
+              "created_utc": 1749225820.0,
+              "replies": [
+                {
+                  "id": "mwd8230",
+                  "author": "CosmicCreeperz",
+                  "body": "Funny enough by the end of the SNES generation some of the carts were almost as complex as the console (and cost almost as much, too!)",
+                  "score": 17,
+                  "created_utc": 1749236962.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwc7itv",
+                  "author": "sagevallant",
+                  "body": "I like to tell people that the original NES games were like 3 to 18 kilobytes.",
+                  "score": 11,
+                  "created_utc": 1749226336.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwhdpmj",
+                  "author": "Thee-Plague-Doctor",
+                  "body": "I disagree. Yes those older consoles were simpler back in the day, but that\u2019s compared to what we know now about computers. Let me tell you, these consoles were just as hard to repair back then as our modern consoles are now. We just lack the decades of knowledge of the hardware to fix them",
+                  "score": -2,
+                  "created_utc": 1749300831.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwckelb",
+              "author": "mailslot",
+              "body": "Disc drive failure on the Wii was a thing. GameCube consoles have started bricking from firmware bitrot. Flash storage doesn\u2019t last forever.",
+              "score": 15,
+              "created_utc": 1749230052.0,
+              "replies": [
+                {
+                  "id": "mwkojbl",
+                  "author": "your_evil_ex",
+                  "body": "Also N64 sticks...\n\nNintendo joystick troubles didn't just start with joy con drift",
+                  "score": 3,
+                  "created_utc": 1749340499.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwd6tdv",
+              "author": "mug3n",
+              "body": "OG Gameboy was a fucking tank. Only thing is that it needed 4 AA batteries but it was great.",
+              "score": 5,
+              "created_utc": 1749236585.0,
+              "replies": []
+            },
+            {
+              "id": "mwe95bl",
+              "author": "Amity83",
+              "body": "lol. How many times did you blow on the NES cartridge, pushing it down then up 6 times hoping it would work?",
+              "score": 4,
+              "created_utc": 1749248671.0,
+              "replies": []
+            },
+            {
+              "id": "mwd7i34",
+              "author": "CosmicCreeperz",
+              "body": "And I remember everyone blowing on cartridges believing that it helped the issue that the contact points in the console were so unreliable ;)",
+              "score": 2,
+              "created_utc": 1749236793.0,
+              "replies": []
+            },
+            {
+              "id": "mwdcj3w",
+              "author": "AlannaAbhorsen",
+              "body": "I remember when Nintendo knew repairs would be necessary and you could mail them your console for free fixes",
+              "score": 2,
+              "created_utc": 1749238322.0,
+              "replies": []
+            },
+            {
+              "id": "mwet7w6",
+              "author": "Vocalic985",
+              "body": "There were specific nintendo service centers in a few big retailers in the 80s. That's how much the NES broke.",
+              "score": 2,
+              "created_utc": 1749255791.0,
+              "replies": []
+            },
+            {
+              "id": "mwbrcjx",
+              "author": "JustGottaKeepTrying",
+              "body": "Has your Switch 2 broken?",
+              "score": 8,
+              "created_utc": 1749221683.0,
+              "replies": [
+                {
+                  "id": "mwbt1v4",
+                  "author": "DeathHopper",
+                  "body": "I've been through countless switch controllers at ~90$ a set each. Does the switch 2 fix that? Or too soon to tell?",
+                  "score": 4,
+                  "created_utc": 1749222174.0,
+                  "replies": [
+                    {
+                      "id": "mwc204w",
+                      "author": "Volhaas",
+                      "body": "Do you perhaps live in the eu? Nintendo has to repair your joycons for free in the EU due to joycon drift being a manufacturer fault.",
+                      "score": 11,
+                      "created_utc": 1749224741.0,
+                      "replies": [
+                        {
+                          "id": "mwcimbx",
+                          "author": "100mop",
+                          "body": "Here in America they do it for free too.",
+                          "score": 10,
+                          "created_utc": 1749229541.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwbw5ge",
+                      "author": "Chipdip88",
+                      "body": "Why don't you buy new thumbsticks of Amazon? You get 10 for like 15 bucks and it includes the screwdrivers to open them up and it takes like 10 mins.",
+                      "score": 19,
+                      "created_utc": 1749223074.0,
+                      "replies": [
+                        {
+                          "id": "mwbyhjh",
+                          "author": "OrwellWhatever",
+                          "body": "Yeah, there's a world of difference between swapping out a GPU that's soldered onto the board and swapping out thumbsticks",
+                          "score": -25,
+                          "created_utc": 1749223744.0,
+                          "replies": [
+                            {
+                              "id": "mwbyy25",
+                              "author": "got-trunks",
+                              "body": "Just keep moving those goalposts... So what they are supposed to socket in a standard desktop APU?",
+                              "score": 19,
+                              "created_utc": 1749223874.0,
+                              "replies": [
+                                {
+                                  "id": "mwcr10a",
+                                  "author": "Two_Shekels",
+                                  "body": "Nintendo is obviously evil because they don\u2019t put a mATX socketed mobo and full size GPU in the Switch just like its rivals have",
+                                  "score": 9,
+                                  "created_utc": 1749231929.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwdct3l",
+                                      "author": "got-trunks",
+                                      "body": "those rat finks lol",
+                                      "score": 4,
+                                      "created_utc": 1749238407.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mwifzgx",
+                              "author": "trickman01",
+                              "body": "You\u2019re the one that brought up controllers lmao.",
+                              "score": 3,
+                              "created_utc": 1749313725.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwc3vlz",
+                      "author": "vingt-2",
+                      "body": "Countless? You must have played A LOT. Also pretty sure the N64 sticks were a little more prone to failure.",
+                      "score": 10,
+                      "created_utc": 1749225277.0,
+                      "replies": [
+                        {
+                          "id": "mwctc1w",
+                          "author": "Bluemikami",
+                          "body": "They were very prone if you played smash bros",
+                          "score": 2,
+                          "created_utc": 1749232578.0,
+                          "replies": [
+                            {
+                              "id": "mx4vdh3",
+                              "author": "slapshots1515",
+                              "body": "Smash wasn\u2019t the big stick killer. That would be Mario Party and all of its minigames literally designed to make you rotate the stick as forcefully and rapidly as you could.",
+                              "score": 1,
+                              "created_utc": 1749610128.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwck81z",
+                      "author": "Onetimehelper",
+                      "body": "Yeah there was a tear down on YouTube that showed changes with the joy cons that should theoretically make it last longer.\u00a0",
+                      "score": 5,
+                      "created_utc": 1749230000.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwbtce5",
+                  "author": "phoenixmatrix",
+                  "body": "The ones that got stapled through the screen by Gamespot were broken.",
+                  "score": 0,
+                  "created_utc": 1749222258.0,
+                  "replies": [
+                    {
+                      "id": "mwbxuod",
+                      "author": "None",
+                      "body": "A single store that did it. It\u2019s not widespread at all.",
+                      "score": 12,
+                      "created_utc": 1749223563.0,
+                      "replies": [
+                        {
+                          "id": "mwc0eua",
+                          "author": "phoenixmatrix",
+                          "body": "Of course. Doesn't make it any less funny though. (Or sad, if you're one of the victims)",
+                          "score": -2,
+                          "created_utc": 1749224289.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwbvxjt",
+                      "author": "Chipdip88",
+                      "body": "That's not really a defect in material or workmanship. That's a dumbass with a stapler.....\n\nIf you drive your car into a liquor store you can't blame that on the people who made the car now can you????",
+                      "score": 15,
+                      "created_utc": 1749223011.0,
+                      "replies": [
+                        {
+                          "id": "mwbw5lm",
+                          "author": "LookAlderaanPlaces",
+                          "body": "Why do people keep giving bad reviews to products due to the shipping and handling of products. Like wtf. It\u2019s got nothing to do with it and are two completely separate issues lol.",
+                          "score": 10,
+                          "created_utc": 1749223075.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwcjp7p",
+                          "author": "BobbyDig8L",
+                          "body": "Defect in packaging design though.  It's reasonable to think that something as small as a staple may come into contact with your packaging.  \n\nTo use your car example, it's more similar to a rock hitting your windshield, you wouldn't expect your car to be completely ruined after that...",
+                          "score": -1,
+                          "created_utc": 1749229849.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwc30vi",
+                      "author": "JustGottaKeepTrying",
+                      "body": "Seems that is not an issue with Nintendo.",
+                      "score": 3,
+                      "created_utc": 1749225033.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwbtr4t",
+                  "author": "sagevallant",
+                  "body": "My Wii broke, and I swapped out the disc drive. My Switch is very lightly used, aside from exclusives. I'm not getting a Switch 2 for that reason. Steam Deck would be a better use of my money, most likely.",
+                  "score": -6,
+                  "created_utc": 1749222378.0,
+                  "replies": [
+                    {
+                      "id": "mwc34xt",
+                      "author": "JustGottaKeepTrying",
+                      "body": "So your comment was just to stir the pot? Got it",
+                      "score": 6,
+                      "created_utc": 1749225065.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwc2p08",
+                      "author": "KaiKamakasi",
+                      "body": "Consider an Ally or other similar windows based handheld.\n\nSimilar price, better overall performance and muct better compatibility, particularly with windows/gamepass games. \n\nJust about everyone I know with a deck either swapped to an ally or has one as well and prefers it.\n\nPlus worst case scenario you can get the better specs *and* install SteamOS or Bazzite",
+                      "score": 2,
+                      "created_utc": 1749224938.0,
+                      "replies": [
+                        {
+                          "id": "mwc6g0l",
+                          "author": "beatinbunz247",
+                          "body": "I actually have both but use the deck more because of much better battery life.",
+                          "score": 0,
+                          "created_utc": 1749226022.0,
+                          "replies": [
+                            {
+                              "id": "mwc6l37",
+                              "author": "KaiKamakasi",
+                              "body": "Interesting, OLED? because it's usually the opposite",
+                              "score": 2,
+                              "created_utc": 1749226064.0,
+                              "replies": [
+                                {
+                                  "id": "mwc72c8",
+                                  "author": "beatinbunz247",
+                                  "body": "Yeah OLED. Ally is cool don't get me wrong, if I didn't have a decent desktop and wanted a compromise between portability and power, it would be my choice but it's not the best for like a long plane ride for example",
+                                  "score": 1,
+                                  "created_utc": 1749226203.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwc90jg",
+                                      "author": "KaiKamakasi",
+                                      "body": "Fair one then, the OLED is a decent improvement for battery, I really wish the z1 had an OLED. It'd be perfect. \n\nI was talking about standard in fairness as in my experience they are similar priced but the Ally edges out overall.\n\nPlus, windows is just objectively better overall from a compatability perspective, but then I guess that comes down to whether you're wanting to play windows/gamepass.... Which imo if you have a handheld, why wouldn't you!? But I digress.\n\nI do look forward to a world though where either SteamOS/Bazzite has the same compatability as Windows, or that Windows has a genuine handheld OS with the benefits that a Linux solution offers",
+                                      "score": 3,
+                                      "created_utc": 1749226772.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwechrh",
+              "author": "ITCrandomperson",
+              "body": "Game boy casually surviving a bomb explosion and only needing a new screen.",
+              "score": 2,
+              "created_utc": 1749249837.0,
+              "replies": []
+            },
+            {
+              "id": "mwcuen3",
+              "author": "damn_pastor",
+              "body": "They even got faster and faster with the years.",
+              "score": 1,
+              "created_utc": 1749232887.0,
+              "replies": []
+            },
+            {
+              "id": "mwds5i1",
+              "author": "DramaticBush",
+              "body": "A portable console is a while different animal than a stationary unit. Opens everything up to way more risk of damage.\u00a0\n\n\nAlso 90% of people will never attempt to repair a damaged console, they will just sell it or replace it.\u00a0",
+              "score": 1,
+              "created_utc": 1749243082.0,
+              "replies": []
+            },
+            {
+              "id": "mwfoaup",
+              "author": "Crackalacs",
+              "body": "My friend\u2019s 33 year old SNES still works perfectly.",
+              "score": 1,
+              "created_utc": 1749267928.0,
+              "replies": []
+            },
+            {
+              "id": "mwgebne",
+              "author": "thepoorking",
+              "body": "Bro already complaining about his imaginary switch 2 breaking xD",
+              "score": 2,
+              "created_utc": 1749281640.0,
+              "replies": []
+            },
+            {
+              "id": "mwh5ja4",
+              "author": "ChillZedd",
+              "body": "I\u2019m actually too young to remember that.",
+              "score": 1,
+              "created_utc": 1749297326.0,
+              "replies": []
+            },
+            {
+              "id": "mwh92wv",
+              "author": "OpportunityCorrect33",
+              "body": "Bruh I sent my GameCube in Atleast 3 times.",
+              "score": 1,
+              "created_utc": 1749298913.0,
+              "replies": []
+            },
+            {
+              "id": "mwhini8",
+              "author": "grammar_nazi_zombie",
+              "body": "My DMG Gameboy from like 93 is still working. The screen has degraded considerably, but I can still throw my old game cartridges in and outside of dead battery backup saves failing, they work. \n\nMy SNES fell off of a 6\u2019 entertainment center onto concrete and nearly the entire shell on the front corner by the power slider broke. The system still works. \n\nMy Wii U gamepad left joystick is drifting and needs replaced\n\nMy 8 OG Switch joycons have each had a minimum of *3* joystick swaps due to drift. None of them will remain attached to the system during play even with metal locks. The rechargeable battery is dead when it hits 72%. \n\nAt least it still works docked.",
+              "score": 1,
+              "created_utc": 1749302738.0,
+              "replies": []
+            },
+            {
+              "id": "mwko7pq",
+              "author": "your_evil_ex",
+              "body": "Tell that to my n64 controllers' sticks",
+              "score": 1,
+              "created_utc": 1749340378.0,
+              "replies": []
+            },
+            {
+              "id": "mwmdcrs",
+              "author": "kreygmu",
+              "body": "Back when the console had essentially no moving parts, the bits that broke were still the parts that moved.",
+              "score": 1,
+              "created_utc": 1749367816.0,
+              "replies": []
+            },
+            {
+              "id": "mwmfes5",
+              "author": "Granpa2021",
+              "body": "Yeah well I also remember when Nintendo made consoles so unreliable you had to blow into the cartridges to make them work.",
+              "score": 1,
+              "created_utc": 1749369021.0,
+              "replies": []
+            },
+            {
+              "id": "mwo1sdc",
+              "author": "King_Tamino",
+              "body": "My gamecube still works. Just like the Wii ..",
+              "score": 1,
+              "created_utc": 1749395500.0,
+              "replies": []
+            },
+            {
+              "id": "mwdx6vj",
+              "author": "Staalone",
+              "body": "I remember before Nintendo realized they didn't need to try too much because they have a fanbase that defends everything they do and have a market with virtually no competition.",
+              "score": 1,
+              "created_utc": 1749244673.0,
+              "replies": []
+            },
+            {
+              "id": "mwcl8mj",
+              "author": "froggyjm9",
+              "body": "My launch Switch has never broken\u2026all comes down to the user taking care of their stuff.",
+              "score": 0,
+              "created_utc": 1749230290.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwewzto",
+          "author": "smackythefrog",
+          "body": "Did they give a reason as to why the S2 didn't have an OLED like the OLED Switch did? Sure, they can release an OLED S2 in a few years but you still have to toss out some BS to placate the Nintendo fanatics in the meantime. \n\nOr can Nintendo be that blatant?",
+          "score": 6,
+          "created_utc": 1749257211.0,
+          "replies": [
+            {
+              "id": "mwf5la3",
+              "author": "MainlandX",
+              "body": "The reason is blatant. It\u2019s to keep the price lower.",
+              "score": 19,
+              "created_utc": 1749260433.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwbtfio",
+          "author": "f8Negative",
+          "body": "OLED Slim",
+          "score": 1,
+          "created_utc": 1749222284.0,
+          "replies": []
+        },
+        {
+          "id": "mwhmjss",
+          "author": "3vilchild",
+          "body": "I still have DS, 3DS and a bunch of Nintendo home consoles since GameCube that are still working perfectly.",
+          "score": 1,
+          "created_utc": 1749304164.0,
+          "replies": []
+        },
+        {
+          "id": "mwvvjxx",
+          "author": "TheW83",
+          "body": "That's what I'm waiting for.",
+          "score": 1,
+          "created_utc": 1749497068.0,
+          "replies": []
+        },
+        {
+          "id": "mwbts89",
+          "author": "Gunfreak2217",
+          "body": "The only repairability is pirating on PC. I was told that when we purchase games we don\u2019t own them. Then I guess when I pirate them it isn\u2019t stealing.\n\n\nCan\u2019t steal a good that can\u2019t be owned.",
+          "score": -5,
+          "created_utc": 1749222387.0,
+          "replies": []
+        },
+        {
+          "id": "mwbmdj8",
+          "author": "ShinyGrezz",
+          "body": "Doesn\u2019t even make sense as a joke but it\u2019s Nintendo bashing so updoots to the right I guess.",
+          "score": -35,
+          "created_utc": 1749220246.0,
+          "replies": [
+            {
+              "id": "mwbobke",
+              "author": "requium94",
+              "body": "It doesn't make sense that Nintendo would have repairability low on their priorities partly to sell a future revision? Seems prophetic to me.",
+              "score": 9,
+              "created_utc": 1749220813.0,
+              "replies": []
+            },
+            {
+              "id": "mwbpidh",
+              "author": "breathingweapon",
+              "body": "imagine whooshing a basic joke on planned obsolescence because you wanna dick ride nintendo, weird",
+              "score": 6,
+              "created_utc": 1749221154.0,
+              "replies": [
+                {
+                  "id": "mwbqf4o",
+                  "author": "ShinyGrezz",
+                  "body": "They don\u2019t need to release a hardware revision for that.",
+                  "score": -10,
+                  "created_utc": 1749221417.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwbnvnh",
+              "author": "Cheezewiz239",
+              "body": "Nintendo bad \ud83d\ude21",
+              "score": -5,
+              "created_utc": 1749220685.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwbt9xh",
+          "author": "phoenixmatrix",
+          "body": "Can confirm, have like 5 Switch (OG, OLED and Lite) for 2 people, will likely have 4-6 Switch 2 by the end of the generation.",
+          "score": -6,
+          "created_utc": 1749222238.0,
+          "replies": []
+        },
+        {
+          "id": "mwectvi",
+          "author": "harrietlegs",
+          "body": "Who fcking cares lmao. This opinion is so popular since the Switch 2 released. I play my Switch on the big TV.",
+          "score": -5,
+          "created_utc": 1749249954.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwbfh9z",
+      "author": "946stockton",
+      "body": "I wouldn\u2019t know how to repair it regardless of the chip inside.",
+      "score": 488,
+      "created_utc": 1749218147.0,
+      "replies": [
+        {
+          "id": "mwbgb9w",
+          "author": "Hiur",
+          "body": "The title is poorly written, the repairability issues are not connected to the chip.",
+          "score": 290,
+          "created_utc": 1749218408.0,
+          "replies": [
+            {
+              "id": "mwbhffv",
+              "author": "Remy0507",
+              "body": "Yeah, it basically just comes down to \"He had a little trouble figuring out how to get at the screws to open it up\", lol.",
+              "score": 137,
+              "created_utc": 1749218761.0,
+              "replies": [
+                {
+                  "id": "mwbr7b3",
+                  "author": "DragonSyndrome",
+                  "body": "TronicFix had no issues with it aside the soldered usb c ports and the annoying stickers covering the joycon rails. Repairability seems to be on par if not slightly worse than the original switch",
+                  "score": 75,
+                  "created_utc": 1749221641.0,
+                  "replies": [
+                    {
+                      "id": "mwddkuz",
+                      "author": "robertcalilover",
+                      "body": "I think I remember a tear down that showed the game cartridge reader is now soldered in place. Seems like a pretty big downgrade, if it goes bad, you\u2019re fucked.",
+                      "score": 10,
+                      "created_utc": 1749238646.0,
+                      "replies": [
+                        {
+                          "id": "mwky151",
+                          "author": "Remy0507",
+                          "body": "Was this a major issue before or something?",
+                          "score": 5,
+                          "created_utc": 1749344159.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwkori9",
+                          "author": "your_evil_ex",
+                          "body": "Well then it's a good thing almost all 3rd party games are just digital keycards now anyway, getting rid of half the point of buying physical games in the first place!",
+                          "score": 0,
+                          "created_utc": 1749340581.0,
+                          "replies": [
+                            {
+                              "id": "mwkxiky",
+                              "author": "robertcalilover",
+                              "body": "Imagine buying the game cart, it takes up all that space on your device anyways, and then your card reader breaks and you can\u2019t play it even though it\u2019s on your device \ud83d\ude2d\ud83d\ude2d",
+                              "score": 4,
+                              "created_utc": 1749343957.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwccfhk",
+                      "author": "samtherat6",
+                      "body": "It\u2019s a step backwards when other companies are taking steps forwards. The sticker is not great, but the battery still aggressively glued down. The thumb stick also seems to be harder to remove, and is attached to the colored plastic from what I can tell.",
+                      "score": 6,
+                      "created_utc": 1749227765.0,
+                      "replies": [
+                        {
+                          "id": "mwds1av",
+                          "author": "DragonSyndrome",
+                          "body": "You\u2019re 100% right! This is Nintendo we\u2019re talking about though, they\u2019ve never been ahead of anything for the past 28 years",
+                          "score": 4,
+                          "created_utc": 1749243045.0,
+                          "replies": [
+                            {
+                              "id": "mwruoq9",
+                              "author": "_RADIANTSUN_",
+                              "body": "I mean they are like the Apple of videogames they make calculated value choices on hardware that seem like shit to enthusiasts and try to deliver the maximum value for it via their software which is like a big multiplier to their core consumer bases, who don't give a fuck about having cutting edge hardware.",
+                              "score": 1,
+                              "created_utc": 1749440883.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwdn4nm",
+                  "author": "zach0011",
+                  "body": "I swear all publicatiks just decided they hate this thing. I've seen some of the most clickbaity titles for non issues",
+                  "score": 7,
+                  "created_utc": 1749241550.0,
+                  "replies": [
+                    {
+                      "id": "mwdnolp",
+                      "author": "Remy0507",
+                      "body": "This is just gaming \"journalism\" these days. It's all attempting to drive engagement by stirring up shit.",
+                      "score": 10,
+                      "created_utc": 1749241719.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwjmm8v",
+                      "author": "jcdoe",
+                      "body": "We\u2019ve been anticipating the Switch 2 for years.  And when we got it, the HDR kinda sucks, it doesn\u2019t have an OLED, and the games are $80.\n\nI don\u2019t think this is the fault of clickbait, I think people are just kinda disappointed at the corners Nintendo cut with this thing.  It\u2019s 2025, why aren\u2019t we putting OLEDs in everything already?",
+                      "score": 3,
+                      "created_utc": 1749327359.0,
+                      "replies": [
+                        {
+                          "id": "mwm28ri",
+                          "author": "Ez13zie",
+                          "body": "I think you know the answer to this question as it\u2019s echoed throughout any posts about the Switch 2 or Nintendo.",
+                          "score": 1,
+                          "created_utc": 1749361607.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwrvlxt",
+                          "author": "Remy0507",
+                          "body": "Cost? Some of us aren't going to play a lot in handheld mode, and the screen it has is pretty good for non-OLED. I'd rather not pay $50 more for something I'll barely get use out of.",
+                          "score": 0,
+                          "created_utc": 1749441284.0,
+                          "replies": [
+                            {
+                              "id": "mws2ooe",
+                              "author": "jcdoe",
+                              "body": "The screen doesn\u2019t even hit 500 nits, that is not pretty good\n\nMost of us play our switches portable at least some of the time, glad for this one guy we all saved him $50 /s",
+                              "score": 1,
+                              "created_utc": 1749444568.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwd2kdo",
+                  "author": "Zappiticas",
+                  "body": "So basically any modern electronic device?",
+                  "score": 5,
+                  "created_utc": 1749235315.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwbk9zj",
+              "author": "B19F00T",
+              "body": "God forbid a headline have the word \"and\" in it instead of a comma",
+              "score": 17,
+              "created_utc": 1749219625.0,
+              "replies": [
+                {
+                  "id": "mwbvuyc",
+                  "author": "dertechie",
+                  "body": "Gotta save those column inches.",
+                  "score": 4,
+                  "created_utc": 1749222990.0,
+                  "replies": [
+                    {
+                      "id": "mygb1uo",
+                      "author": "Independent_Win_9035",
+                      "body": "yeah it's an interesting holdover from print media",
+                      "score": 2,
+                      "created_utc": 1750256237.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mygd689",
+              "author": "Independent_Win_9035",
+              "body": "the headline is fine. it's clearly listing two separate findings from the teardown. otherwise it would say \"raising\" instead of \"raises\"\n\nyour reading comprehension is the poor part. downvote that.",
+              "score": 0,
+              "created_utc": 1750256864.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwbtzj0",
+          "author": "st-shenanigans",
+          "body": "That's fine, it just means their copy protection is so invasive, if a game card acts funky and shoots a weird voltage, it'll brick your system!",
+          "score": 1,
+          "created_utc": 1749222444.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwblk8q",
+      "author": "Spunndaze",
+      "body": "Such a low quality post.",
+      "score": 164,
+      "created_utc": 1749220004.0,
+      "replies": [
+        {
+          "id": "mwhkrwk",
+          "author": "CoochieSnotSlurper",
+          "body": "I have not come across a single positive article or video regarding the switch2. I think a lot of it is completely over blown, but Nintendo is really losing a PR battle right now.",
+          "score": 9,
+          "created_utc": 1749303523.0,
+          "replies": [
+            {
+              "id": "mwhl49q",
+              "author": "Spunndaze",
+              "body": "Yeah, negativity gets the engagement right now.",
+              "score": 8,
+              "created_utc": 1749303650.0,
+              "replies": []
+            },
+            {
+              "id": "mwhsfh9",
+              "author": "Omnizoom",
+              "body": "Rage sells headlines",
+              "score": 7,
+              "created_utc": 1749306194.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwbmrjj",
+          "author": "None",
+          "body": "Kind of like the switch 2.",
+          "score": -84,
+          "created_utc": 1749220362.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwc309b",
+      "author": "fuck-nazi",
+      "body": "Tegraty farms?",
+      "score": 20,
+      "created_utc": 1749225028.0,
+      "replies": [
+        {
+          "id": "mwf02ig",
+          "author": "xaphod2",
+          "body": "Tegraty farms remembers.",
+          "score": 6,
+          "created_utc": 1749258341.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwbiqax",
+      "author": "imaginary_num6er",
+      "body": "Well yeah, using a Nvidia Tegra T239 does raise reparability concerns",
+      "score": 28,
+      "created_utc": 1749219160.0,
+      "replies": []
+    },
+    {
+      "id": "mwbjrr5",
+      "author": "thecraigbert",
+      "body": "So storage failure and you\u2019re buying a mainboard.",
+      "score": 20,
+      "created_utc": 1749219474.0,
+      "replies": []
+    },
+    {
+      "id": "mwjg9bl",
+      "author": "Lingroll",
+      "body": "Repairability concerns have been risen for months lol. This doesn\u2019t feel like a new concern.",
+      "score": 3,
+      "created_utc": 1749325243.0,
+      "replies": []
+    },
+    {
+      "id": "mwf4bey",
+      "author": "CMDR_omnicognate",
+      "body": "The repairability may not matter as much, Nintendo\u2019s servicing is usually pretty top notch and easy to do if anything goes wrong",
+      "score": 2,
+      "created_utc": 1749259943.0,
+      "replies": []
+    },
+    {
+      "id": "mwbkjlx",
+      "author": "Yodl007",
+      "body": "What repairability ? I read that they brick it remotely if you breathe on it wrong.",
+      "score": 26,
+      "created_utc": 1749219705.0,
+      "replies": [
+        {
+          "id": "mwbnrgn",
+          "author": "BentTire",
+          "body": "The thing is. The TOS they have is standard with console manufacturers. Sony has this, and so does Microsoft.\n\nNintendo has had this since at least the Wii days.\nAll they did was change the wording.\n\nYou are still free to customize and repair your console. You just can't install unauthorized software or hardware mods that circumvent implemented restrictions.",
+          "score": 73,
+          "created_utc": 1749220652.0,
+          "replies": [
+            {
+              "id": "mwcleca",
+              "author": "BernieMP",
+              "body": "The problem is nintendo sells their hardware at a profit, not a loss like sony or microsoft\n\nIf the price of the hardware is completely covered then the hardware was purchased completely, anything else is a dishonest practice",
+              "score": -18,
+              "created_utc": 1749230334.0,
+              "replies": [
+                {
+                  "id": "mwcn3ie",
+                  "author": "BentTire",
+                  "body": "While I'm not 100% defending Nintendo and their practices. They have to have some levels of restriction to prevent people from putting in modifications that change the behavior willy nilly. Otherwise, you end up having a far worse hacking situation than what is already present.\n\nThe only time Nintendo sold their consoles at a loss was the Gamecube. They drop the price from iirc 200 usd to just 99$\n\nBut people have to remember that Nintendo is not your friend and never has been. They are a company with the intent of making a profit and maintaining a specific outer appearance.",
+                  "score": 15,
+                  "created_utc": 1749230813.0,
+                  "replies": [
+                    {
+                      "id": "mwke4er",
+                      "author": "Arashi5",
+                      "body": "3DS (after the price cut) and Wii U were sold at a loss, and tarrifs might make it so Switch 2 is sold at a loss - and it currently is being sold at a loss in Japan.\u00a0",
+                      "score": 1,
+                      "created_utc": 1749336732.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwcpatk",
+                      "author": "BernieMP",
+                      "body": "How about banning people from online? You know, like they've always done? The actual service, not the hardware they've already charged you for",
+                      "score": -8,
+                      "created_utc": 1749231438.0,
+                      "replies": [
+                        {
+                          "id": "mwcq0zk",
+                          "author": "BentTire",
+                          "body": "That is likely what they'll do. The bricking (and even then I doubt they will stop the device from working all together) will very likely be reserved for VERY extreme cases.\n\nBecause I can't imagine even a company as strict as Nintendo pulling an Apple and bricking your device just because you didn't follow TOS for the device.",
+                          "score": 6,
+                          "created_utc": 1749231645.0,
+                          "replies": [
+                            {
+                              "id": "mwed5pb",
+                              "author": "Hameron18",
+                              "body": "I hear you, but you'll have to forgive those of us who don't trust a huge corporation to not abuse that power against people and be forgiving with non-extreme cases.",
+                              "score": 3,
+                              "created_utc": 1749250065.0,
+                              "replies": [
+                                {
+                                  "id": "mwfuyrs",
+                                  "author": "BentTire",
+                                  "body": "Oh, I don't blame you guys at all for having massive distrust.\n\nEspecially with the BS they pulled in the past of doing stuff like taking down fan games and projects.",
+                                  "score": 3,
+                                  "created_utc": 1749270966.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mx4tkeb",
+                  "author": "_RADIANTSUN_",
+                  "body": "1) Microsoft and Sony don't sell their consoles at a loss\n\n2) How is it relevant what it cost to the company? So Sony took a loss-leader strategy, that means they're allowed to have restrictions on the hardware you paid for? What?",
+                  "score": 0,
+                  "created_utc": 1749609449.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwblhkd",
+          "author": "pogisanpolo",
+          "body": "Only if you're American or Japanese. Those in the EU or the UK are safe.",
+          "score": 19,
+          "created_utc": 1749219983.0,
+          "replies": [
+            {
+              "id": "mwe9ggg",
+              "author": "lirannl",
+              "body": "Japanese? Does Japan not do consumer protections?",
+              "score": 0,
+              "created_utc": 1749248777.0,
+              "replies": [
+                {
+                  "id": "mwen6om",
+                  "author": "pogisanpolo",
+                  "body": "They do... with exceptions for game consoles according to the \u4e0d\u6b63\u7af6\u4e89\u9632\u6b62\u6cd5, which specifically forbids modding of game consoles. Theoretically, it should be forbidden, but if someone tries to sue them, they can uno reverse them with this law.",
+                  "score": 1,
+                  "created_utc": 1749253570.0,
+                  "replies": [
+                    {
+                      "id": "mwfsp49",
+                      "author": "lirannl",
+                      "body": "That's a weird exception \ud83e\udd14",
+                      "score": 0,
+                      "created_utc": 1749269905.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwdr6pg",
+              "author": "mat145_",
+              "body": "England is still part of Europe even if they have left the EU, so no need to write it like that.",
+              "score": -1,
+              "created_utc": 1749242785.0,
+              "replies": [
+                {
+                  "id": "mwds2tx",
+                  "author": "pogisanpolo",
+                  "body": "It's a subtle, but important, distinction, since nothing is stopping the UK from dropping thise laws, since they're no longer bound by the EU laws.",
+                  "score": 11,
+                  "created_utc": 1749243058.0,
+                  "replies": [
+                    {
+                      "id": "mwdsu13",
+                      "author": "mat145_",
+                      "body": "I think the subtle distinction is only required if you say \u201cEuropean Union and England\u201d. \n\nImagine saying \u201cNorth America, including Canada\u201d.",
+                      "score": -4,
+                      "created_utc": 1749243289.0,
+                      "replies": [
+                        {
+                          "id": "mwg4at8",
+                          "author": "None",
+                          "body": "Imagine thinking the UK is England.",
+                          "score": 7,
+                          "created_utc": 1749275786.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwdtjy8",
+                          "author": "pogisanpolo",
+                          "body": "Better?",
+                          "score": 4,
+                          "created_utc": 1749243512.0,
+                          "replies": [
+                            {
+                              "id": "mwdtr43",
+                              "author": "mat145_",
+                              "body": "100%. Thank you.",
+                              "score": 2,
+                              "created_utc": 1749243573.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwbvtje",
+          "author": "fireowlzol",
+          "body": "lol the vitriol for the switch is insane on this sub. It\u2019ll be the most successful launch in history anyways",
+          "score": 23,
+          "created_utc": 1749222978.0,
+          "replies": [
+            {
+              "id": "mwcrguv",
+              "author": "Two_Shekels",
+              "body": "Seething PC handheld users are everywhere, it\u2019s like they can\u2019t stand the idea of the Switch even existing",
+              "score": 3,
+              "created_utc": 1749232052.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwbmi09",
+          "author": "ShinyGrezz",
+          "body": "If you mess around with their servers to cheat online, you mean.",
+          "score": -4,
+          "created_utc": 1749220283.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwej5yk",
+      "author": "SUPERSAM76",
+      "body": "Only thing I hope comes from this is a new Nvidia Shield so I can finally settle for the ultimate Moonlight streaming client.",
+      "score": 2,
+      "created_utc": 1749252155.0,
+      "replies": [
+        {
+          "id": "mwjklpj",
+          "author": "Stewdill51",
+          "body": "Fingers crossed.",
+          "score": 1,
+          "created_utc": 1749326691.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwh8119",
+      "author": "cpthornman",
+      "body": "It's Nintendo. Being anti-consumer has always been their thing. But fanboys defend their shitty practices so they just keep doing it more blatantly.",
+      "score": 5,
+      "created_utc": 1749298454.0,
+      "replies": [
+        {
+          "id": "mwi1sw1",
+          "author": "EvilTaffyapple",
+          "body": "Anti consumer?\n\nThey have allowed you to play the new console with your old controllers, to save you money.\n\nThey allow you to share digital games now, too. So one person buys and shares it with their friends and families.\n\nThey also allow game sharing, where a multiplayer game just needs one copy to run, with four connected consoles\n\nDoesn\u2019t sound very anti-consumer to me?",
+          "score": -3,
+          "created_utc": 1749309238.0,
+          "replies": [
+            {
+              "id": "mwl8uv2",
+              "author": "___mm_ll-U-ll_mm___",
+              "body": "You are missing the ENTIRE point if your definition of pro-consumer anti-consumers hinges on the superficial allowance to use accessories. \n\nThat's a given considering the tech is still fully functional. It's not pro consumer, it's neutral at best.\n\nThe games are not pro consumer, it's playtime marketing. Like playable demos sent out with Playstation magazine back in the 90s and early 2000s. Nothing pro consumer about it, it's marketing .. \n\nPeople are blind to what is a consumer benefit vs a calculated allowance.",
+              "score": 6,
+              "created_utc": 1749348424.0,
+              "replies": []
+            },
+            {
+              "id": "mx2boiu",
+              "author": "shrimpboyho2",
+              "body": "Sybau",
+              "score": 1,
+              "created_utc": 1749580953.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwfzrss",
+      "author": "caelfu",
+      "body": "My switch has been going strong for a few years and I travel a lot.\n\nI wouldn\u2019t doubt them based on past experience.",
+      "score": 1,
+      "created_utc": 1749273352.0,
+      "replies": []
+    },
+    {
+      "id": "mwgm6lw",
+      "author": "Hotboogersneeze",
+      "body": "It\u2019s Nintendo. If it doesn\u2019t work just blow on it.",
+      "score": 1,
+      "created_utc": 1749286459.0,
+      "replies": []
+    },
+    {
+      "id": "mweqzi9",
+      "author": "johnyeros",
+      "body": "Don\u2019t worry. You will be buying 4 new joycon because they will drift soon",
+      "score": 3,
+      "created_utc": 1749254957.0,
+      "replies": []
+    },
+    {
+      "id": "mwm2g29",
+      "author": "Sofa-king-high",
+      "body": "lol Nintendo and repairability? Wrong decade",
+      "score": 1,
+      "created_utc": 1749361716.0,
+      "replies": []
+    },
+    {
+      "id": "mwdkvfb",
+      "author": "Fr33Flow",
+      "body": "There are few things that I can less about than the repairability of a Nintendo.\n\nI really miss the old Reddit news feed.",
+      "score": 0,
+      "created_utc": 1749240867.0,
+      "replies": []
+    },
+    {
+      "id": "mwbngp6",
+      "author": "NuclearReactions",
+      "body": "Oh so the company that shits on its fans at every opportunity and sells their console's tutorial for 15$ doesn't provide adequate repairability? Color me shocked!",
+      "score": -18,
+      "created_utc": 1749220567.0,
+      "replies": [
+        {
+          "id": "mwbu25c",
+          "author": "Valinaut",
+          "body": "Your spellcheck needs to be repaired.",
+          "score": -1,
+          "created_utc": 1749222465.0,
+          "replies": [
+            {
+              "id": "mwbua3b",
+              "author": "NuclearReactions",
+              "body": "Spell checks have lots of issues when they have to handle 2 or 3 languages. I really tried getting some to work but they all fail in one way or the other. Corrected my mistake, i should really start proof reading, stupid sausage fingers lol",
+              "score": -3,
+              "created_utc": 1749222530.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwih7kr",
+          "author": "sean_themighty",
+          "body": "At least get your numbers right if you\u2019re going to complain. It\u2019s $10. And it\u2019s harder to repair but not impossible.",
+          "score": 0,
+          "created_utc": 1749314117.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwbtn7t",
+      "author": "hotstepper77777",
+      "body": "Repair? Dont you know you're only licensing the hardware? You don't own your hardware!\u00a0\n\n\nYou try and repair it yourself and they'll send Pinkertons after you.\n\n\n/s",
+      "score": -10,
+      "created_utc": 1749222347.0,
+      "replies": []
+    },
+    {
+      "id": "mwgpm8q",
+      "author": "naturepeaked",
+      "body": "Is it more powerful than the aging Xbox x or PS5. I\u2019ll never stand why people by the switch.",
+      "score": -5,
+      "created_utc": 1749288600.0,
+      "replies": [
+        {
+          "id": "mwhd108",
+          "author": "aliendepict",
+          "body": "Because some of us have friends. And sometimes those friends come over and enjoy a couple of beers while shelling eachother in mario kart.",
+          "score": 10,
+          "created_utc": 1749300560.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwbuuw5",
+      "author": "TheModeratorWrangler",
+      "body": "I\u2019m just glad that Nintendo didn\u2019t forget about us and gave us a new Switch. They owe you nothing.",
+      "score": -19,
+      "created_utc": 1749222699.0,
+      "replies": []
+    },
+    {
+      "id": "mwbps8b",
+      "author": "mgd09292007",
+      "body": "How many people actually repair their own devices anymore.  I havent built a computer or tried to fix anything since the early 2000's",
+      "score": -33,
+      "created_utc": 1749221234.0,
+      "replies": [
+        {
+          "id": "mwbqu81",
+          "author": "WastelandGunner",
+          "body": "I do! All the time! I prefer to repair than to buy a replacement. Even picked up microsoldering as a hobby.",
+          "score": 21,
+          "created_utc": 1749221537.0,
+          "replies": [
+            {
+              "id": "mwcovfs",
+              "author": "swng",
+              "body": "That's really cool, what kinds of devices have you repaired?",
+              "score": 2,
+              "created_utc": 1749231318.0,
+              "replies": [
+                {
+                  "id": "mwvx3t9",
+                  "author": "WastelandGunner",
+                  "body": "Super late to respond here, but I've repaired phones, game consoles, computers, etc. Louis Rossmann was a huge inspiration in that regard.",
+                  "score": 1,
+                  "created_utc": 1749497529.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwbqvs1",
+          "author": "nguyenm",
+          "body": "The context isn't so much being self-reliant on repairs, but the *monopolization* of repairs by Nintendo or other first party only. If a design is made where an independent shop cannot procure a singular part for complete repair, but Nintendo is quoting a whole motherboard repair.\u00a0",
+          "score": 12,
+          "created_utc": 1749221550.0,
+          "replies": []
+        },
+        {
+          "id": "mwdml93",
+          "author": "HandUeliHans",
+          "body": "I do",
+          "score": 3,
+          "created_utc": 1749241386.0,
+          "replies": []
+        },
+        {
+          "id": "mwedk8u",
+          "author": "Empero6",
+          "body": "The count doesn\u2019t matter. The thing that matters is being able to.",
+          "score": 3,
+          "created_utc": 1749250206.0,
+          "replies": []
+        },
+        {
+          "id": "mwbq6y4",
+          "author": "lemlurker",
+          "body": "Congratulations! You're vegitating!",
+          "score": 7,
+          "created_utc": 1749221353.0,
+          "replies": []
+        },
+        {
+          "id": "mwlgjl0",
+          "author": "SneakySnk",
+          "body": "I do, every time something breaks, every time I upgrade my PC.",
+          "score": 1,
+          "created_utc": 1749351508.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

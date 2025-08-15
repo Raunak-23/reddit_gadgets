@@ -1,0 +1,49 @@
+metric,value
+file,1hkzx01.csv
+title,Mac Pro-style case for Mac Mini M4
+rows,37
+num_posts,1
+num_comments,36
+unique_authors,32
+max_depth,7
+avg_comment_words,41.25
+median_comment_words,20.5
+max_comment_words,202
+positive_count,12
+negative_count,24
+neutral_count,0
+positive_pct,33.333
+negative_pct,66.667
+neutral_pct,0.0
+topic_1_keywords,"device, something, case, people, never, could, charging, plugged"
+topic_1_label,plugged in device could not charge
+topic_2_keywords,"sure, company, makes, thats, buy, get, adorable, much"
+topic_2_label,cute company makes thats buy and get
+topic_3_keywords,"rack, make, mini, one, mounted, selling, killing, making"
+topic_3_label,racks made by selling mini minis
+topic_4_keywords,"design, choice, well, underside, irritating, onpar, port, charging"
+topic_4_label,port charging design
+topic_5_keywords,"mouse, pro, button, wheels, charging, think, incredibly, power"
+topic_5_label,incredibly power mouse
+topic_6_keywords,"use, like, magic, mouse, adorable, thats, function, form"
+topic_6_label,mouse and magic form a fun form
+top_ngram_1,power button (6)
+top_ngram_2,magic mouse (6)
+top_ngram_3,killing selling (5)
+top_ngram_4,rack mounted (5)
+top_ngram_5,charging port (5)
+top_ngram_6,design choice (5)
+top_ngram_7,mac mini (4)
+top_ngram_8,mac pro (4)
+top_ngram_9,yeah someone (4)
+top_ngram_10,someone making (4)
+ner_1,Mac|MISC|4
+ner_2,Magic Mouse|MISC|4
+ner_3,Mac Pro|MISC|3
+ner_4,M4 Pro|MISC|2
+ner_5,Mac Mini|MISC|2
+ner_6,Amazon|ORG|1
+ner_7,##tor|ORG|1
+ner_8,##IC|ORG|1
+ner_9,Apple|MISC|1
+ner_10,Apple|ORG|1

@@ -1,0 +1,286 @@
+{
+  "post": {
+    "title": "Meta is working on a fix for a software update that bricked Quest headsets",
+    "author": "Sariel007",
+    "id": "1hqgl05",
+    "score": 245,
+    "created_utc": 1735657769.0,
+    "selftext": "",
+    "num_comments": 33,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hqgl05/meta_is_working_on_a_fix_for_a_software_update/"
+  },
+  "comments": [
+    {
+      "id": "m4p8hrn",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1735657769.0,
+      "replies": []
+    },
+    {
+      "id": "m4qmkgv",
+      "author": "Dazd_cnfsd",
+      "body": "Forced update leading to brick needs to be legislated to protect consumers otherwise they will keep pulling this burnout problem bull because they can",
+      "score": 170,
+      "created_utc": 1735673747.0,
+      "replies": [
+        {
+          "id": "m4rf4de",
+          "author": "Chronotaru",
+          "body": "I'm pretty sure most courts and consumer protection authorities in Europe would not care that the device is out of warranty when it's something like this.",
+          "score": 23,
+          "created_utc": 1735683366.0,
+          "replies": [
+            {
+              "id": "m4vd52j",
+              "author": "danielv123",
+              "body": "Also, warranty here is 5 years. Only early quest 1 headsets are out of warranty.",
+              "score": 8,
+              "created_utc": 1735751190.0,
+              "replies": [
+                {
+                  "id": "m4ytm0u",
+                  "author": "yogopig",
+                  "body": "Man why cant I live in europe",
+                  "score": 6,
+                  "created_utc": 1735795348.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m4zjr8n",
+              "author": "Ghostrider215",
+              "body": "Same in Australia",
+              "score": 1,
+              "created_utc": 1735811530.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m4ub5up",
+          "author": "QuantumQuantonium",
+          "body": "Theres more than just this problem.\n\nI claim that the strict OS and bootloader controls Meta uses on their headsets is against right to repair- I have 2 quest 2 headsets with different bricks (not from the recent update and out of warranty; one of them I got for cheap in an attempt to repair and replace the other). The headset doesn't allow downgrades or complete reinstalls, one has a \"black screen of death\" and the other remains stuck on boot. Both headsets are broken in terms of software (or firmware, but its not exactly a hardware fix)\n\nCompanies like meta, Samsung, apple, Microsoft, should be forced to allow at minimum downgradability and complete reinstalls of device firmware and operating systems, under the right to repair. \n\nTaken a step further, I believe when I purchase the hardware, I now own that hardware (not the software or its design)- the manufacturer can stop or control me from using their software all they want, but if I want to replace their software (which is a hardware level function) I should have the right to, in the name of FOSS and reducing planned obsolescence. The reason they dont let you do thst is security, sometimes to protect the device owner but often to protect the software from hacks and exploits, which can be difficult stop per case, but locking bootloaders is a broad fix at the cost of blocking low level device functions.",
+          "score": 19,
+          "created_utc": 1735735638.0,
+          "replies": []
+        },
+        {
+          "id": "m4qvocw",
+          "author": "AUkion1000",
+          "body": "I wonder if this stuff is intentional\nAt worst oops we bricked headsets we don't make looks like you'll need the new 3s\nI mean phones almost ge that with crap updates and no one does anything enmass about it",
+          "score": 9,
+          "created_utc": 1735676722.0,
+          "replies": [
+            {
+              "id": "m4sobr3",
+              "author": "EngineeringNo753",
+              "body": "Why would they do try and push people with a 3 to the cheaper 3s? Lol",
+              "score": 8,
+              "created_utc": 1735700921.0,
+              "replies": [
+                {
+                  "id": "m4tjcy1",
+                  "author": "Boogie-Down",
+                  "body": "Conspiracies don\u2019t have to make any sense these days.",
+                  "score": 6,
+                  "created_utc": 1735717563.0,
+                  "replies": []
+                },
+                {
+                  "id": "m4u864t",
+                  "author": "maniacreturns",
+                  "body": "I think you're missing the point here getting bogged down in useless details that aren't really important to the meaning.",
+                  "score": 1,
+                  "created_utc": 1735733909.0,
+                  "replies": []
+                },
+                {
+                  "id": "m57vdcs",
+                  "author": "Aidan_Welch",
+                  "body": "I don't think its intentional, but to answer your question, its so people who already made a purchase would make another one probably",
+                  "score": 1,
+                  "created_utc": 1735927657.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m4t4cj2",
+              "author": "OkCalligrapher9",
+              "body": "Considering it impacted Quest 3 and 3S devices including ones that were purchased brand new for Christmas, it would be an incredibly poor implementation of that kind of plan. \ud83d\ude05\n\nI think it's far more likely it was a (catastrophic) accident. Especially considering that now they're going to spend a ton replacing everyone's bricked devices.",
+              "score": 6,
+              "created_utc": 1735708587.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4rdws4",
+      "author": "Vanilla_Vomit",
+      "body": "Mine updated when I turned it on a week ago today but instead of bricking the headset it bricked the controllers. They are now sent to their facility for repair/exchange. The dumb thing was they had to be shipped separately, one got lost in transit; it thankfully got recovered two days later, after the other arrived at their facility\u2026.",
+      "score": 16,
+      "created_utc": 1735682937.0,
+      "replies": []
+    },
+    {
+      "id": "m4rfcq7",
+      "author": "Chronotaru",
+      "body": "If it's no longer booting, I guess any fix would be PC based through USB?",
+      "score": 14,
+      "created_utc": 1735683450.0,
+      "replies": [
+        {
+          "id": "m4rj4uc",
+          "author": "speculatrix",
+          "body": "If they had a serial port which could be exposed by taking off the internal plastic shield, which allowed control of the bootloader when device was turned on, you could probably fix it by connecting to a computer.",
+          "score": 5,
+          "created_utc": 1735684802.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m4u8hoi",
+      "author": "None",
+      "body": "Quest is the worst for software updates and OS problems. Once mine said \"don't turn off, updating\" and it stayed like that overnight and long into the next day before I said fuck it and let the battery run out. Turned on fine and updated. \n\n\nSome Quest 3's got stuck in the battery saver mode if you made the mistake of turning it on. Couldn't be fixed by factory resetting. Not even sure if a fix ever rolled out for that one. \n\n\nThere's definitely some major incompetence going on over at meta.",
+      "score": 12,
+      "created_utc": 1735734101.0,
+      "replies": []
+    },
+    {
+      "id": "m4qz7g8",
+      "author": "Stabmaster",
+      "body": "Happened to me Xmas morning. Returned it for a refund.  Lost a customer for good.",
+      "score": 19,
+      "created_utc": 1735677891.0,
+      "replies": []
+    },
+    {
+      "id": "m4ugwjj",
+      "author": "TimeWastingAuthority",
+      "body": "And here's *ANOTHER* argument *AGAINST* auto-updates.",
+      "score": 6,
+      "created_utc": 1735738586.0,
+      "replies": []
+    },
+    {
+      "id": "m4s8coc",
+      "author": "RockAndGames",
+      "body": "Holy shit, I was charging my quest 3 yesterday to use it (since I haven't used in a while), guess I'll wait for the fix before updating it.",
+      "score": 10,
+      "created_utc": 1735694353.0,
+      "replies": [
+        {
+          "id": "m4t0tgp",
+          "author": "mycolortv",
+          "body": "Lol same been a couple months off so guess I won't start mine up either",
+          "score": 7,
+          "created_utc": 1735706661.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m4pc6gq",
+      "author": "GuybrushBeeblebrox",
+      "body": "Lots of people left with limp penises in their hands",
+      "score": 21,
+      "created_utc": 1735659031.0,
+      "replies": [
+        {
+          "id": "m4pdg0s",
+          "author": "Aplicacion",
+          "body": "It wasn\u2019t limp",
+          "score": 13,
+          "created_utc": 1735659453.0,
+          "replies": [
+            {
+              "id": "m4pdnyo",
+              "author": "GuybrushBeeblebrox",
+              "body": "Well it's definitely limp now",
+              "score": 7,
+              "created_utc": 1735659527.0,
+              "replies": [
+                {
+                  "id": "m4pdqxj",
+                  "author": "Aplicacion",
+                  "body": "I hope that isn\u2019t a challenge",
+                  "score": 1,
+                  "created_utc": 1735659554.0,
+                  "replies": [
+                    {
+                      "id": "m4pdulf",
+                      "author": "GuybrushBeeblebrox",
+                      "body": "Accepted!",
+                      "score": 0,
+                      "created_utc": 1735659589.0,
+                      "replies": [
+                        {
+                          "id": "m4pdypn",
+                          "author": "Aplicacion",
+                          "body": "Hard dick-off! Right now!",
+                          "score": 2,
+                          "created_utc": 1735659628.0,
+                          "replies": [
+                            {
+                              "id": "m4r5qet",
+                              "author": "ambermage",
+                              "body": "If either of you is still hard at this point, you should see a doctor. \n\n*That is all.*",
+                              "score": 2,
+                              "created_utc": 1735680097.0,
+                              "replies": [
+                                {
+                                  "id": "m4s10g4",
+                                  "author": "Thr8trthrow",
+                                  "body": "Call a doctor!? I\u2019m calling the local news",
+                                  "score": 1,
+                                  "created_utc": 1735691569.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m4r2knp",
+                              "author": "ubermadface",
+                              "body": "[The hardest Dick I know of](https://en.m.wikipedia.org/wiki/Richard_I_of_England)",
+                              "score": 1,
+                              "created_utc": 1735679018.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4vsxu0",
+      "author": "WhiteWolf0908",
+      "body": "When is the fix expected to hit?",
+      "score": 2,
+      "created_utc": 1735756344.0,
+      "replies": [
+        {
+          "id": "m4vszo1",
+          "author": "WhiteWolf0908",
+          "body": "I don\u2019t want my headset to brick",
+          "score": 2,
+          "created_utc": 1735756360.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

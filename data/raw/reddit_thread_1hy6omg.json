@@ -1,0 +1,404 @@
+{
+  "post": {
+    "title": "World\u2019s first 3D-printed microscope made in under 3 hours / The microscope cost less than \u00a350 to build using an open-source design and a common 3D printer.",
+    "author": "a_Ninja_b0y",
+    "id": "1hy6omg",
+    "score": 757,
+    "created_utc": 1736522318.0,
+    "selftext": "",
+    "num_comments": 51,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hy6omg/worlds_first_3dprinted_microscope_made_in_under_3/"
+  },
+  "comments": [
+    {
+      "id": "m6ewb2d",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1736522319.0,
+      "replies": []
+    },
+    {
+      "id": "m6eyhqo",
+      "author": "narwhal_breeder",
+      "body": "Interesting project, but I dont really see *who* is supposed to use this.   \n\n\n>The required commercial components, consisting of a basic camera for image acquisition and light emitting diode controlled by a Raspberry Pi for illumination, are integrated into the 3D printed microscope with the full design shown for ease of replication. Our 3D printed microscope uses a single 3D printed objective lens with a 2.9x magnification and a numerical aperture of 0.07.\n\n  \nThere are dozens of camera microscopes, offering 2 orders of magnitude higher optical performance with dirt cheap injection molded lenses, that cost less than the camera module alone selected by the writers.  \n  \nA $40 student microscope goes to 640x with illumination and is another $20 to add a camera.",
+      "score": 125,
+      "created_utc": 1736522995.0,
+      "replies": [
+        {
+          "id": "m6f16tm",
+          "author": "lantz83",
+          "body": "Lol, 2.9x? I'll just look closer, seems easier...",
+          "score": 61,
+          "created_utc": 1736523817.0,
+          "replies": [
+            {
+              "id": "m6f1ut8",
+              "author": "Rustymarble",
+              "body": "Take a zoomed photo, it'll last longer.",
+              "score": 19,
+              "created_utc": 1736524020.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m6f5gn2",
+          "author": "cat_prophecy",
+          "body": "Unfortunately like most 3D printed stuff this is more \"a cool project you can make yourself\" rather than \"something actually useful\".",
+          "score": 34,
+          "created_utc": 1736525092.0,
+          "replies": [
+            {
+              "id": "m6jt213",
+              "author": "mymemesnow",
+              "body": "That\u2019s how it begins, with time the technique gets optimized and better. Now there\u2019s 3D printed rocket parts and other (mostly small and complex) things that would be a lot harder, more expensive and take more time to create with any other method. \n\nI\u2019m not saying that microscopes might be one of those cases, but 3D printing have some really useful applications.",
+              "score": 9,
+              "created_utc": 1736584905.0,
+              "replies": [
+                {
+                  "id": "m6k4xbh",
+                  "author": "NotEDodo",
+                  "body": "It\u2019s more immediately beneficial for fabricating individual parts rather than a full complex device",
+                  "score": 3,
+                  "created_utc": 1736592644.0,
+                  "replies": [
+                    {
+                      "id": "m6n979i",
+                      "author": "Popisoda",
+                      "body": "Now let's think of cool things to do where we could use that",
+                      "score": 1,
+                      "created_utc": 1736633396.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m6k48zr",
+              "author": "Choice-Rain4707",
+              "body": "pretty much any important invention started out as a \u201ccool project but kinda useless\u201d",
+              "score": 1,
+              "created_utc": 1736592214.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m6ibzg5",
+          "author": "WoolooOfWallStreet",
+          "body": "Probably as a proof of concept of what they do, because part of the article that can be read said \u201c[Gail McConnell] and her colleagues previously worked out how to 3D-print lenses like those used in microscopes, which led to the breakthrough.\u201c\n\nThis is similar to when Oak Ridge National Laboratory made a 3D printed Shelby Cobra\n\nhttps://www.energy.gov/eere/ammto/3d-printed-shelby-cobra\n\nMaking a Shelby Cobra wasn\u2019t the important part: *it\u2019s that an entire car design or prototype can become a full fledged working car in 6 weeks*\n\nIn this case, the important part isn\u2019t that a microscope was made: *it\u2019s that a microscope and its optics can be made in under 3 hours*\n\nImagine you have a new, custom, very niche lens design that you need for whatever reason in a microscope or even a new microscope design itself. Using their methods, you can make it *yourself* in under 3 hours instead of possibly trying to call manufacturers for a quote on making the lens you need. It might take a week for the lens to finally be made and have the payment go through and then possibly another week for that custom lens to finally get to you\n\nThat\u2019s 2 weeks\n\nThat\u2019s 336 hours\n\nNow it can be made in 3 hours\n\nThat\u2019s impressive\n\nThat\u2019s faster than most shipping options for things that are already made in bulk or in warehouses",
+          "score": 5,
+          "created_utc": 1736560251.0,
+          "replies": []
+        },
+        {
+          "id": "m6hmbal",
+          "author": "Alltimesnowman",
+          "body": "One of the primary benefits of this design is that it provides a research-grade motorised microscope with very nice software for ~$100 dollars. This model is fairly common in research labs in the UK because with a bit of tinkering they can perform similarly to a piece of equipment which is 100x its price. They can also be run from batteries and they are compatible with traditional objectives. The team are increasingly working to deploy them in low-income nations and actually making good progress on this. I did a PhD on low-cost microscopy for diagnosis in low-resource settings and this is one of the most interesting devices in the field I think.",
+          "score": 6,
+          "created_utc": 1736551523.0,
+          "replies": [
+            {
+              "id": "m6hmtk6",
+              "author": "narwhal_breeder",
+              "body": "Reaserch grade is 2.9x magnification?",
+              "score": 5,
+              "created_utc": 1736551694.0,
+              "replies": [
+                {
+                  "id": "m6ho2ty",
+                  "author": "Alltimesnowman",
+                  "body": "You can use any objective with the microscope's body, there are several publications related to this design. This new publication is focused on 3d printing the lenses, so the optics have a coarse magnification. Really the main benefit of the openflexure microscope design is as a motorised scanning microscope with high precision and easy reproduction. \n\nBut yes, many microscopes in research labs will be low magnification. If you google \"inspection microscope\" you can see what I mean, they have low magnification.",
+                  "score": 2,
+                  "created_utc": 1736552119.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m6goi0w",
+          "author": "New_Sail_7821",
+          "body": "Cool projects for students to make and then use",
+          "score": 2,
+          "created_utc": 1736541039.0,
+          "replies": []
+        },
+        {
+          "id": "m6h07nk",
+          "author": "Level_Forger",
+          "body": "I think this is more a step towards printing even more complex items than a microscope they\u2019re expecting people to use a lot.\u00a0",
+          "score": 1,
+          "created_utc": 1736544512.0,
+          "replies": []
+        },
+        {
+          "id": "m6pxk3a",
+          "author": "smediumtshirt",
+          "body": "It\u2019s for people who want to make items they want/need without relying on mass production to acquire the things.",
+          "score": 1,
+          "created_utc": 1736673249.0,
+          "replies": []
+        },
+        {
+          "id": "m6fjm3g",
+          "author": "Rahnzan",
+          "body": "The Wright Brothers invented a flying device that only goes 36 meters before crashing into the ground.  Who is this for?!  Let me just fly to the end of the block and smash into my neighbor's living room.  Absolutely foolish.",
+          "score": -3,
+          "created_utc": 1736529204.0,
+          "replies": [
+            {
+              "id": "m6fnwuk",
+              "author": "VietOne",
+              "body": "Except there's a big difference.\n\n\nFlying wasn't a well developed industry and there wasn't significantly better products at the time.\n\n\nHere, Microscopes are very cheap. It's a well developed industry with a wide range of products.\n\n\nSure, this is cool that if you didn't have access to a microscope by any means. but when you can buy one that is as good or better for the same cost, as you'll still need to source many components, then why would you print one and rely on the tolerances of 3D printers.",
+              "score": 9,
+              "created_utc": 1736530440.0,
+              "replies": [
+                {
+                  "id": "m6g4fd0",
+                  "author": "rpithrew",
+                  "body": "The whole democratizing of sciences starts with projects like this, it\u2019s a balance of low cost, open source STL for customizability and reproducibility relative to materials.  Although it\u2019s probably cheaper to obtain something prefabbed , the fabrication of it is something equally valuable. I\u2019m surprised it wasn\u2019t published to the HardwareX journal",
+                  "score": 1,
+                  "created_utc": 1736535178.0,
+                  "replies": [
+                    {
+                      "id": "m6g9h5r",
+                      "author": "VietOne",
+                      "body": "Low cost would be not needing a 3d printer which in itself isn't low cost for something that produces with good tolerances.\n\n\nMany of these components being 3D printed could have been sourced from a hardware store which would be more accessible and consistent.",
+                      "score": 2,
+                      "created_utc": 1736536653.0,
+                      "replies": [
+                        {
+                          "id": "m6h0e9p",
+                          "author": "SimplyRocketSurgery",
+                          "body": "3d printing can do a lot.\n\nReplicating mass-produced parts is not one of them...",
+                          "score": 1,
+                          "created_utc": 1736544567.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m6g8sqb",
+                      "author": "Rahnzan",
+                      "body": "The guy completely missed the point I was making.  These applications will get better, and they go both ways.  Imagine a medical grade 3d printer.",
+                      "score": 1,
+                      "created_utc": 1736536445.0,
+                      "replies": [
+                        {
+                          "id": "m6gzquy",
+                          "author": "SimplyRocketSurgery",
+                          "body": ">Imagine a medical grade 3d printer\n\nI work on those. They print in biocompatable ceramics and titanium.",
+                          "score": 1,
+                          "created_utc": 1736544373.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m6g76t2",
+                      "author": "SsooooOriginal",
+                      "body": "So many of yall spew bullshit so easily just to debase your own statements. Democratizing of science? Through over engineered and overpriced AND underpowered microscopes? Get fucking real you ignorant clown. The chemicals are locked down and there's no amount of 3d printing that will reverse that. If you don't understand what that means then you have no business talking about \"democratizing of science\".\u00a0",
+                      "score": -3,
+                      "created_utc": 1736535968.0,
+                      "replies": [
+                        {
+                          "id": "m6h17sg",
+                          "author": "SimplyRocketSurgery",
+                          "body": "I'm on your side here bud.\n\nThis is not a solution, but a hobby project for bored people.",
+                          "score": 2,
+                          "created_utc": 1736544813.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m6gxejx",
+                          "author": "Vyse1991",
+                          "body": "The lens is printed in a formlabs printer with formlabs resin, but I do know that they had decent success using an Elegoo Mars 2 pro as well. Definitely attainable, but not exactly achievable for most.",
+                          "score": 1,
+                          "created_utc": 1736543671.0,
+                          "replies": [
+                            {
+                              "id": "m6h0389",
+                              "author": "SimplyRocketSurgery",
+                              "body": ">The lens is printed in a formlabs printer with formlabs resin\n\nSo a 4000usd printer and 125usd per liter resin.\n\nSo democratic.",
+                              "score": 2,
+                              "created_utc": 1736544476.0,
+                              "replies": [
+                                {
+                                  "id": "m6h30jd",
+                                  "author": "Vyse1991",
+                                  "body": "I'm well aware. None of the work is particularly novel or attainable for the people it would claim to benefit - but that's sadly down to the way journals work. Gotta have that impact statement.",
+                                  "score": 1,
+                                  "created_utc": 1736545352.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m6gz10c",
+                              "author": "SsooooOriginal",
+                              "body": "It's a time and money sink to make a less functional item that can be had better and for less relatively easily. Shit, I can walk to store and buy like 3 or 4 better camera microscopes and be home in less than three hours and have saved money still and then some when you account for the actual printer, resin, and the actual non printed necessary components and the shipping on top of all that. This isn't a boon to remote villages or schools. This is bullshit click bait and I'm sick of people giving it any time and energy. Yall should be making custom grips for controllers and mice and shit or epic miniatures or duplicating autoparts that are hard to source.\u00a0",
+                              "score": 0,
+                              "created_utc": 1736544157.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m6g6d5z",
+          "author": "SsooooOriginal",
+          "body": "Why? Because we engage with the content and these people get paid for it. This is truly not so different than the useless diy dresser to pop-not-all-the-way-up TV stand tiktok influencer vid I saw earlier.\n\n\nWe are at a point of success where we have to make shit up to justify our existence because we have allowed a ridiculously small portion of the population to hold incredible sway over our daily lives.\u00a0\n\n\nMicroscopes are abundantly available. They are useful tools. There is absolutely no reasonable explanation for this project other than a \"look what I did so I get paid, I wasted time and so are you engaging with this turd I polished\".\u00a0",
+          "score": -1,
+          "created_utc": 1736535729.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m6exxmf",
+      "author": "Mobely",
+      "body": "Source for the optical\nComponents?",
+      "score": 28,
+      "created_utc": 1736522825.0,
+      "replies": [
+        {
+          "id": "m6f1xpz",
+          "author": "TennSeven",
+          "body": "If you go to the [OpenFlexure](https://openflexure.org/projects/microscope/) website and click on \"Buy a Microscope\" they have links to vendors like [Taulab ](https://taulab.eu/)that sell the lenses and whatnot.",
+          "score": 12,
+          "created_utc": 1736524043.0,
+          "replies": []
+        },
+        {
+          "id": "m6gwqge",
+          "author": "Vyse1991",
+          "body": "I have some knowledge of this project, as well as others that one of these researchers worked on.\n\nI know that they created a number of lenses using formlabs printers and resin, and then post processed them in a centrifuge to eliminate layer lines.",
+          "score": 2,
+          "created_utc": 1736543471.0,
+          "replies": [
+            {
+              "id": "m6h0s0q",
+              "author": "SimplyRocketSurgery",
+              "body": ">I know that they created a number of lenses using formlabs printers and resin, and then post processed them in a centrifuge to eliminate layer lines.\n\nThis is great for experimental optics, but how is this cheaper and than injection moulding the lenses? \n\nIt's not.",
+              "score": 1,
+              "created_utc": 1736544682.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m6ex1el",
+      "author": "a_Ninja_b0y",
+      "body": "Articles paywalled, read it here :-\u00a0https://www.biorxiv.org/content/10.1101/2024.12.16.628684v1",
+      "score": 24,
+      "created_utc": 1736522548.0,
+      "replies": [
+        {
+          "id": "m6ezzs6",
+          "author": "a_Ninja_b0y",
+          "body": "Why the hell am I being downvoted? I just want to provide an alternative source.",
+          "score": 7,
+          "created_utc": 1736523455.0,
+          "replies": [
+            {
+              "id": "m6f8b6g",
+              "author": "Suired",
+              "body": "You found the site owners.",
+              "score": 11,
+              "created_utc": 1736525933.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m6gzdsy",
+      "author": "gorkish",
+      "body": "https://openflexure.org actually has been around for many years (they are on the 7th revision of the design) It is a quite legitimate lab grade instrument.\n\nKind of a tenuous claim to call \u201cfirst\u201d a decade later just because you stuffed a crappy resin lens in it",
+      "score": 6,
+      "created_utc": 1736544264.0,
+      "replies": []
+    },
+    {
+      "id": "m6kx0ab",
+      "author": "KrackSmellin",
+      "body": "There should be a rule against posting this if you\u2019re not going to provide an excerpt yourself to sites that require subscriptions or to register to read.",
+      "score": 3,
+      "created_utc": 1736606401.0,
+      "replies": []
+    },
+    {
+      "id": "m6fypjw",
+      "author": "Hagisman",
+      "body": "I\u2019m betting some techbro is gonna use this to sell low quality products at inflated prices hoping that \u201c3D printed\u201d will make illinformed customers buy them.",
+      "score": 3,
+      "created_utc": 1736533533.0,
+      "replies": []
+    },
+    {
+      "id": "m6gcsgw",
+      "author": "johnp299",
+      "body": "The one other 3D printed microscope I've seen has off-the-shelf optics and definitely not as cheap as title says.",
+      "score": 1,
+      "created_utc": 1736537608.0,
+      "replies": []
+    },
+    {
+      "id": "m6g9d36",
+      "author": "Mercutio999",
+      "body": "There may be cheaper stuff off the shelf, but 3d printer owners *love* printing stuff because they can! It\u2019s a hobby that people learn from, and can improve the designs, and be a part of a community. Kids especially can benefit from creating things like this.",
+      "score": 0,
+      "created_utc": 1736536629.0,
+      "replies": [
+        {
+          "id": "m6jdp4h",
+          "author": "JaggedMetalOs",
+          "body": "According to the full paper the process of printing the lenses is quite involved requiring a high quality resin printer and a vacuum chamber, it's probably a step above hobby grade 3D printing.",
+          "score": 1,
+          "created_utc": 1736575602.0,
+          "replies": [
+            {
+              "id": "m6jf7n3",
+              "author": "Mercutio999",
+              "body": "I meant the main printable bits",
+              "score": 1,
+              "created_utc": 1736576438.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m6g9cow",
+      "author": "Mercutio999",
+      "body": "There may be cheaper stuff off the shelf, but 3d printer owners *love* printing stuff because they can! It\u2019s a hobby that people learn from, and can improve the designs, and be a part of a community. Kids especially can benefit from creating things like this.",
+      "score": -2,
+      "created_utc": 1736536629.0,
+      "replies": []
+    },
+    {
+      "id": "m6g9ejo",
+      "author": "Mercutio999",
+      "body": "There may be cheaper stuff off the shelf, but 3d printer owners *love* printing stuff because they can! It\u2019s a hobby that people learn from, and can improve the designs, and be a part of a community. Kids especially can benefit from creating things like this.",
+      "score": -2,
+      "created_utc": 1736536638.0,
+      "replies": []
+    }
+  ]
+}

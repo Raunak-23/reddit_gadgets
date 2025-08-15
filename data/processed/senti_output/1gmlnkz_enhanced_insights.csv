@@ -1,0 +1,49 @@
+metric,value
+file,1gmlnkz.csv
+title,Cops in Detroit are freaked out about a wave of iPhones in their custody rebooting without warning | The reboot makes it much harder for law enforcement to search the devices for evidence.
+rows,417
+num_posts,1
+num_comments,416
+unique_authors,244
+max_depth,16
+avg_comment_words,59.27
+median_comment_words,49.0
+max_comment_words,271
+positive_count,31
+negative_count,385
+neutral_count,0
+positive_pct,7.452
+negative_pct,92.548
+neutral_pct,0.0
+topic_1_keywords,"press, right, choose, corner, top, time, set, check"
+topic_1_label,press right and check the corner
+topic_2_keywords,"phone, encryption, storage, warrant, memory, unlocked, get, key"
+topic_2_label,encryption of phone
+topic_3_keywords,"phone, passcode, one, iphone, silent, im, android, feature"
+topic_3_label,A phone with a passcode and a phone with a phone with a phone with a phone with a phone with
+topic_4_keywords,"phone, dont, would, pin, police, get, unlock, device"
+topic_4_label,phone don't lock up
+topic_5_keywords,"phone, biometrics, use, password, people, unlock, security, device"
+topic_5_label,Using biometrics on phone
+topic_6_keywords,"phone, restart, button, password, code, times, device, cant"
+topic_6_label,phone restarts button
+top_ngram_1,top right (60)
+top_ngram_2,right corner (60)
+top_ngram_3,top right corner (60)
+top_ngram_4,corner choose (40)
+top_ngram_5,right corner choose (40)
+top_ngram_6,shortcuts app (26)
+top_ngram_7,run immediately (25)
+top_ngram_8,lock screen (24)
+top_ngram_9,reboots every (23)
+top_ngram_10,phone unlocked (23)
+ner_1,iOS|MISC|38
+ner_2,Android|MISC|36
+ner_3,iPhone|MISC|33
+ner_4,Apple|ORG|22
+ner_5,US|LOC|17
+ner_6,Samsung|ORG|16
+ner_7,Automation|ORG|13
+ner_8,iPhone 16|MISC|9
+ner_9,American|MISC|9
+ner_10,IIRC|ORG|8

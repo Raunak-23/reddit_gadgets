@@ -1,0 +1,49 @@
+metric,value
+file,1guxqti.csv
+title,Microsoft is launching a $349 desktop PC that only runs Windows 11 by streaming it from the cloud — is this the future of desktop computing?
+rows,35
+num_posts,1
+num_comments,34
+unique_authors,26
+max_depth,5
+avg_comment_words,28.38
+median_comment_words,18.5
+max_comment_words,168
+positive_count,6
+negative_count,28
+neutral_count,0
+positive_pct,17.647
+negative_pct,82.353
+neutral_pct,0.0
+topic_1_keywords,"windows, 365, microsoft, device, education, want, would, comes"
+topic_1_label,microsoft 365 microsoft device
+topic_2_keywords,"still, macbook, years, old, pro, year, air, expensive"
+topic_2_label,old macbook still in air
+topic_3_keywords,"thin, client, use, work, im, clients, companies, things"
+topic_3_label,business im for thin clients
+topic_4_keywords,"future, computer, fast, internet, power, efficient, fucking, budget"
+topic_4_label,fucking budget for future computer
+topic_5_keywords,"often, expensive, like, less, pc, want, chrome, new"
+topic_5_label,pc likes chrome and wants less
+topic_6_keywords,"mac, mini, 599, buy, probably, chip, m4, new"
+topic_6_label,m4 is a new chip in mac
+top_ngram_1,mac mini (7)
+top_ngram_2,probably buy (4)
+top_ngram_3,buy new (4)
+top_ngram_4,new mac (4)
+top_ngram_5,mini m4 (4)
+top_ngram_6,m4 chip (4)
+top_ngram_7,chip 599 (4)
+top_ngram_8,probably buy new (4)
+top_ngram_9,buy new mac (4)
+top_ngram_10,new mac mini (4)
+ner_1,Mac|MISC|5
+ner_2,Mac Mini|MISC|5
+ner_3,Windows 365|MISC|3
+ner_4,M1 MacBook Air|MISC|2
+ner_5,MacBook Pro|MISC|2
+ner_6,MacBook pro|MISC|2
+ner_7,MacBook|MISC|2
+ner_8,Microsoft|ORG|2
+ner_9,Windows|MISC|2
+ner_10,ID|MISC|1

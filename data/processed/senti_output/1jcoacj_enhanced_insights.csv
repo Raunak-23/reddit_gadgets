@@ -1,0 +1,49 @@
+metric,value
+file,1jcoacj.csv
+title,"From sterilising baby bottles to charging laptops, some Australians powered through Cyclone Alfred using EV batteries"
+rows,37
+num_posts,1
+num_comments,36
+unique_authors,20
+max_depth,9
+avg_comment_words,47.81
+median_comment_words,39.5
+max_comment_words,188
+positive_count,11
+negative_count,25
+neutral_count,0
+positive_pct,30.556
+negative_pct,69.444
+neutral_pct,0.0
+topic_1_keywords,"power, youre, ev, back, go, would, still, generator"
+topic_1_label,if you are back and back and you want to go back and back and back and back and back and back and back and back and back
+topic_2_keywords,"ford, capable, inverter, byds, bought, battery, australia, hurricane"
+topic_2_label,Australia's fords buy battery in australia
+topic_3_keywords,"better, generator, power, going, use, battery, ev, job"
+topic_3_label,generators use power to power generators
+topic_4_keywords,"using, house, good, dont, gas, ice, engine, lmao"
+topic_4_label,lmao uses ice in house
+topic_5_keywords,"materials, costs, big, build, labor, like, sucked, usa"
+topic_5_label,sucked in the usa
+topic_6_keywords,"australia, cars, didnt, yeah, make, sense, knew, makes"
+topic_6_label,Australian cars made sense
+top_ngram_1,going better (6)
+top_ngram_2,ev power (6)
+top_ngram_3,hurricane sandy (4)
+top_ngram_4,years ago (4)
+top_ngram_5,still need (4)
+top_ngram_6,would still (4)
+top_ngram_7,negative charged (4)
+top_ngram_8,charged youre (4)
+top_ngram_9,youre inverted (4)
+top_ngram_10,power ev (4)
+ner_1,Australia|LOC|11
+ner_2,Ford|ORG|6
+ner_3,AC|MISC|3
+ner_4,americ|MISC|3
+ner_5,Hyundai|ORG|2
+ner_6,F150|MISC|2
+ner_7,Ford F150|MISC|2
+ner_8,Hawaii|LOC|2
+ner_9,F1|MISC|2
+ner_10,USA|LOC|2

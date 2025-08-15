@@ -1,0 +1,49 @@
+metric,value
+file,1j4szct.csv
+title,"Sony's PS3 gets new system software update, 19 years after release"
+rows,168
+num_posts,1
+num_comments,167
+unique_authors,132
+max_depth,8
+avg_comment_words,34.93
+median_comment_words,25.0
+max_comment_words,293
+positive_count,21
+negative_count,146
+neutral_count,0
+positive_pct,12.575
+negative_pct,87.425
+neutral_pct,0.0
+topic_1_keywords,"like, dont, ps3, old, feel, turn, remember, collection"
+topic_1_label,like don ps3 old feel like don ps3
+topic_2_keywords,"ps3, keys, cant, updating, bluray, keep, updated, players"
+topic_2_label,ps3 cant bluray updates
+topic_3_keywords,"ps3, new, player, key, one, blu, ray, playing"
+topic_3_label,ps3 player key one blu ray playing
+topic_4_keywords,"im, ps3, update, bluray, dont, blu, ray, time"
+topic_4_label,ips3 update bluray rays
+topic_5_keywords,"still, use, watching, im, curious, things, physical, movies"
+topic_5_label,i am curious about things in movies
+topic_6_keywords,"years, 19, ago, like, released, update, get, ps5"
+topic_6_label,ps5 update : ps5
+top_ngram_1,blu ray (30)
+top_ngram_2,still use (17)
+top_ngram_3,years ago (15)
+top_ngram_4,im curious (13)
+top_ngram_5,curious many (13)
+top_ngram_6,many people (13)
+top_ngram_7,people still (13)
+top_ngram_8,use things (13)
+top_ngram_9,things watching (13)
+top_ngram_10,watching movies (13)
+ner_1,PS3|MISC|53
+ner_2,Bluray|MISC|26
+ner_3,PS4|MISC|19
+ner_4,PS|ORG|14
+ner_5,##3|MISC|13
+ner_6,Sony|ORG|11
+ner_7,IHS|ORG|5
+ner_8,Harrier Jump Jet|MISC|5
+ner_9,PS3|ORG|4
+ner_10,HDMI|MISC|4

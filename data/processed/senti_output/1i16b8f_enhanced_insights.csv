@@ -1,0 +1,45 @@
+metric,value
+file,1i16b8f.csv
+title,This Pool Robot Is the First With Ultrasonic Mapping
+rows,12
+num_posts,1
+num_comments,11
+unique_authors,12
+max_depth,2
+avg_comment_words,24.27
+median_comment_words,23.0
+max_comment_words,56
+positive_count,5
+negative_count,6
+neutral_count,0
+positive_pct,45.455
+negative_pct,54.545
+neutral_pct,0.0
+topic_1_keywords,"article, wow, wonder, worldsaving, existing, technology, new, theyre"
+topic_1_label,awful worldsaving article
+topic_2_keywords,"first, use, robot, wow, lot, wonder, worldsaving, technology"
+topic_2_label,robots are used in worldsaving technology
+topic_3_keywords,"robot, mine, par, like, definitely, current, breaks, 159999"
+topic_3_label,robots like to see the current and break the current
+topic_4_keywords,"robot, use, first, par, definitely, 159999, breaks, cleaning"
+topic_4_label,robots use first par for cleaning
+topic_5_keywords,"wow, worldsaving, wonder, technology, asking, theyre, new, sense"
+topic_5_label,wonder in technology
+topic_6_keywords,"zima, blue, begun, journey, thought, first, use, robot"
+topic_6_label,robots use zima to travel
+top_ngram_1,zima blue (3)
+top_ngram_2,blue begun (3)
+top_ngram_3,begun journey (3)
+top_ngram_4,zima blue begun (3)
+top_ngram_5,blue begun journey (3)
+top_ngram_6,wow new (3)
+top_ngram_7,new application (3)
+top_ngram_8,application existing (3)
+top_ngram_9,existing technology (3)
+top_ngram_10,technology doesnt (3)
+ner_1,Zima Blue|ORG|3
+ner_2,##tor|ORG|1
+ner_3,Amazon ai|MISC|1
+ner_4,Rob|ORG|1
+ner_5,Unihertz Jelly Max|MISC|1
+ner_6,Worlds Smallest 5G Smartphone|MISC|1

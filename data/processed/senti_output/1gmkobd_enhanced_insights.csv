@@ -1,0 +1,49 @@
+metric,value
+file,1gmkobd.csv
+title,Man sick of desktop crashes sues Intel for allegedly hiding CPU defect(s) — “Intel had a duty to disclose the defect because the defect is material and Intel possessed exclusive knowledge of it.”
+rows,134
+num_posts,1
+num_comments,133
+unique_authors,81
+max_depth,9
+avg_comment_words,56.4
+median_comment_words,38.0
+max_comment_words,254
+positive_count,15
+negative_count,118
+neutral_count,0
+positive_pct,11.278
+negative_pct,88.722
+neutral_pct,0.0
+topic_1_keywords,"intel, amd, boeing, guy, soduku, processor, years, longevity"
+topic_1_label,"Intel, Amd, Boeing, Guy, Soduku, processor"
+topic_2_keywords,"im, may, ive, legion, going, process, isnt, intel"
+topic_2_label,iii iii iii iii iii iii iii
+topic_3_keywords,"thats, day, seppuku, going, crashes, pretty, dude, much"
+topic_3_label,a dude crashes a seppuku on a sunny day
+topic_4_keywords,"intel, issue, chips, reddit, get, new, voltage, know"
+topic_4_label,intel issues chips and reddit
+topic_5_keywords,"nothing, im, sudoku, intel, bios, fix, done, commits"
+topic_5_label,nothing i am a sudoku intel
+topic_6_keywords,"cpu, new, save, updates, macos, ssd, mac, intel"
+topic_6_label,"cpu, new, updates, macOS, ssd, mac"
+top_ngram_1,raptor lake (15)
+top_ngram_2,sudoku like (15)
+top_ngram_3,nothing black (14)
+top_ngram_4,black screens (14)
+top_ngram_5,screens raptor (14)
+top_ngram_6,lake im (14)
+top_ngram_7,im fed (14)
+top_ngram_8,fed nothing (14)
+top_ngram_9,nothing bios (14)
+top_ngram_10,bios settings (14)
+ner_1,Intel|ORG|50
+ner_2,Boeing|ORG|14
+ner_3,Raptor Lake|MISC|14
+ner_4,AMD|ORG|13
+ner_5,Mac|MISC|7
+ner_6,PC|MISC|7
+ner_7,Lenovo Legion|ORG|6
+ner_8,US|LOC|6
+ner_9,macOS|MISC|5
+ner_10,Gen|MISC|4

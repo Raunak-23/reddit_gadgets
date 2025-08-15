@@ -1,0 +1,49 @@
+metric,value
+file,1gjh58v.csv
+title,"New Geekbench leak shows Ryzen 7 9800X3D running at 5.46 GHz, outperforming the 7800X3D by 24 percent. "
+rows,32
+num_posts,1
+num_comments,31
+unique_authors,25
+max_depth,5
+avg_comment_words,43.52
+median_comment_words,31.0
+max_comment_words,115
+positive_count,3
+negative_count,28
+neutral_count,0
+positive_pct,9.677
+negative_pct,90.323
+neutral_pct,0.0
+topic_1_keywords,"ryzen, 9800x3d, 7800x3d, 5800x3d, thermal, moved, dont, intel"
+topic_1_label,"ryzen, 9800x3d, 7800x3d, 5800x3d, thermal, moved"
+topic_2_keywords,"new, amd, socket, like, chips, looking, mid, soon"
+topic_2_label,i like chips and looking mid
+topic_3_keywords,"im, upgrade, 7800x3d, little, man, bit, performance, sucker"
+topic_3_label,"i am upgrading 7800x3d, little man, bit, performance"
+topic_4_keywords,"one, gaming, power, really, get, series, 9000, 7800x3d"
+topic_4_label,"gaming, power, gaming, power, a series"
+topic_5_keywords,"wonder, know, good, got, sound, ive, 9800, sff"
+topic_5_label,iii iii iii iii iii iii iii
+topic_6_keywords,"cpu, gaming, pc, cold, yeah, heat, cooling, gpu"
+topic_6_label,gpu cooling gpu
+top_ngram_1,upgrade 7800x3d (7)
+top_ngram_2,im hurry (6)
+top_ngram_3,hurry upgrade (6)
+top_ngram_4,7800x3d man (6)
+top_ngram_5,man im (6)
+top_ngram_6,im sucker (6)
+top_ngram_7,sucker little (6)
+top_ngram_8,little bit (6)
+top_ngram_9,bit performance (6)
+top_ngram_10,im hurry upgrade (6)
+ner_1,AMD|ORG|3
+ner_2,Intel|ORG|2
+ner_3,THE RYZEN|ORG|2
+ner_4,##bench|MISC|1
+ner_5,##T|MISC|1
+ner_6,##20|MISC|1
+ner_7,##vidia|ORG|1
+ner_8,5000|MISC|1
+ner_9,CPU|MISC|1
+ner_10,##zen|MISC|1

@@ -1,0 +1,49 @@
+metric,value
+file,1hcprif.csv
+title,"Google Unveils Mixed-Reality Headset With Samsung, Taking on Apple and Meta"
+rows,57
+num_posts,1
+num_comments,56
+unique_authors,40
+max_depth,10
+avg_comment_words,79.32
+median_comment_words,32.5
+max_comment_words,472
+positive_count,6
+negative_count,26
+neutral_count,24
+positive_pct,10.714
+negative_pct,46.429
+neutral_pct,42.857
+topic_1_keywords,"google, headset, samsung, support, months, hardware, ends, discontinues"
+topic_1_label,Google headsets end in support
+topic_2_keywords,"apple, software, meta, get, im, hardware, ways, theyre"
+topic_2_label,Apple 's software and software get a lot of im
+topic_3_keywords,"gamers, early, even, market, people, many, theyre, headset"
+topic_3_label,gamers and headsets in the market
+topic_4_keywords,"vr, like, google, get, meta, gaming, reality, think"
+topic_4_label,Google likes gaming
+topic_5_keywords,"google, android, xr, headset, long, didnt, version, glasses"
+topic_5_label,Google xr headset with long glasses
+topic_6_keywords,"vr, os, best, get, market, developing, device, entire"
+topic_6_label,"vr, os, best, developing device"
+top_ngram_1,mixed reality (14)
+top_ngram_2,months google (9)
+top_ngram_3,google ends (9)
+top_ngram_4,ends ar (9)
+top_ngram_5,ar headset (9)
+top_ngram_6,headset partnership (9)
+top_ngram_7,partnership samsung (9)
+top_ngram_8,samsung discontinues (9)
+top_ngram_9,discontinues hardware (9)
+top_ngram_10,hardware software (9)
+ner_1,Google|ORG|47
+ner_2,Samsung|ORG|17
+ner_3,Meta|ORG|8
+ner_4,Android XR|MISC|6
+ner_5,Quest|MISC|5
+ner_6,Metas|ORG|4
+ner_7,Apple|ORG|4
+ner_8,Android|MISC|4
+ner_9,##culus|ORG|3
+ner_10,##dit|ORG|3

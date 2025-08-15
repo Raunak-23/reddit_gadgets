@@ -1,0 +1,347 @@
+{
+  "post": {
+    "title": "Newly finalized BTF 3.0 standard simplifies cable management in DIY PC builds | New backside 50-pin motherboard connector supplies up to 1,500W",
+    "author": "chrisdh79",
+    "id": "1hskmmd",
+    "score": 183,
+    "created_utc": 1735904422.0,
+    "selftext": "",
+    "num_comments": 40,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hskmmd/newly_finalized_btf_30_standard_simplifies_cable/"
+  },
+  "comments": [
+    {
+      "id": "m562lly",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1735904423.0,
+      "replies": []
+    },
+    {
+      "id": "m59jius",
+      "author": "popeter45",
+      "body": "at this point just socket GPU's, also lets us chose the cooling option",
+      "score": 17,
+      "created_utc": 1735946036.0,
+      "replies": []
+    },
+    {
+      "id": "m5692md",
+      "author": "Drizznarte",
+      "body": "GPU power running through the motherboard sound like a terrible idea ! No Asus we don't want to be forced to buy both your gf card and your motherboard. This is not a industry standerd. It's a bespoke connector so rich people can pay more for the same product.",
+      "score": 41,
+      "created_utc": 1735907760.0,
+      "replies": [
+        {
+          "id": "m56ke41",
+          "author": "Durahl",
+          "body": "It's not like the routing goes across half the Motherboard... At worst it'd probably be like 5-10cm along the edge through a stack of thick Planes being Via'd together to mesh them together into almost forming a Busbar potentially being less of an issue than what we currently have to work with... ( really... why they're not just using something akin to a bespoke XT60/90 connector in combination with two thick Wires instead of the old and new PCIe Connectors is beyond me )\n\nThat being said... ***~~ASUS~~*** can fuck right off any of my purchase consideration lists.",
+          "score": 17,
+          "created_utc": 1735912603.0,
+          "replies": []
+        },
+        {
+          "id": "m58i074",
+          "author": "Jaack18",
+          "body": "Asus didn\u2019t design this or build the prototype.",
+          "score": 14,
+          "created_utc": 1735934332.0,
+          "replies": [
+            {
+              "id": "m5d2ol6",
+              "author": "Drizznarte",
+              "body": "The BTF standerd , was created and developed by Asus. That's what this team is developing , and they did it on an Asus board. The design standard was developed and promoted by ASUS. https://press.asus.com/news/press-releases/asus-btf-motherboards-graphics-cards/",
+              "score": 3,
+              "created_utc": 1736003885.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m56ep5n",
+          "author": "Starfox-sf",
+          "body": "Yeah let\u2019s reuse ISA connectors without keying to shove 1500W of power. What could possibly go wrong? /s",
+          "score": 7,
+          "created_utc": 1735910294.0,
+          "replies": []
+        },
+        {
+          "id": "m56na65",
+          "author": "trixel121",
+          "body": "but look huw clean my case is!",
+          "score": 0,
+          "created_utc": 1735913713.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m587hmq",
+      "author": "trainbrain27",
+      "body": "Nope.\n\nNope to 1.5 kilowatts through the motherboard, and nope to 1.5 kilowatts in general.\n\nThat's a space heater. Not \"that's as much power as a space heater\" That's 1.5 kilowatts of heat, because that's what the power turns into while it pushes data around.\n\nThere are applications that need that, but most of it is going to waste and bloat.",
+      "score": 18,
+      "created_utc": 1735931208.0,
+      "replies": [
+        {
+          "id": "m58br3f",
+          "author": "Affectionate-Memory4",
+          "body": "It's also the max amount a north American 120V outlet can provide unless it is on specific dedicated circuits with a high-current breaker.",
+          "score": 20,
+          "created_utc": 1735932475.0,
+          "replies": [
+            {
+              "id": "m58fzym",
+              "author": "trainbrain27",
+              "body": "The National Electric Code says you should only use 80% continuously, which is why most space heaters I've seen hit 1500w at max power.\n\nIf you're using the full 120 volts at 15 amps, it's 1800 watts, and some things like hair dryers claim 1875 (125\\*15 if you can get it).\n\nDad still calls mains power 110, which was historically accurate, but in the US, it's 120, permitting variance between 114 and 126.  The vast majority of devices will take a good range so they can work around the world, which generally gives them excellent tolerance. My desktop claims to work between 100 and 250 volts, and my laptop charger is even wider.",
+              "score": 13,
+              "created_utc": 1735933734.0,
+              "replies": [
+                {
+                  "id": "m58qhfp",
+                  "author": "Affectionate-Memory4",
+                  "body": "Yup. 1500W should be what applies to a PC. A milti-hour gaming session pretty quickly gets into that continuous load territory.",
+                  "score": 1,
+                  "created_utc": 1735936939.0,
+                  "replies": [
+                    {
+                      "id": "m5cb2qi",
+                      "author": "danielv123",
+                      "body": "Do they really? In my experience I don't even get close. Depends on the game I guess",
+                      "score": 6,
+                      "created_utc": 1735991696.0,
+                      "replies": [
+                        {
+                          "id": "m5eiddc",
+                          "author": "Affectionate-Memory4",
+                          "body": "No PC should be right now, but if we're going into a world where 575W GPUs exist, we inch closer to that limit.\n\n1500W is a safety limiter imposed on devices connected to North America 120V outlets. A typical 15A circuit is good for 1800W, and the continuous load limit is 1500W, 80% of the maximum.",
+                          "score": 2,
+                          "created_utc": 1736020264.0,
+                          "replies": [
+                            {
+                              "id": "m5erdy9",
+                              "author": "danielv123",
+                              "body": "No, I mean I don't get close to pulling the rated tdp continuously while gaming. I don't see why that would change with 575w or 1500w GPUs.",
+                              "score": 3,
+                              "created_utc": 1736023177.0,
+                              "replies": [
+                                {
+                                  "id": "m5eu2za",
+                                  "author": "Affectionate-Memory4",
+                                  "body": "That heavily depends on what the computer is doing. Your situation is not universal. I regularly see my 7900XTX sit at its full 355W for up to an hour running the right workloads. In gaming it usually tops out around 330W if I'm GPU limited.\n\nA GPU's TDP is how much power it is allowed to pull. If it is rated for 575W, you can bet there is a scenario where it pulls that much power and those conditions can exist for extended periods.\n\nIn my case, that's been fluid simulation recently, but even 330W, 93% of TDP, would still translate to 535W on a 575W card. 205W more.\n\nI do not mean that my setup is currently anywhere near 1.5kW. When I said a multi-hour gaming session is in continuous load territory, I meant that you should be following the 1.5kW limit, not the 1.8kW maximum.",
+                                  "score": -1,
+                                  "created_utc": 1736024055.0,
+                                  "replies": [
+                                    {
+                                      "id": "m5f2j4v",
+                                      "author": "danielv123",
+                                      "body": "Fluid sim sure, my training runs generally also keep it close to maxed. That's not gaming though",
+                                      "score": 3,
+                                      "created_utc": 1736026816.0,
+                                      "replies": [
+                                        {
+                                          "id": "m5f4dja",
+                                          "author": "Affectionate-Memory4",
+                                          "body": "I'm using that as an example, as was a long gaming session as a common sustained load. I also see games pretty regularly approaching or hitting TDP. Like I said, Cyberpunk 2077 pushes a bit over 330W, with spikes up to full TDP (355W) every so often. Alan Wake 2 is similar.\n\nWhat I'm trying to say here is that as TDP increases, you get closer and closer to being able to max out an outlet, regardless of what your chosen load is. It doesn't matter if that's a fluid sim or AI stuff or a particularly heavy game, for the GPU, load is load, and with enough, you hit TDP.",
+                                          "score": 1,
+                                          "created_utc": 1736027411.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5cqhbx",
+          "author": "ACanadianNoob",
+          "body": "My computer build is spec'd to pull <400W for a reason, and I undervolt it to pull more like 330W. My room gets so warm in the summer and I need my window unit AC to keep up. Where I live is also an old place, the 15 Amp circuit my computer is on is also shared with quite a few things, including the air conditioner.\n\nMost people do not need halo tier products and shouldn't be shopping for an i9 14900KS and RTX 4090. They should be buying a Ryzen 5 7800X3D and RTX 4060Ti and saving as much as they can on their home utility.\n\nI also want to be able to run my PC on solar power eventually, either in a camper or at home.",
+          "score": 3,
+          "created_utc": 1735999198.0,
+          "replies": []
+        },
+        {
+          "id": "m5tqw52",
+          "author": "akindofuser",
+          "body": "A 12VHPWR plug supports almost 700w of power too. That doesn't mean your 2070 super is pushing 700w. Its just a ceiling, you want the plug and the cable's ceiling to be high for safety. It's a neat imho.",
+          "score": 1,
+          "created_utc": 1736225994.0,
+          "replies": [
+            {
+              "id": "m5ts9d8",
+              "author": "trainbrain27",
+              "body": "\"supports\"\n\nIf you google it, the first picture is melted.\n\nI'm not wishing that on anyone, just noticing that it happens with some regularity.\n\nIt sounds like it's more likely to melt if it's not plugged in securely and/or that wire adapter is poorly made.",
+              "score": 1,
+              "created_utc": 1736226609.0,
+              "replies": [
+                {
+                  "id": "m5tu5e4",
+                  "author": "akindofuser",
+                  "body": "So what. Several first gen [12VHPWR plugs melted too](https://www.pcmag.com/news/nvidia-faces-class-action-lawsuit-over-melting-12vhpwr-cables).",
+                  "score": 1,
+                  "created_utc": 1736227484.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m59ftbw",
+      "author": "Cymbal_Monkey",
+      "body": "Up to just means most people will have plenty of overhead, which is a good thing. I personally welcome PCIE and mobo standards catching up where the real world usage of these products has been for the last two decades.\n\nI work for a company that puts a lot more power than this through PCBs all the time, in 3 phase. It's not a hard problem, in fact it's a pretty easy and very much solved problem.  Balance your amps and volts properly, step down the volts at the card end, and your traces don't even need to be that huge. Bigger than signal lines sure, but still very manageable. we've been doing this in other industries for decades",
+      "score": 5,
+      "created_utc": 1735944801.0,
+      "replies": [
+        {
+          "id": "m5tpvtl",
+          "author": "akindofuser",
+          "body": "Ya I don't get why people are going off the deep end on this. You want the ceiling to be high. 12VHPWR plugs support up to 600w power too. That doesn't mean your 2070 is always pushing 600 watts.\n\nThe number of people claiming to know how much power \\*should\\* go through a motherboard is comical. Who would have known we had all the worlds brightest PCB architects right here on reddit.",
+          "score": 1,
+          "created_utc": 1736225549.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m56fmzk",
+      "author": "positivcheg",
+      "body": "I bet early adopters of this shit will pay a lot to be beta testers and find lots of problems. Thanks for a good lesson Asus and 7800X3D, with that experience I will never ever be early adopter and will only buy a matured system.",
+      "score": 2,
+      "created_utc": 1735910690.0,
+      "replies": [
+        {
+          "id": "m56vt7a",
+          "author": "MainioSukkka",
+          "body": "What's wrong with 7800x3d?",
+          "score": 2,
+          "created_utc": 1735916739.0,
+          "replies": [
+            {
+              "id": "m58o9qp",
+              "author": "dertechie",
+              "body": "Motherboard makers like to juice default voltages and frequencies to win benchmarks because at this point there\u2019s not massive differentiation between boards otherwise.  Basically playing chicken with the chip\u2019s limitations to sell more boards.  \n\nThe problem with playing chicken is eventually you crash.  There X3D chips are more sensitive to voltage because of the extra cache memory.  The voltages that ASUS and a few other manufacturers were feeding Zen 4 X3D chips were enough to kill them, and not slowly.  I\u2019m not sure how that made it past QC.  The issue was fixed pretty quickly but was egg on the face of several companies.  \n\nThis is also part of how 13/14 Gen Intel started degrading so much, though there were other issues with parts of the chip demanding more voltage than intended and destroying the delicate circuitry.  One of the first things Intel tried to fix it was forcing board manufacturers to implement their default power profiles rather than juiced ones as default.",
+              "score": 4,
+              "created_utc": 1735936265.0,
+              "replies": []
+            },
+            {
+              "id": "m56xa6x",
+              "author": "positivcheg",
+              "body": "At launch there was the shit about motherboards pushing too high voltage into 7800x3d, then even Asus added a disclaimer that using their bios updates that potentially fix that problem void warranty and stuff like that.",
+              "score": 2,
+              "created_utc": 1735917232.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5f6fgs",
+      "author": "ishook",
+      "body": "Just built a PC w/ my son and we put in a modest gfx card, an RTX3050. I was pleasantly surprised it didn\u2019t require a power cable.",
+      "score": 1,
+      "created_utc": 1736028083.0,
+      "replies": []
+    },
+    {
+      "id": "m56egqe",
+      "author": "drmirage809",
+      "body": "As much as I like the idea of delivering power through the motherboard to make cables easier to manage. I also don\u2019t like how power hungry things are getting. You can\u2019t just keep throwing more watts at the PC to get more power.",
+      "score": -2,
+      "created_utc": 1735910195.0,
+      "replies": [
+        {
+          "id": "m56njzz",
+          "author": "IolausTelcontar",
+          "body": "You can\u2019t?  I thought that is exactly how it works?",
+          "score": 26,
+          "created_utc": 1735913815.0,
+          "replies": [
+            {
+              "id": "m5893i1",
+              "author": "ark_mod",
+              "body": "That is exactly how it works - ignore drmirage. In his response to you he\u2019s trying to make a more nuanced statement. Going into power density and performance.\u00a0\n\nHis original statement was \u201cyou can\u2019t keep throwing more watts at the PC to get more power.\u201d A watt is a unit of power. So his statement is in effect \u201cyou can\u2019t throw more power at a PC to get more power\u201d. This is incorrect in several ways. More power enables you to run faster clocks resulting in more power.\u00a0",
+              "score": 8,
+              "created_utc": 1735931682.0,
+              "replies": [
+                {
+                  "id": "m58omhi",
+                  "author": "drmirage809",
+                  "body": "I mean, you totally can keep pushing more watts to get more power. But eventually you'll hit a wall. There's only so much power you can get from the outlet. The more power you're pulling in, the more heat you'll have to cool away. \n\nEventually you gotta start using the watts in a more effective manner. It's something that's happening. Smaller transistors are more power efficient and architectural improvements happen every generation, but not fast enough. We're still looking at higher power consumption every generation.",
+                  "score": 8,
+                  "created_utc": 1735936375.0,
+                  "replies": [
+                    {
+                      "id": "m5cbtbs",
+                      "author": "danielv123",
+                      "body": "Power for the same speed drops a lot every generation. A 9700x is 50% more power efficient in blender compared to 7700x for example.",
+                      "score": 2,
+                      "created_utc": 1735992123.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m5tqosz",
+                      "author": "akindofuser",
+                      "body": "These people are kind of dumb. You are absolutely correct. There is absolutely a ceiling. IDK maybe these idiots are down to wire 20amp circuits into their home PC. Personally I'm tired of every new PC doubling down as a room space heaters.\n\nAnd yea these people aren't wrong, we can throw more transistors, power, and speed at the problem. But there is a ceiling, and IMHO this is a lazy way of expanding the potentiality of modern computing.",
+                      "score": 2,
+                      "created_utc": 1736225905.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m5908og",
+                  "author": "IolausTelcontar",
+                  "body": "Thank you; that is what I was getting at.",
+                  "score": 1,
+                  "created_utc": 1735939911.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m57a8ck",
+              "author": "Edward_TH",
+              "body": "It's not. Component ARE getting more efficient but also smaller, so they cram more and more into the same size die to get more performance per surface area. This is the problem though: we're still using kinda the same architecture as lots of years ago so with every step we're getting maybe 10-15% more efficient than the last, but the market expect also an increase in performance so what do they do? They squeeze more and more stuff into the die so temperatures increases and resistance goes up, so they just increase the power limit and get more performance. That's why if you're conscious about your power budget the parameter you need to look for is performance per watt. And guess what? Most high end GPUs have worse performance per W than lower end ones.",
+              "score": 3,
+              "created_utc": 1735921327.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m59b23m",
+          "author": "dead_fritz",
+          "body": "If I get 30fps at 700W, going up to 1400W will obviously give me 60fps. /s",
+          "score": 3,
+          "created_utc": 1735943251.0,
+          "replies": []
+        },
+        {
+          "id": "m58fmxc",
+          "author": "fedexmess",
+          "body": "I wish they'd just freeze pixel pushing horsepower for a couple gens and concentrate on power efficiency. The size and power draw is getting nutz. I'd love for them to do away with the GPU power cable from the PSU and just add a separate power brick that plugs into the back of the gfx card.",
+          "score": -1,
+          "created_utc": 1735933626.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1h835yc.csv
+title,"Are gaming consoles reaching final form? Former PlayStation boss says no more major hardware leaps | ""We have sort of maxed out there"""
+rows,966
+num_posts,1
+num_comments,965
+unique_authors,681
+max_depth,11
+avg_comment_words,69.82
+median_comment_words,44.0
+max_comment_words,949
+positive_count,225
+negative_count,612
+neutral_count,128
+positive_pct,23.316
+negative_pct,63.42
+neutral_pct,13.264
+topic_1_keywords,"hardware, generations, way, hes, could, wont, wrong, gaming"
+topic_1_label,Gaming hardware: How to win a game
+topic_2_keywords,"games, years, think, console, hardware, like, still, ps3"
+topic_2_label,ps3 games like ps3
+topic_3_keywords,"like, hardware, vr, consoles, console, still, next, jump"
+topic_3_label,"vr, console, jump"
+topic_4_keywords,"games, hardware, pc, dont, new, even, xbox, get"
+topic_4_label,xbox games get a lot of hardware
+topic_5_keywords,"like, game, would, think, ai, time, vr, games"
+topic_5_label,vr likes games
+topic_6_keywords,"games, game, pc, console, powerful, like, ps6, doesnt"
+topic_6_label,ps6 doesn't like games
+top_ngram_1,year old (50)
+top_ngram_2,ps6 powerful (48)
+top_ngram_3,next gen (46)
+top_ngram_4,gaming experience (41)
+top_ngram_5,10 year (41)
+top_ngram_6,10 year old (41)
+top_ngram_7,powerful doesnt (41)
+top_ngram_8,doesnt games (41)
+top_ngram_9,ps6 powerful doesnt (41)
+top_ngram_10,powerful doesnt games (41)
+ner_1,PS5|MISC|77
+ner_2,PS6|MISC|69
+ner_3,PC|MISC|47
+ner_4,PS3|MISC|44
+ner_5,Sony|ORG|37
+ner_6,SonyMicrosoft|ORG|31
+ner_7,PS4|MISC|29
+ner_8,SNES|MISC|28
+ner_9,PS2|MISC|26
+ner_10,PS|ORG|25

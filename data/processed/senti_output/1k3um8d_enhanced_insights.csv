@@ -1,0 +1,45 @@
+metric,value
+file,1k3um8d.csv
+title,"For Sale: The World’s Most Precise Clock It’s the size of a fridge, costs US $3.4 million, and will deviate just one second over 10 billion years"
+rows,20
+num_posts,1
+num_comments,19
+unique_authors,19
+max_depth,2
+avg_comment_words,17.26
+median_comment_words,12.0
+max_comment_words,41
+positive_count,4
+negative_count,15
+neutral_count,0
+positive_pct,21.053
+negative_pct,78.947
+neutral_pct,0.0
+topic_1_keywords,"power, like, know, time, clock, ill, useful, physic"
+topic_1_label,"physics: power, ill, physic"
+topic_2_keywords,"like, know, time, clock, ill, power, useful, physic"
+topic_2_label,physics like a clock
+topic_3_keywords,"time, clock, ill, file, able, tell, paying, im"
+topic_3_label,"ills, ills, able, pay"
+topic_4_keywords,"relativity, sync, special, due, delivery, calibration, otherwise, includes"
+topic_4_label,ad hoc systograms
+topic_5_keywords,"ill, like, know, time, clock, power, useful, physic"
+topic_5_label,"physics: ill, physics, power"
+topic_6_keywords,"work, one, still, even, id, late, know, like"
+topic_6_label,"work, id, late"
+top_ngram_1,hopefully includes (3)
+top_ngram_2,includes calibration (3)
+top_ngram_3,calibration delivery (3)
+top_ngram_4,delivery otherwise (3)
+top_ngram_5,otherwise immediately (3)
+top_ngram_6,immediately sync (3)
+top_ngram_7,sync due (3)
+top_ngram_8,due general (3)
+top_ngram_9,general special (3)
+top_ngram_10,special relativity (3)
+ner_1,##dis|ORG|1
+ner_2,Craigs List|ORG|1
+ner_3,Jeff Geerling|PER|1
+ner_4,M|MISC|1
+ner_5,NIST|ORG|1
+ner_6,Nah Il|PER|1

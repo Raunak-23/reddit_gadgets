@@ -1,0 +1,702 @@
+{
+  "post": {
+    "title": "Asrock confirms Ryzen 9000 failures caused by its BIOS settings, offers to fix motherboards | Asrock recommends returning faulty CPUs to AMD or the retailer",
+    "author": "chrisdh79",
+    "id": "1kz1fpf",
+    "score": 686,
+    "created_utc": 1748603145.0,
+    "selftext": "",
+    "num_comments": 80,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1kz1fpf/asrock_confirms_ryzen_9000_failures_caused_by_its/"
+  },
+  "comments": [
+    {
+      "id": "mv234ny",
+      "author": "Jack123610",
+      "body": "What do they do if AMD asks why are we responsible for this shit?",
+      "score": 188,
+      "created_utc": 1748608609.0,
+      "replies": [
+        {
+          "id": "mv2i512",
+          "author": "symph0ny",
+          "body": "Amd certified the boards, nobody is allowed to make am5 boards without their blessing.",
+          "score": 162,
+          "created_utc": 1748613555.0,
+          "replies": [
+            {
+              "id": "mv8k6yv",
+              "author": "kurotech",
+              "body": "Yep amd gave them the stamp and they are now responsible for it",
+              "score": 13,
+              "created_utc": 1748695948.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mv66k2n",
+          "author": "Stratostheory",
+          "body": "Presumably if it is a problem with the bios tuning, Asrock was using the technical data supplied by AMD to do it, and AMD signed off on it",
+          "score": 13,
+          "created_utc": 1748653898.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mv2gniv",
+      "author": "BigRedCouch",
+      "body": "\"Faulty CPUs\" is certainly a funny way to say \"CPU destroyed by our product.\" And makes it sound like it's AMDs fault.",
+      "score": 76,
+      "created_utc": 1748613103.0,
+      "replies": [
+        {
+          "id": "mv67hmm",
+          "author": "TimeSuck5000",
+          "body": "It sounds like what a lawyer would tell them to say in order to minimize their liability risk. It probably won\u2019t work but it might delay things until they lose a class action lawsuit in court.",
+          "score": 6,
+          "created_utc": 1748654248.0,
+          "replies": []
+        },
+        {
+          "id": "mw881q9",
+          "author": "RateMyKittyPants",
+          "body": "AC for Fried",
+          "score": 1,
+          "created_utc": 1749167189.0,
+          "replies": []
+        },
+        {
+          "id": "mv9fj0g",
+          "author": "Reasonable_Spite_282",
+          "body": "Every amd fanboy I know knows they\u2019ve always been faulty they\u2019re just better for people who do a new build every two years since they\u2019re cheaper and will get replaced before they totally burn out.",
+          "score": -12,
+          "created_utc": 1748706466.0,
+          "replies": [
+            {
+              "id": "mv9htx0",
+              "author": "BigRedCouch",
+              "body": "That's an odd take considering they have the best server cpu, the best gaming cpu, the best workstation cpu, and best AI APU on the market right now.",
+              "score": 11,
+              "created_utc": 1748707185.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mv220qe",
+      "author": "Fuzzy_Logic_4_Life",
+      "body": "I would hate to work at a retailer that is expected to accept returns of these. That\u2019s a nightmare.",
+      "score": 76,
+      "created_utc": 1748608208.0,
+      "replies": [
+        {
+          "id": "mv2xjvm",
+          "author": "Gloriathewitch",
+          "body": "i wouldn't, i work in retail and ensuring customers are happy is part of the job, if they bought a dud product i want to ensure they get a good one that makes them happy\n\ntheres an rma process for failures",
+          "score": 58,
+          "created_utc": 1748617995.0,
+          "replies": [
+            {
+              "id": "mv60o7p",
+              "author": "maaku7",
+              "body": "This isn't an RMA failure though. It was ASUS at fault.",
+              "score": -18,
+              "created_utc": 1748651705.0,
+              "replies": [
+                {
+                  "id": "mv6cxii",
+                  "author": "LostMySpleenIn2015",
+                  "body": "ASrock, not ASUS",
+                  "score": 17,
+                  "created_utc": 1748656300.0,
+                  "replies": [
+                    {
+                      "id": "mv78b9r",
+                      "author": "dertechie",
+                      "body": "Sorry, force of habit.",
+                      "score": 9,
+                      "created_utc": 1748670022.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mv7abxr",
+                      "author": "maaku7",
+                      "body": "ASrock is a ~~division~~ subsidiary of ASUS.",
+                      "score": -12,
+                      "created_utc": 1748671096.0,
+                      "replies": [
+                        {
+                          "id": "mv7ends",
+                          "author": "APotatoFlewAround_",
+                          "body": "Not since long ago",
+                          "score": 10,
+                          "created_utc": 1748673492.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mv7h80e",
+                          "author": "Gloriathewitch",
+                          "body": "asrock and asus have been separated for a very long time",
+                          "score": 6,
+                          "created_utc": 1748674939.0,
+                          "replies": [
+                            {
+                              "id": "mv9c86h",
+                              "author": "maaku7",
+                              "body": "\"ASRock Inc. is a Taiwanese manufacturer of motherboards, industrial PCs and home theater PCs. Established in 2002, it is owned by PEGATRON, a company part of the ASUS group.\n\nASRock brand and ASUS (brand) are developed by two totally different companies... which are both owned by ASUS (company).",
+                              "score": 2,
+                              "created_utc": 1748705448.0,
+                              "replies": [
+                                {
+                                  "id": "mvogvgm",
+                                  "author": "ButtStuffBrad",
+                                  "body": "\"In January 2008,\u00a0ASUS\u00a0began a major restructuring of its operations, splitting into three independent companies:\u00a0ASUS (focused on applied first-party branded computers and electronics); PEGATRON (focused on OEM manufacturing of motherboards and components); and\u00a0Unihan Corporation\u00a0(focused on non-PC manufacturing such as cases and moulding).\u00a0In the process of the restructuring, a highly criticised pension plan restructuring effectively zeroed out the existing pension balances. The company paid out all contributions previously made by employees. On 1 June 2010, ASUS spun off PEGATRON.\"",
+                                  "score": 1,
+                                  "created_utc": 1748907144.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mv7flsy",
+                          "author": "dat_w",
+                          "body": "Kind of but yeah. Surprising how shit has ASUS been for me but AsRock is stellar",
+                          "score": 3,
+                          "created_utc": 1748674026.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mv65mxi",
+                  "author": "Gloriathewitch",
+                  "body": "Retailer deals with asus, its not the customers problem if a product used as designed and intended fails, its the OEM's.",
+                  "score": 4,
+                  "created_utc": 1748653555.0,
+                  "replies": [
+                    {
+                      "id": "mv7b6gu",
+                      "author": "maaku7",
+                      "body": "Unless regional laws specify otherwise (places like Australia can be very pro-customer), there is no basis for liability here.\n\nCustomer goes to the store and buys a CPU made by AMD. CPU is fried by their motherboard. Store did not sell the motherboard, or any other ASUS/ASrock product to the customer.\n\nThe bad product here is the ASrock server. ASUS is definitely on the hook for the damage caused by their faulty equipment, including the customer's fried CPU. But from a legal and liability perspective, the store that sold the CPU has no obligation or interest here.",
+                      "score": -2,
+                      "created_utc": 1748671558.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mv2i1hf",
+          "author": "imaginary_num6er",
+          "body": "Then don't work for any company in Europe",
+          "score": 12,
+          "created_utc": 1748613526.0,
+          "replies": []
+        },
+        {
+          "id": "mv2g2pv",
+          "author": "Alienhaslanded",
+          "body": "If I was a retailer I would tell Asrock to handle it directly by mail. I'm not dealing with cases that could literally be anything else but this specific issue.\n\n\nWhen I bought a Corsair power supply that had abnormal power fluctuations that caused the fan to go on and off constantly, I didn't bug Canada Computers about it. They bought a stock and sold it. If it's defective, that's on Corsair to resolve, which they did in a single email exchange. \n\n\nRetailers shouldn't be dealing with technical problems. Unless something is physically damaged out of the box or straight up doesn't power up, this isn't their problem.",
+          "score": 3,
+          "created_utc": 1748612924.0,
+          "replies": [
+            {
+              "id": "mv5ggwl",
+              "author": "Moscato359",
+              "body": "In Europe, retailers are forced to do warranty replacement for 2 years",
+              "score": 12,
+              "created_utc": 1748644685.0,
+              "replies": [
+                {
+                  "id": "mv60bs1",
+                  "author": "Fuzzy_Logic_4_Life",
+                  "body": "That would be nice. It would honestly be helpful in the US too. But it sucks when the manufacturer tells the customer to bring it to us even though it\u2019s outside our policy.",
+                  "score": -1,
+                  "created_utc": 1748651577.0,
+                  "replies": [
+                    {
+                      "id": "mv7ngpr",
+                      "author": "None",
+                      "body": "If you sold it you should be helping with putting it right.",
+                      "score": 5,
+                      "created_utc": 1748678595.0,
+                      "replies": [
+                        {
+                          "id": "mv8evy9",
+                          "author": "RadVarken",
+                          "body": "There's a reason retail died in the US",
+                          "score": 3,
+                          "created_utc": 1748693764.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mva4bqu",
+              "author": "spamjunk150",
+              "body": "That's part of being a retailer though.",
+              "score": 0,
+              "created_utc": 1748714188.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mv2afxa",
+      "author": "S_A_N_D_",
+      "body": ">Lee recommends that affected users send the damaged CPUs back to AMD or wherever they bought them **and say they are defective.** \n\nThis is literally fraud. They aren't defective, they've been damaged by the motherboard. \n\nIt's never going to be prosecuted, but it's still fraud and more to the point it's easy for AMD to just reject any RMA showing this kind of damage since it wouldn't be their responsibility.",
+      "score": 54,
+      "created_utc": 1748611112.0,
+      "replies": [
+        {
+          "id": "mv3v25w",
+          "author": "Intactual",
+          "body": "> Lee recommends\n\nI don't have one of these motherboards but like watching GN for the tech and watched this one. Lee danced around so much it was hard to watch, it was like watching a kid lie to his parents and seeing on their face they know the kid is lying.",
+          "score": 10,
+          "created_utc": 1748627368.0,
+          "replies": [
+            {
+              "id": "mv588vv",
+              "author": "sylfy",
+              "body": "Honestly the GN video was kinda dishonest and clickbaiting in its thumbnail as well. It made it look like it was all about the X3D processor, when the real problem was Asrock.",
+              "score": 3,
+              "created_utc": 1748641959.0,
+              "replies": [
+                {
+                  "id": "mv5gv1l",
+                  "author": "Intactual",
+                  "body": "> when the real problem was Asrock.\n\nFrom the video that is what I understood, that the motherboard was the issue and not the processor.",
+                  "score": 7,
+                  "created_utc": 1748644817.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mv7k2ra",
+          "author": "deejeycris",
+          "body": "It's not fraud if it's all in the open. It'd be just way too complicated to explain the circumstances during the RMA process, say it's defective and move on. If AMD wants to find out why customers are returning the same faulty CPUs they'll find out. P.s. AMD certifies boards so it's their fault too, they should have checked the board better, otherwise it wouldn't be called certification but licensing.",
+          "score": 1,
+          "created_utc": 1748676590.0,
+          "replies": []
+        },
+        {
+          "id": "mv3vdy1",
+          "author": "correctingStupid",
+          "body": "Doesn't mean it's fraud because you don't like it. If both systems are certified to work with each other then the failure of one due to the other is the responsibility of the manufacturer.\u00a0",
+          "score": -12,
+          "created_utc": 1748627459.0,
+          "replies": [
+            {
+              "id": "mv3wmt2",
+              "author": "S_A_N_D_",
+              "body": "claiming it's defective when you know it was damaged by the motherboard (and the method by which it was damaged is the sole fault of the motherboard manufacture which ASRock seems to admit here) is deliberately misrepresenting the issue for financial gain. The chip wasn't defective, it was damaged, and said damage is the responsibility of a third party. Claiming it was defective would be fraud.",
+              "score": 12,
+              "created_utc": 1748627803.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mv42kj7",
+          "author": "QuadraticCowboy",
+          "body": "Y u so dumb?",
+          "score": -10,
+          "created_utc": 1748629487.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mv2of39",
+      "author": "doubleflusher",
+      "body": "Thanks Steve",
+      "score": 19,
+      "created_utc": 1748615399.0,
+      "replies": []
+    },
+    {
+      "id": "mv1wcvu",
+      "author": "RedditButAnonymous",
+      "body": "Why are AMD going to accept refunds for CPUs that were broken by Asrock? Have they made a deal with Asrock specifically for that?",
+      "score": 49,
+      "created_utc": 1748606056.0,
+      "replies": [
+        {
+          "id": "mv20wes",
+          "author": "requium94",
+          "body": "Asrocks default BIOS settings are user error?",
+          "score": 21,
+          "created_utc": 1748607796.0,
+          "replies": [
+            {
+              "id": "mv22bsp",
+              "author": "RedditButAnonymous",
+              "body": "Not user error sorry. What I meant was the chips were not faulty, there was nothing wrong with the damaged CPUs. The motherboard has caused the problem. If I bought an AIO and it leaks, AMD dont refund me for that, the AIO manufacturer does (sometimes). So I dont see why they will accept refunds in this case unless its been agreed between the two companies",
+              "score": 20,
+              "created_utc": 1748608321.0,
+              "replies": []
+            },
+            {
+              "id": "mv21y8i",
+              "author": "Starfox-sf",
+              "body": "PEBKAC (Problem exists between keyboard and CPU)",
+              "score": 8,
+              "created_utc": 1748608183.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mv2400b",
+          "author": "CambodianJerk",
+          "body": "Don't understand why you're getting downvoted.  This is exactly what I was thinking during GN interview with their Motherboard VP.  Now that Asrock has confirmed the issue is caused by them, AMD will very quickly turn around and start their own investigation to confirm 'they' are not the problem and forward these back to User problem to resolve.\n\nThere is no difference here then if all our C13 power cables suddenly started nuking all electronics in the computer.  PSU, Motherboard, CPU, Graphics, RAM.. all dead because the power cable company made some faulty cables.  Would you expect AMD/Intel/Nvidia/Corsair etc to accept back that kit under RMA and send you a new one?  Of course you fucking wouldn't, that's ludicrous.  You'd want appropriate compensation from the power cable company.\n\nAsrock need to own it.",
+          "score": 25,
+          "created_utc": 1748608919.0,
+          "replies": [
+            {
+              "id": "mv2c4i9",
+              "author": "_dharwin",
+              "body": "That's not what Asrock said.\n\nWhether you agree with them or not: \n\nThey're saying if the Mobo works with another CPU then the CPU is at fault and they will not compensate.\n\nThey also said some CPUs are fine once cleaned and put in another mobo, in which case an RMA would be unnecessary and the working CPU would be returned.\n\nIf the mobo is broken (does not work with another CPU) and the CPU is broken (does not work in another mobo) then they would potentially compensate.\n\nEDIT: For his part, Steve thinks there's something janky going on that so many of these systems can be fixed by \"cleaning\" and hypothesizes there may be  issues in the manufacturing process where debris is entering the CPU socket. Which would obviously be Asrock's fault but that's not what they admitted.",
+              "score": 10,
+              "created_utc": 1748611662.0,
+              "replies": []
+            },
+            {
+              "id": "mv2ig8b",
+              "author": "imaginary_num6er",
+              "body": "This is why Gigabyte is the only good company left.\n\nGN gave ASUS a bad rating due their RMA and BIOS update policy during Zen 4 X3D, MSI has been banned by their channel for many years, and AsRock is now having issues. That only leaves Gigabyte as the default winner",
+              "score": -9,
+              "created_utc": 1748613649.0,
+              "replies": [
+                {
+                  "id": "mv2p6r2",
+                  "author": "Noxious89123",
+                  "body": "Gigabyte? Good? Hahaha.\n\nThey're as bad as all the rest.\n\nChoose your poison.",
+                  "score": 12,
+                  "created_utc": 1748615620.0,
+                  "replies": []
+                },
+                {
+                  "id": "mv4r43l",
+                  "author": "dark_sable_dev",
+                  "body": "This is the same gigabyte that made exploding power supplies and tried to bury the issue?",
+                  "score": 3,
+                  "created_utc": 1748636759.0,
+                  "replies": [
+                    {
+                      "id": "mv50688",
+                      "author": "imaginary_num6er",
+                      "body": "Yeah but not motherboards. PSUs, Monitors, GPUs, are bad but not motherboards",
+                      "score": -2,
+                      "created_utc": 1748639433.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mv434ap",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 5,
+                  "created_utc": 1748629646.0,
+                  "replies": [
+                    {
+                      "id": "mv45dzf",
+                      "author": "imaginary_num6er",
+                      "body": "I guess NZXT would be counted. They just license designs from AsRock",
+                      "score": 1,
+                      "created_utc": 1748630315.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mv4z4ub",
+                      "author": "firedrakes",
+                      "body": "that joke video. that steve cherry pick on...",
+                      "score": -2,
+                      "created_utc": 1748639116.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mv2ay70",
+          "author": "WeirdSysAdmin",
+          "body": "Doesn\u2019t AMD certify the boards that have their chipsets?  Gigabyte had a similar issues a few years ago and they had to replace the CPUs because it was over bolting processors.\n\nIf it\u2019s operating within parameters then the fried CPUs are on AMD.",
+          "score": 9,
+          "created_utc": 1748611278.0,
+          "replies": [
+            {
+              "id": "mv8k83a",
+              "author": "symph0ny",
+              "body": "Yep, to my knowledge super socket 7 was the last open pc board platform.  Everything since then has been licensed/certified by the cpu maker.  In addition a lot of the cpu parameters (AGESA) are being coded into the unit through bios updates.",
+              "score": 1,
+              "created_utc": 1748695960.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mv2bq18",
+          "author": "NeedAVeganDinner",
+          "body": "AMD issues reference bios and works with board vendors to work out quirks.\n\n\nIt's entirely possible this isn't entirely on ASRock.",
+          "score": 9,
+          "created_utc": 1748611531.0,
+          "replies": []
+        },
+        {
+          "id": "mv26r4s",
+          "author": "djwhiplash2001",
+          "body": "Agreed, warranties are to cover manufacturer defects. AMD manufactured the part just fine, it works great when you use it as intended (e.g. not with BIOS settings that brick it).",
+          "score": 3,
+          "created_utc": 1748609871.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mv79ku4",
+      "author": "Fredasa",
+      "body": "Sounds very close to [what that one dude noticed](https://www.youtube.com/watch?v=Nd-Ua_orG24) two weeks ago.\n\nEither way, yeah.  Asrock permanently joins Asus on my \"nope\" list for all future builds and I'm kind of glad this became a known issue shortly before I built my current PC.",
+      "score": 4,
+      "created_utc": 1748670692.0,
+      "replies": [
+        {
+          "id": "mvw1gkq",
+          "author": "Proud_Tie",
+          "body": "I was trying to troubleshoot my GPU issues with my ASRock X870 board and noticed my memory voltages were really fucky (untouched minus setting it to EXPO), I wonder if the CPU voltages were fucked too and I just never looked (I just turned PBO on and never went into the sub menus).\n\nI have a 9900x in my ASRock board and a 9950x in a Gigabyte. I should swap mobos and see if my card is fine...",
+          "score": 1,
+          "created_utc": 1749007157.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mv6kxp9",
+      "author": "Diligent-Soup-2176",
+      "body": "Gotta hire better testers. On the plus side I\u2019m a tester looking for a different gig so hit me up.",
+      "score": 3,
+      "created_utc": 1748659405.0,
+      "replies": []
+    },
+    {
+      "id": "mv6lfz1",
+      "author": "noodleking21",
+      "body": "Good luck working with Asrock RMA.  I haven't had a good experience working with them, they actually mislead/miscommunicate a refurbished gpu warranty period to me.",
+      "score": 3,
+      "created_utc": 1748659609.0,
+      "replies": []
+    },
+    {
+      "id": "mv2020d",
+      "author": "whythoyaho",
+      "body": "Assrock",
+      "score": 2,
+      "created_utc": 1748607482.0,
+      "replies": []
+    },
+    {
+      "id": "mv356g4",
+      "author": "Swordf1sh_",
+      "body": "As long as asrock mobos continue to work with ryzen 7000\u2026",
+      "score": 1,
+      "created_utc": 1748620127.0,
+      "replies": [
+        {
+          "id": "mv48jct",
+          "author": "YourGirlsEx",
+          "body": "Could I have an issue with my 7800x3d? I have an Asrock b650m pro rs",
+          "score": 4,
+          "created_utc": 1748631232.0,
+          "replies": [
+            {
+              "id": "mv4dj4e",
+              "author": "Swordf1sh_",
+              "body": "Haha in a similar boat, idk",
+              "score": 1,
+              "created_utc": 1748632704.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mv6f8we",
+      "author": "Proud_Tie",
+      "body": "wonder if this is why my x870 steel legend and rtx4080 super occasionally says it's run out of vram loading up a game that played fine on my old AM4 based system and the requirements are a literal potato and coretemp crashes as well.",
+      "score": 1,
+      "created_utc": 1748657185.0,
+      "replies": [
+        {
+          "id": "mvr0oeg",
+          "author": "danielv123",
+          "body": "I am also curious, I have a 9950x that keeps crashing my VMs when using graphics cards. Haven't been able to figure out any reason behind it at all.",
+          "score": 1,
+          "created_utc": 1748949276.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mvf02ef",
+      "author": "yertle38",
+      "body": "Oh dang, I\u2019m going to install 3.25. I went through a whole RMA process with ASRock and inevitably had to RMA the cpu. What a process, and now it seems like it could happen again.",
+      "score": 1,
+      "created_utc": 1748786693.0,
+      "replies": []
+    },
+    {
+      "id": "mv3w3pf",
+      "author": "Murquel",
+      "body": "Typical assrock",
+      "score": 1,
+      "created_utc": 1748627656.0,
+      "replies": []
+    },
+    {
+      "id": "mv489fc",
+      "author": "YourGirlsEx",
+      "body": "So only 9000? Or is my 7800x3d likely going to run into the same problem? I have a Asrock b650m pro rs..",
+      "score": 1,
+      "created_utc": 1748631152.0,
+      "replies": [
+        {
+          "id": "mvf0jce",
+          "author": "yertle38",
+          "body": "My 9900x died in my b650 pro rs. Sounds like your 7800 is probably fine",
+          "score": 1,
+          "created_utc": 1748786847.0,
+          "replies": [
+            {
+              "id": "mvi1fd5",
+              "author": "YourGirlsEx",
+              "body": "Damn sorry to hear that. And hopefully so, it\u2019s a new build but I updated my bios to the most recent one \ud83e\udd1e",
+              "score": 1,
+              "created_utc": 1748820621.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mv4fa95",
+      "author": "MaroonIsBestColor",
+      "body": "I went MSI for my current motherboard. Made the right choice.",
+      "score": 0,
+      "created_utc": 1748633227.0,
+      "replies": []
+    },
+    {
+      "id": "mv28def",
+      "author": "keicam_lerut",
+      "body": "I mean they could have come up with a better name than Asrock",
+      "score": -3,
+      "created_utc": 1748610424.0,
+      "replies": []
+    },
+    {
+      "id": "mv61d1x",
+      "author": "karatekid430",
+      "body": "To be honest why don\u2019t AMD just make their own motherboards? Motherboard makers are borderline incompetent and give AMD and Intel a bad name. It would allow chipset unification into the CPU and for the firmware to be optimised",
+      "score": -1,
+      "created_utc": 1748651959.0,
+      "replies": [
+        {
+          "id": "mv8lons",
+          "author": "symph0ny",
+          "body": "There's hardly any variation in board features as things stand, this would lead to some very heavy stagnation.  Would likely be a good exercise just to learn from though.  What we hear about boardmakers is they're expected to guess how a new chip is going to work, where it's going to be priced, do all the engineering in advance of a product announcement, then have it ready to sell a few days or weeks later.",
+          "score": 1,
+          "created_utc": 1748696527.0,
+          "replies": [
+            {
+              "id": "mva5xiw",
+              "author": "karatekid430",
+              "body": "Look at the picture from the article. On the entire backplate there is only one useful port and it cannot even output video. Something needs to change.",
+              "score": 1,
+              "created_utc": 1748714686.0,
+              "replies": [
+                {
+                  "id": "mva7kee",
+                  "author": "symph0ny",
+                  "body": "wdym there's an hdmi port right there and all the zen4/+ CPU's have integrated video.  You really think if AMD or Intel were building boards they'd give you more than 4 USB ports?  The current state is bad because despite many brands there's still amd/intel pulling strings to keep things simple and consistent but this would be cranked to 11 with only 1 house brand option.\n\n3dfx tried to fuck over all their board partners by integrating one of them and in a few years they were history.",
+                  "score": 1,
+                  "created_utc": 1748715201.0,
+                  "replies": [
+                    {
+                      "id": "mvj5zs3",
+                      "author": "karatekid430",
+                      "body": "Nothing works with HDMI anymore. I don\u2019t have the cables. They are obsolete.",
+                      "score": 1,
+                      "created_utc": 1748836264.0,
+                      "replies": [
+                        {
+                          "id": "mvr0i68",
+                          "author": "danielv123",
+                          "body": "Uh what? Only one of a dozen screens I have has DP and not HDMI. Half of them have HDMI and no DP.",
+                          "score": 1,
+                          "created_utc": 1748949201.0,
+                          "replies": [
+                            {
+                              "id": "mvrzo66",
+                              "author": "karatekid430",
+                              "body": "Then you have no clue of what you are buying. Do research.",
+                              "score": 1,
+                              "created_utc": 1748961445.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mv2cj7v",
+      "author": "nipsen",
+      "body": ">Essentially, it was an amperage problem in the Precision Boost Overdrive (PBO) settings.\n\nThat.. might sound reasonable to some. But there is no way to push the resulting effect of a pbo-\"overclock\" past some kind of limit that will fry the cpu by itself. What you have to do to accomplish something that draws a very high effect is to force a minimum clock up to a very high level, and then adjust the curves so that a modest (say, the first part of the curve) PBO2 increase in clock frequency drags everything along with it on a \"long boost\". \n\nAnd while that's possible (in the same way that you could, in theory, make pl2 on Intel a pl1 boost, and burn way too high - or put every core at the same max frequency and wonder why a cpu that's scaled for very short boosts to that frequency fails) -- it's not trivial to accomplish it by just changing the bios settings.\n\nNote that Asus also \"took the blame\" on a similar thing with the raptor lake disaster -- what's really going on is that people are buying the largest and most power-hungry of the processors, putting them to insane overclocks that make no sense. And that in a way the manufacturer has approved of in marketing, because they want to sell bigger numbers and so on. \n\nBut which is just not how the cpu is set up: it is designed to rest on fairly low clocks, and then boost cores on demand. Which works great, because the memory bus is nowhere near as fast as the cpu-governor on any of these systems. In 2002 an overclock on demand from a software-governor might not have been quick enough to avoid pauses on a very targeted workload. And because of direct driver architectures that rely on bus-speeds for maintaining input latency, and so on, this has been a problem for \"system response\" way past the expiry date of very old computer problems. That's all true.\n\nBut with wdm-drivers and internal on-demand cpu-governors, this is not an issue - at all. Even with servers, this is not an issue - the boost-schema, that Intel has made it's entire line-up on, does work.\n\nStill -- some people just need to put the processor on max clocks, somehow (through raising the minimum clocks here, no doubt), in the belief that it increases performance. And then are surprised and angry when it blows up.\n\nThe result of that is the following: mainboard-manufacturers and laptop-makers, among others, end up clocking their products to a target that will be extremely low, just in case they will end up with people blowing their computer up. Or just lock down all the settings to whatever a support \"technician\" with no understanding of the system will decide on by their reading of the manual and the \"recommendations\" from the cpu-manufacturer.\n\nTo the point where we really are right now: laptops come with default cpu setups that throttle it from the first second after boot, and that starve the gpu of power. Or desktops that end up with ambient watt-drain on idle in the range of 50W extra on a 12 core setup.\n\nThe world's most ridiculous industry just keeps rolling. And Tech1 and GamerNexus really are enabling it as well, suggesting very strongly here that it's the mainboard-manufacturer's fault for not locking down the cpu sufficiently on beforehand. Or that it's AMD and Intel's for not technically forcing settings that are \"safe\".",
+      "score": -6,
+      "created_utc": 1748611794.0,
+      "replies": []
+    },
+    {
+      "id": "mv2k9wg",
+      "author": "HardBartyBarty",
+      "body": "ASSrock",
+      "score": -6,
+      "created_utc": 1748614203.0,
+      "replies": []
+    }
+  ]
+}

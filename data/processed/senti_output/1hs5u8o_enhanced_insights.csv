@@ -1,0 +1,49 @@
+metric,value
+file,1hs5u8o.csv
+title,A New Year's surprise from Microsoft: Scanners stop working
+rows,104
+num_posts,1
+num_comments,103
+unique_authors,82
+max_depth,5
+avg_comment_words,40.33
+median_comment_words,23.0
+max_comment_words,274
+positive_count,18
+negative_count,85
+neutral_count,0
+positive_pct,17.476
+negative_pct,82.524
+neutral_pct,0.0
+topic_1_keywords,"good, 24h2, particular, update, work, software, know, office"
+topic_1_label,good 24h2 software update
+topic_2_keywords,"still, scanners, update, im, surprising, 23h2, 11, says"
+topic_2_label,scanners update im
+topic_3_keywords,"think, youre, new, still, company, drivers, ink, computer"
+topic_3_label,think you're new and still
+topic_4_keywords,"issue, dont, windows, run, better, lot, know, still"
+topic_4_label,i don t know what to do with windows
+topic_5_keywords,"windows, 11, release, 10, microsoft, doesnt, printers, computer"
+topic_5_label,Windows 11 Releases 10 Windows 11
+topic_6_keywords,"years, y25k, 11, like, used, 25, y2k, delayed"
+topic_6_label,y25k used in years
+top_ngram_1,windows 11 (12)
+top_ngram_2,dont know (10)
+top_ngram_3,windows 10 (9)
+top_ngram_4,surprising still (9)
+top_ngram_5,still scanners (9)
+top_ngram_6,surprising still scanners (9)
+top_ngram_7,y2k 25 (6)
+top_ngram_8,25 years (6)
+top_ngram_9,years delayed (6)
+top_ngram_10,delayed y25k (6)
+ner_1,Microsoft|ORG|15
+ner_2,Mac|MISC|11
+ner_3,Epson|ORG|7
+ner_4,Windows|MISC|7
+ner_5,Windows 10|MISC|5
+ner_6,Win|MISC|4
+ner_7,Windows 11 Windows 10|MISC|3
+ner_8,MS|ORG|3
+ner_9,Linux|MISC|3
+ner_10,##10|MISC|3

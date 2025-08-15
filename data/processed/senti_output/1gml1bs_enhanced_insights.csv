@@ -1,0 +1,49 @@
+metric,value
+file,1gml1bs.csv
+title,Take-Two chairman and CEO Strauss Zelnick has said that he’s “not worried” about the potential performance issues related to Grand Theft Auto 6 on Xbox Series S.
+rows,30
+num_posts,1
+num_comments,29
+unique_authors,24
+max_depth,4
+avg_comment_words,51.21
+median_comment_words,29.0
+max_comment_words,248
+positive_count,6
+negative_count,23
+neutral_count,0
+positive_pct,20.69
+negative_pct,79.31
+neutral_pct,0.0
+topic_1_keywords,"games, series, getting, one, thought, people, back, console"
+topic_1_label,a game series gets one
+topic_2_keywords,"series, even, say, want, isnt, talks, someone, news"
+topic_2_label,news about a series of talks
+topic_3_keywords,"ps4, ps5, game, make, gta6, rockstar, gta, sony"
+topic_3_label,gta game ps4
+topic_4_keywords,"people, economy, game, console, ps5, like, keep, theyll"
+topic_4_label,people like to keep games on the ps5
+topic_5_keywords,"series, good, people, one, runs, suprisingly, cyberpunk, forget"
+topic_5_label,cyberpunk: a series of good and bad
+topic_6_keywords,"gta, run, fps, 360ps3, lol, ps3, pc, back"
+topic_6_label,"gta, ps, ps, pc, back"
+top_ngram_1,ps4 ps5 (4)
+top_ngram_2,lets wait (3)
+top_ngram_3,wait someone (3)
+top_ngram_4,someone hands (3)
+top_ngram_5,hands talks (3)
+top_ngram_6,talks management (3)
+top_ngram_7,management talking (3)
+top_ngram_8,talking stuff (3)
+top_ngram_9,stuff idea (3)
+top_ngram_10,idea news (3)
+ner_1,PS5|MISC|8
+ner_2,Rockstar|ORG|7
+ner_3,Series S|MISC|7
+ner_4,PS4|MISC|5
+ner_5,GTA V|MISC|4
+ner_6,Sony|ORG|4
+ner_7,GTA|MISC|3
+ner_8,GTA6|MISC|3
+ner_9,Series X|MISC|3
+ner_10,Baldurs Gate 3|MISC|2

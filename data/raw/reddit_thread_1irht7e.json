@@ -1,0 +1,634 @@
+{
+  "post": {
+    "title": "E-ink technology meets interactive storytelling in new hybrid handheld console | Great news for fans of text-based adventures",
+    "author": "chrisdh79",
+    "id": "1irht7e",
+    "score": 1020,
+    "created_utc": 1739791848.0,
+    "selftext": "",
+    "num_comments": 81,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1irht7e/eink_technology_meets_interactive_storytelling_in/"
+  },
+  "comments": [
+    {
+      "id": "md8j8bs",
+      "author": "Igot1forya",
+      "body": "Look at that Micro-USB for charging in 2025.",
+      "score": 316,
+      "created_utc": 1739794715.0,
+      "replies": [
+        {
+          "id": "md9ohbs",
+          "author": "Kep0a",
+          "body": "given the design, I'm not sure any product designer was involved here",
+          "score": 77,
+          "created_utc": 1739809360.0,
+          "replies": [
+            {
+              "id": "mdav9lf",
+              "author": "nope_nic_tesla",
+              "body": "The idea sounds cool but everything about the actual execution of this product leaves me with no interest in buying it",
+              "score": 35,
+              "created_utc": 1739821278.0,
+              "replies": []
+            },
+            {
+              "id": "mdb9ud6",
+              "author": "texachusetts",
+              "body": "How hard could it be, it\u2019s just a table, /s",
+              "score": 2,
+              "created_utc": 1739825362.0,
+              "replies": []
+            },
+            {
+              "id": "mdcxy2g",
+              "author": "gitarzan",
+              "body": "Not since 1995.",
+              "score": 1,
+              "created_utc": 1739844041.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "md8s8oa",
+          "author": "TheTerrasque",
+          "body": "Is that even legal in the EU these days?",
+          "score": 72,
+          "created_utc": 1739798671.0,
+          "replies": [
+            {
+              "id": "md9uubz",
+              "author": "ArdiMaster",
+              "body": "No",
+              "score": 48,
+              "created_utc": 1739811243.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mda7712",
+          "author": "DearBrotherJon",
+          "body": "I was literally on my way to the comments to say \u201cyou lost me at micro usb\u2026\u201d",
+          "score": 12,
+          "created_utc": 1739814721.0,
+          "replies": []
+        },
+        {
+          "id": "mdcbtm6",
+          "author": "NintendadSixtyFo",
+          "body": "Cool. But that micro-usb is a no deal. I finally got rid of everything that isn\u2019t USB-C and there\u2019s no way in hell I\u2019m going into that life again",
+          "score": 9,
+          "created_utc": 1739836691.0,
+          "replies": []
+        },
+        {
+          "id": "md8uxca",
+          "author": "OMGItsCheezWTF",
+          "body": "It's an ESP32 devboard with a gpio e-paper display and a custom 3d printed case, most ESP32 dev boards are micro-usb.",
+          "score": 19,
+          "created_utc": 1739799711.0,
+          "replies": [
+            {
+              "id": "mdakt47",
+              "author": "Vivian_Stringer_Bell",
+              "body": "I've just started getting into this. The ESP32C3 based dev board I have in front of me that was $10/1 unit has USB-C.",
+              "score": 19,
+              "created_utc": 1739818410.0,
+              "replies": []
+            },
+            {
+              "id": "md9g50r",
+              "author": "None",
+              "body": "[removed]",
+              "score": 1,
+              "created_utc": 1739806861.0,
+              "replies": []
+            },
+            {
+              "id": "mdatbgv",
+              "author": "CatWeekends",
+              "body": "Yep. You can find USB-C based boards but they're more expensive because the connectors themselves are more expensive.\n\nIf I was launching a new product, I'd save the quarter/dollar (or whatever the materials cost difference is at scale) per unit, use the older tech to see how it does with consumers, and use the cost savings to make a battery software experience.",
+              "score": -3,
+              "created_utc": 1739820739.0,
+              "replies": [
+                {
+                  "id": "mdclvvg",
+                  "author": "relator_fabula",
+                  "body": "Except consumers hear micro USB and immediately have a bad reaction. The creator is either cheap to save money or the product is dated/old. USB c has been the standard on small devices for years now. Cheap ass rechargeable flashlights have USB C. \n\nIf I see a product that's willing to cheap out on a connector, what other components and assembly are they cheaping out on? A \"better software experience\"? Can I really trust someone who is trying to save a $1 per unit on a more robust connector to care about my experience?\n\nHow long will my device last? I'm not buying something for hundreds of dollars just to encourage the developers that there is a market.",
+                  "score": 20,
+                  "created_utc": 1739840004.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "md8qeg2",
+          "author": "ThreePlanets",
+          "body": "yuck! micro usb... in any year is/was bad.",
+          "score": 30,
+          "created_utc": 1739797925.0,
+          "replies": [
+            {
+              "id": "mddyxc1",
+              "author": "-Badger3-",
+              "body": "Replacing micro usb ports on my stuff taught me how to solder lol",
+              "score": 4,
+              "created_utc": 1739858920.0,
+              "replies": []
+            },
+            {
+              "id": "md9ivrv",
+              "author": "Omegalazarus",
+              "body": "So fragile",
+              "score": 7,
+              "created_utc": 1739807685.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mda6upr",
+          "author": "Reasonable_Half8808",
+          "body": "Let\u2019s see Paul Allen\u2019s handheld console",
+          "score": 8,
+          "created_utc": 1739814628.0,
+          "replies": []
+        },
+        {
+          "id": "mdboapy",
+          "author": "lew_rong",
+          "body": "asdfasdf",
+          "score": 3,
+          "created_utc": 1739829419.0,
+          "replies": []
+        },
+        {
+          "id": "mdbi5ly",
+          "author": "Token_Englishman",
+          "body": "Look like a usb c on the lh side?",
+          "score": 1,
+          "created_utc": 1739827677.0,
+          "replies": []
+        },
+        {
+          "id": "mdcv4uv",
+          "author": "matdave86",
+          "body": "It's going on crowd supply and going to be open sources. If people like it a better design will come along, but it's literally just someone making something they wanted to make.",
+          "score": 1,
+          "created_utc": 1739843094.0,
+          "replies": []
+        },
+        {
+          "id": "mdbfp22",
+          "author": "beat-sweats",
+          "body": "Who cares.",
+          "score": -9,
+          "created_utc": 1739826989.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "md92pyp",
+      "author": "thisischemistry",
+      "body": "No, it's not new. It's pre-new. They want the money *before* they make the product, watch out for vaporware!\n\nI'll wait a year or two and see if this actually becomes a product before I even bother getting excited about it.",
+      "score": 104,
+      "created_utc": 1739802538.0,
+      "replies": [
+        {
+          "id": "mdcgla9",
+          "author": "BuffDrBoom",
+          "body": "By the time this comes out in 6 years it will be the only device on the planet that still uses micro usb",
+          "score": 10,
+          "created_utc": 1739838259.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "md91ewi",
+      "author": "online-optimism",
+      "body": "Just me, a black-and-white screen, and my inevitable death in a text-based dungeon",
+      "score": 20,
+      "created_utc": 1739802081.0,
+      "replies": []
+    },
+    {
+      "id": "md9lq8h",
+      "author": "BW_Bird",
+      "body": "I don't really get why they need to make new hardware for this concept. \n\nMost modern e-readers have touch screens, run some form of Android, and have comparable/better specs than the device they're making.",
+      "score": 24,
+      "created_utc": 1739808537.0,
+      "replies": [
+        {
+          "id": "mdfq3es",
+          "author": "Atulin",
+          "body": "Also, `.epub` files (the de facto standard that every e-reader supports) can contain images, links, advanced styling, and can even execute Javascript code in a limited capability. This sort of a CYOA game can just be distributed as an ebook to any e-reader. No need for a dedicated device.",
+          "score": 3,
+          "created_utc": 1739890227.0,
+          "replies": []
+        },
+        {
+          "id": "md9pm10",
+          "author": "epochellipse",
+          "body": "Have you ever tried to type on an E Reader?",
+          "score": 2,
+          "created_utc": 1739809695.0,
+          "replies": [
+            {
+              "id": "mdbopmi",
+              "author": "underwaterlove",
+              "body": "You saw that they're trying to *possibly* crowdfund an external keyboard for \"more conversational games?\"\n\nMakes me think that typing on this device isn't so great either.",
+              "score": 8,
+              "created_utc": 1739829536.0,
+              "replies": []
+            },
+            {
+              "id": "mdbds4v",
+              "author": "Dakkadence",
+              "body": "Yup. Used to have an old Kindle Touch and typing was... an experience to say the least. But it doesn't take long to get used to the slow response time.\n\nI recently upgraded to a Boox Page and it doesn't feel too far off from a smartphone. The response times are massively improved.",
+              "score": 3,
+              "created_utc": 1739826450.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "md8mqge",
+      "author": "TheBoggart",
+      "body": "Oh shit, Lone Wolf series here I come!",
+      "score": 8,
+      "created_utc": 1739796354.0,
+      "replies": [
+        {
+          "id": "md8n6pd",
+          "author": "prigmutton",
+          "body": "You know there's a free version of the whole series (and Grey Star) on Android, all based on the Project Aion stuff right?\n\nI've gone through it a couple of times over the years",
+          "score": 6,
+          "created_utc": 1739796553.0,
+          "replies": [
+            {
+              "id": "mda9ggz",
+              "author": "GreystarOrg",
+              "body": "Grey Star the Wizard you say? :D",
+              "score": 3,
+              "created_utc": 1739815337.0,
+              "replies": [
+                {
+                  "id": "mdaahtm",
+                  "author": "prigmutton",
+                  "body": "I loved those books even though I feel like they were a lot more brutal in terms of random choices, bad dice rolls or unfortunate skill choices screwing you over pretty hard",
+                  "score": 1,
+                  "created_utc": 1739815622.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "md8o6kv",
+              "author": "teachmebasics",
+              "body": "Can you provide more info? I've always been curious about text based adventures and potentially creating one myself...where's a good place to get started with the series you mentioned?",
+              "score": 2,
+              "created_utc": 1739796987.0,
+              "replies": [
+                {
+                  "id": "md8ooev",
+                  "author": "prigmutton",
+                  "body": "The free app version I mentioned is on the Play store at https://play.google.com/store/apps/details?id=com.GDVGames.LoneWolfBiblio\n\nThe web version it uses as source material is at https://www.projectaon.org/en/Main/Home\n\nEnjoy!",
+                  "score": 8,
+                  "created_utc": 1739797200.0,
+                  "replies": [
+                    {
+                      "id": "md8ryzc",
+                      "author": "teachmebasics",
+                      "body": "Thank you!",
+                      "score": 3,
+                      "created_utc": 1739798564.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "md9bp0w",
+              "author": "TheBoggart",
+              "body": "I did not know that.  Thanks!",
+              "score": 2,
+              "created_utc": 1739805503.0,
+              "replies": []
+            },
+            {
+              "id": "md9nes8",
+              "author": "LonePaladin",
+              "body": "Fabled Lands also has a PC app.\n\nhttps://flapp.sourceforge.net",
+              "score": 1,
+              "created_utc": 1739809040.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "md8he55",
+      "author": "BrotherRoga",
+      "body": "This sounds fun... For about 4 hours at most. I would definitely rent one for a week or so.\n\nUnless it costs something like 50 bucks and the games at a max of 20, I can't see this gaining more than a niche fanbase.\n\nOf course, if this is their objective, more power to them and the best of luck in their endeavors.",
+      "score": 30,
+      "created_utc": 1739793785.0,
+      "replies": [
+        {
+          "id": "md8i6g9",
+          "author": "ducknator",
+          "body": "Even if it was free it would be a niche.",
+          "score": 20,
+          "created_utc": 1739794190.0,
+          "replies": [
+            {
+              "id": "mda4ras",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 5,
+              "created_utc": 1739814056.0,
+              "replies": []
+            },
+            {
+              "id": "md8iso8",
+              "author": "None",
+              "body": "Look, if they wanna make money, they\u2019ll make porn (or \u201chentai\u201d as some prefer to call it). It is what it is.",
+              "score": 5,
+              "created_utc": 1739794501.0,
+              "replies": [
+                {
+                  "id": "md8k1n0",
+                  "author": "ThirdEyeClarity",
+                  "body": "Hopefully the battery doesn\u2019t die with hentai left on the screen and you forget to charge it",
+                  "score": 22,
+                  "created_utc": 1739795110.0,
+                  "replies": [
+                    {
+                      "id": "md8vpo5",
+                      "author": "None",
+                      "body": "Only god can judge me",
+                      "score": 13,
+                      "created_utc": 1739800007.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mda2sb2",
+      "author": "VagabondVivant",
+      "body": "This is super neat, but you can already do this on literally any Android e-ink device.",
+      "score": 7,
+      "created_utc": 1739813512.0,
+      "replies": []
+    },
+    {
+      "id": "mdaopjo",
+      "author": "Bobbler23",
+      "body": "I was kinda interested, but then I was also reading the specs, and thought why are they talking 18650 battery which would make it a bit of a chonk to house one of those (before the not real capacity claims of 5000mAh too), micro USB port (erm?) and full size SD cards - it sounds like a parts bin special.",
+      "score": 6,
+      "created_utc": 1739819472.0,
+      "replies": []
+    },
+    {
+      "id": "md9hdsk",
+      "author": "Zaphod1620",
+      "body": "I guess I'm the only one here old enough to recognize this is what Billy (Tom Hanks) invented in the movie Big.",
+      "score": 12,
+      "created_utc": 1739807234.0,
+      "replies": [
+        {
+          "id": "mddpn2x",
+          "author": "pedsmursekc",
+          "body": "48 here!",
+          "score": 1,
+          "created_utc": 1739854525.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdabu6j",
+      "author": "BlastFX2",
+      "body": "Manufactured e-waste. \n\nText-based adventures are not something you'll spend enough time on to warrant a dedicated device. You can run them on a phone or a PC. If you insist on the e-ink display, get an Android e-reader; much better hardware that will have a bunch of other uses as well. \n\nThis is essentially an ESP32 dev board and an off the shelf e-ink module from Waveshare in a 3D printed case that's stupidly thick because they couldn't even be assed to source a flat lithium cell and are instead using an 18650.",
+      "score": 9,
+      "created_utc": 1739815988.0,
+      "replies": [
+        {
+          "id": "mdbcveo",
+          "author": "NeWMH",
+          "body": "If the 18650 is in an easily spot for replacement then it at least achieves a mark for lifetime of the product.",
+          "score": 1,
+          "created_utc": 1739826197.0,
+          "replies": [
+            {
+              "id": "mdc2rdv",
+              "author": "BlastFX2",
+              "body": "It's a bit easier, sure, but sourcing and replacing a flat cell really isn't an issue either. The repairability issues mostly come from devices being hard (or even impossible) to open without damage.",
+              "score": 1,
+              "created_utc": 1739833730.0,
+              "replies": [
+                {
+                  "id": "mdcnxbg",
+                  "author": "NeWMH",
+                  "body": "> If the 18650 is in an easily spot for replacement\n\nI meant like in a normal battery compartment.",
+                  "score": 1,
+                  "created_utc": 1739840680.0,
+                  "replies": [
+                    {
+                      "id": "mdd4j8s",
+                      "author": "BlastFX2",
+                      "body": "I get that, I'm just saying I don't think it matters in terms of reparability since it's not something you have to replace ever 5\u201310 weeks but rather every 5\u201310 years, so even if it requires a cell that's not stocked by every hobby shop and a soldering iron, it's not a big deal because you can order a replacement cell online and then any decent repair shop will swap it for you for $10 max. \n\nSure, it costs a few bucks more and takes a couple hours of your time, but you don't have to spend a decade handling a device twice chonkier than it needed to be, which I think is a fair exchange.",
+                      "score": 1,
+                      "created_utc": 1739846353.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "md9ixub",
+      "author": "Ecstatic-Turnip3854",
+      "body": "Isn\u2019t this essentially the thing Tom Hanks\u2019 character was pitching at the end of BIG?",
+      "score": 2,
+      "created_utc": 1739807703.0,
+      "replies": []
+    },
+    {
+      "id": "mdalu2s",
+      "author": "Vivian_Stringer_Bell",
+      "body": "They have this already as mobile apps (Fabularium / Text Fiction). No it's not e-ink, but something to try. Plus just moving a parser of these file formats to something that has an eInk display seems trivial. There are a bunch of \"android based e ink reader\". Sure they wouldn't be as low powered as an ESP32, but way more likely to have support for the code/OS.",
+      "score": 2,
+      "created_utc": 1739818687.0,
+      "replies": []
+    },
+    {
+      "id": "mdaxsrg",
+      "author": "GoblinFive",
+      "body": "Is this thing trying to get the Playdate crowd",
+      "score": 2,
+      "created_utc": 1739821977.0,
+      "replies": [
+        {
+          "id": "mdb2n9s",
+          "author": "Neo_Techni",
+          "body": "only if it has a crank",
+          "score": 2,
+          "created_utc": 1739823335.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "md91jtp",
+      "author": "Levetamae",
+      "body": "This reminds me of those \u201cchoose your own adventure\u201d books.",
+      "score": 3,
+      "created_utc": 1739802127.0,
+      "replies": [
+        {
+          "id": "md98w08",
+          "author": "Pretzeloid",
+          "body": "Yes!  Text based adventure!",
+          "score": 2,
+          "created_utc": 1739804614.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "md927jt",
+      "author": "loldoge34",
+      "body": "At least everything is open source so it seems like it might provide a good blueprint for building your own device with it.",
+      "score": 1,
+      "created_utc": 1739802358.0,
+      "replies": []
+    },
+    {
+      "id": "md9cuuk",
+      "author": "Jet_Jirohai",
+      "body": "Interesting concept. For the right price, I'd consider it... The kind of game system I might actually take to the beach",
+      "score": 1,
+      "created_utc": 1739805859.0,
+      "replies": []
+    },
+    {
+      "id": "md9jwy1",
+      "author": "CanuckEh79",
+      "body": "This is super niche, and I am here for it. Choose your own adventure books are the best!",
+      "score": 1,
+      "created_utc": 1739807995.0,
+      "replies": []
+    },
+    {
+      "id": "md9zbbl",
+      "author": "st33d",
+      "body": "The annoying thing is that the first few generations of Kindle could let you install things like Zork and play them.",
+      "score": 1,
+      "created_utc": 1739812544.0,
+      "replies": []
+    },
+    {
+      "id": "mdbbchb",
+      "author": "SourcePrevious3095",
+      "body": "So...we caught up to the comic books in Big?",
+      "score": 1,
+      "created_utc": 1739825775.0,
+      "replies": []
+    },
+    {
+      "id": "mdbfjjv",
+      "author": "RealGianath",
+      "body": "Time for Infocom to make a comeback here, Zork should be preinstalled on this thing.",
+      "score": 1,
+      "created_utc": 1739826945.0,
+      "replies": [
+        {
+          "id": "mddpawv",
+          "author": "pedsmursekc",
+          "body": "Moonmist please",
+          "score": 1,
+          "created_utc": 1739854376.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mddox0a",
+      "author": "pedsmursekc",
+      "body": "Let's go! A text-based adventure Renaissance!",
+      "score": 1,
+      "created_utc": 1739854206.0,
+      "replies": []
+    },
+    {
+      "id": "mddqd1d",
+      "author": "pedsmursekc",
+      "body": "I get that there are other potential solutions out there to achieve the same or similar; even if it is quite niche, a robust and easy to use development environment could give people storytellers of all ages, an outlet for bringing their stories to life. I see potential here if marketed and developed correctly.",
+      "score": 1,
+      "created_utc": 1739854843.0,
+      "replies": []
+    },
+    {
+      "id": "md9uajr",
+      "author": "Perca_fluviatilis",
+      "body": "Ah, yes. The whole three fans of text-based adventures.",
+      "score": -4,
+      "created_utc": 1739811080.0,
+      "replies": [
+        {
+          "id": "mdax1cm",
+          "author": "bejeesus",
+          "body": "I've bought pretty much every choice of games available on android. I've probably spent 150 dollars on choose your own adventure stuff and I would never buy this garbage. I have a fucking phone.",
+          "score": 2,
+          "created_utc": 1739821768.0,
+          "replies": []
+        },
+        {
+          "id": "md9y76v",
+          "author": "canteen_boy",
+          "body": "I just finished playing Citizen Sleeper on PS5 last night. It could easily be ported to this device.",
+          "score": 0,
+          "created_utc": 1739812228.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdcg6lp",
+      "author": "throwaway3270a",
+      "body": "32bit? Heck, a 64bit ATM SOC can be had for under 100USD, so unless they're going for the $3.50 market, I'm rather unimpressed.",
+      "score": 0,
+      "created_utc": 1739838125.0,
+      "replies": []
+    },
+    {
+      "id": "md9vtcf",
+      "author": "uncoolcentral",
+      "body": "I\u2019ve used different means to introduce my various Luddite friends to AI. For one of them I had ChatGPT lead us by voice on a dungeon crawling adventure for a few minutes. He took it upon his own volition to try to defile a corpse. He was reasonably impressed with the\u2026 results. I imagine a good confluence of tech would be a low power E ink device like this paired with ChatGPT via API to provide dynamic situations and imagery on the fly. I\u2019m not interested in this, but for those who are, we\u2019re living in the future.",
+      "score": -2,
+      "created_utc": 1739811528.0,
+      "replies": []
+    }
+  ]
+}

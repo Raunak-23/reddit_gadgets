@@ -1,0 +1,49 @@
+metric,value
+file,1igooox.csv
+title,Apple’s AI and AR Struggles Show It Has Lost Some of Its Product Edge
+rows,367
+num_posts,1
+num_comments,366
+unique_authors,245
+max_depth,9
+avg_comment_words,83.88
+median_comment_words,60.0
+max_comment_words,416
+positive_count,42
+negative_count,324
+neutral_count,0
+positive_pct,11.475
+negative_pct,88.525
+neutral_pct,0.0
+topic_1_keywords,"time, things, changing, app, apple, update, every, innovation"
+topic_1_label,Apple updates every innovation
+topic_2_keywords,"got, time, like, apple, one, etc, new, phone"
+topic_2_label,Apple got time to like one of its new phones
+topic_3_keywords,"glass, better, iphone, battery, apple, much, people, time"
+topic_3_label,Apple's Glass Better Battery
+topic_4_keywords,"like, product, day, consumer, apple, cant, store, someone"
+topic_4_label,apple cants like a product on a day
+topic_5_keywords,"apple, ai, battery, siri, would, still, good, even"
+topic_5_label,ai battery would still be good even though it's not a battery
+topic_6_keywords,"apple, ai, like, use, think, really, dont, tech"
+topic_6_label,Apple likes to use it
+top_ngram_1,changing things (26)
+top_ngram_2,ai would (25)
+top_ngram_3,apple ai (22)
+top_ngram_4,hot garbage (22)
+top_ngram_5,would make (21)
+top_ngram_6,ai would make (21)
+top_ngram_7,vision pro (21)
+top_ngram_8,thought apple (20)
+top_ngram_9,make siri (20)
+top_ngram_10,siri better (20)
+ner_1,Apple|ORG|209
+ner_2,iPhone|MISC|65
+ner_3,Google|ORG|31
+ner_4,Sir|PER|16
+ner_5,Vision Pro|MISC|14
+ner_6,Sir|MISC|12
+ner_7,AI|MISC|12
+ner_8,IOS 18|MISC|11
+ner_9,iPhone 4|MISC|10
+ner_10,AI|ORG|10

@@ -1,0 +1,49 @@
+metric,value
+file,1kgca6s.csv
+title,Find my… bicycle? | Knog's Scout gives bikes a motion-sensitive alarm and Bluetooth tracking.
+rows,31
+num_posts,1
+num_comments,30
+unique_authors,25
+max_depth,3
+avg_comment_words,96.07
+median_comment_words,94.5
+max_comment_words,265
+positive_count,1
+negative_count,29
+neutral_count,0
+positive_pct,3.333
+negative_pct,96.667
+neutral_pct,0.0
+topic_1_keywords,"really, forget, bag, doesnt, everything, power, trying, riding"
+topic_1_label,i forgot everything
+topic_2_keywords,"alarm, bike, get, confront, makes, loud, amendment, second"
+topic_2_label,bike alarm gets a second point
+topic_3_keywords,"really, forget, bag, doesnt, everything, power, trying, riding"
+topic_3_label,i forgot everything
+topic_4_keywords,"stolen, bike, use, tell, help, police, back, get"
+topic_4_label,bike theft: police back
+topic_5_keywords,"really, forget, bag, doesnt, everything, power, trying, riding"
+topic_5_label,i forgot everything
+topic_6_keywords,"police, stolen, got, bike, report, called, group, trying"
+topic_6_label,police get stolen bike from police
+top_ngram_1,stolen bike (17)
+top_ngram_2,den thieves (16)
+top_ngram_3,sure see (14)
+top_ngram_4,see use (14)
+top_ngram_5,use case (14)
+top_ngram_6,case use (14)
+top_ngram_7,use identify (14)
+top_ngram_8,identify stolen (14)
+top_ngram_9,bike call (14)
+top_ngram_10,call police (14)
+ner_1,OneWheel|ORG|4
+ner_2,Air|MISC|3
+ner_3,Apple|ORG|3
+ner_4,iPhone|MISC|2
+ner_5,Alamo|LOC|1
+ner_6,Apple ID|MISC|1
+ner_7,##ce|ORG|1
+ner_8,##ag|MISC|1
+ner_9,Chromebooks|MISC|1
+ner_10,Blue|MISC|1

@@ -1,0 +1,49 @@
+metric,value
+file,1kc6fjo.csv
+title,Leica Raises Prices in Canada Because of US Tariffs
+rows,129
+num_posts,1
+num_comments,128
+unique_authors,95
+max_depth,9
+avg_comment_words,64.79
+median_comment_words,47.0
+max_comment_words,337
+positive_count,25
+negative_count,103
+neutral_count,0
+positive_pct,19.531
+negative_pct,80.469
+neutral_pct,0.0
+topic_1_keywords,"leica, use, big, film, prices, xray, makes, medical"
+topic_1_label,xrays used in medical films
+topic_2_keywords,"canada, us, leica, tariff, would, tariffs, directly, purchased"
+topic_2_label,"Canada, US, would tariffs directly purchased"
+topic_3_keywords,"never, camera, heard, lens, sold, even, company, thats"
+topic_3_label,camera never heard from lens
+topic_4_keywords,"us, canada, dont, simple, retailers, market, get, distribution"
+topic_4_label,retailing in canada and not in the market
+topic_5_keywords,"leica, price, know, sales, canada, retail, xiaomi, tariffs"
+topic_5_label,"Xiomi is a pricey, cheesy, and cheesy, but it is"
+topic_6_keywords,"leica, company, theyre, olympus, optics, also, lenses, one"
+topic_6_label,olympus lenses have a lens with a lens
+top_ngram_1,price parity (11)
+top_ngram_2,buying leica (11)
+top_ngram_3,canada us (10)
+top_ngram_4,makes sense (10)
+top_ngram_5,brought back (10)
+top_ngram_6,us would (10)
+top_ngram_7,directly canada (10)
+top_ngram_8,stuff us (10)
+top_ngram_9,ship directly (10)
+top_ngram_10,said wanted (9)
+ner_1,Canada|LOC|87
+ner_2,Leica|ORG|73
+ner_3,US|LOC|71
+ner_4,Canadian|MISC|23
+ner_5,Leica|MISC|22
+ner_6,Olympus|ORG|12
+ner_7,American|MISC|11
+ner_8,Sony|ORG|11
+ner_9,Europe|LOC|10
+ner_10,Fujifilm|ORG|9

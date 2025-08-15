@@ -1,0 +1,49 @@
+metric,value
+file,1kfbrta.csv
+title,"Canon publicly discusses the US tariffs: ""we will raise prices"""
+rows,399
+num_posts,1
+num_comments,398
+unique_authors,246
+max_depth,12
+avg_comment_words,60.84
+median_comment_words,47.0
+max_comment_words,908
+positive_count,41
+negative_count,343
+neutral_count,14
+positive_pct,10.302
+negative_pct,86.181
+neutral_pct,3.518
+topic_1_keywords,"tariffs, tariff, 145, company, thinking, imagine, heavily, society"
+topic_1_label,145 tariffs for a company in the world
+topic_2_keywords,"dont, tax, people, income, tariffs, idiot, china, well"
+topic_2_label,China's tax system is not good
+topic_3_keywords,"prices, buying, people, stay, going, dont, even, stuff"
+topic_3_label,Buying things for people is not the same as buying stuff
+topic_4_keywords,"tariffs, companies, make, price, raise, prices, go, think"
+topic_4_label,tariffs on tariffs
+topic_5_keywords,"would, companies, tax, company, dont, cost, like, consumers"
+topic_5_label,"if consumers don t pay taxes, companies would not pay taxes"
+topic_6_keywords,"prices, tariffs, us, trump, companies, thats, say, makes"
+topic_6_label,tariffs and tariffs make us a big hit
+top_ngram_1,income tax (47)
+top_ngram_2,eat cost (36)
+top_ngram_3,company would (32)
+top_ngram_4,dont need (31)
+top_ngram_5,raise prices (30)
+top_ngram_6,cost tariffs (26)
+top_ngram_7,145 tariff (24)
+top_ngram_8,still thinks (23)
+top_ngram_9,raising prices (22)
+top_ngram_10,tariffs dont (22)
+ner_1,US|LOC|72
+ner_2,Trump|PER|45
+ner_3,China|LOC|41
+ner_4,Americans|MISC|35
+ner_5,American|MISC|30
+ner_6,Sony|ORG|14
+ner_7,Amazon|ORG|14
+ner_8,Biden|PER|10
+ner_9,America|LOC|10
+ner_10,Chinese|MISC|9

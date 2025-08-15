@@ -1,0 +1,336 @@
+{
+  "post": {
+    "title": "Apple\u2019s Strict Requirements Of Delivering A Stellar AR Experience To A Pair Of Smart Glasses Is At Least Five Years Away",
+    "author": "BlueLightStruct",
+    "id": "1gowmr7",
+    "score": 317,
+    "created_utc": 1731343477.0,
+    "selftext": "",
+    "num_comments": 39,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gowmr7/apples_strict_requirements_of_delivering_a/"
+  },
+  "comments": [
+    {
+      "id": "lwltw14",
+      "author": "DarthBuzzard",
+      "body": "wccf**tech**.com but the author doesn't understand tech. Then again I suppose that is the norm for mainstream tech outlets these days.\n\n> The large, bulky, and expensive mixed-reality headsets will eventually be replaced by a pair of smart glasses\n\nLiterally the first line in this article is wrong. Not only will mixed reality headsets get much smaller, but they are ultimately two separate product categories for different needs. Anyone in the AR or VR industry knows this - AR is the one for both indoor and outdoor usage, but the quality of VR/MR will always be so far ahead of seethrough AR that there will be people who prefer to use VR/MR when indoors.\n\nAlso why even mention expense in this sentence when AR glasses will be far more expensive?\n\n> The Apple Vision Pro experience could be \u2018squeezed\u2019 into a glasses form, but it will take several years for a quality product to arrive\n\nThat's a lot longer than several years away. Maybe 7-10 years? Even Meta's $25000 Orion AR glasses prototype isn't even close to Apple Vision Pro's experience.",
+      "score": 46,
+      "created_utc": 1731344650.0,
+      "replies": [
+        {
+          "id": "lwm1dbr",
+          "author": "TheModeratorWrangler",
+          "body": "Here is what I don\u2019t get- Everyone expects Apple to make a \u201cmiracle device\u201d that upends the technological status quo. However, technology today means that the playing field has leveled out enough that to even have a first generation product like Vision Pro, outperform devices that cost factors more than it?\n\nI\u2019d say that people need to understand Apple shifting to in house silicon, to use these M(X) devices, that simply outperform expectations. All for a price point no where near as painful as the process of building a PC. Eventually, Apple will achieve the type of SoC to ensure they practically dominate the high end VR / AR markets.",
+          "score": 6,
+          "created_utc": 1731346948.0,
+          "replies": [
+            {
+              "id": "lwoz7sp",
+              "author": "NecroCannon",
+              "body": "Apple looks at anything they can do better themselves for around the same price and goes for it, like currently with modems and what else are they pushing? Satellite connection.\n\nThe problem with the Vision Pro is the price and even they know that, what I\u2019m going to find interesting is what will a Vision (non-pro)2 do to push the quo. That\u2019s when we\u2019ll get a peak into what MR/AR/VR will bring soon after. TBH I see AR glasses from Apple being a thing with the Apple Watch, Apple Watch buyers buy a pair of glasses that can use hand gestures from the watch to control the glasses and it\u2019s just a basic unintrusive UI that can give you information at a flick of the wrist and you can stream movies or something if you want. I really just don\u2019t see people wanting to have a AR UI around them when they want to use it. The average person is pretty lazy and would be pretty against having to wave their arms everywhere or put on an additional tech device to charge just to use the glasses. And you don\u2019t want to make them too bulky adding a ton of tech in there either, for everyday use simplicity is key and Apple has a way of doing that well while also tying it to other products to milk more money. I can somehow see Apple Watch-Apple Glasses-iPhone being the starter ecosystem thing for them and you gotta have all three for the perfect, modern mobile experience.",
+              "score": 3,
+              "created_utc": 1731381695.0,
+              "replies": [
+                {
+                  "id": "lwy4dnz",
+                  "author": "TheModeratorWrangler",
+                  "body": "I admit that your points are valid and coincidentally, I tried out a Meta Quest latest whatever and was pleasantly surprised by the demo experience. I\u2019ll sit out further opinions.",
+                  "score": 1,
+                  "created_utc": 1731519096.0,
+                  "replies": []
+                },
+                {
+                  "id": "lwypqnc",
+                  "author": "HunterVacui",
+                  "body": "I wouldn't say \"the problem\" is the price. I would be willing to pay that price for a comfortable high quality headset. The problem is that the device has too many problems. Walled ecosystem: I'm not paying apple to develop apps for a headset. Too heavy/bulky: it's not comfortable enough to wear for a long period. Short battery life: if you're going to give the damn thing a tether, offload compute AND battery and make the attachment bigger. Or hell, just make it a pc tethered headset. The newer apple computers are small enough to be portable anyway.\n\n\nAnd add all that to the price, no thanks\n\n\nAs a side note, there's plenty of room for improvement too. After seeing YouTuber reviews of the Orion, I'm pretty convinced that hand tracking will never be as good by itself as having a wrist band. In particular, for haptic feedback and hands-in-pockets controls, but I'm also assuming the gesture detection accuracy with a wrist band will be a game changer.",
+                  "score": 1,
+                  "created_utc": 1731525534.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwmo7ox",
+          "author": "Sirisian",
+          "body": "> That's a lot longer than several years away. Maybe 7-10 years?\n\nIt really did require Apple to invest way more in MicroLED. Their original plan to begin producing them might have cut some time/cost off, but without that investment the timelines are unknown.\n\nIt's going to be a relatively glacial progress. MR glasses have to go through 4K -> 8K -> 16K per eye to get to \"mainstream\". They also need an opacity filter to mix incoming light with pixel resolution - which doesn't exist yet.\n\nThe actual time scales for some of these projects are into the 2040s at this pace.\n\n> Literally the first line in this article is wrong. Not only will mixed reality headsets get much smaller, but they are ultimately two separate product categories for different needs.\n\nThe goal is ultimately for local dimming to merge the two. If the light blending filter that mixes incoming light with the display light is cheap enough then it can just shutout incoming light completely. This same optical component is what will ultimately create shadows and opaque objects for fully immersive experiences. The timelines for this could easily be 30 years away though, so you're probably right that we'll have two products.",
+          "score": 2,
+          "created_utc": 1731353890.0,
+          "replies": [
+            {
+              "id": "lwmr6az",
+              "author": "DarthBuzzard",
+              "body": "> The timelines for this could easily be 30 years away though, so you're probably right that we'll have two products.\n\nYeah, I know that Meta and Apple really want a device that can eventually do everything, but it really is so far into the distant horizon, and even then it essentially needs to be contact lenses to provide a perfect VR experience - as glasses with full dimming capabilities will still need to look like normal glasses, whereas VR enthusiasts will really want that full human field of view in a wraparound form factor.",
+              "score": 2,
+              "created_utc": 1731354792.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lwpdd9i",
+          "author": "None",
+          "body": "That\u2019s the eventual death of smartphones as the dominant paradigm. \n\nIf we can get to the point where glasses can provide a HUD with no projector or ski goggle screen, it will be a complete game changer. \n\nImagine walking down a hall or street where your glasses tell you who a person is and how you know them. Or, giving you in context notifications like temperature when looking outside or helping you see paths when driving. Literally revolutionary technology but we\u2019re just not there yet.",
+          "score": 1,
+          "created_utc": 1731387789.0,
+          "replies": []
+        },
+        {
+          "id": "lwtvb94",
+          "author": "alidan",
+          "body": "for ar glasses to make sense, you would need several technologies at the same time\n\n1) you would need internet access and an ai at the ready for translation needs or any questions you have. this is the most obvious thing they could do, an example, look at manga and imagine the glasses just translate whats in japanese and overlay. \n\n2) you need to have low latency access to more data, imaginee in a car if all the cars sensors allowed you to have far far clearer vision at night for upcoming issues, or see the deer or threats at the side of the road without much issue. the only place I know that does shit like this is fighter jets as standard.\n\n3) high enough quality for some level of entertainment, most current ar doesn't have a form factor that allows you to not be noticeable, but imagine being able to sit there and just watch a show without needing to stare at a phone. possibly a split controller because god knows normal people are afraid of what people they will never see again think of them, imagine if in public you could play a game controllers not visible and that's how you spend the time on a commute. \n\n4) from a self preservation stand point, cameras that don't make it obvious when you are recording. people get really weird when they think or know they are being recorded, to the point it will provoke fights better than an insult ever could. I would want to wear a body cam in public at all times just so i'm never accused of shit I never did, computer enabled glasses are the number 1 thing I would want this on because its seeing exactly what I see.",
+          "score": 1,
+          "created_utc": 1731453441.0,
+          "replies": []
+        },
+        {
+          "id": "lwm6tlv",
+          "author": "WhenPantsAttack",
+          "body": "I think what you are discounting is that it doesn't matter the quality of VR/MR displays.  It matters on how you can fit that experience into your life and workflow.  VR/MR by definition put a barrier between you and the rest of the world around you, even if MR tries to integrate it.\n\nI also disagree that AR glasses will be more expensive.  I think mainstream adoption of AR will ultimately look similar to the thumbnail.  It will be simple notifications and static information, such as turn-by-turn directions or maybe a list of 3-4 of nearby resteraunts, not full resolution, dynamic video or animations overlaid on the world.  Think more North Focals before Google bought and shuttered them than Meta Orion or Snap spectacles.",
+          "score": 1,
+          "created_utc": 1731348598.0,
+          "replies": [
+            {
+              "id": "lwm7no7",
+              "author": "DarthBuzzard",
+              "body": "> Think more North Focals before Google bought and shuttered them than Meta Orion or Snap spectacles.\n\nLet's say that AR settles on that and this is what it's used for. Great, useful stuff, but that would drive home the point that this is completely different to VR/MR because in this scenario AR would have no real focus on immersion. Depending on how you describe it, it wouldn't even be AR at all, like if it was a Meta Raybans type deal.\n\nI just dislike the narrative that people assume AR glasses are the be-all and end-all, and will replace MR/VR - it won't.",
+              "score": 3,
+              "created_utc": 1731348853.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwq538d",
+      "author": "Borbit85",
+      "body": "O think it's so weird that smart glasses are not a thing yet. There are so many people that wear glasses already. I don't need to watch a 4k movie on them. Just a really simple text only display would be so usefull! I don't need it to have AI bullshit. Don't even really need a camera. A headset could be a nice plus but I can do without easy. It doesn't need compute power, I have a damn fast computer in my pocket already. Just a real simple see through display for some notes. A clock or navigation.",
+      "score": 3,
+      "created_utc": 1731404886.0,
+      "replies": [
+        {
+          "id": "lws93ct",
+          "author": "None",
+          "body": "Right there with you, just give me the same as my phone's lock screen would; time/date, any messages, reminder or calendar events. \n\nI find the camera idea really invasive, and I find it bizarre that people are more trusting of meta to do it than Google.",
+          "score": 1,
+          "created_utc": 1731435015.0,
+          "replies": [
+            {
+              "id": "lws9oe3",
+              "author": "Borbit85",
+              "body": "Ja and imagine something so simple as a shopping list. Or instructions for assembling IKEA furniture. Cooking recipe.\n\nI don't think people are more trusting of Meta than Google. Google had smart glasses but it was a first. And quite some years ago so people are more used to it. \n\nI guess if you wear the Meta glasses irl a lot of people are gonna mind. But if it was just a screen, no cam I would not mind at all.",
+              "score": 1,
+              "created_utc": 1731435195.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwlvfkj",
+      "author": "None",
+      "body": "Meta\u2019s demo AR glasses are the most advanced things I\u2019ve seen and I think it\u2019s probably safe to assume that Apple has a very similar prototype in their labs since all these companies basically copy each others stuff so 5 years seems doable from that context. Then again, Meta is outpacing Apple in tech so maybe Apple doesn\u2019t have it anymore.\n\ne: wholly run on sentence, Batman",
+      "score": 13,
+      "created_utc": 1731345125.0,
+      "replies": [
+        {
+          "id": "lwrh9q6",
+          "author": "glytxh",
+          "body": "Apple is rarely the first to drop a new kind of hardware to the market. \n\nBut they refine the shit out of whatever they eventually do release. \n\nSmartphones existed a while before iPhone set the standard. Some very good smartphones, built by companies that just failed to play the long game. \n\nIf I were a betting man, AR smart glasses at a price comparable to a smartphone is a decade away still. \n\nMeta\u2019s lenses in their prototype are one of the biggest hurdles. Anybody who works out how to mass manufacture those as a viable cost is going to run the AR game.",
+          "score": 2,
+          "created_utc": 1731426408.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwlrd3w",
+      "author": "igkeit",
+      "body": "Apple doesn't seem to have strict requirements anymore",
+      "score": 3,
+      "created_utc": 1731343871.0,
+      "replies": [
+        {
+          "id": "lwlu214",
+          "author": "hhs2112",
+          "body": "Shareholder return. That's it.\u00a0",
+          "score": 4,
+          "created_utc": 1731344702.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwn94wk",
+      "author": "Ancient-Beat-1614",
+      "body": "Check OP's account, this guy is like the #1 XR hater",
+      "score": 2,
+      "created_utc": 1731360277.0,
+      "replies": []
+    },
+    {
+      "id": "lwnxd1z",
+      "author": "bobniborg1",
+      "body": "Of course. They have to wait for it to be 99% ready and then add 1% and say they invented it",
+      "score": 2,
+      "created_utc": 1731368133.0,
+      "replies": []
+    },
+    {
+      "id": "lwnlx9z",
+      "author": "thirteennineteen",
+      "body": "Wave Guides suck. Apple will never release a product with them. Which means shrinking the AVP\u2019s pass-through model. That will take a while",
+      "score": 1,
+      "created_utc": 1731364269.0,
+      "replies": []
+    },
+    {
+      "id": "lwot7v3",
+      "author": "FlamingTrollz",
+      "body": "Ok.\n\n![gif](giphy|cWvSvMEW6yGY6CGjWT|downsized)",
+      "score": 1,
+      "created_utc": 1731379453.0,
+      "replies": []
+    },
+    {
+      "id": "lwpsmdt",
+      "author": "None",
+      "body": "And they'll sell them for $5000 a pair and then wonder why they failed like their stupid Vision goggles thing",
+      "score": 1,
+      "created_utc": 1731396400.0,
+      "replies": []
+    },
+    {
+      "id": "lwq86hl",
+      "author": "mt0386",
+      "body": "Instead of big heavy vr headset, why wasnt it just light weight glass screen tethered to a main device sittin in your pockets or back pack?\n\nYeah critics would say how ugly the tethered wires to the ass would be but pretty sure MOST vr enthusiast or gamers have wires tethered to their pc.",
+      "score": 1,
+      "created_utc": 1731406982.0,
+      "replies": []
+    },
+    {
+      "id": "lwrkzs1",
+      "author": "I-lack-braincells",
+      "body": "AR that uses transparent optics is trash compared to the reproductive AR like the Apple Vision Pro. I hope it's a separate device and does not replace the Apple Vision Pro line. Just make the Apple Vision Pro smaller and give it better cameras.",
+      "score": 1,
+      "created_utc": 1731427588.0,
+      "replies": []
+    },
+    {
+      "id": "lwm1hmh",
+      "author": "bbbbears",
+      "body": "Idk. I don\u2019t think AR glasses are ever gonna catch on in a major way. I sold glasses for decades and it would be a nightmare. I just don\u2019t see how they can get to the point where it won\u2019t give the wearer headaches and be more of a distraction than a benefit.",
+      "score": 1,
+      "created_utc": 1731346983.0,
+      "replies": [
+        {
+          "id": "lwm2a05",
+          "author": "DarthBuzzard",
+          "body": "> where it won\u2019t give the wearer headaches and be more of a distraction than a benefit.\n\nAre you talking about headaches from the physical weight?",
+          "score": 3,
+          "created_utc": 1731347226.0,
+          "replies": [
+            {
+              "id": "lwm2dx1",
+              "author": "bbbbears",
+              "body": "I\u2019m thinking more from distortion",
+              "score": 0,
+              "created_utc": 1731347259.0,
+              "replies": [
+                {
+                  "id": "lwm3bn1",
+                  "author": "Sylvurphlame",
+                  "body": "Distortion?",
+                  "score": 5,
+                  "created_utc": 1731347542.0,
+                  "replies": [
+                    {
+                      "id": "lwm44js",
+                      "author": "bbbbears",
+                      "body": "Lots of people can\u2019t even handle progressive lenses because of the peripheral distortion, it doesn\u2019t seem like AR glasses would be super different",
+                      "score": 3,
+                      "created_utc": 1731347781.0,
+                      "replies": [
+                        {
+                          "id": "lwmgmi5",
+                          "author": "Sylvurphlame",
+                          "body": "Ah. Gotcha.",
+                          "score": 2,
+                          "created_utc": 1731351578.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lwm328s",
+                  "author": "DarthBuzzard",
+                  "body": "Good AR glasses have very little distortion. The bigger issue is the fixed focus optics, though even that is solvable long-term.",
+                  "score": 5,
+                  "created_utc": 1731347464.0,
+                  "replies": [
+                    {
+                      "id": "lwm4aas",
+                      "author": "bbbbears",
+                      "body": "I\u2019m sure technology will solve it, I just still don\u2019t see them being that popular, at least not for many years. That\u2019s just like, my opinion tho, i could be totally wrong",
+                      "score": -1,
+                      "created_utc": 1731347830.0,
+                      "replies": [
+                        {
+                          "id": "lwm4i94",
+                          "author": "DarthBuzzard",
+                          "body": "I think it'll take maybe up to 15 years to be popular, so yeah it won't be happening for a long while at least.",
+                          "score": 3,
+                          "created_utc": 1731347894.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwobvos",
+      "author": "gman5852",
+      "body": "When has apple ever had quality standards? They just wait for other companies to do it so they can halfass their own version and call it \"streamlined\"",
+      "score": 1,
+      "created_utc": 1731373237.0,
+      "replies": []
+    },
+    {
+      "id": "lwm8l8k",
+      "author": "Wristlojackimator",
+      "body": "And even then, no one wants to interact with someone wearing AR glasses. It\u2019s rude to those around you.",
+      "score": 0,
+      "created_utc": 1731349138.0,
+      "replies": []
+    },
+    {
+      "id": "lwn7rid",
+      "author": "marcus_aurelius420",
+      "body": "Ah great, a pair of glasses to tell me the date and time, perfect!",
+      "score": 0,
+      "created_utc": 1731359860.0,
+      "replies": [
+        {
+          "id": "lwoy5kg",
+          "author": "Rollertoaster7",
+          "body": "Have you seen the Orion demo? It will be far more than that",
+          "score": 0,
+          "created_utc": 1731381286.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1iepikz.csv
+title,Apple reportedly gives up on its AR video glasses project
+rows,231
+num_posts,1
+num_comments,230
+unique_authors,142
+max_depth,21
+avg_comment_words,78.77
+median_comment_words,47.0
+max_comment_words,618
+positive_count,13
+negative_count,121
+neutral_count,96
+positive_pct,5.652
+negative_pct,52.609
+neutral_pct,41.739
+topic_1_keywords,"glasses, vision, apple, ar, pro, like, product, even"
+topic_1_label,glasses and vision
+topic_2_keywords,"car, dont, apple, ev, project, cars, china, monoprice"
+topic_2_label,ev project car dont in china
+topic_3_keywords,"meta, would, get, technology, want, like, still, cool"
+topic_3_label,like to cool
+topic_4_keywords,"glasses, like, terminator, pair, want, wear, already, sees"
+topic_4_label,i want to wear glasses
+topic_5_keywords,"apple, cancer, greed, innovation, theres, make, app, products"
+topic_5_label,"Apple, cancer, innovation, theres, theres"
+topic_6_keywords,"ev, patents, even, patent, years, like, product, get"
+topic_6_label,patents and even patents
+top_ngram_1,pair glasses (36)
+top_ngram_2,want pair (33)
+top_ngram_3,terminator sees (33)
+top_ngram_4,sees 1984 (33)
+top_ngram_5,1984 movie (33)
+top_ngram_6,movie terminator (33)
+top_ngram_7,want pair glasses (33)
+top_ngram_8,terminator sees 1984 (33)
+top_ngram_9,sees 1984 movie (33)
+top_ngram_10,1984 movie terminator (33)
+ner_1,Apple|ORG|69
+ner_2,Te|PER|33
+ner_3,The Terminator|MISC|30
+ner_4,China|LOC|24
+ner_5,E|MISC|23
+ner_6,Meta|ORG|22
+ner_7,##inator|PER|19
+ner_8,##rm|MISC|19
+ner_9,Xiaomi|ORG|18
+ner_10,##rminator|MISC|14

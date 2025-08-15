@@ -1,0 +1,49 @@
+metric,value
+file,1gynyrv.csv
+title,Sony Has the Problem Every Competitor Wants: Its Flagship Was Too Good to Follow
+rows,84
+num_posts,1
+num_comments,83
+unique_authors,62
+max_depth,8
+avg_comment_words,94.3
+median_comment_words,69.0
+max_comment_words,398
+positive_count,18
+negative_count,65
+neutral_count,0
+positive_pct,21.687
+negative_pct,78.313
+neutral_pct,0.0
+topic_1_keywords,"games, didnt, ps5, still, ps4, even, coming, point"
+topic_1_label,"ps5 still, ps4 even, coming"
+topic_2_keywords,"sony, phone, camera, like, cameras, capture, one, get"
+topic_2_label,Sony phones and cameras capture one
+topic_3_keywords,"m4, people, m1, still, jazzed, one, chip, benchmark"
+topic_3_label,"m4 people, m1, still, chip, benchmark"
+topic_4_keywords,"years, im, average, every, laptop, people, run, dont"
+topic_4_label,i am a computer user
+topic_5_keywords,"cameras, years, camera, right, autofocus, get, better, dont"
+topic_5_label,camera right autofocus
+topic_6_keywords,"cameras, someone, look, always, still, done, alpha, ii"
+topic_6_label,ii of cameras and alpha
+top_ngram_1,pretty jazzed (11)
+top_ngram_2,even today (11)
+top_ngram_3,today games (11)
+top_ngram_4,games still (11)
+top_ngram_5,still keep (11)
+top_ngram_6,keep coming (11)
+top_ngram_7,even today games (11)
+top_ngram_8,today games still (11)
+top_ngram_9,games still keep (11)
+top_ngram_10,still keep coming (11)
+ner_1,Sony|ORG|31
+ner_2,PS5|MISC|24
+ner_3,M1|MISC|17
+ner_4,PS4|MISC|15
+ner_5,Apple|ORG|13
+ner_6,Mac|MISC|11
+ner_7,M4|MISC|10
+ner_8,Alpha 1 II|MISC|9
+ner_9,AAA|ORG|8
+ner_10,Canon|ORG|4

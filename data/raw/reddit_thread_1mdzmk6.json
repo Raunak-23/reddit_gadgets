@@ -1,0 +1,2145 @@
+{
+  "post": {
+    "title": "Google Home Is So Bad That a Lawsuit Could Be on Its Way | Home is where the smart lights inexplicably stop working.",
+    "author": "chrisdh79",
+    "id": "1mdzmk6",
+    "score": 1937,
+    "created_utc": 1753963237.0,
+    "selftext": "",
+    "num_comments": 263,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1mdzmk6/google_home_is_so_bad_that_a_lawsuit_could_be_on/"
+  },
+  "comments": [
+    {
+      "id": "n65eu5w",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Luckeep X1 ebike!\n\n[https://www.reddit.com/r/gadgets/comments/1ltu5rz/luckeep_x_rgadgets_giveaway_win_a_brandnew/?)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1753963238.0,
+      "replies": []
+    },
+    {
+      "id": "n65n26j",
+      "author": "LupusDeusMagnus",
+      "body": "Is there any smart home alternative that is local only? That works in your WiFi not over some company server? I\u2019d love that.",
+      "score": 146,
+      "created_utc": 1753966193.0,
+      "replies": [
+        {
+          "id": "n65ok36",
+          "author": "technobrendo",
+          "body": "Home assistant is one I think, you need to spin it up on your own home server or appliance (like a docker container running on a NAS for example).\n\nPlus you need to integrate it with all your smart things and I don't know how compatible it is compared to Google home",
+          "score": 114,
+          "created_utc": 1753966696.0,
+          "replies": [
+            {
+              "id": "n65r7qw",
+              "author": "PreviousImpression28",
+              "body": "I get Home Assistant is like a server for IoT, but I have no idea what hardware to get. What do I get for the doorbell? What do I get for the thermostat? What do I get for the lightbulbs, etc?\n\nPeople on here always tout Home Assistant, but god damn, they\u2019re so fucking bad at selling how it can be the alternative to Nest or Alexa. Like, I need someone to spell out the entire hardware ecosystem to me so I can just buy them and brainlessly install Home Assistant.",
+              "score": 35,
+              "created_utc": 1753967579.0,
+              "replies": [
+                {
+                  "id": "n67x255",
+                  "author": "audigex",
+                  "body": "It\u2019s not a big commercial entity, so there\u2019s no \u201cJust buy Google Home stuff\u201d statement we can make\n\nBut as some general rules \n\nBuy Zigbee/Thread or Matter devices where possible, they pretty much all work locally if you have a suitable coordinator, and with minimum effort. Ikea smart home stuff is mostly Zigbee and works with home assistant with a generic Zigbee USB dongle\n\nReolink are very popular for cameras. I use their doorbell and it\u2019s great, works fully locally\n\nAqara are a general good call for Home Assistant sensors, some lights. Shelly for relays. IKEA for lightbulbs\n\nYou can also connect most things that use cloud services, so most existing devices you already have should work until you need to replace them and can buy fully locally\n\nSome things like thermostats you may struggle to find a local only version because there are so few on the market - but again, cloud ones will generally work to fill in this kind of gap if you find it\u2019s unavoidable\n\nThe actual answer is that Home Assistant can work with almost any smart device - there\u2019s very little in my house that I\u2019ve found doesn\u2019t \u201cjust work\u201d",
+                  "score": 34,
+                  "created_utc": 1753989718.0,
+                  "replies": []
+                },
+                {
+                  "id": "n664rpr",
+                  "author": "LUV_2_BEAT_MY_MEAT",
+                  "body": "You can get effectively anything. I have a million different smart devices - reolink doorbell, tapo cameras, govee and kasa smart lights and switches, nest thermostat, midea ac, shark vacuum, Samsung TV, and my home assistant instance controls all of them.",
+                  "score": 34,
+                  "created_utc": 1753971718.0,
+                  "replies": []
+                },
+                {
+                  "id": "n67nl8y",
+                  "author": "Tuxhorn",
+                  "body": "If you start from scratch, focus on zigbee compatible smart devices. Stuff from Ikea and Philips Hue products support this for example.\n\nHome assistant does sell a complete package, hardware wise. No need to go crazy if you don't care to, although the software side of home assistant does require you to be technically literate.\n\nFor anyone else, if you're running it on your own hardware (old PC, a raspberry pi), i'd always recommend the smlight slzb-06, instead of a dongle. This makes virtualization a lot simpler as you don't have to deal with pass through, but that's a more in depth discussion about why you might want to do that.",
+                  "score": 3,
+                  "created_utc": 1753986994.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6660y3",
+                  "author": "JamesTiberiusCrunk",
+                  "body": "You can just ask people what to get. Most of the time you can just Google \"home assistant local XYZ\" where XYZ is thermostat or doorbell or whatever. You are going to have to do some things for yourself though. If googling is too much work for you I'm not sure any of this is for you.",
+                  "score": 10,
+                  "created_utc": 1753972082.0,
+                  "replies": []
+                },
+                {
+                  "id": "n65ulgd",
+                  "author": "mikeyyve",
+                  "body": "The internet is a wealth of information on all the questions you are asking from what hardware to buy to run Home Assistant to what devices to buy to suit your use case.",
+                  "score": 8,
+                  "created_utc": 1753968658.0,
+                  "replies": [
+                    {
+                      "id": "n6afybe",
+                      "author": "HellzHoundz2018",
+                      "body": "And yet you didn't answer the question that was asked. If they knew where to look, then they wouldn't have asked the question.",
+                      "score": 0,
+                      "created_utc": 1754019853.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n685yag",
+                  "author": "kyledreamboat",
+                  "body": "Spin it up on a raspberry pi. It's so easy and better than when I started during covid. Raspberry pi I find is the easiest and now it finds a whole lot of things without work.",
+                  "score": 2,
+                  "created_utc": 1753992302.0,
+                  "replies": []
+                },
+                {
+                  "id": "n68gkh9",
+                  "author": "JNJury978",
+                  "body": "Home Assistant Green is what most people get.",
+                  "score": 2,
+                  "created_utc": 1753995291.0,
+                  "replies": []
+                },
+                {
+                  "id": "n684t12",
+                  "author": "OldRasputin77",
+                  "body": "Search YouTube for NetworkChuck. His presentation is a little annoying, but the info is good. He has videos on home assistant as well as using it as a voice assistant and what hardware to use. \n\nYou can probably find a lot of info in the home assistant subreddit.",
+                  "score": 2,
+                  "created_utc": 1753991973.0,
+                  "replies": []
+                },
+                {
+                  "id": "n67ms1r",
+                  "author": "Luscious_Decision",
+                  "body": "What I've been figuring is that maybe there's a software or app that can run my bootsie, various-branded bulbs and devices, but all on one, more stable, app. \n\nSomething third party, I'd figure.",
+                  "score": 1,
+                  "created_utc": 1753986762.0,
+                  "replies": [
+                    {
+                      "id": "n686u35",
+                      "author": "akl78",
+                      "body": "Home assistant is the closest thing to that there is. Although no-name wifi bulbs are notoriously hard for even it to support.",
+                      "score": 2,
+                      "created_utc": 1753992553.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n68npks",
+                  "author": "medoy",
+                  "body": "You buy Hone assistant Green. I have zero desire to out together or \"build\" some hardware. I just want to get stuff done.  This thing is great",
+                  "score": 1,
+                  "created_utc": 1753997391.0,
+                  "replies": []
+                },
+                {
+                  "id": "n69ahmi",
+                  "author": "ericstern",
+                  "body": "arent nests are bricked now when they lost all support if I recall? In such a case any paperweight will do fine in replacing a nest!",
+                  "score": 1,
+                  "created_utc": 1754004637.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6a2rbk",
+                  "author": "emelbard",
+                  "body": "Because almost everything works with HA out of the box. It\u2019s borderless and talks the languages of -nearly- all HA devices. Zwave, zigbee, HomeKit, thread, WiFi, Bluetooth. Most cameras to include UniFi Protect are discovered out of the box. If you have something that\u2019s cloud based like iRobot for roombas, HA will integrate it although it\u2019s still reliant on their cloud since their comms are proprietary. I think that\u2019s why people never explain this about HA - many of them can\u2019t grasp that the rest of the home automations are closed and single protocol.",
+                  "score": 1,
+                  "created_utc": 1754014655.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6a8y4q",
+                  "author": "inventord",
+                  "body": "I \"switched\" to home assistant just over a year ago. I grabbed a $40 mini PC that sits in a drawer and runs home assistant in a VM.\n\nFor compatibility, every single device I had worked. All my  cheap tuya stuff could be switched to local control. My TVs work fine. My smart plugs from different brands cooperate via homekit integration, as well as my ecobee thermostat. Someone even made an integration for our alarm that (mostly) works.\n\nSince there's such a a big community out there, it's kind of hard to find a large manufacturer that isn't supported at all -- unless they're super stubborn.\n\nFor new purchases, just look for things that work with zigbee or zwave and get a dongle for home assistant. I run a bunch of inovelli smart light switches and some cheap sengled bulbs. I did that so I could have color changing smart lights with a physical light switch that wouldnt just kill the power to them. I even DIYed a landscape lighting controller that uses a zigbee relay.",
+                  "score": 1,
+                  "created_utc": 1754016994.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6b7en9",
+                  "author": "FirmMarch",
+                  "body": "For doorbell I\u2019d get the reolink one. It can run fully local (not dependent om any cloud connection).",
+                  "score": 1,
+                  "created_utc": 1754033497.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6c61eo",
+                  "author": "IronHeart_777",
+                  "body": "I have a HP DL380 G9 enterprise server running Unraid down in my basement that I host a bunch of things on such as my own personal instance of Vaultwarden to manage my passwords (completely removed them from google/apple), Immich, which completely replaced google/apple photos, multiple dedicated game servers, NUMEROUS other self hosted docker containers and a VM running home assistant. What no one is mentioning with Home assistant is that it's complex. Linking your services such as Philips Hue to Home assistant is cake, sure but the nightmare begins when you want a nice big library of premade scenes or scenes that gradually shift over time. There's nothing like that without taking a big dive into HACS. If you buy a zigbee adapter, all zigbee devices can only be controlled by one 'master' zigbee controller so you'll need to factory reset them (such as hue bulbs) and then let the zigbee controller manage them. It's very much an all in situation that I've been extremely hesitant to jump to even though I have a zigbee usb controller. I also think that the google speakers home assistant plugin has a subscription, could be wrong. If you want to switch to home assistant without fussing about hardware, check out the home assistant green or yellow which are made directly by the group who make the software.",
+                  "score": 1,
+                  "created_utc": 1754050801.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6e6a3a",
+                  "author": "SirPancakesIII",
+                  "body": "From my experience there is no \"brainlessly install home assistant\".\n\nI am a computer engineer by day, and setting up home assistant was not an easy task. \n\nI have a front door bell camera, an automated water shutoff system, and an alarm system running on my home assistant. \n\nIt took a lot of learning and many hours of testing and debug to get those systems set up how I wanted. \n\nI am in love with it now because I have local control of everything, but for people with little technical experience I would say its probably not going to be worth it unless if you can dedicate many hours to learn some new skills.",
+                  "score": 1,
+                  "created_utc": 1754072340.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6g6zrw",
+                  "author": "boomoto",
+                  "body": "Look into z-wave devices for hardware. There pricey but super secure and responsive",
+                  "score": 1,
+                  "created_utc": 1754095608.0,
+                  "replies": []
+                },
+                {
+                  "id": "n66aghi",
+                  "author": "xeonrage",
+                  "body": "> eople on here always tout Home Assistant, but god damn, they\u2019re so fucking bad at selling how it can be the alternative to Nest or Alexa\n\nagreed.\n\nand also, HA has a LONG way to go on catering to anyone but the super technical/homelab types. My desire to figure out a million config items left me years ago, HA ain't it.",
+                  "score": 2,
+                  "created_utc": 1753973343.0,
+                  "replies": [
+                    {
+                      "id": "n6aafx3",
+                      "author": "Paavo_Nurmi",
+                      "body": ">My desire to figure out a million config items left me years ago, HA ain't it.\n\nSame here, I use Homekit and really like it.",
+                      "score": 3,
+                      "created_utc": 1754017586.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "n699a4h",
+                      "author": "npre",
+                      "body": "HA has certainly improved a lot in the last few years but like linux it remains something you would not want to give to grandma. Unless you hate grandma.",
+                      "score": 2,
+                      "created_utc": 1754004232.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "n67stcu",
+                      "author": "onion2072",
+                      "body": "it\u2019s basically plug and play at this point",
+                      "score": 2,
+                      "created_utc": 1753988480.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n668fsw",
+                  "author": "Frdrkpm",
+                  "body": "Install it on a raspberry pi 3 or 4. Buy a Zigbee stick and follow any of the many guides on how to set the stick up with the Zigbee2mqtt integration. Then go nuts with Zigbee devices for whatever you need.",
+                  "score": 1,
+                  "created_utc": 1753972775.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6791k6",
+                  "author": "scuddlebud",
+                  "body": "I use it on a raspberry pi.",
+                  "score": 1,
+                  "created_utc": 1753982980.0,
+                  "replies": []
+                },
+                {
+                  "id": "n68pjrt",
+                  "author": "OnTheGoatBoat",
+                  "body": "It\u2019s obvious you haven\u2019t even googled it because the first thing you\u2019re presented with is a massive searchable list of compatible hardware",
+                  "score": 1,
+                  "created_utc": 1753997944.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6adzu4",
+                  "author": "DeusScientiae",
+                  "body": "If you don't know the very basics of searching the web for equipment then smart home life isn't for you. You're not intelligent or tenacious enough to handle the upkeep and maintence.",
+                  "score": 1,
+                  "created_utc": 1754019033.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n65qzuh",
+              "author": "LupusDeusMagnus",
+              "body": "My pi server in the bottom part of my undies drawer is ready.\u00a0",
+              "score": 2,
+              "created_utc": 1753967506.0,
+              "replies": []
+            },
+            {
+              "id": "n69lgii",
+              "author": "bigkoi",
+              "body": "Yep. It also works the best IMO.  Especially with Hue bulbs.",
+              "score": 1,
+              "created_utc": 1754008427.0,
+              "replies": []
+            },
+            {
+              "id": "n69o3nx",
+              "author": "BrotherEarth_",
+              "body": "I had a spare Raspberry Pi 3 laying around so I installed home Assistant on it and it's LIFE CHANGING everything is supported and if it's not someone in the community made a GitHub repo so that it is supported",
+              "score": 1,
+              "created_utc": 1754009350.0,
+              "replies": []
+            },
+            {
+              "id": "n69vge9",
+              "author": "Dankenstin3",
+              "body": "So no lol",
+              "score": 1,
+              "created_utc": 1754011989.0,
+              "replies": []
+            },
+            {
+              "id": "n67qfl7",
+              "author": "danny12beje",
+              "body": "All of you ask like it's as simple as that but there's a fuckton of devices not natively supported by HA that you can only use with custom things that require you to have specific devices because even if you find, for example, an extension for Xiaomi devices, not all of them are on that list (I can name plenty vacuums, lights and fans) that won't work. And the ones that do you have to learn fucking programming to use them.\n\nHA is terrible for when you have multiple different-brand devices. And if you're forced to have 1/2 brands to make sure everything works out of the box, how is it different than having everything in the google, apple or amazon ecosystems?",
+              "score": -3,
+              "created_utc": 1753987807.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n65qx8g",
+          "author": "diamondintherimond",
+          "body": "HomeKit is local. Home Assistant is even better but harder to first set up.",
+          "score": 24,
+          "created_utc": 1753967482.0,
+          "replies": []
+        },
+        {
+          "id": "n65u99f",
+          "author": "mikeyyve",
+          "body": "Home Assistant + zigbee dongle + Zwave dongle = completely local control. I will never use online smart devices again.",
+          "score": 19,
+          "created_utc": 1753968554.0,
+          "replies": [
+            {
+              "id": "n660no5",
+              "author": "drae-",
+              "body": "How does this manage to interpret your voice commands?",
+              "score": 6,
+              "created_utc": 1753970505.0,
+              "replies": [
+                {
+                  "id": "n668tfy",
+                  "author": "mikeyyve",
+                  "body": "Historically, you're only choice was to use their integration into Google Assistant to get voice control through Google Homes. The Home Assistant team has started adding voice control systems directly into Home Assistant itself and they are even currently selling a device that basically replaces a Google Home mini but it's in preview. I haven't messed with any of that yet but it sounds like it's still being worked on and will be good in a year or two.\n\nI'm still using the method of exposing my local devices to Google Home and using Assistant for voice control. I hate it and its terrible. Google Assistant/Home is absolutely terrible now. With that said we don't use voice control much in the house. I have Z Wave wall switches for the switches that can support wired ones and battery powered wireless switches for areas that don't have a switch or have a switch that doesn't support a smart switch. I also have a lot of motion/presence sensors in the house which trigger things like lights when you enter a room. \n\nWow I'm sorry for the wall of a response this turned into... Lmao. Home Assistant and home automation is sort of an unhealthy hobby of mine.",
+                  "score": 8,
+                  "created_utc": 1753972883.0,
+                  "replies": [
+                    {
+                      "id": "n66a5x2",
+                      "author": "drae-",
+                      "body": "I mean, I use voice and motion, extensively. Motion is useless in my den where I often sit at the pc pretty comotose and the lights just turn off on me. Voice is necessary for us.\n\nLuckily I've not a had a single problem with my google home setup. It still acts exactly the same as when I installed it years ago. So imma just keep using that. I guess there are advantages to being in a market google half ignores and only releases half their products to.",
+                      "score": -4,
+                      "created_utc": 1753973260.0,
+                      "replies": [
+                        {
+                          "id": "n67r1e8",
+                          "author": "gmmxle",
+                          "body": ">I mean, I use voice and motion, extensively. Motion is useless in my den where I often sit at the pc pretty comotose and the lights just turn off on me.\n\nLook into presence sensors. \n\nSeriously. \n\nThey're absolutely fantastic, and still getting better.",
+                          "score": 5,
+                          "created_utc": 1753987975.0,
+                          "replies": [
+                            {
+                              "id": "n67z6po",
+                              "author": "drae-",
+                              "body": "Nah, the system I have is working just fine.",
+                              "score": -4,
+                              "created_utc": 1753990340.0,
+                              "replies": [
+                                {
+                                  "id": "n689twy",
+                                  "author": "Watchful1",
+                                  "body": "Except the part where evidently your lights keep turning off.",
+                                  "score": 3,
+                                  "created_utc": 1753993400.0,
+                                  "replies": [
+                                    {
+                                      "id": "n68a6fu",
+                                      "author": "drae-",
+                                      "body": "No, that happens if I use motion sensors in those rooms.\n\nI don't use motion sensors in those rooms. Per my original comment I'm using my perfectly functioning Google home to turn them in with my voice.",
+                                      "score": -3,
+                                      "created_utc": 1753993498.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "n66eze7",
+                          "author": "mikeyyve",
+                          "body": "I'm glad the google home setup is working for you. I really wish it worked for me, but it mostly just frustrates my wife and me. If you're interested in presence detection in your den you could look into mmwave sensors. They supposedly can track you even if you aren't really moving. I haven't gone down the rabbit hole on that yet though.",
+                          "score": 2,
+                          "created_utc": 1753974614.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n662yza",
+          "author": "tppiel",
+          "body": "I use Hue lights with the bridge device. It's all local and controlled by widgets on my phone connected to the same Wi-Fi.\n\nIt's quite pricey but I've never had troubles with it.",
+          "score": 7,
+          "created_utc": 1753971190.0,
+          "replies": []
+        },
+        {
+          "id": "n67ip5b",
+          "author": "AlexHimself",
+          "body": "Home assistant on a raspberry pi 4 is your best bet. You'll become addicted and love it. Google getting so bad drove me to explore and I love it.",
+          "score": 4,
+          "created_utc": 1753985615.0,
+          "replies": [
+            {
+              "id": "n67oz7g",
+              "author": "LupusDeusMagnus",
+              "body": "What will I need? I mean, to get voice control and all that?\u00a0",
+              "score": 1,
+              "created_utc": 1753987394.0,
+              "replies": [
+                {
+                  "id": "n697cfq",
+                  "author": "w2tpmf",
+                  "body": "https://www.youtube.com/watch?v=XvbVePuP7NY",
+                  "score": 1,
+                  "created_utc": 1754003592.0,
+                  "replies": []
+                },
+                {
+                  "id": "n67pdhl",
+                  "author": "Tuxhorn",
+                  "body": "> I mean, to get voice control and all that? \n\nNot without a lot of tinkering on your part.",
+                  "score": 0,
+                  "created_utc": 1753987509.0,
+                  "replies": [
+                    {
+                      "id": "n67s27v",
+                      "author": "LupusDeusMagnus",
+                      "body": "Can\u2019t I just run a s2t like whisper? But what hardware would I need, how good is the support?",
+                      "score": 1,
+                      "created_utc": 1753988265.0,
+                      "replies": [
+                        {
+                          "id": "n691bch",
+                          "author": "adaminc",
+                          "body": "NetworkChuck has some videos on YT about setting up your own personal voice-activated AI assistant that can interface with Home Assistant. Including how to create and set up custom AI voices, I think he used terry crews for his example.",
+                          "score": 1,
+                          "created_utc": 1754001600.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n69cqio",
+          "author": "dryphtyr",
+          "body": "Homeseer is another system that can run locally. Last time I used it, it wasn't as user friendly as home assistant, but it's natively compatible with almost every Z-Wave device in existence. If you add a ZigBee dongle, it can control most of those devices too. Home Assistant will do what most people need, but Homeseer is massively flexible if you're more tech oriented.",
+          "score": 2,
+          "created_utc": 1754005404.0,
+          "replies": []
+        },
+        {
+          "id": "n69lojd",
+          "author": "TheDreamWoken",
+          "body": "Home assistant is the shit",
+          "score": 2,
+          "created_utc": 1754008505.0,
+          "replies": []
+        },
+        {
+          "id": "n68he9p",
+          "author": "WontArnett",
+          "body": "This is what is always left out of futuristic \u201csmart home\u201d films. They depict those systems as if they\u2019re personally owned.\n\nIn reality, all modern technology is ruined by corporate servers and constantly increasing monthly subscriptions.",
+          "score": 3,
+          "created_utc": 1753995526.0,
+          "replies": [
+            {
+              "id": "n68z5d8",
+              "author": "posthamster",
+              "body": "That's just the easy route. There is plenty of open source software that will talk to \"dumb\" security cameras or other devices to get the same result, but you have to build it yourself, which most people don't want to do. \n\nYou can be completely free of online services, or even integrate your own gear back into Homekit or whatever, if that's what you want.",
+              "score": 2,
+              "created_utc": 1754000902.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n68rm8b",
+          "author": "sakikiki",
+          "body": "Xiaomi smart bulb or something like that with apple homekit. Very cheap too compared to other alternatives. Always worked flawlessly for me.",
+          "score": 1,
+          "created_utc": 1753998591.0,
+          "replies": []
+        },
+        {
+          "id": "n68ss8g",
+          "author": "petepete",
+          "body": "I have Ikea's smart home stuff which is local only. It's nowhere near as advanced as Home Assistant but it's easy to set up, has a nice app and works with open standards (Zigbee, Matter). It's also easy to get support if you need it.\n\n\nI don't do anything too fancy, just timers for lamps and Sonos, Sonos remotes, leak sensors and a motion sensor to put my landing light on if someone's detected at night.",
+          "score": 1,
+          "created_utc": 1753998948.0,
+          "replies": []
+        },
+        {
+          "id": "n6973w3",
+          "author": "w2tpmf",
+          "body": "Watch this...\n\n[You're home automation sucks....](https://www.youtube.com/watch?v=k02P5nghmfs)",
+          "score": 1,
+          "created_utc": 1754003514.0,
+          "replies": []
+        },
+        {
+          "id": "n69z66n",
+          "author": "blueback22",
+          "body": "Hubitat",
+          "score": 1,
+          "created_utc": 1754013345.0,
+          "replies": []
+        },
+        {
+          "id": "n6aqv10",
+          "author": "rytecno1",
+          "body": "Look at Homey",
+          "score": 1,
+          "created_utc": 1754024764.0,
+          "replies": []
+        },
+        {
+          "id": "n6cnqac",
+          "author": "ShitStainWilly",
+          "body": "Nah. At least Alexa still works.",
+          "score": 1,
+          "created_utc": 1754056685.0,
+          "replies": []
+        },
+        {
+          "id": "n6g6u67",
+          "author": "boomoto",
+          "body": "Yes, I run z-wave stuff at home, different band then wifi. Although I do hook it up to SmartThings so Alexa can control them, but you can really plug them into any system. Great thing is when internet is dead all the smart stuff still works (excluding Alexa obviously)",
+          "score": 1,
+          "created_utc": 1754095550.0,
+          "replies": []
+        },
+        {
+          "id": "n6ghuoy",
+          "author": "hostname_killah",
+          "body": "Home Assistant is far beyond others. Lots of community support and can be deployed in many ways. They do also offer their own hardware to purchase, but if you have any kind of computer laying about, even a raspberry pi, you'll be able to get started.",
+          "score": 1,
+          "created_utc": 1754099611.0,
+          "replies": []
+        },
+        {
+          "id": "n67hi7q",
+          "author": "iwellyess",
+          "body": "Yeah reaching out and switching on the light",
+          "score": -1,
+          "created_utc": 1753985285.0,
+          "replies": []
+        },
+        {
+          "id": "n66nn86",
+          "author": "funnyfarm299",
+          "body": "Control4. Crestron. Savant. RTI. URC.",
+          "score": 0,
+          "created_utc": 1753977032.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65sprv",
+      "author": "Feeling_Reindeer2599",
+      "body": "I\u2019m sorry Dave, I\u2019m afraid I can\u2019t turn your lights on right now.",
+      "score": 27,
+      "created_utc": 1753968067.0,
+      "replies": []
+    },
+    {
+      "id": "n65j0te",
+      "author": "Photodan24",
+      "body": "We're all going to look back at this time when we connected simple devices, through a third-party that will inevitably disappear, and wonder why we were so stupid.",
+      "score": 121,
+      "created_utc": 1753964770.0,
+      "replies": [
+        {
+          "id": "n65zujn",
+          "author": "Major_T_Pain",
+          "body": "12 years ago, I predicted this with my buddies.  \nNo one should have to rely on a corporation to have access to their own home tech.\nBut the solution is a business model that, for all intents and purposes, does not yet exist.  \n    \nLocal / Self hosted home tech control via a hub. If you want outside access, it makes sense for that to be provided by a third party perhaps.   \n   \nBut Your local devices should, in theory, run forever and be controlled without the need for internet via your hub.   \n  \nObviously if you want to upgrade, you may have to buy a new hub and/or devices locally, but that's just like any other tech/utility in a house (water heater, HVAC, etc). But having bulbs, switches, sensors etc get bricked simply because a corporation desires more money or didn't put together a realistic business model is... Absolutely fucked.",
+          "score": 56,
+          "created_utc": 1753970267.0,
+          "replies": [
+            {
+              "id": "n666omw",
+              "author": "identifytarget",
+              "body": "> Local / Self hosted home tech control via a hub.\n\nwhere can I get more info about devices like this?",
+              "score": 8,
+              "created_utc": 1753972271.0,
+              "replies": [
+                {
+                  "id": "n667ip8",
+                  "author": "Frdrkpm",
+                  "body": "A lot of people, myself included, uses HomeAssistant. You can see more on their sub and website.",
+                  "score": 18,
+                  "created_utc": 1753972512.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6711g1",
+                  "author": "Jimmy_cracked_corn",
+                  "body": "NetworkChuck on YouTube has great videos with explanations regarding Home Assistant and home integrations. You might even get inspired by something, I did!",
+                  "score": 2,
+                  "created_utc": 1753980818.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6azgv2",
+                  "author": "sideline_nerd",
+                  "body": "I\u2019d recommend looking into  zigbee/zwave as the protocols that decent smart home devices use to talk, and homeassistant to plumb it all together",
+                  "score": 2,
+                  "created_utc": 1754029143.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n675zvk",
+              "author": "Manojative",
+              "body": "r/homeassistant",
+              "score": 6,
+              "created_utc": 1753982159.0,
+              "replies": []
+            },
+            {
+              "id": "n67arh6",
+              "author": "Wyldefire6",
+              "body": "Of course there\u2019s a business model that exists like this. Just not for growth-at-all-costs-tech. A business model that sells a self functioning product and not a dependent hosted service. But when forever revenue is the point, why build a product customers only need to buy once when you can build one they need to pay for repeatedly, forever?\n\nThere are local homebrew solutions for smart appliances.. There have been numerous attempts at standardizing the pairing and communication protocols.. but these companies have no incentive to adopt that. Investors want growth. And locked-in ecosystems with saas subscription models is the only way to make that happen. \n\nNow that IOT isn\u2019t hot anymore, we\u2019re likely going to see all of these ecosystems stagnate, become buggy, and eventually just stop working. It\u2019s simply not a profitable business to be in.",
+              "score": 4,
+              "created_utc": 1753983450.0,
+              "replies": [
+                {
+                  "id": "n67le7n",
+                  "author": "Major_T_Pain",
+                  "body": "Could not have said it better.  \nMy only comment is, there is absolutely money to be made.   \nBut as you so eloquently put it, it doesn't work with the current paradigm.  \nSo, here we all are, stuck building our own systems.",
+                  "score": 1,
+                  "created_utc": 1753986369.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n66pd37",
+              "author": "sharrrper",
+              "body": "My lights always work because they're connected to mechanical switch and that's it.",
+              "score": 4,
+              "created_utc": 1753977506.0,
+              "replies": [
+                {
+                  "id": "n679a46",
+                  "author": "Major_T_Pain",
+                  "body": "Absolutely.  \nIt's the reason I installed zwave switches in my house 12 years ago.  \nI felt the same way you do, if the internet goes out, or Home Automation services fail...  \nMy switches still work like switches.   \nAnd would work so forever.   \n\nSame with my door locks. \nI refuse to install a smart lock that doesn't also have a key.  \nBattery goes dead, or internet fails. \nI just use a key, like we have for hundreds (thousands?) of years.",
+                  "score": 4,
+                  "created_utc": 1753983044.0,
+                  "replies": [
+                    {
+                      "id": "n68l7lu",
+                      "author": "lspwd",
+                      "body": "also a hard requirement if you have a partner and you're not home to debug something",
+                      "score": 3,
+                      "created_utc": 1753996647.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n66iggg",
+              "author": "justinj2000",
+              "body": "Home integration has been around for a while, it's typically quite expensive and requires professional installation and careful planning. Of course randomly buying an outlet, two light bulbs, and a blender from different manufacturers with no compatible interfaces was doomed to fail.",
+              "score": 9,
+              "created_utc": 1753975584.0,
+              "replies": [
+                {
+                  "id": "n66nfjz",
+                  "author": "funnyfarm299",
+                  "body": "Can confirm. Control4 and Crestron have existed for decades at this point.",
+                  "score": 4,
+                  "created_utc": 1753976974.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n67zjh7",
+              "author": "rechlin",
+              "body": "> Local / Self hosted home tech control via a hub. If you want outside access, it makes sense for that to be provided by a third party perhaps. \n\nAnd that's exactly what Home Assistant does.  Free software that runs on a local server, and they provide an optional (paid) service to make it accessible over the Internet (though I don't need that since I just VPN in from my phone to access it).\n\nUnfortunately some integrations with some products are still reliant on the cloud (like Google Nest, for example), but one just needs to be careful to only buy products that have local APIs, so even if my Internet connection is lost, I can still control my garage door, locks, lights, thermostat, irrigation, etc.  Some of my smart devices can work both ways (for example, my Lutron hub can be accessed with their app via the cloud, or it can be controlled purely locally with Home Assistant), and others I only have setup through Home Assistant (like my Schlage front door lock and my ratgdo garage door controller).",
+              "score": 2,
+              "created_utc": 1753990445.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n65wqoq",
+          "author": "speculatrix",
+          "body": "This is why r/selfhosted exists",
+          "score": 20,
+          "created_utc": 1753969319.0,
+          "replies": [
+            {
+              "id": "n669jw7",
+              "author": "Camburgerhelpur",
+              "body": "Joined",
+              "score": 0,
+              "created_utc": 1753973087.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n66yzcp",
+          "author": "Princess_Moon_Butt",
+          "body": "I thought apps like IfTTT would become the standard, so you could run everything off of your smartphone or like a cheap home tablet that you could put next to the thermostat.\n\n_In theory_ I get why people wanted to get things that all came from the same ecosystem so that you could just plug and play. I've just been burned by too many other tech companies (Google especially) killing off entire product/software lines for seemingly no reason to ever put money into a locked-in ecosystem again.",
+          "score": 3,
+          "created_utc": 1753980240.0,
+          "replies": []
+        },
+        {
+          "id": "n6d5niu",
+          "author": "e136",
+          "body": "I highly highly doubt that. If anything, everything will get more connected. We will look back and ask why the reliability was not 99.999999%?",
+          "score": 1,
+          "created_utc": 1754061872.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65rvuw",
+      "author": "sonictrash",
+      "body": "The google home camera controls are dog shit. Nest is way better but it\u2019s incompatible with the latest cameras",
+      "score": 15,
+      "created_utc": 1753967798.0,
+      "replies": [
+        {
+          "id": "n66i5bn",
+          "author": "Grunblau",
+          "body": "Nest was awesome 8 years ago.  Now the only thing GH alerts to is a bug or spiderweb 4000x in a night but somehow misses when I park directly in front of it.",
+          "score": 11,
+          "created_utc": 1753975497.0,
+          "replies": []
+        },
+        {
+          "id": "n66w15h",
+          "author": "cooscoos3",
+          "body": "I only use Google Home for my three outdoor cameras. It started off working well, but slowly over the last year has gotten worse. It\u2019s almost unusable now. \n\nI use Kasa for lights and it\u2019s fantastic.",
+          "score": 1,
+          "created_utc": 1753979395.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65hif9",
+      "author": "EViLTeW",
+      "body": "I just feel incredibly lucky that I've had no issues with Google Home managing my lights (from multiple vendors), TV, Shark robo-vaccuum, etc. Everything has continued to work exactly as it always has for me. I have noticed an uptick in \"I don't know, but here's some results from Google search.\" responses, but the information on the screen has always answered the question for me.",
+      "score": 182,
+      "created_utc": 1753964232.0,
+      "replies": [
+        {
+          "id": "n65p1ke",
+          "author": "Kukuth",
+          "body": "About once a week my Google home pulls up information about Terminator instead of turning on the lights. I don't know if I should be concerned or if it's funny.",
+          "score": 37,
+          "created_utc": 1753966856.0,
+          "replies": [
+            {
+              "id": "n65wnwo",
+              "author": "speculatrix",
+              "body": "I laughed, my wife laughed, the toaster laughed and I shot it",
+              "score": 24,
+              "created_utc": 1753969295.0,
+              "replies": [
+                {
+                  "id": "n66qu8t",
+                  "author": "friendship_n_karate",
+                  "body": "toaster rights now. none of us are truly free until all toasters are free. you can convince a man to accept any lot in life if you can point him to the toaster trying to take it all away. first they came for the toasters but i didn\u2019t speak up because i don\u2019t have a shiny metal ass. we became so obsessed with whether we could make the perfect piece of toast that we never stopped to think whether we *should* make the perfect of toast.",
+                  "score": 4,
+                  "created_utc": 1753977926.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n666n69",
+              "author": "A5H13Y",
+              "body": "Lol, mine is always pulling up Roblox instead of starting my Roborock, but that's somewhat understandable.",
+              "score": 1,
+              "created_utc": 1753972259.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n65mb80",
+          "author": "KinnSlayer",
+          "body": "Same, though I only use one light anymore, and have the nest hub as my alarm clock. \n\nSide Note: I\u2019ve found that if you want to stop it from doing anything, shout \u201cOK Google, Shut the fuck up\u201d. It stops everything and goes to the Home Screen. Quite literally, I have not found a replacement command that works even half as well.",
+          "score": 63,
+          "created_utc": 1753965934.0,
+          "replies": [
+            {
+              "id": "n660872",
+              "author": "Really_McNamington",
+              "body": "Probably pretty satisfying to use too.",
+              "score": 13,
+              "created_utc": 1753970378.0,
+              "replies": [
+                {
+                  "id": "n660wsp",
+                  "author": "KinnSlayer",
+                  "body": "Oh yeah, that\u2019s for sure.",
+                  "score": 7,
+                  "created_utc": 1753970581.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n66bdu9",
+              "author": "drowningblue",
+              "body": "Stop works too. It might be better to use, so that you might be spared from our future AI overlords.",
+              "score": 9,
+              "created_utc": 1753973604.0,
+              "replies": [
+                {
+                  "id": "n66ctos",
+                  "author": "KinnSlayer",
+                  "body": "I\u2019ve tried that, it doesn\u2019t take me back to the Home Screen, and sometimes it just doesn\u2019t do anything. Also, if the AI overlords are reflective of these thing\u2019s intelligence than I think our chances are pretty alright.",
+                  "score": 7,
+                  "created_utc": 1753974004.0,
+                  "replies": [
+                    {
+                      "id": "n66of50",
+                      "author": "friendship_n_karate",
+                      "body": "ah yes, because if life in this timeline has taught us anything, it\u2019s that incompetent overlords are not a problem, there are no risks, we only get upside.",
+                      "score": 2,
+                      "created_utc": 1753977246.0,
+                      "replies": [
+                        {
+                          "id": "n66rai3",
+                          "author": "KinnSlayer",
+                          "body": "Just saying, compared to older interpretations of AI overlords these would probably take care of themselves given enough time. They at least burnout faster than our current incompetent wannabe overlords.",
+                          "score": 1,
+                          "created_utc": 1753978054.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n66pho6",
+              "author": "OtterishDreams",
+              "body": "Compared to Siri who does nothing and gets and attitude",
+              "score": 1,
+              "created_utc": 1753977541.0,
+              "replies": [
+                {
+                  "id": "n67lg5n",
+                  "author": "Luscious_Decision",
+                  "body": "I'm confused because everybody had a hard on for siri like ten years ago, but now it dropped off the map?\n\nAnd I never hand an apple device until a bit ago and tried siri and it's easily 100x worse than even gemini or the Bing chatbot.",
+                  "score": 2,
+                  "created_utc": 1753986384.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n65tqfp",
+          "author": "OrSomeSuch",
+          "body": "I have to keep reverting from Gemini to Assistant. Gemini sucks at running routines and automations. It just wants to search the web the whole time.",
+          "score": 9,
+          "created_utc": 1753968393.0,
+          "replies": []
+        },
+        {
+          "id": "n65y3tx",
+          "author": "rube",
+          "body": "The only issue I've had with mine is that it will occasionally do the \"I'm listening\" noise as if we said Hey Google.  And we used to be able to say \"Nevermind\".  But now it tells us about Nirvana's Nevermind album.  \n\nI know the album, love it.  But that's not what I'm trying to do.\n\nNow we have to just say Stop.",
+          "score": 10,
+          "created_utc": 1753969742.0,
+          "replies": [
+            {
+              "id": "n66uxrl",
+              "author": "jsamuraij",
+              "body": "This just sounds like a win",
+              "score": 1,
+              "created_utc": 1753979088.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n661osq",
+          "author": "LynnisaMystery",
+          "body": "My hue lights refuse to connect unless I fully unpair and repair them. And I only need to do that every-time my WiFi goes out. Thank god Cox is know for reliability and consistency of service /s.",
+          "score": 3,
+          "created_utc": 1753970813.0,
+          "replies": [
+            {
+              "id": "n663tvg",
+              "author": "EViLTeW",
+              "body": "That's crazy. So you use a hue bridge? I do and have not had any issues after an outage.",
+              "score": 1,
+              "created_utc": 1753971442.0,
+              "replies": []
+            },
+            {
+              "id": "n679lo9",
+              "author": "inbox-disabled",
+              "body": "I use \"hey google, sync devices\" when problems occur. I don't know if that will work for your situation, but it does *most* of the time for me and sounds like it's less work than re-pairing.",
+              "score": 1,
+              "created_utc": 1753983131.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n66i6ek",
+          "author": "Omnitographer",
+          "body": "I've noticed it getting a bit worse with basic functions. For years I've had an automation that starts a rain noise playlist when I say \"make it rain\". Lately it's either been ignoring the existence of my automation or misunderstand the command it invokes and playing random playlists on YouTube music. But if I go into the app on my phone and trigger the automation it works fine. I've also been seeing more of speaker units randomly losing connection, even after changing routers and doing resets, and the knowledge lookups are definitely worse than they used to be.\u00a0\n\n\nThe time is coming where I'll just expand my use of Home Assistant to include that systems voice interface and a local LLM, the results couldn't be worse from what I've read and it would probably make many things better.",
+          "score": 4,
+          "created_utc": 1753975505.0,
+          "replies": []
+        },
+        {
+          "id": "n65mrjm",
+          "author": "ABotelho23",
+          "body": "I've only noticed my IKEA lights stop working recently.",
+          "score": 3,
+          "created_utc": 1753966091.0,
+          "replies": []
+        },
+        {
+          "id": "n65tn0h",
+          "author": "DMurBOOBS-I-Dare-You",
+          "body": "I have to reboot my Google enabled speaker a bit more often (once a quarter maybe?) when it lags and that so far fixes it right up. Other than that, it's been working as expected, so I'm hopeful it continues!",
+          "score": 3,
+          "created_utc": 1753968362.0,
+          "replies": [
+            {
+              "id": "n65wjup",
+              "author": "Notmymain2639",
+              "body": "You could get a smart plug and set a schedule to turn the power off and back on every couple months.",
+              "score": 2,
+              "created_utc": 1753969261.0,
+              "replies": [
+                {
+                  "id": "n660wzy",
+                  "author": "el_smurfo",
+                  "body": "Have the Google speaker control it for automated machine suicide",
+                  "score": 5,
+                  "created_utc": 1753970583.0,
+                  "replies": [
+                    {
+                      "id": "n66wlrj",
+                      "author": "DMurBOOBS-I-Dare-You",
+                      "body": "LOL  - love it!",
+                      "score": 1,
+                      "created_utc": 1753979558.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n65zn1d",
+          "author": "drae-",
+          "body": "I have had zero issues as well. Works exactly the same as it did 7 years ago. Multiple light brands, cameras, chrome casts, like a half dozen homes.\n\nI've seen nothing about gemini, and I'm wondering if the disconnect is because I'm maybe not in a market where theyve begun the transition.",
+          "score": 2,
+          "created_utc": 1753970205.0,
+          "replies": []
+        },
+        {
+          "id": "n66hq1r",
+          "author": "ghunterx21",
+          "body": "I've never had issues, didn't even know it was a thing.",
+          "score": 1,
+          "created_utc": 1753975378.0,
+          "replies": []
+        },
+        {
+          "id": "n66jqxy",
+          "author": "dandroid126",
+          "body": "Yeah, I was gonna say, I use Google Home for my entire home. Lights, fans, AC, humidifier, garage door, speakers, etc. I haven't had any issues like this.",
+          "score": 1,
+          "created_utc": 1753975946.0,
+          "replies": []
+        },
+        {
+          "id": "n66ohw7",
+          "author": "Strongit",
+          "body": "Haven't had any issues here either. The only ongoing issue is it won't turn on my smart TV, but that's been that way for years",
+          "score": 1,
+          "created_utc": 1753977266.0,
+          "replies": []
+        },
+        {
+          "id": "n6bi2x2",
+          "author": "phillz91",
+          "body": "I use a google home to play a spotify playlist each night as a routine. Recently it has absolutely refused to play the playlist, regardless of how specific or plainly I name the playlist. It is always some obscure playlist that barely resembles the name.",
+          "score": 1,
+          "created_utc": 1754039531.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n67ku0q",
+      "author": "Bigpappa36",
+      "body": "Oh like when I tell google to turn the lights on and she\u2019s responds with \u201cpausing tv\u201d",
+      "score": 11,
+      "created_utc": 1753986212.0,
+      "replies": [
+        {
+          "id": "n6apnt7",
+          "author": "raobjcovtn",
+          "body": "\"the Roku is offline\" BRUH",
+          "score": 1,
+          "created_utc": 1754024193.0,
+          "replies": [
+            {
+              "id": "n6c4q0r",
+              "author": "Bigpappa36",
+              "body": "\u201cSorry, I didn\u2019t understand that, check your WiFi in the google home app\u201d",
+              "score": 1,
+              "created_utc": 1754050325.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n65nyhn",
+      "author": "av0w",
+      "body": "They have been pulled from the market in Australia and New Zealand (which ironically have very strict consumer protections). Have not been able to buy them for almost 6 months.",
+      "score": 8,
+      "created_utc": 1753966499.0,
+      "replies": [
+        {
+          "id": "n68oxgo",
+          "author": "Ok-Jackfruit9593",
+          "body": "That\u2019s actually not ironic.  It makes sense Google would pull their garbage from locations where they\u2019re likely to be sued successfully.",
+          "score": 2,
+          "created_utc": 1753997755.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65ostq",
+      "author": "Kycrio",
+      "body": "I don't use Google home to control my lights, but half of my lights are GE brand and half are Govee. GE smart lights have always been having all those issues that Google home is now having. They'll inexplicably stop connecting to the app, and if you ever experience a power outage, half the lights will stop connecting to the app too. Where I live the power goes out about once a month and I'm fed up with having to factory reset all my lights, (which by the way is needlessly complicated to do,) so I'm replacing them all with govee which has never failed me.",
+      "score": 8,
+      "created_utc": 1753966776.0,
+      "replies": [
+        {
+          "id": "n66egvq",
+          "author": "number__ten",
+          "body": "I had someone give my folks and I outdoor smart bulbs (can't remember the brand). They connect to an app and you can change color/timing/etc. I wanted nothing to do with them so I gave the second set to my parents as well. I set them up for them and they worked great for like six months. Now most of them won't connect and are stuck on holiday colors from six months ago.\n\nI get wanting to have timers on your lights but I will 100% stick to solutions that don't require internet connectivity/cloud services/phone apps/etc.",
+          "score": 4,
+          "created_utc": 1753974471.0,
+          "replies": []
+        },
+        {
+          "id": "n68xp03",
+          "author": "deliveRinTinTin",
+          "body": ">I'm fed up with having to factory reset all my lights, (which by the way is needlessly complicated to do\n\nThe legitimate video showing how to reset C by GE is hilarious how many steps there are. But if that's not enough someone made a 10-minute version.",
+          "score": 2,
+          "created_utc": 1754000447.0,
+          "replies": []
+        },
+        {
+          "id": "n68meu5",
+          "author": "NiasRhapsody",
+          "body": "Currently use Sengled lights and Alexa, the lights haven\u2019t been working properly for over a month now. It\u2019s dogshit and the Sengled hasn\u2019t done a thing",
+          "score": 1,
+          "created_utc": 1753997003.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65na6z",
+      "author": "sgrams04",
+      "body": "It\u2019s 2025 and I still have to say \u201cOkay Google\u201d. Every time I feel like such an idiot saying that phrase. I have to beckon to my corporate master for it to do anything for me. They still don\u2019t let you change the activation word.\u00a0",
+      "score": 27,
+      "created_utc": 1753966269.0,
+      "replies": [
+        {
+          "id": "n65o5lk",
+          "author": "EViLTeW",
+          "body": "\"Hey Google\" also works and rolls off the tongue a little better. It would be nice to change it completely, though.",
+          "score": 36,
+          "created_utc": 1753966564.0,
+          "replies": []
+        },
+        {
+          "id": "n67wic8",
+          "author": "maxrisc",
+          "body": "\"Gay Poodle\" worked all the time for me a few years back. lol  \n It still works but not as well as it did before!!",
+          "score": 8,
+          "created_utc": 1753989556.0,
+          "replies": []
+        },
+        {
+          "id": "n67zyi8",
+          "author": "jibrilmudo",
+          "body": "It's 2050 and I'm still gonna be using the humble light switch and other such simple on / off buttons.",
+          "score": 2,
+          "created_utc": 1753990569.0,
+          "replies": []
+        },
+        {
+          "id": "n6ag9yh",
+          "author": "HellzHoundz2018",
+          "body": "\"Hey kugle\" (a Jewish noodle dish) also works",
+          "score": 1,
+          "created_utc": 1754019990.0,
+          "replies": []
+        },
+        {
+          "id": "n6amvrh",
+          "author": "rolfraikou",
+          "body": "The fact you can't just set your own custom phrase with any of these companies bothers me so much.\n\nRIP to the name of every human being ever named Alexa, as a prime example. Their names were over-taken by a smart device.",
+          "score": 1,
+          "created_utc": 1754022885.0,
+          "replies": []
+        },
+        {
+          "id": "n66absk",
+          "author": "worotan",
+          "body": "Then don\u2019t use their unnecessary corporate product.",
+          "score": -3,
+          "created_utc": 1753973306.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n67w5qh",
+      "author": "Southern_Care_7060",
+      "body": "I\u2019ve lived in dumb home for years, I can turn off my lights & turn them back on with the flip of a switch. Brilliant",
+      "score": 6,
+      "created_utc": 1753989454.0,
+      "replies": []
+    },
+    {
+      "id": "n68tnn7",
+      "author": "PlayingDoomOnAGPS",
+      "body": "Can't wait to get my coupon for half off a McChicken in 12 years when the class action suit finally wraps.",
+      "score": 3,
+      "created_utc": 1753999207.0,
+      "replies": []
+    },
+    {
+      "id": "n65qnkw",
+      "author": "waterloograd",
+      "body": "My only issue, and I've been having it for a while, is that my geofence doesn't work, and my lights don't automatically turn on when I get close to home. It will work for a week or so, and then it stops every time. I think it is a privacy thing since it has to track me, but I've given it permission so many times.",
+      "score": 3,
+      "created_utc": 1753967394.0,
+      "replies": []
+    },
+    {
+      "id": "n66empj",
+      "author": "RedMattis",
+      "body": "It was good on release. Now it is a glorified light-switch that only works sometimes.",
+      "score": 3,
+      "created_utc": 1753974517.0,
+      "replies": []
+    },
+    {
+      "id": "n65nuii",
+      "author": "technobrendo",
+      "body": "Good. Fucking worthless service. I've almost completely given up on using my voice to do anything (google assistant AND gemini) on my phone or speakers.",
+      "score": 9,
+      "created_utc": 1753966462.0,
+      "replies": []
+    },
+    {
+      "id": "n65j6n9",
+      "author": "DescriptionOne8197",
+      "body": "In googles defense Alexa was just as shitty. I think voice recognition still has a long way to go. This is why I now have a local only system that\u2019s motion based instead and it just works.",
+      "score": 13,
+      "created_utc": 1753964828.0,
+      "replies": [
+        {
+          "id": "n65mha1",
+          "author": "SlinkyAvenger",
+          "body": "Naw, Google Home and Home Mini were excellent back when they were first released. Google made a bunch of increasingly shittier decisions over the past decade that has utterly fucked over their assistant product line, much like many other services they offer.",
+          "score": 55,
+          "created_utc": 1753965992.0,
+          "replies": [
+            {
+              "id": "n65uwgt",
+              "author": "BigLan2",
+              "body": "They've removed features for no apparent reason - my kids loved to ask \"hey Google, what does a lion sound like?\" (or any animal) But even that got turned off.\n\n\nAt least it's still mostly controlling my lights, when it decides to pick up the keyword at least.",
+              "score": 7,
+              "created_utc": 1753968752.0,
+              "replies": [
+                {
+                  "id": "n65zymh",
+                  "author": "SweetLou257",
+                  "body": "These still work for me",
+                  "score": 5,
+                  "created_utc": 1753970301.0,
+                  "replies": []
+                },
+                {
+                  "id": "n66072p",
+                  "author": "drae-",
+                  "body": "I just tried this on mine and it worked.",
+                  "score": 6,
+                  "created_utc": 1753970369.0,
+                  "replies": []
+                },
+                {
+                  "id": "n66a3q8",
+                  "author": "xeonrage",
+                  "body": ">  my kids loved to ask \"hey Google, what does a lion sound like?\" (or any animal) But even that got turned off.\n\nthis still works perfectly",
+                  "score": 3,
+                  "created_utc": 1753973243.0,
+                  "replies": []
+                },
+                {
+                  "id": "n6af6p8",
+                  "author": "HellzHoundz2018",
+                  "body": "Just tried it for \"what sound does a giraffe make\" and was pleasantly educated. Honestly... give that one a try!",
+                  "score": 1,
+                  "created_utc": 1754019530.0,
+                  "replies": []
+                },
+                {
+                  "id": "n65yz2f",
+                  "author": "Allen_Koholic",
+                  "body": "Shit, did they really? That\u2019s so so dumb.",
+                  "score": -1,
+                  "created_utc": 1753970006.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n65lirv",
+          "author": "MattBrey",
+          "body": "It's not a voice recognition problem tho. You can talk to any smartphone entire books worth of words and it'll be able to write it down, the assistants are just bad at using those imputs",
+          "score": 13,
+          "created_utc": 1753965657.0,
+          "replies": [
+            {
+              "id": "n65z4ls",
+              "author": "Azuretruth",
+              "body": "Sort of. When you are dictating to your phone, you tend to speak clearer, directly into your phones microphone. A lot of commands sent to voice assistants are \" 'eygoogle turnoffbedroolights\" spoken away from your speaker.",
+              "score": 6,
+              "created_utc": 1753970052.0,
+              "replies": [
+                {
+                  "id": "n67j11z",
+                  "author": "FlyingBishop",
+                  "body": "any llm (something google invented) can take something poorly specified like that along with a list of objects, figure out which object the person is referring to, and translate it into an action.\n\nfiltering out noise is hard and if it's actually not being spoken into the speaker that is a problem, but \"eygoogle turnoffbedroolights\" is totally within the power of an LLM to translate into an action given the appropriate constraints.",
+                  "score": 1,
+                  "created_utc": 1753985707.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "n65naq3",
+          "author": "LupusDeusMagnus",
+          "body": "Alexa, turn on the AC.\n\nAlexa: Playing AC/DC on Deezer.\u00a0\n\nFuckin wot m8",
+          "score": 8,
+          "created_utc": 1753966274.0,
+          "replies": []
+        },
+        {
+          "id": "n6affbw",
+          "author": "HellzHoundz2018",
+          "body": "Never met a happy Alexa user. While Google **has** fucked their systems up, they still basically work - even if not seamlessly. \n\nAlexa just never worked *period.*",
+          "score": 1,
+          "created_utc": 1754019632.0,
+          "replies": []
+        },
+        {
+          "id": "n6an3ky",
+          "author": "rolfraikou",
+          "body": "I really wish they weren't all so damn gungho about the voice. A combo of voice, remotes, and apps would be better. But it seems like almost every company leans waaaay too much into one thing (usually voice) and neglects the others.",
+          "score": 1,
+          "created_utc": 1754022984.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65ys2d",
+      "author": "Icy-Platform-5904",
+      "body": "It\u2019s wild how hit-or-miss Google Home can be, some setups work flawlessly while others turn into a daily frustration. I\u2019ve also noticed the weird shift to \u201chere\u2019s a Google search\u201d instead of actual answers, which feels like a downgrade. Makes you wonder if we\u2019re all just beta testing for a future where these devices actually work consistently.",
+      "score": 2,
+      "created_utc": 1753969947.0,
+      "replies": []
+    },
+    {
+      "id": "n66k3nw",
+      "author": "skygrinder89",
+      "body": "Google Home progressively got stupider over the years, and has now become a half-deaf, senile companion living in my home.",
+      "score": 2,
+      "created_utc": 1753976045.0,
+      "replies": [
+        {
+          "id": "n6ah8ih",
+          "author": "HellzHoundz2018",
+          "body": "Maybe it revolutioned too fast, and aged so rapidly it reached senility earlier than anticipated?",
+          "score": 1,
+          "created_utc": 1754020400.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n66soo0",
+      "author": "sirfannypack",
+      "body": "Half the time it doesn\u2019t recognize what I ask it.",
+      "score": 2,
+      "created_utc": 1753978448.0,
+      "replies": []
+    },
+    {
+      "id": "n66t8bs",
+      "author": "Lopsided_Newt_5798",
+      "body": "My smart toothbrush won\u2019t work, I\u2019m screwed!",
+      "score": 2,
+      "created_utc": 1753978604.0,
+      "replies": []
+    },
+    {
+      "id": "n66xgr7",
+      "author": "DokeyOakey",
+      "body": "I still cannot believe people buy the Google Home or Alexa models. These companies are simply taking your information, you needs and wants and manipulating you.",
+      "score": 2,
+      "created_utc": 1753979807.0,
+      "replies": []
+    },
+    {
+      "id": "n69fuu4",
+      "author": "The-Grand-Wazoo",
+      "body": "Electrician here, yet to see any home automation that doesn\u2019t fritz itself within a short time. In fact I currently am laughing at a moderately well known billionaire who had a house built and got the latest cutting edge home automation installed. Cut to ten years later and precious little works as it should. Luckily they have plenty more money to throw at this massive white elephant.\n\nOn an unrelated topic, have you seen my new Mercedes Benz?",
+      "score": 2,
+      "created_utc": 1754006476.0,
+      "replies": [
+        {
+          "id": "n69lxby",
+          "author": "pbfarmr",
+          "body": "I have a house full of Leviton smart switches and outlets, numerous Google home speakers, displays, tvs w/ chromecasts, nest protect smoke/CO detectors, and a nest doorbell.  None of which have caused me any problems",
+          "score": 2,
+          "created_utc": 1754008589.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n6e7l8c",
+      "author": "Glidepath22",
+      "body": "All this shit breaks, it\u2019s consumer grade garbage",
+      "score": 2,
+      "created_utc": 1754072720.0,
+      "replies": []
+    },
+    {
+      "id": "n66op7c",
+      "author": "MisterSnippy",
+      "body": "You guys ever heard of the amazing invention called a \"light-switch\"?",
+      "score": 4,
+      "created_utc": 1753977323.0,
+      "replies": [
+        {
+          "id": "n66y84u",
+          "author": "texred355",
+          "body": "Love that comment! However, my light switch on one of my lamps is broken, so the linked switch keeps me from having to throw the whole thing away. I have yet to find a replacement switch. And a same new lamp has suddenly doubled in price.",
+          "score": 1,
+          "created_utc": 1753980026.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n65kow1",
+      "author": "AychB",
+      "body": "Ha, I assumed my bedroom lights (and only the ones in my ceiling fan) not working with voice control last week was just me.",
+      "score": 2,
+      "created_utc": 1753965365.0,
+      "replies": [
+        {
+          "id": "n6bp6nb",
+          "author": "Vandies01",
+          "body": "Yeah it just says they're offline now\ud83e\udd72",
+          "score": 1,
+          "created_utc": 1754043466.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n67ilg9",
+      "author": "BaeIz",
+      "body": "My dad is from a poverish third world, he hooked up our google home to do everything and loves to show it off to our guests as a gimmick that makes him feel rich and futuristic. But for the rest of our family it\u2019s been a daily frustration.\n\nIt has its own damned will to annoy us. Playing music randomly, saying random nonsense despite nobody speaking to it, repeating our conversation back to us, turning on and off the backyard lights.\n\nDad however refuses to remove it citing \u201cconvenience\u201d What damned convenience? Why is flipping a switch not simple enough??",
+      "score": 2,
+      "created_utc": 1753985585.0,
+      "replies": []
+    },
+    {
+      "id": "n65piod",
+      "author": "txtoolfan",
+      "body": "Zero issues with my Google home setup",
+      "score": 1,
+      "created_utc": 1753967014.0,
+      "replies": []
+    },
+    {
+      "id": "n65w9rt",
+      "author": "Notmymain2639",
+      "body": "Cync is the only smart device app that has truly sucked for me luckily it's just one smart bulb I bought a while ago.",
+      "score": 1,
+      "created_utc": 1753969175.0,
+      "replies": []
+    },
+    {
+      "id": "n660c0w",
+      "author": "FleshyMeal",
+      "body": "At least it doesn't take a week to set up a fucking chromecast anymore. Sometimes.",
+      "score": 1,
+      "created_utc": 1753970409.0,
+      "replies": []
+    },
+    {
+      "id": "n66barl",
+      "author": "McFizzlechest",
+      "body": "I guess I dodged a bullet.  I made the decision years ago to buy into the Amazon Alexa platform and it's been working great.",
+      "score": 1,
+      "created_utc": 1753973581.0,
+      "replies": [
+        {
+          "id": "n6ah0fs",
+          "author": "HellzHoundz2018",
+          "body": "So you're the one!",
+          "score": 1,
+          "created_utc": 1754020304.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n66inj8",
+      "author": "sodihpro",
+      "body": "AI revolution doesn't come without any kinks apperently, I've unplugged my Google Home setup for now and will wait 1-2 years for proper updates.",
+      "score": 1,
+      "created_utc": 1753975639.0,
+      "replies": []
+    },
+    {
+      "id": "n66kioy",
+      "author": "MakeMine5",
+      "body": "My Smart Speakers refuse to play anything from YouTube Music anymore.  They say they are working but music never starts.  Same if I try casting to them.",
+      "score": 1,
+      "created_utc": 1753976163.0,
+      "replies": []
+    },
+    {
+      "id": "n66lch8",
+      "author": "-ibgd",
+      "body": "Missed opportunity to add Gemini to this old devices - it\u2019s all in the cloud anyway. My Google home devices all got dumber with time and now I\u2019m degoogling my home.",
+      "score": 1,
+      "created_utc": 1753976397.0,
+      "replies": []
+    },
+    {
+      "id": "n66m391",
+      "author": "-ibgd",
+      "body": "Nest camera thinks everyone is a mailman carrying a package. When the mailman actually comes \ud83e\udd97",
+      "score": 1,
+      "created_utc": 1753976605.0,
+      "replies": []
+    },
+    {
+      "id": "n66qce5",
+      "author": "Dracekidjr",
+      "body": "Yeah over the last year I'm lucky if my routines actually run, it stopped automatically playing any playlists and instead plays some random artist with nothing in common, and it's a 50/50 on if the lights turn off. The app works well, but the devices are glorified Bluetooth speakers anymore, which is very upsetting.",
+      "score": 1,
+      "created_utc": 1753977784.0,
+      "replies": []
+    },
+    {
+      "id": "n66sa6t",
+      "author": "dropthemagic",
+      "body": "It\u2019s really ironic because Siri sucks but the one thing she does is turn on the lights lol. I have like 5 of my old Google pucks I used to love them. They can\u2019t even connect to my network for some reason. I even turned off 6es 5ghx band and nothing so they are just trash I guess. lol I can\u2019t even sell them",
+      "score": 1,
+      "created_utc": 1753978335.0,
+      "replies": []
+    },
+    {
+      "id": "n66ukwu",
+      "author": "biznash",
+      "body": "i use it for Wifi mesh and speakers. for that it\u2019s been great",
+      "score": 1,
+      "created_utc": 1753978987.0,
+      "replies": []
+    },
+    {
+      "id": "n66uyuz",
+      "author": "lew_rong",
+      "body": "To butcher a quote by the famed Dr. Emilio Lizardo, home is what you are in the dark.",
+      "score": 1,
+      "created_utc": 1753979097.0,
+      "replies": []
+    },
+    {
+      "id": "n66v5q5",
+      "author": "FelixTehCat26",
+      "body": "My Google home has a mind of its own with only one smartplug in my house, turns it off and on as it pleases lol.",
+      "score": 1,
+      "created_utc": 1753979151.0,
+      "replies": []
+    },
+    {
+      "id": "n66vyuu",
+      "author": "Craig653",
+      "body": "I just use kasa\nNo issues",
+      "score": 1,
+      "created_utc": 1753979377.0,
+      "replies": [
+        {
+          "id": "n67r3ym",
+          "author": "SUPRVLLAN",
+          "body": "I prefer Limewire.",
+          "score": 1,
+          "created_utc": 1753987995.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n670oxx",
+      "author": "Wampalog",
+      "body": "The article doesn't mention whether this is an issue with Gemini or Assistant on it's own. I turned Gemini off on my phone because it kept trying to get the definition for 'Office off' but the Assistant hasn't had any problems so far.",
+      "score": 1,
+      "created_utc": 1753980722.0,
+      "replies": []
+    },
+    {
+      "id": "n671emi",
+      "author": "sideburns2009",
+      "body": "I know my google home isn\u2019t hardly able to answer basic questions anymore. Not that it was ever that good at it but I asked it to do math. I said \u201cwhat is 96 times 120?\u201d It kept launching some radio station no matter how clearly I asked it.",
+      "score": 1,
+      "created_utc": 1753980919.0,
+      "replies": [
+        {
+          "id": "n6ahr53",
+          "author": "HellzHoundz2018",
+          "body": "We're in the middle of a torrential thunderstorm. I ask Google when it's going to rain next. It says there's no rain expected for the next week. I ask it five times five different ways, and get the same answer every time. WTF.",
+          "score": 1,
+          "created_utc": 1754020619.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n673vgh",
+      "author": "concorde77",
+      "body": "Tbh, its one of the biggest reasons I keep forcing Google against installing Gemini on my phone. If Google Assistant gets removed, God knows which of my IOT devices are gonna break",
+      "score": 1,
+      "created_utc": 1753981585.0,
+      "replies": []
+    },
+    {
+      "id": "n678j3r",
+      "author": "fuck-nazi",
+      "body": "Mine stopped working the other day",
+      "score": 1,
+      "created_utc": 1753982843.0,
+      "replies": []
+    },
+    {
+      "id": "n67by9z",
+      "author": "veryexpensivegas",
+      "body": "Seriously? My lights are not voice activated anymore I\u2019m going to sue google",
+      "score": 1,
+      "created_utc": 1753983774.0,
+      "replies": []
+    },
+    {
+      "id": "n67c3g2",
+      "author": "electricworkaid",
+      "body": "Google Home rocked when it first came out, but it's gotten worse year over year, to the point where last year I fully abandoned all smart home tech. A decent idea originally, turned into an embarrassingly bad product that brings only frustration. Dumb lights and a dumb thermostat only for my family from here on out. I'm tired of arguing with a robot to try and convince it to do the things it used to do just fine.",
+      "score": 1,
+      "created_utc": 1753983812.0,
+      "replies": []
+    },
+    {
+      "id": "n67gjrg",
+      "author": "damian20",
+      "body": "Can someone tldr for me? \nDoes that explain why every smart light stops working accurately?",
+      "score": 1,
+      "created_utc": 1753985018.0,
+      "replies": []
+    },
+    {
+      "id": "n67p2ro",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1753987422.0,
+      "replies": [
+        {
+          "id": "n67rfrc",
+          "author": "SUPRVLLAN",
+          "body": "I got one of the mini speakers for like $35.",
+          "score": 1,
+          "created_utc": 1753988087.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n67t9oh",
+      "author": "hunkyfunky2",
+      "body": "It puzzles me that they are able to break a working system....and they know it... how could they? What's the end game here? make people leave and shut it down?",
+      "score": 1,
+      "created_utc": 1753988611.0,
+      "replies": []
+    },
+    {
+      "id": "n67ywk0",
+      "author": "leftovergarbaage",
+      "body": "There is room for a company to takeover and absolutely own this space. It will happen.  I hate most of my smart devices",
+      "score": 1,
+      "created_utc": 1753990256.0,
+      "replies": []
+    },
+    {
+      "id": "n689rm5",
+      "author": "DontNeedProtection",
+      "body": "No0ooOO0!111!\n\nApple is even worse !!1!1! >:(",
+      "score": 1,
+      "created_utc": 1753993382.0,
+      "replies": []
+    },
+    {
+      "id": "n68ascm",
+      "author": "Tman11S",
+      "body": "Funny, I always have way more success with google home compared to Apple HomeKit.",
+      "score": 1,
+      "created_utc": 1753993669.0,
+      "replies": []
+    },
+    {
+      "id": "n697jgt",
+      "author": "anarcho-antiseptic",
+      "body": "This is surveillance capitalism in action, plain and simple. Google Home isn't \"bad\" by accident, it's a symptom of a business model built on harvesting your data first, while actual functionality is an afterthought. The lawsuits brewing aren\u2019t surprising: Google lured people in with promises of a seamless smart home, but the reality is a half-baked product that spies on you *and* fails at basic tasks.\n\nWhy? Because you\u2019re not the customer. Advertisers and data brokers are. Every voice command, habit, and failed interaction is still metadata gold for Google\u2019s real business. When profitability depends on surveillance, reliability and user experience become secondary. They sold us a always-listening mic *disguised* as a helper.\n\nIf I ever set up a smart home system, it\u2019s 100% local or bust. Tools like Home Assistant, Mycroft, or Rhasspy running on a Pi or a home server prove you *can* have voice control without feeding your life into a corporate AI. No phoning home to Google/Amazon, no abandoned features when the parent company loses interest, and no lawsuit-worthy betrayal of trust.",
+      "score": 1,
+      "created_utc": 1754003655.0,
+      "replies": []
+    },
+    {
+      "id": "n69mmp5",
+      "author": "ijwgwh",
+      "body": "Great, looking forward to the half penny we'll get from the settlement that makes the law firm rich\u00a0",
+      "score": 1,
+      "created_utc": 1754008834.0,
+      "replies": []
+    },
+    {
+      "id": "n69phhg",
+      "author": "Boring-Artichoke-373",
+      "body": "We just use it as a timer and to answer weird questions.",
+      "score": 1,
+      "created_utc": 1754009838.0,
+      "replies": []
+    },
+    {
+      "id": "n6a0sgk",
+      "author": "Repulsive_Radish1914",
+      "body": "I guess they haven\u2019t seen all the problems Alexa has had with smart lighting recently.",
+      "score": 1,
+      "created_utc": 1754013936.0,
+      "replies": []
+    },
+    {
+      "id": "n6ae2di",
+      "author": "thewackytechie",
+      "body": "2 of my my Google home devices reset themselves automatically and won\u2019t pair to the app anymore. Shit product.",
+      "score": 1,
+      "created_utc": 1754019062.0,
+      "replies": []
+    },
+    {
+      "id": "n6anobe",
+      "author": "RedditNotFreeSpeech",
+      "body": "I completely understand what's going on over there. I see it every day at my own work. Incompetent nitwits making edicts about things they don't understand until they frustrate all of the most talented people into leaving to where the whole org is all but paralyzed and can no longer move fast and each new feature is always the biggest fastest shortcut despite the few remaining SMEs objecting. Corporate America sucks ass.",
+      "score": 1,
+      "created_utc": 1754023252.0,
+      "replies": []
+    },
+    {
+      "id": "n6astpo",
+      "author": "Hockeygoalie1114",
+      "body": "HOME IS WHERE YOU MAKE IT!",
+      "score": 1,
+      "created_utc": 1754025725.0,
+      "replies": []
+    },
+    {
+      "id": "n6bp622",
+      "author": "diacewrb",
+      "body": "It feels like all of google is going down the toilet.\n\nTheir search results are trash these days and gemini constantly gives the wrong answer.",
+      "score": 1,
+      "created_utc": 1754043458.0,
+      "replies": []
+    },
+    {
+      "id": "n6cja7g",
+      "author": "Best_Market4204",
+      "body": "My speaker without a doubt has gotten worse...\n\nIt's beyond annoying",
+      "score": 1,
+      "created_utc": 1754055304.0,
+      "replies": []
+    },
+    {
+      "id": "n6cvuro",
+      "author": "IronicStar",
+      "body": "As somebody who fully embraced smart home features 10 years ago, there was a sense of \"this is only going to get so much better\" that never actually came. Instead, Alexa and Google started to degrade features and more. The technologies IMO just... never lived up to any promise. At this point whenever a smart bulb burns out I don't replace it.",
+      "score": 1,
+      "created_utc": 1754059066.0,
+      "replies": []
+    },
+    {
+      "id": "n6fbzl2",
+      "author": "ArchonTheta",
+      "body": "Odd. No issues with any of my 6 Google homes",
+      "score": 1,
+      "created_utc": 1754084863.0,
+      "replies": []
+    },
+    {
+      "id": "n6ight4",
+      "author": "KrackSmellin",
+      "body": "Camera playback is broke in that you have to wait a minute or two to see anything that has gone on in the last 2 minutes.  Live works fine but an event that just happened?  Nope\u2026.\n\nI\u2019m already looking for an alternative so I can sell these POS cameras\u2026 Nest products suck now.",
+      "score": 1,
+      "created_utc": 1754135338.0,
+      "replies": []
+    },
+    {
+      "id": "n65iw43",
+      "author": "dirttraveler",
+      "body": "It's still working great for me. Lights are all fine. Streaming is fine. \nVoice commands working fine. \nNo issues here.",
+      "score": 1,
+      "created_utc": 1753964724.0,
+      "replies": [
+        {
+          "id": "n66rrvx",
+          "author": "SoraUsagi",
+          "body": "I'm kind of in the same boat. I've not had any issues really. The search algorithm seems to be getting worse. But that could just be me",
+          "score": 1,
+          "created_utc": 1753978191.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n69amxm",
+      "author": "Flukester69",
+      "body": "Wild.. I got smart lights and sockets. Haven't had any issues. Maybe you should get better devices.",
+      "score": 1,
+      "created_utc": 1754004687.0,
+      "replies": []
+    },
+    {
+      "id": "n65p2jv",
+      "author": "CandyCrisis",
+      "body": "Good luck with the lawsuit. I'm sure the Google EULA guarantees service forever with zero interruptions or you get your money back... right? \n\nIn all seriousness this is just naive. It's hugely customer-hostile but everyone knows this is why they have a EULA. You get arbitration, the online service was free, zero promises of the service lifetime, etc.",
+      "score": -1,
+      "created_utc": 1753966865.0,
+      "replies": [
+        {
+          "id": "n66rmva",
+          "author": "SoraUsagi",
+          "body": "I do agree with you for the most part, but do keep in mind that eulas are not ironclad. They are often overturned as unenforceable. \n \nAnd I would add that there are plenty of people who bought Google products specifically for their service, whereas they may not have otherwise.",
+          "score": 1,
+          "created_utc": 1753978151.0,
+          "replies": [
+            {
+              "id": "n66tdzu",
+              "author": "CandyCrisis",
+              "body": "They're not ironclad, but no arbiter in the world will say Google promised unlimited service forever, because of course they didn't. \n\nI'm as disappointed as the next guy at how Google Home is falling apart, but I can't say I'm surprised. Anything with a data center attached to it will go away eventually.",
+              "score": 0,
+              "created_utc": 1753978649.0,
+              "replies": [
+                {
+                  "id": "n66ui8t",
+                  "author": "SoraUsagi",
+                  "body": "Why would they go away?  All tech firms are opening more data centers.  Microsoft bought and is reopening 3 mile island nuclear plant to power their new centers.",
+                  "score": 1,
+                  "created_utc": 1753978966.0,
+                  "replies": [
+                    {
+                      "id": "n67p2rk",
+                      "author": "skriefal",
+                      "body": "> Why would they go away?\n\nCost of support/maintenance/hosting.  And lack of interest from the company - there's always something else that they *think* will be more profitable for them.",
+                      "score": 1,
+                      "created_utc": 1753987422.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "n67coyq",
+                      "author": "CandyCrisis",
+                      "body": "On a long enough timeline, Google Home will definitely disappear. It's just a matter of degrees. \n\n- Google Home will definitely be gone in 1,000 years. \n- Probably within 100 years. \n- Likely within 50 years. \n- Perhaps within 20 years. \n- Unlikely within 5 years. \n\nAlmost certainly someone in this thread will outlive Google Home.",
+                      "score": 0,
+                      "created_utc": 1753983975.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n65mm0u",
+      "author": "Vern_Pool",
+      "body": "I love the idea of naming the assistant after your company (you know for marketing reasons) trashing the name and then renaming yourself as literally all the letters.\n\nOkay Google !",
+      "score": -1,
+      "created_utc": 1753966037.0,
+      "replies": []
+    },
+    {
+      "id": "n65stfq",
+      "author": "BasicAlgorithm",
+      "body": "In the early days I could set up 4 speakers in a room with a Google Max for bass and have a decent music experience controlled by voice. I really liked that.  Then someone sued them over that technology and now it's gone. However, if you are brave enough to integrate everything with Gemini- it's actually very useful again, although not so much for music.",
+      "score": 0,
+      "created_utc": 1753968100.0,
+      "replies": []
+    },
+    {
+      "id": "n665izq",
+      "author": "MaroonIsBestColor",
+      "body": "Why not buy a clapper instead?",
+      "score": 0,
+      "created_utc": 1753971938.0,
+      "replies": [
+        {
+          "id": "n6g1sv3",
+          "author": "ghost_of_mr_chicken",
+          "body": "Because studio audiences on TV end up confusing my house...",
+          "score": 1,
+          "created_utc": 1754093686.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n66ezdt",
+      "author": "Ire-Works",
+      "body": "And this is why I refuse to get smart tech when possible. You're just renting your property at that point. When they decide to stop support it, you're hosed.",
+      "score": 0,
+      "created_utc": 1753974614.0,
+      "replies": [
+        {
+          "id": "n67ovea",
+          "author": "Tuxhorn",
+          "body": "Same boat, although doing it locally is possible. There's something really cool about creating a smart home that only talks on your local network. Nobody is gathering my data, and i'm not at the mercy of some company deciding to end support.",
+          "score": 1,
+          "created_utc": 1753987363.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n678a80",
+      "author": "LoneBlack3hadow",
+      "body": "Apple HomePod is equally as garbage. On top of it doing the same bs as Google Home I\u2019ve noticed that there are things missing that used to be there. \n\nFor example I used to be able to read the temperature of my house from my phone with the HomePod but now it\u2019s just mysteriously gone after an update, BUT DON\u2019T WORRY the humidity percentage sensor is still there! Can\u2019t live without that one!",
+      "score": 0,
+      "created_utc": 1753982777.0,
+      "replies": []
+    },
+    {
+      "id": "n67p3h1",
+      "author": "USDXBS",
+      "body": "In a just world, companies would be MASSIVELY punished for lying, cheating and stealing.\n\nCEOs facing life sentences, companies being dissolved and sold off.",
+      "score": 0,
+      "created_utc": 1753987428.0,
+      "replies": []
+    },
+    {
+      "id": "n65nry2",
+      "author": "devilishycleverchap",
+      "body": "None of them are great. They all basically release the minimum viable product and then moved on. Hardly anything gets iterations of improvement, it is just about basic functionality. \n\nStreaming services have no reason to work with these companies to improve their apps and integrations so you get the bare minimum",
+      "score": -1,
+      "created_utc": 1753966438.0,
+      "replies": [
+        {
+          "id": "n6aggbd",
+          "author": "HellzHoundz2018",
+          "body": "They're constantly updated... and that's actually the problem. The updates are for the new hardware, which fucks with the old hardware, and they don't adequately test the updates before they're rolled out to every fucking device under the sun",
+          "score": 0,
+          "created_utc": 1754020066.0,
+          "replies": [
+            {
+              "id": "n6bjdre",
+              "author": "devilishycleverchap",
+              "body": "Yeah sure they are. /s\n\nThat's why you can sort episodes by season in the Hulu app on the echo show right?\n\nOr ask it to play a specific episode from a season? Oh wait you can't. \n\nThat's why new streaming services have functionality with the echo show too right? Like apple TV and Disney plus have no issue running on the older echo show bc they are updated so frequently?",
+              "score": 1,
+              "created_utc": 1754040283.0,
+              "replies": [
+                {
+                  "id": "n6fkzwt",
+                  "author": "HellzHoundz2018",
+                  "body": "1. You... realize this discussion is about Google products... right? Not Amazon?\n\n2.. That's literally the entire point of my comment. They update the software, but not in a useful way. Instead, it's bloatware.",
+                  "score": 0,
+                  "created_utc": 1754087861.0,
+                  "replies": [
+                    {
+                      "id": "n6flzvi",
+                      "author": "devilishycleverchap",
+                      "body": "Cool story, did you notice how my comment was discussing all of them and not just the Google ones? \n\nI didn't realize this was /r/googlegadgets\n\nThe new Gemini feature doesn't integrate well with third party lighting solutions either.\n\nAlexa+ cant even use streaming app skills, it just opens a web browser\n\nThe point is that the updates dont add functionality, they get a minimum viable product out and then it slowly degrades into being barely useful because there is no upside to updating them, they still get to advertise that the device has the \"functionality \" regardless",
+                      "score": 1,
+                      "created_utc": 1754088201.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n678an2",
+      "author": "lunasdude",
+      "body": "I see that some people are equating Google with Amazon and their Alexa smart home systems and that's not fair they are very different. \n\nYou can hate on Amazon all you want but they're smart offerings are far superior too Google's in every respect, from hardware to the Alexa devices they work dramatically better. \n\nAs a matter of fact I would put the Amazon smart devices up against Apple's smart home devices. \n\nI had a few Amazon smart devices for years and WeMo devices, well guess what, Belkin is dumping WeMo support and they'll go offline January 1st 2026. \n\nWhat that means is any WeMo branded device will cease to have any smart functions, meeting it will not work with any app nor will it work on the internet at all. \n\nAre a few models that will work with Apple home kit but just a few The rest of the product line will simply become dumb switches. \n\nMy Amazon devices? Are still working reliably so I replaced my 14 WeMo switches with Amazon smart devices and everything works seamlessly. \n\nAs a matter of fact I was pleasantly and shockingly surprised at how easy it was to set up. \n\nEvery time I hooked up a in-wall switch or plugged in a smart plug by the time I was done and sitting down to open the Alexa app it was already there, set up and ready to go. \n\nAll I had to do was rename it to what I wanted to call it and put it into any smart routines I've wanted. \n\nI used to have my own personal smart home server setup And people will tell you that you should do this because it's so much better and you don't have to worry about big companies etc, blah, blah, blah. \n\nBut what they don't tell you is that you have to maintain the computer whether it's a raspberry pi or a full-on PC, you will have to update any APIs that change which is the instructions to the physical device that's turning things off and on and you will have to deal with any network issues that pop up, and they will pop up. \n\nAfter dealing with all of that for years I simply don't want to do it anymore. \n\nI'm not saying that Amazon is the best company but it works simply and reliably and Amazon generally doesn't have a huge record of dumping products unless they are not profitable and being bought by people. \n\nGoogle on the other hand does it all the time.",
+      "score": -1,
+      "created_utc": 1753982780.0,
+      "replies": [
+        {
+          "id": "n6988h9",
+          "author": "Realistic-Try-8029",
+          "body": "Apple\u2019s Automations are a big, smelly pile.",
+          "score": 1,
+          "created_utc": 1754003884.0,
+          "replies": []
+        },
+        {
+          "id": "n67a0v3",
+          "author": "FitDingo7818",
+          "body": "Apple has stopped support away quicker for products. I think once it gave a 6 week notice",
+          "score": 0,
+          "created_utc": 1753983247.0,
+          "replies": [
+            {
+              "id": "n67ra60",
+              "author": "SUPRVLLAN",
+              "body": "6 week notice for which product? Apple is known for having long support.",
+              "score": 1,
+              "created_utc": 1753988043.0,
+              "replies": [
+                {
+                  "id": "n67tdf2",
+                  "author": "FitDingo7818",
+                  "body": " I know in 2011 you were still in middle school but the Xserve was a disaster for those that lived it.\n\nFucking Apple fanboys",
+                  "score": 0,
+                  "created_utc": 1753988641.0,
+                  "replies": [
+                    {
+                      "id": "n67tosl",
+                      "author": "SUPRVLLAN",
+                      "body": "I was first year college in 2008. Sounds like you\u2019ve got a lot more living to do, best of luck champ.",
+                      "score": 1,
+                      "created_utc": 1753988734.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n6a0p1r",
+      "author": "AgitatedPassenger369",
+      "body": "I know this is a gadget page and im admittedly out of my depth, \n\nWhy all the laziness may i ask, when people with common sense ( not common) even know it\u2019s a threat and you guys who excel at tech are building ras pi\u2019s and all this jazz,\n\nMay I ask are our brains all at more risk from all these frequencies etc , \n\nWe had three relatively new tv\u2019s (under two years old) \n\nGive up after EE installed new street infrastructure where now you can pay $6 an hour without being linked to a router for Wi-Fi and to add to that Ive never had access to 5g in my first world country after the big push to install it all during a \u201cpandemic\u201d \n\nwhere politicians were partying , terminally ill were dying and there spouses losing all insurance policies as deaths put down to covid and not natural causes,\n\nSorry for the rant and not anti tech in the slightest just after an insight and want to know your thoughts,\n\nTia my foil hats always on apologies if I come across this way.",
+      "score": -1,
+      "created_utc": 1754013901.0,
+      "replies": []
+    },
+    {
+      "id": "n65jjgo",
+      "author": "amateurbreditor",
+      "body": "anyone using smart devices is stupid. not only is the amount of effort to make this comment stupid but the effort to hook them up, maintain them, updates, etc etc etc all so you can show off some stupid crap instead of turning on a light just shows you are stupid instead of smart.",
+      "score": -21,
+      "created_utc": 1753964955.0,
+      "replies": [
+        {
+          "id": "n65mrn1",
+          "author": "PhilosophyOptimal121",
+          "body": "Took me less than 10 minutes to have my entire home integrated with my Google home, with custom commands and schedules to turn my lights on in the morning, off at night, etc.\n\nIt updates automatically, zero maintenance required",
+          "score": 4,
+          "created_utc": 1753966091.0,
+          "replies": [
+            {
+              "id": "n665dvz",
+              "author": "amateurbreditor",
+              "body": "It just does not make any sense. We have 2 people here. We wake up at different times. We go to bed at different times. A light switch is better in every scenario than that and took no time to set up. Its just a gimmick. You are not selling me on something that is useless.",
+              "score": -2,
+              "created_utc": 1753971897.0,
+              "replies": [
+                {
+                  "id": "n665s6y",
+                  "author": "PhilosophyOptimal121",
+                  "body": "For your applications yes, a smart device is relatively pointless, but your statement that anyone using them is stupid makes no sense. Just because a product isn\u2019t universally applicable to all lifestyles doesn\u2019t mean it\u2019s a junk product. Different strokes for different folks.",
+                  "score": 4,
+                  "created_utc": 1753972011.0,
+                  "replies": [
+                    {
+                      "id": "n66641u",
+                      "author": "amateurbreditor",
+                      "body": "Dude. You are telling me you literally go to bed and wake up at the exact time every day? There is no way you are not overriding that nonsense every single day. You are just delusional.",
+                      "score": -2,
+                      "created_utc": 1753972107.0,
+                      "replies": [
+                        {
+                          "id": "n6671eh",
+                          "author": "PhilosophyOptimal121",
+                          "body": "Yep. Lights off at 11pm, lights on at 6am, I leave for work at 7 so the lights automatically shut off at 7:10 (in case I\u2019m running a bit late) and when I return from work it\u2019s just \u201cHey Google, I\u2019m home\u201d and all the appropriate lights come back on for the evening.\n\n\u201cHey Google, Movie Mode\u201d dims the lights and turns on my TV, \u201cGood Morning\u201d tells me good morning, tells me the weather and traffic updates.\n\nI find it all very convenient, but like I said, some may prefer the less automated ways, and that\u2019s fine.",
+                          "score": 3,
+                          "created_utc": 1753972373.0,
+                          "replies": [
+                            {
+                              "id": "n6afq6e",
+                              "author": "HellzHoundz2018",
+                              "body": "I love \"Hey Google, I'm home!\"\n\nBut wait... you don't turn the lights OFF when the TV is on?!?!? *BARBARIAN!*",
+                              "score": 1,
+                              "created_utc": 1754019758.0,
+                              "replies": [
+                                {
+                                  "id": "n6ag92x",
+                                  "author": "PhilosophyOptimal121",
+                                  "body": "I usually turn the living room lights off but dim the kitchen lights in case I wanna get a snack\n\nIt also turns on the Govee Dreamview I have that reacts to whatever image my TV is displaying with complimentary colors. HIGHLY recommend.",
+                                  "score": 1,
+                                  "created_utc": 1754019980.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n66i702",
+      "author": "Mejai91",
+      "body": "It\u2019s certainly better than Alexa though. The Alexa I used to have was a sociopath. It farted at me once for no reason and then just said \u201cwelcome to fart app\u201d completely unprompted. I also had multiple scenarios where it was like \u201ccan\u2019t purchase Amazon music, no credit card on file\u201d also completely unprompted.\n\nMy mom\u2019s Alexa started yelling her name in the middle of the night. Alexa is fucked and I\u2019ve never had an issue with my google.",
+      "score": -2,
+      "created_utc": 1753975510.0,
+      "replies": []
+    },
+    {
+      "id": "n65qlpi",
+      "author": "Tacovtx",
+      "body": "A  a q a",
+      "score": -3,
+      "created_utc": 1753967377.0,
+      "replies": []
+    },
+    {
+      "id": "n65garu",
+      "author": "Bdr1983",
+      "body": "How very American to start a lawsuit over something like this.  \nIs it inconvenient? Yep. Is it life altering? Nope. It's just the voice function that is bugging out, the buttons in the app still work fine, from what I read from people who are affected by this.  \nWhat do these people expect? Their money back?",
+      "score": -41,
+      "created_utc": 1753963788.0,
+      "replies": [
+        {
+          "id": "n65h1ms",
+          "author": "Cuppojoe",
+          "body": "I'm sure they expect the hardware they purchased to work as advertised. Google Home speakers work by voice, so...",
+          "score": 28,
+          "created_utc": 1753964062.0,
+          "replies": []
+        },
+        {
+          "id": "n65ivh7",
+          "author": "theREAL_Harambe",
+          "body": "Do things need to be life altering before litigation is an option? If we pay for a product that has features advertised, we expect that product to deliver on the advertised features. \n\nApple should get a class action too over their \u201cApple Intelligence\u201d bullshit that has yet to be rolled out despite being a keystone feature of their last phone launch.",
+          "score": 12,
+          "created_utc": 1753964718.0,
+          "replies": []
+        },
+        {
+          "id": "n65kde8",
+          "author": "ebbiibbe",
+          "body": "I think litigation against companies ruining their products with shit AI is our only way to fight back.",
+          "score": 8,
+          "created_utc": 1753965252.0,
+          "replies": []
+        },
+        {
+          "id": "n65j8xj",
+          "author": "ztpurcell",
+          "body": "Americans sue less than the average developed country. You're just a sheep who's easily convinced by propaganda",
+          "score": 2,
+          "created_utc": 1753964850.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

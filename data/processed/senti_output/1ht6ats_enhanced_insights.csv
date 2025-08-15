@@ -1,0 +1,49 @@
+metric,value
+file,1ht6ats.csv
+title,Atari teases handheld game system with a trackball and a numpad | Nintendo's Switch has inspired a new wave of gaming handhelds
+rows,105
+num_posts,1
+num_comments,104
+unique_authors,75
+max_depth,11
+avg_comment_words,39.83
+median_comment_words,29.0
+max_comment_words,178
+positive_count,26
+negative_count,78
+neutral_count,0
+positive_pct,25.0
+negative_pct,75.0
+neutral_pct,0.0
+topic_1_keywords,"switch, deck, steam, inspired, wasnt, valve, people, new"
+topic_1_label,steam switch inspired by steam
+topic_2_keywords,"really, atari, like, emulator, anyone, trackball, another, hardware"
+topic_2_label,ahari likes trackball
+topic_3_keywords,"switch, atari, handheld, handhelds, games, like, well, gaming"
+topic_3_label,"Switch, atari, handhelds, games, like"
+topic_4_keywords,"atari, golden, tee, people, thats, trackball, industry, comment"
+topic_4_label,tees and golden tees in the industry
+topic_5_keywords,"5200, controller, atari, size, revision, old, handhelds, ataris"
+topic_5_label,"Ataris 5200 controllers, size, revision, old, handhelds"
+topic_6_keywords,"people, pc, ngage, theres, console, lot, emulation, nokia"
+topic_6_label,"Nintendo pcs, pcs, ngage, theres, emulation, nokia"
+top_ngram_1,steam deck (16)
+top_ngram_2,golden tee (15)
+top_ngram_3,handheld gaming (9)
+top_ngram_4,gaming console (9)
+top_ngram_5,nokia ngage (9)
+top_ngram_6,lot people (8)
+top_ngram_7,ngage emulation (8)
+top_ngram_8,hardware atari (7)
+top_ngram_9,nokia ngage emulation (7)
+top_ngram_10,feel like (6)
+ner_1,Atari|ORG|50
+ner_2,Switch|MISC|26
+ner_3,Steam Deck|ORG|8
+ner_4,Nintendo|ORG|8
+ner_5,Valve|ORG|5
+ner_6,Nokia|MISC|4
+ner_7,NES|MISC|4
+ner_8,Steamdeck|MISC|4
+ner_9,Nokia NGage|MISC|4
+ner_10,Golden Tee|ORG|4

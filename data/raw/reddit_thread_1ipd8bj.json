@@ -1,0 +1,271 @@
+{
+  "post": {
+    "title": "Asus unveils NUC 15 Pro mini PC with Intel Core Ultra 200 CPUs and up to 96 GB of memory | Price and availability yet to be announced",
+    "author": "chrisdh79",
+    "id": "1ipd8bj",
+    "score": 277,
+    "created_utc": 1739547299.0,
+    "selftext": "",
+    "num_comments": 31,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ipd8bj/asus_unveils_nuc_15_pro_mini_pc_with_intel_core/"
+  },
+  "comments": [
+    {
+      "id": "mcrdpy0",
+      "author": "iMatt42",
+      "body": "Would an eGPU work with this???",
+      "score": 11,
+      "created_utc": 1739553390.0,
+      "replies": [
+        {
+          "id": "mcrw8w2",
+          "author": "lolheyaj",
+          "body": "A thunderbolt 4 egpu should work.\u00a0\n\nIt also has an empty gen4 m.2 2242 slot so you might be able to find an occulink adapter that can slot into there if you need occulink.\u00a0",
+          "score": 13,
+          "created_utc": 1739558821.0,
+          "replies": [
+            {
+              "id": "mcswi3f",
+              "author": "iMatt42",
+              "body": "Thanks! Definitely worth looking into.",
+              "score": 2,
+              "created_utc": 1739569562.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mcquluk",
+      "author": "OperatorJo_",
+      "body": "Huh. Depending on the price, it looks like I just found the new brain for my TV.",
+      "score": 51,
+      "created_utc": 1739547781.0,
+      "replies": [
+        {
+          "id": "mcsrpfl",
+          "author": "gonfishn37",
+          "body": "Exactly my thought.. what\u2019s your max price for that? I\u2019m thinking $499 before I can\u2019t entertain the idea $299 or less for an instant purchase.\nEdit: **specifically as a plex box",
+          "score": 22,
+          "created_utc": 1739568115.0,
+          "replies": [
+            {
+              "id": "mctbbga",
+              "author": "OperatorJo_",
+              "body": "$400 max. For my needs Core3 to Core5 would be enough. That should be within that $350 window",
+              "score": 9,
+              "created_utc": 1739574278.0,
+              "replies": [
+                {
+                  "id": "mcv48fj",
+                  "author": "Zyhre",
+                  "body": "Woudlnt' all the Beelinks be fine then?",
+                  "score": 4,
+                  "created_utc": 1739600684.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mcwm8hi",
+              "author": "dannydiggz",
+              "body": "This man knows",
+              "score": 1,
+              "created_utc": 1739630094.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "md1lbnq",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1739694242.0,
+          "replies": [
+            {
+              "id": "md261yw",
+              "author": "OperatorJo_",
+              "body": "Personally don't use it but yes, Win11 does have an HDR setting.",
+              "score": 1,
+              "created_utc": 1739706890.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mg3n1yc",
+          "author": "Fgtfv567",
+          "body": "What were you thinking of using for the software?",
+          "score": 1,
+          "created_utc": 1741152436.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mcqtcqt",
+      "author": "chrisdh79",
+      "body": "From the article: The top consumer model is powered by the Core Ultra 7 255H CPU, while the flagship enterprise model ships with the Core Ultra 7 265H. The processors used in the more affordable versions include the Core Ultra 5 235H, Core Ultra 225H, Core 7 240H, Core 5 210H, and Core 3 100U.\n\nThe new models do not include discrete graphics, but the Core Ultra variants feature an Intel Arc 140T iGPU, which should offer enough power for casual gaming. However, the Core 3, Core 5, and Core 7 variants only ship with integrated Intel Graphics. The Core Ultra models also receives up to 96 GB of DDR5-6400 memory, while the rest come with DDR5-5600 memory.\n\n\n\nFor storage, the NUC 15 Pro PCs include an M.2 2280 PCIe Gen4x4 slot with support for up to 2TB NVMe SSDs and an M.2 2242 PCIe Gen4x4 slot, supporting up to an additional 2TB SSD for a total of up to 4TB. The slots are also compatible with PCIe Gen 5 drives for easy upgrades.\n\nThe mini PCs offer fast wireless connectivity, featuring support for Wi-Fi 7 BE201 and Bluetooth 5.4 in the Core Ultra models. The Core 3, 5, and 7 variants support only up to Wi-Fi 7 BE202. According to Intel, the BE201 Wi-Fi chip supports the 320MHz channel width to deliver up to 5.8 Gbps, whereas the older BE202 chip only supports 160MHz and up to 2.4 Gbps.\n\nWired connectivity options include dual HDMI 2.1, dual Thunderbolt 4, triple USB Type-A 3.2 Gen 2, one USB Type-A 2.0, one USB-C 3.2 Gen2x2, and a 2.5G Ethernet port. There's also a Kensington lock on the side for increased security.",
+      "score": 19,
+      "created_utc": 1739547406.0,
+      "replies": [
+        {
+          "id": "mctfzwr",
+          "author": "protekt0r",
+          "body": "Why in the hell are the m2 drives limited to 2TB?!",
+          "score": 13,
+          "created_utc": 1739575892.0,
+          "replies": [
+            {
+              "id": "mcw2bey",
+              "author": "danielv123",
+              "body": "Probably just what Asus offers, I am sure they allow 3rd party",
+              "score": 7,
+              "created_utc": 1739621724.0,
+              "replies": [
+                {
+                  "id": "md3s62p",
+                  "author": "protekt0r",
+                  "body": "Oh okay, got it.  I thought they were limiting the MB to 2TB SSDs",
+                  "score": 1,
+                  "created_utc": 1739727669.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mcymw2p",
+              "author": "VyPR78",
+              "body": "Single-sided PCB's only due to interior space constraints, perhaps?",
+              "score": 3,
+              "created_utc": 1739652657.0,
+              "replies": []
+            },
+            {
+              "id": "md08jgr",
+              "author": "Wiregeek",
+              "body": "that would be bizarre, I have 4tb in my Nuc 14 Pro+",
+              "score": 1,
+              "created_utc": 1739671753.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mcs81ma",
+          "author": "cipri_tom",
+          "body": "What about power consumption?",
+          "score": 1,
+          "created_utc": 1739562278.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mcvqb8w",
+      "author": "Neovison_vison",
+      "body": "I just need a TL;DR of $ wise performance compared to M3/M4 performance in Adobe suit and DR resolve.",
+      "score": 5,
+      "created_utc": 1739614442.0,
+      "replies": []
+    },
+    {
+      "id": "mcxr50g",
+      "author": "DiplomatikEmunetey",
+      "body": "I am glad ASUS is continuing my beloved NUC form factor. I wish they would not pollute the front panel with their logo though. NUCs under Intel were very clean looking, a minimalist's dream.",
+      "score": 2,
+      "created_utc": 1739642969.0,
+      "replies": []
+    },
+    {
+      "id": "mcs46q6",
+      "author": "Username43201653",
+      "body": "Why aren't laptop guts put in smaller than laptop boxes. Take off the keyboard and screen and battery and give me the $ and space savings. Put fins on the top for cooling or vertical cooling like the PS5. Wtf needs a tower.",
+      "score": 5,
+      "created_utc": 1739561146.0,
+      "replies": [
+        {
+          "id": "mctk6xx",
+          "author": "Wakkit1988",
+          "body": "That's, literally, what things like the ROG NUC are. It's laptop hardware in a mini case that you can attach to an eGPU if you need more performance. That thing is 11.1\" x 7.4\" x 2.2\".",
+          "score": 15,
+          "created_utc": 1739577376.0,
+          "replies": [
+            {
+              "id": "mctm5m5",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -4,
+              "created_utc": 1739578075.0,
+              "replies": [
+                {
+                  "id": "mcto6ln",
+                  "author": "Wakkit1988",
+                  "body": ">Give me mid/high end laptop specs for a $400 lower price.\n\nDo you know what those laptops run pricewise? $2k-$6k.\n\nYou think dropping the monitor, battery, and keyboard are going to make them drastically cheaper when the graphics, motherboard, and CPU are going to be the most expensive components? $1200 for a mini PC that's a high-end gaming laptop is an absolute steal.\n\nYou want too much for too little. The second you get a non-integrated graphics setup, the price instantly skyrockets because it's an added component. \n\nYou can have compact, relatively cheap, or high performance. You can only have 2, not all 3.",
+                  "score": 7,
+                  "created_utc": 1739578796.0,
+                  "replies": [
+                    {
+                      "id": "mctrq56",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -2,
+                      "created_utc": 1739580068.0,
+                      "replies": [
+                        {
+                          "id": "mcttasy",
+                          "author": "Wakkit1988",
+                          "body": ">Did you actually look at the price of the laptop I linked.\n\nYou edited your comment after I posted mine. \n\nI'm not debating with someone who is willing to retroactively change their comments on a whim. Have a nice life.",
+                          "score": 9,
+                          "created_utc": 1739580635.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mcyvqgx",
+      "author": "The_Real_Kingpurest",
+      "body": "I just built a big box with 8 hard drive bays integrated byt sometimes i wonder if one of theseqolas a better move",
+      "score": 1,
+      "created_utc": 1739655400.0,
+      "replies": []
+    },
+    {
+      "id": "mcva0bs",
+      "author": "dhalinarkholin",
+      "body": "Plex is old school. Stremio and premiumize. Don't look back!",
+      "score": -7,
+      "created_utc": 1739604064.0,
+      "replies": [
+        {
+          "id": "mcva37g",
+          "author": "dhalinarkholin",
+          "body": "https://troypoint.com/stremio/",
+          "score": -4,
+          "created_utc": 1739604113.0,
+          "replies": [
+            {
+              "id": "mcvvs0z",
+              "author": "b3tarded",
+              "body": "/r/LostRedditors",
+              "score": 6,
+              "created_utc": 1739617907.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

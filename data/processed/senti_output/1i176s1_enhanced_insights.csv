@@ -1,0 +1,49 @@
+metric,value
+file,1i176s1.csv
+title,PCGH demonstrates why 8GB GPUs are simply not good enough for 2025 
+rows,104
+num_posts,1
+num_comments,103
+unique_authors,75
+max_depth,8
+avg_comment_words,61.45
+median_comment_words,44.0
+max_comment_words,251
+positive_count,17
+negative_count,86
+neutral_count,0
+positive_pct,16.505
+negative_pct,83.495
+neutral_pct,0.0
+topic_1_keywords,"vram, cards, ram, card, agp, better, swap, low"
+topic_1_label,ram cards better swap
+topic_2_keywords,"got, cant, 8800gts, play, better, something, 300, even"
+topic_2_label,'stupid' cants get better than 'stupid' cants
+topic_3_keywords,"gtx, 970, user, going, year, dont, im, maybe"
+topic_3_label,gtx is a gtx that is not a user
+topic_4_keywords,"mid, end, 70, range, high, card, free, glad"
+topic_4_label,card for free at the end of the card
+topic_5_keywords,"resolution, game, texture, usage, memory, gamers, reduce, like"
+topic_5_label,gamers reduce memory
+topic_6_keywords,"vram, card, settings, 8gb, still, gpu, memory, year"
+topic_6_label,GB card settings for vram
+top_ngram_1,gtx 970 (12)
+top_ngram_2,high end (10)
+top_ngram_3,performed better (9)
+top_ngram_4,ultra settings (8)
+top_ngram_5,mid range (8)
+top_ngram_6,970 user (7)
+top_ngram_7,gtx 970 user (7)
+top_ngram_8,per second (7)
+top_ngram_9,cant run (6)
+top_ngram_10,cant play (6)
+ner_1,Nvidia|ORG|9
+ner_2,PCIE|MISC|6
+ner_3,GTX 970|MISC|5
+ner_4,##0|MISC|4
+ner_5,E|MISC|4
+ner_6,GTX|MISC|4
+ner_7,AAA|ORG|3
+ner_8,##V|ORG|3
+ner_9,Ra|MISC|3
+ner_10,RX 7600 XT|MISC|3

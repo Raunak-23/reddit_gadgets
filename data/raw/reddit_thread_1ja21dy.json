@@ -1,0 +1,1405 @@
+{
+  "post": {
+    "title": "The \u2018world\u2019s smallest microcontroller\u2019 measures just 1.38 mm\u00b2 and costs 20 cents",
+    "author": "MicroSofty88",
+    "id": "1ja21dy",
+    "score": 1577,
+    "created_utc": 1741833639.0,
+    "selftext": "",
+    "num_comments": 164,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ja21dy/the_worlds_smallest_microcontroller_measures_just/"
+  },
+  "comments": [
+    {
+      "id": "mhi72f8",
+      "author": "ptraugot",
+      "body": "Still won\u2019t fit through a vaccination needle dammit!",
+      "score": 549,
+      "created_utc": 1741835208.0,
+      "replies": [
+        {
+          "id": "mhiol0i",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 226,
+          "created_utc": 1741842883.0,
+          "replies": [
+            {
+              "id": "mhjcl9i",
+              "author": "Sawses",
+              "body": "Right? I work in clinical research and have some family who think that big pharma has the cure for cancer but are just hiding it. \n\nLike...I know more about cancer than many people. The complexity and variety, the sheer overwhelming biotechnological prowess we'd need to have achieved to actually create a cure-all for cancer. I'd actually be very okay if that conspiracy theory were true, because it'd mean that we're one step away from a posthuman sci-fi utopia scenario. To say nothing of the tens of thousands of people who would have to know about it, understand it well enough to make the cure themselves, statistically have friends and family dying of cancer, and choose to keep it secret. \n\nDon't get me wrong, big pharma is definitely evil. ...But it's like having an evil overlord who profits off making your life better. They might screw you over, but at least you'll get something out of it usually.",
+              "score": 67,
+              "created_utc": 1741857690.0,
+              "replies": [
+                {
+                  "id": "mhjyegq",
+                  "author": "Baud_Olofsson",
+                  "body": "> Right? I work in clinical research and have some family who think that big pharma has the cure for cancer but are just hiding it. \n\nThat's sadly half of Reddit. Every single post about a promising new cancer treatment or cure for $DISEASE is filled with - upvoted - comments about how it'll never see the light of day because They^TM don't actually want cures because \"there's more money in treatments than cures\".  \n(Which is patently wrong. If you believe that then you have no idea how the pharmaceutical industry or even basic economics work.)",
+                  "score": 26,
+                  "created_utc": 1741868746.0,
+                  "replies": [
+                    {
+                      "id": "mhkumjy",
+                      "author": "ShadoeRantinkon",
+                      "body": "wait, I just realized, insurance would want to cure you so you keep paying premiums, duh",
+                      "score": 6,
+                      "created_utc": 1741879270.0,
+                      "replies": [
+                        {
+                          "id": "mhq637x",
+                          "author": "max8126",
+                          "body": "No they want healthy people to pay premium and sick people to get lost. They would not do that delay deny shit if they care about curing people.",
+                          "score": 3,
+                          "created_utc": 1741949340.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mhk1byb",
+                      "author": "Dick_Lazer",
+                      "body": "Yeah I could believe that on a smaller level, like doctors who have been caught giving cancer treatments to healthy patients: https://www.nbcnews.com/health/cancer/farid-fata-doctor-who-gave-chemo-healthy-patients-faces-sentencing-n385161\n\nBut a company that develops the cure for cancer would surely be sitting on an enormous gold mine.",
+                      "score": 6,
+                      "created_utc": 1741869877.0,
+                      "replies": [
+                        {
+                          "id": "mhljf8w",
+                          "author": "Cambrian__Implosion",
+                          "body": "If you haven\u2019t listened to it yet, there\u2019s a really good podcast series about doctors who have patterns of committing insane medical malpractice called Dr. Death. I think there are three seasons out and the second one is about Dr. Fata. It was horrifying, but I couldn\u2019t stop listening once I started and I\u2019m not even a big podcast person.",
+                          "score": 3,
+                          "created_utc": 1741886337.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mhlc4ll",
+                          "author": "parks387",
+                          "body": "The cures are never as profitable as treating the symptoms. That\u2019s the truest thing I learned from post secondary education.",
+                          "score": -1,
+                          "created_utc": 1741884293.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mhq6aia",
+                      "author": "max8126",
+                      "body": "Which part is wrong? The conspiracy theory part or the \"there is more money in treatment than cures\"?",
+                      "score": 2,
+                      "created_utc": 1741949445.0,
+                      "replies": [
+                        {
+                          "id": "mhqz6e5",
+                          "author": "None",
+                          "body": "[removed]",
+                          "score": 5,
+                          "created_utc": 1741960911.0,
+                          "replies": [
+                            {
+                              "id": "mhry7rv",
+                              "author": "max8126",
+                              "body": "Thanks for the explanation esp with the example. This gives me something to read about.",
+                              "score": 2,
+                              "created_utc": 1741971220.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mhqnpo0",
+                      "author": "reeeeecist",
+                      "body": "It's more of an investment priority problem. There is more money invested in the cosmetics industry and enforcing impossible beauty standards than there is in finding a cure to cancer.",
+                      "score": 1,
+                      "created_utc": 1741956994.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mhkilzh",
+                  "author": "TexAggie90",
+                  "body": "My maxim on conspiracy theories:\n\n1. The likelihood of a secret being kept secret is inversely proportional to the number of people that knows the secret.\n\n2. Any major  conspiracy is sufficiently complex enough that it requires an enormous number of people in on the secret.\n\nSo, chips in vaccines would be impossible to remain secret. \n\nThe only possible conspiracy that I know of that might break that maxim, is the JFK assassination.  I personally think that Oswald acted alone, but I\u2019ll at least entertain the possibility that:\n\nThe Soviets assassinated JFK, so the people involved in the coverup had the motivation of preventing a nuclear war over something that could not be taken back. They would have had enough motivation in this scenario to keep their mouths shut.",
+                  "score": 2,
+                  "created_utc": 1741875684.0,
+                  "replies": [
+                    {
+                      "id": "mhm0asd",
+                      "author": "canadave_nyc",
+                      "body": "Even your JFK scenario is implausible to keep secret. It's not just the people making the decision who are in on it--so are the secretaries who take the phone calls between the parties who are involved and then note down the decision on paper and file it; the people tasked with maintaining the files in the file room; anyone who is in any way involved in organizing the act (a driver, an attendant, an adjutant, a chef involved at a dinner where the matter is discussed, etc). And then as time goes by and the \"urgency of keeping it secret\" goes away, people talk on their deathbed or out of conscience...it's just not plausible. Any conspiracy that involves more than 2-3 people will just never be able to kept fully secret for decades.",
+                      "score": 3,
+                      "created_utc": 1741891105.0,
+                      "replies": [
+                        {
+                          "id": "mhm6nyi",
+                          "author": "TexAggie90",
+                          "body": "Agreed. Im on the implausible, but not impossible side of the Soviet scenario. I definitely think it was Oswald alone involved.  \n\nI dismiss the other theories out of hand, such as the Mafia theory.",
+                          "score": 2,
+                          "created_utc": 1741892899.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mhlzagf",
+                  "author": "None",
+                  "body": "[removed]",
+                  "score": 1,
+                  "created_utc": 1741890819.0,
+                  "replies": [
+                    {
+                      "id": "mhmfivr",
+                      "author": "alidan",
+                      "body": "take a look at what's called a conspiracy theory today, its less about keeping it secret and more about only having true believers in on it and paint everyone who points it out as a nutjob.",
+                      "score": 1,
+                      "created_utc": 1741895400.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mhmdw1w",
+                  "author": "alidan",
+                  "body": "if I remember right was it a goldman sachs executive that went to a research facility for cancer or aids and our right said \"why the fuck are you researching a cure and not treatments\"",
+                  "score": 1,
+                  "created_utc": 1741894939.0,
+                  "replies": [
+                    {
+                      "id": "mhmldi3",
+                      "author": "Sawses",
+                      "body": "That's thinking like a finance worker and not an economist. \n\nSure, if you have complete control in a free-market economy you should create treatments and then charge every penny you possibly can for it.\n\nThe thing is, that's not how it works. Companies compete with each other and our system *will* pay for life-saving treatments out of taxpayer dollars. The companies making the treatments are getting paid no matter what, on top of that. \n\nSo a company who wants some of the money they currently *aren't* getting will create a better treatment or a cure, and can charge a substantial fraction of the lifetime treatment cost for the cure as a fair-market price. The cure is also much, *much* cheaper to produce and administer (medical professionals, chemists, etc. are expensive).\n\nThere's just no incentive to keep a cure secret unless you already have such a stranglehold on the market that it's *still* more profitable just to create an astronomically expensive cure and reduce the production and administration costs massively. \n\nDoes that make sense?",
+                      "score": 1,
+                      "created_utc": 1741897050.0,
+                      "replies": [
+                        {
+                          "id": "mhqfw6e",
+                          "author": "alidan",
+                          "body": "you are looking at this in a perfect world.\n\na lot of cure style research is far to cost prohibitive for most companies to even attempt to do, granted quite a lot of cures/treatments are byproducts of other shit they are researching. \n\nrealistically, low hanging fruit will be plucked, and then the next step costs more money to do, and this cycle repeats itself till we are at the point with antibiotics, we need new ones due to resistant strains, but it costs a hell of alot to get a new one so we are effectively putting it off till we can't any more.",
+                          "score": 1,
+                          "created_utc": 1741953955.0,
+                          "replies": [
+                            {
+                              "id": "mhqshf2",
+                              "author": "Sawses",
+                              "body": "You certainly do need investors, but there's no end of biotech start-ups seeking either cures or diseases. What you're missing, I think, is that there are just too many people with money who want *more money*, and can get it by creating better treatments/cures for diseases that already have decent-ish ones.",
+                              "score": 1,
+                              "created_utc": 1741958682.0,
+                              "replies": [
+                                {
+                                  "id": "mhqxm0h",
+                                  "author": "alidan",
+                                  "body": "with cancer, lets use this one as an example because its the one that's probably the worst right now, you have no 'cure' possible. \n\ncancer is your dna/cells no longer dying off, there is no general inoculation that could target this problem, we DO have vaccines for things that are likely to cause cancer but those aren't cancer specific. to get cancer specific, you would need to be able to target the specific cells in that person, which I don't believe we have a cost effective way to do. treatment is effectively poisoning yourself hoping the poison kills off the cancer cells and you don't get taken out with it. \n\nfor the time being, all we have is treatment methods, and potentially targeted treatment methods for areas of the body where the cancer is.\n\nevery now and then we hear breakthroughs that never come to pass, because it seemingly worked in one person or in labs on animals, but it just never worked for more people.",
+                                  "score": 1,
+                                  "created_utc": 1741960404.0,
+                                  "replies": [
+                                    {
+                                      "id": "mhrgvon",
+                                      "author": "Sawses",
+                                      "body": "I'm not sure I understand your point. I thought you were saying companies knowingly withheld more effective treatments/cures. Can you repeat your thesis for me, so we can have a more productive dialogue?",
+                                      "score": 1,
+                                      "created_utc": 1741966226.0,
+                                      "replies": [
+                                        {
+                                          "id": "mhwd12c",
+                                          "author": "alidan",
+                                          "body": "my point was the people who fund the research ask why they are funding a cure and not treatment, a large reason this kind of constancy exists in the first place\n\nmy next point is in a perfect world people would research cheaper ways to treat, but the well funded institutions already do this, what's left if potentially better but more expensive treatments that cost more to research largely looking at antibiotics as its a segment that we require to this research to be done\n\nI also bring up cancer as a we know how but its not viable for a cure at current tech levels, only general treatments and how often new ones get tossed out because they only showed results in one thing.\n\nI think where me and you different is you think that a start up will find a new cheap way to do something\n\nI think that the cheap ways to do things for nearly everything are already or are being researched by people with far better funding. \n\nwe are not getting a race to the bottom with medical costs for a reason, it can cost a pharmaceutical company 10s of billions of dollars for them to get the next thing that pays all that money back, the investment required for this is stupidly fucking high.",
+                                          "score": 1,
+                                          "created_utc": 1742033125.0,
+                                          "replies": [
+                                            {
+                                              "id": "mhxnfyv",
+                                              "author": "Sawses",
+                                              "body": "> I think where me and you different is you think that a start up will find a new cheap way to do something\n\nThat's actually pretty common. I work in clinical trials, on oncology trials specifically at the moment, and can think of a handful of drugs approved in the last 5 years that are major improvements on previous treatments available, all with early trials conducted by startups. \n\nI can also think of a couple outright cures for specific types of tumor (admittedly rare ones) that are simply no longer a threat anymore in the developed world. \n\nI don't disagree that medical care pricing is being manipulated to impoverish the working class...But your perspective on the medical sciences is incorrect. It isn't really a matter of opinion, and I don't really blame you. The one thing everybody wants is to live a longer, healthier life. The people who fund medical research do so because they know it benefits themselves personally.",
+                                              "score": 1,
+                                              "created_utc": 1742052845.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mhytir4",
+                                                  "author": "alidan",
+                                                  "body": "> I don't disagree that medical care pricing is being manipulated to impoverish the working class\n\nI don't really think pharma keeps the costs high to keep the middle class down, I think that's insurance in general that inflates costs. they wont ok a 50 cent bandage but they will negotiate a 50$ bandage down to 2$ and say they did a good job. \n\nthen you also have pharma inflating american pricing, but a good amount of that is off the back insurance paying for it or the government.",
+                                                  "score": 1,
+                                                  "created_utc": 1742065898.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhir3hy",
+              "author": "Tepigg4444",
+              "body": "no see it was all manufactured over the span of a decade, bill gates and the one world government were hinting about their planned pandemic for years",
+              "score": 25,
+              "created_utc": 1741844242.0,
+              "replies": [
+                {
+                  "id": "mhkqfcy",
+                  "author": "Limos42",
+                  "body": "You forgot the /s",
+                  "score": 0,
+                  "created_utc": 1741878028.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mhjjojo",
+              "author": "n00b001",
+              "body": "So true \n\nAnd then what happens when a microcontroller is in some meat?\n\nIs a battery required or does it need to be externally powered like NFC tags?\n\nWhat kind of data can it read? \nTemperature, sure... Interesting? Idk\nLocation? Gps? Antenna? Through meat/clothes/car/etc? And how is this thing powered again???",
+              "score": 3,
+              "created_utc": 1741861881.0,
+              "replies": [
+                {
+                  "id": "mhk04lu",
+                  "author": "thissexypoptart",
+                  "body": "Right you\u2019re need a battery or some kind of mechanical power harvesting tool, both of which will bigger than this chip. Still really cool technology though\n\nApparently it\u2019s only taking 5microA when on standby mode.",
+                  "score": 1,
+                  "created_utc": 1741869417.0,
+                  "replies": [
+                    {
+                      "id": "mhmfvsn",
+                      "author": "alidan",
+                      "body": "it would need to get power, and if its lower enough power, it may be able to passively be able to acquire it, or be activatable only when it needs to be activated,",
+                      "score": 0,
+                      "created_utc": 1741895502.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhjv7qf",
+              "author": "Neethis",
+              "body": "One of the core tenets of this sort of conspiratorial thinking is that the government/globalists are hiding all sorts of technological innovations from the general public; cures for cancer, working force fields, combustion engines that run on water, perpetual motion machines etc. If you're predisposed to that world, it's not unbelievable to imagine \"they\" can also do what you've listed.",
+              "score": 3,
+              "created_utc": 1741867441.0,
+              "replies": [
+                {
+                  "id": "mhmgsyj",
+                  "author": "alidan",
+                  "body": "\"hiding all sorts of technological innovations from the general public\"\n\nthey are, just not what people assume, see the ufo shit from people with credibility. they find things that have no real explanation, and have no idea who owns them. \n\nmost likely its us, and it's a secret aerial vehicle test akin to drones on steroids,  but the concerning thing is if its not us, then someone has tech well ahead of us. \n\nnow some of the shit that people claim they have is insane, but they do have tech more advanced then they show.",
+                  "score": 1,
+                  "created_utc": 1741895761.0,
+                  "replies": []
+                },
+                {
+                  "id": "mhne1os",
+                  "author": "GeniusEE",
+                  "body": "\"Tenants\"?????",
+                  "score": 1,
+                  "created_utc": 1741905303.0,
+                  "replies": [
+                    {
+                      "id": "mhnjkv4",
+                      "author": "Neethis",
+                      "body": "Corrected, good catch.",
+                      "score": 1,
+                      "created_utc": 1741907021.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhjvak2",
+              "author": "ElkSad9855",
+              "body": "Man\u2026 I had a coworker, that when he said that the govt was using the COVID shot to track us and openly said that\u2019s BS, who nearly shouted \u201coh ya and what do you know about nanotech?!\u201d In a defensive manner. I can\u2019t remember what I said but his response was along the lines of \u201coh so you\u2019re smarter than the engineers at MiT\u201d (and some other apparent credited source i don\u2019t remember which). So\u2026. Yeah. It\u2019s not just a conspiracy, it\u2019s idiocracy incarnate.",
+              "score": 3,
+              "created_utc": 1741867475.0,
+              "replies": [
+                {
+                  "id": "mhkjlg7",
+                  "author": "TexAggie90",
+                  "body": "My response is why would the government need a nanochip distributed via a vaccine when everyone voluntarily carries a nice phone sized tracking device in their pocket\u2026",
+                  "score": 3,
+                  "created_utc": 1741875984.0,
+                  "replies": [
+                    {
+                      "id": "mhl0acj",
+                      "author": "ElkSad9855",
+                      "body": "I believe I brought that up in a future conversation. He is ignorant but I don\u2019t remember his reply to that. \n Let me try to paint you a picture of this guy. \nI truly believe he is \u201cbook smart,\u201d for certain topics; and he is able to understand when he doesn\u2019t quite have a grasp on the basic concepts of something. I worked on the construction side of the company but with the same office space. He was great when it came to data analysis, he was an analyst of some kind for the restaurant/bar side of the company, he would track consumption of alcohol against several variables to determine which bar is \u201closing\u201d money by pouring too much or too little and potentially losing customers, tracking that against visitor counts daily/weekly/monthly/etc . He also did the same for food; whenever a recipe was introduced by the chefs, he would break it down into each material/ingredient. He would add the initial ingredient order for said recipe into his database. He wasn\u2019t in control of placing orders, he was just tracking the content and frequency of the orders versus the ingredients used and wasted. He did it coming from bartending, and had no help from the company cause I promise you this company\u2019s leadership had no idea how to run either a construction or restaurant business lol. He developed the method himself, whether he used google the whole time or not doesn\u2019t matter in my opinion, he was able to use said method effectively and correctly.\n\nSo he is analytical by nature, and knows when he doesn\u2019t know something. He asked me about construction methods all the time for his home projects. But\u2026 he is also a bit off. Huge fitness enthusiast, props to him. But he would have a week of all meat diets, he would then do 3 day water cleanse no food or liquids other than water.  So, he had once stated, back in 2019 mind you, that Elon Musk was.. well almost a god. As follows -\n\nCW: \u201cElon Musk is the smartest man alive.\u201c \n\nMe: \u201cSmartest man alive? I doubts he\u2019s even smarter than 40% of Virginia.\u201d\n\nCW: \u201cWow you don\u2019t have any idea how intelligent he is. He\u2019s smarter than everyone in this state combined.\u201d \n\n(This part is iffy on the memory) Me: \u201cDude do you really feel that way?\u201d\n\nCW: \u201cOf course I do, how else is he so rich and have diversified blah blah blah blah",
+                      "score": 3,
+                      "created_utc": 1741880903.0,
+                      "replies": [
+                        {
+                          "id": "mhlk4ry",
+                          "author": "TexAggie90",
+                          "body": "The fallacy of equating wealth with intelligence.  \n\nBut I hear you.  I know the type as well.  There are a lot of book smart people without a shred of common sense out there as well.",
+                          "score": 1,
+                          "created_utc": 1741886534.0,
+                          "replies": [
+                            {
+                              "id": "mhmxqg3",
+                              "author": "ElkSad9855",
+                              "body": "Imagine a world where these people somehow suddenly realize that wealth of these calibers are unheard of and unimaginable to fathom as a human. Musks worth is insane. If it was all liquid ge couldn\u2019t spend it fast enough. And that wealth is a product of evil (Mostly. Here\u2019s an arbitrary 95% as my guess of wealth being accrued by evil or by good, I can\u2019t deal in absolutes based off a gut feeling. I\u2019m no sith). And for anyone to worship any of them as godsends to the world due to their wealth, they have dove into the koolaid and will only pop their heads up above the surface if their emperor(s) speak.",
+                              "score": 1,
+                              "created_utc": 1741900527.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhjxsl3",
+              "author": "Baud_Olofsson",
+              "body": "Then just imagine the breakthrough in magnet technology that enables those tiny nanomachines to keep a spoon stuck to you. They'd be wasting their time putting chips into us sheeple when they could be making gazillions revolutionizing the electric motor and generator industries.",
+              "score": 1,
+              "created_utc": 1741868504.0,
+              "replies": []
+            },
+            {
+              "id": "mhk00rf",
+              "author": "None",
+              "body": "I asked the follow up question: how would it be powered? \n\nCrickets.",
+              "score": 1,
+              "created_utc": 1741869378.0,
+              "replies": []
+            },
+            {
+              "id": "mhit14e",
+              "author": "kurotech",
+              "body": "Trick is you put the chip in the tip of the needle and it breaks off when you inject them \ud83d\ude09",
+              "score": 1,
+              "created_utc": 1741845343.0,
+              "replies": [
+                {
+                  "id": "mhkquc8",
+                  "author": "Limos42",
+                  "body": "Stop feeding the idiocracy.",
+                  "score": 0,
+                  "created_utc": 1741878154.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mhibc68",
+          "author": "ComputeBeepBeep",
+          "body": "That's what they want you to think!",
+          "score": 14,
+          "created_utc": 1741836873.0,
+          "replies": []
+        },
+        {
+          "id": "mhla83s",
+          "author": "strange-brew",
+          "body": "Not with that attitude it won\u2019t.",
+          "score": 2,
+          "created_utc": 1741883755.0,
+          "replies": []
+        },
+        {
+          "id": "mhtzo10",
+          "author": "Odd__Detective",
+          "body": "Suppository vaccinations are the way of the future.",
+          "score": 1,
+          "created_utc": 1741993539.0,
+          "replies": []
+        },
+        {
+          "id": "mhi98ws",
+          "author": "mayormcskeeze",
+          "body": "This is not something light of. \n\nLiterally  *no one* knows what they're pumping into us in \"vaccines.\"\n\nIt could be frog juice. \n\nOr the gay jeans",
+          "score": -49,
+          "created_utc": 1741836048.0,
+          "replies": [
+            {
+              "id": "mhiabiy",
+              "author": "eurodiablo",
+              "body": "Extremely tight denim or do you mean human genes?",
+              "score": 34,
+              "created_utc": 1741836467.0,
+              "replies": [
+                {
+                  "id": "mhib53s",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 18,
+                  "created_utc": 1741836794.0,
+                  "replies": [
+                    {
+                      "id": "mhidg68",
+                      "author": "None",
+                      "body": "I mean, child labor, right?",
+                      "score": -2,
+                      "created_utc": 1741837735.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhior37",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 15,
+              "created_utc": 1741842972.0,
+              "replies": [
+                {
+                  "id": "mhkctbz",
+                  "author": "mayormcskeeze",
+                  "body": "Straight up *woosh*",
+                  "score": 3,
+                  "created_utc": 1741873865.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mhjlubk",
+              "author": "Gregus1032",
+              "body": "I don't think people picked up on your sarcasm.",
+              "score": 10,
+              "created_utc": 1741863024.0,
+              "replies": [
+                {
+                  "id": "mhkcp6i",
+                  "author": "mayormcskeeze",
+                  "body": "Yeah. Kinda surprising really.",
+                  "score": 3,
+                  "created_utc": 1741873828.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mhigm83",
+              "author": "SeekerOfSerenity",
+              "body": "Gay jeans are a symptom, not the cause.\u00a0",
+              "score": 3,
+              "created_utc": 1741839079.0,
+              "replies": []
+            },
+            {
+              "id": "mhj99u4",
+              "author": "Mikkel65",
+              "body": "It's not secret. We *do* know what they're pumping into us",
+              "score": 3,
+              "created_utc": 1741855555.0,
+              "replies": []
+            },
+            {
+              "id": "mhjbe26",
+              "author": "rexchampman",
+              "body": "Yet somehow we got rid of polio and smallpox. Must have been a lucky guess?",
+              "score": 3,
+              "created_utc": 1741856938.0,
+              "replies": []
+            },
+            {
+              "id": "mhjtx7x",
+              "author": "2absMcGay",
+              "body": "You don\u2019t know what\u2019s in your food or water or air or other medications either. Because you\u2019re not capable of doing the science to understand. So you try to make sense of it through conspiracy and skepticism in the same way a person who fears death puts their faith in a god they can\u2019t see.",
+              "score": 1,
+              "created_utc": 1741866879.0,
+              "replies": [
+                {
+                  "id": "mhkj8du",
+                  "author": "mayormcskeeze",
+                  "body": "Right so you're saying it *could* be frog juice.",
+                  "score": 2,
+                  "created_utc": 1741875874.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mhi4ahi",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 234,
+      "created_utc": 1741834171.0,
+      "replies": [
+        {
+          "id": "mhijxnf",
+          "author": "dont_touch_my_food",
+          "body": "First the frogs, then the pigeons, then, THE WORLD",
+          "score": 27,
+          "created_utc": 1741840597.0,
+          "replies": []
+        },
+        {
+          "id": "mhkse70",
+          "author": "HebridesNutsLmao",
+          "body": "The manufacturer has clarified that this particular model _does not_ make the frogs gay",
+          "score": 2,
+          "created_utc": 1741878618.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhimsse",
+      "author": "darkhorsehance",
+      "body": "> So, what are the key features of this incredibly small MCU? As per the definition of an MCU, TI\u2019s MSPM0C1104 contains all the essential ingredients of a self-contained computer, albeit on a scale smaller than we are used to talking about on Tom\u2019s Hardware. For example, the CPU in this MCU is an Armv32-bit Cortex-M0+, which runs at frequencies up to 24 MHz. The processor has access to 1KB of SRAM and up to 16KB of flash memory.",
+      "score": 36,
+      "created_utc": 1741841972.0,
+      "replies": []
+    },
+    {
+      "id": "mhi7w6i",
+      "author": "10fttall",
+      "body": "Small dick jokes aside, what are the potential real-world applications for something like this?",
+      "score": 69,
+      "created_utc": 1741835526.0,
+      "replies": [
+        {
+          "id": "mhiq1iw",
+          "author": "mrheosuper",
+          "body": "Small gadget. Like smart ring, earbud, etc.\n\nAlso they are cheap and small, so you can use them as 1-time device(temperature monitoring for shipping)",
+          "score": 85,
+          "created_utc": 1741843658.0,
+          "replies": [
+            {
+              "id": "mhjsoxp",
+              "author": "trickman01",
+              "body": "Spy equipment.",
+              "score": 14,
+              "created_utc": 1741866338.0,
+              "replies": [
+                {
+                  "id": "mhpq53a",
+                  "author": "defineReset",
+                  "body": "They tend to use components that aren't on the market for actual spy equipment.",
+                  "score": 1,
+                  "created_utc": 1741939723.0,
+                  "replies": [
+                    {
+                      "id": "mhpzu6n",
+                      "author": "pbizzle",
+                      "body": "Who's they? This could be used by any creep for spying devices",
+                      "score": 2,
+                      "created_utc": 1741945858.0,
+                      "replies": [
+                        {
+                          "id": "mhq0fjm",
+                          "author": "defineReset",
+                          "body": "Yup you're right, this can be used by consumers. \n\nI don't have details, and don't want my cia bro to get suspicious, but i had a friend that went to work for a company that makes hardware for gchq, the same company sends a popular speaker to defcon. All he said was: nothing is the same (as in, nothing you can buy off the shelf or usually use is used there). He got banned from China and a few other countries by his own government and slowly dissappeared into his job. Miss that guy. From that I just strongly assume that It applies to most major government-level spying agencies, hence the 'they'.",
+                          "score": 2,
+                          "created_utc": 1741946205.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhjivmk",
+              "author": "dwiedenau2",
+              "body": "20 cents is not cheap, especially because the assembly of the small bga is more difficult than a larger mcu.",
+              "score": -10,
+              "created_utc": 1741861439.0,
+              "replies": [
+                {
+                  "id": "mhk0kf7",
+                  "author": "NRYaggie",
+                  "body": "How much do your microcontrollers cost? Maybe you cut me a better deal?",
+                  "score": 1,
+                  "created_utc": 1741869586.0,
+                  "replies": [
+                    {
+                      "id": "mhk1azz",
+                      "author": "dwiedenau2",
+                      "body": "Im just saying that for single use in shipping, this is very expensive. Every cent matters there.",
+                      "score": 8,
+                      "created_utc": 1741869867.0,
+                      "replies": [
+                        {
+                          "id": "mhrxl0i",
+                          "author": "Wizzinator",
+                          "body": "Electronic parts come on reels. A part like this may be 5000 rolled up on a reel that's smaller than a vinyl record. A machine will rapidly place and solder them on a board. No company is buying 1 at a time and soldering them by hand.",
+                          "score": 0,
+                          "created_utc": 1741971039.0,
+                          "replies": [
+                            {
+                              "id": "mhs3saa",
+                              "author": "dwiedenau2",
+                              "body": "Nobody is talking about soldering by hand and buying one piece lol",
+                              "score": 0,
+                              "created_utc": 1741972811.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mhk2fu4",
+                      "author": "therealdilbert",
+                      "body": ">  Maybe you cut me a better deal?\n\nare you buying a few million mcus at time?",
+                      "score": 2,
+                      "created_utc": 1741870295.0,
+                      "replies": [
+                        {
+                          "id": "mhk2jzg",
+                          "author": "NRYaggie",
+                          "body": "Depends on the price. What can you give me?",
+                          "score": -2,
+                          "created_utc": 1741870338.0,
+                          "replies": [
+                            {
+                              "id": "mhkjylh",
+                              "author": "SpellFlashy",
+                              "body": "Bout tree fiddy",
+                              "score": 0,
+                              "created_utc": 1741876093.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mhi8h8v",
+          "author": "Allen_Koholic",
+          "body": "\u201cTI is targeting medical wearables and personal electronic applications for the new MSPM0C1104\u201c",
+          "score": 26,
+          "created_utc": 1741835749.0,
+          "replies": []
+        },
+        {
+          "id": "mhisnpe",
+          "author": "swisstraeng",
+          "body": "Everyday electronics, especially wearables.\n\nThis smaller package only has 8 pins, but that's more than enough for a few LEDs and an i2C connection to sensors/bluetooth.\n\nIt also exists as bigger packages with more pins.",
+          "score": 10,
+          "created_utc": 1741845130.0,
+          "replies": [
+            {
+              "id": "mhjzqzm",
+              "author": "__redruM",
+              "body": "Assuming 2 pins are power and ground, you have 6 pins to work with.  But yes there are some smaller applications.  Any idea how much memory?\n\nEdit: 16KB of embedded flash memory\ncombined with 1KB of on-chip RAM.",
+              "score": 2,
+              "created_utc": 1741869275.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mhjdd06",
+          "author": "Uporabik",
+          "body": "Sometimes you need sensors in very small places. I\u2019ve made one project on 6x8mm pcb and in projects like this you need smallest possible components",
+          "score": 3,
+          "created_utc": 1741858170.0,
+          "replies": []
+        },
+        {
+          "id": "mhi8yn1",
+          "author": "CoughRock",
+          "body": "endoscopic surgery robot I would guess. You can probably fit this inside blood vessel and crawl inside like some kind of worm robot. Maybe use it to suck blood vessel plaque in cardiovascular disease patient. Since the wound opening is a size of a pint hole, you wouldn't need too much post surgery recovering time.",
+          "score": 8,
+          "created_utc": 1741835937.0,
+          "replies": [
+            {
+              "id": "mhir1nk",
+              "author": "answerguru",
+              "body": "Sorry, you\u2019re really off base here in understanding the market and application for such devices.   It doesn\u2019t DO physical things like that, it measures voltages and talks to sensors and other devices.   I\u2019ve spent decades as an embedded expert, many of which were in biomedical.",
+              "score": 28,
+              "created_utc": 1741844214.0,
+              "replies": [
+                {
+                  "id": "mhixz60",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 6,
+                  "created_utc": 1741848312.0,
+                  "replies": [
+                    {
+                      "id": "mhjjg8g",
+                      "author": "freshmantis",
+                      "body": "That's like saying you're going to build a flying car when all you have is a propellor",
+                      "score": 11,
+                      "created_utc": 1741861754.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mhk9lkc",
+                      "author": "Ess2s2",
+                      "body": "Because that's just the microcontroller. Adding in a circuit board, sensors, actuators, communication, power source, and packaging will make the resultant robot far too large to use in that sort of application. The surgical scar would be much, much larger than a pinhole, and anything that controller could do autonomously could (and currently is) done better, faster, and more reliably by traditional endoscopy with external control circuitry and some wires.\n\nFun thought experiment: how quickly would a situation go to 100 if this theoretical bot stopped working while embedded deep within the body with no easy means of retrieval? It obviously depends on the location, but regardless, I would *not* want to be that patient. Floating up your carotid into your brain where it could create a blockage and cause varying levels of brain damage? Naw, I'm good.",
+                      "score": 3,
+                      "created_utc": 1741872815.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mhljipa",
+                      "author": "commonemitter",
+                      "body": "The tiny size of the microcontroller is irrelevant when you consider all the other components will be 30x the size. At that point might as well have a regular microcontroller",
+                      "score": 2,
+                      "created_utc": 1741886365.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhik5zw",
+              "author": "Giggorm",
+              "body": "That's a big hole..\n\n![gif](giphy|lDDgUAfhDfrAWmuXzG|downsized)",
+              "score": 3,
+              "created_utc": 1741840706.0,
+              "replies": []
+            },
+            {
+              "id": "mhic1x3",
+              "author": "narwhal_breeder",
+              "body": "Nope. Smaller ICs are just cheaper.\n\nSmaller die area = costs less.",
+              "score": -2,
+              "created_utc": 1741837161.0,
+              "replies": [
+                {
+                  "id": "mhikf24",
+                  "author": "im_thatoneguy",
+                  "body": "Marketing says it\u2019s for medical devices and consumer electronics where space constraints are a premium. Doesn\u2019t sound like it\u2019s selling for cheaper.",
+                  "score": 8,
+                  "created_utc": 1741840825.0,
+                  "replies": [
+                    {
+                      "id": "mhk00xx",
+                      "author": "narwhal_breeder",
+                      "body": "20 cents at volume would make it the cheapest MCU in TIs portfolio\n\nConsumer electronics and wearable medical devices is what they say for any low power and small MCU with die scale packaging.",
+                      "score": 2,
+                      "created_utc": 1741869380.0,
+                      "replies": [
+                        {
+                          "id": "mhnechi",
+                          "author": "GeniusEE",
+                          "body": "There are cheaper...",
+                          "score": 1,
+                          "created_utc": 1741905397.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mhjyhj5",
+              "author": "larryathome43",
+              "body": ">suck blood \n\nVampire robots.\n\nSorry, I just saw those two words together and that was my first thought",
+              "score": 0,
+              "created_utc": 1741868779.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mhinr8z",
+          "author": "PineappleLemur",
+          "body": "Just cheaper.. size of this is a bit misleading.\n\nThis is just the microcontrollers IC, it needs a bunch of peripherals and other components to actually function or do something useful.\n\nIt's equivalent of making GPU the size of a AA battery... You still need all the other parts to make use of it, on it's own it's not so useful.",
+          "score": 3,
+          "created_utc": 1741842455.0,
+          "replies": [
+            {
+              "id": "mhipc8u",
+              "author": "Waffles_IV",
+              "body": "They do make GPUs the size of a battery, the rest of the board is power supply, cooling, connectors, etc.",
+              "score": 1,
+              "created_utc": 1741843281.0,
+              "replies": [
+                {
+                  "id": "mhipu3s",
+                  "author": "PineappleLemur",
+                  "body": "You know what i meant :)\n\nWhole package squeezed into the size of battery, aside from being hotter than the sun, what other use does a GPU like that has by it's own.",
+                  "score": 1,
+                  "created_utc": 1741843545.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mhjz7vb",
+          "author": "JM062696",
+          "body": "These things handle inputs and outputs and can be programmed in any number of ways. I\u2019m in college right now taking a microcontrollers class and although we are working with the R Pi Pico, the things I can do with it are basically endless. You can make a tiny tiny tiny robot with this.",
+          "score": 1,
+          "created_utc": 1741869068.0,
+          "replies": []
+        },
+        {
+          "id": "mhldy67",
+          "author": "None",
+          "body": "Everything can be smaller now.",
+          "score": 1,
+          "created_utc": 1741884803.0,
+          "replies": []
+        },
+        {
+          "id": "mhmi9ir",
+          "author": "alidan",
+          "body": "real world for us? we have cameras we can swallow in pills, internal medicine is a big use of miniaturization of shit like this.\n\nif its cheap to make it smaller, it also means that the cost of silicon goes down for products, and you can either make them cheaper, or make the products for cheaper increasing profit. \n\nrealistically, it can be used to insert into a design and potentially circumvent being traced as a spy tool. take for example intels sub cpu for their management, it acts and never lets the user know what its doing, then cysco had a backdoor that if it was used would let traffic go through a network without telling the user or logging anything. if you have something that could act as a keylogger sending data out in ways that aren't reporting home, gg on security.",
+          "score": 1,
+          "created_utc": 1741896173.0,
+          "replies": []
+        },
+        {
+          "id": "mhigyvj",
+          "author": "SeekerOfSerenity",
+          "body": "\u201cTI is targeting mind control devices and vaccines that turn you gay\u201c",
+          "score": 1,
+          "created_utc": 1741839234.0,
+          "replies": []
+        },
+        {
+          "id": "mhi8iqx",
+          "author": "soldiernerd",
+          "body": "\u201cTI is targeting medical wearables and personal electronic applications for the new MSPM0C1104\u201d",
+          "score": 0,
+          "created_utc": 1741835765.0,
+          "replies": []
+        },
+        {
+          "id": "mhi9pmu",
+          "author": "spudddly",
+          "body": "\u201cTI is targeting medical wearables and personal electronic applications for the new MSPM0C1104, a vaccine for government mind control made by Bill Gates and Jeffrey Epstein\u201c",
+          "score": -3,
+          "created_utc": 1741836230.0,
+          "replies": []
+        },
+        {
+          "id": "mhi8o31",
+          "author": "trololololololol9",
+          "body": "\u201cTI is targeting medical wearables and personal electronic applications for the new MSPM0C1104\u201d",
+          "score": -2,
+          "created_utc": 1741835823.0,
+          "replies": []
+        },
+        {
+          "id": "mhi9hj1",
+          "author": "turgers",
+          "body": "\u201cTI is targeting medical wearables and personal electronic applications for the new MSPM0C1104\u201c",
+          "score": 0,
+          "created_utc": 1741836142.0,
+          "replies": []
+        },
+        {
+          "id": "mjxm0yr",
+          "author": "Plank_With_A_Nail_In",
+          "body": "Is this a real question? Make things smaller.",
+          "score": 0,
+          "created_utc": 1743035941.0,
+          "replies": []
+        },
+        {
+          "id": "mhi8y4e",
+          "author": "skottay",
+          "body": "\u201cTI is targeting medical wearables and personal electronic applications for the new MSPM0C1104\u201c",
+          "score": -3,
+          "created_utc": 1741835931.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhi5p2k",
+      "author": "youzongliu",
+      "body": "I mean it's not that small, I would say that's about average size.",
+      "score": 74,
+      "created_utc": 1741834691.0,
+      "replies": [
+        {
+          "id": "mhpk347",
+          "author": "chatongie",
+          "body": "It's how you use it.",
+          "score": 2,
+          "created_utc": 1741935996.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhi4287",
+      "author": "cheesenachos12",
+      "body": "But can it run Doom?",
+      "score": 32,
+      "created_utc": 1741834087.0,
+      "replies": [
+        {
+          "id": "mhi44hd",
+          "author": "ShiftyThePirate",
+          "body": "I would say no.",
+          "score": 10,
+          "created_utc": 1741834109.0,
+          "replies": [
+            {
+              "id": "mhi5cdf",
+              "author": "LargelyInnocuous",
+              "body": "If a USB4 cable can run Doom, I feel like this can too.",
+              "score": 14,
+              "created_utc": 1741834561.0,
+              "replies": [
+                {
+                  "id": "mhibcnh",
+                  "author": "narwhal_breeder",
+                  "body": "Source? USB controllers are normally ASICs.\n\nIn any case, doom definitely won\u2019t fit into 16K flash. Nor has anyone gotten it close to working with anything close to 1K SRAM. \n\nSmallest port I\u2019ve seen is the nRF5280 with 256 times the memory and 125 times the storage.",
+                  "score": 5,
+                  "created_utc": 1741836878.0,
+                  "replies": [
+                    {
+                      "id": "mhikmv7",
+                      "author": "LargelyInnocuous",
+                      "body": "I was mistaken, it was a Lightning to HDMI dongle. https://www.youtube.com/watch?v=4XCkeN0XuqA\n\nConnect a small flash chip and it will definitely run.",
+                      "score": 10,
+                      "created_utc": 1741840929.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mhinv19",
+          "author": "cTreK-421",
+          "body": "Doom is joining the MCU yes",
+          "score": 2,
+          "created_utc": 1741842509.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhi5yrg",
+      "author": "barking420",
+      "body": "r/thingsforants",
+      "score": 10,
+      "created_utc": 1741834793.0,
+      "replies": []
+    },
+    {
+      "id": "mhqd40c",
+      "author": "OptimalInteraction57",
+      "body": "Came here to actually read about the MC. Oh well.",
+      "score": 4,
+      "created_utc": 1741952738.0,
+      "replies": []
+    },
+    {
+      "id": "mhiauwj",
+      "author": "-Palzon-",
+      "body": "Soon to cost $119.00 on New Egg.",
+      "score": 10,
+      "created_utc": 1741836681.0,
+      "replies": []
+    },
+    {
+      "id": "mhjya3m",
+      "author": "larryathome43",
+      "body": "\"I ordered a micro controller and all I got was an empty package\"\n\nNow you got to play where's Waldo",
+      "score": 3,
+      "created_utc": 1741868698.0,
+      "replies": [
+        {
+          "id": "mhk0mz0",
+          "author": "pchadrow",
+          "body": "It's delivered in a refrigerator box full of packing peanuts",
+          "score": 3,
+          "created_utc": 1741869613.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhil673",
+      "author": "HansBooby",
+      "body": "looks way smaller than 1.38mm sq",
+      "score": 3,
+      "created_utc": 1741841186.0,
+      "replies": [
+        {
+          "id": "mhl674n",
+          "author": "mortaneous",
+          "body": "If it were square,  it'd be 1.17mm on a side, this looks like it could reasonably be around 0.8mm x 1.7mm, which is close to 1.38mm^2",
+          "score": 3,
+          "created_utc": 1741882603.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhk2emm",
+      "author": "FortyYearOldVirgin",
+      "body": "The costs would be in actually using this, making the physical connections to other components. \n\nThat aside, pretty freaking cool tech!",
+      "score": 4,
+      "created_utc": 1741870283.0,
+      "replies": [
+        {
+          "id": "mhnen4p",
+          "author": "GeniusEE",
+          "body": "How's that?",
+          "score": 1,
+          "created_utc": 1741905489.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhkaxwk",
+      "author": "Osiris_Raphious",
+      "body": "Meanwhile the eggs cost more than a chicken that lays them...",
+      "score": 2,
+      "created_utc": 1741873261.0,
+      "replies": []
+    },
+    {
+      "id": "mhk185w",
+      "author": "Murquel",
+      "body": "Perfect for Elon's micro-penis",
+      "score": 2,
+      "created_utc": 1741869837.0,
+      "replies": [
+        {
+          "id": "mhod7dd",
+          "author": "PhitPhil",
+          "body": "Just an FYI, it weird to be thinking about another man's penis\u00a0",
+          "score": 1,
+          "created_utc": 1741916714.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhjaal2",
+      "author": "Working-Care5669",
+      "body": "So, what are they paying the workers?",
+      "score": 1,
+      "created_utc": 1741856226.0,
+      "replies": []
+    },
+    {
+      "id": "mhjbpj6",
+      "author": "ariesbtch",
+      "body": "Watch out for those brain worms lmao",
+      "score": 1,
+      "created_utc": 1741857138.0,
+      "replies": []
+    },
+    {
+      "id": "mhjkxb2",
+      "author": "baskura",
+      "body": "Read that as the world\u2019s smallest Microcentre lol.",
+      "score": 1,
+      "created_utc": 1741862547.0,
+      "replies": []
+    },
+    {
+      "id": "mhjo3j7",
+      "author": "Xenobsidian",
+      "body": "I was a bit disappointed when I red the title. I thought it would be about the world\u2019s smallest Lego brick\u2026",
+      "score": 1,
+      "created_utc": 1741864171.0,
+      "replies": [
+        {
+          "id": "mhsxbou",
+          "author": "L0cked4fun",
+          "body": "Can't tell if Archer reference",
+          "score": 1,
+          "created_utc": 1741981769.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhjtbup",
+      "author": "thomas__hobbes",
+      "body": "Pham Nuwen has entered the chat",
+      "score": 1,
+      "created_utc": 1741866620.0,
+      "replies": []
+    },
+    {
+      "id": "mhkk5uf",
+      "author": "Nail_Biterr",
+      "body": "I bet you probably need to put it in a kid's toy, and they're upset with you because you're taking so long to get it in there... but you can't get the fucking thing in because it's so tiny and the stupid toy didn't come with any specialty tools, just a fold out picture instruction booklet that shows an arrow of this chip going into the toy somehow..",
+      "score": 1,
+      "created_utc": 1741876154.0,
+      "replies": [
+        {
+          "id": "mhneuag",
+          "author": "GeniusEE",
+          "body": "You lose your bet.",
+          "score": 2,
+          "created_utc": 1741905550.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhkm3u1",
+      "author": "protekt0r",
+      "body": "I can\u2019t wait to solder wires to it!  lol",
+      "score": 1,
+      "created_utc": 1741876744.0,
+      "replies": []
+    },
+    {
+      "id": "mhqgb6g",
+      "author": "NekoSakii",
+      "body": "That'll be 5000$ you can leave a tip here",
+      "score": 1,
+      "created_utc": 1741954129.0,
+      "replies": []
+    },
+    {
+      "id": "mhr9z6q",
+      "author": "None",
+      "body": "Can I get a red circle please?\n\n![gif](giphy|3o6fJ5kz3k4YP3edH2)",
+      "score": 1,
+      "created_utc": 1741964202.0,
+      "replies": []
+    },
+    {
+      "id": "mhsxee8",
+      "author": "L0cked4fun",
+      "body": "It's just a sticker I got off a lego backpack.",
+      "score": 1,
+      "created_utc": 1741981792.0,
+      "replies": []
+    },
+    {
+      "id": "mhu3h0v",
+      "author": "Pasta-hobo",
+      "body": "A few questions. \n\n1: how many transistors does it have?\n\n2: is it less than, equal to, or better than a 6502?",
+      "score": 1,
+      "created_utc": 1741994818.0,
+      "replies": []
+    },
+    {
+      "id": "mhyiyjq",
+      "author": "SuperheroLaundry",
+      "body": "\u2014and I\u2019ve dropped it in the carpet.",
+      "score": 1,
+      "created_utc": 1742062604.0,
+      "replies": []
+    },
+    {
+      "id": "mhi8v5v",
+      "author": "R-Dragon_Thunderzord",
+      "body": "So it can run doom right",
+      "score": 1,
+      "created_utc": 1741835899.0,
+      "replies": [
+        {
+          "id": "mhjsqdg",
+          "author": "phire",
+          "body": "This has a 24mhz Arm Cortex M0+, with 1KB of RAM and 16KB of flash.\n\nThe most impressive doom port I've ever [seen](https://next-hack.com/index.php/2021/11/13/porting-doom-to-an-nrf52840-based-usb-bluetooth-le-dongle/) needed an 80Mhz Cortex Arm M4, with 256KB of ram, 1MB of internal flash and 16MB of external flash.",
+          "score": 4,
+          "created_utc": 1741866356.0,
+          "replies": [
+            {
+              "id": "mhkiknv",
+              "author": "R-Dragon_Thunderzord",
+              "body": "![gif](giphy|j6uK36y32LxQs)",
+              "score": 2,
+              "created_utc": 1741875673.0,
+              "replies": []
+            },
+            {
+              "id": "mhmiwzd",
+              "author": "alidan",
+              "body": "the small flash just reminded me about this\n\nhttps://www.youtube.com/watch?v=g61uIlBFLwg\n\nit is fascinating.",
+              "score": 1,
+              "created_utc": 1741896360.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mhic51d",
+          "author": "narwhal_breeder",
+          "body": "It cannot run doom",
+          "score": 6,
+          "created_utc": 1741837196.0,
+          "replies": [
+            {
+              "id": "mhig15b",
+              "author": "R-Dragon_Thunderzord",
+              "body": "Yet",
+              "score": 9,
+              "created_utc": 1741838824.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mhjac8p",
+          "author": "ulyssesric",
+          "body": "[https://canitrundoom.org](https://canitrundoom.org)",
+          "score": 1,
+          "created_utc": 1741856254.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhjl6k3",
+      "author": "mrjw351",
+      "body": "Can it run Doom",
+      "score": 1,
+      "created_utc": 1741862683.0,
+      "replies": [
+        {
+          "id": "mhjyp1l",
+          "author": "larryathome43",
+          "body": "Can it run Crysis?",
+          "score": 1,
+          "created_utc": 1741868863.0,
+          "replies": [
+            {
+              "id": "mhk8u0s",
+              "author": "asmessier",
+              "body": "Why? Doom is a established benchmark test starting with TI-85 to my knowledge.",
+              "score": 1,
+              "created_utc": 1741872557.0,
+              "replies": [
+                {
+                  "id": "mhk9m7t",
+                  "author": "larryathome43",
+                  "body": "It was a meme from the late 2000s\n\nThe comment \"Can it run Crysis?\" originated in the tech community as a humorous benchmark for evaluating the performance of computer hardware, particularly graphics cards and gaming PCs. It refers to the game \"Crysis,\" released in 2007, which was renowned for its cutting-edge graphics and demanding system requirements at the time.",
+                  "score": 2,
+                  "created_utc": 1741872821.0,
+                  "replies": [
+                    {
+                      "id": "mhlx1bz",
+                      "author": "asmessier",
+                      "body": "So its the same thing doom was except released in 1993\u2026",
+                      "score": 1,
+                      "created_utc": 1741890181.0,
+                      "replies": [
+                        {
+                          "id": "mhofxdv",
+                          "author": "Buttersaucewac",
+                          "body": "No, it\u2019s the opposite. Everything can run Doom, and it wasn\u2019t demanding even at release. Crysis is difficult to run and remained so for a long time.",
+                          "score": 2,
+                          "created_utc": 1741917642.0,
+                          "replies": [
+                            {
+                              "id": "mhp2hzz",
+                              "author": "asmessier",
+                              "body": "Until the next evolution of graphic library.",
+                              "score": 1,
+                              "created_utc": 1741926389.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mhjw4x7",
+      "author": "Mrjlawrence",
+      "body": "![gif](giphy|xT39DiIynLlEjcNL7W|downsized)",
+      "score": 1,
+      "created_utc": 1741867831.0,
+      "replies": []
+    },
+    {
+      "id": "mhm65zc",
+      "author": "Imthewienerdog",
+      "body": "Can it play doom?",
+      "score": 1,
+      "created_utc": 1741892759.0,
+      "replies": []
+    },
+    {
+      "id": "mho5f6c",
+      "author": "Germainshalhope",
+      "body": "PUT IT IN UR BRAIN",
+      "score": 1,
+      "created_utc": 1741914055.0,
+      "replies": []
+    },
+    {
+      "id": "mhi4m1q",
+      "author": "None",
+      "body": "So I can put it in my wee wees?",
+      "score": -1,
+      "created_utc": 1741834288.0,
+      "replies": [
+        {
+          "id": "mhi6wo7",
+          "author": "None",
+          "body": "It's not small enough for you",
+          "score": 13,
+          "created_utc": 1741835148.0,
+          "replies": [
+            {
+              "id": "mhi7hxq",
+              "author": "_Soup_R_Man_",
+              "body": "\ud83e\udd23",
+              "score": 1,
+              "created_utc": 1741835374.0,
+              "replies": []
+            },
+            {
+              "id": "mhi7i0b",
+              "author": "None",
+              "body": "Don't emberess me daddy",
+              "score": -4,
+              "created_utc": 1741835375.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mhi8q0k",
+          "author": "trololololololol9",
+          "body": "r/sounding",
+          "score": 2,
+          "created_utc": 1741835844.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

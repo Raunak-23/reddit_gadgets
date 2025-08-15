@@ -1,0 +1,2801 @@
+{
+  "post": {
+    "title": "Apple drops soldered storage for 2024 Mac Mini | iFixit teardown finds a removable SSD. Time to party like its 2010?",
+    "author": "chrisdh79",
+    "id": "1gqdvor",
+    "score": 4070,
+    "created_utc": 1731507479.0,
+    "selftext": "",
+    "num_comments": 332,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gqdvor/apple_drops_soldered_storage_for_2024_mac_mini/"
+  },
+  "comments": [
+    {
+      "id": "lwx5p05",
+      "author": "Darkstar197",
+      "body": "Saving you all a click. The ssd interface is proprietary so you are not able to purchase a standard NVME",
+      "score": 1962,
+      "created_utc": 1731508076.0,
+      "replies": [
+        {
+          "id": "lwx5u0t",
+          "author": "danxmanly",
+          "body": "That's soooo Apple.",
+          "score": 1039,
+          "created_utc": 1731508126.0,
+          "replies": [
+            {
+              "id": "lwxckwc",
+              "author": "SmashingK",
+              "body": "Come on EU. Do you thing lol",
+              "score": 751,
+              "created_utc": 1731510452.0,
+              "replies": [
+                {
+                  "id": "lwxdono",
+                  "author": "captaindebil",
+                  "body": "Come on Customers. Do your thing lol",
+                  "score": 367,
+                  "created_utc": 1731510819.0,
+                  "replies": [
+                    {
+                      "id": "lwxk1v1",
+                      "author": "iamonelegend",
+                      "body": "I wish. If customers cared more about swappable storage space, the iPhone would have been forced to adapt it too.",
+                      "score": 144,
+                      "created_utc": 1731512860.0,
+                      "replies": [
+                        {
+                          "id": "lwy2poq",
+                          "author": "PearlClaw",
+                          "body": "It's pretty reasonable to be willing to forego swappable storage for your phone but not your desktop, after all, it makes sense ot sacrifice upgradeability for size considerations for something portable.",
+                          "score": 25,
+                          "created_utc": 1731518591.0,
+                          "replies": [
+                            {
+                              "id": "lwy4ekk",
+                              "author": "iamonelegend",
+                              "body": "Very few mobile phones sacrifice a significant amount of space for a microSD card slot. There have been phones made smaller than the smallest iPhone that have made room for the microSD card",
+                              "score": 52,
+                              "created_utc": 1731519103.0,
+                              "replies": [
+                                {
+                                  "id": "lwyteyk",
+                                  "author": "Throwaway74829947",
+                                  "body": "Most phones with a micro SD slot just put it on the other side of the SIM tray the phone is going to have anyway. The *only* reason for a phone manufacturer to not include an SD slot is greed, plain and simple, to make people pay outrageous sums for larger onboard storage. I also think it's not a coincidence that most phone manufacturers got rid of the headphone jack \"coincidentally\" not long after they introduced overpriced wireless headphones of their own.",
+                                  "score": 44,
+                                  "created_utc": 1731526652.0,
+                                  "replies": [
+                                    {
+                                      "id": "lwzutci",
+                                      "author": "eidolons",
+                                      "body": "They got bold when nobody really complained about non-removable batteries and here we are.",
+                                      "score": 21,
+                                      "created_utc": 1731538193.0,
+                                      "replies": [
+                                        {
+                                          "id": "lxf5a7w",
+                                          "author": "GreggAlan",
+                                          "body": "The USA has a law requiring Nickel-cadmium, Nickel-metal-hydride, and lead-acid batteries in things to be easily removable by the consumer. Unfortunately by trying to get all specific, Congress left a massive loophole. Companies just switched to using none of the battery chemistries named in the law. Since it doesn't specifically name lithium-ion or lithium-ion-polymer, manufacturers can seal those inside phones, tools etc.\n\nI'd love to see that law amended to change the language specifying battery chemistries to rechargeable cell or battery of any type\".",
+                                          "score": 3,
+                                          "created_utc": 1731758241.0,
+                                          "replies": [
+                                            {
+                                              "id": "lxfzsa6",
+                                              "author": "eidolons",
+                                              "body": "While I agree with you, recent events have moved this a little further down my wish list.",
+                                              "score": 1,
+                                              "created_utc": 1731771111.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "lx0t38x",
+                                          "author": "VegetaFan1337",
+                                          "body": "Now the EU has demanded removable batteries must come back",
+                                          "score": 9,
+                                          "created_utc": 1731550251.0,
+                                          "replies": [
+                                            {
+                                              "id": "lx0vlj6",
+                                              "author": "eidolons",
+                                              "body": "Yes, but we have to see how that plays out.  USB-C was easy to bully Apple as the only holdout.  This would be the entire industry.  Makes me think a \"reasonable phase-in period\" would likely be considered, have to buy a new phone in the interim, and a new old-style when available.",
+                                              "score": 1,
+                                              "created_utc": 1731551159.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lx2my8k",
+                                                  "author": "BoJackHorseMan53",
+                                                  "body": "They all had removable batteries before they decided to copy Apple.",
+                                                  "score": 2,
+                                                  "created_utc": 1731584844.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "lx2z6un",
+                                                      "author": "eidolons",
+                                                      "body": "Right, and seeing Apple get away with it emboldened them.",
+                                                      "score": 3,
+                                                      "created_utc": 1731590428.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lxhbzte",
+                                      "author": "louisgang22",
+                                      "body": "The sad part is the us iphones dont even have a physical sim slot(really sucks when travelling) while canadian ones do",
+                                      "score": 1,
+                                      "created_utc": 1731786691.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lx0doi0",
+                                      "author": "Flipdip3",
+                                      "body": "That SIM tray that is going away in favor of eSIM? \n\nAll so I can put potentially important data on the SD card only to have it crap out randomly and lose that data? SD cards are not a great storage medium. They get borked all the time. \n\nApple has a specific way they want customers to experience their devices. That may or may not line up with how you personally want to use your device. In this case I can see Apple not wanting to explain to grandma that even though little Timmy set up her phone to use the SD card all her photos of her grandchildren are now lost because the SD card gave out. It is just gravy that this also makes it easier for them to upsell the upgrade.",
+                                      "score": -5,
+                                      "created_utc": 1731544753.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx0tmnp",
+                                          "author": "VegetaFan1337",
+                                          "body": "Bullshit. The reason phones get rid of sd cards is so they can sell the higher storage variants. And Apple is particularly notorious for increasing the price significantly just for a higher storage model. It's got nothing to do with data getting corrupted.",
+                                          "score": 7,
+                                          "created_utc": 1731550444.0,
+                                          "replies": [
+                                            {
+                                              "id": "lx3gkfx",
+                                              "author": "four4beats",
+                                              "body": "\u2026and that is how you run a business!",
+                                              "score": 1,
+                                              "created_utc": 1731596769.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "lx2gyt1",
+                                          "author": "None",
+                                          "body": "Sd cards are fine maybe had one crap on me in 20 years",
+                                          "score": 1,
+                                          "created_utc": 1731581408.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lx1v972",
+                                      "author": "a_sonUnique",
+                                      "body": "Waterproofing",
+                                      "score": 0,
+                                      "created_utc": 1731567140.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lx0ycmp",
+                                      "author": "Single-Emphasis1315",
+                                      "body": "More slots=poorer waterproofing",
+                                      "score": -2,
+                                      "created_utc": 1731552159.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx0z2l0",
+                                          "author": "Throwaway74829947",
+                                          "body": "As I said, you can use the SIM slot for the SD card.",
+                                          "score": 5,
+                                          "created_utc": 1731552417.0,
+                                          "replies": [
+                                            {
+                                              "id": "lx10ch4",
+                                              "author": "CubicEarth",
+                                              "body": "New iPhones do not have a SIM slot.",
+                                              "score": 2,
+                                              "created_utc": 1731552886.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lx1306n",
+                                                  "author": "Throwaway74829947",
+                                                  "body": "Good grief, why? What's next, no Lightning/USB-C port? We've been able to waterproof the SIM slot for years so that's not a valid excuse. But them removing yet more hardware support in recent iPhones isn't an excuse for them to not include other hardware support.",
+                                                  "score": 1,
+                                                  "created_utc": 1731553868.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "lx1cx57",
+                                                      "author": "CubicEarth",
+                                                      "body": "It's always been that way. It was shocking when computers first got rid of floppy drives. Then they got rid of CD-ROM drives. But somehow they get more and more capable as they go. The rumors are that Apple will ditch the Lighting/USB-C port.\n\nPersonally I just don't like to be at the bleeding edge of the changes, so I try to get the last model that does have say a CD drive, and I'll have it for three or four years into the era when most new computers don't have one before finally buying a new computer  that also doesn't have one. Because by then it is normal to not have one and I won't be missing out. Still, I'll keep the old computer in a drawer so that at some point in the future I can still access my pile of old CDs, also in drawers and probably riddled with bit rot.",
+                                                      "score": 1,
+                                                      "created_utc": 1731557831.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "lx1f77b",
+                                                          "author": "Throwaway74829947",
+                                                          "body": "Taking away functionality is completely different. Computers stopped having floppy readers, but because they were replaced with CD drives, which fill the same niche. Computers stopped widely having CD drives, but only because they now have more USB ports, which now fill the same niche. My graphics card doesn't have DVI, but it has DisplayPort and HDMI. My computer, which I built just a few years ago, still has a CD-ROM drive (well, a Blu-ray burner but I do read and burn CDs with it semi-regularly), and will continue to have one for the foreseeable future. The handy thing about PCs is that they are actually modular, and you can add pretty much whatever functionality you want. I could install a floppy reader right now and it would work fine (and I kept a floppy reader in my computer until around 2011). I will also say, I will *never* buy a phone without a USB port. I almost exclusively use wired headphones, and at least even without a headphone jack I can still use a dongle. What would the replacement even be? Wireless charging only, and file transfer or system debugging via bluetooth, or worse yet, the Internet, only? A company making their products worse in the name of \"progress\" deserves no defense.",
+                                                          "score": 4,
+                                                          "created_utc": 1731558838.0,
+                                                          "replies": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lx20dud",
+                                      "author": "Dick_Lazer",
+                                      "body": ">Most phones with a micro SD slot just put it on the other side of the SIM tray the phone is going to have anyway.\n\n\"SIM tray\" ? What year is this again?",
+                                      "score": -1,
+                                      "created_utc": 1731570335.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx308j4",
+                                          "author": "Throwaway74829947",
+                                          "body": "Apple removing yet more hardware support is not a valid excuse for their non-inclusion of other hardware support.",
+                                          "score": -1,
+                                          "created_utc": 1731590847.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lwy4ro5",
+                                  "author": "PearlClaw",
+                                  "body": "Fair, I'm just saying that at least there's an argument. Not so much with a desktop.",
+                                  "score": 5,
+                                  "created_utc": 1731519213.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lx0fklc",
+                                  "author": "Znuffie",
+                                  "body": "> Very few mobile phones sacrifice a significant amount of space for a microSD card slot. \n\nThe biggest issues with microSD cards is that A LOT of them are VERY POOR quality. \n\nThey're way slower than internal storage, and usually much more prone to failure. \n\nI honestly prefer the trend of big storage space on the device itself when it comes to mobile phones.",
+                                  "score": 0,
+                                  "created_utc": 1731545416.0,
+                                  "replies": [
+                                    {
+                                      "id": "lx1ayh2",
+                                      "author": "secretlyloaded",
+                                      "body": "And FAT32 is a shit filesystem.",
+                                      "score": 6,
+                                      "created_utc": 1731556985.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lx0tvbm",
+                                      "author": "VegetaFan1337",
+                                      "body": "Doesn't matter if they're slower if you just use them to store media like photos and videos. Most phones don't let you run apps off them anyways.",
+                                      "score": 5,
+                                      "created_utc": 1731550530.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx1sm4r",
+                                          "author": "Znuffie",
+                                          "body": "Both Video and Photo writing _does_ actually require pretty fast speeds these days.\n\nPhoto less, but video... much more.",
+                                          "score": 0,
+                                          "created_utc": 1731565597.0,
+                                          "replies": [
+                                            {
+                                              "id": "lx1vw8h",
+                                              "author": "VegetaFan1337",
+                                              "body": "MicroSD cards are fast enough even for 4k video on a phone. If you're shooting 8k, well, that's a niche case.",
+                                              "score": 2,
+                                              "created_utc": 1731567518.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lx1yn6m",
+                                                  "author": "Znuffie",
+                                                  "body": "You're generalizing.\n\nThere are SD cards that can do 4K video speeds, but not all SD cards support that. They are labeled on the speeds (and standard) and they support.\n\nBut the SD speeds classifications are a mess and most people can't navigate trough then properly.\n\nThere's a high chance that people will just buy random SD cards and then complain their phone is too slow. There's many potential issues.",
+                                                  "score": 1,
+                                                  "created_utc": 1731569219.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lwyesx2",
+                              "author": "ehisforadam",
+                              "body": "There are combined MicroSD/NanoSIM card trays that stack them on top of each other. That takes up barely any additional space.",
+                              "score": 11,
+                              "created_utc": 1731522244.0,
+                              "replies": [
+                                {
+                                  "id": "lwz2jtu",
+                                  "author": "Ruby_and_Hattie",
+                                  "body": "I have a feeling that in the not too distant future eSIMs will become the norm?\n\nIt's certainly beginning to look that way.",
+                                  "score": 4,
+                                  "created_utc": 1731529444.0,
+                                  "replies": [
+                                    {
+                                      "id": "lx0u4oe",
+                                      "author": "VegetaFan1337",
+                                      "body": "eSIMs are terrible cause at least you can just switch your SIM to a new phone if your phone breaks. I don't even know what you're supposed to do if you have an esim in that situation.",
+                                      "score": 6,
+                                      "created_utc": 1731550623.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx10re2",
+                                          "author": "CubicEarth",
+                                          "body": "There are pros can cons with eSIMs. Reusability and swap-ability seem to not be settled issues yet, so I agree with your concern. OTOH, being able to just download new sims while traveling and have them up and running in less than 5 minutes is awesome.",
+                                          "score": 4,
+                                          "created_utc": 1731553037.0,
+                                          "replies": [
+                                            {
+                                              "id": "lx1110n",
+                                              "author": "VegetaFan1337",
+                                              "body": "You can have those eSIMs without remove the Sim tray tho.",
+                                              "score": 2,
+                                              "created_utc": 1731553135.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lx13qnk",
+                                                  "author": "CubicEarth",
+                                                  "body": "Indeed, but if you can eliminate the removal trays altogether you can reduce the mechanical complexity of the device, make internal space available for other uses and increase the water tightness of the device. So it is understandable why manufacturers are heading in that direction. That being said, I waited for the iPhone 14 Pro to be released to upgrade my 8, and then proceeded to buy the 13 Pro because it had a sim tray. But other than one occasion when I first got it, I have successfully managed to get by with just esims (and I buy many when traveling).",
+                                                  "score": 0,
+                                                  "created_utc": 1731554145.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lwyovzf",
+                              "author": "soytuamigo",
+                              "body": "That's not very reasonable when the technology was always there since their inception",
+                              "score": 3,
+                              "created_utc": 1731525276.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "lx08661",
+                              "author": "Realtrain",
+                              "body": "I still miss having an SD card reader in my phone",
+                              "score": 2,
+                              "created_utc": 1731542817.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "lwzjuic",
+                              "author": "ouatedephoque",
+                              "body": "The Mac Mini has super fast thunderbolt ports. Just buy external storage and be done with it. It's cheaper and will work just fine.",
+                              "score": 4,
+                              "created_utc": 1731534688.0,
+                              "replies": [
+                                {
+                                  "id": "lx0jp8x",
+                                  "author": "kryst4line",
+                                  "body": "Huge bandwidth doesn't mean it has proper latency though",
+                                  "score": 2,
+                                  "created_utc": 1731546897.0,
+                                  "replies": [
+                                    {
+                                      "id": "lx47cwu",
+                                      "author": "ouatedephoque",
+                                      "body": "Well if you have such requirements perhaps you\u2019re buying the wrong computer? I\u2019m perfectly fine with leaving stuff that is latency sensitive on the main drive. It works fine.",
+                                      "score": 1,
+                                      "created_utc": 1731605156.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx497yw",
+                                          "author": "kryst4line",
+                                          "body": "For what it costs its not justifiable. You can buy a PC for 2k\u20ac that it's not capable of playing, let's say Fortnite. Maybe you're fine with that because you don't play it but that wouldn't make it less bad.",
+                                          "score": 1,
+                                          "created_utc": 1731605721.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lwzjyb6",
+                                  "author": "PearlClaw",
+                                  "body": "Sure, still dumb though.",
+                                  "score": -1,
+                                  "created_utc": 1731534721.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lwzch10",
+                              "author": "Blackpapalink",
+                              "body": "What sacrifice? An SD Card slot can be made waterproof.",
+                              "score": 1,
+                              "created_utc": 1731532461.0,
+                              "replies": [
+                                {
+                                  "id": "lx0auld",
+                                  "author": "Screamline",
+                                  "body": "OK. Stop.... What phone are you using that is fecking waterproof? Bro...",
+                                  "score": -2,
+                                  "created_utc": 1731543759.0,
+                                  "replies": [
+                                    {
+                                      "id": "lx3xtn3",
+                                      "author": "Blackpapalink",
+                                      "body": "Any phone made in the last 6 years with a waterproof case? Most phones are at least IP6 water-resistant. Finding a case that covers the ports when not in use pushes them to waterproof. Stop buying for vanity and start buying for function, maybe you'll learn a thing or two.",
+                                      "score": 1,
+                                      "created_utc": 1731602234.0,
+                                      "replies": [
+                                        {
+                                          "id": "lx5c3hx",
+                                          "author": "Screamline",
+                                          "body": "I don't buy phones for vanity, I prefer function over form. Darn thing goes into a case anyway cause I'm not jacking up a several hundred dollar phone and have to replace that when it happens, I'm clumsy so it will happen \u0ca0\\_\u0ca0\n\nI still have doubt's on a case being waterproof other than the ziploc type you hang around your neck for kayaking or on the beach and even still I wouldn't dunk my phone to find out.\n\nI was high at the time of og comment, so waterproof phone was funny and odd to me",
+                                          "score": 1,
+                                          "created_utc": 1731617587.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lwyuvxb",
+                          "author": "-Pizza-Planet-",
+                          "body": "Companies don't give you expandable storage if they are a cloud storage provider or have close ties to one. Business.",
+                          "score": 0,
+                          "created_utc": 1731527094.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwyaavj",
+                      "author": "Asleeper135",
+                      "body": "Customers are dumb, don't rely on them!",
+                      "score": 15,
+                      "created_utc": 1731520883.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwz8sg7",
+                      "author": "Quasic",
+                      "body": "Relying on customers to do what's best for them is like relying on voters for the same thing.",
+                      "score": 5,
+                      "created_utc": 1731531360.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwzjjwl",
+                      "author": "ouatedephoque",
+                      "body": "Exactly. It's not like there aren't multiple other options out there. If removable and upgradable storage is important to you just vote with your wallet. Apple doesn't have a monopoly on small desktops.",
+                      "score": 3,
+                      "created_utc": 1731534598.0,
+                      "replies": [
+                        {
+                          "id": "lx4uim8",
+                          "author": "alc4pwned",
+                          "body": "That's the thing, I highly doubt it's important enough for many people to solely base their decision on that. Who is going to sacrifice on their preferred os, performance, etc over that?",
+                          "score": 1,
+                          "created_utc": 1731612178.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lx00oo1",
+                      "author": "zuss33",
+                      "body": "At this point customers can\u2019t do shit. Apple has enough in its coffers to force them to like what Apple makes. The EU or any other governing body only has the potential to make Apple change its course. Money talks.",
+                      "score": 1,
+                      "created_utc": 1731540190.0,
+                      "replies": [
+                        {
+                          "id": "lx13qns",
+                          "author": "no_nao",
+                          "body": "People downvoting this comment don\u2019t understand the basics of capitalism society, and much less so about the importance of breaking up monopolies.",
+                          "score": 1,
+                          "created_utc": 1731554145.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwyepy7",
+                      "author": "Awkward_Pangolin3254",
+                      "body": "Yeah, right. What's the weather like in Dreamland? Apple buyers would pay for a turd in a box as long as it had the logo on it.",
+                      "score": 2,
+                      "created_utc": 1731522220.0,
+                      "replies": [
+                        {
+                          "id": "lwyiw2m",
+                          "author": "Heil_S8N",
+                          "body": "was this comment sent from your iphone?",
+                          "score": 5,
+                          "created_utc": 1731523473.0,
+                          "replies": [
+                            {
+                              "id": "lwyqvb3",
+                              "author": "Awkward_Pangolin3254",
+                              "body": "Not in this life, not if I had a billion dollars",
+                              "score": 1,
+                              "created_utc": 1731525879.0,
+                              "replies": [
+                                {
+                                  "id": "lwz7z16",
+                                  "author": "tashtish",
+                                  "body": "Dude, doth protest too much.",
+                                  "score": 3,
+                                  "created_utc": 1731531114.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lx0t926",
+                          "author": "FireLucid",
+                          "body": "Cards against humanity literally sold boxes of shit one year and people still bought them.",
+                          "score": 1,
+                          "created_utc": 1731550309.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "lx0ij00",
+                          "author": "polerix",
+                          "body": "Why so polar? Oh yah, cheap eggs.",
+                          "score": 1,
+                          "created_utc": 1731546475.0,
+                          "replies": [
+                            {
+                              "id": "lx18fpv",
+                              "author": "ar311krypton",
+                              "body": "I admittedly havent been in this sub very long but I've noticed alot of people hate on Apple with no regards to the actual facts in almost a cult-like manner....a trait they often turnaround and accuse people who have bought an Apple product as \"iSheep\"....Despite being one of the richest companies in the world, I often forget that Apple has alwasys been associated as a \"Liberal\" company....I would hope people would see the silliness in applying partisan political ideology to their literal tech products....but then \\*gestures to last week\\*....we're truly in hell (unless you are all about that maga criminal life, in which case....congrats, you won..i have never felt more hopeless and \"owned\" than I do now",
+                              "score": -1,
+                              "created_utc": 1731555959.0,
+                              "replies": [
+                                {
+                                  "id": "lx2up5e",
+                                  "author": "polerix",
+                                  "body": "I don't get why someone who camps on such a hill would go out of their way to look for Apple-related articles just to criticize them. This kind of troll-like behavior helps no one.",
+                                  "score": 1,
+                                  "created_utc": 1731588558.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lx4w66q",
+                      "author": "VizualAbstract4",
+                      "body": "Like what? Fall over themselves to throw more money at Apple? We\u2019re hopeless.",
+                      "score": 1,
+                      "created_utc": 1731612680.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwzhe49",
+                      "author": "Mnm0602",
+                      "body": "Some reviewers are claiming this is the best bang for your buck Mac mini ever and even probably the best Mac or even mini PCs ever. \u00a0Smart consumers will buy this and work through storage challenges later.\u00a0",
+                      "score": 3,
+                      "created_utc": 1731533936.0,
+                      "replies": [
+                        {
+                          "id": "lwzk4fq",
+                          "author": "ouatedephoque",
+                          "body": "Not like it's complicated. The Mini has TB4 or TB5 (Pro model) ports. Slap an external SSD on it and you're golden.",
+                          "score": 3,
+                          "created_utc": 1731534773.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lwzyqg7",
+                  "author": "Tacotuesday8",
+                  "body": "I like how the EU is so strong, the US has to wait for an EU mandate to make US companies do what we want. If only we could make our own laws.",
+                  "score": 10,
+                  "created_utc": 1731539515.0,
+                  "replies": []
+                },
+                {
+                  "id": "lx00p4y",
+                  "author": "alidan",
+                  "body": "I dont think they will because as dominant as they are in phones, they are small on the pc side of things.",
+                  "score": -1,
+                  "created_utc": 1731540195.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lwydhq6",
+              "author": "Pepparkakan",
+              "body": "To be fair there\u2019s a reason *the interface isn\u2019t common*, because what you\u2019re connecting is pure NAND storage, **without a controller**. So it isn\u2019t really comparable to a replaceable NVMe drive, its rather more like an NVMe drive with replaceable NAND modules.\n\nIts shitty sure, but its less shitty than soldered storage, and who\u2019s to say this connector can\u2019t become a standard interface for \u201dremovable NAND modules\u201d?",
+              "score": 46,
+              "created_utc": 1731521850.0,
+              "replies": [
+                {
+                  "id": "lwytmub",
+                  "author": "Throwaway74829947",
+                  "body": "That would require Apple to publish the specifications of the format, which I don't see them doing anytime soon.",
+                  "score": 26,
+                  "created_utc": 1731526718.0,
+                  "replies": [
+                    {
+                      "id": "lwz35fv",
+                      "author": "Affectionate_Fix8942",
+                      "body": "Not really. It's standard NAND flash. You can lookup the chip and find out how it connects to the connector. A second year electronics engineering student can make a replacement.",
+                      "score": 3,
+                      "created_utc": 1731529634.0,
+                      "replies": [
+                        {
+                          "id": "lwz4k5p",
+                          "author": "Throwaway74829947",
+                          "body": "Reverse engineering a connector is *not* a substitute for publishing formal specifications if you want something to be a standard. People almost certainly will make third party replacements using reverse engineering, but no other computer manufacturer will touch that format without formal, published specifications as well as a clear understanding of what patents it might be encumbered by, whether and to whom they'd have to pay royalties, whether Apple would take them to court (justified or not), etc. etc. The basic specs and pinout of Apple's lightning port was known pretty much immediately after release, but no other phone manufacturer even considered using it because it was Apple's own proprietary format, not a formal published standard.",
+                          "score": 18,
+                          "created_utc": 1731530082.0,
+                          "replies": [
+                            {
+                              "id": "lx0135s",
+                              "author": "pixel_of_moral_decay",
+                              "body": "Most PC interfaces at least started as unofficial standards. This wouldn\u2019t be remotely abnormal.\n\nIn fact many times updates to standards just codify what vendors have been doing already.",
+                              "score": 2,
+                              "created_utc": 1731540330.0,
+                              "replies": [
+                                {
+                                  "id": "lx05nlf",
+                                  "author": "Throwaway74829947",
+                                  "body": "Maybe some of the oldest ones that still live on, e.g. some of the power pins or RJ45, but connectors like USB, SATA, PCIe, M.2, NVMe, HDMI, DisplayPort, etc. all *originated* as codified standards, mostly from collaborative standards bodies or industry consortiums and not a single manufacturer with a history of locking down their hardware.",
+                                  "score": 7,
+                                  "created_utc": 1731541928.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lwz50y3",
+                              "author": "Affectionate_Fix8942",
+                              "body": "Apple doesn't want it to be standard, and no other manufacturer wants to integrate a flash controller into their own product. So there is little incentive for there to be a standard at this time.\n\nThis here is about being able to buy aftermarket drives. RE is fine for that. Your point with lightning rings pretty hollow. Lightning sucks as a connector and was superseded almost immediately by USB-C. Even if Apple presented the lightning spec on a platter with a cherry on top no one would have taken it.",
+                              "score": -3,
+                              "created_utc": 1731530229.0,
+                              "replies": [
+                                {
+                                  "id": "lwz6gz7",
+                                  "author": "Throwaway74829947",
+                                  "body": "Since you seem to have forgotten, this is what I was replying to:\n\n>and who\u2019s to say this connector can\u2019t become a standard interface for \u201dremovable NAND modules\u201d?  \n\n &nbsp;\n\n>Lightning sucks as a connector and was superseded almost immediately by USB-C.\n\nLightning was introduced in 2012, USB-C was adopted by the IEC in 2016 (and really only gained the intertia to replace Micro USB circa 2018 ish). At the time, everyone else was using Micro USB-B, and I would argue that Lightning was a better connector than that mess.",
+                                  "score": 5,
+                                  "created_utc": 1731530663.0,
+                                  "replies": [
+                                    {
+                                      "id": "lwz7uxi",
+                                      "author": "Affectionate_Fix8942",
+                                      "body": "\\> and who\u2019s to say this connector can\u2019t become a standard interface for \u201dremovable NAND modules\u201d?\n\nApple says this. It's not a standard. No OEM wants it to be standard. Not everything needs to be standard. It's an apple internal PCB. Which aftermarket companies can replicate easily. Easier even then producing an SSD including the controller.\n\n\\> Lightning was introduced in 2012, USB-C was adopted by the IEC in 2016 (and really only gained the intertia to replace Micro USB circa 2018 ish). At the time, everyone else was using Micro USB-B, and I would argue that Lightning was a better connector than that mess.\n\nUSB-C was available in 2014. approx one and half years after lightning. But manufacturers know about at LEAST already in 2012. Why would they switch to an apple connector. That is worse in every aspect to USB-C. Even it just being Apple is a huge red flag. Apple has rich history in establishing a standard and then pissing on it.",
+                                      "score": -6,
+                                      "created_utc": 1731531080.0,
+                                      "replies": [
+                                        {
+                                          "id": "lwz8mer",
+                                          "author": "Throwaway74829947",
+                                          "body": ">Apple says this. It's not a standard. No OEM wants it to be standard. Not everything needs to be standard. It's an apple internal PCB. Which aftermarket companies can replicate easily. Easier even then producing an SSD including the controller\n\nCool, so why are you arguing with me instead of the person who originally suggested that it could become a standard? All I said prior to your reply was that Apple won't let it become standard by not publishing the specifications, and in response to that you came in talking about how it could readily be reverse engineered, which I never claimed it couldn't be. You're just arguing to argue.",
+                                          "score": 5,
+                                          "created_utc": 1731531309.0,
+                                          "replies": [
+                                            {
+                                              "id": "lwz9vz0",
+                                              "author": "Affectionate_Fix8942",
+                                              "body": "Apple doesn't have the reigns to NAND flash pinouts. Apple has no power to stop anyone to do whatever they want. Even if another company, for whatever brain dead reason, wants to standardize apples pinout.",
+                                              "score": 0,
+                                              "created_utc": 1731531684.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lwzakth",
+                                                  "author": "Throwaway74829947",
+                                                  "body": "Like I said, arguing to argue. *Major companies generally don't adopt formats without published specifications,* that's all I have ever been arguing here.",
+                                                  "score": 2,
+                                                  "created_utc": 1731531893.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lx07wl6",
+                          "author": "mschuster91",
+                          "body": ">It's standard NAND flash.\n\nI wouldn't put it past Apple to have some sort of DRM in the chips as well. Even if they appear standard on the outside, they might contain some secret sort of access pattern check or whatever. They've been doing that on more and more parts of their various devices to combat people stealing shit to strip it for parts.",
+                          "score": 8,
+                          "created_utc": 1731542723.0,
+                          "replies": [
+                            {
+                              "id": "lx1qui7",
+                              "author": "UnicodeScreenshots",
+                              "body": "I\u2019ll save you the speculation, it\u2019s a standard nand chip.",
+                              "score": 1,
+                              "created_utc": 1731564594.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lx1v5d6",
+                  "author": "riazzzz",
+                  "body": "That's just deplorable, what's the technical reason for this other than to block user expansion/customisation. I'm sure they could have used a 2230 if they were concerned about space.\n\nThis is exactly the reason why I can never support Apple, I would just burn up from the frustration of it.\n\nOh well it's not like I would of been tempted to buy one anyway, so no sale lost and I'm betting most their fan base won't care anyway.",
+                  "score": 3,
+                  "created_utc": 1731567077.0,
+                  "replies": [
+                    {
+                      "id": "lx2aqx3",
+                      "author": "Pepparkakan",
+                      "body": "Probably because the controller is relatively expensive in comparison to just dumb NAND modules, doing it this way they get to make sure the computer has a really good storage controller, while being able to replace dead modules \"easily\".\n\nHonestly this *is* better, but it requires controllers be designed with the ability to talk to many different modules, which is true of Apples controllers, but not to the extent that we hobbyists think of it when we compare it to replaceable NVMe.",
+                      "score": 3,
+                      "created_utc": 1731577334.0,
+                      "replies": [
+                        {
+                          "id": "lx34jua",
+                          "author": "riazzzz",
+                          "body": "It's better than soldered on sure, but way worse for the consumer than using standard nvme (which also would have been the easiest to design solution) this design choice 100% is in Apple's benefit only and against the consumers right to repair.\n\nIf a design choice adds no benefit to the consumer and seems to only exist to deliberately restrict the consumers rights then that just immediately puts me off the product/manufacturer.",
+                          "score": 3,
+                          "created_utc": 1731592519.0,
+                          "replies": [
+                            {
+                              "id": "lx3cj8a",
+                              "author": "Pepparkakan",
+                              "body": "I'd argue there is a consumer benefit, it is possible to replace the NANDs and recalibrate the controller to use the new ones, it just requires a little more competence than caveman-level \"Grug replace NVMe, Grug computer better now\", which I agree is a step in the wrong direction.\n\nWhat I'm trying to say is that conceptually this is probably better than replacing an entire NVMe because the controller is expensive and now we don't have to replace the expensive part anymore. Yes, for now you can only get replacements from Apple, that's bad, but the idea is reasonable.",
+                              "score": 0,
+                              "created_utc": 1731595408.0,
+                              "replies": [
+                                {
+                                  "id": "lx3x43k",
+                                  "author": "riazzzz",
+                                  "body": "Yeah but that's not a consumer benefit over just using standard nvme's, it's just locking you into Apple only repairs and and their whims on pricing/availability.",
+                                  "score": 4,
+                                  "created_utc": 1731602014.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lwyz89y",
+                  "author": "swolfington",
+                  "body": "apple moving away from soldered on storage is good no matter how you slice it, but what's particularly egregious here is while apple has done the exact same thing with the Mac Studios, the NAND drives are physically different than the new Mac Minis. like, you'd think it would have been easier on the inventory side of things alone to keep the parts the same, but i guess not.\n\nThe only upside is the Studio NAND drives have been reverse engineered [tried to link to the project doing it, but the automod removed my comment for linking to kickstarter], so it's probably pretty likely that the Mini will too. by their custom nature (even without the controller logic) they will probably always be more expensive than standard NVME drives, but at least the potential is there.",
+                  "score": 4,
+                  "created_utc": 1731528416.0,
+                  "replies": []
+                },
+                {
+                  "id": "lwyx3vc",
+                  "author": "None",
+                  "body": "[removed]",
+                  "score": 1,
+                  "created_utc": 1731527764.0,
+                  "replies": [
+                    {
+                      "id": "lwyx3z3",
+                      "author": "AutoModerator",
+                      "body": "Hello, /u/swolfington!  Thanks for contributing! However, your comment has been automatically removed. Per the sidebar:\n\n* **Rule 3:** No direct links to crowdfunding sites.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+                      "score": 1,
+                      "created_utc": 1731527765.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lwz1ulr",
+                  "author": "keef-keefson",
+                  "body": "Lightning could have become the standard connector in place of USB-C. It\u2019s comparable in terms of robustness, and was much better than micro-usb, which was the accepted universal standard at the time Apple introduced it.  But that\u2019s not how Apple works. This will never be a standard connector, because if it was Apple would lose their Apple tax and not be able to charge people $300 for what would be a $100 upgrade from any other manufacturer.",
+                  "score": -5,
+                  "created_utc": 1731529224.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lwxxa8a",
+              "author": "_RADIANTSUN_",
+              "body": "> That's soooo Apple\n\n*It's the profit they can see!*",
+              "score": 7,
+              "created_utc": 1731516942.0,
+              "replies": []
+            },
+            {
+              "id": "lwxuysc",
+              "author": "r0bman99",
+              "body": "It\u2019s \u201cspecial\u201d Apple NVME. Much better than anything else on the market because reasons.",
+              "score": 6,
+              "created_utc": 1731516243.0,
+              "replies": [
+                {
+                  "id": "lwy4hps",
+                  "author": "InsaneNinja",
+                  "body": "It bypasses all the controller hardware that standard storage has, because the controllers are directly on the M4. It\u2019s just storage chips hooked right into the SoC",
+                  "score": 16,
+                  "created_utc": 1731519130.0,
+                  "replies": [
+                    {
+                      "id": "lwy8vsv",
+                      "author": "mdneilson",
+                      "body": "There's no need for that. This is just Apple being Apple and making their own standards for no good rea$on.",
+                      "score": 6,
+                      "created_utc": 1731520457.0,
+                      "replies": [
+                        {
+                          "id": "lwycbmg",
+                          "author": "InsaneNinja",
+                          "body": "When you get an M.2 chip, it\u2019s advised you use heat sinks and all of that for the good ones, which are generally much larger chips.  The Apple chip is smaller, and just as fast or faster than the good ones, and doesn\u2019t have to deal with all of those physics issues. That to me sounds like reasons.",
+                          "score": 12,
+                          "created_utc": 1731521496.0,
+                          "replies": [
+                            {
+                              "id": "lwynrun",
+                              "author": "TooStrangeForWeird",
+                              "body": "\"Good ones\" don't need heatsinks. The highest performing ones will throttle if you push them too hard without one, but there's a LOT more drives without heatsinks (or any mention of needing one) than there are that do.",
+                              "score": -4,
+                              "created_utc": 1731524938.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lwz90si",
+                          "author": "BestieJules",
+                          "body": "They\u2019re faster and the PS5 does the same thing, people just don\u2019t complain about that because it\u2019s a console.",
+                          "score": 0,
+                          "created_utc": 1731531428.0,
+                          "replies": [
+                            {
+                              "id": "lx0gmle",
+                              "author": "mdneilson",
+                              "body": "The PS5 just requires faster NVME. It does not require proprietary hardware.",
+                              "score": 4,
+                              "created_utc": 1731545791.0,
+                              "replies": [
+                                {
+                                  "id": "lx0hc83",
+                                  "author": "BestieJules",
+                                  "body": "The PS5 uses a soldered CPU-controlled NAND just like the previous generation Mac Mini, and is not upgradeable at all. You can add MORE storage, but this Mac Mini has an actually upgradeable main SSD.\n\n  \nAgain the point is that this configuration of SSD is faster than an off the shelf NVME by a pretty good margin and is the reason both Apple and Sony use it.",
+                                  "score": 1,
+                                  "created_utc": 1731546045.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lwze92q",
+              "author": "beefwarrior",
+              "body": "I\u2019m fully into Apple products, but ugh, come on!!!\n\nI still like the 2012 Mac Mini partly because you could install a second HDD / SSD, and upgrade the RAM yourself",
+              "score": 1,
+              "created_utc": 1731532991.0,
+              "replies": []
+            },
+            {
+              "id": "lwxmupl",
+              "author": "RealDickGrimes",
+              "body": "Downvote if you hate pizza",
+              "score": -12,
+              "created_utc": 1731513736.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lwxh4sp",
+          "author": "Eruannster",
+          "body": "Also I believe Apple's SSDs are a bit weird in that they are basically raw flash memory on the stick and the actual storage controller sits on the SOC (unlike, say, an M.2 SSD which has a separate storage controller on the board).",
+          "score": 91,
+          "created_utc": 1731511935.0,
+          "replies": [
+            {
+              "id": "lwy9ure",
+              "author": "None",
+              "body": "That\u2019s how the Mac Studio is",
+              "score": 15,
+              "created_utc": 1731520749.0,
+              "replies": [
+                {
+                  "id": "lwylv20",
+                  "author": "Eruannster",
+                  "body": "Yeah, and also the Mac Pro. (Also, I just checked those out and *holy fucking shit* \u20ac1400 for an upgrade to a 2 TB drive. Apple, what in the fucking shit?)",
+                  "score": 30,
+                  "created_utc": 1731524359.0,
+                  "replies": [
+                    {
+                      "id": "lwyxz6b",
+                      "author": "OptimalMain",
+                      "body": "And look at their cash reserve.  \nIt\u2019s massive.  \nPeople are willing to pay stupid prices so they keep demanding stupid money",
+                      "score": 22,
+                      "created_utc": 1731528029.0,
+                      "replies": [
+                        {
+                          "id": "lx4v2f5",
+                          "author": "alc4pwned",
+                          "body": "I mean the M4 Mac Mini is very well priced though",
+                          "score": 1,
+                          "created_utc": 1731612346.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwyukco",
+                      "author": "Throwaway74829947",
+                      "body": "It's the same line of products that brought you the \u20ac1100 monitor stand and \u20ac220 VESA adapter, how is that surprising?",
+                      "score": 11,
+                      "created_utc": 1731526997.0,
+                      "replies": [
+                        {
+                          "id": "lwz4mol",
+                          "author": "dreadcain",
+                          "body": "Don't forget the $700 caster wheels",
+                          "score": 7,
+                          "created_utc": 1731530105.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "lwz4x6o",
+                          "author": "Eruannster",
+                          "body": "I guess I'm not surprised, but still.  Ugh.",
+                          "score": 2,
+                          "created_utc": 1731530197.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lx49tzr",
+                      "author": "NeilDeWheel",
+                      "body": "Most people (including me) don\u2019t need the higher speeds that the built in Apple SSD gives. Better to have a base model SSD with an external m.2 in a Thunderbolt enclosure. \n\nI\u2019m about to order the new Mac Mini Pro but will be buying with the base 512GB SSD. I\u2019ll use my current 4TB, m.2 SSD that I have in a Thunderbolt 3 enclosure. That will work for me until I can get a USB 4 or 5 enclosure. When 8TB SSDs come down in price I\u2019ll pop that in the external enclosure. Other advantages are if the SSD fails or it gets full it\u2019s easily replaced.",
+                      "score": 1,
+                      "created_utc": 1731605906.0,
+                      "replies": [
+                        {
+                          "id": "lx4nzix",
+                          "author": "Eruannster",
+                          "body": "Yeah, that's a much more economical way of doing it. And also Apple's SSDs aren't even that fast compared to M.2 drives. It's more convenient, I suppose, to have all the storage on the system if you're rocking a laptop or something, but in terms of actual performance you can pretty easily get really good external storage that is just as fast (or faster) and much more spacious.",
+                          "score": 1,
+                          "created_utc": 1731610186.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lwzxa0i",
+              "author": "dustofdeath",
+              "body": "But it doesn't\u00a0 have to be. It has normal PCIE. Nvme would work just fine.\n\n\nProven by the custom DIY ssd hack.",
+              "score": 4,
+              "created_utc": 1731539018.0,
+              "replies": []
+            },
+            {
+              "id": "lx27y33",
+              "author": "k410n",
+              "body": "That's really stupid, just on more non-repairable non-replaceable part to break",
+              "score": 2,
+              "created_utc": 1731575422.0,
+              "replies": [
+                {
+                  "id": "lx2rzwc",
+                  "author": "Eruannster",
+                  "body": "Well, yeah. That could be said about a lot of Apple's \"we soldered everything in a really annoying way\"-approach to computer design.",
+                  "score": 2,
+                  "created_utc": 1731587344.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwx9te8",
+          "author": "Danisumi",
+          "body": "Yes but that's also partly due to them only having the NAND chips on that board, while having the controller inside the Apple M4. While regular NVME's have both on the same board.",
+          "score": 54,
+          "created_utc": 1731509518.0,
+          "replies": [
+            {
+              "id": "lwxeqsg",
+              "author": "kamilo87",
+              "body": "Shitty anti-consumer design as usual from Apple, but: \u201cyou\u2019re gonna love it\u201d",
+              "score": 38,
+              "created_utc": 1731511166.0,
+              "replies": [
+                {
+                  "id": "lwxf0zx",
+                  "author": "Danisumi",
+                  "body": "well I mean, it would make replacement storage boards cheaper. But if and how they are available, that's another story :D",
+                  "score": 39,
+                  "created_utc": 1731511256.0,
+                  "replies": [
+                    {
+                      "id": "lwy5kma",
+                      "author": "Harflin",
+                      "body": "Wake me when apple sells replacement chips and they're cheaper than nvme",
+                      "score": 22,
+                      "created_utc": 1731519458.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwxfdiu",
+                      "author": "kamilo87",
+                      "body": "Yeah. Let\u2019s see how that goes\u2026 maybe they\u2019ll give us the chance to buy a 1TB for just 0.99 kidneys.",
+                      "score": 14,
+                      "created_utc": 1731511369.0,
+                      "replies": [
+                        {
+                          "id": "lwxglld",
+                          "author": "Danisumi",
+                          "body": "or maybe someone else is going the route to manufacture it",
+                          "score": 12,
+                          "created_utc": 1731511764.0,
+                          "replies": [
+                            {
+                              "id": "lwxgrg7",
+                              "author": "kamilo87",
+                              "body": "That would be awesome. Someone pointed to OWC. Would be like the old times!",
+                              "score": 9,
+                              "created_utc": 1731511816.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "lwy6ijw",
+                              "author": "Terrible_Snow_7306",
+                              "body": "And it will work until the next OS update\u2026",
+                              "score": 3,
+                              "created_utc": 1731519745.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lwxgz8e",
+                          "author": "Chronox2040",
+                          "body": "So you pay a kidney and your change is a stone?",
+                          "score": 5,
+                          "created_utc": 1731511885.0,
+                          "replies": [
+                            {
+                              "id": "lwxh31d",
+                              "author": "kamilo87",
+                              "body": "Lol, yes. I have some of them!",
+                              "score": 2,
+                              "created_utc": 1731511920.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwyrlg7",
+                      "author": "Inprobamur",
+                      "body": "Surely Apple is going to pass those savings on to the customer lol.",
+                      "score": 3,
+                      "created_utc": 1731526098.0,
+                      "replies": [
+                        {
+                          "id": "lwyrtsd",
+                          "author": "Danisumi",
+                          "body": "Never said that Apple will, since they make their margin from hardware sales. Buuut maybe a thirdparty vendor is interested to take that opportunity",
+                          "score": 1,
+                          "created_utc": 1731526168.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwxh1zu",
+                      "author": "ericstern",
+                      "body": "The band chip is payed by someone and if you don\u2019t pay for it on the storage chip you pay for it being on the mobo. Even then unfortunately your argument about making the storage boards cheaper is invalid because it is in fact several times more expensive than normal chip(due to apple reasons?). Go to their store and you will see that an upgrade from 256gb to 512 costs $200. That\u2019s insidious. An upgrade from 256gb to 2tb is $800, even more insidious! It\u2019s like 300% markup when compared to top shelf SSDs out there.",
+                      "score": 7,
+                      "created_utc": 1731511910.0,
+                      "replies": [
+                        {
+                          "id": "lwyq69l",
+                          "author": "cbzoiav",
+                          "body": "The point is if every manufacturer did it like this and the interfaces were standardised it would be cheaper to upgrade/replace your drive. It would also mean less e-waste.\n\nIt's in some ways a theoretically better implementation, but because it's proprietary to Apple in practice it isn't. Also in practice different manufacturers flash may have different requirements (e.g. failure rates / wear leveling) which becomes much harder to do with shared controllers.",
+                          "score": 3,
+                          "created_utc": 1731525666.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "lwxrcux",
+                          "author": "kindall",
+                          "body": "what's insidious about it?",
+                          "score": 0,
+                          "created_utc": 1731515138.0,
+                          "replies": [
+                            {
+                              "id": "lwxuw6g",
+                              "author": "ericstern",
+                              "body": "They slowly keep creeping the line of making things irreparable or designing hardware so that components are un-upgradeable unless you buy them from them. If you want 1tb ssd well their gonna make sure you cant get it from anyone else by making it proprietary. \"fuck those users that want to buy low end mac mini and want to upgrade to their ssd of choice. well now they cant!\"\n\nAlso They design the hardware and subsequently the buy page to gradually  force users to upgrade.(new mac m4 mini with only 256 gb drive in 2024? seriously?)\n\n\"well upgrade from 256 gb drive to 512 gb is expensive at 200 but it really needs it\"\n\n*user selectes 512gb options and apple recalculates the upgrades prices based on their current selection instead of total price*\n\n\"okay for $200 more i could go for 1tb and i guess i wont have to worry about storage for a while....\"\n\njust put the friggin total price of each option you scumbag apple.",
+                              "score": 7,
+                              "created_utc": 1731516221.0,
+                              "replies": [
+                                {
+                                  "id": "lwxwb7m",
+                                  "author": "SkittlesAreYum",
+                                  "body": "You could just not buy it?",
+                                  "score": -2,
+                                  "created_utc": 1731516647.0,
+                                  "replies": [
+                                    {
+                                      "id": "lwxzj33",
+                                      "author": "ericstern",
+                                      "body": "And i haven't for my whole life. But that is no excuse to give a pass to such anti-consumer behaviors, especially when large corporations keep taking more and more, do price fixing, and continue to eliminate flexibity in their products to the point where one day, there will be no one I could buy from if I wanted to upgrade my own hardware.",
+                                      "score": 7,
+                                      "created_utc": 1731517626.0,
+                                      "replies": [
+                                        {
+                                          "id": "lwy5bkg",
+                                          "author": "ar311krypton",
+                                          "body": "im curious, do you have similar criticisms for other big corporations like NVIDIA, Intel, Microsoft, or Google?...Apple deserves every bit of criticism for the many things they do that are absolutely anti-consumer..but IMO they also deserve credit for all the positives but if someone already has a bias against apple, ive noticed that there is no coming back from it....yet all those other corpos with varying levels of anti-consumer policies dont ever get the same heat.",
+                                          "score": 2,
+                                          "created_utc": 1731519383.0,
+                                          "replies": [
+                                            {
+                                              "id": "lwydsi7",
+                                              "author": "ericstern",
+                                              "body": "I do. Nvidias gpu price hikes since the 3000 series have been insane, especially now that the improvements they make from gen to gen are marginal. Best we can do is buy used, but the crazy fandom and consumerism around the latest gpus doesn't help, especially from youtube tech channels that seem to always be pushing out the latest gotta-have-gpu from nvidia. \n\nIntel has in the past resorted to scummy practices when they have a large part of market share(like disabling hyperthreading on their lower end lineups just because they can), but as of late, AMD seems to keep them in check as a viable alternative, so for the moment im not worried there. \n\nMicrosoft isn't without fault but compared to apple they're angels. Windows always works on most hardware, and windows licenses don't lock you out of OS features just because you upgraded hardware that deviates from manufacturer's(dell/lenovo/hp/etc) original spec.\n\nGoogle..just as bad as apple. Their increasingly invasive war on our privacy has pushed me to find alternatives where I can, but their dominance on web services shows what happens when one corporation claims victory on the market, we have no where else to go. I abandoned google search a long time ago(duckduckgo user), I use firefox instead of chrome, I tried abandoning gmail by self-hosting my own email server, but the big email players don't trust our self-hosted emails so much and mark all of our mail as spam, so I've given up on that front. Maps services insnt that much better, we're stuck using apple or google maps now, because the small players while decent can't keep up with the accuracy of the top two.\n\nHowever apple leads the forefront on anti repair practices, and holds a draconian grip on apps while hiding behind the pretext that it is all done in the name of security. EU finally forced them to allow 3rd party apps on the iphone that don't have to go through their pay-us-first-to-be-on-the-app-store toll booth, but in the US there is still no such thing. Replacing components disables features on the phone. There are videos of phone repairsmen removing iphone camera, even with another iphones camera, and the iphone camera features are degraded, which means 3rd party repair shops can't even use original apple parts to fix your iphone, you are forced to go to apple care.",
+                                              "score": 4,
+                                              "created_utc": 1731521941.0,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "lwydigb",
+                                              "author": "qa3rfqwef",
+                                              "body": "> yet all those other corpos with varying levels of anti-consumer policies dont ever get the same heat.\n\nThen you're not looking in the right places.\n\nGoogle - Not heard anything about how their search engine has increasingly become filled with ads and poor search results? Manifest V2 deprecation.\n\nIntel - For years when they had dominance in the CPU space was getting shit for anti-consumer practices such as forcing OEM vendors to not use AMD CPUs in prebuilts.\n\nMicrosoft - Games for Windows Live, Internet Explorer, Xbox One launch, Windows 11 telemetry etc. etc.\n\nNvidia - Their price point for GPUs to this day, their lack of VRAM on their high-end GPUs, artifically locking features behind new gen GPUs.\n\nThese are just a few examples, but all these companies are constantly getting shit on all the time for this stuff.",
+                                              "score": 3,
+                                              "created_utc": 1731521856.0,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "lwzf8ma",
+                                              "author": "sexmarshines",
+                                              "body": "Every company gets heat for anti-consumer behavior.\n\nApple gets the most heat because they are one of the most anti-consumer household brands on earth. Not only do they do anti-consumer shit on the back end where you don't easily see it like every other company, but Apple has this power with consumers where they can act against consumers right to their face but they're not going to go anywhere because they are locked in by the ecosystem Apple has carefully developed into an anti-consumer weapon over the last 15 years.\n\nEvery company is fucking over consumers. Apple is the most in your face about it and also is a pioneer in the field. They regularly create new ways to fuck over customers with strategies that eventually spread across to other companies.",
+                                              "score": 3,
+                                              "created_utc": 1731533289.0,
+                                              "replies": [
+                                                {
+                                                  "id": "lwzy00v",
+                                                  "author": "ar311krypton",
+                                                  "body": "yea thats just not been my experience at all with them..but i guess im just another member of the \"apple cult\"...nevermind that my 2012 MacBook Pro is running with the latest OS right next to my M Series Macbook...they do some ridiculous things, sure....but again, i know ill be labeled with the thought terminating label of apple cultist..but i feel like you might be overstating the issue....im \"locked\" in iCloud but i also have accoutns in the Microsoft and Google ecosystems as well...i tend to prefer iCLoud and all of its services at least as of last year...but i guess its Apple Bad so....whatever.\n\n  \n\\*\\* oh and miss me with the \"apple users are tech illiterate\" bullshit. Aside from macOS, I run a slighlty modified Arch system with CachyOS kernel patches on all AMD hardware....I do prefer macOS to just about any nix distro and especially over windows. Their hardware is expensive but it lasts. Are there dumb influencers that get it just for the logo? Absolutely...but theres a reason why many professionals across a wide array of different fields from tech to content creation supplement their main systems with something like a MacBook AIr",
+                                                  "score": 0,
+                                                  "created_utc": 1731539263.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "lx08ko4",
+                                                      "author": "Option420s",
+                                                      "body": "You had to jump through hoops to get that 2012 macbook on the latest OS and at any time an update will break your install.",
+                                                      "score": 2,
+                                                      "created_utc": 1731542959.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "lx10a9w",
+                                                          "author": "ar311krypton",
+                                                          "body": "Yea you're right bro, those hoops I had to jump through to install Sequoia....that whole clicking a drop down list and selecting MacBookPro11,3 and then the worst part...rebooting my system!!! Its insane actually...lol..in all seriousness it literally was that simple via OCLP, rebooting into safe mode 1 time to allow it to automatically patch/install GPU Kernel Extensions and thats literally it....but I agree with you that any random update could break the install, sure...but Im not too bothered by it because its been turned on maybe 3 times in the last year...the most recent of which was literally to see if I could update the OS...its a 12 year old machine with an Intel Core i7 4xxx and an NviDIa GeForce 750M but it is still completely functional albeit a little sluggish in comparison to my M3 Max Apple Silicon MBP....my main point is that my ownership experience of this product does not line up with the \"most anti-consumer company on the planet\" (although the MacBooks they started sellling a few years later up until Apple Silicon certainly had some blatant anti-consumer asepcts for sure)...I would even argue that in the past year each product Apple has released has had at least 1 or more tiny changes reversing some previously potentially malicious anti-user repair component.....still not nearly enough to be considered \"consumer friendly\" on the whole....but again, people hate Apple so even if they make positive changes, they will never get the credit for it.....and maybe thats fine cuz corporations all suck in the grand scheme..just wish this stupid bias was applied equally",
+                                                          "score": 0,
+                                                          "created_utc": 1731552863.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "lx8yatj",
+                                                              "author": "Option420s",
+                                                              "body": "If I see another ellipses from you I'm going to give the next nerd I see a purple nurple",
+                                                              "score": 1,
+                                                              "created_utc": 1731670687.0,
+                                                              "replies": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "id": "lwzztal",
+                                                      "author": "sexmarshines",
+                                                      "body": "Creating a good product isn't the same thing as not being anti-consumer.... Your 2012 Macbook Pro had or has a HDD. If yours hasn't failed, plenty of others have. You could replace or upgrade it to an SSD to keep it reasonable to the times. The RAM it came with stock is likely not enough, many people upgraded that to keep it performing through the years. I also have 10+ year old PCs that I've upgraded over time and used for way longer than I intended and even after retiring from daily use, I've often repurposed those devices. My parents are using my $600 lenovo laptop from 2016 and that works great too. I'd expect a $1500+ laptop to last in some meaningful capacity for 10 years.\n\nIn 12 years will your M series MacBook be able to keep up in the same way? It's a great product today, I'm typing from one - I use it for work every day. Yet it's crippled unless you pay out the ass and by design you won't be able to alter your own device in any way in order to keep up.",
+                                                      "score": 1,
+                                                      "created_utc": 1731539889.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "lx158ts",
+                                                          "author": "ar311krypton",
+                                                          "body": "Ok thats a fair point about a good product not being the same as pro-consumer friendly. I'll concede on that. For this MacBook (also I was wrong its a 2013 not 2012) It has a replaceable NVMe SSD (but to your point, it does use a proprietary key slot so I did have to get an adapter to upgrade the internal SDD) It has 16GB of RAM (soldered so thats another point in favor of your argument)...and while Apple was the first to solder down RAM on the Board, can we be certain that when other companies started doing so it was entirely because of Apple set a precedent?..Maybe so maybe so...I suppose the soldering of RAM bothers me far less with Apple Silicon Macs in comparison to the x86 Macs because there is no performance justification with those older setups.....Idk man, I genuinely do feel like I could make this M series machine last 12 years if I absolutely had to, but realistically I will want to upgrade far sooner than that just based on the year to year performance gains the M chips seem to be achieving (I fully expect the performance gains to normalize at some point but do you not find it impressive that even just a node enhancement from N3 to N3E saw a 20% performance gain?)....Anyways, im sorry for coming across like an ass before...just been a rough week depressing week....I'll agree with you that Apple is by no means a \"consumer-friendly\" company....I'll still call them out when they implement anti-consumer proprietary bullshit like this M4 series proprietary SSD module...but at the same time I'll give them props for making it modular and hence in theory user replaceable in the future solely in hopes that the positive feedback encourages them do less anti-consumer shit in the future...thats pretty impressive with the $600 Lenovo lasting that long, I suppose laptops on the PC side have been improving too which is something I didnt consider..anyways, cheers",
+                                                          "score": 2,
+                                                          "created_utc": 1731554719.0,
+                                                          "replies": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lwy8amw",
+                                      "author": "FlyingBishop",
+                                      "body": "It generates a ton of ewaste that isn't economical to repair, and it's legally difficult to make compatible spare parts. And Apple only wants a certain profit margin so I don't think it's an exaggeration to say there are millions of computers that could easily be repaired but instead are thrown out because of Apple's behavior. Apple is making everyone poorer to ensure they have higher profit margins.",
+                                      "score": 2,
+                                      "created_utc": 1731520281.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lwy692h",
+                                      "author": "_RADIANTSUN_",
+                                      "body": "They are just answering the question the other guy asked, it has nothing to do with whether or not they personally buy it. They are explaining what the trick is and why they think it's insidious. That doesn't require some compulsion or force to buy Apple products.\n\nYour response is the Apple brained euphemism for telling someone with a problem, \"JUST SHUT UP!\"\n\nEven if they end up not buying for these reasons, it still doesn't invalidate them discussing these points: that's a totally separate discussion.",
+                                      "score": 0,
+                                      "created_utc": 1731519664.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lx1hoym",
+                  "author": "nullstring",
+                  "body": "I'm not actually sure this one is *that* anti-consumer. \n\nIt would be anti-consumer if they locked out third party ssd's using the same interface... but choosing to use your own approach is just mildly anti-consumer. There are benefits to doing it this way.",
+                  "score": 2,
+                  "created_utc": 1731559988.0,
+                  "replies": [
+                    {
+                      "id": "lx1htjf",
+                      "author": "kamilo87",
+                      "body": "Honestly, can you tell me which benefits?",
+                      "score": 2,
+                      "created_utc": 1731560046.0,
+                      "replies": [
+                        {
+                          "id": "lx1ixak",
+                          "author": "nullstring",
+                          "body": "I mean, this is all out of my ass but here goes. \n\n* SSDs often throttle under thermal stress. This is due to to the controller heating up, not the actual NAND. Putting the controller into the SoC mitigates this issue as the SoC already has high cooling focus.\n* There are crap tons of NAND structures and controllers. All with their own separate problems and issues. The benefit of this is that manufacturers can innovate without having to worry about the controller on the mainboard or SoC. But the downside of this is.... now you have all these controllers that each of unique operating characteristics, caveats, defects.\n* You can upgrade the NAND Controller without having to upgrade your whole SSD. Of course, upgrading your CPU so you can get a new NAND Controller might sounds weird.... but what I mean is that the different iterations of Apple silicon can use the same 'SSD' card things with new iterations of the controller. (So it solves a potential supply chain issue.)\n* Maybe there is benefits to having the controller closer to the CPU? It's now way closer. I doubt it's even on a PCIe bus at all. Just like we used to have memory controllers on the motherboard, there can be benefits to having controllers 'closer to home'. What if your NAND controller can put things directly into memory or even directly into cache. Even if they aren't doing this now, having the controller on the SoC means that a new iteration of Apple SoC could do this and use the already existing NAND \n\nI'm not sure which of these are actual true benefits, but I could see them being the case.\n\n(Of course, I could come up with a list of downsides just as easy. I'm not saying this is the right choice but it's not black and white.)",
+                          "score": 5,
+                          "created_utc": 1731560559.0,
+                          "replies": [
+                            {
+                              "id": "lx1ms8k",
+                              "author": "kamilo87",
+                              "body": "The first one looks very good. My m.2 SSDs throttle past 200GB transferred so this design can solve/mitigate that issue. M4 Mac Minis looking better by the day. Thanks for the time and detailed explanation.",
+                              "score": 1,
+                              "created_utc": 1731562440.0,
+                              "replies": [
+                                {
+                                  "id": "lx20ewf",
+                                  "author": "Znuffie",
+                                  "body": "Your ssd is running out of slc cache, that's why is slower after xx GB.\n\nIt has nothing to do with the temperature.",
+                                  "score": 2,
+                                  "created_utc": 1731570354.0,
+                                  "replies": [
+                                    {
+                                      "id": "lx20m2p",
+                                      "author": "kamilo87",
+                                      "body": "You right but it\u2019s way too hot.",
+                                      "score": 1,
+                                      "created_utc": 1731570481.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lx1q4jj",
+                                  "author": "nullstring",
+                                  "body": "As I said it's out of my ass so who knows how much of these are real benefits though. :)",
+                                  "score": 1,
+                                  "created_utc": 1731564198.0,
+                                  "replies": [
+                                    {
+                                      "id": "lx1q82z",
+                                      "author": "kamilo87",
+                                      "body": "Nah, taking the controller seems good at first hand.",
+                                      "score": 1,
+                                      "created_utc": 1731564251.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwx5uys",
+          "author": "Laker_gra",
+          "body": "I hope it gets cracked",
+          "score": 33,
+          "created_utc": 1731508135.0,
+          "replies": [
+            {
+              "id": "lwxvoot",
+              "author": "ItIsShrek",
+              "body": "There are no software locks. The reason you can't just buy an adapter and slap in a normal M.2 short enough to fit is that while normal SSDs have the controller, DRAM, and NAND all on one card, Apple has the controller on the SoC and uses the system RAM on the SoC as well - so these modules are not proper SSDs, they're mostly just NAND memory chips on a small module. But, there are no software locks on it and if you take a compatible module from another Mac you flash the machine with Apple configurator and it will accept the new module as its new internal drive.",
+              "score": 39,
+              "created_utc": 1731516458.0,
+              "replies": []
+            },
+            {
+              "id": "lwxdf2h",
+              "author": "nicuramar",
+              "body": "There isn\u2019t much to \u201ccrack\u201d, I think.",
+              "score": 16,
+              "created_utc": 1731510731.0,
+              "replies": []
+            },
+            {
+              "id": "lwxbolo",
+              "author": "TheCuriousGamer",
+              "body": "The day it came out someone already upgraded it by swapping the NAND chips.",
+              "score": 24,
+              "created_utc": 1731510152.0,
+              "replies": [
+                {
+                  "id": "lwxe0h0",
+                  "author": "satanshand",
+                  "body": "*by micro soldering on a new one which is pretty far outside of consumer replaceable.\u00a0",
+                  "score": 54,
+                  "created_utc": 1731510927.0,
+                  "replies": [
+                    {
+                      "id": "lwxrfba",
+                      "author": "shanghailoz",
+                      "body": "Give it another week and taobao will have replacements",
+                      "score": 9,
+                      "created_utc": 1731515159.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwxqav9",
+                      "author": "samtherat6",
+                      "body": "But the module the nand is on itself seems replicable-so people can just buy the storage module from people who make them.",
+                      "score": 5,
+                      "created_utc": 1731514809.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwxutoi",
+                      "author": "twat_muncher",
+                      "body": "Which isn't that hard if you have the right tools. The chip just kinda sinks into place when you heat up the solder. I think the only annoying part is having to flash it with a specific ROM if it doesn't take the zero'd out new chip.",
+                      "score": 0,
+                      "created_utc": 1731516199.0,
+                      "replies": [
+                        {
+                          "id": "lwy9e8t",
+                          "author": "satanshand",
+                          "body": "Do you have those tools or even know of anyone that does? And from what I\u2019ve heard you can just use Configurator to initialize the drive.\u00a0",
+                          "score": 0,
+                          "created_utc": 1731520611.0,
+                          "replies": [
+                            {
+                              "id": "lwyka24",
+                              "author": "Plank_With_A_Nail_In",
+                              "body": "I have one it cost \u00a325.\n\nhttps://www.amazon.co.uk/Supernic-Station-Soldering-Efficiency-Desoldering/dp/B0C5M9Q86V?crid=1E1N3FT4I14PX&dib=eyJ2IjoiMSJ9.nAC1iKNeTfEqdtVl20UEYKgXl7wEQttAJrzuPujPey6iJGjyhk1hKvxvZRBypsQ5A-Qn57YCSX5yDObvTasaZbyypT_i8XJ9ypJHjUotKRhEOZE_blT5CsNsGJ8HOUPcAxFDdODfCEDhg75hiU7n-uRHF-H6GGY_e2u9zVYsl2XojynU6xaMeMLYuHai2MuYPDtdW-aau4W-8yOeYQ4nDqtxUlRJxbvKMvpJU01ZImFS71xRiAK_uZBq7zvoEwdjx9x3R3iaerZFccgGfm08bxv7YhhFSIF1Aj3I5qhBtpI.oddU5PxIRc_nn6NI65KV77xgKUroaJyPtsLOoN-OYes&dib_tag=se&keywords=hot+air+soldering+station&qid=1731523780&sprefix=hot+air+so%2Caps%2C99&sr=8-6\n\nI learned to use it by watching youtube videos. It wasn't at all hard but I would suggest not practicing on apple nand first and do something like a raspberry pi Pico @ \u00a35 instead.\n\nRight to repair is about availability of parts not ease of replacing those parts, soldering is a pretty basic skill taught to children at school in my country.",
+                              "score": 6,
+                              "created_utc": 1731523888.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lwxfj9x",
+                  "author": "LBPPlayer7",
+                  "body": "people have been doing that with iphones for years\n\nthat doesn't make it easily upgradeable",
+                  "score": 8,
+                  "created_utc": 1731511421.0,
+                  "replies": []
+                },
+                {
+                  "id": "lwxh1ci",
+                  "author": "CavillOfRivia",
+                  "body": "At that point its the same if the ssd its soldered into the motherboard.",
+                  "score": 14,
+                  "created_utc": 1731511904.0,
+                  "replies": [
+                    {
+                      "id": "lwyh8sj",
+                      "author": "MidnightAdventurer",
+                      "body": "Not really - soldered on is all but impossible to change out. Bare memory chips on a pcb is just a matter of time before someone makes a 3rd party clone",
+                      "score": 7,
+                      "created_utc": 1731522981.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwykr36",
+                      "author": "Plank_With_A_Nail_In",
+                      "body": "Motherboard is huge heatsink requiring even more niche tooling so its not the same at all. Cost of fucking it up is also much much higher.",
+                      "score": 1,
+                      "created_utc": 1731524028.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lwxtrpw",
+              "author": "lohmatij",
+              "body": "Already on Kickstarter. Prices are comparable to Apple though, not Newegg",
+              "score": 1,
+              "created_utc": 1731515878.0,
+              "replies": [
+                {
+                  "id": "lwy55hw",
+                  "author": "InsaneNinja",
+                  "body": "That doesn\u2019t mean that they are real. Just that they are working on it.",
+                  "score": 3,
+                  "created_utc": 1731519332.0,
+                  "replies": [
+                    {
+                      "id": "lwyk2uo",
+                      "author": "lohmatij",
+                      "body": "Already tested and working",
+                      "score": 1,
+                      "created_utc": 1731523828.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwxczul",
+          "author": "mostlyjustread",
+          "body": "It's a shame you can't purchase a replacement module, i think a lot of people would buy and upgrade themselves... but the for those curious, the amount of work required to replace the NAND chips is wild.. \nhttps://www.youtube.com/watch?v=cJPXLE9uPr8",
+          "score": 4,
+          "created_utc": 1731510591.0,
+          "replies": []
+        },
+        {
+          "id": "lwxd3z9",
+          "author": "saraseitor",
+          "body": "It's not even the same across different M-series mac minis",
+          "score": 4,
+          "created_utc": 1731510629.0,
+          "replies": []
+        },
+        {
+          "id": "lwx7w25",
+          "author": "SheepWolves",
+          "body": "So it'll be like $500 for a 128gb drive.",
+          "score": 15,
+          "created_utc": 1731508855.0,
+          "replies": [
+            {
+              "id": "lwxcomc",
+              "author": "Weekly_Drawer_7000",
+              "body": "It\u2019s the same price to buy two of these at base model vs. one with double storage double ram \u2026\n\nThe Apple tax is weird",
+              "score": 11,
+              "created_utc": 1731510487.0,
+              "replies": []
+            },
+            {
+              "id": "lwxb2jp",
+              "author": "imsorryken",
+              "body": "dont worry next year its gonna be 600$",
+              "score": 3,
+              "created_utc": 1731509945.0,
+              "replies": [
+                {
+                  "id": "lwxdikz",
+                  "author": "nicuramar",
+                  "body": "Does that typically happen with Apple?",
+                  "score": 3,
+                  "created_utc": 1731510764.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwxk3e1",
+          "author": "Bleakwind",
+          "body": "Ok. But is it possible to replace the nand with bigger ones?",
+          "score": 3,
+          "created_utc": 1731512874.0,
+          "replies": [
+            {
+              "id": "lwxlo2p",
+              "author": "Darkstar197",
+              "body": "Yes if you\u2019re comfortable soldering them on yourself",
+              "score": 2,
+              "created_utc": 1731513365.0,
+              "replies": [
+                {
+                  "id": "lwzpnoi",
+                  "author": "mattindustries",
+                  "body": "Literally in the title that these are no longer soldered.",
+                  "score": 2,
+                  "created_utc": 1731536518.0,
+                  "replies": [
+                    {
+                      "id": "lx2z6uv",
+                      "author": "Responsible-Win5849",
+                      "body": "bold to assume any of them read farther than apple before coming down to whine",
+                      "score": 1,
+                      "created_utc": 1731590428.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lwxmxmw",
+                  "author": "Bleakwind",
+                  "body": "Ok. Question. What\u2019s stopping people who\u2019s good at soldering to offer a service to upgrading the nands for a reasonable fee?\n\nI really hope that the nand doesn\u2019t have custom code that ties in with the ssd.",
+                  "score": 2,
+                  "created_utc": 1731513762.0,
+                  "replies": [
+                    {
+                      "id": "lwydjc1",
+                      "author": "iiiinthecomputer",
+                      "body": "Because desoldering and replacing the chips is more work than you'd save vs paying the Apple tax if you're paying someone else to do it. It's not easy or convenient with surface mount components.\n\nIt's much more likely that 3rd parties will release compatible storage boards.",
+                      "score": 6,
+                      "created_utc": 1731521864.0,
+                      "replies": [
+                        {
+                          "id": "lx0b9gu",
+                          "author": "runed_golem",
+                          "body": "To expand on this, I'm not good with micro soldering. A while back I had someone do a small board level modification to a device and it was $80. And that was for running a couple jumper wires. Replacing a nand chip would be a lot more.",
+                          "score": 1,
+                          "created_utc": 1731543901.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwxoe4x",
+                      "author": "xdkyx",
+                      "body": "There are youtube vids of people doing it, so probably outside of apple suing such services it perfectly possible to set up such an operation",
+                      "score": 3,
+                      "created_utc": 1731514215.0,
+                      "replies": [
+                        {
+                          "id": "lwxp9cq",
+                          "author": "Bleakwind",
+                          "body": "I see a business opportunity right here.",
+                          "score": 1,
+                          "created_utc": 1731514486.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lwylaha",
+                      "author": "Plank_With_A_Nail_In",
+                      "body": "NAND chips and peoples time isn't free so its not really profitable. Some Chinese company will make clones in automated factories if the mini is popular (which it just might be as the cheapest one is insane value with the only thing letting down is its SSD).\n\nA much better idea is to get an external SSD, it will be good enough for most people.",
+                      "score": 2,
+                      "created_utc": 1731524189.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwxcmtb",
+          "author": "HydroponicGirrafe",
+          "body": "Someone will find a way to adapt it. I\u2019m sure. They did the same in the iMac",
+          "score": 7,
+          "created_utc": 1731510470.0,
+          "replies": [
+            {
+              "id": "lx02o5p",
+              "author": "void_const",
+              "body": "Adapt it to what?  It's not NVMe.",
+              "score": 1,
+              "created_utc": 1731540883.0,
+              "replies": [
+                {
+                  "id": "lx02q77",
+                  "author": "HydroponicGirrafe",
+                  "body": "\ud83e\udd37\u200d\u2642\ufe0f someone will figure it out eventually",
+                  "score": -2,
+                  "created_utc": 1731540903.0,
+                  "replies": [
+                    {
+                      "id": "lx1r6ae",
+                      "author": "UnicodeScreenshots",
+                      "body": "There\u2019s nothing to \u201cadapt\u201d, it would just be a non apple clone of the board. This isn\u2019t an SSD in the way you\u2019re probably thinking, it\u2019s essentially just a daughter board with raw nand chips on it, no controller.",
+                      "score": 1,
+                      "created_utc": 1731564776.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwx8p9l",
+          "author": "Nacho_Dan677",
+          "body": "Before they switched to soldered and when they moved to non SATA interface they also had proprietary interfaces. An adapter will be needed. Performance cannot be guaranteed through the use of non native connections. Apple users will always be upset at how true that is.",
+          "score": 9,
+          "created_utc": 1731509139.0,
+          "replies": []
+        },
+        {
+          "id": "lwxljmw",
+          "author": "demonya99",
+          "body": "I had my hopes up for 5 seconds.",
+          "score": 1,
+          "created_utc": 1731513327.0,
+          "replies": []
+        },
+        {
+          "id": "lwxzo6n",
+          "author": "LeCrushinator",
+          "body": "Custom replacement modules are already being worked on.",
+          "score": 1,
+          "created_utc": 1731517669.0,
+          "replies": []
+        },
+        {
+          "id": "lwy7yw2",
+          "author": "methanol_ethanolovic",
+          "body": "Were there not Apple laptops with proprietary SSD ports, that were physically still NVMe, for which you could get an adapter?",
+          "score": 1,
+          "created_utc": 1731520185.0,
+          "replies": []
+        },
+        {
+          "id": "lwybs93",
+          "author": "Annette_Runner",
+          "body": "Can we just buy it on temu though? After the chinese reverse engineer the module?",
+          "score": 1,
+          "created_utc": 1731521330.0,
+          "replies": []
+        },
+        {
+          "id": "lwyh1qb",
+          "author": "BrokenDownMiata",
+          "body": "Because it is pure storage, no controller.",
+          "score": 1,
+          "created_utc": 1731522920.0,
+          "replies": []
+        },
+        {
+          "id": "lwyh5qb",
+          "author": "prontoingHorse",
+          "body": "Exactly.\n\nSomeone did manage to swap out the nand chips for higher capacity though.\n\nSo it's near impossible but not impossible. Just not consumer friendly at all.",
+          "score": 1,
+          "created_utc": 1731522954.0,
+          "replies": []
+        },
+        {
+          "id": "lwyyb9d",
+          "author": "bonerb0ys",
+          "body": "You can have someone solder new chips on to the board.",
+          "score": 1,
+          "created_utc": 1731528133.0,
+          "replies": []
+        },
+        {
+          "id": "lwzk0q5",
+          "author": "Ok_Raspberry1554",
+          "body": "They\u2019re technically following the laws. Followed it and found a good loophole to still make it unrepariable.",
+          "score": 1,
+          "created_utc": 1731534741.0,
+          "replies": []
+        },
+        {
+          "id": "lwzmcos",
+          "author": "GardenPeep",
+          "body": "not sure what this means, no wait, have absolutely no idea what this means.",
+          "score": 1,
+          "created_utc": 1731535464.0,
+          "replies": []
+        },
+        {
+          "id": "lwzvt3z",
+          "author": "LiGuangMing1981",
+          "body": "JFC, Apple. You really do hate your customers, don't you?",
+          "score": 1,
+          "created_utc": 1731538523.0,
+          "replies": []
+        },
+        {
+          "id": "lx0cs58",
+          "author": "Digital-Exploration",
+          "body": "Fucking scumbags.\n\nWhy do people buy this stuff?",
+          "score": 1,
+          "created_utc": 1731544435.0,
+          "replies": []
+        },
+        {
+          "id": "lx0ebjt",
+          "author": "thanatossassin",
+          "body": "Bait and switch, ughhh",
+          "score": 1,
+          "created_utc": 1731544976.0,
+          "replies": []
+        },
+        {
+          "id": "lx0lyo8",
+          "author": "suresh",
+          "body": "There's probably a real reason for that, and I'm not an apple guy. I mean they make their own chips now. It's still a win that you can just replace the OEM part with another.",
+          "score": 1,
+          "created_utc": 1731547703.0,
+          "replies": []
+        },
+        {
+          "id": "lx27k2d",
+          "author": "k410n",
+          "body": "There is simply no reason why this should be legal.",
+          "score": 1,
+          "created_utc": 1731575155.0,
+          "replies": []
+        },
+        {
+          "id": "lx27kyp",
+          "author": "iamtheoneneo",
+          "body": "Haha that's hella shitty. Actually hilarious how butt hurt Apple are with the concept of people doing the bare minimum upgrades",
+          "score": 1,
+          "created_utc": 1731575172.0,
+          "replies": []
+        },
+        {
+          "id": "lx293xb",
+          "author": "ralphonsob",
+          "body": "A nice confirmation of [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines) there.",
+          "score": 1,
+          "created_utc": 1731576214.0,
+          "replies": [
+            {
+              "id": "lx3y1fv",
+              "author": "Darkstar197",
+              "body": "Lmao. I was not familiar with this but it totally fits.",
+              "score": 1,
+              "created_utc": 1731602301.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lx2jmrl",
+          "author": "CaptainofFTST",
+          "body": "Just a matter of time before we start seeing these on Aliexpress with 2-8 Tb",
+          "score": 1,
+          "created_utc": 1731583006.0,
+          "replies": []
+        },
+        {
+          "id": "lwxgmkb",
+          "author": "Noteagro",
+          "body": "Lol, I about got a Mac Mini in 2011 when I was in school, but the year after they absolutely gutted the Mini\u2019s specs. I was beyond disappointed, and was semi-excited to see they might be reversing some of those shitty design decisions\u2026\n\n\n***Nopeeeeeeee\u2026***\n\nApple gotta be Apple\u2026",
+          "score": -2,
+          "created_utc": 1731511772.0,
+          "replies": [
+            {
+              "id": "lwxw09v",
+              "author": "ItIsShrek",
+              "body": "The 2012 minis were the best of the bunch. It was the 2014's that introduced soldered RAM and slower base model chips.",
+              "score": 5,
+              "created_utc": 1731516555.0,
+              "replies": [
+                {
+                  "id": "lwxx7zu",
+                  "author": "Noteagro",
+                  "body": "2012 downgraded CPUs from the 2011 ones, but they were also like $100-200 cheaper due to this. The reasoning was Apple didn\u2019t see people getting the faster chips, and decided to go a cheaper route since those were the models selling.\n\nHowever if we had to say they were the last of the \u201cgood\u201d ones I would kind of agreed. 2012 models iirc also did not allow for expanding storage like the 2011 models did. 2014 might have had the soldered RAM, but the 2011 to 2012 swap most definitely was the start of the downfall.\n\n(However do note that I was busy with college, so the model years may be a ahead of the year I am saying, ***BUT*** I know for a fact it was 2011/2012 I was looking at these computers. We could possibly getting a disconnect if Apple uses model years like car manufacturers do. Tbh I haven\u2019t followed Apple products well since they gutted the Mini back then due to the disappointment in how bad they killed those machines.)",
+                  "score": -1,
+                  "created_utc": 1731516923.0,
+                  "replies": [
+                    {
+                      "id": "lwxyptv",
+                      "author": "ItIsShrek",
+                      "body": "Looks like the [only downgrade](https://everymac.com/systems/apple/mac_mini/mac-mini-aluminum-unibody-faq/differences-between-late-2012-mac-mini-mid-2011-mac-mini-aluminum.html) was in the integrated graphics, the newer generation CPUs were faster, and the 2012's also came with USB 3, more RAM (4GB instead of 2GB), and faster RAM. They all had HDD connections, but the 2012 had the option for a Fusion Drive so that would imply they also added their proprietary PCIe connector for the 2012.\n\nAdditionally, the base model 2012 was the exact same $599 as the base model 2011. Again, it was the 2014 model that had a weaker base CPU for a cheaper price, soldered RAM, etc. The 2012's were better in every way except base model GPU.",
+                      "score": 2,
+                      "created_utc": 1731517378.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwxu4ya",
+          "author": "LargeP",
+          "body": "bUt iTs sTilL uPgRaDeAbLe!\n\nShut up apple.",
+          "score": -2,
+          "created_utc": 1731515989.0,
+          "replies": []
+        },
+        {
+          "id": "lwxnfx9",
+          "author": "damodread",
+          "body": "Until an adapter is made or some obscure manufacturer releases its own SSDs with the reverse engineered interface, that is (but then I guess we'll still have the serial registration issue or something)",
+          "score": -4,
+          "created_utc": 1731513919.0,
+          "replies": [
+            {
+              "id": "lwy6bpa",
+              "author": "ar311krypton",
+              "body": "there is literally nothing to reverse engineer. they are just NAND chips..the controller and memory are on the SoC...as long as it is blank NAND storage that meets whatever generational spec required, its much much simpler than desoldering storage that would be on the motherboard...at the very least there is an optoin now in case your boot drive gets completely zonked. its honestly more repair/upgrade friendly than I normally expect from Apple.",
+              "score": 9,
+              "created_utc": 1731519686.0,
+              "replies": [
+                {
+                  "id": "lwybd84",
+                  "author": "damodread",
+                  "body": "> there is literally nothing to reverse engineer\n\nThe connector? And not everyone is willing to DIY BGA solder NAND chips by themselves or pay the Apple tax on storage upgrade, which is why I think a 3rd party selling compatible replacement boards would be a popular option.",
+                  "score": 0,
+                  "created_utc": 1731521204.0,
+                  "replies": [
+                    {
+                      "id": "lwyllcm",
+                      "author": "Plank_With_A_Nail_In",
+                      "body": "The connector on the board is just the edge of the PCB with bare copper traces like on a million other add on cards.",
+                      "score": 7,
+                      "created_utc": 1731524279.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwy6vz2",
+          "author": "dragonnir",
+          "body": "Hope there\u2019ll be adapters that\u2019ll bay pass Apple lock in the future",
+          "score": -1,
+          "created_utc": 1731519857.0,
+          "replies": []
+        },
+        {
+          "id": "lx02g6o",
+          "author": "Initial_E",
+          "body": "So a $10 adapter right?",
+          "score": -1,
+          "created_utc": 1731540807.0,
+          "replies": []
+        },
+        {
+          "id": "lwxm6lb",
+          "author": "Simple_Character6737",
+          "body": "I just dual boot with Linux, fuck all that noise.",
+          "score": -2,
+          "created_utc": 1731513526.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwxagjl",
+      "author": "zorn_",
+      "body": "There's actually a Kickstarter going on right now for the Mac Studio for replacement SSDs as they use I believe this same interface. You can't use a standard NVME because Macs have the storage controller built into the M-series SOC, you basically have to solder storage chips that have never been used onto this little removable SSD and the SOC then \"blesses\" them for use with the computer.",
+      "score": 274,
+      "created_utc": 1731509737.0,
+      "replies": [
+        {
+          "id": "lwxg9jx",
+          "author": "LBPPlayer7",
+          "body": "this seems to just be a NAND chip slapped onto a board with an edge connector, so simply figuring out the pin layout and manufacturing PCBs to that spec should be enough to make 3rd party upgrades",
+          "score": 121,
+          "created_utc": 1731511657.0,
+          "replies": [
+            {
+              "id": "lwxr01s",
+              "author": "zorn_",
+              "body": "Exactly- one of the options they have is basically a blank insert and anyone comfortable with soldering can absolutely just solder storage chips onto it.",
+              "score": 43,
+              "created_utc": 1731515028.0,
+              "replies": [
+                {
+                  "id": "lwy19jn",
+                  "author": "RazingsIsNotHomeNow",
+                  "body": "I'm pretty dang comfortable with soldering and have done some pretty technical reworks at work. SMD soldering Nand chips is definitely a level above just comfortable. SMD work can be quite intimidating especially without specialized tools.",
+                  "score": 43,
+                  "created_utc": 1731518152.0,
+                  "replies": [
+                    {
+                      "id": "lwy5ndv",
+                      "author": "down1nit",
+                      "body": "Oh but I love reballing pads with 0.025mm solder balls! \n\nSanta please bring me a SMD Rework Station 2-in-1 IR Temperature Controlled w/ PRE Heater incl. Warranty 2024 Version for christmas",
+                      "score": 30,
+                      "created_utc": 1731519481.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwy6w7t",
+                      "author": "ar311krypton",
+                      "body": "you shoudl watch dosdude1's video: [https://www.youtube.com/watch?v=cJPXLE9uPr8](https://www.youtube.com/watch?v=cJPXLE9uPr8)\n\n  \nhe upgrades a base M4 Mini that has 256GB to 512GB",
+                      "score": 9,
+                      "created_utc": 1731519859.0,
+                      "replies": [
+                        {
+                          "id": "lwzbc9t",
+                          "author": "Thanges88",
+                          "body": "He was aiming for 1TB but one of the chips didn't work. (That first chip looked a bit off kilter.)",
+                          "score": 6,
+                          "created_utc": 1731532121.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lx2mmmd",
+                      "author": "scene_missing",
+                      "body": "Dosdude1 on YouTube just does it like it\u2019s routine and makes the rest if us look bad lol",
+                      "score": 2,
+                      "created_utc": 1731584675.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwym2xn",
+                      "author": "Plank_With_A_Nail_In",
+                      "body": "SMD soldering is easy just takes a little practice like anything else in life.",
+                      "score": -7,
+                      "created_utc": 1731524425.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lx0vxum",
+              "author": "rtkwe2",
+              "body": "So long as it's compatible with the controller Apple baked into the SoC and in a config it recognizes. IIRC when people tried putting in two mismatched NAND cards in the previous version it refused to work.",
+              "score": 3,
+              "created_utc": 1731551280.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lwylxlv",
+          "author": "BrokenPickle7",
+          "body": "blessOverride",
+          "score": 2,
+          "created_utc": 1731524381.0,
+          "replies": []
+        },
+        {
+          "id": "lx1x6fu",
+          "author": "Shedding_microfiber",
+          "body": ">bless them for use with the computer\n\nBless them for use with another mac using recovery/dfu mode, a specific image/file and using a specific port.\n\nSource: watch dosdude1",
+          "score": 1,
+          "created_utc": 1731568305.0,
+          "replies": []
+        },
+        {
+          "id": "lx2ejfe",
+          "author": "Puzzled_Scallion5392",
+          "body": "so You are telling us that Apple fucks their customers as usual?",
+          "score": 1,
+          "created_utc": 1731579860.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwx9mec",
+      "author": "4-3-4",
+      "body": "Perhaps Not relevant for new buyers, but on the long term these minis are not stuck on their config if people want to upgrade these. hopefully third party modules will come out.",
+      "score": 53,
+      "created_utc": 1731509452.0,
+      "replies": [
+        {
+          "id": "lwxnk7e",
+          "author": "kclongest",
+          "body": "The Mac Mini is a fairly popular device. I imagine if there is a demand (and we all know there is), there will be a healthy market of third party SSD's.",
+          "score": 28,
+          "created_utc": 1731513957.0,
+          "replies": []
+        },
+        {
+          "id": "lwzedyh",
+          "author": "beefwarrior",
+          "body": "Any chance for RAM upgrades too?",
+          "score": 3,
+          "created_utc": 1731533031.0,
+          "replies": [
+            {
+              "id": "lx47gt2",
+              "author": "Halvus_I",
+              "body": "No, those are directly on the cpu die.",
+              "score": 4,
+              "created_utc": 1731605190.0,
+              "replies": []
+            },
+            {
+              "id": "lwzz5bt",
+              "author": "Magnum_Dong_Frank",
+              "body": "Nope. The RAM is soldered to the motherboard right beside the chip set.",
+              "score": 1,
+              "created_utc": 1731539658.0,
+              "replies": [
+                {
+                  "id": "lx11yb6",
+                  "author": "Altruistic_Affect_84",
+                  "body": "I think it\u2019s on the chip?",
+                  "score": 2,
+                  "created_utc": 1731553477.0,
+                  "replies": []
+                },
+                {
+                  "id": "lx2g7f3",
+                  "author": "andi052",
+                  "body": "Incorrect. It\u2018s on the chip package.",
+                  "score": 2,
+                  "created_utc": 1731580936.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lxrf7y5",
+          "author": "pinkynarftroz",
+          "body": "Realistically, 99% of people are just going to buy external SSDs to expand their storage. It\u2019s cool that you can theoretically expand the internal storage, but external storage seems way cheaper and more convenient.",
+          "score": 1,
+          "created_utc": 1731940885.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwxiffk",
+      "author": "HeadAche2012",
+      "body": "Someone will make custom Apple nvme\u2019s in time. PCB can\u2019t be that complicated without a controller",
+      "score": 31,
+      "created_utc": 1731512350.0,
+      "replies": [
+        {
+          "id": "lwz68nf",
+          "author": "mBertin",
+          "body": "The Studio boards have already been reverse-engineered, and the same team is now working on the Mac Mini.",
+          "score": 17,
+          "created_utc": 1731530594.0,
+          "replies": []
+        },
+        {
+          "id": "lx2enjd",
+          "author": "Puzzled_Scallion5392",
+          "body": "yeah, wait till Apple introduce \"special antitheft\" protection so your custom chips will be disabled by OS \ud83e\udd2b",
+          "score": 2,
+          "created_utc": 1731579935.0,
+          "replies": []
+        },
+        {
+          "id": "lwynddd",
+          "author": "JTibbs",
+          "body": "Problem is the stick pairs with the memory controller built into the processor. Without Apples proprietary tools you cant re-pair a new larger capacity stick.",
+          "score": -5,
+          "created_utc": 1731524817.0,
+          "replies": [
+            {
+              "id": "lx2138c",
+              "author": "UnsafestSpace",
+              "body": "\u201cProprietary tools\u201d - You just need another Mac, a USB cable and to install Apple Configurator from the App Store\n\nIt\u2019s not street consumer friendly but it\u2019s definitely easy for the average techie or enthusiast to",
+              "score": 2,
+              "created_utc": 1731570788.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwxgp0f",
+      "author": "Deckard2022",
+      "body": "Some sort of adaptor for the port",
+      "score": 5,
+      "created_utc": 1731511794.0,
+      "replies": []
+    },
+    {
+      "id": "lwx6i5k",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 51,
+      "created_utc": 1731508365.0,
+      "replies": [
+        {
+          "id": "lwxbmaa",
+          "author": "monoseanism",
+          "body": "No, not locked out. The SSD controller is built into the SOC, so these are just NAND chips on a proprietary board. There's already a few different companies working on upgrades.",
+          "score": 67,
+          "created_utc": 1731510130.0,
+          "replies": []
+        },
+        {
+          "id": "lwx6pny",
+          "author": "mountainyoo",
+          "body": "People already have replaced it. Still requires soldering and shit so not exactly user friendly",
+          "score": 44,
+          "created_utc": 1731508440.0,
+          "replies": [
+            {
+              "id": "lwxf5dd",
+              "author": "kamilo87",
+              "body": "It\u2019s very difficult and the NANDs required aren\u2019t cheap. (Cheap if you compare them to Apple) but if you mess them\u2026",
+              "score": 12,
+              "created_utc": 1731511295.0,
+              "replies": [
+                {
+                  "id": "lwymhm3",
+                  "author": "Plank_With_A_Nail_In",
+                  "body": "Its not very difficult with a little practice anyone apart from the severely disabled can learn to do it. You are right though the cost saving isn't that much and NAND isn't a good place to start practicing lol.",
+                  "score": -3,
+                  "created_utc": 1731524549.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lwxvzun",
+              "author": "its_an_armoire",
+              "body": "It's good there's an option but sounds out of reach for 90% of its typical userbase",
+              "score": 1,
+              "created_utc": 1731516551.0,
+              "replies": [
+                {
+                  "id": "lwy15r6",
+                  "author": "JukePlz",
+                  "body": "If there's no weird firmware lock-in like in their phone parts it's just a matter of time before someone starts selling SSDs made for these. Then the typical customer will be able to just swap those without any soldering.",
+                  "score": 6,
+                  "created_utc": 1731518120.0,
+                  "replies": []
+                },
+                {
+                  "id": "lwyjs6z",
+                  "author": "SquanchMcSquanchFace",
+                  "body": "I honestly can\u2019t understand why you think it could/should/would be. As tech gets more and more complicated, this will be a fact that repairs is out of most people\u2019s knowledge base. \n\nBut that\u2019s also been true for a long time with any technology. You think more than 10% of people have the tools/skill/resources to rebuild a carburetor? More than 10% of people could fix a watch mechanism on their own? More than 10% of people could replace a drive belt on an engine? Technology has been too complicated for the average person for a long long time.",
+                  "score": 2,
+                  "created_utc": 1731523739.0,
+                  "replies": [
+                    {
+                      "id": "lx47tv2",
+                      "author": "Halvus_I",
+                      "body": "Jfc, the PS5 comes with a user-upgradeable nvme slot. Its not that hard.",
+                      "score": 2,
+                      "created_utc": 1731605300.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "lwymm56",
+                      "author": "its_an_armoire",
+                      "body": "I'm not sure why you think it's so unreasonable? Replacing/upgrading SSDs is an extremely common PC feature, it's out of the norm for them *not* to be replaceable. Your examples require expert knowledge or specialized training and tools.",
+                      "score": -1,
+                      "created_utc": 1731524588.0,
+                      "replies": [
+                        {
+                          "id": "lwyo7kk",
+                          "author": "SquanchMcSquanchFace",
+                          "body": "Because you\u2019re out of touch with the reality of how dumb people are. Replacing an SSD on a PC is out of 90% of people\u2019s knowledge base alone, which is my point. Replacing anything in anything is out of 90% of people\u2019s ability.\n\nI guarantee you could do a poll and more than 90% of people would come back saying they\u2019ve never done replaced a HD or SSD, and probably wouldn\u2019t do it themselves if they needed it. 90% of people wouldn\u2019t even know why they would need to replace the SSD in the first place, and I bet half of them wouldn\u2019t even know what an SSD is. This *is* specialized knowledge with specialized tools. Computers are infinitely more complicated and technologically complex than anything I mentioned. Replacing a drive belt is specialized but an SSD isn\u2019t? Give me a break. \n\nIf this is true for 90% of people, then it\u2019s true for 90% of consumers. This is perfectly replaceable by anyone in that 10%, and for everyone else they don\u2019t need to worry about it being slightly easier because they aren\u2019t going to do it anyways.",
+                          "score": 1,
+                          "created_utc": 1731525070.0,
+                          "replies": [
+                            {
+                              "id": "lwyp98k",
+                              "author": "its_an_armoire",
+                              "body": "I'd argue that *you're* the one out of touch. On my PC, it would take 10 minutes of YouTube research, opening a panel, and toollessly replacing an SSD in 5 minutes. It's possible that a user would need to know how to operate a Phillips-head screwdriver.\n\nRebuilding a carburetor, a watch, or replacing a timing belt are *so far off* as equivalent examples, if you don't see that immediately, I don't think we'll ever see eye to eye.",
+                              "score": -3,
+                              "created_utc": 1731525389.0,
+                              "replies": [
+                                {
+                                  "id": "lwys6ai",
+                                  "author": "SquanchMcSquanchFace",
+                                  "body": "5 minutes of research and you can replace a drive belt, doesn\u2019t change anything I said. And yes, if you think that, or watches, or whatever is specialized but computers aren\u2019t, then you\u2019re out of touch with factual reality. \n\nEither way, everything I said stands. Replacing anything in anything will require skills and tools that 90% of people don\u2019t have already. Computers are no different, and expecting this level of technology to be so is ridiculous.",
+                                  "score": 1,
+                                  "created_utc": 1731526274.0,
+                                  "replies": [
+                                    {
+                                      "id": "lwystmk",
+                                      "author": "its_an_armoire",
+                                      "body": "I've actually replaced the serpentine belt on my Honda with a buddy, *it doesn't take 5 minutes of research.* Even the process of disassembling the wheel well to access the side of the engine, using a breaker bar to loosen the tensioner pulley, etc., it's only for the serious DIYer. You are way out of touch, man. People motivated to save money will do some YouTube research for a simple SSD replacement (on PC that is, not Macs).",
+                                      "score": 1,
+                                      "created_utc": 1731526472.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwxdmnd",
+          "author": "nicuramar",
+          "body": "Incorrect. iFixIt swapped it out for a module of a different size and configured it.\u00a0",
+          "score": 13,
+          "created_utc": 1731510801.0,
+          "replies": []
+        },
+        {
+          "id": "lwxgqfl",
+          "author": "imetators",
+          "body": "1. Yes. It's software locked. They put controller on the ssd and paired it with hardware.\n\n2. You can't still replace one yourself even if you rip one out of another Mac mini with the same or lower/higher capacity due to hardware pairing. Even if you literally can take an ssd out of a proprietary slot, they won't let you to change it.\n\nFor whom do voting me: [this is how you can do a replacement](https://www.reddit.com/r/apple/s/uqdkaBtqga) if you are skilled enough.",
+          "score": -23,
+          "created_utc": 1731511807.0,
+          "replies": [
+            {
+              "id": "lwxnb6a",
+              "author": "kclongest",
+              "body": "Why are you spouting false information?",
+              "score": 2,
+              "created_utc": 1731513879.0,
+              "replies": [
+                {
+                  "id": "lwxonma",
+                  "author": "imetators",
+                  "body": "[AFAIK this is how it works](https://www.reddit.com/r/apple/s/uqdkaBtqga)",
+                  "score": -3,
+                  "created_utc": 1731514298.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lwxynor",
+              "author": "kiler129",
+              "body": "You realize that even iFixIt said they swapped SSDs between two units and it works after you initialize it with configurator? People are downvoting you because what you're saying is false - it's not a software lock, it's just a reconfig...",
+              "score": 1,
+              "created_utc": 1731517360.0,
+              "replies": [
+                {
+                  "id": "lwy041r",
+                  "author": "imetators",
+                  "body": "The link in the post has no info about it. It literally just says \"replaceable ssd\" but does not mention they swapped it.",
+                  "score": 1,
+                  "created_utc": 1731517803.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwx6mzj",
+      "author": "Vaestmannaeyjar",
+      "body": "To be fair, with an external USBC drive the performance is much better than it was in 2010. I'm pretty sure docks with additional ports and an NVMe slot are going to be released soon, there are plenty for the previous versions.",
+      "score": 17,
+      "created_utc": 1731508414.0,
+      "replies": [
+        {
+          "id": "lwxh7pe",
+          "author": "ok_if_you_say_so",
+          "body": "I just got one of these M4 mac minis as well as samsung t9 which itself claims up to 2000MB/s. Using blackmagic disk speed test I notice the built-in drive is about twice as fast as the USBC (thunderbolt 4) SSD.\n\nDefinitely fast enough to do 4k video editing work on, which is overall amazing for a $550 machine + $280 SSD. Super snappy machine and basically small enough to carry anywhere I want as long as there's a TV and I bring a trackpad and keyboard",
+          "score": 13,
+          "created_utc": 1731511962.0,
+          "replies": [
+            {
+              "id": "lwzareh",
+              "author": "BestieJules",
+              "body": "These drives are stupid fast which is why both the Mac and PS5 use them. This is the most repairable and upgradable device using this style of SSD too so it\u2019s an absolute win even if most people don\u2019t have the skills to do it.",
+              "score": 2,
+              "created_utc": 1731531948.0,
+              "replies": []
+            },
+            {
+              "id": "lx527aq",
+              "author": "BlKKK_SKKKN_HEAD2",
+              "body": "It really is so cool, it\u2019s tempting me to wanna try out macOS.",
+              "score": 1,
+              "created_utc": 1731614535.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lwx7eh4",
+          "author": "Mouse_Canoe",
+          "body": "Yeah but when the internal drive croaks so does the entire machine if you can't replace it.",
+          "score": 5,
+          "created_utc": 1731508685.0,
+          "replies": [
+            {
+              "id": "lwxdwf8",
+              "author": "nicuramar",
+              "body": "But it can be replaced. Especially for repairs.\u00a0",
+              "score": 18,
+              "created_utc": 1731510889.0,
+              "replies": []
+            },
+            {
+              "id": "lwxdns0",
+              "author": "saraseitor",
+              "body": "I'm on your side but being devil's advocate, you can still boot from an external USB or thunderbolt drive so it shouldn't mean the end for the device. And SSD death can take a really really long time.",
+              "score": 14,
+              "created_utc": 1731510811.0,
+              "replies": []
+            },
+            {
+              "id": "lwydy7i",
+              "author": "dapala1",
+              "body": "Can't you boot from an external drive?",
+              "score": 5,
+              "created_utc": 1731521989.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lwxs88f",
+          "author": "JQuilty",
+          "body": "Yeah, but it'd also be easy for Apple to just use a standard nvme slot. External drives can get unplugged and can have additional power requirements.",
+          "score": -2,
+          "created_utc": 1731515405.0,
+          "replies": [
+            {
+              "id": "lwy84n0",
+              "author": "ar311krypton",
+              "body": "ehh idk...as it currently stands, the entire M series has the SSD controller on the actual SoC and there is memory is just system memory shared by the CPU, GPU, Storage, etc....in theory the SSD controller and shared memory being on the SoC provides a speed benefit..but I'm sympathetic to those that say they shoud have sacrificed a bit of storage speed for better compatibilty",
+              "score": 4,
+              "created_utc": 1731520231.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lx23o4p",
+      "author": "amoral_ponder",
+      "body": "The Chinese will make it. Check AliExpress in six months.",
+      "score": 4,
+      "created_utc": 1731572486.0,
+      "replies": []
+    },
+    {
+      "id": "lwx5thh",
+      "author": "Jarardian",
+      "body": "They\u2019ve done this before. It\u2019s still not user upgradable from my understanding, so no.",
+      "score": 30,
+      "created_utc": 1731508121.0,
+      "replies": [
+        {
+          "id": "lwx6648",
+          "author": "drdaz",
+          "body": "People are selling unofficial upgrade kits for the Studio where they did this before.\n\nAnd it looks like this time, they didn't make any attempt at all to lock the SSD to the device.",
+          "score": 34,
+          "created_utc": 1731508246.0,
+          "replies": []
+        },
+        {
+          "id": "lwxfkgm",
+          "author": "sourceholder",
+          "body": "They probably made the SSD removable only to simplify SKU stocking.\n\nThis is a logistics optimization to reduce operations cost.",
+          "score": 14,
+          "created_utc": 1731511432.0,
+          "replies": [
+            {
+              "id": "lwyaa59",
+              "author": "cmf5",
+              "body": "At this point you\u2019d also expect them to break out the Ethernet port, since the 10 gig lan option doubles their required motherboard skus from 9 to 18 (I don\u2019t even want to know what the permutations would work out to be with all soldered nand options)",
+              "score": 3,
+              "created_utc": 1731520876.0,
+              "replies": []
+            },
+            {
+              "id": "lwxo9i5",
+              "author": "PARADISE_VALLEY_1975",
+              "body": "Honestly could we have expected any other reasoning for it lol",
+              "score": 5,
+              "created_utc": 1731514175.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwzu3dc",
+      "author": "SaiyanRajat",
+      "body": "EU should step in and block this proprietary Apple bullshit when there are better consumer SSDs for cheaper.",
+      "score": 4,
+      "created_utc": 1731537954.0,
+      "replies": [
+        {
+          "id": "lx0hpt5",
+          "author": "Infamous_Process5558",
+          "body": "Thry need to step in for many things, not just this. Honestly baffles me how companies get so much freedom in controlling the markets.",
+          "score": 2,
+          "created_utc": 1731546181.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lx2skhb",
+      "author": "haahaahaa",
+      "body": "Its a cut down Mac Studio instead of a Macbook without a screen.  Its still not user replaceable, so its irrelevant.",
+      "score": 2,
+      "created_utc": 1731587610.0,
+      "replies": []
+    },
+    {
+      "id": "lwx6q4s",
+      "author": "skeetleet",
+      "body": "Isn\u2019t it still soldered if you have to reball the replacement chips?",
+      "score": 3,
+      "created_utc": 1731508445.0,
+      "replies": []
+    },
+    {
+      "id": "lwy4q4c",
+      "author": "TheModeratorWrangler",
+      "body": "So many people being upset it\u2019s proprietary but why did you buy Apple to begin with?\n\nHOW GOOD THEIR PROPRIETARY SHIT IS.\n\nCalm it down peasants and make sure you pay off that monthly device bill because it\u2019s American to spend the bank\u2019s money.\n\nSaid as a proud American.\n\nFuck Apple for at least making a step in the right direction.",
+      "score": 4,
+      "created_utc": 1731519200.0,
+      "replies": [
+        {
+          "id": "lwymnoo",
+          "author": "Plank_With_A_Nail_In",
+          "body": "Its just concern trolling, no one here bought one and those that did do not give a shit about any of this.",
+          "score": 5,
+          "created_utc": 1731524600.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwy0xyc",
+      "author": "Metaclueless",
+      "body": "Admittedly the 2010\u2019s were a great time for partying.",
+      "score": 1,
+      "created_utc": 1731518055.0,
+      "replies": []
+    },
+    {
+      "id": "lwy1qog",
+      "author": "FacepalmFullONapalm",
+      "body": "More like 2013-2017. 2012 and you could still buy standard drives for your mac.",
+      "score": 1,
+      "created_utc": 1731518296.0,
+      "replies": []
+    },
+    {
+      "id": "lwyct6w",
+      "author": "dexterthekilla",
+      "body": "This is an advanced operation",
+      "score": 1,
+      "created_utc": 1731521646.0,
+      "replies": []
+    },
+    {
+      "id": "lwzsy07",
+      "author": "ValourLionheart",
+      "body": "Cool. Now do the Macbook Pro next. It is thick enough to accommodate the storage units",
+      "score": 1,
+      "created_utc": 1731537579.0,
+      "replies": []
+    },
+    {
+      "id": "lx0ksqv",
+      "author": "Its_Number_Wang",
+      "body": "Where can you even find the actual upgrade chips aside from Apple itself?",
+      "score": 1,
+      "created_utc": 1731547290.0,
+      "replies": []
+    },
+    {
+      "id": "lx0xau8",
+      "author": "specsthadec",
+      "body": "so the potential for upgrading is there, but Apple needs to essentially sell the upgrade? The article says it\u2019s a proprietary SSD.",
+      "score": 1,
+      "created_utc": 1731551774.0,
+      "replies": [
+        {
+          "id": "lx2luyw",
+          "author": "jnmjnmjnm",
+          "body": "OWC and the like will likely have something soon.",
+          "score": 2,
+          "created_utc": 1731584264.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lx1wma5",
+      "author": "DivergentMoon",
+      "body": "This guy already did it. \n\nhttps://m.youtube.com/watch?v=cJPXLE9uPr8",
+      "score": 1,
+      "created_utc": 1731567957.0,
+      "replies": []
+    },
+    {
+      "id": "lx3awfi",
+      "author": "_Undivided_",
+      "body": ">Time to party like its 2010?\n\nNope - time for you to do better research.",
+      "score": 1,
+      "created_utc": 1731594834.0,
+      "replies": []
+    },
+    {
+      "id": "lwz4m3j",
+      "author": "muteen",
+      "body": "Apple is straight up anti consumer, just watch some Louis Rossman videos and you'll know why",
+      "score": 2,
+      "created_utc": 1731530100.0,
+      "replies": [
+        {
+          "id": "lx1upoh",
+          "author": "Ut0pianColt",
+          "body": "You\u2019re being downvoted because these brainwashed sheep will defend corporate entities over real people.",
+          "score": 5,
+          "created_utc": 1731566821.0,
+          "replies": []
+        },
+        {
+          "id": "lxkbn48",
+          "author": "Malodoror",
+          "body": "It\u2019s a cult. Perfect for America.",
+          "score": 2,
+          "created_utc": 1731830099.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lx05cr2",
+      "author": "None",
+      "body": "[removed]",
+      "score": 1,
+      "created_utc": 1731541823.0,
+      "replies": [
+        {
+          "id": "lx1cw53",
+          "author": "kwinz",
+          "body": "I am 100% on your side when it comes to consumer protection. There is no reason the WiFi chip should be soldered and serialized for example. Yet alone without giving you the encryption keys and serialization tool when you buy the machine. Once you buy the machine you are the owner and you should have the keys, not the manufacturer. And I have no sympathy for all the Windows laptops of the last 3 years that are only available with soldered RAM.\n\nBUT this case is special. Integrating the RAM with the CPU like Apple does is giving you lower power use that you can't get with socketed DIMM RAM.\n\nWhat's ridiculous is the price Apple is charging for more RAM.",
+          "score": 1,
+          "created_utc": 1731557819.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwy5rg7",
+      "author": "dramafan1",
+      "body": "It\u2019s not new that Apple solders chips but I guess people thought a complete redesign would provide a slim chance that the SSD could be replaceable, and now that it\u2019s confirmed it\u2019s not really user replaceable by the average tech user, people are upset about it\u2026talk about creating complaints out of thin air. \ud83d\ude02",
+      "score": 0,
+      "created_utc": 1731519516.0,
+      "replies": []
+    },
+    {
+      "id": "lx1soxx",
+      "author": "Initial-Hawk-1161",
+      "body": "> score of 7 out of 10, which seems a little on the high side considering the RAM remains soldered to the board and the SSD is a proprietary Apple format.\n\nwritten by a fool\n\nthe ram is part of the cpu, so of course it aint upgradable...\n\nand the 'ssd' is not an ssd\n\nthe storage chip is \"replacable\"\n\nthe controller is inside the cpu.",
+      "score": 0,
+      "created_utc": 1731565642.0,
+      "replies": []
+    },
+    {
+      "id": "lwxty3l",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 0,
+      "created_utc": 1731515931.0,
+      "replies": [
+        {
+          "id": "lwy2zqb",
+          "author": "__theoneandonly",
+          "body": "Every Mac comes with 16 GB of RAM at the base-level now. That\u2019s the same as a PS5, and 4x what you get in a Switch lol",
+          "score": 3,
+          "created_utc": 1731518676.0,
+          "replies": [
+            {
+              "id": "lwya072",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 0,
+              "created_utc": 1731520794.0,
+              "replies": [
+                {
+                  "id": "lwyhk35",
+                  "author": "homanagent",
+                  "body": "If you're doing game development, perhaps the base model isn't what you should be buying.",
+                  "score": 3,
+                  "created_utc": 1731523075.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lwxyw70",
+          "author": "thatthouart",
+          "body": "I suppose, but I'll at least celebrate that the base has gone from 8GB to 16GB without a price increase...at least for a while :)",
+          "score": 1,
+          "created_utc": 1731517432.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lwzn5vo",
+      "author": "TheMacMan",
+      "body": "Reality is that less than 1% of buyers will ever choose to replace their storage. Most will never care if storage is replaceable or not.",
+      "score": 0,
+      "created_utc": 1731535721.0,
+      "replies": []
+    },
+    {
+      "id": "lwz7o00",
+      "author": "SafeModeOff",
+      "body": "Wow, one (very small) step closer towards the (bare minimum) standard that apple tried to be better than! It's almost like HDMI on the macbook pro all over again",
+      "score": -1,
+      "created_utc": 1731531022.0,
+      "replies": []
+    },
+    {
+      "id": "lwzukd7",
+      "author": "firedrakes",
+      "body": "# iFixit teardown finds a removable SSD iFixit teardown finds a removable SSD\n\ndays lates news.......",
+      "score": 0,
+      "created_utc": 1731538110.0,
+      "replies": []
+    },
+    {
+      "id": "lx1175r",
+      "author": "Illustrious_Camp_496",
+      "body": "Easier for NSA to take SSD without phone.",
+      "score": 0,
+      "created_utc": 1731553199.0,
+      "replies": []
+    },
+    {
+      "id": "lx20wjr",
+      "author": "jgriesshaber",
+      "body": "Thunderbolt 4 ports right? Cant find fast enough external storage? Really?",
+      "score": 0,
+      "created_utc": 1731570668.0,
+      "replies": []
+    },
+    {
+      "id": "lwxcwoj",
+      "author": "fnv_fan",
+      "body": "Apple moment",
+      "score": -5,
+      "created_utc": 1731510562.0,
+      "replies": []
+    },
+    {
+      "id": "lwyrsy2",
+      "author": "paid_poster_7393628",
+      "body": "This is the kind of thing that stopped me buying any apple products long ago",
+      "score": -2,
+      "created_utc": 1731526161.0,
+      "replies": []
+    },
+    {
+      "id": "lwyc2tr",
+      "author": "GalacticBagel",
+      "body": "You can easily just the solder memory chips off and solder new chips on top of it",
+      "score": -8,
+      "created_utc": 1731521421.0,
+      "replies": [
+        {
+          "id": "lwyfckm",
+          "author": "iiiinthecomputer",
+          "body": "\"easily\"\n\nHave you ever done BGA surface mount rework?\n\n*Especially* without a specialised SMT rework station?",
+          "score": 8,
+          "created_utc": 1731522411.0,
+          "replies": [
+            {
+              "id": "lwyplks",
+              "author": "GalacticBagel",
+              "body": "how hard can it be?",
+              "score": -7,
+              "created_utc": 1731525491.0,
+              "replies": [
+                {
+                  "id": "lwywxkn",
+                  "author": "iiiinthecomputer",
+                  "body": "To remove the existing chips cleanly, prepare the surface and re-solder a *reliable* connection first time? Without damaging the board or expensive new NAND chips?\n\nWorking with a heat gun, domestic oven etc... quite. Quite hard indeed. Especially for the numerous tiny solder joints.\n\nThis isn't something you just desolder with an iron and solder sucker.\n\n(Edit: IDK why people are downvoting you, though)",
+                  "score": 3,
+                  "created_utc": 1731527710.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lwxoskt",
+      "author": "dtrav001",
+      "body": "When my ancient PC died in 2015, I decided to leap across the great divide and go with an iMac. I liked the all-in-one portablity, and the Retina screen was big, bright and incredibly detailed.\n\nWait, WTF? Non-upgradeable, soldered-in RAM and drives? I realized immediately, this is another Apple profit-ploy, get you to buy the maxed-out machine upfront, because you can't improve it downstream. Always thinkin', you guys.\n\nEDIT: Well, now that the downvote brigade has done their usual dance, let me say I've been very happy with this machine, one of the more reliable and long-lived computers I've owned, in a lot of years of owning computers. There, I said it.",
+      "score": -9,
+      "created_utc": 1731514341.0,
+      "replies": []
+    }
+  ]
+}

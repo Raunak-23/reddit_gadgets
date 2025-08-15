@@ -1,0 +1,49 @@
+metric,value
+file,1kl3lxz.csv
+title,"Apple considers raising iPhone prices, WSJ reports"
+rows,180
+num_posts,1
+num_comments,179
+unique_authors,135
+max_depth,11
+avg_comment_words,42.77
+median_comment_words,30.0
+max_comment_words,245
+positive_count,24
+negative_count,155
+neutral_count,0
+positive_pct,13.408
+negative_pct,86.592
+neutral_pct,0.0
+topic_1_keywords,"apple, new, money, years, phones, still, like, longer"
+topic_1_label,Apple is still a good choice for new phones
+topic_2_keywords,"iphone, phone, years, new, year, prices, dont, pro"
+topic_2_label,"iPhone, phone, new, pro, price"
+topic_3_keywords,"tariffs, us, go, companies, apple, price, buy, dont"
+topic_3_label,tariffs for apple and us go
+topic_4_keywords,"apple, billion, phone, cash, tech, without, replace, cant"
+topic_4_label,Apple has billions of phone numbers and no cash
+topic_5_keywords,"well, never, button, used, android, iphone, face, option"
+topic_5_label,Android 's not a button for the face
+topic_6_keywords,"battery, phone, pro, im, new, still, iphone, upgrade"
+topic_6_label,"battery, pro, iphone, update"
+top_ngram_1,buy new (14)
+top_ngram_2,battery life (14)
+top_ngram_3,15 pro (12)
+top_ngram_4,pro max (12)
+top_ngram_5,dont need (10)
+top_ngram_6,new phone (10)
+top_ngram_7,iphone 12 (10)
+top_ngram_8,16 pro (10)
+top_ngram_9,need buy (9)
+top_ngram_10,dont need buy (9)
+ner_1,Apple|ORG|53
+ner_2,iPhone|MISC|40
+ner_3,US|LOC|17
+ner_4,Pro|MISC|12
+ner_5,American|MISC|10
+ner_6,iPhone X|MISC|10
+ner_7,iOS|MISC|10
+ner_8,Android|MISC|9
+ner_9,iPhone 12|MISC|7
+ner_10,Trump|PER|6

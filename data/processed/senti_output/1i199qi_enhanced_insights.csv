@@ -1,0 +1,49 @@
+metric,value
+file,1i199qi.csv
+title,"Dremel put a stud sensor and laser level into its new multipurpose drill | The Blueprint Multi-Drill is designed for smaller DIY projects like mounting shelves, hanging artwork, or assembling furniture."
+rows,41
+num_posts,1
+num_comments,40
+unique_authors,38
+max_depth,4
+avg_comment_words,51.02
+median_comment_words,26.0
+max_comment_words,188
+positive_count,8
+negative_count,32
+neutral_count,0
+positive_pct,20.0
+negative_pct,80.0
+neutral_pct,0.0
+topic_1_keywords,"stud, drill, finder, like, someone, driver, really, people"
+topic_1_label,stud drills like a driver
+topic_2_keywords,"needs, loop, lot, end, lost, must, weight, close"
+topic_2_label,a loop and a lot of weight
+topic_3_keywords,"murder, get, together, cook, two, made, never, tool"
+topic_3_label,a tool for murder
+topic_4_keywords,"tools, one, stud, though, might, actually, handy, people"
+topic_4_label,studs are useful for people
+topic_5_keywords,"like, little, tools, device, seems, belt, neat, drilling"
+topic_5_label,A little tool likes a belt and drills
+topic_6_keywords,"location, studs, sensor, furniture, anchor, shelf, best, magnet"
+topic_6_label,magnets anchor shelves
+top_ngram_1,stud finder (15)
+top_ngram_2,neat little (13)
+top_ngram_3,seems like (11)
+top_ngram_4,like neat (11)
+top_ngram_5,little device (11)
+top_ngram_6,device drilling (11)
+top_ngram_7,drilling belt (11)
+top_ngram_8,belt wall (11)
+top_ngram_9,seems like neat (11)
+top_ngram_10,like neat little (11)
+ner_1,##el|ORG|4
+ner_2,Drem|MISC|3
+ner_3,##d|ORG|2
+ner_4,##gi|MISC|2
+ner_5,Tim the Too|PER|2
+ner_6,Man Taylor|PER|2
+ner_7,##tor|ORG|1
+ner_8,Binford|PER|1
+ner_9,##l|MISC|1
+ner_10,##em|MISC|1

@@ -1,0 +1,49 @@
+metric,value
+file,1k73140.csv
+title,Nintendo Switch 2’s gameless Game-Key cards are going to be very common
+rows,540
+num_posts,1
+num_comments,539
+unique_authors,333
+max_depth,12
+avg_comment_words,70.04
+median_comment_words,58.0
+max_comment_words,458
+positive_count,60
+negative_count,479
+neutral_count,0
+positive_pct,11.132
+negative_pct,88.868
+neutral_pct,0.0
+topic_1_keywords,"games, game, nintendo, physical, switch, still, like, even"
+topic_1_label,Nintendo Switches Physical Switches
+topic_2_keywords,"game, key, games, card, physical, switch, play, buy"
+topic_2_label,"card game, card game, card game"
+topic_3_keywords,"nintendo, games, one, already, well, cartridge, cartridges, publishers"
+topic_3_label,"nintendo games, one, cartridges"
+topic_4_keywords,"game, games, digital, switch, developers, cards, thats, physical"
+topic_4_label,Switch games for digital players
+topic_5_keywords,"games, buy, one, 3ds, sd, dont, cards, aaa"
+topic_5_label,aaa cards buy one
+topic_6_keywords,"card, games, cards, switch, microsd, game, sd, dont"
+topic_6_label,"card game, card game, card game"
+top_ngram_1,physical media (50)
+top_ngram_2,sd card (48)
+top_ngram_3,key card (45)
+top_ngram_4,key cards (39)
+top_ngram_5,play games (35)
+top_ngram_6,physical games (33)
+top_ngram_7,physical copy (29)
+top_ngram_8,micro sd (29)
+top_ngram_9,game data (27)
+top_ngram_10,game card (26)
+ner_1,Nintendo|ORG|235
+ner_2,Switch 2|MISC|81
+ner_3,Switch|MISC|53
+ner_4,Steam|ORG|28
+ner_5,AAA|ORG|26
+ner_6,SD|MISC|22
+ner_7,DS|MISC|19
+ner_8,3DS|MISC|18
+ner_9,PC|MISC|16
+ner_10,##SD Express|MISC|16

@@ -1,0 +1,2307 @@
+{
+  "post": {
+    "title": "Microsoft and Asus announce two Xbox Ally handhelds with new Xbox full-screen experience",
+    "author": "None",
+    "id": "1l6hj0f",
+    "score": 2196,
+    "created_utc": 1749403228.0,
+    "selftext": "",
+    "num_comments": 280,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1l6hj0f/microsoft_and_asus_announce_two_xbox_ally/"
+  },
+  "comments": [
+    {
+      "id": "mwp11g3",
+      "author": "nguyenm",
+      "body": ">\u00a0Microsoft doesn\u2019t load the full Windows desktop or a bunch of background processes in this full-screen Xbox experience, putting Windows firmly in the background and freeing up more memory for games\n\nIt took decades, but at least Steam OS had finally pushed Microsoft to do what they didn't want for the longest time: inadvertently admit Windows 11 is unnecessarily bloated.",
+      "score": 1408,
+      "created_utc": 1749406205.0,
+      "replies": [
+        {
+          "id": "mwpezh3",
+          "author": "XalAtoh",
+          "body": "Microsoft always knew classic/legacy Win32 environment is bloated and chaotic.\n\nThey tried to move away from it with Windows 8, creating a streamlined consistent GUI/UX from ground up, but it was touchscreen focused and Microsoft made huge mistake by pushing it to everyone.. to people without touchscreen.. on desktop.\n\nThis time time it is different, only gaming handhelds get the new Xbox GUI.. not every PC/laptop, what they did with Windows 8.",
+          "score": 344,
+          "created_utc": 1749410394.0,
+          "replies": [
+            {
+              "id": "mwphteq",
+              "author": "totallynotdocweed",
+              "body": "Windows server 2012 is such garbage for including the tablet ui",
+              "score": 119,
+              "created_utc": 1749411275.0,
+              "replies": [
+                {
+                  "id": "mwt4524",
+                  "author": "Tecnoguy1",
+                  "body": "Yes we need an Xbox app on a server pinned automatically. Thank you Microsoft \ud83d\ude02",
+                  "score": 19,
+                  "created_utc": 1749465581.0,
+                  "replies": [
+                    {
+                      "id": "mwtmlrv",
+                      "author": "nagi603",
+                      "body": "You really should not run a server without the game bar app... you might miss recording your achievements!",
+                      "score": 12,
+                      "created_utc": 1749473423.0,
+                      "replies": [
+                        {
+                          "id": "mx00x6f",
+                          "author": "MeBeEric",
+                          "body": "ACHIEVEMENT UNLOCKED: Pushed to prod",
+                          "score": 3,
+                          "created_utc": 1749556079.0,
+                          "replies": [
+                            {
+                              "id": "mx04zpk",
+                              "author": "nagi603",
+                              "body": "Next steps in your achievement journey: \n\n- Pushed to prod on a Friday afternoon  \n- Pushed to prod on a Friday afternoon, *within 1 hour of clocking out.*",
+                              "score": 4,
+                              "created_utc": 1749557695.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwtmu9g",
+                          "author": "Tecnoguy1",
+                          "body": "We should just run task manager through game bar. Would improve the OS I think.",
+                          "score": 2,
+                          "created_utc": 1749473508.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwpw7rf",
+              "author": "NecroCannon",
+              "body": "They inadvertently killed nearly all main stream appeal of tablet PCs, outside of Reddit with the iPad Pro for some reason, I rarely see any desire to actually own one\n\n2-1s being shitty below $1000 kinda ruined that too, a massive amount of effort on a redesign, for something that has a hard time finding an audience",
+              "score": 57,
+              "created_utc": 1749415728.0,
+              "replies": [
+                {
+                  "id": "mwrz4ps",
+                  "author": "punIn10ded",
+                  "body": "Surface pros(and similar devices) are very popular in corporate spaces.",
+                  "score": 38,
+                  "created_utc": 1749442883.0,
+                  "replies": [
+                    {
+                      "id": "mwsmvwb",
+                      "author": "idontwanttofthisup",
+                      "body": "In companies that can\u2019t justify buying a stack o ipads. Everyone else is on ipads.",
+                      "score": -16,
+                      "created_utc": 1749455630.0,
+                      "replies": [
+                        {
+                          "id": "mwsv8lq",
+                          "author": "lainlives",
+                          "body": "ipads run windows?  Because you buy a surface tablet for windows, or linux maybe.",
+                          "score": 9,
+                          "created_utc": 1749460640.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwwpvhp",
+                          "author": "wagon153",
+                          "body": "Not going to lie, it would be less of a headache for us if we used Surfaces. At least then we could do all the software pushes to them with Configuration Manager like we do for all our other computers. Instead, we gotta go through Intune for them(our computers are not hybrid joined, so the only devices we manage through Intune are the iPads and byod devices)",
+                          "score": 1,
+                          "created_utc": 1749505776.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwqbor7",
+                  "author": "eldertortoise",
+                  "body": "The surface is very popular where I'm at",
+                  "score": 31,
+                  "created_utc": 1749420725.0,
+                  "replies": [
+                    {
+                      "id": "mwqxu5g",
+                      "author": "NecroCannon",
+                      "body": "Where are you at?",
+                      "score": 3,
+                      "created_utc": 1749428471.0,
+                      "replies": [
+                        {
+                          "id": "mwrdol2",
+                          "author": "USB-SOY",
+                          "body": "Delaware",
+                          "score": 9,
+                          "created_utc": 1749434212.0,
+                          "replies": [
+                            {
+                              "id": "mwrl3yw",
+                              "author": "NecroCannon",
+                              "body": "Hm. Maybe southerners prefer iPads lmao (Mississippi for one more month)",
+                              "score": -4,
+                              "created_utc": 1749436960.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwsfoly",
+                          "author": "eldertortoise",
+                          "body": "Europe",
+                          "score": 1,
+                          "created_utc": 1749451484.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwsev4o",
+                  "author": "dandroid126",
+                  "body": "I owned several tablet PCs. I lost interest because I realized that they're just not that useful of a form factor for general use. Use cases exist where they are useful, but the average person doesn't benefit much from them, and there have historically been a huge trade-off in regards to performance due to hardware being limited.",
+                  "score": 4,
+                  "created_utc": 1749451025.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwqwl2i",
+                  "author": "raynorelyp",
+                  "body": "Every girl I\u2019ve dated in a while wanted a windows surface for some reason. No, tablet windows is definitely something people want, but the price is 4x an equivalent iPad",
+                  "score": 8,
+                  "created_utc": 1749428012.0,
+                  "replies": [
+                    {
+                      "id": "mwqxt6p",
+                      "author": "NecroCannon",
+                      "body": "I mean every girl I meet absolutely loves my M4 Pro and wants an iPad I don\u2019t think girls are a good metric over the overall market, it\u2019s like if I based the popularity of iPhones overall off who\u2019s I see in the reflection for a mirror pic lmao. That tells me nothing",
+                      "score": -24,
+                      "created_utc": 1749428461.0,
+                      "replies": [
+                        {
+                          "id": "mwszlf8",
+                          "author": "ExtremeCreamTeam",
+                          "body": "How much is Tim Apple paying you to slob that Apple knob up and down this comment section? \n\nHoly moly.",
+                          "score": 4,
+                          "created_utc": 1749463148.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwqyeje",
+                          "author": "raynorelyp",
+                          "body": "Except you just said every girl you know likes one of the most popular CPU\u2019s in the world and one of the most popular devices in the world\u2026 and do you even realize you just implied literally half the world has invalid opinions?",
+                          "score": -12,
+                          "created_utc": 1749428679.0,
+                          "replies": [
+                            {
+                              "id": "mwqz6hd",
+                              "author": "byOlaf",
+                              "body": "Not half the world dude, just 52%",
+                              "score": 6,
+                              "created_utc": 1749428961.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mwqz280",
+                              "author": "NecroCannon",
+                              "body": "I said M4 because that\u2019s the iPad, first OLED iPad, big, bright, vibrant screen, of fucking course it\u2019s going to catch peoples attention.\n\n*you* are the one bringing up girls, I\u2019m just sharing my side of things and how that doesn\u2019t really say anything. You\u2019re kinda arguing with yourself right now.",
+                              "score": -2,
+                              "created_utc": 1749428918.0,
+                              "replies": [
+                                {
+                                  "id": "mwrvvaf",
+                                  "author": "raynorelyp",
+                                  "body": "I said it in the sense of every girl I dated wants a windows surface and you turned around and said girls (aka half the population) don\u2019t have valid opinions",
+                                  "score": 0,
+                                  "created_utc": 1749441396.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwrw8ss",
+                                      "author": "NecroCannon",
+                                      "body": "Mhm mhm",
+                                      "score": -6,
+                                      "created_utc": 1749441562.0,
+                                      "replies": [
+                                        {
+                                          "id": "mws4x96",
+                                          "author": "raynorelyp",
+                                          "body": "You can take that \u201cmhmm\u201ding sexist attitude right out the door",
+                                          "score": 3,
+                                          "created_utc": 1749445680.0,
+                                          "replies": [
+                                            {
+                                              "id": "mws5uzu",
+                                              "author": "NecroCannon",
+                                              "body": "Keep arguing with yourself for some reason lmao, I\u2019m just reading and verbally nodding.\n\nBut dunno what the hell you\u2019re going on about, I guess you didn\u2019t get the hint the first time, *you\u2019re fucking overthinking shit, no one knows what you\u2019re ranting about*",
+                                              "score": 0,
+                                              "created_utc": 1749446158.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mwsa9c2",
+                                                  "author": "raynorelyp",
+                                                  "body": "Saying women\u2019s opinions don\u2019t matter then saying \u201cbut I\u2019m not a sexist\u201d doesn\u2019t make you not a sexist",
+                                                  "score": 4,
+                                                  "created_utc": 1749448479.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwpkqpu",
+          "author": "Better-Train6953",
+          "body": "I think the head of Xbox complaining about how much ass Windows 11 was on his Ally and Legion Go, as well as MS Gaming becoming large enough to trade blows with Windows in terms of quarterly revenue following the completion of the ABK purchase gave them a lot more leeway in what they can demand from Windows. Then you add in Steam OS to show that it can in fact be done and there you go.",
+          "score": 46,
+          "created_utc": 1749412185.0,
+          "replies": []
+        },
+        {
+          "id": "mwpa55l",
+          "author": "Kinetic93",
+          "body": "I\u2019ll be looking forward to side by side comparisons of Vanilla W11 and this \u201cnew\u201d OS (would this be considered a fork or branch for lack of a better term?) in testing to see how much of the fat they\u2019ve been willing to trim. I\u2019m not optimistic, but it\u2019s *at least* a step in the right direction. My guess is they\u2019ll get rid of the more obvious, in-your-face bloat the average user recognizes, but the litany of background shit and excessive data collection is something I very much doubt MS will get rid of. Hell, if Edge stops opening up every fucking time it updates, despite not being my default browser at all, I\u2019ll give them half a point; a full point may even be in order for being able to remove Edge all together. \n\nIf there\u2019s anything outside of a negligible improvement (i.e. a few percent), whether it\u2019s memory, CPU load, total processes/services active, etc, I\u2019ll be shocked. I feel like something \u00e1 la TinyXP/Tiny7 (anyone remember those days?) is needed for there to be a noticeable difference. Whether that\u2019s something achieved by MS or the community depends entirely on how well MS delivers on this project.",
+          "score": 60,
+          "created_utc": 1749408922.0,
+          "replies": [
+            {
+              "id": "mwq9lrv",
+              "author": "ABetterKamahl1234",
+              "body": ">  I\u2019m not optimistic, but it\u2019s at least a step in the right direction.\n\nIt's likely the Xbox OS with some add-ons.\n\nWhich itself is a stripped down Windows OS IIRC. This is likely separating it from being a console exclusive OS.",
+              "score": 20,
+              "created_utc": 1749420019.0,
+              "replies": [
+                {
+                  "id": "mwqy3dd",
+                  "author": "NLight7",
+                  "body": "It is reported as being W11 with an Xbox app running on it with the console style navigation. So no, it is not the Xbox OS running on it.",
+                  "score": 11,
+                  "created_utc": 1749428565.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwqns5t",
+                  "author": "Fate_Creator",
+                  "body": "Xbox OS is a modified version of Windows Server.",
+                  "score": 8,
+                  "created_utc": 1749424889.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mxletzp",
+              "author": "Velgus",
+              "body": "> \u201cnew\u201d OS (would this be considered a fork or branch for lack of a better term?)\n\nFew days late replying to this, but it's not a \"new OS\" or fork or anything like that as far as I've understood from what I've read, but rather a mode that will be bootable. Likely something you can toggle on and off in the settings as something Windows 11 boots into, or you can manually enter it from the standard Windows 11 desktop.\n\nSo basically the same idea as SteamOS with its Gaming Mode vs. KDE Desktop.\n\nThey claim substantial resource improvements, but I'd take it with a grain of salt. It's likely just an extension of the already-existing Game Mode toggle in Windows, which claims to disable background apps when running a game, but doesn't really have much effect. \n\nThe bigger news is mostly just a fully supported controller-centric UX, whereas currently using controllers to navigate Windows is like pulling teeth.",
+              "score": 1,
+              "created_utc": 1749834370.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwpek5o",
+          "author": "bamila",
+          "body": "I hope there will be ways to actually install this on normal pcs",
+          "score": 16,
+          "created_utc": 1749410262.0,
+          "replies": [
+            {
+              "id": "mwpx2zc",
+              "author": "NecroCannon",
+              "body": "I just want a console PC at this point, like at these prices give me something with console usability, but I can still do school work on.\n\nIm pretty sure there\u2019s a good sized market for that considering that building a PC is a massive hurdle and the average person isn\u2019t going to know what a 4060 even is, but is interested probably because of streamers and lets plays. Or people like me, where I\u2019m not into gaming enough to justify spending $1k+ on something just to future proof for a generation.",
+              "score": 13,
+              "created_utc": 1749416001.0,
+              "replies": [
+                {
+                  "id": "mwpzx79",
+                  "author": "Minukaro",
+                  "body": "Steam machine came out a decade too early",
+                  "score": 26,
+                  "created_utc": 1749416895.0,
+                  "replies": [
+                    {
+                      "id": "mwq0lq5",
+                      "author": "NecroCannon",
+                      "body": "MAN what? I keep saying that we need a new Steam Machine, it really came too soon, with the amount of chips now specifically made for handhelds, slap one of those in a box, optimize Steam OS and with how much I love the Deck, it\u2019s a definite preorder from me.\n\nThe main reason I don\u2019t just get a mini pc is because they\u2019re pretty damn expensive for what you get. The Steam Deck still has yet to be beat in value",
+                      "score": 11,
+                      "created_utc": 1749417111.0,
+                      "replies": [
+                        {
+                          "id": "mwqgl7j",
+                          "author": "Tsuki4735",
+                          "body": "> The main reason I don\u2019t just get a mini pc is because they\u2019re pretty damn expensive for what you get. The Steam Deck still has yet to be beat in value\n\nI dunno, you can nowadays find a [mini PC with a 6800u for $330 USD](https://www.amazon.com/Beelink-SER5-6800U-Computer-PCle4-0/dp/B0DRFDB78L), and that is noticeably more powerful than a Steam Deck.\n\nThrow on SteamOS, hook it up to a TV, and you got a modern day Steam Machine. Meanwhile, the cheapest Steam Deck is $399 for the LCD model.",
+                          "score": 5,
+                          "created_utc": 1749422419.0,
+                          "replies": [
+                            {
+                              "id": "mwqlih4",
+                              "author": "NecroCannon",
+                              "body": "It\u2019s actually more at 429\n\nAnd just think how cheap it can be with larger manufacturing and the same cost eating the Deck has along with great optimization specifically for that device\n\nIt would still be a better value, even at the same price as that without a Prime membership, support on most of those mini PCs are lackluster, it\u2019s why I\u2019m eyeing a MacBook Mini for a mini PC I could actually reliably daily",
+                              "score": 0,
+                              "created_utc": 1749424112.0,
+                              "replies": [
+                                {
+                                  "id": "mwqm4c6",
+                                  "author": "Tsuki4735",
+                                  "body": "Hrm, I was seeing the Amazon Prime price, which is $330 USD.\n\nFair point, but even at $430 it's only $30 more than a Deck for better performance, etc.",
+                                  "score": 3,
+                                  "created_utc": 1749424321.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwtc2cu",
+                                      "author": "NecroCannon",
+                                      "body": "You\u2019re kinda losing the whole point of me saying \u201cconsole PC\u201d pushing a regular mini PC\u2026\n\nYes, you can even build computers that are slightly more than whatever console you\u2019re targeting, that still leaves out the console experience, that still leaves out a device that can have games optimized for nearly a generation. So value per dollar, a steam machine would do a lot better than a shady company with reviews mentioning *how* there\u2019s a lack of support.\n\nConversations like this is why it\u2019s hard to pull console players to PC, think simple, it\u2019s like trying to get CEOs to understand that people don\u2019t care about the stuff they talk about when they just want their stuff to work. It\u2019s not about \u201cwell price and chip wise I\u2019d get this\u201d *do you get the Steam Deck experience that\u2019s pushing Linux forward as a platform, with this no name mini pc?*",
+                                      "score": 1,
+                                      "created_utc": 1749469268.0,
+                                      "replies": [
+                                        {
+                                          "id": "mwtsjo8",
+                                          "author": "Tsuki4735",
+                                          "body": "> that still leaves out the console experience\n\nErr, and that's why I said you can install SteamOS on it.\n\nFor more context, official SteamOS is actually using standard Linux open source drivers, there's no special sauce that Valve is doing in that department. SteamOS adds a fancy UI up front, but everything else is standard open source stuff.\n\nSo if the hardware is compatible, SteamOS will run on it just like a Steam Deck. So you can absolutely get the exact same console experience on a compatible mini PC.\n\nI only say this because I already run SteamOS on non-Deck but Linux-compatible hardware, and I can tell you right now, the experience is the same as the Deck. I have a Steam Machine right now hooked up to my OLED TV that has completely replaced my PS5.",
+                                          "score": 2,
+                                          "created_utc": 1749475515.0,
+                                          "replies": [
+                                            {
+                                              "id": "mwu1qn5",
+                                              "author": "NecroCannon",
+                                              "body": "Err and you just lost the casual market, you gotta think outside of the tech enthusiast bubble dude, the whole industry that\u2019s building up is and knows, they\u2019re not caring about installing things outside of games, not wanting to have to tweak constantly, or deal with the same hoops and hurdles *we* know about.\n\nLike I\u2019m trying to explain the market they\u2019re appealing to and you\u2019re still going \u201cwell just do *hobbyist stuff*\u201d",
+                                              "score": 1,
+                                              "created_utc": 1749478510.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mwu35ld",
+                                                  "author": "Tsuki4735",
+                                                  "body": "> Err and you just lost the casual market, you gotta think outside of the tech enthusiast bubble dude\n\nNote that I didn't say a single thing about the casual market.\n\nThe entire time I was responding to your original comment:\n\n> The main reason I don\u2019t just get a mini pc is because they\u2019re pretty damn expensive for what you get. The Steam Deck still has yet to be beat in value\n\nAll I was saying is that mini PCs are competitive with the Deck in terms of value, especially if you factor in SteamOS into the mix.",
+                                                  "score": 1,
+                                                  "created_utc": 1749478944.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mwu4bvd",
+                                                      "author": "NecroCannon",
+                                                      "body": "Yeah, I want something with good support and an actual quality product, those mini PCs on amazon all have iffy reviews on the lower end",
+                                                      "score": 1,
+                                                      "created_utc": 1749479300.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "mwu59x0",
+                                                          "author": "Tsuki4735",
+                                                          "body": "I think you wanting a more reputable brand is perfectly reasonable.\n\nAgain, I was just saying that there are mini PCs on the market already that are competitive with the Deck in terms of value.\n\nIf the brand is not your preference, that's fine. But that's different from saying competitive options don't exist.",
+                                                          "score": 2,
+                                                          "created_utc": 1749479581.0,
+                                                          "replies": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwtahc4",
+                  "author": "ToMorrowsEnd",
+                  "body": "you can have one now.  itx motherboard and some of the very small cases are console sized.  buy the parts and build it.   It's how I have a dedicated steam console in the living room.",
+                  "score": 2,
+                  "created_utc": 1749468577.0,
+                  "replies": [
+                    {
+                      "id": "mwtcgrw",
+                      "author": "NecroCannon",
+                      "body": "Still not the console experience until I can just buy a box and play on it. Think pre-built, but actually optimized for with decent specs\n\nI get this is the gadget sub, but not everyone wants to get into hardware like that, which *is* the appeal of an official steam machine. I got hobbies that take that time over.",
+                      "score": 1,
+                      "created_utc": 1749469440.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwpi1qt",
+          "author": "BlastMyLoad",
+          "body": "Praying they add this to other handhelds like the first Ally/Ally X and MSI Claw and whatnot",
+          "score": 6,
+          "created_utc": 1749411348.0,
+          "replies": []
+        },
+        {
+          "id": "mwpzvor",
+          "author": "MedonSirius",
+          "body": "Hell, i even use Windows 11 for my Office work and dev and W11 is still bloated and gives me headache. Why is a laptop with 3070Ti, 64GB RAM and 4 TB NVME 2 with 7GB/s slower than my Windows 7 garbage Laptop from 15 years ago?",
+          "score": 6,
+          "created_utc": 1749416881.0,
+          "replies": []
+        },
+        {
+          "id": "mwuf2ce",
+          "author": "Kycrio",
+          "body": "I have a rog ally that came with windows 11 installed. Windows 11 is a flaming dumpster fire for a gaming console. Every time I pick it up to play some baldurs gate 3, windows pesters me about setting up copilot and onedrive. No, windows, I don't need copilot and onedrive to improve my productivity on my game console. It also forces me to use a pin or password to log in to the device, but the os is so trash that sometimes it just hangs forever on the log in screen and I have to reboot it. I really don't need to protect my game console from unauthorized users, windows, it's not like I do my taxes on it. I really really hope that the new Xbox os is available for the previous rog ally consoles.",
+          "score": 3,
+          "created_utc": 1749482419.0,
+          "replies": [
+            {
+              "id": "mww00bu",
+              "author": "ThePandaKingdom",
+              "body": "I put steam os on my ally a week ago, i am loving it. They include support for it now so all the face buttons work properly etc. you do need into install a plugin to get proper TDP control but other than that its plug and play.",
+              "score": 1,
+              "created_utc": 1749498355.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwrdbua",
+          "author": "USB-SOY",
+          "body": "It\u2019s not unnecessary bloated for enterprise but for gaming it is",
+          "score": 4,
+          "created_utc": 1749434084.0,
+          "replies": [
+            {
+              "id": "mwt0xjf",
+              "author": "grimoireviper",
+              "body": "This! People need to accept that gaming isn't the main focus of Windows. So this new less bloated version of Windows will be a huge step.",
+              "score": 4,
+              "created_utc": 1749463883.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwptepy",
+          "author": "Trick2056",
+          "body": "now bring it to desktop",
+          "score": 2,
+          "created_utc": 1749414854.0,
+          "replies": []
+        },
+        {
+          "id": "mwq22lh",
+          "author": "VegetaFan1337",
+          "body": "Buddy have you been living under a rock? \ud83d\ude02 Window has been bloated since Xp since they've had to support everything from the DOS and Windows 95 days cause corporates and governments rely on it. You're not allowed to drop backwards compatibility if nukes need that to work.",
+          "score": 6,
+          "created_utc": 1749417574.0,
+          "replies": [
+            {
+              "id": "mwq8scm",
+              "author": "cgaWolf",
+              "body": "Backwards compatibility isn't what causes the bloat tho.",
+              "score": 7,
+              "created_utc": 1749419750.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwsbiar",
+          "author": "OlorinDK",
+          "body": "It\u2019s not quite that they didn\u2019t want to. They\u2019ve had efforts to cut bloat for at least a decade if not more. One of the biggest efforts were Windows Core OS. https://www.windowscentral.com/windows-core-os",
+          "score": 1,
+          "created_utc": 1749449159.0,
+          "replies": []
+        },
+        {
+          "id": "mwqoel6",
+          "author": "Ceros007",
+          "body": ">Microsoft doesn\u2019t load [...] a bunch of background processes\n\nWhy not bring this philosophy to standard Windows?",
+          "score": 1,
+          "created_utc": 1749425105.0,
+          "replies": [
+            {
+              "id": "mwt0z9e",
+              "author": "grimoireviper",
+              "body": "Because a lot of services need what you call bloat to function.",
+              "score": 2,
+              "created_utc": 1749463909.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwrag0l",
+          "author": "freedoomed",
+          "body": "How dare you say windows 11 is bloated!   It's just retaining water!",
+          "score": 1,
+          "created_utc": 1749433045.0,
+          "replies": []
+        },
+        {
+          "id": "mx00p26",
+          "author": "MeBeEric",
+          "body": "Actually that\u2019s what got the Xbox project greenlit to begin with. Bill Gates couldn\u2019t care less about a game console BUT the fact they were able to make Windows boot in a third of the time on a rinky dink rig peaked his interest.",
+          "score": 1,
+          "created_utc": 1749555986.0,
+          "replies": []
+        },
+        {
+          "id": "mx2v97k",
+          "author": "irqlnotdispatchlevel",
+          "body": "Xbox already runs an unbloated Windows version. This probably runs a similar version.",
+          "score": 1,
+          "created_utc": 1749586521.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwoxfc9",
+      "author": "JoviAMP",
+      "body": "I hope they make the new gaming mode available on all Windows devices and don't keep it exclusive to these handhelds.",
+      "score": 316,
+      "created_utc": 1749405119.0,
+      "replies": [
+        {
+          "id": "mwp2vpu",
+          "author": "f4r1s2",
+          "body": "It will come to the other allys starting next year, dunno about others",
+          "score": 76,
+          "created_utc": 1749406749.0,
+          "replies": [
+            {
+              "id": "mwpikwk",
+              "author": "BlastMyLoad",
+              "body": "Source?",
+              "score": 12,
+              "created_utc": 1749411517.0,
+              "replies": [
+                {
+                  "id": "mwplej3",
+                  "author": "f4r1s2",
+                  "body": "https://www.theverge.com/news/682011/microsoft-windows-xbox-pc-combination-features-rog-xbox-ally-devices",
+                  "score": 27,
+                  "created_utc": 1749412388.0,
+                  "replies": [
+                    {
+                      "id": "mwsdg7x",
+                      "author": "OlorinDK",
+                      "body": "4 key takeaways for me:\n1. It\u2019s running Windows, but with a new fullscreen launcher mode that also kills a lot of background processes\n2. It frees up 2 GB of memory for games\n3. It uses one third of the power in standby mode when activated while in launcher mode compared to to normal desktop mode\nR. It\u2019s coming to other handhelds at the beginning of next year\n\nI\u2019m wondering if it\u2019ll come to normal desktop, laptop and even tablet PC\u2019s too at some point. Who wouldn\u2019t want that extra performance? Might not be for everyone, but would be good to have the choice. And honestly would have liked to see something like it for tablets, where you\u2019d be able to run tablet apps, without the extra bloat of unnecessary background processes, but you could always switch to desktop and have the full experience.",
+                      "score": 10,
+                      "created_utc": 1749450233.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwpmmxt",
+                      "author": "BlastMyLoad",
+                      "body": "Thanks! I\u2019m glad to see they\u2019re porting it to the regular Ally X lord knows it needs a better UI\u2026",
+                      "score": 7,
+                      "created_utc": 1749412769.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwp3djn",
+              "author": "Small_Editor_3693",
+              "body": "It\u2019s just an app. Someone will get it",
+              "score": -18,
+              "created_utc": 1749406895.0,
+              "replies": [
+                {
+                  "id": "mwppak7",
+                  "author": "n8mo",
+                  "body": "It\u2019s not \u201cjust an app\u201d.  \n\nBased on what I\u2019ve read, it\u2019s an OS feature that disables the windows desktop entirely, saving 2GB+ of RAM over standard Windows 11.\n\nSo, like the other commenter said.  Hopefully this isn\u2019t exclusive to handheld PCs.",
+                  "score": 44,
+                  "created_utc": 1749413589.0,
+                  "replies": [
+                    {
+                      "id": "mwpw9vf",
+                      "author": "Small_Editor_3693",
+                      "body": "It\u2019s just replacing the shell. Anyone can do that",
+                      "score": -24,
+                      "created_utc": 1749415746.0,
+                      "replies": [
+                        {
+                          "id": "mwq03p7",
+                          "author": "JoviAMP",
+                          "body": "Yes, but *this* would be an *official* shell replacement, so what I want to know is if they plan to try keeping it exclusive to authorized handheld OEMs, or if I'd be able to utilize it on a custom mini ITX PC paired with an Xbox controller and connected to my TV, without having to resort to workarounds.",
+                          "score": 13,
+                          "created_utc": 1749416953.0,
+                          "replies": [
+                            {
+                              "id": "mwq1m1h",
+                              "author": "Small_Editor_3693",
+                              "body": "Get this with an eGPU dock that Asus will absolutely sell",
+                              "score": -13,
+                              "created_utc": 1749417427.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwpxbtt",
+                          "author": "Icybubba",
+                          "body": "Okay, show me.",
+                          "score": 9,
+                          "created_utc": 1749416076.0,
+                          "replies": [
+                            {
+                              "id": "mwpxtog",
+                              "author": "Small_Editor_3693",
+                              "body": "https://superuser.com/questions/1016380/how-do-i-replace-the-system-shell-explorer-exe-with-another-process-in-windows\n\nYou can set that to steam.exe and steam will run at start up and not explorer.exe\n\nThere will be work arounds\n\nLooks like it\u2019s only supported in enterprise and education though for kiosk stuff. https://learn.microsoft.com/en-us/windows/configuration/shell-launcher/",
+                              "score": -5,
+                              "created_utc": 1749416229.0,
+                              "replies": [
+                                {
+                                  "id": "mwq0eav",
+                                  "author": "None",
+                                  "body": "Funny enough I scripted that last year:\n\nhttps://github.com/jazir555/GamesDows\n\nStill a few bugs, but it works. The explorer start behavior would need to be tweaked for this scenario since the desired behavior is explorer not starting at all until you want to exit to the desktop, and id have to think on the triggering mechanism.",
+                                  "score": 3,
+                                  "created_utc": 1749417045.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwq1ety",
+                                      "author": "Small_Editor_3693",
+                                      "body": "Ya I\u2019m waiting for someone\u2019s project that just bundles this appx and some CEC stuff",
+                                      "score": 1,
+                                      "created_utc": 1749417365.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwoz2pm",
+      "author": "The-F4LL3N",
+      "body": "It says I can stream from my Xbox over WiFi but can I stream from my pc? That\u2019s really what I\u2019d want one for, so I can play my pc games elsewhere in the house",
+      "score": 44,
+      "created_utc": 1749405613.0,
+      "replies": [
+        {
+          "id": "mwpos3o",
+          "author": "2ndtryagain",
+          "body": "You will be able to install Moonlight on it so, yes.",
+          "score": 24,
+          "created_utc": 1749413431.0,
+          "replies": []
+        },
+        {
+          "id": "mwpzl22",
+          "author": "Icybubba",
+          "body": "You can using Steam. If you have a game on Steam, just stream it using Steam from your PC to your Ally.",
+          "score": 2,
+          "created_utc": 1749416787.0,
+          "replies": []
+        },
+        {
+          "id": "mwp1ffg",
+          "author": "dgwhiley",
+          "body": "You can already do that on a phone \ud83e\udd37\u200d\u2642\ufe0f",
+          "score": -11,
+          "created_utc": 1749406323.0,
+          "replies": [
+            {
+              "id": "mwp34d1",
+              "author": "The-F4LL3N",
+              "body": "Bigger screen, integrated controller, ability to still use my phone\u2026",
+              "score": 14,
+              "created_utc": 1749406819.0,
+              "replies": [
+                {
+                  "id": "mwpa2uz",
+                  "author": "KingL3mur",
+                  "body": "You could just install it to the handheld? Steam allows you to stream to other devices using the steam app",
+                  "score": 7,
+                  "created_utc": 1749408904.0,
+                  "replies": [
+                    {
+                      "id": "mwpp97o",
+                      "author": "The-F4LL3N",
+                      "body": "Ah, missed the steam support. Words are hard, thanks\n \nEdit: still can\u2019t see a way to stream Xbox app (game pass) games from pc though",
+                      "score": 2,
+                      "created_utc": 1749413578.0,
+                      "replies": [
+                        {
+                          "id": "mwqeoea",
+                          "author": "Oriichilari",
+                          "body": "Look into Sunshine/Moonlight. Piggy backs off old Nvidia GameStream functionality and works incredibly well. \n\nAlternatively, there are tools like UWPHook or Glossi to add Game Pass games to Steam",
+                          "score": 5,
+                          "created_utc": 1749421758.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwqd44v",
+                          "author": "KingL3mur",
+                          "body": "You can\u2019t you\u2019d have to either download the game pass game to the handheld or stream it with Xbox cloud play, none of which would be running off your pc.\n\nEdit: Actually I think you can remote play from your Xbox with the Xbox app on pc, just haven\u2019t used it since it first released.",
+                          "score": 3,
+                          "created_utc": 1749421216.0,
+                          "replies": [
+                            {
+                              "id": "mwqehcj",
+                              "author": "The-F4LL3N",
+                              "body": "Neither of which has the performance of my pc, thus my problem. If I\u2019m going to stream a gamepass game to this thing, I\u2019d like it to be from the most performant machine I own",
+                              "score": -1,
+                              "created_utc": 1749421690.0,
+                              "replies": [
+                                {
+                                  "id": "mwr3w2k",
+                                  "author": "KingL3mur",
+                                  "body": "You\u2019re probably better off getting some form of tablet or something then. Seems like a waste of money to buy a portable gaming handheld pc to just stream off it",
+                                  "score": 2,
+                                  "created_utc": 1749430676.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwrhbbq",
+                                      "author": "The-F4LL3N",
+                                      "body": "I\u2019d just like the option, in addition to playing games locally. Plus a steam deck can do it via steam, so I feel like it should be a no brainer that the Xbox branded handheld *should* be able to stream games from the Xbox app on pc, especially if it can do cloud and console streaming",
+                                      "score": 0,
+                                      "created_utc": 1749435538.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwpyh2y",
+                          "author": "kaztep23",
+                          "body": "Razer remote play:\n\nhttps://www.razer.com/gaming-software/razer-pc-remote-play?srsltid=AfmBOooR3wKIzoCve2SIaXY3kIYCZzPHHa1DJlh_VsxwLxUyoww7RE95",
+                          "score": 2,
+                          "created_utc": 1749416433.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwpwtqw",
+      "author": "DetonateDeadInside",
+      "body": "the balls on these guys to show armory crate in the reveal video like anyone has anything positive to say about that ass piece of software",
+      "score": 53,
+      "created_utc": 1749415920.0,
+      "replies": [
+        {
+          "id": "mwqfc26",
+          "author": "SSJNinjaMonkey",
+          "body": "I don't have it in my pc, that's a positive ...lol",
+          "score": 11,
+          "created_utc": 1749421987.0,
+          "replies": [
+            {
+              "id": "mwsz3e6",
+              "author": "lirannl",
+              "body": "My PC is incompatible with that effective-malware (because it doesn't have Windows installed) \ud83d\ude01",
+              "score": 3,
+              "created_utc": 1749462870.0,
+              "replies": [
+                {
+                  "id": "mwt3wos",
+                  "author": "SSJNinjaMonkey",
+                  "body": "I adore  asus products ... to be clear not the company but damn when it works its good but ew their software is 100% malware ha. I'm with you I'm just waiting on Steam os and I'm going over to that.",
+                  "score": 1,
+                  "created_utc": 1749465464.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwoslt1",
+      "author": "nick99990",
+      "body": "I think I caught that it supports steam. Might be a better choice for my use case than a steam deck",
+      "score": 133,
+      "created_utc": 1749403685.0,
+      "replies": [
+        {
+          "id": "mwoyj97",
+          "author": "HuskyLemons",
+          "body": "It\u2019ll be running Windows 11, same as the current ROG Ally. Full support for Steam, Epic, and GoG. This new one just uses the latest chip and adds an Xbox button. The new interface should be coming to any windows 11 handheld but that isn\u2019t confirmed yet",
+          "score": 89,
+          "created_utc": 1749405453.0,
+          "replies": [
+            {
+              "id": "mwp34zr",
+              "author": "f4r1s2",
+              "body": "They confirmed it",
+              "score": 18,
+              "created_utc": 1749406824.0,
+              "replies": []
+            },
+            {
+              "id": "mwpalhg",
+              "author": "BaconSoul",
+              "body": "Interface is the only real issue I have with my Ally. Nice to see Microsoft stepping up to the plate for once this decade.",
+              "score": 10,
+              "created_utc": 1749409058.0,
+              "replies": []
+            },
+            {
+              "id": "mwvmqr8",
+              "author": "robotsects",
+              "body": "I think it would make sense to bring the Full Screen Experience to all PC's as an option.",
+              "score": 2,
+              "created_utc": 1749494583.0,
+              "replies": [
+                {
+                  "id": "mwvpx7q",
+                  "author": "HuskyLemons",
+                  "body": "It sounds like it could be now that a little more info has come out and people have dug into it. It looks like it\u2019s not really a full interface change, but an updated Xbox app and game bar. So I don\u2019t see why that wouldn\u2019t be possible on any PC to make it more controller friendly",
+                  "score": 1,
+                  "created_utc": 1749495471.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwovxgq",
+          "author": "utsports88",
+          "body": "Xbox, Steam, & Battle.net were specifically named.",
+          "score": 56,
+          "created_utc": 1749404671.0,
+          "replies": [
+            {
+              "id": "mwozjge",
+              "author": "RayS0l0",
+              "body": "GoG too",
+              "score": 29,
+              "created_utc": 1749405755.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwot97c",
+          "author": "Newwavecybertiger",
+          "body": "Honestly if it's steam compatible and let's me treat like a desktop then I can probably get ps remote on it, at which point it becomes the everything not Nintendo machine?? I'm pretty interested in that",
+          "score": 34,
+          "created_utc": 1749403879.0,
+          "replies": [
+            {
+              "id": "mwotpmj",
+              "author": "MattBrey",
+              "body": "With enough optimisation this should run switch 1 games easily too",
+              "score": 24,
+              "created_utc": 1749404015.0,
+              "replies": [
+                {
+                  "id": "mwoxw27",
+                  "author": "2g4r_tofu",
+                  "body": "The steam deck already runs most switch games at a playable speed. This will most likely handle 60fps and 1080p hacks\u00a0",
+                  "score": 16,
+                  "created_utc": 1749405259.0,
+                  "replies": [
+                    {
+                      "id": "mwp5psf",
+                      "author": "Kalpy97",
+                      "body": "Switch emulation is fucking terrible why lie lmao",
+                      "score": 7,
+                      "created_utc": 1749407593.0,
+                      "replies": [
+                        {
+                          "id": "mwpfcbi",
+                          "author": "Gaeus_",
+                          "body": "> Switch emulation is fucking terrible why lie lmao\n\nOh look, proof:\n\n2 years ago on a high-end PC : https://www.youtube.com/watch?v=Ex2iIvuc78k\n\n\n1 month ago on a steamdeck : https://www.youtube.com/watch?v=6dOfuMWkjtA\n\n\nSwitch emulation is so on point that Nintendo actively hunted down switch emulators, even those (Ryujinx) that had not done anything stupid (unlike yuzu who openly advertized totk support...)",
+                          "score": 16,
+                          "created_utc": 1749410503.0,
+                          "replies": [
+                            {
+                              "id": "mwpukz3",
+                              "author": "parentskeepfindingme",
+                              "body": "They were talking about on the deck. And your example of the deck \"performing well\" had severe fps fluctuations, no way would I call the steam deck performance good. On a desktop it's great.",
+                              "score": 13,
+                              "created_utc": 1749415219.0,
+                              "replies": [
+                                {
+                                  "id": "mwq51gz",
+                                  "author": "Gaeus_",
+                                  "body": "> They were talking about on the deck. \n\nNope. they were responding to someone mentioning how the deck could run most stuff. and they responded by saying \" *emulation* is terrible\" not \"the deck is terrible at emulation\"\n\n> And your example of the deck \"performing well\" had severe fps fluctuations, no way would I call the steam deck performance good. On a desktop it's great.\n\nTBF there's very, very little footage of TOTK running on Steam Deck due to Nintendo claiming most of it.\n\nHaving said that, the footage in question has unlocked framerate, but beside the shader compiling, the game is able to hold a steady 30.\n\nedit : also... TOTK is the hardest game to run, 30 to 40 with shader compilation stuttering in the mid 20's looks extremely good when you consider that TOTK is the \"peak\" of the switch.",
+                                  "score": -3,
+                                  "created_utc": 1749418537.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwq9h3m",
+                                      "author": "parentskeepfindingme",
+                                      "body": "Very few games hold a locked fps on deck, it's why I stopped trying to play then on deck outside of like, animal crossing type stuff. Even Mario games were a bit of a struggle.",
+                                      "score": 1,
+                                      "created_utc": 1749419976.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mwpulsx",
+                              "author": "MattBrey",
+                              "body": "I think they were talking specifically about steam deck. Emulation on PC is literally better than the switch (4k support, higher fps)",
+                              "score": 1,
+                              "created_utc": 1749415226.0,
+                              "replies": [
+                                {
+                                  "id": "mwql1xc",
+                                  "author": "Gaeus_",
+                                  "body": "> I think they were talking specifically about steam deck.\n\nTopic is about the Xbox handheld, someone mentions how it should emulate switch 1 correctly, someone else answers that the steam deck mostly does that and a third one answer by saying \"switch emulation is terrible\".\n\nPeriod.\n\nIn that context, I understand that Switch emulation is so bad that it's unthinkable to play this way, regardless of the platform.",
+                                  "score": -5,
+                                  "created_utc": 1749423952.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwu1gd9",
+                          "author": "MLG-Sheep",
+                          "body": "I play several Pok\u00e9mon and Mario Switch games on my Steam Deck perfectly. For Breath of the Wild I used the Wii U version instead",
+                          "score": 0,
+                          "created_utc": 1749478423.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwpue4v",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -1,
+                  "created_utc": 1749415159.0,
+                  "replies": [
+                    {
+                      "id": "mwsiqog",
+                      "author": "WalrusDomain",
+                      "body": "Not how emulation works.\nThe switch 2 will demand a way more powerful device to emulate. It\u2019s several times more powerful than a switch 1",
+                      "score": 2,
+                      "created_utc": 1749453221.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwoyxuo",
+              "author": "HuskyLemons",
+              "body": "You can definitely do that. It\u2019ll be the same as the current ROG Ally, which is just windows 11. It acts just like a desktop when you use a mouse and keyboard",
+              "score": 5,
+              "created_utc": 1749405573.0,
+              "replies": [
+                {
+                  "id": "mwp4bvc",
+                  "author": "Newwavecybertiger",
+                  "body": "Yes my question is about if the new Xbox branding still let's you do that. Microsoft may have business reasons to not let that happen.",
+                  "score": 1,
+                  "created_utc": 1749407179.0,
+                  "replies": [
+                    {
+                      "id": "mwp74uy",
+                      "author": "HuskyLemons",
+                      "body": "It\u2019s just a PC running windows 11. You can do anything on it that you can do with a regular PC. They confirmed its just as open https://news.xbox.com/en-us/2025/06/08/xbox-handheld-rog-ally-x-games-showcase/",
+                      "score": 8,
+                      "created_utc": 1749408020.0,
+                      "replies": [
+                        {
+                          "id": "mwpgd3y",
+                          "author": "Newwavecybertiger",
+                          "body": "Cool!",
+                          "score": 1,
+                          "created_utc": 1749410818.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwoxgvg",
+              "author": "PbCuBiHgCd",
+              "body": "I mean you can prolly run almost all nintendo titles on it through emulation too",
+              "score": 1,
+              "created_utc": 1749405132.0,
+              "replies": []
+            },
+            {
+              "id": "mwt09jc",
+              "author": "ExtremeCreamTeam",
+              "body": "> and let's me treat like a desktop\n\nlets*",
+              "score": -1,
+              "created_utc": 1749463518.0,
+              "replies": [
+                {
+                  "id": "mwu7cta",
+                  "author": "Newwavecybertiger",
+                  "body": "I mean you're correct.",
+                  "score": 2,
+                  "created_utc": 1749480194.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwotutw",
+          "author": "Troubled_Red",
+          "body": "The original ROG Ally is windows based, this one looks like it is too. There\u2019s no reason it shouldn\u2019t support steam. I have the original Z1 extreme Ally and I love it. I actually originally wanted the steam deck, but I got the ally instead. Dealing with windows on the device can be annoying, it looks like this new device is seeking to fix that by primarily having an Xbox UI run on top of it that it probably much easier to interact with.",
+          "score": 8,
+          "created_utc": 1749404059.0,
+          "replies": []
+        },
+        {
+          "id": "mwpakc2",
+          "author": "VLHACS",
+          "body": "It's going to have to support Steam. It's dead in the water otherwise",
+          "score": 2,
+          "created_utc": 1749409049.0,
+          "replies": []
+        },
+        {
+          "id": "mwoz93v",
+          "author": "dinofreak6301",
+          "body": "It\u2019s an improved ROG Ally with Xbox branding, not an official Xbox handheld. Of course it\u2019ll run Steam",
+          "score": 3,
+          "created_utc": 1749405666.0,
+          "replies": []
+        },
+        {
+          "id": "mwpaaec",
+          "author": "BaconSoul",
+          "body": "Current rog ally already is.",
+          "score": 1,
+          "created_utc": 1749408966.0,
+          "replies": []
+        },
+        {
+          "id": "mwpxn9w",
+          "author": "Icybubba",
+          "body": "The biggest issue of the Steam Deck for me has been the lack of native Game Pass support(coming from someone who has a Series X and a PC alongside my Steam Deck.)\n\nI went with it because I didn't feel like dealing with the Windows stuff on a handheld. The Xbox Ally if it is under idk $700-800 would be a pretty much no brainier for me.",
+          "score": 0,
+          "created_utc": 1749416174.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwq81rs",
+      "author": "wynn_dog",
+      "body": "So to confirm, if I digitally own Xbox games I can't install them natively on this to play on the go?",
+      "score": 10,
+      "created_utc": 1749419511.0,
+      "replies": [
+        {
+          "id": "mwqh8hj",
+          "author": "Neo_Techni",
+          "body": "Correct. It's PC games installed, XBOX streamed",
+          "score": 9,
+          "created_utc": 1749422642.0,
+          "replies": []
+        },
+        {
+          "id": "mwrjjy9",
+          "author": "crazyjoco",
+          "body": "If it\u2019s \u201cXbox Anywhere\u201d then yes otherwise it\u2019s pc versions only.",
+          "score": 4,
+          "created_utc": 1749436373.0,
+          "replies": []
+        },
+        {
+          "id": "mwsa4e7",
+          "author": "Dt2_0",
+          "body": "It depends. If there is a native PC version on the Xbox store, it should be in the Play Anywhere program, and you should be able to download the native PC version. If there is no PC version, or the publisher doesn't allow Play Anywhere for whatever reason, it would need to be streamed.\n\nI fully expect Microsoft to require any game on Xbox that also advertises a PC version must be in the Play Anywhere program to make sure this becomes less and less of an issue over time. It's already not a huge issue, as most Xbox games with PC ports are already Play Anywhere titles.",
+          "score": 2,
+          "created_utc": 1749448406.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwoud75",
+      "author": "MultiMarcus",
+      "body": "I think the biggest disappointment here are the lack of FSR 4 since this is a Z2 chip and not some sort of RDNA 4 chip and it not being OLED. \n\nI still think that the steam deck two is what I\u2019m going to be looking at in the future and one of these products, but I\u2019ve really been liking the work Asus has been doing so far. I just really hope we get better screens and a better chip eventually, but that might just be something I have to wait a couple of years for.",
+      "score": 84,
+      "created_utc": 1749404213.0,
+      "replies": [
+        {
+          "id": "mwpd796",
+          "author": "NiteShdw",
+          "body": "AMD hasn't released any APUs with RDNA4.",
+          "score": 25,
+          "created_utc": 1749409845.0,
+          "replies": [
+            {
+              "id": "mwpgq67",
+              "author": "MultiMarcus",
+              "body": "Sure, but Valve and Microsoft or exactly the type of companies I think would be able to get a custom APU from AMD. That might be a way for Valve or Microsoft to distinguish themselves from the rest of the handheld competition.  Or arguably catch up to Nintendo since they have DLSS now.",
+              "score": 12,
+              "created_utc": 1749410931.0,
+              "replies": [
+                {
+                  "id": "mwphb04",
+                  "author": "NiteShdw",
+                  "body": "Valve and Microsoft both already have custom APUs from AMD. But custom APUs take many years and are basically built from existing technology with some tweaks.\n\nI'm certain that AMD is working on an APU with RDNA4 but it could be a while before they are ready.",
+                  "score": 10,
+                  "created_utc": 1749411113.0,
+                  "replies": [
+                    {
+                      "id": "mwpielz",
+                      "author": "MultiMarcus",
+                      "body": "Sure, which is why I mentioned that I might have to wait a couple of years. The PS5 Pro has PSSR and can supposedly run some form of FSR 4 and that is obviously already out. I don\u2019t think it would be ridiculous to see an FSR 4 capable handheld early next year or so.",
+                      "score": 1,
+                      "created_utc": 1749411461.0,
+                      "replies": [
+                        {
+                          "id": "mwpy6fs",
+                          "author": "Ashencroix",
+                          "body": "We'll probably need to wait for at least the Z3E is my guess. Which means more time for better battery tech to develop.",
+                          "score": 2,
+                          "created_utc": 1749416340.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwqgls7",
+                          "author": "NiteShdw",
+                          "body": "I had to search up PSSR. It's possible that their custom GPU included some tech similar to what AMD included in RDNA4. Maybe it was something they were already working on or maybe they leveraged the work they did for Sony for bring it to the masses.",
+                          "score": 1,
+                          "created_utc": 1749422425.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwp4ms9",
+          "author": "temporarycreature",
+          "body": "Has there been any confirmation of a Steam Deck 2?",
+          "score": 12,
+          "created_utc": 1749407270.0,
+          "replies": [
+            {
+              "id": "mwp5yb8",
+              "author": "billythygoat",
+              "body": "They\u2019re waiting for new hardware that can be a significant enough performance boost for it to be useful. My guess is they\u2019ll still want to keep it at a good price point too, as well as form factor, and heat dissipation.",
+              "score": 27,
+              "created_utc": 1749407663.0,
+              "replies": [
+                {
+                  "id": "mws9nfq",
+                  "author": "Dt2_0",
+                  "body": "Significant performance boost at a price similar to the current Deck*\n\nASUS has the Ryzen AI MAX 395 in the Flow Tablets. That chip is an absolute monster, but is hella expensive. AMD claims it can beat out a 4070 in raw Raster Performance, but I think they are talking about Laptop 4070s, not the Desktop card. Still, beating out well spec'd gaming laptops with a chip like that is great. It just is way too expensive right now to be feasible for the Deck.",
+                  "score": 1,
+                  "created_utc": 1749448155.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwp4r7a",
+              "author": "MultiMarcus",
+              "body": "No, but they have been talking about a successor basically since it launched.",
+              "score": -5,
+              "created_utc": 1749407306.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwp8qvl",
+          "author": "Mannyvoz",
+          "body": "SD2 with a more efficient chip, FSR4 or equivalent would be amazing.",
+          "score": 1,
+          "created_utc": 1749408505.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwpiej1",
+      "author": "Didact67",
+      "body": "How many people are going to buy this thinking they can actually install their console games on it?",
+      "score": 46,
+      "created_utc": 1749411460.0,
+      "replies": [
+        {
+          "id": "mwq5pdf",
+          "author": "AlexandreFiset",
+          "body": "To be fair, almost everything on Game Pass works on PC, it is a requirement. It is also very easy to support the Microsoft store if you are already on Xbox, all achievements, rich presence and cloud saves stuff just port over at almost no cost.",
+          "score": 27,
+          "created_utc": 1749418753.0,
+          "replies": [
+            {
+              "id": "mwqo8b9",
+              "author": "getoutofheretaffer",
+              "body": "Yeah this is clearly intended to be a Gamepass machine.",
+              "score": 11,
+              "created_utc": 1749425044.0,
+              "replies": [
+                {
+                  "id": "mwtl7ru",
+                  "author": "dee_c",
+                  "body": "If Microsoft gets more of the Xbox library in their PC store and it ends up as \u201cplay anywhere\u201d where 1 purchase allows you to play on Xbox or pc, it could be a huge hit and the equivalent of having Xbox games natively\u2026but that means they need to start yelling at developers now",
+                  "score": 2,
+                  "created_utc": 1749472916.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwu8zla",
+              "author": "redActarus",
+              "body": "Lies, lies and more lies",
+              "score": -1,
+              "created_utc": 1749480673.0,
+              "replies": [
+                {
+                  "id": "mwu95ov",
+                  "author": "AlexandreFiset",
+                  "body": "What lies? lol, I had two of my own games on GamePass so I know about that stuff.",
+                  "score": 2,
+                  "created_utc": 1749480722.0,
+                  "replies": [
+                    {
+                      "id": "mwubh7d",
+                      "author": "redActarus",
+                      "body": "Not  \"almost everything works\". Thats a bold lie.",
+                      "score": -1,
+                      "created_utc": 1749481390.0,
+                      "replies": [
+                        {
+                          "id": "mwuj5au",
+                          "author": "AlexandreFiset",
+                          "body": "The majority of titles signed on Game Pass are on both PC and Xbox. I don\u2019t know what else to tell you \ud83e\udd13, you can look it up yourself.",
+                          "score": 0,
+                          "created_utc": 1749483579.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwq842i",
+          "author": "MilesTheGoodKing",
+          "body": "The video says you can download games natively on the device, how else is that suppose to be interpreted?",
+          "score": 22,
+          "created_utc": 1749419531.0,
+          "replies": [
+            {
+              "id": "mwqhcpn",
+              "author": "Neo_Techni",
+              "body": "they're PC versions",
+              "score": 12,
+              "created_utc": 1749422681.0,
+              "replies": [
+                {
+                  "id": "mwqnbgo",
+                  "author": "MilesTheGoodKing",
+                  "body": "I\u2019m curious if you can resume where you left off from the Ally to an Xbox console. If so, there really wouldn\u2019t be a huge difference.",
+                  "score": 10,
+                  "created_utc": 1749424729.0,
+                  "replies": [
+                    {
+                      "id": "mwqv4av",
+                      "author": "elmo-slayer",
+                      "body": "Yes, that\u2019s how play anywhere works",
+                      "score": 13,
+                      "created_utc": 1749427478.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mws9rf4",
+                      "author": "Dt2_0",
+                      "body": "That is exactly how it works. Any game on the MS Store will let you play the same save anywhere you log in.",
+                      "score": 4,
+                      "created_utc": 1749448214.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwqyfbk",
+                  "author": "funguyshroom",
+                  "body": "Does buying a game on Xbox give you access to both Xbox and PC versions?",
+                  "score": 6,
+                  "created_utc": 1749428687.0,
+                  "replies": [
+                    {
+                      "id": "mwr2bvx",
+                      "author": "Didact67",
+                      "body": "Only if it says \u201cplay anywhere\u201d on the store page.",
+                      "score": 12,
+                      "created_utc": 1749430110.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwu4fqz",
+                      "author": "Neo_Techni",
+                      "body": "not if you bought it on Steam, which is where most PC gamers prefer to buy from\n\nand only if there is a PC version.",
+                      "score": 1,
+                      "created_utc": 1749479332.0,
+                      "replies": [
+                        {
+                          "id": "mwu6mnd",
+                          "author": "funguyshroom",
+                          "body": "The context of this particular thread is xbox console players buying this device thinking that they will be able to play on it all the games they bought for their xbox console.",
+                          "score": 2,
+                          "created_utc": 1749479981.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwr538a",
+                  "author": "NotSoWishful",
+                  "body": "PC gamepass versions? Why would the casual gamer care at all whether it\u2019s PC or Xbox as long as the controller works? I don\u2019t get your point unless this means they can\u2019t download it to the handheld",
+                  "score": 3,
+                  "created_utc": 1749431104.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwpwjog",
+          "author": "Ashencroix",
+          "body": "Reading other forums, I bet a lot. A lot of console players are already asking if they can install all their Xbox console games on it and play on the go. Some are planning to ditch their Series consoles for this.",
+          "score": 28,
+          "created_utc": 1749415833.0,
+          "replies": [
+            {
+              "id": "mwqz15h",
+              "author": "NLight7",
+              "body": "Let them, trick them all into becoming PC gamers kek",
+              "score": 5,
+              "created_utc": 1749428907.0,
+              "replies": []
+            },
+            {
+              "id": "mwspdwk",
+              "author": "TheGhostlyGuy",
+              "body": "Alot of people were also boycotting the switch 2 but that apparently is breaking records so judging how popular something will be from Internet reactions is pointless",
+              "score": 2,
+              "created_utc": 1749457121.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwriayn",
+          "author": "OurSaviorBenFranklin",
+          "body": "From the news release on the Xbox website: \n\n\u201cWithin the Xbox full screen experience, players will see their aggregated gaming library, giving them quick access to games from Xbox, Game Pass, Battle.net, and other leading PC storefronts. With this new feature, your Xbox library, hundreds of Game Pass titles (membership required), and all your installed games from other PC game stores are always at your fingertips.\n\nWe\u2019re also making handheld gaming more seamless through our investment in Xbox Play Anywhere. With support for over 1,000 games, a single purchase means you can play with Xbox, including your progress and achievements, across Xbox console, PC and Xbox Ally\u2014at no additional cost. And when you power on your Xbox Ally or Xbox Ally X, your favorite games are already there, ready to play. Whether you\u2019ve been gaming on Xbox console, Xbox on PC, or in the cloud, everything syncs effortlessly. With Xbox Cloud Gaming (Beta) or Remote Play, you can access your full Xbox console library and keep playing\u2014wherever you are.\u201d\n\nThis part of the release makes it sound like you can play single player Xbox games on it offline...or is that wrong?",
+          "score": 6,
+          "created_utc": 1749435908.0,
+          "replies": []
+        },
+        {
+          "id": "mwr1trt",
+          "author": "Dense-Tangerine7502",
+          "body": "You can install the vast majority of them and keep your save states",
+          "score": 1,
+          "created_utc": 1749429929.0,
+          "replies": []
+        },
+        {
+          "id": "mwqezdg",
+          "author": "catify",
+          "body": "You literally can.",
+          "score": -5,
+          "created_utc": 1749421864.0,
+          "replies": [
+            {
+              "id": "mwqhbfu",
+              "author": "Neo_Techni",
+              "body": "'t",
+              "score": -6,
+              "created_utc": 1749422669.0,
+              "replies": [
+                {
+                  "id": "mwsns7s",
+                  "author": "catify",
+                  "body": "That\u2019s literally how Xbox works now though. Not all games of course, but for Game Pass games it\u2019s required to be on both PC and Xbox and support cross saves. And you get to download the games and run them natively.\n\nThis is nothing new\u2026 I\u2019m already swapping between my Rog Ally and Xbox to play Expedition 33 and it\u2019s seamless.",
+                  "score": -2,
+                  "created_utc": 1749456148.0,
+                  "replies": [
+                    {
+                      "id": "mwu46z2",
+                      "author": "Neo_Techni",
+                      "body": "but that portable isn't running the xbox version, it's running the PC version.",
+                      "score": 3,
+                      "created_utc": 1749479259.0,
+                      "replies": [
+                        {
+                          "id": "mwu84tf",
+                          "author": "catify",
+                          "body": "Why does that even matter though? The platform just becomes an abstraction. This is Microsoft completely tearing down the barrier between console and PC gaming.",
+                          "score": 0,
+                          "created_utc": 1749480422.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwpa34h",
+      "author": "Noxnoxx",
+      "body": "I enjoy a patient gamer and watching all the new handhelds pop up",
+      "score": 13,
+      "created_utc": 1749408906.0,
+      "replies": [
+        {
+          "id": "mwrolio",
+          "author": "inbox-disabled",
+          "body": "I don't know if I'll ever buy one, but I never pulled the trigger on a Steam Deck between debating whether I'd actually use it and out of fear of being disappointed by its performance.\n\nNow I'll just do the same for this and a Deck 2 should it ever be greenlit.",
+          "score": 2,
+          "created_utc": 1749438329.0,
+          "replies": [
+            {
+              "id": "mwsiuww",
+              "author": "Critical_Impact",
+              "body": "I'd say if you want to play the latest AAA unoptimized games then yeah you might be out of luck but it's surprising what you can actually play on it.\nIf you really want to know if the games you're thinking about playing are playable, pop on over to protondb and look up the game and filter by steam deck.\n\nExample:\n\nhttps://www.protondb.com/app/883710?device=steamDeck\n\nThese are basically user recommendations on what to do to get the best performance but I find once you have protonGE installed and set as your default you can just fire games up and they'll work fine 95% of the time",
+              "score": 3,
+              "created_utc": 1749453289.0,
+              "replies": []
+            },
+            {
+              "id": "mwrqnp7",
+              "author": "Noxnoxx",
+              "body": "Im still interested in steam deck or ROG ally but Im in no rush. I like seeing all the new ones come out and comparing. I bet SONY will be next",
+              "score": 0,
+              "created_utc": 1749439171.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwp1x91",
+      "author": "john_weiss",
+      "body": "How much tho?",
+      "score": 17,
+      "created_utc": 1749406470.0,
+      "replies": [
+        {
+          "id": "mwro6kx",
+          "author": "inbox-disabled",
+          "body": "With TACO hell and a holiday release date, there's no way we're getting a price for a while.",
+          "score": 14,
+          "created_utc": 1749438162.0,
+          "replies": []
+        },
+        {
+          "id": "mwtb8na",
+          "author": "ToMorrowsEnd",
+          "body": "Most likely $800 to $999+ range look at current top rog ally pricing and you will be pretty close.",
+          "score": 2,
+          "created_utc": 1749468913.0,
+          "replies": []
+        },
+        {
+          "id": "mwscqq0",
+          "author": "DDFoster96",
+          "body": "Embarrassed to say because it makes the Steam Deck look like a far better value proposition.",
+          "score": 1,
+          "created_utc": 1749449839.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwoxfmh",
+      "author": "SAM0070REDDIT",
+      "body": "Will this Xbox interfere be available for the OG Ally X? I would switch back from bazzite for that",
+      "score": 14,
+      "created_utc": 1749405122.0,
+      "replies": [
+        {
+          "id": "mwoy517",
+          "author": "HuskyLemons",
+          "body": "Some sites are reporting that the new experience will come to the older Ally next year. I haven\u2019t seen anything official from Asus or Microsoft yet",
+          "score": 7,
+          "created_utc": 1749405334.0,
+          "replies": []
+        },
+        {
+          "id": "mwozi81",
+          "author": "aspbergerinparadise",
+          "body": "yes. The xbox-on-windows team is working to make all of their OS and interface improvements available for all windows handhelds. I would assume that the original Ally is near the top of their list to focus on.",
+          "score": 5,
+          "created_utc": 1749405744.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwp220o",
+      "author": "MadOrange64",
+      "body": "Might consider it if the price is right.",
+      "score": 10,
+      "created_utc": 1749406509.0,
+      "replies": [
+        {
+          "id": "mwq8nwg",
+          "author": "ninjalord433",
+          "body": "ROG Ally X is already at 800 USD and the xbox version will be pretty much the same. The 720p version will be cheaper but I still imagine it will be 600-700 USD.",
+          "score": 7,
+          "created_utc": 1749419710.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwql1zp",
+      "author": "TheWayOfEli",
+      "body": "It's nice that the Xbox UI is less taxing than full Windows 11, but my understanding is that you can't play your owned Xbox games on this unless they're play anywhere / stream through Game Pass which seems like a huge miss.\n\nI own a majority of my games on Xbox, and what I wanted from an Xbox mobile device was something that I could access those games from without having to rely on streaming / hoping it's on Game Pass / buying it again on Steam or another PC storefront.",
+      "score": 7,
+      "created_utc": 1749423952.0,
+      "replies": []
+    },
+    {
+      "id": "mwq84hz",
+      "author": "JackfruitCalm3513",
+      "body": "Bet steam os still gives better performance",
+      "score": 8,
+      "created_utc": 1749419535.0,
+      "replies": []
+    },
+    {
+      "id": "mwpafi9",
+      "author": "locustnation",
+      "body": "Yay. Something else for Microsoft to abandon it\u2019s costumers on in 4 years\u2026",
+      "score": 9,
+      "created_utc": 1749409008.0,
+      "replies": []
+    },
+    {
+      "id": "mwvba75",
+      "author": "cristo250",
+      "body": "Maybe I\u2019m just getting old, but I couldn\u2019t give a fuck about a handheld Xbox console. I\u2019m sure it\u2019ll be cool though m, and not to discount anyone who\u2019s interested in it. Just my own opinion.",
+      "score": 2,
+      "created_utc": 1749491395.0,
+      "replies": [
+        {
+          "id": "mx2vzvf",
+          "author": "EnvironmentalRun1671",
+          "body": "It's literally a Windows PC. Xbox is just branding they use.",
+          "score": 1,
+          "created_utc": 1749586727.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwqnubo",
+      "author": "colonelc4",
+      "body": "Ah ASUS the guys that will ignore any support request, remember GN episode about them ? No ? Go watch it.",
+      "score": 4,
+      "created_utc": 1749424910.0,
+      "replies": []
+    },
+    {
+      "id": "mwou751",
+      "author": "Renegade_451",
+      "body": "So when do the \"just get a steam deck\" bros show up?",
+      "score": 5,
+      "created_utc": 1749404162.0,
+      "replies": [
+        {
+          "id": "mwowlrl",
+          "author": "haaiiychii",
+          "body": "When you see the price",
+          "score": 93,
+          "created_utc": 1749404873.0,
+          "replies": []
+        },
+        {
+          "id": "mwow24n",
+          "author": "bllueace",
+          "body": "That's the neat part, this is a steam deck. Everything is a steam deck now",
+          "score": 35,
+          "created_utc": 1749404710.0,
+          "replies": [
+            {
+              "id": "mwp6bug",
+              "author": "Snake_eyes_12",
+              "body": "Not me, Im a leapfrog phone",
+              "score": 9,
+              "created_utc": 1749407777.0,
+              "replies": [
+                {
+                  "id": "mwppv99",
+                  "author": "PenguinDeluxe",
+                  "body": "I\u2019m a computah",
+                  "score": 5,
+                  "created_utc": 1749413766.0,
+                  "replies": [
+                    {
+                      "id": "mwpqq3a",
+                      "author": "metrion",
+                      "body": "My dad is a computer",
+                      "score": 3,
+                      "created_utc": 1749414032.0,
+                      "replies": [
+                        {
+                          "id": "mwq1kxv",
+                          "author": "LukesFather",
+                          "body": "My dad is not a phone!",
+                          "score": 2,
+                          "created_utc": 1749417417.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mwpufvp",
+                          "author": "Snake_eyes_12",
+                          "body": "Is your mom the printer?",
+                          "score": 1,
+                          "created_utc": 1749415174.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwqyvgd",
+                      "author": "funguyshroom",
+                      "body": "Stop all the downloadin'",
+                      "score": 3,
+                      "created_utc": 1749428851.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwt14a1",
+                  "author": "ExtremeCreamTeam",
+                  "body": "I'm a Nokia N-Gage.",
+                  "score": 1,
+                  "created_utc": 1749463984.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwpa7hj",
+          "author": "IQueliciuous",
+          "body": "When the battery life gets announced to be 1-2 hours long.",
+          "score": 7,
+          "created_utc": 1749408941.0,
+          "replies": [
+            {
+              "id": "mwqc10v",
+              "author": "MISFU88",
+              "body": "The Ally X already beats Deck OLED in battery life and it has almost doubled the performance.Z2 is rumored to be more power efficient than Z1, so yea.",
+              "score": 4,
+              "created_utc": 1749420842.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwosj1e",
+      "author": "Monk-ish",
+      "body": "This looks pretty sweet",
+      "score": 3,
+      "created_utc": 1749403661.0,
+      "replies": []
+    },
+    {
+      "id": "mwowi21",
+      "author": "RhombusColtrane",
+      "body": "The bottom cm is just for a stupid logo.\u00a0 Lame design.",
+      "score": 2,
+      "created_utc": 1749404842.0,
+      "replies": []
+    },
+    {
+      "id": "mwqzf1w",
+      "author": "limonboy8",
+      "body": "What would be the benefits of this over a steam deck?",
+      "score": 2,
+      "created_utc": 1749429050.0,
+      "replies": [
+        {
+          "id": "mwr8s46",
+          "author": "NIDORAX",
+          "body": "I am guessing if you want to play an Xbox games on the go, then this would be for you?\n\nThen again, the Steam Deck can already play almost every PC games.",
+          "score": 10,
+          "created_utc": 1749432440.0,
+          "replies": []
+        },
+        {
+          "id": "mwspd0q",
+          "author": "zzazzzz",
+          "body": "bigger screen more powerfull hardware. and its windows based so games with anticheats will work while they dont on steamdeck.",
+          "score": 3,
+          "created_utc": 1749457106.0,
+          "replies": []
+        },
+        {
+          "id": "mwsj9eq",
+          "author": "Critical_Impact",
+          "body": "Coming from someone on the valve side of the fence, I would assume the primary benefit is the ability to use gamepass. Would mean a high initial commitment cost but a low monthly cost if you don't expect to being gaming a huge amount.\n\nThe downside is that gamepass does have a sliding window for games so some do get rotated out of the catalog.\n\nPerformance as well, this is 4-5 years after the SD was initially released so you'll have a potentially better time on newer games.\n\nAlso it runs windows so kernel level anti-cheat is more than likely more supported\n\nIf you aren't playing AAA games and don't have any games with kernel level anti-cheat I still think the SD is the better price proposition and experience",
+          "score": 1,
+          "created_utc": 1749453521.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwp8fzt",
+      "author": "Onetimehelper",
+      "body": "From hx370 handhelds that have the same 890 GPU, I\u2019m expecting on average a 10% increase over the current best Z1E implementation which is the Ally X. Not bad if you\u2019re coming from steam deck or the OG Ally.\u00a0\n\nBut I would wait on reviews. The design is iffy too. Like a wider portal. Too much space between the edges to the actual screen. Portal is actually a good balance.\u00a0\n\nIf my opinion matters (usually doesn\u2019t) would get an open box Ally X and wait and see what the next gen has.\u00a0\n\nPersonally waiting for OLED HDR VRR, 8inches, RDNA 4/or DLSS, 3+ hour battery life on intensive games like Cyberpunk and easy dockability, greater than 30% improvement on Z1E at 1080 or 1200p (~60fps locked Ray tracing High Cyberpunk with quality upscaling) Under $1000. \u00a0Feel like we\u2019re almost there.\u00a0\n\nFrom seeing what GTA6 can look like on a base PS5, have a feeling that devs will start optimizing for current gen hardware a lot better now to stay competitive, and that may prolong the life of Z1E/Z2E, and can mean that Z3 or Z4 might actually be console replacements, like the switch is for Nintendo.\u00a0\n\nTime will tell. Feel free to criticize or add to this",
+      "score": 3,
+      "created_utc": 1749408416.0,
+      "replies": [
+        {
+          "id": "mwqzrzd",
+          "author": "Hollywood-is-DOA",
+          "body": "I hate a feeling that the Xbox s is why we\u2019ve not had as many great games as we should have done. No way you get GTA 6 working on both Xbox versions.",
+          "score": 2,
+          "created_utc": 1749429183.0,
+          "replies": []
+        },
+        {
+          "id": "mwtydrq",
+          "author": "Birneysdad",
+          "body": "So far portable tech has always been caught up by more demanding games. By the time a Gameboy can run cp77 for 3 hours, the game you'll want to play it on won't.",
+          "score": 1,
+          "created_utc": 1749477459.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwpkp27",
+      "author": "mugnas",
+      "body": "it will flop",
+      "score": 3,
+      "created_utc": 1749412170.0,
+      "replies": [
+        {
+          "id": "mwr0b11",
+          "author": "NLight7",
+          "body": "I want to believe in it, but at the same time Microsoft is actively pushing Windows to be worse and worse. I wonder how all those updates will affect this console.\n\nWill it also force update at some point without your consent?\n\nWill the updates break games randomly?\n\nWill the bloat lessen or will it continue to increase? It already has some new co-pilot bloat announced.\n\nI am very sceptical that it will actually stay a good experience. Cause Microsoft sucks at developing towards good experience. I doubt they will remove all the telemetry. Or that spy stuff that will screenshot your screen, analyse it and collect it in a nice easy to find sorted folder for any hacker to get.\n\nThen you have ASUS, some of the worst support given from any company. The amount of handhelds they have pushed out in a short amount of time doesn't really scream, \"We will support these longterm\".",
+          "score": 6,
+          "created_utc": 1749429374.0,
+          "replies": []
+        },
+        {
+          "id": "mwtzaxg",
+          "author": "Birneysdad",
+          "body": "The tech nerd in me won't spit +$700 out for an oledless device. The casual in me won't spend +$700 on an Xbox switch.",
+          "score": 1,
+          "created_utc": 1749477750.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwp02fj",
+      "author": "IAreBeMrLee",
+      "body": "I hate when they launch without an OLED model because that means they'll inevitably do so and thus want you to buy it again",
+      "score": 1,
+      "created_utc": 1749405913.0,
+      "replies": []
+    },
+    {
+      "id": "mwrabpf",
+      "author": "snowflake37wao",
+      "body": "PC?",
+      "score": 1,
+      "created_utc": 1749433003.0,
+      "replies": []
+    },
+    {
+      "id": "mwrd1sl",
+      "author": "Jon_TWR",
+      "body": "Does the Xbox app let you play all ypyr Xbox games? At least those compatible with the Xbox Series S|X?",
+      "score": 1,
+      "created_utc": 1749433984.0,
+      "replies": [
+        {
+          "id": "mx2wiwx",
+          "author": "EnvironmentalRun1671",
+          "body": "No because Windows can't run Xbox game unless it supports play anywhere and has pc version.",
+          "score": 0,
+          "created_utc": 1749586876.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwrpm6l",
+      "author": "KYresearcher42",
+      "body": "Does it play the games on the device or stream them from the Xbox?",
+      "score": 1,
+      "created_utc": 1749438742.0,
+      "replies": [
+        {
+          "id": "mx2wa3k",
+          "author": "EnvironmentalRun1671",
+          "body": "Both",
+          "score": 1,
+          "created_utc": 1749586806.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwrv96m",
+      "author": "Syranth",
+      "body": "Can they just stick to one of anything? Did they not learn from the Xbox Series S vs X?",
+      "score": 1,
+      "created_utc": 1749441129.0,
+      "replies": []
+    },
+    {
+      "id": "mwrxrii",
+      "author": "CodyNorthrup",
+      "body": "If next gen is XBOX with full Steam capabilities, it might actually come back in the console wars",
+      "score": 1,
+      "created_utc": 1749442248.0,
+      "replies": []
+    },
+    {
+      "id": "mwseuox",
+      "author": "GoldieForMayor",
+      "body": "Nah.",
+      "score": 1,
+      "created_utc": 1749451019.0,
+      "replies": []
+    },
+    {
+      "id": "mwsjmfr",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1749453729.0,
+      "replies": [
+        {
+          "id": "mwtgx5s",
+          "author": "supermitsuba",
+          "body": "Based on the ROG Ally X today, it's at least $800 if not more.",
+          "score": 1,
+          "created_utc": 1749471273.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwsybvo",
+      "author": "raveenbikha",
+      "body": "Don\u2019t like that Microsoft goal from e3 2013 is slowly working",
+      "score": 1,
+      "created_utc": 1749462444.0,
+      "replies": []
+    },
+    {
+      "id": "mwtgtab",
+      "author": "supermitsuba",
+      "body": "Now, Xbox has a console that is twice the price and half as powerful as their console.  How much disposable income do these companies think people have?",
+      "score": 1,
+      "created_utc": 1749471231.0,
+      "replies": []
+    },
+    {
+      "id": "mwtgywh",
+      "author": "QueenSins_222",
+      "body": "Can't wait for my wallet to start crying",
+      "score": 1,
+      "created_utc": 1749471293.0,
+      "replies": []
+    },
+    {
+      "id": "mx5ee0t",
+      "author": "cowboysfromhell1999",
+      "body": "What I\u2019m wondering is, I\u2019m looking for a handheld that can play both my steam library and my Xbox library, \nSo my question is  will this Xbox handheld play my ENTIRE Xbox library (or just game pass games) \n\nMy understanding can also stream my Xbox games like the PlayStation portal, which is cool, but I wanna know if I can natively without having another console nearby. Play my Xbox library.  If it\u2019s just Xbox game pass games that\u2019s a little different because that\u2019s much more limited.",
+      "score": 1,
+      "created_utc": 1749618308.0,
+      "replies": []
+    },
+    {
+      "id": "mxmqvg8",
+      "author": "WILLxLOVE",
+      "body": "When\u2019s the release?",
+      "score": 1,
+      "created_utc": 1749848344.0,
+      "replies": []
+    },
+    {
+      "id": "mwp18bs",
+      "author": "MrGunny94",
+      "body": "No OLED no buy",
+      "score": 1,
+      "created_utc": 1749406264.0,
+      "replies": [
+        {
+          "id": "mwplahr",
+          "author": "Politican91",
+          "body": "Fuck, did they say that?",
+          "score": 4,
+          "created_utc": 1749412354.0,
+          "replies": [
+            {
+              "id": "mwpluto",
+              "author": "MrGunny94",
+              "body": "Yeah LCD IPS..",
+              "score": 3,
+              "created_utc": 1749412527.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwoujrr",
+      "author": "doctorweiwei",
+      "body": "Shit okay I\u2019m in",
+      "score": 0,
+      "created_utc": 1749404268.0,
+      "replies": []
+    },
+    {
+      "id": "mwr2kc8",
+      "author": "Abdullah-Alturki",
+      "body": "the only interesting part of that was the silksong footage. u can keep ur console",
+      "score": 1,
+      "created_utc": 1749430195.0,
+      "replies": []
+    },
+    {
+      "id": "mwptwh3",
+      "author": "quentinvespero",
+      "body": "the design is very bad in my opinion..\n\nI wish their next handheld will be made by the Microsoft Surface team",
+      "score": 1,
+      "created_utc": 1749415007.0,
+      "replies": []
+    },
+    {
+      "id": "mwqcrtw",
+      "author": "Null42x64",
+      "body": "We are getting portable XBOX before GTA 6",
+      "score": 1,
+      "created_utc": 1749421099.0,
+      "replies": []
+    },
+    {
+      "id": "mws2x3f",
+      "author": "trowayit",
+      "body": "How many rows of ads does this one have?  Hopefully as many as my Xbox series X that I never turn on",
+      "score": 1,
+      "created_utc": 1749444681.0,
+      "replies": []
+    },
+    {
+      "id": "mwppuao",
+      "author": "Rixien",
+      "body": "I\u2019m sure this will be the handheld to put Nintendo down for good this time, right?",
+      "score": 0,
+      "created_utc": 1749413758.0,
+      "replies": [
+        {
+          "id": "mwr8tbu",
+          "author": "MathematicianFar8661",
+          "body": "It's not even going to reach 10% of Switch 2 sales.",
+          "score": 5,
+          "created_utc": 1749432452.0,
+          "replies": []
+        },
+        {
+          "id": "mwsbbk2",
+          "author": "cunningmunki",
+          "body": "bless",
+          "score": 1,
+          "created_utc": 1749449055.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwot2xo",
+      "author": "None",
+      "body": "Cool. Although, I\u2019d rather have a monster of a laptop. I\u2019m still enjoying the mobile push in gaming",
+      "score": 0,
+      "created_utc": 1749403826.0,
+      "replies": []
+    },
+    {
+      "id": "mwp27u5",
+      "author": "ecavalli",
+      "body": "Let\u2019s recap.\n\nMicrosoft is adding its Xbox branding and a no-doubt bloated handheld Xbox OS to a \u201cnew\u201d version of the existing ROG Ally line redesigned with a focus on looking *and* feeling more unwieldy than the originals.\n\nNot only that, but the \u201cnew\u201d Xbox Allys are technically identical to the older, better versions, which, having been available for 2 years now, are looking a bit long in the tooth.\n\nThis is going to be a hilarious disaster.\n\nEDIT: Oh! I almost forgot! The physical redesign of the Xbox Ally means it won\u2019t be compatible with a wide swath of the existing (and massive) ecosystem of accessories, including but not limited to, docks, skins, and basically any device that physically attaches to the handheld PC.\n\nPeople are going to be fired over this.",
+      "score": -11,
+      "created_utc": 1749406556.0,
+      "replies": [
+        {
+          "id": "mwpa83e",
+          "author": "jc-from-sin",
+          "body": "Missed it man. Different hardware for once. (slightly) Different design second.",
+          "score": 3,
+          "created_utc": 1749408946.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwpckf7",
+      "author": "drc84",
+      "body": "Who the hell cares about that thing, did you see all that Silksong footage?!?!",
+      "score": -3,
+      "created_utc": 1749409651.0,
+      "replies": [
+        {
+          "id": "mwqhhqc",
+          "author": "Neo_Techni",
+          "body": "Who the hell cares about Silksong, did you see that portable XBOX PC?",
+          "score": -1,
+          "created_utc": 1749422729.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwrdt09",
+      "author": "imanoobee",
+      "body": "We need to step away from Xbox and PlayStation handhelds. They had the whole time to be innovative but it seems like they only doing one console type of gaming.",
+      "score": 0,
+      "created_utc": 1749434256.0,
+      "replies": []
+    },
+    {
+      "id": "mwricas",
+      "author": "skyfish_",
+      "body": "Oh man, Microsoft teaming up with Asus, what a collab indeed! I think I'm already getting a little bit of cancer just reading about it. Now they only need to bring in someone like HP for example so they can sprinkle some space AIDS on top of whatever this is",
+      "score": 0,
+      "created_utc": 1749435923.0,
+      "replies": []
+    },
+    {
+      "id": "mwp3h42",
+      "author": "Akaza_Dorian",
+      "body": "So Silksong when",
+      "score": -1,
+      "created_utc": 1749406925.0,
+      "replies": []
+    },
+    {
+      "id": "mwp6ngq",
+      "author": "Bruzur",
+      "body": "My guess is that the Z2E variant is going to be $799. However, if they heavily subsidize the handheld \u2014 $599. Highly unlikely, IMO.",
+      "score": 0,
+      "created_utc": 1749407875.0,
+      "replies": []
+    },
+    {
+      "id": "mws8jo3",
+      "author": "deshokes",
+      "body": "Only gamers I know who will be able to afford are the 1%",
+      "score": 0,
+      "created_utc": 1749447564.0,
+      "replies": []
+    },
+    {
+      "id": "mwu00sb",
+      "author": "ChafterMies",
+      "body": "This is one more step toward  Microsoft killing its Xbox hardware. The next step is an Xbox mode for living room PCs. This step will require someone else to make a living room PC. Good luck with that.",
+      "score": 0,
+      "created_utc": 1749477977.0,
+      "replies": []
+    },
+    {
+      "id": "mwz1djk",
+      "author": "Vigorously_Swish",
+      "body": "Traditional consoles are dead imo. Every console going forward will be a handheld that can dock into a full-screen experience",
+      "score": 0,
+      "created_utc": 1749536952.0,
+      "replies": [
+        {
+          "id": "mx2vtta",
+          "author": "EnvironmentalRun1671",
+          "body": "Still sell millions",
+          "score": 1,
+          "created_utc": 1749586679.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwp0fi8",
+      "author": "Fredasa",
+      "body": "Yep.\n\nAnd the ball is in Sony's court.  I remain fully confident that the PS6, or in any event Sony's next console (which they may elect not to call \"Playstation 6\"), will be a portable device.  There's zero remaining incentive to continue down a \"core console\" path.",
+      "score": -13,
+      "created_utc": 1749406021.0,
+      "replies": [
+        {
+          "id": "mwp2guq",
+          "author": "dunn000",
+          "body": "Their incentive is they\u2019ve gotten the whole market. What incentive do they have to goto handheld when they are the have the top selling home console on the market? \n\nThe ball isn\u2019t \u201cin Sonys court\u201d\n\nThis does nothing in reality. Not to mention the whole A vs B thing is so overplayed and exhausting.",
+          "score": 10,
+          "created_utc": 1749406629.0,
+          "replies": [
+            {
+              "id": "mwp4v5z",
+              "author": "LyisCn",
+              "body": "The ps portal sold extremely above expectations, even though it\u2019s just a dedicated streaming device. They have the data showing there\u2019s a massive market for handheld systems now. So for sure they are going to want to tap into that.",
+              "score": -4,
+              "created_utc": 1749407339.0,
+              "replies": [
+                {
+                  "id": "mwpd8lp",
+                  "author": "dunn000",
+                  "body": "Maybe to a point but this ding dong said  that there\u2019s no reason for Sony so stay in home consoles.",
+                  "score": 3,
+                  "created_utc": 1749409857.0,
+                  "replies": [
+                    {
+                      "id": "mwpe30w",
+                      "author": "LyisCn",
+                      "body": "Oh I missed that, yeah idk about that part lol",
+                      "score": 2,
+                      "created_utc": 1749410115.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwp64p5",
+              "author": "Fredasa",
+              "body": "A few things.\n\nFirst, Nintendo is knocking on their door willy-nilly.  Core consoles as epitomized by MS/Sony stopped offering anything over PCs by the end of the Xbox 360 era and have depreciated conspicuously with each gen since.  Nintendo's Switch 2 is now very nearly a competitor in a space Nintendo deliberately abandoned with the advent of the Wii, and this is underscored by the likes of From Software making their next major game exclusive to Nintendo.  The two audiences are officially recombining, thanks entirely to the ever-diminishing relative power of traditional core consoles.\n\nSecond, Microsoft has understood the path forward quite well, and they have been taking advantage of their unique position as the merchants of Windows to establish the only kind of platform that makes sense in a world where consoles can never again catch up with PCs.\n\nThird, \"Sony exclusives\" are increasingly anomalous, and one would have a hard time arguing that a large proportion of console users buy a Playstation specifically and only to play games that are exclusive to the platform.  Capcom and others are leading the charge to the inevitable, and the payoff is obvious, with more than half of Capcom's revenue generated from PC sales.  Within this context, the entire point of \"a non portable console\" unavoidably blurs, and the biggest remaining appeal of anything non-portable is how it stacks up against PCs as a value prospect\u2014which itself gets strained by the reality of how much more can be done on an open platform, including upcoming devices that support SteamOS.\n\nIf Sony were to make another traditional core console without portability, they would realistically have no choice but to allow SteamOS and Gamepass on their device.  On that note, I also fully expect them to establish their own Gamepass clone that works well on Steamdeck and Windows.",
+              "score": -5,
+              "created_utc": 1749407716.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwp3c0z",
+          "author": "tameoraiste",
+          "body": "There's been zero indication that Sony's next console will be handheld. They'll do both.",
+          "score": 6,
+          "created_utc": 1749406883.0,
+          "replies": []
+        },
+        {
+          "id": "mwpxoaa",
+          "author": "Ashencroix",
+          "body": "Making the PS6 a portable console ala Switch 2, while still performing ahead of the PS5, will result in a really expensive device with shit battery life and will flop.\n\nThe Switch 2 works because it sacrifices performance and apparently battery life. The best path for Sony for the PS6 is to still release the PS6 as a console and then release a companion PSP2/Vita 2.",
+          "score": 3,
+          "created_utc": 1749416183.0,
+          "replies": [
+            {
+              "id": "mwpzabv",
+              "author": "Fredasa",
+              "body": "I personally don't expect it to be meaningfully more powerful than the PS5.  I think it will have a _token, theoretical_ advantage, just to avoid looking like they took a step backwards, and that it will instead leverage DLSS-equivalent upscaling and framegen to fill in the otherwise unavoidable performance gap.  That part of it is blatantly obvious, since the audience for console-like hardware, to differentiate from PC purists, have all the patience in the world for the artifacting and latency you get from those techs.  Sony also have the option to use a more advanced process node than 8nm.",
+              "score": -1,
+              "created_utc": 1749416692.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwp28z8",
+          "author": "CanisMajoris85",
+          "body": "Sony always just did a \u201clow power mode\u201d designation which could set the path for a handheld in maybe 2-4 years",
+          "score": 1,
+          "created_utc": 1749406565.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwoyob1",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -5,
+      "created_utc": 1749405494.0,
+      "replies": [
+        {
+          "id": "mwp02nc",
+          "author": "HuskyLemons",
+          "body": "It will support steam. Same as the current ROG Ally, it\u2019ll be running windows 11. This one just has a better interface right out of the box",
+          "score": 5,
+          "created_utc": 1749405914.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

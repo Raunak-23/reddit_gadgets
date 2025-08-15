@@ -1,0 +1,676 @@
+{
+  "post": {
+    "title": "Old Gigabyte laser mouse bursts into flames, the company is investigating | Spontaneous combustion or unknown hardware issue?",
+    "author": "chrisdh79",
+    "id": "1i8txl4",
+    "score": 696,
+    "created_utc": 1737720573.0,
+    "selftext": "",
+    "num_comments": 76,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i8txl4/old_gigabyte_laser_mouse_bursts_into_flames_the/"
+  },
+  "comments": [
+    {
+      "id": "m8wg6nd",
+      "author": "gorcorps",
+      "body": "He's the original Reddit thread: https://www.reddit.com/r/pcmasterrace/s/aklcqoz6Re\n\nThis article is just reporting what they found in that thread",
+      "score": 228,
+      "created_utc": 1737722618.0,
+      "replies": [
+        {
+          "id": "m8wse0f",
+          "author": "Fluxtration",
+          "body": "Journalism",
+          "score": 97,
+          "created_utc": 1737727137.0,
+          "replies": [
+            {
+              "id": "m95z1bz",
+              "author": "PhillAholic",
+              "body": "What do you think reporting is?",
+              "score": 2,
+              "created_utc": 1737843174.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8xfkbg",
+          "author": "imaginary_num6er",
+          "body": "Hopefully there's an article about this Reddit post on the article on an a Reddit post",
+          "score": 18,
+          "created_utc": 1737734200.0,
+          "replies": [
+            {
+              "id": "m8z3mri",
+              "author": "RottenPingu1",
+              "body": "Can we get some blow by blow YouTube reaction videos too?",
+              "score": 3,
+              "created_utc": 1737750975.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8wemmq",
+      "author": "hotlavatube",
+      "body": "Aside from someone resting their cigarette on the mouse, a lightning strike, or some nearby lens focusing the sun, I can't imagine how a wired mouse could self-immolate. Even if someone used some weird off-brand motherboard that somehow had no amp cutoff on the USB ports, I would've expected there to be way more vulnerable paths that'd fry first.   \n   \nHmm... I guess if you used an adapter to plug into a USB-C port, you could possibly get a higher amperage (up to 3A) compared to the standard 0.5A on USB-A, but I'm a bit dubious.",
+      "score": 104,
+      "created_utc": 1737721956.0,
+      "replies": [
+        {
+          "id": "m8x1iik",
+          "author": "cat_prophecy",
+          "body": "Current is a rope; you can only pull amps. If something is drawing 3A it's because it CAN, not because 3A is being pushed into it. \n\nIf it were the case that someone plugged the mouse into a port that could output 1000A, it won't matter because the mouse should only be capable of pulling a tiny fraction of that current.",
+          "score": 43,
+          "created_utc": 1737730116.0,
+          "replies": [
+            {
+              "id": "m8x2lnl",
+              "author": "NickCharlesYT",
+              "body": "This is correct, until there's a short or other issue with the device that causes it to try and pull more then the limit is working against you.",
+              "score": 17,
+              "created_utc": 1737730449.0,
+              "replies": [
+                {
+                  "id": "m8x5h5k",
+                  "author": "cat_prophecy",
+                  "body": "The short would have to be internal to the USB controller that limits current demand which is unlikely and might actually be impossible.",
+                  "score": 5,
+                  "created_utc": 1737731311.0,
+                  "replies": [
+                    {
+                      "id": "m8xsrze",
+                      "author": "NickCharlesYT",
+                      "body": "Or it may not follow USB spec. You'd be surprised how many devices are noncompliant.",
+                      "score": 7,
+                      "created_utc": 1737737846.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m919ylf",
+                      "author": "zakkord",
+                      "body": "if the controller had CC curcuitry there wouldn't be a need to have a polyfuse on every motherboard, it has a shunt to measure it(and it's shared for all ports on the controller), it doesn't limit anything. You can connect a 3A peripheral like a heated glove and they will work without any negotiation or even data lines connected and check the current draw with a multimeter",
+                      "score": 3,
+                      "created_utc": 1737776143.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m9a8afc",
+                  "author": "None",
+                  "body": "In which case the cable should've been the weak link afaik.",
+                  "score": 1,
+                  "created_utc": 1737907613.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8ysetj",
+          "author": "pressedbread",
+          "body": "This was a laser mouse, the mirror polish on the desk amplified the wavelength at least 1000% to create butterfly effect style wormhole through the dimensions and it just so happened to open a time rift where someone else's laser mouse was exploding for unknown reasons.  Is this a coincidence?",
+          "score": 10,
+          "created_utc": 1737747756.0,
+          "replies": [
+            {
+              "id": "m8z00qw",
+              "author": "hotlavatube",
+              "body": "Well I hadn't considered it siphoning energy from the Berenstein dimension where President Hillary nuked Greenland.",
+              "score": 6,
+              "created_utc": 1737749935.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8ww68e",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 20,
+          "created_utc": 1737728407.0,
+          "replies": [
+            {
+              "id": "m8ywkje",
+              "author": "alexanderpas",
+              "body": "up to 3A, without any active communication, via two 5.1kOhm resistors, one on each of the CC channels, tied to ground.",
+              "score": 8,
+              "created_utc": 1737748942.0,
+              "replies": [
+                {
+                  "id": "m8z3huw",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 2,
+                  "created_utc": 1737750936.0,
+                  "replies": [
+                    {
+                      "id": "m8z9xd5",
+                      "author": "shinyfootwork",
+                      "body": "USB type A can pull up to 2a at 5v with the right resistors between the data lines.",
+                      "score": 2,
+                      "created_utc": 1737752758.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m912mwn",
+                      "author": "lainlives",
+                      "body": "Except my red ports which is all the back ones except the top two..... those can do up to 3a passively with no communication and remain powered on at shutdown.",
+                      "score": 0,
+                      "created_utc": 1737773438.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m8zk1sw",
+                  "author": "hotlavatube",
+                  "body": "Ah the joys of mixing data cables and power charging cables...    \n   \nThat would be interesting to test. Wire up the data wires to tell the PC the mouse is a very thirsty high-amp draw lithium battery. If I'm understanding this correctly, you could even make a pass-through adapter to force this condition on any unsuspecting devices.   \n  \nI'm still predicting than in almost every case, it'll fail in a safe manner. However, someone did note that this model had a habit of accumulating dust bunnies inside (which is odd for an optical mouse). Perhaps the combination of an overamp fault and a dust collection could lead to this self-immolation.",
+                  "score": 1,
+                  "created_utc": 1737755617.0,
+                  "replies": [
+                    {
+                      "id": "m8zwyj1",
+                      "author": "alexanderpas",
+                      "body": "USB-C will start out a 0V, and will only provide 5V up to 3A if the right resistors on the CC lines are detected, for a max of 15W.\n\nTo get anything higher than that, there needs to be active communication, with the capabilities of the device requesting power, the device providing power, as well the cable being interrogated, with the maximum amount provided being limited to what all of them can handle.",
+                      "score": 1,
+                      "created_utc": 1737759467.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8wvdzx",
+          "author": "koolaidismything",
+          "body": "I\u2019ll bet he\u2019s one of those dudes who had to take anything he buys apart and put it back together poorly. Happens more than you\u2019d think.",
+          "score": 11,
+          "created_utc": 1737728149.0,
+          "replies": [
+            {
+              "id": "m8xznge",
+              "author": "kimjongunderdog",
+              "body": "Why you gotta call me out like that.",
+              "score": 2,
+              "created_utc": 1737739753.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8x3et0",
+          "author": "YouRebelScumGuy",
+          "body": "Remember the Hezbollah pagers? Maybe this is phase 2 starting with other decades old infrastructure?",
+          "score": 7,
+          "created_utc": 1737730692.0,
+          "replies": [
+            {
+              "id": "m8ywfvr",
+              "author": "IntrinsicGiraffe",
+              "body": "They didn't sell it all so they opted to selling it oversea to recoup the cost. /s",
+              "score": 2,
+              "created_utc": 1737748904.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8xc45q",
+          "author": "Seattlepowderhound",
+          "body": "iirc, someone posted the same mouse taken apart, I guess the mouse has a habit over the years of collecting little dust balls in the frame depending on what sort of mouse pad/desk/clothes you're using. I'm going to bet that is going to be the final cause.",
+          "score": 2,
+          "created_utc": 1737733229.0,
+          "replies": []
+        },
+        {
+          "id": "m9af55l",
+          "author": "qckpckt",
+          "body": "You\u2019d be surprised how little current/voltage is required to start a fire in cheap electronics.\n\nMy doorbell caught fire.\n\nMy house came with a doorbell that ran on an 18v DC circuit. The doorbell circuit was very simple - you press a button and this closes a circuit which makes a hammer rise to hit a bell for the ding. Probably a little electromagnet or something. When you release the button the circuit is open again, the hammer falls and hits a second bell for the dong.\n\nOne day my doorbell dinged but didn\u2019t dong. I didn\u2019t notice it at the time. What had happened is that water damage had corroded the doorbell button so the circuit stayed closed. About an hour later, the doorbell caught fire because the thin metal wire coil for the electromagnet got hot enough to melt, contacted the plastic enclosure and went up in flames.\n\nThankfully, I was home at was able to pull the alarm off the wall and extinguish it before things got really bad. We were just left with scorch marks on a wall and a weird story.\n\nBut yeah, shitty electronics can cause fires even with low current and voltage if they\u2019re shitty enough.",
+          "score": 1,
+          "created_utc": 1737909610.0,
+          "replies": []
+        },
+        {
+          "id": "m8zug0n",
+          "author": "BoraxTheBarbarian",
+          "body": "This is fake. The cable is not rated for much amperage and would have melted before anything happened.",
+          "score": 0,
+          "created_utc": 1737758699.0,
+          "replies": [
+            {
+              "id": "m907z6r",
+              "author": "hotlavatube",
+              "body": "Well in an over-amp fault there are smaller wires inside the mouse that'd go first, likely cutting the circuit after a brief flash/pop. The power wires in USB are 20-28AWG size which are rated for 3.5-1.5 amps, roughly. At 5v, a circuitboard trace can safely carry around 1amp. So, it's likely that the trace or a component will briefly burn/pop before the cable even heats up.   \n  \nFor example, check out [this vid](https://youtu.be/4N4iDKYiKcU?t=76) where some kids try to send way too much power through a USB mouse (at a way higher voltage too). It briefly flashes inside the mouse and goes dead. They end up cranking up the voltage, but it quickly becomes clear it's just the ends of the wire sparking to eachother inside the mouse.      \n  \nI'm still dubious, but someone noted this mouse was prone for accumulating dust inside (likely from the scroll wheel openings on top). If the mouse somehow encounters an overamperage fault and sparks, then in a million-to-one chance it could ignite some dust bunnies and start a small fire. \n\nAnother [comment](https://www.reddit.com/r/gadgets/comments/1i8txl4/comment/m8ywkje/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) noted that USB cables/devices are designed to tell the PC how much amperage the cables/devices can support. This can be done passively by adding resistors on certain data lines. So if by some fluke your mouse was demanding enough power to charge a lithium battery, or you were using some shoddy USB adapter/extension that requested high-amperage, then perhaps an over-amperage fault could occur?    \n   \nKinda reminds me of that rash of exploding knockoff iPhone USB wall chargers.",
+              "score": 2,
+              "created_utc": 1737762965.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8wexl0",
+      "author": "lyssah_",
+      "body": "Can't wait to find out OP is just full of shit and lit it on fire.",
+      "score": 78,
+      "created_utc": 1737722091.0,
+      "replies": [
+        {
+          "id": "m8x1tfd",
+          "author": "cat_prophecy",
+          "body": "Judging from the number of people who manage to absolutely destroy their case side panels. I would say this is more than likely.",
+          "score": 5,
+          "created_utc": 1737730209.0,
+          "replies": []
+        },
+        {
+          "id": "m8wpwpl",
+          "author": "ministryofchampagne",
+          "body": "The first post was on r/pcmasterrace I bet they are a gamer who smashes their mouse when frustrated. Broke connection and bad wire insulation can start a fire. Figured it should short out before that. Probably why the company is so interested",
+          "score": 18,
+          "created_utc": 1737726279.0,
+          "replies": [
+            {
+              "id": "m8wtspk",
+              "author": "bobbyturkelino",
+              "body": "Or a decade of Cheeto dust finally caught an arc and detonated",
+              "score": 22,
+              "created_utc": 1737727617.0,
+              "replies": []
+            },
+            {
+              "id": "m8wu2jo",
+              "author": "OperativePiGuy",
+              "body": "It always blows my mind when people share stories of smashing their controllers or mice/whatever.  I can't imagine being that emotionally volatile that I lose control on things I own.",
+              "score": 14,
+              "created_utc": 1737727710.0,
+              "replies": [
+                {
+                  "id": "m8wuz68",
+                  "author": "kpresnell45",
+                  "body": "Pre-teens, Halo 2 lan party days, controllers were definitely abused. But they could handle it back then.",
+                  "score": 5,
+                  "created_utc": 1737728012.0,
+                  "replies": [
+                    {
+                      "id": "m8zbgyr",
+                      "author": "AuryGlenz",
+                      "body": "We had Halo LANs at least weekly and I don\u2019t remember a single person ever throwing or smashing a controller. \n\nGames are supposed to be fun.",
+                      "score": 4,
+                      "created_utc": 1737753198.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m9363jj",
+                      "author": "RbN420",
+                      "body": "Tbh I shattered a ps2 controller to bits as kid\u2026 but it indeed withstood quite the punishment before total breakage",
+                      "score": 1,
+                      "created_utc": 1737812285.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8wipbn",
+      "author": "jakgal04",
+      "body": "I'm calling bullshit on this one.\n\nHow the hell does a 5v usb powered device go up in flames? Take a USB cable, cut it and twist all of the exposed wires together, absolutely nothing will happen. 5v isn't enough to cause something like this and on top of that a lot of computers will just shut off the USB port if it detects a short or something wrong. Lastly, the backside of the mouse has the most damage, yet all of the electronics in that mouse are towards the front. \n\nHad this been a battery powered mouse, I *might* be able to believe it if there was a defect in the battery pouch, but even that's a stretch.",
+      "score": 41,
+      "created_utc": 1737723630.0,
+      "replies": [
+        {
+          "id": "m8wuzfi",
+          "author": "TheRealPitabred",
+          "body": "A 1.2V AA battery can start a fire with a bit of gum wrapper. The voltage won't jump through air gaps, but if there's a short it will still heat up plenty.",
+          "score": 4,
+          "created_utc": 1737728014.0,
+          "replies": [
+            {
+              "id": "m8wxvj2",
+              "author": "rocknrollstalin",
+              "body": "Yeah I\u2019ve had a cheap usb cable heat up tons and start smoking while plugged into a 12V usb adapter in my car due to a short in the cable. A lot of power supplies only give 500mA but some will happily max out 3A+",
+              "score": 1,
+              "created_utc": 1737728957.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8wje98",
+          "author": "oneplusetoipi",
+          "body": "The mouse bit a power cord.\n\nSeriously there are some capacitors that can get extremely hot when they degrade even at low voltage.",
+          "score": 6,
+          "created_utc": 1737723903.0,
+          "replies": [
+            {
+              "id": "m8wjppi",
+              "author": "jakgal04",
+              "body": "They can, and they can vent, but not on something this small. 5v can't harm a fly, its physically impossible to generate enough heat from 5v and low USB amperage.\n\nI'm actually curious to see how this investigation pans out lol",
+              "score": 7,
+              "created_utc": 1737724026.0,
+              "replies": [
+                {
+                  "id": "m8xem19",
+                  "author": "shalol",
+                  "body": "It\u2019s a known trick to use a piece of foil and a 1.5V AA battery to start a fire.\n\nIt\u2019s possible for the motherboard to have delivered over its USB amp limit.",
+                  "score": 3,
+                  "created_utc": 1737733933.0,
+                  "replies": [
+                    {
+                      "id": "m921qbf",
+                      "author": "TheBigBo-Peep",
+                      "body": "My thoughts as well\n\nGiven enough of a short to cause high amperage, you can get a serious burn or a fire from very low voltage. Heck a car battery is only 12 volts.",
+                      "score": 2,
+                      "created_utc": 1737789292.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8xne9j",
+              "author": "try_harder_later",
+              "body": "Ceramic caps (the most common type in small electronics nowadays) can fail in a low resistance state if they are mechanically mishandled. Assuming a USB port with 5V 2A, bad cap across the power line dumping 10W of heat, could potentially set a plastic case on fire.\n\nI'm definitely leaning towards cigarette butt or misfocused sun ray though",
+              "score": 1,
+              "created_utc": 1737736368.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8wefif",
+      "author": "Flawless_Leopard_1",
+      "body": "I am so ready for supernatural phenomena in tech. Sounds fun",
+      "score": 9,
+      "created_utc": 1737721869.0,
+      "replies": [
+        {
+          "id": "m8wf2ey",
+          "author": "pukem0n",
+          "body": "SCP-8174. A gigabyte mouse inhabited by a strange power, spontaneously combusting when you suck at call of duty. We believe it is is inhabited by a 12 year old who died while shit talking someone in a COD lobby.",
+          "score": 13,
+          "created_utc": 1737722148.0,
+          "replies": [
+            {
+              "id": "m8x8e08",
+              "author": "Deranged_Kitsune",
+              "body": "Tie the temperature of the mouse to the rage level of the user. Normally, it's room temperature, like a typical mouse. The harder the user rages, though, the hotter the mouse gets.\n\nIt came to the Foundation's attention when little 11-year old Timmy was griefed for an hour in fortnite and the mouse burst into flames, resulting in the loss of his hand.",
+              "score": 1,
+              "created_utc": 1737732162.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8wezl1",
+          "author": "MeatHamster",
+          "body": "Unless it happens to your own tech. That doesn't sound fun.",
+          "score": 3,
+          "created_utc": 1737722114.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8wqaht",
+      "author": "wickeddimension",
+      "body": "OP claims the mouse burned through the pad and burned the desk. But his own image of the bottom ([source](https://www.reddit.com/r/pcmasterrace/comments/1i7br8w/comment/m8jej1e/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)) show it absolutely unharmed. The wire of the mouse is also perfectly fine and not burned or damaged by a potential currency surge. If this mouse burned internally long and intense enough to melt the top, the rest of the mouse would show signs of it too. And if the mouse burned the table, the bottom wouldn't be pristine.\n\nOn top of the above, the account hasn't been active for 3 years neither in comments or posts, until today when they post this.\n\nAll of a bunch of karma farming bullshit. Worst part is actual people at Gigabyte will have to investigate and release statements about this too.",
+      "score": 22,
+      "created_utc": 1737726415.0,
+      "replies": [
+        {
+          "id": "m91fnm6",
+          "author": "corianderjimbro",
+          "body": "I brought up the same issues on the original post",
+          "score": 1,
+          "created_utc": 1737778407.0,
+          "replies": []
+        },
+        {
+          "id": "m8wu7s5",
+          "author": "NDiLoreto2007",
+          "body": "You know you cane move that mouse to anywhere to take that picture right?\nThere are photos of where it was and burned through the desk. For sake of of a better photo, I would move the mouse to a different spot to see the damage better.",
+          "score": -2,
+          "created_utc": 1737727760.0,
+          "replies": [
+            {
+              "id": "m8x4jx4",
+              "author": "wickeddimension",
+              "body": "Try thinking more critical.\u00a0\n\nHow do you figure a mouse on a desk catches fire, burns through a mouse pad and damages a table, but has \u00a0its underside be perfectly intact with any damage.\u00a0\n\nYou think wood scorches but a plastic bottom looks factory new? \u00a0There is a black mark on the table larger than the mouse but even the information sticker on the bottom fine?\u00a0\n\nHas nothing to do with where he took the photo and everything with how the damage to the desk relates to the damage on the mouse.\n\nYea I\u2019m not buying it.",
+              "score": 13,
+              "created_utc": 1737731035.0,
+              "replies": [
+                {
+                  "id": "m8x6jxu",
+                  "author": "NDiLoreto2007",
+                  "body": "I actually Inferred your post wrong. I thought you were talking about the desk in that photo being unharmed.",
+                  "score": 3,
+                  "created_utc": 1737731628.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8wiyge",
+      "author": "CrispyDave",
+      "body": "Was it a left handed mouse? Could be bad juju.\n\nBut far more likely not real at all.",
+      "score": 7,
+      "created_utc": 1737723730.0,
+      "replies": []
+    },
+    {
+      "id": "m8x20e0",
+      "author": "408wij",
+      "body": "Dozens of mice spontaneously combust each year. It's just not widely reported.",
+      "score": 6,
+      "created_utc": 1737730269.0,
+      "replies": [
+        {
+          "id": "m8xi092",
+          "author": "GracchiBros",
+          "body": "Maybe batteries catching fire on rechargeable mice.  Not on standard USB wired mice like this one.",
+          "score": 3,
+          "created_utc": 1737734887.0,
+          "replies": [
+            {
+              "id": "m8xkta5",
+              "author": "408wij",
+              "body": "There's usually a little green globule left behind. A stain, really.",
+              "score": 3,
+              "created_utc": 1737735663.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8womvh",
+      "author": "sonnyjlewis",
+      "body": "Poor mouse was undoubtedly smoking and fell asleep.",
+      "score": 4,
+      "created_utc": 1737725834.0,
+      "replies": []
+    },
+    {
+      "id": "m8wqu4w",
+      "author": "M4c4br346",
+      "body": "Burnt down mouse but the cable is fine. Yeah okay.",
+      "score": 10,
+      "created_utc": 1737726606.0,
+      "replies": []
+    },
+    {
+      "id": "m8wfnxj",
+      "author": "Doctor-Hue",
+      "body": "When exploding PSU simply isn't enough",
+      "score": 3,
+      "created_utc": 1737722402.0,
+      "replies": [
+        {
+          "id": "m8whku1",
+          "author": "karatekid430",
+          "body": "It's another type of force feedback for when the Pyro is best friends with you.",
+          "score": 4,
+          "created_utc": 1737723185.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m90pley",
+      "author": "proscriptus",
+      "body": "One random Reddit post that means nothing",
+      "score": 1,
+      "created_utc": 1737768839.0,
+      "replies": []
+    },
+    {
+      "id": "m914eq5",
+      "author": "pessimistoptimist",
+      "body": "Speaking of spontaneous combustion....you never hear of than anymore....remember unsolved mysteries? Spontaneous combustion was like every secnod episode,.man young me thinknit was a pretty common thing like quicksand deaths and piranha deaths.",
+      "score": 1,
+      "created_utc": 1737774077.0,
+      "replies": [
+        {
+          "id": "m91b08v",
+          "author": "StitchTheRipper",
+          "body": "Watching Unsolved Mysteries right now actually. No spontaneous combustion yet",
+          "score": 1,
+          "created_utc": 1737776545.0,
+          "replies": [
+            {
+              "id": "m91bf20",
+              "author": "pessimistoptimist",
+              "body": "I think it was the later seasons when they were running out of the 'good stuff'",
+              "score": 1,
+              "created_utc": 1737776704.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m91pc07",
+      "author": "thehairyhobo",
+      "body": "Something got hot and the insulation degraded to the point it allowed arcing from + to - or vice versa and once things go that far you get a thermal runaway until the source/fuel is removed or expended. Likely case if the computer was off, the usb still draws power and either + or - shorted to ground.  In normal circumstances the computer halts power on that port, not sure when its off.",
+      "score": 1,
+      "created_utc": 1737782682.0,
+      "replies": []
+    },
+    {
+      "id": "m91wjra",
+      "author": "Esreversti",
+      "body": "While it did not catch fire, I remember having ps/2 port mouse for my computer that became incredibly hot and I want to say left a small burn mark or warped the table.\n\n\nI walked into the family computer room and noticed a burning smell and touched my mouse. It was incredibly hot.\n\n\nThis was back in the late 90s/early 2000s. Probably my favorite mouse with a ball in it given how well it worked... Until it didn't. I sometimes still miss cleaning the gunk from those types of mice. You would get so used to all the gunk being in there that when you removed it and it felted like a brand new mouse.",
+      "score": 1,
+      "created_utc": 1737786366.0,
+      "replies": []
+    },
+    {
+      "id": "m99139q",
+      "author": "Noxious89123",
+      "body": "So we're doing reddit posts about articles that are about reddit posts now?\n\nJfc, just go to the original reddit thread.",
+      "score": 1,
+      "created_utc": 1737890662.0,
+      "replies": []
+    },
+    {
+      "id": "m8wvmmz",
+      "author": "theslootmary",
+      "body": "Can\u2019t wait for GN to get ahold of this and then blame LTT for it!",
+      "score": -1,
+      "created_utc": 1737728228.0,
+      "replies": []
+    },
+    {
+      "id": "m8ypm9d",
+      "author": "VincentNacon",
+      "body": "Whelp... It's time to watch their stock take a dive.",
+      "score": 0,
+      "created_utc": 1737746966.0,
+      "replies": []
+    },
+    {
+      "id": "m8wq3zc",
+      "author": "None",
+      "body": "To all the doubters, you absolutely can start a small fire with 5V @ 0.5A.  I develop USB powered hardware, it absolutely is possible.  Something in that mouse would have to be very flammable, and a component would have to fail spectacularly, but you can create a small fire with 2.5W of energy.",
+      "score": -5,
+      "created_utc": 1737726351.0,
+      "replies": [
+        {
+          "id": "m8yly83",
+          "author": "dakotanorth8",
+          "body": "\u201cI develop USB powered hardware\u2026\u201d lol, ok\ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\ud83e\udd23\n \nI too use arduino, raspberry pi\u2019s, and LED controllers.\n\nAnd by law and design they don\u2019t put intentionally flammable things inside a mouse lol. Gigabyte has a bit better resources and engineers. \n\nThis entire thread is a repeat of OP being full of shit.",
+          "score": 6,
+          "created_utc": 1737745939.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8wqdir",
+      "author": "2Bedo",
+      "body": "Does the Gigabyte mouse have a tantalum cap inside? Those can fail like volcanoes, although the voltage and current in a mouse would seem to be to low, as the failure is a short in the cap.",
+      "score": -4,
+      "created_utc": 1737726445.0,
+      "replies": []
+    },
+    {
+      "id": "m8wlj1t",
+      "author": "Wammbo",
+      "body": "My old Logitech mouse around 15 years ago also went up in flames while being on a LAN party. Everybody was shocked and then we laughed it off.",
+      "score": -4,
+      "created_utc": 1737724712.0,
+      "replies": []
+    },
+    {
+      "id": "m8wmu8t",
+      "author": "grogi81",
+      "body": "Damaged battery ignited, that's what it was...",
+      "score": -9,
+      "created_utc": 1737725190.0,
+      "replies": [
+        {
+          "id": "m8wnp2d",
+          "author": "koos_die_doos",
+          "body": "Except that it was a wired mouse with no battery.",
+          "score": 8,
+          "created_utc": 1737725499.0,
+          "replies": [
+            {
+              "id": "m8wtr0s",
+              "author": "grogi81",
+              "body": "Yeah.... For sure. \n\nWired mouse doesn't have enough combustiable material to sustain such fire. They are effectively empty inside.",
+              "score": -3,
+              "created_utc": 1737727601.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

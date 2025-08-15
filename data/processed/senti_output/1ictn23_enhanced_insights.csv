@@ -1,0 +1,49 @@
+metric,value
+file,1ictn23.csv
+title,German Seagate customers say their 'new' hard drives were actually used – resold HDDs reportedly used for tens of thousands of hours | The plot thickens.
+rows,197
+num_posts,1
+num_comments,196
+unique_authors,152
+max_depth,8
+avg_comment_words,71.92
+median_comment_words,57.0
+max_comment_words,364
+positive_count,13
+negative_count,183
+neutral_count,0
+positive_pct,6.633
+negative_pct,93.367
+neutral_pct,0.0
+topic_1_keywords,"drive, one, data, thats, like, reports, drives, think"
+topic_1_label,i think that drives are the most important data
+topic_2_keywords,"new, drive, one, used, seagate, drives, got, article"
+topic_2_label,Seagate drives used by seagate
+topic_3_keywords,"still, one, seagate, wd, drive, better, would, drives"
+topic_3_label,wd drives better
+topic_4_keywords,"drives, seagate, bought, years, batch, pretty, ago, one"
+topic_4_label,Seagate drives and seagates
+topic_5_keywords,"seagate, remember, drives, drive, back, old, get, see"
+topic_5_label,seagate remembers drive back
+topic_6_keywords,"drives, new, seagate, drive, years, tb, external, like"
+topic_6_label,Seagate drives like new
+top_ngram_1,decade ago (29)
+top_ngram_2,circuit city (18)
+top_ngram_3,hard drives (18)
+top_ngram_4,western digital (18)
+top_ngram_5,years ago (17)
+top_ngram_6,didnt seagate (16)
+top_ngram_7,seagate get (16)
+top_ngram_8,get caught (16)
+top_ngram_9,caught bs (16)
+top_ngram_10,bs decade (16)
+ner_1,Seagate|ORG|135
+ner_2,Circuit City|ORG|18
+ner_3,Toshiba|ORG|13
+ner_4,Western Digital|ORG|13
+ner_5,Micro Center|ORG|11
+ner_6,Hitachi|ORG|11
+ner_7,Quantum|ORG|8
+ner_8,Sea|MISC|7
+ner_9,NAS|ORG|7
+ner_10,Frys|ORG|7

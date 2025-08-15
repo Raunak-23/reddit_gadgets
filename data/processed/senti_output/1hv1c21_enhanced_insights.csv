@@ -1,0 +1,49 @@
+metric,value
+file,1hv1c21.csv
+title,HDMI version 2.2 adds support for bandwidth of up to 96Gbps
+rows,124
+num_posts,1
+num_comments,123
+unique_authors,82
+max_depth,10
+avg_comment_words,56.41
+median_comment_words,45.0
+max_comment_words,348
+positive_count,9
+negative_count,82
+neutral_count,32
+positive_pct,7.317
+negative_pct,66.667
+neutral_pct,26.016
+topic_1_keywords,"cables, get, copper, cable, optical, hdmi, tvs, dont"
+topic_1_label,"cables get, optical, hdmi"
+topic_2_keywords,"usb, charger, usbpd, 20, marked, 240w, cable, 60w"
+topic_2_label,"USB charger, usbpd, 20 watts, cable"
+topic_3_keywords,"ultra96, name, bandwidth, would, great, could, still, requires"
+topic_3_label,Ultra96 is a great name for ultra96
+topic_4_keywords,"hdmi, 22, port, 21, years, like, dont, im"
+topic_4_label,hdmi 's 22 year old im likes it
+topic_5_keywords,"means, usb, give, amount, understand, nice, next, cable"
+topic_5_label,cable means to give money to a cable
+topic_6_keywords,"hdmi, dont, ethernet, walls, find, would, put, nobody"
+topic_6_label,hdmi doesn t have ethernet
+top_ngram_1,usb charger (43)
+top_ngram_2,marked cable (18)
+top_ngram_3,hdmi 22 (17)
+top_ngram_4,part usb (15)
+top_ngram_5,usbpd 20 (15)
+top_ngram_6,20 spr (15)
+top_ngram_7,cable usb (15)
+top_ngram_8,usbpd 20 spr (15)
+top_ngram_9,marked cable usb (15)
+top_ngram_10,hdmi 21 (14)
+ner_1,USB|ORG|58
+ner_2,HDMI|MISC|39
+ner_3,USB|MISC|39
+ner_4,HD|MISC|19
+ner_5,Ultra|ORG|6
+ner_6,Ether|MISC|4
+ner_7,Ethernet|MISC|4
+ner_8,BT|ORG|3
+ner_9,USB Power|ORG|3
+ner_10,Blu Ray|MISC|3

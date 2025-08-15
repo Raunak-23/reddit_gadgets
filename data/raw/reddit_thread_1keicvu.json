@@ -1,0 +1,3176 @@
+{
+  "post": {
+    "title": "Chips aren\u2019t improving like they used to, and it\u2019s killing game console price cuts | Op-ed: Slowed manufacturing advancements are upending the way tech progresses.",
+    "author": "chrisdh79",
+    "id": "1keicvu",
+    "score": 2263,
+    "created_utc": 1746360691.0,
+    "selftext": "",
+    "num_comments": 380,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1keicvu/chips_arent_improving_like_they_used_to_and_its/"
+  },
+  "comments": [
+    {
+      "id": "mqjfm7u",
+      "author": "Cowabummr",
+      "body": "Over the PS3 lifespan, it's CPU/GPU chips had several major \"die shrinks\" as IC manufacturing improved, going from 90nm to 60nm, 45nm and finally 28nm in the final \"slim\" version, each of which brought the cost down significantly.\u00a0\n\n\nThat's not happening anymore.",
+      "score": 246,
+      "created_utc": 1746368285.0,
+      "replies": [
+        {
+          "id": "mqk3w37",
+          "author": "togepi_man",
+          "body": "To this day I\u2019m still impressed with what IBM pulled off with the PS3 CPU. Sucked it was powerPC but truly an engineering masterpiece.",
+          "score": 107,
+          "created_utc": 1746375913.0,
+          "replies": [
+            {
+              "id": "mqk4771",
+              "author": "Cowabummr",
+              "body": "It really was, and still is. Especially with the primitive by today's standards silicon design tools. I'm replaying some PS3 exclusives games and they still hold up incredibly well.\u00a0",
+              "score": 56,
+              "created_utc": 1746376010.0,
+              "replies": [
+                {
+                  "id": "mqk6bix",
+                  "author": "togepi_man",
+                  "body": "For sure. Just stepping back to realize it\u2019ll be 20yrs next year, that\u2019s a freaking eternity ago in semi conductors. 20yrs before that the NES was the best you could get (gross simplification)\n\nThat CPU has also made emulating or porting games to x86 without a recompile a major challenge\u2026I haven\u2019t checked in a few years but I\u2019m not sure if ps3 emulation is completely solved",
+                  "score": 35,
+                  "created_utc": 1746376667.0,
+                  "replies": [
+                    {
+                      "id": "mqk7ita",
+                      "author": "Cowabummr",
+                      "body": "It's not, so I've got a vintage PS3 fat still chugging along\u00a0",
+                      "score": 8,
+                      "created_utc": 1746377039.0,
+                      "replies": [
+                        {
+                          "id": "mqk8sus",
+                          "author": "togepi_man",
+                          "body": "The one I got on release day died years ago with one of the common issues\u2026I keep a slim PS3 around since it\u2019s the only reliable way to play those game at the moment",
+                          "score": 8,
+                          "created_utc": 1746377423.0,
+                          "replies": [
+                            {
+                              "id": "mqmbp4z",
+                              "author": "Cellocalypsedown",
+                              "body": "Yeah I gave up the second time mine yellow lighted.  Poor thing.  I wanna fix it some day when I get into gamecube mods",
+                              "score": 2,
+                              "created_utc": 1746401257.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mqm4a07",
+                          "author": "dandroid126",
+                          "body": "I think my parents finally threw mine out when they moved last year. But at least I cashed in on that lawsuit before they got rid of it. I got my sweet, sweet $12.51.",
+                          "score": 1,
+                          "created_utc": 1746398662.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mqm4pkw",
+                      "author": "Snipedzoi",
+                      "body": "Oh hell no it'll be years till it's solved.",
+                      "score": 2,
+                      "created_utc": 1746398814.0,
+                      "replies": [
+                        {
+                          "id": "mqot250",
+                          "author": "DrixlRey",
+                          "body": "I don\u2019t get it, there are several handhelds that plays Ps3 games\u2026?",
+                          "score": 2,
+                          "created_utc": 1746443908.0,
+                          "replies": [
+                            {
+                              "id": "mqotb1q",
+                              "author": "Snipedzoi",
+                              "body": "That's different from solved, which is cycle accuracy, or at least good compatibility like dolphin. 66% isn't very good.",
+                              "score": 1,
+                              "created_utc": 1746444024.0,
+                              "replies": [
+                                {
+                                  "id": "mqq1rgi",
+                                  "author": "togepi_man",
+                                  "body": "Agreed. I\u2019m near certain emulating the NES cpu on x86 is way less efficient than the OG chip.",
+                                  "score": 0,
+                                  "created_utc": 1746459523.0,
+                                  "replies": [
+                                    {
+                                      "id": "mqq8lac",
+                                      "author": "Snipedzoi",
+                                      "body": "Isn't the NES chip cycle accurate ie solved now?",
+                                      "score": 1,
+                                      "created_utc": 1746461549.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mqwtloj",
+                  "author": "CoastingUphill",
+                  "body": "The PS3 remaster of Shadow of the Colossus still looks good.",
+                  "score": 1,
+                  "created_utc": 1746549722.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqp9l0w",
+              "author": "YamahaRyoko",
+              "body": "Even emulating it takes much more processing power than it offered",
+              "score": 1,
+              "created_utc": 1746450678.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqmxkpv",
+          "author": "HopelessRespawner",
+          "body": "Tbf they're down to single digits at this point, gonna have to find some more letters to tack onto the end of bigger smaller numbers",
+          "score": 1,
+          "created_utc": 1746409114.0,
+          "replies": []
+        },
+        {
+          "id": "mqkzd0x",
+          "author": "whoknows234",
+          "body": "Nintendo is just greedy and they always sell their consoles for a profit unlike Sony and MS.  The switch was already on an older 20nm process when it was released.  TSMC has 2nm chips coming this year and Intel 1.8nm.  Switch 2 is supposed to be on old tech as well as it in 8nm.",
+          "score": -3,
+          "created_utc": 1746385453.0,
+          "replies": [
+            {
+              "id": "mqm0bbr",
+              "author": "dark_sable_dev",
+              "body": "It would be literally impossible for Nintendo to use TSMC's 2nm process at any sort of scale.\n\n\n1) It's brand new tech meaning it has much higher failure rates until it matures.\n\n\n2) It's *wildly* more expensive than older process nodes, because it's the latest and greatest.\n\n\n3) Even if Nintendo did decide to sell a $1,400 Switch 2, TSMC wouldn't be able to make it, because new fabrication facilities are\u00a0booked years in advance and the 2nm process node is allocated exclusively to Apple, at least for the near future.\n\n\nThose contracts are ironclad, and it's not like TSMC can just magically produce more fab capacity for other customers.\u00a0Even *Nvidia* couldn't switch to 2nm right now if they wanted to.",
+              "score": 12,
+              "created_utc": 1746397267.0,
+              "replies": [
+                {
+                  "id": "mqmpgum",
+                  "author": "whoknows234",
+                  "body": "Steam deck released 3 years ago on 7nm (6nm for oled) process.  Nintendo has had plenty of time to plan out their supply chain, but they were to busy milking their golden goose.  Obviously its impossible right now for Nintendo to use TSMCs 2nm process atm, as I have already stated that its not yet released.  However there are other chips they can use that are newer and more power efficient than 8nm without much additional cost.\n\nNvidia could switch to 18a in the near future if they chose to do so.  I would imagine if they wanted to they could compete with Apple for the advanced process nodes.  But why do that when you can sell $32,000 5nm chips ?  Im pretty sure if Nvidia has more wiggle room on a 32k GPU vs a 1.5k phone.\n\nhttps://www.tomshardware.com/pc-components/gpus/nvidia-is-reportedly-close-to-adopting-intel-foundrys-18a-process-node-for-gaming-gpus",
+                  "score": 1,
+                  "created_utc": 1746406168.0,
+                  "replies": [
+                    {
+                      "id": "mqnco0z",
+                      "author": "Server6",
+                      "body": "The smaller nodes are more power efficient for the size which is more important for mobile devices. Nvidia is less concerned about power efficiency and has no problem with huge, hot, power hungry chips.",
+                      "score": 6,
+                      "created_utc": 1746414829.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mqp947g",
+                      "author": "Cowabummr",
+                      "body": "In the PS3 era die shrinks brought big cost savings. Now, it's a cost-UP, for multiple reasons, including the severely constrained fab capacity of small featured chips.\u00a0",
+                      "score": 1,
+                      "created_utc": 1746450508.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqkov3x",
+          "author": "ThisIs_americunt",
+          "body": "because manufacturers don't want to spend $10 million on a new production line to implement the new product when the old one works fine. IMO its a good thing but bad in this case cause it creates a bottle neck for the tech to advance",
+          "score": 0,
+          "created_utc": 1746382212.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqjakul",
+      "author": "IIIaustin",
+      "body": "Hi I'm in the semiconductor industry. \n\nShits really hard yall. The devices are so small. We are like... running out of atoms. \n\nGetting even to this point has required absolutely heroic effort of literally hundreds of thousands of people",
+      "score": 1245,
+      "created_utc": 1746366583.0,
+      "replies": [
+        {
+          "id": "mqk04i0",
+          "author": "stefanopolis",
+          "body": "I took an intro to chip manufacturing course as part of undergrad engineering. We were basically making \u201cbaby\u2019s first wafers\u201d and I was still blown away how humanity came up with this process. Microchips are truly the peak of human achievement.",
+          "score": 246,
+          "created_utc": 1746374743.0,
+          "replies": [
+            {
+              "id": "mqm0kjk",
+              "author": "Kronkered",
+              "body": "I work with a guy who worked at one prior and it's like building cities he said. Taking a \"seed\" and building wafers of silicone.",
+              "score": 64,
+              "created_utc": 1746397357.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqjf5s2",
+          "author": "Dreams-Visions",
+          "body": "Running out of atoms? Find some more of them little shits! Here I probably have a lot in my doritos bag and Dew bottle you can have. Here you go:",
+          "score": 356,
+          "created_utc": 1746368135.0,
+          "replies": [
+            {
+              "id": "mqkw3sv",
+              "author": "TheHarbarmy",
+              "body": "[Atoms! One, two, three, four\u2026six of them! Take him away, boys!](https://youtu.be/UxYm6wboGyw?si=gSqhSnwa3srLpiNS)",
+              "score": 27,
+              "created_utc": 1746384435.0,
+              "replies": []
+            },
+            {
+              "id": "mqjjny4",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 70,
+              "created_utc": 1746369591.0,
+              "replies": [
+                {
+                  "id": "mqjr9sv",
+                  "author": "dm_me_pasta_pics",
+                  "body": "ha yeah totally man",
+                  "score": 49,
+                  "created_utc": 1746371995.0,
+                  "replies": [
+                    {
+                      "id": "mqkawe4",
+                      "author": "Happy-go-lucky-37",
+                      "body": "Right!? My thoughts exactly what I was gonna say bruh.",
+                      "score": 11,
+                      "created_utc": 1746378046.0,
+                      "replies": [
+                        {
+                          "id": "mqkpond",
+                          "author": "crappenheimers",
+                          "body": "Took the words right outta my mouth",
+                          "score": 6,
+                          "created_utc": 1746382462.0,
+                          "replies": [
+                            {
+                              "id": "mqlydqj",
+                              "author": "Dirk_The_Cowardly",
+                              "body": "I mean the logic seems a given within that circumstance.",
+                              "score": 2,
+                              "created_utc": 1746396603.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mql5d9c",
+                  "author": "None",
+                  "body": "[removed]",
+                  "score": 2,
+                  "created_utc": 1746387368.0,
+                  "replies": [
+                    {
+                      "id": "mqlo3ph",
+                      "author": "FuelAccurate5066",
+                      "body": "Deposited layers can be very thin. This isn\u2019t news. The size of a patterned feature is usually much larger than say a trench liner or deposited metal.",
+                      "score": 3,
+                      "created_utc": 1746393241.0,
+                      "replies": [
+                        {
+                          "id": "mqm6a08",
+                          "author": "pokemon-detective",
+                          "body": "No one knows what you're saying brother",
+                          "score": 1,
+                          "created_utc": 1746399367.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqsh693",
+              "author": "garry4321",
+              "body": "There are dozens of atoms! DOZENS!",
+              "score": 1,
+              "created_utc": 1746485708.0,
+              "replies": []
+            },
+            {
+              "id": "mqu4699",
+              "author": "staticattacks",
+              "body": "We're not running out of atoms, we're making transistors so small we're needing to find smaller atoms to build with because the atoms we use are too big to keep going much smaller",
+              "score": 1,
+              "created_utc": 1746507660.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqjojjn",
+          "author": "CrashnBash666",
+          "body": "Right? These are literally the most technologically advanced things humans create. It's easy for people who have no understanding of electrical theory to just say, \"make them faster, add a few billion more transistors\". Absolutely blows me away what consumer grade CPU's are capable of these days. We take this stuff for granted.",
+          "score": 235,
+          "created_utc": 1746371134.0,
+          "replies": [
+            {
+              "id": "mqjqmwo",
+              "author": "IIIaustin",
+              "body": "Yeah. \n\nManufacturing semiconductors is probably the activity humans are best at and it takes up a pretty sizable chuck of *all of science and engineering*.\n\nWe might have invented AI and a big part of that if my understanding is correct is just doing a revolting amount of linear algebra.",
+              "score": 119,
+              "created_utc": 1746371794.0,
+              "replies": [
+                {
+                  "id": "mqjxnla",
+                  "author": "dooinit00",
+                  "body": "Do u think we\u2019ve hit the max at 200mm SiC?",
+                  "score": 20,
+                  "created_utc": 1746373975.0,
+                  "replies": [
+                    {
+                      "id": "mqk1x4k",
+                      "author": "IIIaustin",
+                      "body": "I have no idea if we have hit max or how close we are, but the process complexity and expense is increasing exponentially.\n\nWe are not using SiC the Semiconductors im discussing thought: we are still using Si. Othet substrates have been investigated, but its really hard to compete with Si because we are ridiculously good at processing Si. \n\nAny competitive substrate needs to complete with a half century of a significant amount of all human scientific and engineering effort. Which is *Hard*.",
+                      "score": 40,
+                      "created_utc": 1746375302.0,
+                      "replies": [
+                        {
+                          "id": "mqlb8gp",
+                          "author": "RandomUsername12123",
+                          "body": "Once you are really efficent you can only do small improvment, any radical change is basically impossible in this economic system.\n\n\niirc we only have lithium battery because sony or panasonic made a huge bet that paid off at the end.",
+                          "score": 8,
+                          "created_utc": 1746389232.0,
+                          "replies": [
+                            {
+                              "id": "mqlgbk5",
+                              "author": "IIIaustin",
+                              "body": "We have the lithium Ion Battery because, I shit you not, John B Goodenough\n\nhttps://en.wikipedia.org/wiki/John_B._Goodenough",
+                              "score": 25,
+                              "created_utc": 1746390802.0,
+                              "replies": [
+                                {
+                                  "id": "mqlq92t",
+                                  "author": "repocin",
+                                  "body": "Aww, what the hell? I had totally missed that he passed away two years ago :(",
+                                  "score": 7,
+                                  "created_utc": 1746393930.0,
+                                  "replies": [
+                                    {
+                                      "id": "mqmrz14",
+                                      "author": "IIIaustin",
+                                      "body": "Yeah :(\n\nBut he was as old as dirt since forever so it wasn't much of a surprise",
+                                      "score": 3,
+                                      "created_utc": 1746407091.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mqmq10m",
+                                  "author": "dWEasy",
+                                  "body": "It wasn\u2019t the best technology\u2026but it was sure good enough!",
+                                  "score": 2,
+                                  "created_utc": 1746406374.0,
+                                  "replies": [
+                                    {
+                                      "id": "mqmxc4d",
+                                      "author": "IIIaustin",
+                                      "body": "Good enough for a Nobel prize lol",
+                                      "score": 1,
+                                      "created_utc": 1746409033.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mqm8vn3",
+                              "author": "Stanford_experiencer",
+                              "body": ">any radical change is basically impossible in this economic system.\n\n3d architecture says hi",
+                              "score": 0,
+                              "created_utc": 1746400282.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mqlkveo",
+                          "author": "Watchful1",
+                          "body": "Regardless of whether we've hit the max, do you think semiconductor production will ever catch up with demand? Right now it seems like every top tier semiconductor is spoken for a year before it's even produced.",
+                          "score": 1,
+                          "created_utc": 1746392225.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mqn7fex",
+                          "author": "Riseonfire",
+                          "body": "I keep hearing about synthetic diamond as a substrate. What do you hear/know about it?   Thanks for your posts.",
+                          "score": 1,
+                          "created_utc": 1746412803.0,
+                          "replies": [
+                            {
+                              "id": "mqnlzm8",
+                              "author": "IIIaustin",
+                              "body": "I haven't heard of diamond in this context. Sounds like a very creative grant proposal.  \n\nWe would have to get (probably) millions of times better at growing artificial diamond before it could compete with Si on size or defect density.",
+                              "score": 2,
+                              "created_utc": 1746418927.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mqlay55",
+                      "author": "Shadows802",
+                      "body": "At least for now, yes. Mostly because we have resolve the quantum tunneling to go lower.",
+                      "score": 1,
+                      "created_utc": 1746389141.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mqlpigo",
+                  "author": "Voldemort57",
+                  "body": "Everything is linear algebra\u2026 except linear algebra.",
+                  "score": 3,
+                  "created_utc": 1746393692.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqlx9mg",
+                  "author": "Repulsive-Cake-6992",
+                  "body": "fuck me i\u2019mm taking linear algebra soon, I\u2019m scared.",
+                  "score": 1,
+                  "created_utc": 1746396219.0,
+                  "replies": [
+                    {
+                      "id": "mqm3pq4",
+                      "author": "dandroid126",
+                      "body": "I found it to be pretty easy. Much easier than vector calculus or differential equations. Actually, of all the math classes I took in college (I took a lot), I thought it was 2nd easiest behind discrete math. \n\nThe implications of it are pretty big though. Like, you can use it to make lots of problems much easier. Don't ask me specifics. I took it 10+ years ago. I don't really remember much.",
+                      "score": 2,
+                      "created_utc": 1746398464.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqlel4y",
+              "author": "ackermann",
+              "body": "> literally the most technologically advanced things humans create\n\nWhen you put it like that\u2026  hard to believe they\u2019re as cheap as they are! \n\nVery lucky that, I think, the photolithography process (or whatever it\u2019s called) benefits hugely from economies of scale",
+              "score": 16,
+              "created_utc": 1746390270.0,
+              "replies": [
+                {
+                  "id": "mqohgo6",
+                  "author": "OfficeSalamander",
+                  "body": "Also helps that silicon is literally everywhere, it\u2019s literally freaking sand",
+                  "score": 3,
+                  "created_utc": 1746437667.0,
+                  "replies": [
+                    {
+                      "id": "mqpm57p",
+                      "author": "Bowserbob1979",
+                      "body": "Sadly most sand isn't usable for the process.",
+                      "score": 2,
+                      "created_utc": 1746454847.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mql8pdj",
+              "author": "Shadows802",
+              "body": "If we only had a googol number of transitors, we could run a rather life like simulation. And then we can do random updates just to fuck up the players. But don't worry the get to earn happiness and sense of achievement through in-game currency.",
+              "score": 3,
+              "created_utc": 1746388427.0,
+              "replies": [
+                {
+                  "id": "mqla0o9",
+                  "author": "_london_throwaway",
+                  "body": "Patch notes 20.16\n\n- Nerfed IQ of players outside of population centers\n- Buffed aggression of all\n- Deployed Alternative Facts update\n- Made \u201cThe Apprentice\u201d minigame mandatory for all in the Politician class",
+                  "score": 16,
+                  "created_utc": 1746388845.0,
+                  "replies": [
+                    {
+                      "id": "mqnwnml",
+                      "author": "killerletz",
+                      "body": "- Removed the \u201cHarambe\u201d NPC.",
+                      "score": 6,
+                      "created_utc": 1746424579.0,
+                      "replies": [
+                        {
+                          "id": "mqpkati",
+                          "author": "SmallLetter",
+                          "body": "oof",
+                          "score": 1,
+                          "created_utc": 1746454269.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqnj4ly",
+              "author": "tlst9999",
+              "body": ">It's easy for people who have no understanding of electrical theory to just say, \"make them faster, add a few billion more transistors\". \n\nI don't understand it. It must be easy.",
+              "score": 1,
+              "created_utc": 1746417580.0,
+              "replies": []
+            },
+            {
+              "id": "mqmtqfr",
+              "author": "boyyouguysaredumb",
+              "body": "Who is saying that",
+              "score": -1,
+              "created_utc": 1746407731.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mql3is2",
+          "author": "WingZeroCoder",
+          "body": "I\u2019m in the software industry and get annoyed enough at how much people trivialize what it takes to make things happen there.\n\nBut what you all do is absolutely mind boggling to me, especially compared to what I do.\n\nI can\u2019t imagine browsing the internet and seeing all the \u201cjust make it smaller / faster / cooler\u201d comments everywhere.\n\nY\u2019all are what make modern life conveniences exist at all, and yet get practically no respect for it.",
+          "score": 38,
+          "created_utc": 1746386776.0,
+          "replies": [
+            {
+              "id": "mql6pcd",
+              "author": "IIIaustin",
+              "body": ">Y\u2019all are what make modern life conveniences exist at all, and yet get practically no respect for it.\n\nIts okay, we receive payment in money.\n\nI got my payment in respect in a clean energy research lab at a world class university. \n\nI prefer the money (and benefits)",
+              "score": 24,
+              "created_utc": 1746387795.0,
+              "replies": []
+            },
+            {
+              "id": "mqpjcax",
+              "author": "Bowserbob1979",
+              "body": "I'm the problem was Moore's law, it made people think that it would be around forever. It wasn't a law it was a phenomenon that was observed. People still expect things to double every 18 months and it's just not going to happen that way anymore.",
+              "score": 2,
+              "created_utc": 1746453964.0,
+              "replies": [
+                {
+                  "id": "mqqxba0",
+                  "author": "aldeayeah",
+                  "body": "Hopefully some of the focus comes back to software optimization/debloat.",
+                  "score": 1,
+                  "created_utc": 1746468685.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqjso7j",
+          "author": "ezrarh",
+          "body": "Can't you just download more atoms",
+          "score": 29,
+          "created_utc": 1746372432.0,
+          "replies": [
+            {
+              "id": "mqkz69w",
+              "author": "dontbeanegatron",
+              "body": "*You wouldn't download a quark*",
+              "score": 23,
+              "created_utc": 1746385394.0,
+              "replies": [
+                {
+                  "id": "mqlak3j",
+                  "author": "Shadows802",
+                  "body": "I download electrons all the time.",
+                  "score": 7,
+                  "created_utc": 1746389017.0,
+                  "replies": [
+                    {
+                      "id": "mqldd54",
+                      "author": "dontbeanegatron",
+                      "body": "I'm *shocked*!",
+                      "score": 6,
+                      "created_utc": 1746389891.0,
+                      "replies": [
+                        {
+                          "id": "mqr3aqh",
+                          "author": "Flubadubadubadub",
+                          "body": "Stay positive!!",
+                          "score": 1,
+                          "created_utc": 1746470445.0,
+                          "replies": [
+                            {
+                              "id": "mqrma71",
+                              "author": "dontbeanegatron",
+                              "body": "Of course! It's just a matter of putting the right spin on things",
+                              "score": 1,
+                              "created_utc": 1746476053.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mqneozu",
+                  "author": "noiro777",
+                  "body": "I down-down-upload and up-up-download then all the time, but that \u03b2 decay gets really annoying sometimes :)",
+                  "score": 3,
+                  "created_utc": 1746415650.0,
+                  "replies": [
+                    {
+                      "id": "mqqfl5a",
+                      "author": "KaseTheAce",
+                      "body": "But do you,  up-up-down-down-left-right-left-right-b-a-start?",
+                      "score": 1,
+                      "created_utc": 1746463617.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mqne6cs",
+                  "author": "BeesOfWar",
+                  "body": "*You wouldn't upload a down quark*",
+                  "score": 2,
+                  "created_utc": 1746415436.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqnj8uo",
+              "author": "tlst9999",
+              "body": "OpenAI can make those atoms. Just need to download some more Ghibli movies.",
+              "score": 1,
+              "created_utc": 1746417635.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqkvgow",
+          "author": "xeoron",
+          "body": "Doesn't help as chips got faster software stopped being written with being as efficient as possible because hey you can just throw more clock Cycles at (*cough* Adobe)",
+          "score": 30,
+          "created_utc": 1746384236.0,
+          "replies": []
+        },
+        {
+          "id": "mqk80xi",
+          "author": "PumpkinKnyte",
+          "body": "When I built my first pc, my GPU was on a 22nm process. Then, only 10 years later, they had gotten that down to 4nm and stuffed nearly 80 BILLION transistors on that microscopic space. Honestly, sci-fi shit if you think about it.",
+          "score": 35,
+          "created_utc": 1746377189.0,
+          "replies": [
+            {
+              "id": "mqlzbch",
+              "author": "dark_sable_dev",
+              "body": "Slight correction because I couldn't tell if you knew from your comment:\n\n\nA 4nm process node doesn't mean they're cramming 80 billion transistors into a 4nm square. It means that the length of a gate inside each of those transistors is roughly 4nm.\n\n\nEach transistor is closer to the order of 50nm in size, on the whole. It's still extremely tiny and extremely densely packed, but not quite as sci-fi as it might seem.",
+              "score": 6,
+              "created_utc": 1746396922.0,
+              "replies": [
+                {
+                  "id": "mqrkadz",
+                  "author": "Saltmile",
+                  "body": "Slighter correction, it doesn't even mean that anymore. It's mostly just a marketing term that stopped being a measure of gate length decades ago.",
+                  "score": 2,
+                  "created_utc": 1746475471.0,
+                  "replies": [
+                    {
+                      "id": "mqsnt9g",
+                      "author": "dark_sable_dev",
+                      "body": "True, that's why I used 'roughly.'\n\n\nI was just trying to get the idea across effectively. :),",
+                      "score": 2,
+                      "created_utc": 1746487929.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqlo2jj",
+          "author": "PocketNicks",
+          "body": "It's nuts to me, that people are complaining at all. I can play AAA titles from 6-7 years ago on a device the size of a phone. I can play current AAA titles on a device the size of 3-4 phones. How much better do people really need it to be? A highly portable, slim laptop can play at current Xbox gen level.",
+          "score": 11,
+          "created_utc": 1746393231.0,
+          "replies": [
+            {
+              "id": "mqylys7",
+              "author": "SweetWolf9769",
+              "body": "well, my pi5 still can't properly run ps2 or gamecube, so when i can effectively play ps3 with like a fraction of the energy the PS3 takes, that would be cool.",
+              "score": 1,
+              "created_utc": 1746568121.0,
+              "replies": [
+                {
+                  "id": "mqyq7i0",
+                  "author": "PocketNicks",
+                  "body": "I don't think very many people try to use a raspberry pi to emulate games. There are much better devices, suited to the task.",
+                  "score": 1,
+                  "created_utc": 1746569424.0,
+                  "replies": [
+                    {
+                      "id": "mr3newj",
+                      "author": "fleemfleemfleemfleem",
+                      "body": "At least for a while retroPI was really popular.",
+                      "score": 1,
+                      "created_utc": 1746639354.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqk1fhn",
+          "author": "WilNotJr",
+          "body": "Gotta start 3d stacking them chips then, like AMD's 3d v-cache writ large.",
+          "score": 13,
+          "created_utc": 1746375152.0,
+          "replies": [
+            {
+              "id": "mqk2eyj",
+              "author": "IIIaustin",
+              "body": "Memory has been doing this for a while!",
+              "score": 12,
+              "created_utc": 1746375457.0,
+              "replies": [
+                {
+                  "id": "mqky7sw",
+                  "author": "DeltaVZerda",
+                  "body": "Layer processing wafer, memory wafer, processing wafer, memory wafer, heatsink",
+                  "score": 5,
+                  "created_utc": 1746385092.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqm3y0b",
+              "author": "Valance23322",
+              "body": "There's been some advances lately with optical computers using light instead of electrical signals that would let us make the chips physically larger without the slowdown of waiting for electrical signals to propagate.",
+              "score": 6,
+              "created_utc": 1746398545.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqkl7xh",
+          "author": "Doppelkammertoaster",
+          "body": "It always amazes me. Even HDD are a miracle. That these just not fail way way more.",
+          "score": 10,
+          "created_utc": 1746381106.0,
+          "replies": [
+            {
+              "id": "mqnz6jz",
+              "author": "Raistlarn",
+              "body": "SDD and microsd cards are friggen black magic as far as I am concerned.  Especially the 1TB ones that go in the average smart phone.",
+              "score": 4,
+              "created_utc": 1746426079.0,
+              "replies": [
+                {
+                  "id": "mqpbxfs",
+                  "author": "YamahaRyoko",
+                  "body": "I recently did a build;  I haven't built since 2016.  I remarked how all of it is exactly the same as it was in the 90s.  Nothing has changed. Mobo, chip, cooler, power supply, video card, some ram\n\nExcept storage\n\nThe m.2 is just.... wow.   When I was 12 my dad took me to HamFest at the highschool.  It's like a tech flea market.  A 5 mb hard drive was the size of a bundt cake.  Hard for me to wrap my head around",
+                  "score": 2,
+                  "created_utc": 1746451503.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqpc16x",
+              "author": "YamahaRyoko",
+              "body": "I have a disassembled HHD on my desk and its hard to understand how those arms move so quickly that it can transfer all of the data that it did.",
+              "score": 1,
+              "created_utc": 1746451538.0,
+              "replies": [
+                {
+                  "id": "mqq4v4u",
+                  "author": "Doppelkammertoaster",
+                  "body": "They also write data on an atomic level, if I am not misunderstanding this.",
+                  "score": 1,
+                  "created_utc": 1746460437.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqk5e89",
+          "author": "wamj",
+          "body": "[Those atoms have probably been stolen by your workers, you might want to seal them in the abandoned coke oven.](https://youtu.be/DqgvHUg_vxY?si=0g3Jxu0rbWqFqpNf)",
+          "score": 8,
+          "created_utc": 1746376382.0,
+          "replies": []
+        },
+        {
+          "id": "mqkmzq8",
+          "author": "MetaCognitio",
+          "body": "![gif](giphy|h4IzRl9D2t0O3zMkno)\n\nStop complaining and work harder! \ud83d\ude21\n\n/joking.",
+          "score": 10,
+          "created_utc": 1746381642.0,
+          "replies": []
+        },
+        {
+          "id": "mqku5rv",
+          "author": "trickman01",
+          "body": "Maybe we can just split the atoms so there are more to go around.",
+          "score": 3,
+          "created_utc": 1746383835.0,
+          "replies": [
+            {
+              "id": "mqpegvr",
+              "author": "ipodhikaru",
+              "body": "Subatomic computing",
+              "score": 1,
+              "created_utc": 1746452371.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqojjeo",
+          "author": "fabezz",
+          "body": "Tony Stark built one in a CAVE with a box of SCRAPS!!",
+          "score": 3,
+          "created_utc": 1746438918.0,
+          "replies": [
+            {
+              "id": "mqozhqz",
+              "author": "IIIaustin",
+              "body": "You *can* make really big semiconductors in your garage i think.",
+              "score": 2,
+              "created_utc": 1746446737.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqjwlq5",
+          "author": "AloysBane3",
+          "body": "Just invent Atom 2: faster, smaller, better than ever.",
+          "score": 5,
+          "created_utc": 1746373646.0,
+          "replies": []
+        },
+        {
+          "id": "mqkj1x1",
+          "author": "FUTURE10S",
+          "body": "I wonder if the future is just more chips like the old days, and then some insanely complex infinitely scalable multithreading logic.",
+          "score": 2,
+          "created_utc": 1746380463.0,
+          "replies": [
+            {
+              "id": "mqncy2p",
+              "author": "Dumfing",
+              "body": "Welcome to cloud engineering",
+              "score": 1,
+              "created_utc": 1746414939.0,
+              "replies": [
+                {
+                  "id": "mqnd2vc",
+                  "author": "FUTURE10S",
+                  "body": "Every person has their own local cloud infrastructure this is why we ran out of ipv4",
+                  "score": 1,
+                  "created_utc": 1746414992.0,
+                  "replies": [
+                    {
+                      "id": "mqpemwj",
+                      "author": "ipodhikaru",
+                      "body": "That\u2019s why we have ipv6",
+                      "score": 1,
+                      "created_utc": 1746452428.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mql008f",
+          "author": "astro_plane",
+          "body": "I was reading a while back that there was research looking into the possibility of 3D stacking conductors(?) since we're starting to hit a brick wall for die shrinkage. Is there any truth to that? I'm not an expert with this stuff so I'm probably wrong. \n\nSeems like quantum computing is the only viable step forward once we hit that wall. As ironic as that sounds and we still haven't really figured that out yet.",
+          "score": 2,
+          "created_utc": 1746385659.0,
+          "replies": [
+            {
+              "id": "mql3doc",
+              "author": "IIIaustin",
+              "body": "Gate all around is the cutting edge logic right now. \n\nThere has been 3d memory for a while \n\nQuantum computing is massively less efficient in every way than conventional computing, but can do some things that are literally impossible for conventional computer (is my understanding, I am not a expert). They do different things.",
+              "score": 7,
+              "created_utc": 1746386731.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqqhktx",
+          "author": "RandyMuscle",
+          "body": "Am I crazy for just thinking we actually don\u2019t need anything much more advanced? I know nobody wants to hear it, but there ARE physical limits to things. We don\u2019t need faster computers anymore really.",
+          "score": 2,
+          "created_utc": 1746464187.0,
+          "replies": [
+            {
+              "id": "mqqksjy",
+              "author": "IIIaustin",
+              "body": "So this is an interesting point.\n\nWe don't \"need\" it \n\nBut it turns out you can solve a lot of problems with an arbitrarily large amount of computing power and the more power the better it works\n\nSo there is an incentive to continue improvement",
+              "score": 1,
+              "created_utc": 1746465117.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqsh2tb",
+          "author": "ultratorrent",
+          "body": "Yup! EUV is the shit, but the light source being a droplet of tin being hit by 2 lasers as it falls is insane. I used to be on the DUV scanners shooting patterns on a 10nm process, but now I'm on the other end of the tool dealing with coaters and ovens.",
+          "score": 2,
+          "created_utc": 1746485676.0,
+          "replies": []
+        },
+        {
+          "id": "mqu3wxg",
+          "author": "staticattacks",
+          "body": "Bro I work in Epitaxy and ALD\n\nA silicon atom has a diameter of about 2 angstroms. We are working on building layers in the sub-nm range meaning we are measuring the thickness of our layers in SINGLE DIGIT ATOMS. Shit is WILD. \n\nWe're not running out of atoms, we're running out of... Like the inverse of space.",
+          "score": 2,
+          "created_utc": 1746507533.0,
+          "replies": []
+        },
+        {
+          "id": "mqjzhbt",
+          "author": "mark-haus",
+          "body": "With any luck the silver lining is that top of the line semiconductor devices like CPUs, GPUs, Memory and FPGAs become more commoditized.",
+          "score": 3,
+          "created_utc": 1746374541.0,
+          "replies": [
+            {
+              "id": "mqk1g0f",
+              "author": "nordic-nomad",
+              "body": "It\u2019s hard to commoditize things made by many of most complicated machines humanity has ever developed. Read up on Extreme Ultraviolet Lithigraphy sometime. \n\nhttps://en.m.wikipedia.org/wiki/Extreme_ultraviolet_lithography",
+              "score": 9,
+              "created_utc": 1746375156.0,
+              "replies": [
+                {
+                  "id": "mqmzj9x",
+                  "author": "_RADIANTSUN_",
+                  "body": "Even so, this is the actual inevitable process of progress and proliferation of technology: eventually the fabrication processes will become more standardized and widely available,eventually everyone and their mother will have EUV chip plants",
+                  "score": 1,
+                  "created_utc": 1746409815.0,
+                  "replies": [
+                    {
+                      "id": "mqnfcgx",
+                      "author": "ilyich_commies",
+                      "body": "I don\u2019t think it\u2019s inevitable in this case. These machines have taken half a century of R&D to reach their current state. Most of these machines can only be built and serviced by a single company  called ASML so there aren\u2019t many people in the world who know how they work. If a company tries to enter this industry now it would take decades of multi billion dollar losses just to reach a level of technology that would be considered obsolete 20 years ago. \n\nNobody is willing to do that except the Chinese government and that\u2019s cause America is blocking them from buying equipment from ASML. It is doubtful that China will go around teaching everyone how to build these machines once they crack it and get caught up.",
+                      "score": 1,
+                      "created_utc": 1746415927.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqkdbww",
+              "author": "IIIaustin",
+              "body": "Memory has been a commodity for a long time",
+              "score": 2,
+              "created_utc": 1746378769.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mql5qtp",
+          "author": "chesser45",
+          "body": "At some point if we reached a theoretical maximum\u2019s using current methods it might drive other initiatives? Optimization of codebases or other such things?",
+          "score": 1,
+          "created_utc": 1746387487.0,
+          "replies": [
+            {
+              "id": "mql7zz2",
+              "author": "IIIaustin",
+              "body": "I don't know.  Maybe?\n\nThe geometry of logic has changed radically a few times in the past generation. \n\nAlso people have been investigating different substrate types for a long time, but we are so good at Si its hard to compete.  Maybe that will change?",
+              "score": 1,
+              "created_utc": 1746388203.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mql65sq",
+          "author": "crashbandyh",
+          "body": "So things will start getting bigger which will make us stronger?",
+          "score": 1,
+          "created_utc": 1746387621.0,
+          "replies": []
+        },
+        {
+          "id": "mqlm26x",
+          "author": "None",
+          "body": "It seems like we're hitting the fundamental limits of silicon based electronic transistors. I've seen some mention of switching substrate to something like a 2D material like Graphene or Molybdenum as the substrate, or full optical computing, which there was an article released a few days ago touting some sort of fundamental breakthrough which could lead to commercialization in 10-15 years. The other question I have is, can you make a 2D silicon substrate, and has that been tried?\n\nAs far as I understand it, we're currently pulling the types of \"software hacks\" devs use to get around fundamental limitations in hardware. Seems like it's time to pivot from hacks on top of hacks on top of hacks to a new paradigm. Any insight on which route is the most likely to be practical, and which is most likely to succeed at getting widespread implementation more rapidly than the other architectures?",
+          "score": 1,
+          "created_utc": 1746392600.0,
+          "replies": []
+        },
+        {
+          "id": "mqlr0ag",
+          "author": "an_angry_dervish_01",
+          "body": "It is shocking how amazing the work is to get us where we are today.",
+          "score": 1,
+          "created_utc": 1746394167.0,
+          "replies": []
+        },
+        {
+          "id": "mqm3ijp",
+          "author": "Sonder332",
+          "body": "I am actually curious, chips can't get much smaller due to the nature of silicon. Something something unstable element. What's next? Do we actually have a plan for more powerful devices or are we close to hitting the wall?",
+          "score": 1,
+          "created_utc": 1746398393.0,
+          "replies": [
+            {
+              "id": "mqmrs2x",
+              "author": "IIIaustin",
+              "body": "There are a number of candidate materials that should make better semiconductors than Si, but they all have various issues and its unclear if they will ever get resolved",
+              "score": 2,
+              "created_utc": 1746407020.0,
+              "replies": [
+                {
+                  "id": "mqn8l5n",
+                  "author": "Sonder332",
+                  "body": "So barring some kind of material science breakthrough, we're close to reaching out technological ceiling then...",
+                  "score": 1,
+                  "created_utc": 1746413258.0,
+                  "replies": [
+                    {
+                      "id": "mqnlhu2",
+                      "author": "IIIaustin",
+                      "body": "Sure.\n\nBut also every we have gotten this far in semiconductor technology because of a long series if materials science breakthroughs.\n\nWhich doesn't mean we can count on (enough) MSE breakthroughs. But there isn't no reason to expect it either",
+                      "score": 2,
+                      "created_utc": 1746418688.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqmg4nv",
+          "author": "Stamboolie",
+          "body": "Why not use the space between the atoms, there's a lot of that.",
+          "score": 1,
+          "created_utc": 1746402792.0,
+          "replies": []
+        },
+        {
+          "id": "mqn163q",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1746410422.0,
+          "replies": [
+            {
+              "id": "mqn1iv1",
+              "author": "IIIaustin",
+              "body": "I mean yes and its happened several times already. \n\nWe got to the end of planar Si and then went to FinFET and then Gate All Around. \n\nI'm not sure what's next...",
+              "score": 1,
+              "created_utc": 1746410554.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqn1i6u",
+          "author": "systemfrown",
+          "body": "Yeah. They\u2019re so small they leak.",
+          "score": 1,
+          "created_utc": 1746410547.0,
+          "replies": []
+        },
+        {
+          "id": "mqnbg5t",
+          "author": "markalt99",
+          "body": "I\u2019m not in the semiconductor industry but honestly I think the huge boom we\u2019ve had in tech advancements in the past decade is starting to slow down because we\u2019ve achieved so much in so little of time. From cameras to cars to computers it\u2019s like it\u2019s all been done and we are just looking for the slightest improvements now.",
+          "score": 1,
+          "created_utc": 1746414373.0,
+          "replies": []
+        },
+        {
+          "id": "mqrav1k",
+          "author": "RaDeus",
+          "body": "Just to give people an idea how hard it is to create 4 nanometer CPUs:\n\nTo create the deep ultraviolet light required to get those 4 nanometer features you need to hit tiny balls of tin with a pretty powerful laser multiple times, and those balls move pretty fast, and this happens pretty much continuously.\n\nI recall that this isn't a very efficient process, you need 1GW of energy to put 1 watt of energy on the die (it's probably better these days).\n\nAnd that's one step in a long chain of other processes, like creating masks, vapor deposition and other favours of etching etc.\n\nI only know enough about this to understand that it's borderline magic \ud83d\ude05",
+          "score": 1,
+          "created_utc": 1746472687.0,
+          "replies": []
+        },
+        {
+          "id": "mqrklmp",
+          "author": "Forrest319",
+          "body": "Building atomic 3d cities by flashing special lights really fast. Sounds easy to me.",
+          "score": 1,
+          "created_utc": 1746475562.0,
+          "replies": []
+        },
+        {
+          "id": "mqtc1ev",
+          "author": "DethSonik",
+          "body": "What if we made consoles bigger? With blackjack and hookers?",
+          "score": 1,
+          "created_utc": 1746496235.0,
+          "replies": []
+        },
+        {
+          "id": "mqti33p",
+          "author": "Milk_Man21",
+          "body": "A bit unrelated, but what do you think is the next step in semiconductors?",
+          "score": 1,
+          "created_utc": 1746498342.0,
+          "replies": []
+        },
+        {
+          "id": "mqkie2o",
+          "author": "PlantedinCA",
+          "body": "This is why the IoT wave is hopefully huge and unlocks new devices and new spots for the same old chips.",
+          "score": 0,
+          "created_utc": 1746380266.0,
+          "replies": []
+        },
+        {
+          "id": "mqkn9t1",
+          "author": "ryegye24",
+          "body": "Has there been any recent progress on memristors? I would think if there's any major performance gains left to be realized it'd be in reducing the waste heat and speeding up less/non-volatile memory.",
+          "score": 0,
+          "created_utc": 1746381727.0,
+          "replies": [
+            {
+              "id": "mqku5m7",
+              "author": "IIIaustin",
+              "body": "I don't work in that area, sorry",
+              "score": 3,
+              "created_utc": 1746383833.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqkym94",
+          "author": "polopolo05",
+          "body": "> running out of atoms.\n\nHave you tried layering them...\n\nI feel like this is the next step. multi layer CPU/GPUs",
+          "score": 0,
+          "created_utc": 1746385219.0,
+          "replies": [
+            {
+              "id": "mqkzk7o",
+              "author": "IIIaustin",
+              "body": "Yeah that's kinda what Gate All Around Transistors are.\n\nThere has also been 3-d memory for a while now.",
+              "score": 3,
+              "created_utc": 1746385517.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqlxqbl",
+          "author": "Pasta-hobo",
+          "body": "We need to figure out graphene chips. Less heat and power, we could probably stack dozens of them on top of each other without issue.",
+          "score": 0,
+          "created_utc": 1746396379.0,
+          "replies": [
+            {
+              "id": "mqm3rtq",
+              "author": "IIIaustin",
+              "body": "Graphene chips will never work. The material is not thermodyamically stable. Like... so much so they thought it couldn't exist for a long time. \n\nThe people hyping it were basically lying to get grant money.",
+              "score": 2,
+              "created_utc": 1746398484.0,
+              "replies": [
+                {
+                  "id": "mqm4hoy",
+                  "author": "Pasta-hobo",
+                  "body": "Well we gotta figure out some way to make computers run cooler.",
+                  "score": 1,
+                  "created_utc": 1746398737.0,
+                  "replies": [
+                    {
+                      "id": "mqptjlp",
+                      "author": "IIIaustin",
+                      "body": "Fit FET and gate all around massively improves the energy efficiency of computing tho\n\nWe just used the improvements to do more computing",
+                      "score": 1,
+                      "created_utc": 1746457082.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqk89vs",
+      "author": "AlphaTangoFoxtrt",
+      "body": "I mean it makes sense. Progress gets harder and harder to achieve, and costs more and more because of the constraints of, well, physics. There is an upper limit to how effective we can make something barring a major new discovery.\n\nIt's like tolerances on machining. It gets exponentially harder and more costly to make smaller and smaller differences. A 1 inch tolerance to a .5 inch tolerance isn't hard to do and gets you a whole half inch. But go from a .001 to a .0001 and it gets very hard, and very expensive.",
+      "score": 105,
+      "created_utc": 1746377263.0,
+      "replies": [
+        {
+          "id": "mqkliv7",
+          "author": "Open_Waltz_1076",
+          "body": "To the point of the physics needing to be discovered my light/optics physics profesor has mentioned how we are reaching that upper limit in physics like the late 1800\u2019s. We need some fundamental huge reevaluation of our understanding similar to the Bohr model of an atom/photoelectric effect and with that understanding of physics apply it to disciplines like  material chemistry. Is progress being made on the semi conductor front? Yes, but increasingly more effort for smaller gains. Reminds me of the scientists in the 1st iron man movie attempting to make the smaller arc reactor from the more corporate side of the company, but getting yelled at for it being physically impossible.",
+          "score": 31,
+          "created_utc": 1746381198.0,
+          "replies": []
+        },
+        {
+          "id": "mqots5w",
+          "author": "baumpop",
+          "body": "Microsoft just unveiled a 1 million cubit chip.\u00a0\n\nThis is about to be making decisions like why not just turn all these people into npcs and design earth into civ 7.\u00a0",
+          "score": 1,
+          "created_utc": 1746444244.0,
+          "replies": []
+        },
+        {
+          "id": "mqmic5v",
+          "author": "tamagotchiassassin",
+          "body": "I feel very stupid for asking; Why do we need computer chips to be any smaller? I seem to never need my full TB of space on my devices",
+          "score": 1,
+          "created_utc": 1746403575.0,
+          "replies": [
+            {
+              "id": "mqnkzc8",
+              "author": "im_thatoneguy",
+              "body": "Smaller tends to mean less power draw. Also the more chips you can get out of a single wafer the cheaper all else being equal.\n\nEg if you print an 8.5x11 sheet of paper that costs $1 to print and need to cut out 4 pictures that\u2019s $0.25 each but if you can print 16 smaller pictures that\u2019s $0.05 each.",
+              "score": 14,
+              "created_utc": 1746418442.0,
+              "replies": []
+            },
+            {
+              "id": "mqo00o6",
+              "author": "chinomaster182",
+              "body": "It's sorta similar to a car, to draw more performance from a chip you usually add more voltage to it to make it work faster, that electricity generates heat that needs to be dissipated. At some point it gets really hard to control so much heat, so one solution is to make the pieces smaller to make it so it doesn't produce as much heat as before. Add some other extra engineering efficiencies on top, and that's how we've been able to get more and more powerful chips for so long.",
+              "score": 1,
+              "created_utc": 1746426583.0,
+              "replies": []
+            },
+            {
+              "id": "mqo38c4",
+              "author": "SympathyMotor4765",
+              "body": "The smaller a chip is more transistors you can pack in and the more transistors you have the more complex your circuits can be thus improving performance.\u00a0\n\n\nAll processors are basically billions of really fast switches turning on and off at ridiculous speeds, the more switches you have the faster it works.",
+              "score": 1,
+              "created_utc": 1746428567.0,
+              "replies": []
+            },
+            {
+              "id": "mqp8jd6",
+              "author": "Some_Derpy_Pineapple",
+              "body": "The more transistors you can pack into a given area of silicon the more you can do with a limited amount of power in a given cycle of the chip.\n\nAdditionally computer chips are fast enough that bigger chips have to deal with latency and signal integrity issues that are less prevalent in smaller chips due to the physical distance electrical signals need to travel so manufacturing small chips generally makes the most sense for most devices.\n\nSo every time a smaller chipmaking process becomes reliable enough to mass produce chips, processing power for small chips in consumer devices increases by a lot",
+              "score": 1,
+              "created_utc": 1746450296.0,
+              "replies": []
+            },
+            {
+              "id": "mqpc7fj",
+              "author": "YamahaRyoko",
+              "body": "Back in the day server boards would just have 2, possibly 4 socket slots for CPU's\n\nSince CPU's are now pushing 12 cores that practice became moot",
+              "score": 1,
+              "created_utc": 1746451598.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqizcd0",
+      "author": "_RADIANTSUN_",
+      "body": "This seems like a more fundamental problem than game console prices not dropping... The chips improving steadily is basically everything to society right now. There's not gonna be some amazing physics breakthrough any time soon to enable some next phase... We are hitting the walls of \"what we've got\" with computer chips...",
+      "score": 266,
+      "created_utc": 1746362319.0,
+      "replies": [
+        {
+          "id": "mqjqnrx",
+          "author": "Kindness_of_cats",
+          "body": "Progress does and will continue to be made, but it\u2019s definitely slowing and I agree about this being a more fundamental issue than console prices.\n\nThe biggest thing to me is that we seem to be hitting not merely the limits of what chips *can* do, but what we **need** them to do.  No one really needs a faster iPhone these days, the screen are already about as gorgeous as the human eye will see, and even the main attraction of new models(the cameras) are both basically as good as most people need them to be and also !beginning to hit the limits of what physics can manage.\n\nEven looking solely at gaming, it\u2019s increasingly clear how little new technology has offered us. \n\nYou can go back a good 8 years and pluck out a title like BotW which was designed to run on positively ancient hardware, give it a handful of performance tweaks, and you\u2019ll notice very few differences from a current gen title either graphically or mechanically.  Give it a small makeover that most don\u2019t even feel is worth the $10 Nintendo is asking, and it\u2019s downright gorgeous. \n\nI look at some DF videos on the newest games comparing lowest to highest graphics settings, and I often find myself perfectly happy with the lowest and even wondering what the fuck changed because they\u2019re trying to show something like how water reflections are slightly less detailed and lighting is a tad flatter\u2026.a decade ago they\u2019d have been nearly universally borderline unplayable, and the lowest settings would have just disabled lighting and reflections of any kind altogether lol.\n\nThe graphical improvements that have kept each console generation feeling worth the investment have slowly begun to feel like they\u2019re hitting the limit of what people actually even care about.  Aside from exclusives, I\u2019m honestly not sure what the PS6 can offer that I\u2019d care about.  I\u2019m already pretty underwhelmed by what this generation has brought us aside from shorter loading times.\n\nThere will always be niches and applications where we need more, but for the average person just buying consumer electronics\u2026.I\u2019m not entirely convinced of how much more is even left.",
+          "score": 110,
+          "created_utc": 1746371801.0,
+          "replies": [
+            {
+              "id": "mqkcb52",
+              "author": "hugcub",
+              "body": "I don\u2019t want more powerful consoles.  I want consoles that are SO easy to develop for that companies don\u2019t need a 500 person team, $400M, and 6 years to make a single game.  A game that may actually suck in the end.  Next line of consoles don\u2019t need to have major power improvements, they need to be easy AS FUCK to make a game for so we can get more than 2-3 major releases per year.",
+              "score": 32,
+              "created_utc": 1746378465.0,
+              "replies": [
+                {
+                  "id": "mql6802",
+                  "author": "Thelango99",
+                  "body": "The PS2 was very difficult to develop for yet many developers managed pretty good yearly releases with a small team.",
+                  "score": 14,
+                  "created_utc": 1746387640.0,
+                  "replies": [
+                    {
+                      "id": "mqllvbc",
+                      "author": "Diglett3",
+                      "body": "because the bottleneck isn\u2019t the console, it\u2019s the size, complexity, and level of detail that the general public expects out of modern games.",
+                      "score": 18,
+                      "created_utc": 1746392540.0,
+                      "replies": [
+                        {
+                          "id": "mqol9b8",
+                          "author": "Sarspazzard",
+                          "body": "Bingo...and shareholders synching the noose.",
+                          "score": 1,
+                          "created_utc": 1746439906.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mqkwk1j",
+                  "author": "AwesomePossum_1",
+                  "body": "That\u2019s what unreal engine basically solves. It\u2019s high level and doesn\u2019t really you to understand intricacies of the hardware. It comes with modules that can generate human characters, comes with an asset store so you don\u2019t need to model and texture assets. Lumin allows you just place a single light source (like sun or a torch) and calculate all the lighting automatically. MoCap allows you avoid animating characters by hand.\u00a0\n\nSo it\u2019s pretty much already as automated as it can get. Perhaps AI will be the next push to remove even more artists from the production crew and quicken the process. But not much you can do on hardware level.\u00a0",
+                  "score": 7,
+                  "created_utc": 1746384576.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqjz6h9",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 27,
+              "created_utc": 1746374447.0,
+              "replies": [
+                {
+                  "id": "mqk5mc6",
+                  "author": "farklespanktastic",
+                  "body": "The Switch has been around for over 8 years, and the Switch 2 is only just now being released (technically still a month away). I imagine the Switch 2 will last at least as long.",
+                  "score": 22,
+                  "created_utc": 1746376452.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqkidq2",
+                  "author": "bonesnaps",
+                  "body": "I'd just argue corporate greed, but hey you do you.",
+                  "score": -1,
+                  "created_utc": 1746380263.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mql2lls",
+              "author": "Symbian_Curator",
+              "body": "Adding to that, look how many games it's possible to play even using a 10+ year old CPU. Playing games in 2015 with a CPU from 2005 would have been unthinkable. Playing games in 2025 with a CPU from 2025 sounds a lot more reasonable (and I even used to do so until recently so I'm not just making stuff up).",
+              "score": 6,
+              "created_utc": 1746386482.0,
+              "replies": []
+            },
+            {
+              "id": "mqk6k6y",
+              "author": "PageOthePaige",
+              "body": "I'll argue the case on visual differences. Compare Breath of the Wild, Elden Ring, and Horizon Forbidden West. Even if you give BotW the advantages of higher resolution, improved color contrast, and unlocked fps, the games look wildly different.\u00a0\n\n\nBotW leans on a cartoony art style. Theres a very bland approach to details, everything is very smooth.\u00a0\n\n\nElden Ring is a massive leap. Compare any landscape shot and the difference is obvious. The detail on the character model, the enemies, the terrain, all of it is palpably higher. But there's a distinct graininess, something you'll see on faces, on weapons, and on the foliage if you look close.\u00a0\n\n\nThat difference is gone in H:FW. Everything is extremely detailed all of the time.\u00a0\n\n\nI agree that we're somewhat tapping out on what we can jump up to, but I think stuff like Horizon is more indicative of the cap than BotW.\u00a0",
+              "score": 19,
+              "created_utc": 1746376742.0,
+              "replies": [
+                {
+                  "id": "mqkq8jy",
+                  "author": "Kindness_of_cats",
+                  "body": ">I agree that we're somewhat tapping out on what we can jump up to, but I think stuff like Horizon is more indicative of the cap than BotW.\u00a0\n\nMy point is not that BotW is the cap, but rather that with some minor sprucing up it\u2019s at the the **absolute floor** of acceptable modern graphical quality despite being made to run on hardware that came out 13 years ago(remember: *It\u2019s a goddamn cross gen title* ).  And it still looks so nice that, you could launch it today with the Switch 2 improvements and people would be fine with the graphics even if it wouldn\u2019t blow minds.\n\nToday an 8 year old game looks like Horizon Zero Dawn or AC origins or BotW.  In 2017 an 8 year old game would have looked like goddamn AC2 or Mario Kart Wii.  To really hammer home what that last one means: **Native HD wasn\u2019t even a guarantee.**\n\nThe graphical differences just aren\u2019t anywhere near as stark and meaningful as they used to be.  It\u2019s the sort of thing that you need a prolonged side by side to appreciate, instead of slapping you in the face the way it used to.",
+                  "score": 13,
+                  "created_utc": 1746382630.0,
+                  "replies": [
+                    {
+                      "id": "mqpitar",
+                      "author": "Brigadier_Beavers",
+                      "body": "I think this also goes to show the longevity of using an artistic style over hyper realism. Oblivion is a good recent example; faces aside the world was adored for its details and vastness in 2006. Almost 20 years later, those same details on 2006-ultra are worse than the 2025-lowest settings. 2006 oblivion realism is basically unacceptable as realism. Today you can get screenshots in the remaster that can fool people into thinking its a real life photo, but in 20 years will we still think the same?\n\nNow take a games like Borderlands or Papers Please. Borderlands  cell-shaded comic book art style is going to hold up far longer because the *art style itself* is appealing. Papers Please is intentionally drab and impersonable to make the player feel a certain way. Its an unforgiving, angular, crunchy atmosphere that comes across easily. Adding 4k textures doesnt improve the art style very much because theres only so much more clarity you can get from those styles. \n\nBreath of the wild too! Its cartoony-style is part of the appeal! Giving every coconut 3000 individually moving hair fibers wont improve the experience.",
+                      "score": 1,
+                      "created_utc": 1746453792.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqkhu2k",
+              "author": "TheOvy",
+              "body": ">No one really needs a faster iPhone these days\n\nNot faster, but *more efficient* \\-- less power, less heat, and cheaper. For affordable devices that last longer on a charge. \n\nRaw processing isn't everything, especially in mobile devices.",
+              "score": 15,
+              "created_utc": 1746380104.0,
+              "replies": [
+                {
+                  "id": "mqlki1k",
+                  "author": "DaoFerret",
+                  "body": "There\u2019s also the \u201cplanned obsolescence\u201d part where they stop updates after a while.\n\nThere would probably be a lot fewer new sales if the battery was more easily replaceable (it seems to last ~2-3 years of hard use, but the phones lately can last 4-7 years without pushing too hard).",
+                  "score": 6,
+                  "created_utc": 1746392108.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqjszqv",
+              "author": "ye_olde_green_eyes",
+              "body": "This. I still haven't even upgraded from my PS4. Not only have there been little in the way of improvements I care about, I still have a mountain of software to work through from sales and being a plus member for a decade straight.",
+              "score": 8,
+              "created_utc": 1746372532.0,
+              "replies": []
+            },
+            {
+              "id": "mqknvw0",
+              "author": "moch1",
+              "body": ">\u00a0what we\u00a0need\u00a0them to do\n\nThis is simply not true. We need, well really want, hyper realistic VR+AR visuals in a\u00a0glasses like mobile platform with good battery life. That takes the switch concept up about 10 notches for mobile gaming. No chips exist today that are even close to meeting that. Sure your average phone is fine with the chip it has but focusing only on phones is pretty limiting.\u00a0",
+              "score": 7,
+              "created_utc": 1746381915.0,
+              "replies": []
+            },
+            {
+              "id": "mqk6x00",
+              "author": "Gnash_",
+              "body": ">the screen are already about as gorgeous as the human eye will see, and even the main attraction of new models(the cameras) are both basically as good as most people need them to be\n\nhard disagree on both of these fronts\n\nthere\u2019s so much improvement left for screens and phone-sized cameras",
+              "score": 3,
+              "created_utc": 1746376852.0,
+              "replies": [
+                {
+                  "id": "mqyufrv",
+                  "author": "SweetWolf9769",
+                  "body": "is there really? i mean we're basically at such a stand still with current technology that we haven't even implemented alot of new displays cause there's no need. we've basically invented 8k, but we're so slow to implement 4k, because most cases 1080 is still more than good enough for a majority of situations. \n\nsame with color, like we're still working on implementing 10-bit technology on screens that 12-bit screens are just not even bothered anywere outside of professional settings. \n\nand that's also to say that this technology really only benefits big screens, which can take advantage of the technology. So we basically have the technology, but no one's really bothering implementing it onto small screens, because you don't need them to be that sharp, or that bright, when its going to be that close to your face. \n\ni'm not as familiar with camera's but im assuming same situation. like at some point is the form factor itself more of a limitation than the technology itself?",
+                  "score": 1,
+                  "created_utc": 1746570805.0,
+                  "replies": [
+                    {
+                      "id": "mr0rl5o",
+                      "author": "Gnash_",
+                      "body": "there\u2019s so much more to screens than bit depth and resolution.\n\nthere\u2019s a ton of improvements to be had in terms of off-axis viewing quality, brightness dynamic range, color gamut accuracy and widening, color uniformity, ghosting, refresh rate (including vrr performance), response time, pixel density and layout, power usage, panel reflection, etc, etc\n\nalso the fact that you think most of the improvements are happening with big screens is dead wrong, right now the most exciting tech is all being worked on for tiny displays for VR/AR/wearable usages.\n\nsame goes for cameras",
+                      "score": 1,
+                      "created_utc": 1746597239.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqk02eu",
+          "author": "mark-haus",
+          "body": "It\u2019s mostly incremental from here. Specialist chips will still get better and SoCs will become more heterogeneous, packing in more of these specialties. Architecture is also improving incrementally. However we\u2019re thoroughly out of the exponential improvement phase of this current era of computation devices. It would take a breakthrough in memristor, or nanoscale carbon engineering to change that. Or maybe a breakthrough that will make other semiconductor materials cheaper to work with.",
+          "score": 9,
+          "created_utc": 1746374724.0,
+          "replies": []
+        },
+        {
+          "id": "mqj4gp8",
+          "author": "another_design",
+          "body": "Yes year to year. But we will have fantastic 5/10yr leaps!",
+          "score": 5,
+          "created_utc": 1746364362.0,
+          "replies": [
+            {
+              "id": "mqjlh83",
+              "author": "No-Bother6856",
+              "body": "Until that stops too.",
+              "score": 10,
+              "created_utc": 1746370170.0,
+              "replies": []
+            },
+            {
+              "id": "mqjnyrt",
+              "author": "Sagybagy",
+              "body": "I\u2019m cool with this though.  That means the game console or laptop is good for a hell of a lot longer.  I got out of PC gaming in about 2012 because it was just getting too expensive to keep up.  Each new big game was taxing the computer and needed upgrading.",
+              "score": 2,
+              "created_utc": 1746370952.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqk7q6o",
+          "author": "ne31097",
+          "body": "The semi roadmap continues into the 2040\u2019s if there is financial reason to do it.  3D devices, advanced packaging, chip stacking, etc are all in the plan. The biggest problem is only one company is making money making logic chips (tsmc). If they don\u2019t have competitive pressure to charge forward, will they?  Certainly not as quickly. They\u2019ve already pushed out A14.",
+          "score": 1,
+          "created_utc": 1746377099.0,
+          "replies": []
+        },
+        {
+          "id": "mqkus8w",
+          "author": "middayautumn",
+          "body": "So this is why in Star Wars they had similar technology in 1000 years. There was nothing to make it better because of physics.",
+          "score": 1,
+          "created_utc": 1746384028.0,
+          "replies": []
+        },
+        {
+          "id": "mqm2m01",
+          "author": "daiwilly",
+          "body": "To say there isn't going to be some breakthrough seems counterintuitive. Like how do you know?",
+          "score": 1,
+          "created_utc": 1746398073.0,
+          "replies": [
+            {
+              "id": "mqm63st",
+              "author": "_RADIANTSUN_",
+              "body": "What do you think \"breakthrough\" means?",
+              "score": 1,
+              "created_utc": 1746399305.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqmoqnu",
+          "author": "SchighSchagh",
+          "body": "> The chips improving steadily is basically everything to society right now.\n\nYeah, the steady march or Moore's Law (before it started tapering off) ended up driving increases in computing demand which matched (or surpassed) increases in compute capability. Once games started taking years to develop, they started being designed for the hardware that was assumed will exist by the time the game is out. Eg, if someone in 2005 started working on a game they plan to release in 2010, they designed it from the get-go for 2010 hardware. Notoriously, Crysis went above and beyond and designed for hardware that wouldn't exist until years after launch. But either way, the very same improvements in hardware that were supposed to address problems with compute power eventually drove much higher demand for compute.",
+          "score": 1,
+          "created_utc": 1746405902.0,
+          "replies": []
+        },
+        {
+          "id": "mqkboyj",
+          "author": "the_pwnererXx",
+          "body": "Why are you confident progress will stop and their won't be a next phase? I see no evidence to suggest that further breakthroughs are impossible",
+          "score": 1,
+          "created_utc": 1746378282.0,
+          "replies": [
+            {
+              "id": "mql2yyh",
+              "author": "_RADIANTSUN_",
+              "body": "I was initially not interested in answering this but it took me another read to realize how hilarious this sentence is:\n\n> I see no evidence to suggest that further breakthroughs are **impossible**\n\nhttps://youtu.be/wGdhc9k07Ms",
+              "score": 0,
+              "created_utc": 1746386601.0,
+              "replies": [
+                {
+                  "id": "mqm12wq",
+                  "author": "the_pwnererXx",
+                  "body": "You seem extremely confident about this, even though the only way you'd know is if you had a crystal ball",
+                  "score": 1,
+                  "created_utc": 1746397539.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqjn8vp",
+          "author": "AzazelsAdvocate",
+          "body": "Quantum computing?",
+          "score": -1,
+          "created_utc": 1746370727.0,
+          "replies": [
+            {
+              "id": "mqjo97v",
+              "author": "PresumedSapient",
+              "body": "Buzzword (as long as were talking about consumer applications). Not suitable for 'normal' applications as office, video, chat, gaming, and such.\u00a0\u00a0\nIts nice for simulations and code cracking though. Might be useful for language models too, but were running those centralized anyway, no need to put any quantum in mobile or consumer devices.",
+              "score": 21,
+              "created_utc": 1746371045.0,
+              "replies": [
+                {
+                  "id": "mqjqtb1",
+                  "author": "Dunkleosteus666",
+                  "body": "https://www.ft.com/content/51a65e45-302c-45fa-8bd1-c828a66b012d\n\nThis happened 2 weeks ago.",
+                  "score": -5,
+                  "created_utc": 1746371850.0,
+                  "replies": [
+                    {
+                      "id": "mqk2172",
+                      "author": "sat-soomer-dik",
+                      "body": "At least copy the title and intro of a paid source FFS. Here it is for everyone else (sorry if paragraphs aren't as they should be, copied it quickly).\n\n>**Secure \u2018quantum messages\u2019 sent over telecoms network in breakthrough**\n\n>Scientists have sent messages encrypted using principles of quantum physics over a 250km German commercial telecommunications network, in a milestone towards next-generation data security. Toshiba Europe researchers have used so-called quantum key distribution (QKD) cryptography to transfer messages over traditional communication systems in a way that would be safe from hackers. QKD exploits a phenomenon known as quantum entanglement. This refers to the way two subatomic particles\u2019 characteristics can be related, even when separated by a vast distance. By measuring data from one particle, you can infer information from the other. This allows the pair to serve as keys that can exchange coded messages but are unreadable to outsiders. The researchers were able to send such quantum messages with standard optical fibre and without specialist ultra-low temperature cooling equipment usually used for these kind of communications. They claim this is the first time such an extensive simplified quantum information exchange has been run on a commercial telecoms network.\n\n>Robert Woodward, leader of the fibre QKD research team at Toshiba Europe, said their breakthrough \u201copens the door to many exciting\u00a0quantum\u00a0technologies transitioning out of the lab and into practical networks\u201d. Quantum networks\u2019 potential resilience to hackers has sparked intense worldwide research interest including in China, which is developing a global satellite-based quantum communications system.\n\n>\u201cA near-term practical implication of our findings is that much higher performance QKD is now possible using commercially viable components,\u201d said Woodward, a co-author of a paper on the work published in Nature on Wednesday. \u201cThis paves the way for national and international scale deployment of\u00a0quantum-secure communication infrastructure.\u201d Governments, companies and academic researchers are racing to improve information security because of emerging technological threats to encrypted sensitive data, such as bank transactions and health records. If efforts to develop powerful computers based on quantum theory succeed, they could crack the complex mathematical calculations on which decades-old cryptographic methods are based. The novelty of the German experiment, spanning a 254km network between Frankfurt, Kirchfeld and Kehl, lies in the simplicity of the equipment it uses. It avoids relying on expensive and energy-intensive machinery to control temperature and detect the photon particles on which the quantum data transmission relies. \n\n>\u201cThis paper represents a significant advance for the deployment of secure quantum communication,\u201d said Professor Sandrine Heutz, head of the department of materials at Imperial College London. \u201cThe large-scale deployment of quantum communication relies on practical engineering approaches such as these, combining a focus on sustainability with secure communication over more than 250km.\u201d Recommended Visual story Quantum computing could break the internet. This is how Other researchers said the use of a commercial telecoms network distinguished it from the specialist adaptations deployed in China\u2019s extensive quantum communication work on Earth and via satellite. Using less sophisticated equipment might involve some loss of communication quality, but it opened the way to building large quantum information systems with a variety of capabilities. \u201cResearch teams and governments around the world are building quantum networks at scale, not only for secure communications but also for important day-to-day activities like navigation,\u201d said James Millen, an experimental quantum scientist at King\u2019s College London. \u201cWhile it is possible to build a quantum network using satellites, it is more cost-effective to use existing optical fibre infrastructure,\u201d he added. The use of existing systems creates a potential vulnerability for QKD-based technology through attacks on the infrastructure itself. But the nature of QKD means that any attempts at eavesdropping should be apparent to the parties to the information exchange.",
+                      "score": 13,
+                      "created_utc": 1746375337.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mqk0fad",
+                      "author": "mark-haus",
+                      "body": "This is secure communications and not computation. We\u2019re still waiting for quantum computers to perform useful calculations at anything resembling the efficiency of classical computers. And in the subject we already have several post quantum secure encryption schemes that will negate attempts to crack encryption using the one specialty quantum provides, representing superpositions.",
+                      "score": 7,
+                      "created_utc": 1746374837.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mqjyueu",
+                      "author": "NickCharlesYT",
+                      "body": "No idea what happened, since your article is paywalled. Must not be that important then \ud83e\udd37",
+                      "score": 9,
+                      "created_utc": 1746374343.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqjo4vl",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -12,
+          "created_utc": 1746371007.0,
+          "replies": [
+            {
+              "id": "mqjx47r",
+              "author": "SamsonHunk",
+              "body": "They said something similar about beanie babies",
+              "score": 5,
+              "created_utc": 1746373807.0,
+              "replies": []
+            },
+            {
+              "id": "mqjtmiy",
+              "author": "vagaliki",
+              "body": "AI for rendering, for physics, as well as for calculating NPC behaviors and dialogue. Lots of really good demos for all of these in last few years.\u00a0",
+              "score": -3,
+              "created_utc": 1746372730.0,
+              "replies": [
+                {
+                  "id": "mqjvb6t",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -4,
+                  "created_utc": 1746373246.0,
+                  "replies": [
+                    {
+                      "id": "mqjx143",
+                      "author": "vagaliki",
+                      "body": "A friend of mine is working on real-time interactive video AI. At which point, you can imagine that IS the video game engine, and the whole experience is completely custom every time.",
+                      "score": -2,
+                      "created_utc": 1746373780.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqj3zzl",
+      "author": "winterharvest",
+      "body": "The problem is that costs are not dropping because the expense of these new fabs is astronomical. The easy gains from Moore\u2019s Law are all in the past. This is why Microsoft saw the need for the Xbox Series S. Their entire justification was that the transistor savings we saw in the past wasn\u2019t happening. Indeed, the die has barely shrunk in 5 years. And that die shrink did not bring any tangible savings because of the cost.",
+      "score": 39,
+      "created_utc": 1746364184.0,
+      "replies": []
+    },
+    {
+      "id": "mqj3kge",
+      "author": "SheepWolves",
+      "body": "COVID showed that people are willing to pay anything for gaming hardware and companies took note. Cpu chips improvements have slowed but there's still loads of other places where the company sees cost cuts like ram, nand flash, tooling, software stablising so no longer requiring massive development ect but now it's all about profits and profits.",
+      "score": 32,
+      "created_utc": 1746364016.0,
+      "replies": [
+        {
+          "id": "mqjzjh5",
+          "author": "Lokon19",
+          "body": "COVID was an anomaly the demand for expensive gaming hardware has cooled and who knows what will happen in an economic downturn turn.",
+          "score": 10,
+          "created_utc": 1746374559.0,
+          "replies": []
+        },
+        {
+          "id": "mqnho11",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 2,
+          "created_utc": 1746416926.0,
+          "replies": [
+            {
+              "id": "mqpckbv",
+              "author": "YamahaRyoko",
+              "body": "Video cards are the worst.  They're the most important component, and they're 75% of a new build cost =/",
+              "score": 1,
+              "created_utc": 1746451722.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqiyv3z",
+      "author": "Mooseymax",
+      "body": "Nothing burger article.\n\nIn 2022, NVIDIA CEO considered Moore\u2019s law \u201cdead\u201d. Intel CEO held the opposite opinion.\n\nIn 2025, we\u2019re still seeing steady improvements to chips.\n\nTLDR; it\u2019s clickbait.",
+      "score": 284,
+      "created_utc": 1746362122.0,
+      "replies": [
+        {
+          "id": "mqj0nyt",
+          "author": "brett1081",
+          "body": "We are no longer seeing Moores law. Transistor size is not going down at that rate. So they are both right to some extent. But trusting the intel guy whose company has fallen to the back of the pack is rich.",
+          "score": 234,
+          "created_utc": 1746362862.0,
+          "replies": [
+            {
+              "id": "mqj1bvu",
+              "author": "Mooseymax",
+              "body": "The \u201claw\u201d is that the number of transistors on a chip roughly double.\n\nThere\u2019s nothing in the observation or projection that specifies that transistors have to half in size for that to be true.\n\nBased on latest figures I can find (2023 and 2024), this still held true.\n\nNVIDIA stand to profit from people not trusting that chips will improve - it makes more people buy now. The same can be said for Intel in terms of share price and what people \u201cthink the company will be able to manufacture in the future\u201d.\n\nHonestly, it was never a law to begin with; it was always just an observation and projection of how chip manufacturing will continue to go.",
+              "score": 62,
+              "created_utc": 1746363132.0,
+              "replies": [
+                {
+                  "id": "mqj6sun",
+                  "author": "OrganicKeynesianBean",
+                  "body": "It\u2019s also just a witty remark from an engineer. People use Moore\u2019s Law like they are predicting the end times if it doesn\u2019t hold true for one cycle lol.",
+                  "score": 81,
+                  "created_utc": 1746365238.0,
+                  "replies": [
+                    {
+                      "id": "mqj7f2k",
+                      "author": "brett1081",
+                      "body": "They are running into serious issues and current transistor size. Quantum computing still has a ton of issues and you are getting quantum physics issues with current transistor size. So you can get bigger but there is only a smaller niche market that wants their chips to start getting larger.",
+                      "score": 25,
+                      "created_utc": 1746365463.0,
+                      "replies": [
+                        {
+                          "id": "mqj93im",
+                          "author": "FightOnForUsc",
+                          "body": "The main issue with physically larger chips is that they are more expensive and there is more likely to be defects.",
+                          "score": 16,
+                          "created_utc": 1746366061.0,
+                          "replies": [
+                            {
+                              "id": "mqjfpfl",
+                              "author": "_-Kr4t0s-_",
+                              "body": "Don\u2019t forget heat and the need for larger and larger cooling systems.",
+                              "score": 9,
+                              "created_utc": 1746368315.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mqkkgtq",
+                              "author": "bengringo2",
+                              "body": "It's mostly the heat. None of us want our smartphones to feel like we are pressing a hot clothing iron to our faces. Then there is battery requirements that have to be considered.",
+                              "score": 1,
+                              "created_utc": 1746380881.0,
+                              "replies": [
+                                {
+                                  "id": "mqlxpwv",
+                                  "author": "FightOnForUsc",
+                                  "body": "That\u2019s not really much of an issue for desktops or even high powered laptops. If you double the size of the chip you lose a LOT of yield. That\u2019s the reason Apple with their largest chips were connecting multiple together. Same with AMD. If you can keep the interconnect overhead down it\u2019s much more cost efficient to make several smaller chips than 1 big one. Heat does absolutely matter, but I think that (for the same node) scales mostly with transistor count over physical size (yes, bigger size on the same node of course means more transistors)",
+                                  "score": 2,
+                                  "created_utc": 1746396375.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mqm3ggt",
+                                  "author": "whilst",
+                                  "body": "How does our brain do it, with the individual \"transistors\" being way larger and the surface area of the \"chip\" being enormous?  Why don't *we* overheat?",
+                                  "score": 1,
+                                  "created_utc": 1746398372.0,
+                                  "replies": [
+                                    {
+                                      "id": "mqmc1mj",
+                                      "author": "bengringo2",
+                                      "body": "Vastly different processes and human brains are less accurate and random. We build computers do to things accurately and on demand. The perk to the human brain is creativity and memory (when it functions perfectly which is not often.) which is more of a \u201csoftware\u201d thing.",
+                                      "score": 1,
+                                      "created_utc": 1746401377.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mqj9bvo",
+                  "author": "kyngston",
+                  "body": "moore\u2019s law was also an economic statement that they would double per dollar.  thats not holding true anymore.  among other reasons wire lithography has reached its limit and the only way to get finer pitch is to double pattern or use more layers which significantly increases cost.\n\nhaving the transistors continue to shrink is only somewhat useful if don\u2019t have more wires to connect them.",
+                  "score": 36,
+                  "created_utc": 1746366144.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqk19c5",
+                  "author": "mark-haus",
+                  "body": "Except you can only cram so many transistors into a single die before heat breaks down gate barriers. Sure you could make some ridiculous chip 10x the size of the fattest GPU today, but you\u2019d never keep it cool enough to operate without some ludicrously expensive cooling system. The only way you put more transistors on die while not requiring impractical amounts of heat transfer is by shrinking the transistors or moving into another material that isn\u2019t nearly as mature as monocrystaline silicon.",
+                  "score": 3,
+                  "created_utc": 1746375098.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqn51qk",
+                  "author": "bad_apiarist",
+                  "body": "That was never the law. If that was the law, then I could double the count indefinitely just by making it twice as big. Obviously Gordon was talking about the same size substrate. It was always a statement about feature size and therefore density on a chip.\n\nIn the 1965 paper from Moore about the next ten years, he predicted the famous doubling. The name of that paper? \"Cramming more components onto integrated circuits\". \"Complexity is defined as \"higher cricuit density at reduced costs\"\n\nSo... doubling every 2 years at reduced costs, not increased costs and not exploding to infinity costs. \n\nNone of this has been true for years.",
+                  "score": 3,
+                  "created_utc": 1746411896.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqj0zdk",
+              "author": "Miller25",
+              "body": "Intel has fallen to the back of the pack? In terms of what?",
+              "score": -10,
+              "created_utc": 1746362993.0,
+              "replies": [
+                {
+                  "id": "mqj5acs",
+                  "author": "brett1081",
+                  "body": "https://m.youtube.com/watch?v=QzHcrbT5D_Y\n\nWhen 1/4 of your chips are just failing you have issues.",
+                  "score": 9,
+                  "created_utc": 1746364670.0,
+                  "replies": [
+                    {
+                      "id": "mqj7ho6",
+                      "author": "Miller25",
+                      "body": "25% of chips and then sending a video citing data on the high end chips screams a bit hyperbolic. \n\nThey did end up having quality issues across their enthusiast grade line, but that doesn\u2019t necessarily mean they\u2019ve fallen to the back of the pack. Especially when those chips, when working properly, perform better than AMD in productivity and multithreaded performance",
+                      "score": -7,
+                      "created_utc": 1746365490.0,
+                      "replies": [
+                        {
+                          "id": "mqj8tas",
+                          "author": "gingeropolous",
+                          "body": "Which chips are better in multi and productivity? I've been trying to decide between zen5 and latest Intel for research computing ( single threaded stuff), and it's hard to find a solid review that clearly states Intel wins",
+                          "score": 1,
+                          "created_utc": 1746365961.0,
+                          "replies": [
+                            {
+                              "id": "mqjm7yd",
+                              "author": "_RADIANTSUN_",
+                              "body": "Reviews are basically just a part of marketing nowadays but Intel specifically is in a weird situation from the perspective of consumers right now.\n\nIntel CPUs are extremely good value nowadays in terms of price to performance ratio but it is hard to recommend 13th and 14th gen Intel chips because you are rolling the dice on the oxidation issues which they refuse to even acknowledge. \n\nThe chances of getting one with the oxidation issue is still relatively low but how could someone ever recommend it vs competitors who have 0% chance of \"you just paid for a ticking time bomb\"?",
+                              "score": 6,
+                              "created_utc": 1746370402.0,
+                              "replies": [
+                                {
+                                  "id": "mqjqg0r",
+                                  "author": "gingeropolous",
+                                  "body": "Yeah I was thinking 15th gen",
+                                  "score": 1,
+                                  "created_utc": 1746371732.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mqj90dy",
+                              "author": "Miller25",
+                              "body": "I believe especially when it comes to research computing, it\u2019s incredibly important to know which software you\u2019ll be using primarily as sometimes it heavily relies on a specific architecture for the best performance",
+                              "score": 1,
+                              "created_utc": 1746366030.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mqj9dcy",
+                  "author": "Darkhoof",
+                  "body": "In terms of their foundries being crap for years compared to TSMC or Samsung.\nIn terms of their CPUs being power hungry pieces of garbage compared to AMD. In terms of their GPUs not being able to compete with Nvidia or AMD.",
+                  "score": 2,
+                  "created_utc": 1746366158.0,
+                  "replies": [
+                    {
+                      "id": "mqjacqm",
+                      "author": "Miller25",
+                      "body": "I won\u2019t argue their GPUs because AMD and Nvidia have years ahead of them because their GPUs are relatively new in comparison. \n\nIntel has been investing a ton to catch back up to TSMC but they\u2019re more focused on being self reliant as they have fabs in the US with I assume the idea being \u201cmade in USA\u201d chips that can rival TSMC on some level. \n\nThe power hungriness is wild but it seems to have payed off because again, the 13900k and 14900k are beasts when it comes to productivity",
+                      "score": -1,
+                      "created_utc": 1746366505.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqj13gj",
+              "author": "teodorfon",
+              "body": "Yep\u00a0",
+              "score": -3,
+              "created_utc": 1746363037.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mqja697",
+          "author": "Randommaggy",
+          "body": "We're not really seeing that much yearly improvement per die area and power consumption anymore.\n\n\nNvidia fudged their Blackwell performance chart in 5 different ways to give the false impression that it's still improving at a rapid pace.\n\n\nDifferent die size, different power levels, lower\u00a0bit depth measured, two fused dies and different tier of memory.\n\n\nEssentially harvesting all the low hanging fruit for a significant cost increase.",
+          "score": 28,
+          "created_utc": 1746366441.0,
+          "replies": [
+            {
+              "id": "mqn5mrb",
+              "author": "bad_apiarist",
+              "body": "You know, I don't even care about the Moore's Law slow-down. That's not NVidia's fault. That's a reality of human semiconductor tech. I just with they'd stop trying to bullshit us about it.. like the next gen will be omgamazing and change your life. Also, stop making them bigger and more power hungry.",
+              "score": 2,
+              "created_utc": 1746412122.0,
+              "replies": []
+            },
+            {
+              "id": "mqn8g7a",
+              "author": "proverbialbunny",
+              "body": "We haven't seen yearly improvements per die area since the 90s.  We haven't even seen bi-annual improvements since the 00s.\n\nIt's been normal since the 2010s for there to be a generation that is a bump up in hardware then one or two following generations with a software based feature bump and a bit more transistors or faster ram to make the hardware look better, and with some good marketing to obscure this.  Blackwell being one of these feature bump generations isn't new.",
+              "score": 1,
+              "created_utc": 1746413203.0,
+              "replies": [
+                {
+                  "id": "mqo5uoy",
+                  "author": "Randommaggy",
+                  "body": "It isn't new but the new thing is how many of the \"price be damned\" factors that were utilized at once for that particular generation.",
+                  "score": 1,
+                  "created_utc": 1746430245.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqiyyhr",
+          "author": "AStringOfWords",
+          "body": "I mean at some point they\u2019re gonna run out of atoms. You can\u2019t keep getting smaller forever.",
+          "score": 44,
+          "created_utc": 1746362162.0,
+          "replies": [
+            {
+              "id": "mqj0qgq",
+              "author": "brett1081",
+              "body": "It already has slowed way down. It\u2019s a hugely disingenuous post.",
+              "score": 36,
+              "created_utc": 1746362891.0,
+              "replies": []
+            },
+            {
+              "id": "mqk7eif",
+              "author": "farklespanktastic",
+              "body": "From what I understand, despite the naming scheme, transistors aren't actually shrinking any more. Instead, they're finding ways to squeeze more gates per transistor,",
+              "score": 6,
+              "created_utc": 1746377003.0,
+              "replies": []
+            },
+            {
+              "id": "mqyuuxo",
+              "author": "SweetWolf9769",
+              "body": "that's what she said",
+              "score": 2,
+              "created_utc": 1746570947.0,
+              "replies": []
+            },
+            {
+              "id": "mqizap3",
+              "author": "Mooseymax",
+              "body": "Something being true eventually doesn\u2019t make that person correct. Even a stopped watch is right twice a day.",
+              "score": -13,
+              "created_utc": 1746362301.0,
+              "replies": [
+                {
+                  "id": "mqj1o3r",
+                  "author": "AStringOfWords",
+                  "body": "I don\u2019t think you are right though. These \u201csteady improvements\u201d you\u2019re talking about don\u2019t seem to be materialising.\n\nA CPU from 2025 is about the same as a CPU from 2020.",
+                  "score": -9,
+                  "created_utc": 1746363269.0,
+                  "replies": [
+                    {
+                      "id": "mqj38v7",
+                      "author": "danielv123",
+                      "body": "Well, no. There have been significant architectural and packaging improvements since then. Stacked cache provides massive benefits for certain workloads. You can get CPUs with twice as many cores as you could in 2020 (9754 has 256 cores). Power efficiency is vastly better as well.\n\nOn the consumer side ddr5 memory density is up 2x as well.",
+                      "score": 14,
+                      "created_utc": 1746363891.0,
+                      "replies": [
+                        {
+                          "id": "mqlwj9p",
+                          "author": "AStringOfWords",
+                          "body": "Just putting more and more cores on a die isn\u2019t really progress though, it\u2019s just more.\n\nYou could have made a 256 core cpu in 2020, they just didn\u2019t.",
+                          "score": 0,
+                          "created_utc": 1746395969.0,
+                          "replies": [
+                            {
+                              "id": "mqlxlgc",
+                              "author": "danielv123",
+                              "body": "Sure, but they also made those cores 35% faster. It's a pretty decent jump in less than 4 years.",
+                              "score": 1,
+                              "created_utc": 1746396332.0,
+                              "replies": [
+                                {
+                                  "id": "mqlyle5",
+                                  "author": "AStringOfWords",
+                                  "body": "35% in 4 years is garbage.",
+                                  "score": -1,
+                                  "created_utc": 1746396675.0,
+                                  "replies": [
+                                    {
+                                      "id": "mqlz9y2",
+                                      "author": "danielv123",
+                                      "body": "*170%, did you already forget we also added more cores?",
+                                      "score": 1,
+                                      "created_utc": 1746396909.0,
+                                      "replies": [
+                                        {
+                                          "id": "mqlzm04",
+                                          "author": "AStringOfWords",
+                                          "body": "It\u2019s not 170% though unless you\u2019re running a synthetic benchmark that maxes out all cores. Most software and games aren\u2019t multi threaded enough to take advantage of 32 cores.",
+                                          "score": 0,
+                                          "created_utc": 1746397024.0,
+                                          "replies": [
+                                            {
+                                              "id": "mqnvr0y",
+                                              "author": "danielv123",
+                                              "body": "For games we have the 9800x3d which is ~100% faster single threaded. My software is mostly able to max out all the cores I got though, so I don't care much about that.",
+                                              "score": 1,
+                                              "created_utc": 1746424059.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mqo146j",
+                                                  "author": "AStringOfWords",
+                                                  "body": "Lol ok bro. You seem deeply invested in this for some reason",
+                                                  "score": 1,
+                                                  "created_utc": 1746427254.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mqo5jwv",
+                                                      "author": "danielv123",
+                                                      "body": "Definitely deeply vested in computers and performance, it's about a third of what I do. I think it's disingenuous when you say that performance improvements aren't materializing.",
+                                                      "score": 1,
+                                                      "created_utc": 1746430047.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "mqo63w8",
+                                                          "author": "AStringOfWords",
+                                                          "body": "Ok but they aren\u2019t. My computer now is *faster* than it was in 2020, sure, but not noticeably so.\n\nIt\u2019s not like 1995 to 2000. My computer from 2000 made my computer from 1995 look like a child\u2019s toy calculator.\n\nAnd then my computer from 2005 made that look like a Commodore 64.\n\nMy computer from 2020 is still in use and plays Infinity Nikki on the TV in the living room just fine. There\u2019s no need to get rid of it just because I have a 30% faster machine. It plays all the same games, runs the same OS and software and honestly, if I stick to 1080p you can\u2019t really tell the difference between my 2020 machine and my 2025 machine.",
+                                                          "score": 1,
+                                                          "created_utc": 1746430409.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "mqo6k6p",
+                                                              "author": "danielv123",
+                                                              "body": "Yup, improvements are slower, and more importantly don't matter because for most purposes computers are fast enough. The only real \"new\" things in games is Ray tracing which doesn't care about cpu anyways. Until December I did my gaming on a 1600x even though i also have a 7900x and 5950x I use for hobby projects, because it basically didn't make a difference.\n\nIt's the same with phones. New phone comes out, apple claims it's 40% faster or whatever. I literally couldn't care, tbh I have no idea how fast my phone is. It runs reddit and my ebook reader, what more do I need?",
+                                                              "score": 1,
+                                                              "created_utc": 1746430703.0,
+                                                              "replies": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mqj4nhi",
+                      "author": "zerinho6",
+                      "body": "No, simple no, if you know anything about CPUs you'd know how stupid saying that is, even Intel current stagnant era has improvements and there's no AMD Zen generation which hasn't had massive performance improvements and new features. Qualcomm and MediaTek processors got so good they're desktop class CPUs, the only thing holding back Snapdragon X Elite for example is drivers and NVIDIA is already planning to enter the APU consumer market next year with MediaTek.",
+                      "score": 12,
+                      "created_utc": 1746364433.0,
+                      "replies": [
+                        {
+                          "id": "mqluk2p",
+                          "author": "AStringOfWords",
+                          "body": "Not saying there\u2019s been no improvements. There\u2019s a few cheaper SKUs now and some interesting stuff going on with power efficient cores and APUs for sure, but the CPUs are more or less the same power now and have the same number of cores as they had in 2020. Moore\u2019s law is totally defunct.",
+                          "score": 1,
+                          "created_utc": 1746395312.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mqj7l9o",
+                      "author": "LordOverThis",
+                      "body": "Yeah, claiming the improvements are still marching along at the same\nrate they always have is disingenuous bullshit.\n\nThe difference between a Q6600 and a 2600K is massive, and from a 2600K to a 4770K was likewise enormous. \u00a0From a 10900K to a 12900K, however? \u00a0Then 12900K to 295K? \u00a0Oof.\n\nAMD only looks like they\u2019ve done better at advancing at the same rate because a) Bulldozer sucked hard so their starting point was almost incomprehensibly worse b) first gen Ryzen still kind of sucked, it just had budget friendly pricing and c) people approach it from a gamer\u2019s mindset where new tech like 3D cache disproportionately benefits some *gaming* workloads while having less direct impact on its raw FLOPs.\n\nEven GPUs advancements have slowed tremendously, especially when you account for the fact that Nvidia and AMD both are leaning on hiding the generational differences by pumping ever-increasing amounts of juice into the dies. \u00a0An RTX 5090 is a brilliant card, no doubt, but its reference design draws *over twice the juice* of the then-extremely-power-hungry Titan Xp. \u00a0Nvidia got shit for Fermi being \u201cpower hungry\u201d, and the current board power of midrange cards makes the draw of a GTX 480 look pedestrian.",
+                      "score": 13,
+                      "created_utc": 1746365527.0,
+                      "replies": [
+                        {
+                          "id": "mqk3cy9",
+                          "author": "NickCharlesYT",
+                          "body": "There actually is a significant difference between the 10900k and 285k, to the tune of roughly triple the multi thread performance and a ~64% uplift in single threaded performance in [synthetic benchmarks](https://www.cpubenchmark.net/compare/3730vs6296/Intel-i9-10900K-vs-Intel-Ultra-9-285K). These are actually roughly on par with the [same comparisons](https://www.cpubenchmark.net/compare/1038vs868/Intel-Core2-Quad-Q6600-vs-Intel-i7-2600K) you gave between the Q6600 and 2600k (and actually the 2600k to 6700k - another 5 year gap vs the 4770k that was only 3 years - [was *not* a significant gain](https://www.cpubenchmark.net/compare/868vs2565/Intel-i7-2600K-vs-Intel-i7-6700K) thanks to Intel's \"+++\" days). The difference now is those gains are being made in architectural improvements more than simply transistor die shrinks. You can see these gains in real world applications when you do things like software encoding in handbrake or file compression/decompression, but you see fewer gains in applications like gaming and this is more due to inherent limitations in performance scaling on the codebases themselves.\n\nAs someone who is actually utilizing their full CPU's potential frequently, I do see significant decreased in processing time for lengthy tasks I'm often stuck waiting on, but tobe fair I expect we're close to the point where parallelization, not single system performance, is the future of scaling out workloads at even the consumer level.",
+                          "score": 4,
+                          "created_utc": 1746375748.0,
+                          "replies": [
+                            {
+                              "id": "mqlokw7",
+                              "author": "LordOverThis",
+                              "body": "In retrospect I\u2019d have better supported my point by using 9900K vs 11900K and then 13900K vs 285K. \u00a0My 13600T is faster than my 11900 was lol\n\nI always forget how hard 6th and 7th actually sucked, because I was busy with X99, which decidedly did *not* suck. \u00a08/9/10/11 weren\u2019t all that amazing other, but better in comparison because AMD forced Intel to get off their 4c/8t ass by that point, at exactly the time when even gaming, with DX12 and Vulkan, were finally forcing CPUs to almost *require* more than four cores.",
+                              "score": 3,
+                              "created_utc": 1746393392.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mqlyi62",
+                              "author": "AStringOfWords",
+                              "body": "Synthetic benchmarks don\u2019t really mean much. The real world performance uplift just isn\u2019t there.\n\nIt\u2019s not like updating from a 6900K to a 10900K which was like an 8x uplift in performance.",
+                              "score": 0,
+                              "created_utc": 1746396644.0,
+                              "replies": [
+                                {
+                                  "id": "mqmcyn4",
+                                  "author": "NickCharlesYT",
+                                  "body": "They mean plenty if you're doing **actual** computational tasks that are not bottlenecked by something else (like in gaming). I absolutely saw roughly half the encode times when I switched from a Ryzen 3900X to a 13900k, which was a similar uplift to my comparisons.",
+                                  "score": 1,
+                                  "created_utc": 1746401694.0,
+                                  "replies": [
+                                    {
+                                      "id": "mqo33pl",
+                                      "author": "AStringOfWords",
+                                      "body": "If you\u2019re doing heavily multi-threaded workloads you mean. Which barely anyone actually does. And even people that do, like video editors, only render out their video some of the time. Most of the time you\u2019re on 3-4 threads like the rest of us.\n\nMore cores is the only real innovation these days, CPUs aren\u2019t really getting faster, there\u2019s just more of them.",
+                                      "score": 0,
+                                      "created_utc": 1746428485.0,
+                                      "replies": [
+                                        {
+                                          "id": "mqogof0",
+                                          "author": "NickCharlesYT",
+                                          "body": "it doesn't need to be heavily multi threaded workloads. Single threaded performance is also a potential bottleneck. And there's this thing called \"multitasking\" which, for some, means having 100 chrome tabs, discord, steam, obs, a game, a couple of web servers, and a VM all running on one system. One individual program may not be fully utilizing your CPU but you're definitely not gonna want to run that on an i3 or a 5 year old CPU.\n\nLearn to think outside the box a little.",
+                                          "score": 1,
+                                          "created_utc": 1746437183.0,
+                                          "replies": [
+                                            {
+                                              "id": "mqp8vvq",
+                                              "author": "AStringOfWords",
+                                              "body": "You\u2019re talking to me like I don\u2019t know what multitasking is or what having hundreds of chrome tabs open is like.\n\nFact is, there\u2019s zero compelling reason to upgrade any CPU equal or better than 8 cores / 16 threads. We\u2019ve had those CPUs in the mainstream for more than 7 years at this point, and a lot longer in enterprise.\n\nThe gains after that point are absolutely marginal and rarely, if ever, experienced on everyday workloads.\n\nYes, if you work in professional video editing software that\u2019s the one exception, but most people don\u2019t ever do that.\n\nSo forgive me if I fail to be impressed by the latest 32 core Frankenstein CPU from Intel which has downclocked \u201cEfficiency Cores\u201d to save power, and a bunch of random different cores and a weedy little GPU jammed together on a die instead of anything that actually revolutionises performance.",
+                                              "score": 0,
+                                              "created_utc": 1746450424.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mqqo8sm",
+                                                  "author": "None",
+                                                  "body": "[removed]",
+                                                  "score": 1,
+                                                  "created_utc": 1746466094.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mqr21l6",
+                                                      "author": "AStringOfWords",
+                                                      "body": "Nah, you\u2019re wrong.",
+                                                      "score": 1,
+                                                      "created_utc": 1746470075.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mqj5v5u",
+              "author": "themangastand",
+              "body": "Atoms aren't the smallest thing",
+              "score": -12,
+              "created_utc": 1746364888.0,
+              "replies": [
+                {
+                  "id": "mqj897i",
+                  "author": "vcsx",
+                  "body": "We're not making quark chips any time soon.",
+                  "score": 15,
+                  "created_utc": 1746365765.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqjr7rm",
+                  "author": "Kindness_of_cats",
+                  "body": "Unless you\u2019re Geordi LaForge or a rogue Time Lord, they might as well be for the foreseeable future.",
+                  "score": 5,
+                  "created_utc": 1746371977.0,
+                  "replies": [
+                    {
+                      "id": "mqjv8lx",
+                      "author": "themangastand",
+                      "body": "What a coincidence. Georgia LaForge at your service",
+                      "score": 1,
+                      "created_utc": 1746373223.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqj2yl1",
+          "author": "Soaddk",
+          "body": "Steady improvements? \ud83d\ude02 You\u2019re still living in the nineties.",
+          "score": 19,
+          "created_utc": 1746363780.0,
+          "replies": []
+        },
+        {
+          "id": "mqjkza2",
+          "author": "LeCrushinator",
+          "body": "Not really a nothing-burger. For decades we\u2019d see doubling in transistor densities every 2-3, and that alone meant that prices would drop just due to the gains in performance and reduction in power draw. That is no longer the case. The improvements are still happening, but it\u2019s happening at maybe half the rate that it was, and will continue to slow down. A new breakthrough will be required to see gains like we used to, something that is beyond reduction in transistor density.\n\nIf you want a clear picture on how the progress was slowed, an easy way to spot it is the RAM usage over time, and it's easy to see in console generations.\n\n* PS1 (1994): 3.5MB of RAM\n* PS2 (2000): 36MB of RAM (10x increase in 6 years, avg of 1.6x increase per year)\n* PS3 (2006): 512MB of RAM (14x increase in 6 years, avg of 2.3x increase per year)\n* PS4 (2013): 8GB of RAM (16x increase in 7 years, avg of 2.3x increase per year)\n* PS5 (2020): 16GB of RAM (2x increase in 7 years, avg of 0.3x increase per year)\n* PS6 (likely 2027): Likely 24GB of RAM\n\nEasy to spot that transistor increases really slowed down some time after 2013. You could see since in CPUs as well, you used to need a new CPU for a PC every few years to keep up with games, now a good CPU could last you 7-8 years.",
+          "score": 8,
+          "created_utc": 1746370014.0,
+          "replies": []
+        },
+        {
+          "id": "mqjcy38",
+          "author": "CandyCrisis",
+          "body": "Look at the RTX 5000 series. They consume so much power that they regularly melt their cables, and yet they're only marginally faster. \n\nNo one is saying that we can't find ways to get faster, but historically we got massive wins by shrinking the transistors every few years. That option is getting increasingly difficult for smaller and smaller gains. And we are already using as much power as we can safely (and then some!).",
+          "score": 9,
+          "created_utc": 1746367397.0,
+          "replies": [
+            {
+              "id": "mqm7wim",
+              "author": "evangelism2",
+              "body": ">regularly \n\nyou've been on reddit too much",
+              "score": -1,
+              "created_utc": 1746399938.0,
+              "replies": [
+                {
+                  "id": "mqmrilx",
+                  "author": "CandyCrisis",
+                  "body": "https://www.tomshardware.com/news/technician-repairs-hundreds-rtx-4090-melted-connectors-every-month\n\nThis article covers the 4090, but there's no reason to believe the 5000 series has improved, since anecdotes continue to pop up regularly and the cards draw more power than the 4000 series.",
+                  "score": 1,
+                  "created_utc": 1746406923.0,
+                  "replies": [
+                    {
+                      "id": "mqmyyw8",
+                      "author": "evangelism2",
+                      "body": "Yes a picture of a melted connector on reddit once or twice a week, and a single unverified source, that I will just steelman here, and assume is legit, gets 20-25 cards a week. \n\nThats what? 1200 a year? Do you understand how many 4090s have been sold?\n\nhttps://www.tomshardware.com/video-games/pc-gaming/steam-survey-suggests-more-people-bought-the-rtx-4090-than-the-steam-deck-along-with-millions-of-other-rtx-40-series-gpus#:~:text=If%20that's%20the%20case%2C%20then,make%20a%20ton%20of%20sense.\n\nand there will always be a non zero percentage of melted connectors that were caused by user error which further shrinks the faulty percentage",
+                      "score": 1,
+                      "created_utc": 1746409609.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqkimhx",
+          "author": "StarsMine",
+          "body": "From Ada to blackwell there was no node shrink.\nSure we could have gone to 3nm but the sram scaling is shit and most of the chip is taken by sram, not logic. \n\nNvidia may do a double node shrink in 2027 for Blackwell next and use tsmc 2nm or Intel 18A.\n\nBut two node shrinks in 5 years to hit not even double the overall density does in fact mean moors law is dead.\n\nI do agree we have had steady improvements, but it\u2019s steady and \u201cslow\u201d compared to historical improvements",
+          "score": 3,
+          "created_utc": 1746380335.0,
+          "replies": []
+        },
+        {
+          "id": "mqj3r33",
+          "author": "PaulR79",
+          "body": "> In 2025, we\u2019re still seeing steady improvements to chips.\n\nAside from AMD I'm curious to see how Intel's new design matures. Nvidia have gone to the old Intel route of shoving more and more power into things to get marginal gains.\n\nAs for Snapdragon I'm still rolling my eyes after the massive marketing blitz for AI in laptops that lasted roughly 5 months. Barely anyone asked for it, fewer wanted to buy it and certainly not for the insane prices they were charging.",
+          "score": 4,
+          "created_utc": 1746364088.0,
+          "replies": []
+        },
+        {
+          "id": "mqm57kv",
+          "author": "Snipedzoi",
+          "body": "Shockingly, the person with a vested interest in AI over hardware advancement says hardware advancement is dead, and the person with a vested interest in hardware advancement says it isn't.",
+          "score": 1,
+          "created_utc": 1746398990.0,
+          "replies": []
+        },
+        {
+          "id": "mqkmnti",
+          "author": "ryegye24",
+          "body": "Moore's law is dead though. For like 60 straight years improvements were not steady, they were exponential. Linear improvement is a huge step down.",
+          "score": 1,
+          "created_utc": 1746381542.0,
+          "replies": []
+        },
+        {
+          "id": "mqlm2n4",
+          "author": "gsmumbo",
+          "body": "> Not everyone will declare in so many words that Moore\u2019s Law is \u201cdead,\u201d and any given tech exec\u2019s opinion on that says just as much about that exec\u2019s motivations as anything else (Nvidia\u2019s Jensen Huang, who can sell GPUs for more money if Moore\u2019s Law is \u201cdead,\u201d will tell you it\u2019s dead; Intel execs who are trying to convince you that Intel is on the road to being competitive manufacturer of high-end chips will contest that).\n\nThe article straight up said that.",
+          "score": 0,
+          "created_utc": 1746392604.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqlhonv",
+      "author": "None",
+      "body": "It doesn\u2019t need to get better\n\nThe game design needs to be betger",
+      "score": 5,
+      "created_utc": 1746391226.0,
+      "replies": []
+    },
+    {
+      "id": "mqlqq0l",
+      "author": "an_angry_dervish_01",
+      "body": "I wish everyone had been able to experience what I did in technology in my life.  I started my Career as a software developer in 1987 and every year it felt like you magically had twice the performance and often half the cost.  It was just how things were.  Always amazing upgrades and always affordable.  \n\nThe variety of technology was also amazing.  All of these separate platforms, I had lots of jobs writing code across Mac, DOS and later Windows, SunOS (Later Solaris) and platforms like VMS (VAX series)\n\nReally a golden age for people in software and hardware development.  \n\nI remember when the first Voodoo cards came out and we had the glide API and I saw doom and quake for the first time using it.  We very soon after had a 3D/2D card that actually worked in a single unit!  No more \"click\".  \n\nBelieve it or not, before the Internet we used to still sit in front of our computers all day.",
+      "score": 5,
+      "created_utc": 1746394077.0,
+      "replies": []
+    },
+    {
+      "id": "mqizico",
+      "author": "None",
+      "body": "Bull. They used to sell the hardware at a loss and make their money in the games side. Nintendo has an IP monopoly so they can do whatever they want.",
+      "score": 38,
+      "created_utc": 1746362389.0,
+      "replies": [
+        {
+          "id": "mqj1rwq",
+          "author": "blueB0wser",
+          "body": "And prices for consoles and games used to go down a year or two into their lifetimes.",
+          "score": 26,
+          "created_utc": 1746363312.0,
+          "replies": [
+            {
+              "id": "mqj42bh",
+              "author": "Bitter-Good-2540",
+              "body": "Pepperridge farm remembers",
+              "score": 7,
+              "created_utc": 1746364208.0,
+              "replies": []
+            },
+            {
+              "id": "mqk9a4g",
+              "author": "AlphaTangoFoxtrt",
+              "body": "PC Gamers: Still do.",
+              "score": 1,
+              "created_utc": 1746377567.0,
+              "replies": []
+            },
+            {
+              "id": "mqj5urc",
+              "author": "Mantuta",
+              "body": "Not Nintendo games",
+              "score": -2,
+              "created_utc": 1746364884.0,
+              "replies": [
+                {
+                  "id": "mqjh1a7",
+                  "author": "DontGetNEBigIdeas",
+                  "body": "They used to. They used to have their Gaming Selects that sold for $20",
+                  "score": 9,
+                  "created_utc": 1746368749.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqjpdo5",
+                  "author": "Speedstick2",
+                  "body": "Yes they did, they called them Player\u2019s choice from the snes through GC, then the Wii and Wii U were called Nintendo selects.",
+                  "score": 7,
+                  "created_utc": 1746371398.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqj3kcg",
+          "author": "rustyphish",
+          "body": "Not Nintendo, I believe the 3DS was the only console they\u2019ve ever sold at a loss",
+          "score": 18,
+          "created_utc": 1746364015.0,
+          "replies": [
+            {
+              "id": "mqj4440",
+              "author": "None",
+              "body": "Gonna be interesting times.\n3DS and Wii U were loss leaders for Nintendo. Nintendo hardware is usually cheap enough for them to sell at a profit.",
+              "score": 0,
+              "created_utc": 1746364227.0,
+              "replies": [
+                {
+                  "id": "mqjvu4t",
+                  "author": "None",
+                  "body": "How is stating the facts getting down voted. \ud83d\ude02",
+                  "score": 1,
+                  "created_utc": 1746373408.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqj82d3",
+          "author": "PSIwind",
+          "body": "Nintendo has only sold the Wii U at a loss. All of their other systems are sold for a small profit",
+          "score": 3,
+          "created_utc": 1746365699.0,
+          "replies": [
+            {
+              "id": "mqj88a4",
+              "author": "None",
+              "body": "And the 3DS",
+              "score": 9,
+              "created_utc": 1746365756.0,
+              "replies": [
+                {
+                  "id": "mqjf2xm",
+                  "author": "JamesHeckfield",
+                  "body": "Reluctantly and after they took a beating with their launch price.\n\nI remember, I was in the ambassador program.\u00a0",
+                  "score": 9,
+                  "created_utc": 1746368108.0,
+                  "replies": [
+                    {
+                      "id": "mqjg5w7",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 2,
+                      "created_utc": 1746368465.0,
+                      "replies": [
+                        {
+                          "id": "mqjlmux",
+                          "author": "JamesHeckfield",
+                          "body": "It was the launch price. They wouldn\u2019t have lowered the price if they were selling enough units.\n\nIf they had been selling well enough, developers wouldn\u2019t have needed the incentive.\n\nIt goes hand in hand, but if they were selling well enough a price drop wouldn\u2019t have been necessary.\u00a0",
+                          "score": 4,
+                          "created_utc": 1746370219.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqj3zro",
+          "author": "Bitter-Good-2540",
+          "body": "Playstation is reaching that state, hence the increasing prices\u00a0",
+          "score": 1,
+          "created_utc": 1746364181.0,
+          "replies": []
+        },
+        {
+          "id": "mqk5sag",
+          "author": "funguyshroom",
+          "body": "Nintendo has a cult following who will keep buying their products no matter what.",
+          "score": 1,
+          "created_utc": 1746376503.0,
+          "replies": []
+        },
+        {
+          "id": "mqm07zd",
+          "author": "thelonesomeguy",
+          "body": "Consoles get profitable for some time into their generation exactly for the reason mentioned in the title, even after price cuts. Xbox one and ps4 were both profitable. PS4 was [profitable an year after launch](https://www.polygon.com/2014/5/23/5744344/ps4-already-profitable-for-sony-ceo-says?utm_source=chatgpt.com) and Xbox one did eventually as well, after they ditched kinect.",
+          "score": 1,
+          "created_utc": 1746397235.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqjjdxs",
+      "author": "Cristoff13",
+      "body": "Except, maybe, for the expansion of the universe, perpetual exponential growth isn't possible. This has even more profound implications for our society beyond IC chip prices. See *Limits to Growth*.",
+      "score": 7,
+      "created_utc": 1746369503.0,
+      "replies": [
+        {
+          "id": "mqn3mys",
+          "author": "MeatisOmalley",
+          "body": "I don't think most truly believe we will have perpetual exponential growth. Rather, we can never know where exactly we're at on the scale of exponential growth. There could always be a major breakthrough that reinvents our capabilities or understanding of the world and propels us to new heights.",
+          "score": 2,
+          "created_utc": 1746411358.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqk1coe",
+      "author": "AllYourBase64Dev",
+      "body": "yes we have to increase the price because of this and not because of inflation and tarrifs and the people working slave labor arent upset and don't want to work for pennies anymore",
+      "score": 3,
+      "created_utc": 1746375128.0,
+      "replies": []
+    },
+    {
+      "id": "mqmd8af",
+      "author": "Ok-Seaworthiness4488",
+      "body": "Moore's Law no longer in effect I am guessing?",
+      "score": 3,
+      "created_utc": 1746401785.0,
+      "replies": [
+        {
+          "id": "mquoro9",
+          "author": "HumpyMagoo",
+          "body": "it pertains more to supercomputers. as of now traditional chips are really not advancing like before but there is a chance that maybe Fugaku Next super computer is built by 2030 it would put things back on track for awhile. GPUs became a big thing years ago, so it just not traditional cpu progress.",
+          "score": 1,
+          "created_utc": 1746519902.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqoag1u",
+      "author": "spirit_boy_27",
+      "body": "Finally, it was going so fast for the last like 20 years it was getting annoying. Its really important that game developers have a limitation. When youre limited on stuff you become more creative. You have to make workarounds and it usually makes the game have more personality and more fun. The rare team that made donkey kong country  know whats up.",
+      "score": 3,
+      "created_utc": 1746433173.0,
+      "replies": []
+    },
+    {
+      "id": "mqj328a",
+      "author": "series_hybrid",
+      "body": "Chips made rapid improvements in the past on a regular basis. Perhaps there are useful improvements on the horizon, but...is that really the biggest issue facing society in the US and on Earth?\n\nIf chips never improved any performance or size metrics from this day forward, the chips we have today are pretty good, right?",
+      "score": 7,
+      "created_utc": 1746363819.0,
+      "replies": [
+        {
+          "id": "mqj49ai",
+          "author": "sayn3ver",
+          "body": "It would certainly force more efficient coding and hardware utilization.",
+          "score": 12,
+          "created_utc": 1746364283.0,
+          "replies": []
+        },
+        {
+          "id": "mqjrbnf",
+          "author": "Speedstick2",
+          "body": "Yes because super computers have that are used for scientific research will dramatically increase in cost.",
+          "score": 1,
+          "created_utc": 1746372011.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqm4kw1",
+      "author": "DerpNoodle68",
+      "body": "Dude computers and the tech we have ARE magic for all I care. If you disagree, argue with a wall bro\n\nI have absolutely 0 education in computer science, and my understanding is one part \u201cwhat fucking part does my computer need/what the hell is a DDR3\u201d and the other part \u201cwe crushed rocks and metals together, fried them with electricity, and now they hallucinate answers on command\u201d\n\nMagic",
+      "score": 5,
+      "created_utc": 1746398768.0,
+      "replies": []
+    },
+    {
+      "id": "mqjl2ox",
+      "author": "DYMAXIONman",
+      "body": "I think the issue is that TSMC has a monopoly currently. The Switch 2 is using TSMC 8nm which is five years old at this point.",
+      "score": 3,
+      "created_utc": 1746370043.0,
+      "replies": [
+        {
+          "id": "mqlic3b",
+          "author": "accountforfurrystuf",
+          "body": "Most low nanometer node processes need state level effort anyway. It\u2019s either a monopoly or doesn\u2019t exist",
+          "score": 1,
+          "created_utc": 1746391426.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqkryom",
+      "author": "albastine",
+      "body": "Aww yes. Let's base this off the Switch 2, the console that should have released two years ago with its Ampere gen GPU.",
+      "score": 5,
+      "created_utc": 1746383156.0,
+      "replies": []
+    },
+    {
+      "id": "mqkes09",
+      "author": "Thatdude446",
+      "body": "We need to down another UFO so we can get some new tech it sounds like.",
+      "score": 2,
+      "created_utc": 1746379202.0,
+      "replies": []
+    },
+    {
+      "id": "mqm95ql",
+      "author": "nbunkerpunk",
+      "body": "This has been a thing in the smartphone world for years. The vast majority of people don't actually need any of the improvements year over year anymore. They do it because of fomo.",
+      "score": 2,
+      "created_utc": 1746400380.0,
+      "replies": []
+    },
+    {
+      "id": "mqmf57s",
+      "author": "mars_titties",
+      "body": "Forget gaming. We must redouble our efforts to develop specialized chips and cards for useless crypto mining. Those oceans won\u2019t boil themselves, people!!",
+      "score": 2,
+      "created_utc": 1746402447.0,
+      "replies": []
+    },
+    {
+      "id": "mqsp2yu",
+      "author": "goldaxis",
+      "body": "This argument makes no sense. When tech accelerates, you're constantly putting down huge expenditures in research and manufacturing. When it stagnates, you refine manufacturing and become more efficient.\n\nDon't buy this BS. These corporations are squeezing you for every cent you're worth.",
+      "score": 2,
+      "created_utc": 1746488353.0,
+      "replies": []
+    },
+    {
+      "id": "mqkf4b6",
+      "author": "Juls7243",
+      "body": "The good thing about this is that more computing power has almost ZERO impact in making a good game. \n\nThere are AMAZING simple games that people/kids can love that were made in the 90s/80s that were 1/1,000,000th the size/required computing power than modern games. \n\nSimply put, game developers don't need better computing power/storage to make incredible experiences for the consumer - they simply need to focus on game quality.",
+      "score": 5,
+      "created_utc": 1746379305.0,
+      "replies": [
+        {
+          "id": "mqku84s",
+          "author": "geminijono",
+          "body": "Could not agree more!",
+          "score": 2,
+          "created_utc": 1746383855.0,
+          "replies": []
+        },
+        {
+          "id": "mqkp56l",
+          "author": "After-Improvement-90",
+          "body": "It\u2019s almost lost at this point how to make a good Triple AAA game",
+          "score": 1,
+          "created_utc": 1746382298.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqjig5r",
+      "author": "Droidatopia",
+      "body": "Moore's law represented a specific growth achievable when making process size smaller wasn't hitting any limits.\n\nThose limits exist and have been hit.  Even so, it doesn't matter if we find a way to go a little smaller.  Sooner or later, the hard limit of the speed of light hits and optical computing technology isn't capable of being that much faster than current design.\n\nWe have all sorts of ways of continuing to improve, but none of them are currently year over year as capable as the time when Moore's law was in effect.  Even quantum computing can't help in the general computing sense because it isn't a replacement for silicon, but instead just an enhancement on very niche functional areas.",
+      "score": 3,
+      "created_utc": 1746369205.0,
+      "replies": []
+    },
+    {
+      "id": "mqiyzdf",
+      "author": "linuxkllr",
+      "body": "I know this isn't going to be fun to hear the switch adjusted for inflation is 391.40",
+      "score": 10,
+      "created_utc": 1746362171.0,
+      "replies": [
+        {
+          "id": "mqj0quj",
+          "author": "thecraigbert",
+          "body": "Actual inflation or current state of US forced inflation?",
+          "score": -7,
+          "created_utc": 1746362895.0,
+          "replies": [
+            {
+              "id": "mqj25j1",
+              "author": "linuxkllr",
+              "body": "Actual inflation. I don't really know what you mean by \"US forced inflation\" if you mean tariffs that's not inflation that's just bad political policy.",
+              "score": 17,
+              "created_utc": 1746363460.0,
+              "replies": [
+                {
+                  "id": "mqj47sh",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 3,
+                  "created_utc": 1746364267.0,
+                  "replies": [
+                    {
+                      "id": "mqjtux4",
+                      "author": "Kindness_of_cats",
+                      "body": "\u2026.okay.\n\nWhat the fuck does any of that have to do with measurable inflation rates? \n\nIt is what it is.",
+                      "score": 1,
+                      "created_utc": 1746372802.0,
+                      "replies": [
+                        {
+                          "id": "mqkvp5l",
+                          "author": "ssnoopy2222",
+                          "body": "I think the point this redditor is trying to make is that the last 1-2 years of inflation is abnormal. Even though hypothetical inflation isn't really something to be considered, I think they're just mad at the fact that the inflation rate is higher than it really should be due to corporate and political decision making.",
+                          "score": 2,
+                          "created_utc": 1746384309.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqiz63o",
+      "author": "TheRealestBiz",
+      "body": "Don\u2019t ask why this is happening, ask how chip salesmen convinced us that processing power was going to double every eighteen months *forever* and never slow down.",
+      "score": 5,
+      "created_utc": 1746362249.0,
+      "replies": [
+        {
+          "id": "mqj8xit",
+          "author": "no-name-here",
+          "body": "Why would chip \u2018salesmen\u2019 want to convince people that future chips will be so much better than current ones? Wouldn\u2019t that be like car salesmen telling customers now that the 2027 models will be twice as good?",
+          "score": 13,
+          "created_utc": 1746366002.0,
+          "replies": [
+            {
+              "id": "mqjjoy8",
+              "author": "jezzanine",
+              "body": "When they\u2019re selling Moore\u2019s law they\u2019re not selling the idea to the end user, they\u2019re selling to investors in chip technology. They want these investors to pour money into a tech bubble today. \n\nDoesn\u2019t really compare to auto industry until recently. There was never a car bubble until electric, just incremental engine improvements, now electric car salesmen are saying the batteries and charging tech are improving year on year \u00e0 la Moore\u2019s law.",
+              "score": 5,
+              "created_utc": 1746369600.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqiyiex",
+      "author": "PM_ME_UR_SO",
+      "body": "Maybe because the current chips are already more than good enough?",
+      "score": 8,
+      "created_utc": 1746361973.0,
+      "replies": [
+        {
+          "id": "mqj395o",
+          "author": "RadVarken",
+          "body": "Moore's law has allowed programs to bloat. Some tightening up and investment in programmers while waiting for the next breakthrough wouldn't be so bad.",
+          "score": 18,
+          "created_utc": 1746363894.0,
+          "replies": [
+            {
+              "id": "mqj4y0c",
+              "author": "MachinaThatGoesBing",
+              "body": "> Some tightening up and investment in programmers\n\nHow about \"vibe coding\", instead? We will ask the stochastic parrots to hork out some slop code, so we can lay off devs!\n\nPay no mind to the fact that this is notably increasing code churn, meaning [a significant amount of that slop won't last more than a year or two](https://devops.com/does-using-ai-assistants-lead-to-lower-code-quality/).\n\n## *EFFICIENCY!*",
+              "score": 12,
+              "created_utc": 1746364541.0,
+              "replies": [
+                {
+                  "id": "mqjfvol",
+                  "author": "JamesHeckfield",
+                  "body": "They just need to tighten up the graphics:\n\nhttps://youtu.be/BRWvfMLl4ho",
+                  "score": 2,
+                  "created_utc": 1746368373.0,
+                  "replies": []
+                },
+                {
+                  "id": "mqkjs7g",
+                  "author": "FUTURE10S",
+                  "body": "> According to GitHub, 92% of developers said they use AI tools\n\nWhat the fuck",
+                  "score": 2,
+                  "created_utc": 1746380678.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mqlbhkq",
+              "author": "MetalstepTNG",
+              "body": "Exactly. We need software optimization to make better use of the tech we have now. We can't keep expecting dies to shrink to make up for technological progress.",
+              "score": 1,
+              "created_utc": 1746389311.0,
+              "replies": []
+            },
+            {
+              "id": "mqme4lh",
+              "author": "Hendlton",
+              "body": "It's insane that I used to listen to music on YouTube while playing video games on my dual core CPU and 2 GB of DDR2 RAM. Now my (admittedly old) laptop struggles to just play a YouTube video, even though on paper it blows that dual core PC out of the water.\n\nSome indie games that look like they were made in 2005 can't get 60 FPS on more modern hardware. Why can my PC, which runs something like RDR 2 just fine, not even get 30 FPS in some of those low poly Unity games? How did we get here?\n\nI occasionally boot up some old games and I'm honestly amazed at how well they run because my sense of graphics vs. performance is completely off these days. I used to be able to look at a game and say almost definitely if my PC could run it. Now it's impossible.",
+              "score": 1,
+              "created_utc": 1746402094.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqj1cc0",
+      "author": "Haematoman",
+      "body": "Shareholders want the green line to go up!!!",
+      "score": 4,
+      "created_utc": 1746363137.0,
+      "replies": []
+    },
+    {
+      "id": "mqjgpjm",
+      "author": "JigglymoobsMWO",
+      "body": "We started seeing the first signs of Moore's Law ending when Nvidia GPUs started shooting up in price generation after generation.\n\nChips are still getting more transistors, but the cost per transistor is no longer decreasing at a commensurate rate. \u00a0Now we have to pay more for more performance.",
+      "score": 3,
+      "created_utc": 1746368643.0,
+      "replies": [
+        {
+          "id": "mqji4a8",
+          "author": "anbeasley",
+          "body": "I don't think that's at all has anything to do with Moore's law it has to do with silly economic policies. People forget that tariffs have been around since 2017. And this has been making video card prices high since the 20 series.",
+          "score": 9,
+          "created_utc": 1746369101.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqk8wej",
+      "author": "esmelusina",
+      "body": "But Nintendo notoriously uses 10 year old tech in their consoles. I don\u2019t think an img of switch 2 fits the article.",
+      "score": 2,
+      "created_utc": 1746377452.0,
+      "replies": [
+        {
+          "id": "mqks3oe",
+          "author": "albastine",
+          "body": "For real, the switch 2 uses Ampere technology and was rumored to do so back in Sept 2022",
+          "score": 2,
+          "created_utc": 1746383199.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqjadzd",
+      "author": "Griffdude13",
+      "body": "I really feel like the last real big advancement in chips wasn\u2019t even game-related: Apple Silicon has been a game-changer. I still use my base m1 laptop for editing 4k video without issue.",
+      "score": 2,
+      "created_utc": 1746366516.0,
+      "replies": []
+    },
+    {
+      "id": "mqjn3h7",
+      "author": "Myheelcat",
+      "body": "That\u2019s it, just give the gaming industry some quantum computing and let\u2019s get the work of the people done.",
+      "score": 1,
+      "created_utc": 1746370680.0,
+      "replies": []
+    },
+    {
+      "id": "mqkgzm4",
+      "author": "None",
+      "body": "Are you telling me game consoles are at 3nm now? Xbox is at 6nm right now. \n\nWhat are the marginal costs of a smaller vs large PSU?\n\nWhat is the payoff point of existing tooling versus a new tooling?\n\nI am betting that the delta is $20 maybe.",
+      "score": 1,
+      "created_utc": 1746379854.0,
+      "replies": [
+        {
+          "id": "mqkmpxh",
+          "author": "peoplejustwannalove",
+          "body": "The new machines that make chips are over 100 million dollars, and the smaller the wafer the less margin of error there is, and the more times they have to run it in order to get usable material to make the chips, which require more precision due to their size.\n\nThat\u2019s 3 cost factors that go up exponentially every time the node gets smaller, and not even counting the ever increasing price of minerals needed for electronics. \n\nMoores law isn\u2019t dead per se, but the cost needed to maintain it is getting prohibitively exspensive.",
+          "score": 0,
+          "created_utc": 1746381559.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mql02qo",
+      "author": "mad_drill",
+      "body": "Actually ASML has recently had a pretty big breakthrough by adding another stage/step to the laser part (it's hard to describe exactly) of the EUV process. Some people have been floating around \"30-50% jump in conversion efficiency , as well as significant improvements in debris generation\". My point is: obviously there won't be massive exponential die shrinks but there are still definitely improvements being made in the process. https://semiwiki.com/forum/threads/asml\u2019s-breakthrough-3-pulse-euv-light-source.22703/",
+      "score": 1,
+      "created_utc": 1746385681.0,
+      "replies": []
+    },
+    {
+      "id": "mqldvpu",
+      "author": "Remarkable-Course713",
+      "body": "Question- is this also saying that human technical advancement is plateauing then?",
+      "score": 1,
+      "created_utc": 1746390051.0,
+      "replies": []
+    },
+    {
+      "id": "mqlrado",
+      "author": "Tenziru",
+      "body": "The problem with tech is trying to get things smaller area while this might be good for certain devices some stuff could be bigger area and device be slightly bigger or whatever have a problem with the idea that everything still needs to be the size of a piece of paper",
+      "score": 1,
+      "created_utc": 1746394257.0,
+      "replies": []
+    },
+    {
+      "id": "mqludbk",
+      "author": "jack_the_beast",
+      "body": "It has been a know fact for like 30 years",
+      "score": 1,
+      "created_utc": 1746395251.0,
+      "replies": []
+    },
+    {
+      "id": "mqm3dx3",
+      "author": "n19htmare",
+      "body": "This is why nvidia 50 series didn\u2019t get a major bump that generational updates have gotten in past, same node. They said it wasn\u2019t viable from both financial and capacity point of view, not at current demand.",
+      "score": 1,
+      "created_utc": 1746398347.0,
+      "replies": []
+    },
+    {
+      "id": "mqmwj6c",
+      "author": "GettingPhysicl",
+      "body": "Yeah I mean we\u2019re running out of physics\u00a0",
+      "score": 1,
+      "created_utc": 1746408757.0,
+      "replies": []
+    },
+    {
+      "id": "mqnb6pb",
+      "author": "under_an_overpass",
+      "body": "Whatever happened to quantum computing? Wasn\u2019t that the next breakthrough to get through the diminishing returns we\u2019re hitting?",
+      "score": 1,
+      "created_utc": 1746414269.0,
+      "replies": [
+        {
+          "id": "mqnde3k",
+          "author": "BrainwashedScapegoat",
+          "body": "Its not commercially viable like that from what I understand",
+          "score": 2,
+          "created_utc": 1746415117.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqnttn5",
+      "author": "Karu_1",
+      "body": "Maybe the gaming industry should come up with something innovative for once instead of only going for more and more processing power.",
+      "score": 1,
+      "created_utc": 1746422972.0,
+      "replies": []
+    },
+    {
+      "id": "mqokqgm",
+      "author": "Kubbee83",
+      "body": "You can\u2019t have exponential growth forever.",
+      "score": 1,
+      "created_utc": 1746439611.0,
+      "replies": []
+    },
+    {
+      "id": "mqoryq7",
+      "author": "AxelFive",
+      "body": "It's the death of Moore's Law. Moore himself predicted 2025 would be roughly about the time it happened.",
+      "score": 1,
+      "created_utc": 1746443390.0,
+      "replies": []
+    },
+    {
+      "id": "mqp4tq5",
+      "author": "nipsen",
+      "body": "Oh, gods.. Here we go again. \n\nThe argument he makes literally rests on a proposition (Moore's Law) -- that the author himself somehow has now studied to learn now, after the industry has been selling it as a thruthism in the absolutely wrong context -- from the 70s. \n\nSo if you take the argument he makes at face value, there hasn't been done much in terms of progress since the 70s and 80s, long before x86 was even conceived. And that's true, because the consoles he specifies rest on RISC-architectures, which we have not programmed for outside of specific exceptions: the SNES, wii, Switch, the Ps3 (arguably the ps2), and the various Misp-based other console-architectures.\n\nMeanwhile, the Switch is based on an ARM-chipset with an nvidia graphics card instruction set fused to the \"cpu\"-instruction set islands - with an isolated chip so that the instruction set doesn't have to rest on hardware that is \"extractable\" through sdk. And this Tegra setup is now over 15 years old, even though the tegra \"x1\" (released in 2015) didn't find it's way to the Nintendo Switch (after being lampooned universally in the dysfunctional Ziff-Davis vomit we call the gaming press) in 2017. \n\nThe maybe most successful gaming console in recent years, in other words, is based on a lampooned chipset that Nvidia almost didn't manage to get off the ground with the ION chipset - two decades before som muppet in Ars finally finds out that there hasn't been done much new stuff in hardware recently. \n\nThat the Intel setups that rely exclusively on higher clock speeds to produce better results -- have not substantially changed in over 10 years -- does not, in any way trigger this kind of response. Of course not. That Microsoft and Sony both release a console that is an incredibly outdated PC, using an AMD setup that allows the manufacturer to avoid the obvious cooling issues that every console with any amount of similar graphics grunt would have... doesn't trigger anything. That a gaming laptop is released with /less/ theoretical power, but that soundly beats the 200W monsters that throttle from the first second in benchmarks run on something that's not submerged in liquid nitrogen -- doesn't register. No, of course not.\n\nAnd when Nvidia releases a \"proper\" graphics card that has infinite amounts of grunt -- that can't be used by any real-time applications unless they are predetermined to work only on the front-buffer directly, as the PCI bus -- from the fecking 90s -- is not quick enough to do anything else. When \"BAR\" is introduced, and it sadly suffers from the same issues, and resubmit pauses are incredibly high - completely shuttering the OpenCL universe from any traditional PC setup.. no, no one at Fucking Ars registers that.\n\nBut what do they register? I'll tell you what -- the release of a console that makes use of nvidia's great and new and futuristic bullshit-sampling and frame-generation technology -- otherwise on the same hardware as the Switch. Because Nintendo doesn't succeed in selling some bullshit by buying off a Pachter to lie to people on beforehand. \n\nThen they realize - and argue, like pointed out - that there hasn't really been that much progress in computing since the 70s as /some people in the industry says, in a Mountain-Dew-ridden blod-fog/. \n\nAnd then some of us come along and point out that efficiency on performance in the lower watt segments has exploded, to the point where 1080p+@60fps gaming is available to us on 30W -- oh, we don't care about that. When we point out that spu-designs on an asynchronously transferring memory bus (as opposed to the synchronous one we're stuck with), with programmable computation elements (as in ability to send programs to the cpu, rather than let the processor infinitely subdivide these operations themselves at 5Ghz rates. That are the equivalent of a long instruction running on, say 20Mhz, in entirely realistic situations). \n\nWhen we do that, then Arse doesn't want to know. In fact, no one wants to know. Because that narrative is in confrontation with Intel's marketing bullshit drives.\n\nThe stupidest industry in the world. Bar none.",
+      "score": 1,
+      "created_utc": 1746448894.0,
+      "replies": []
+    },
+    {
+      "id": "mqp6gu4",
+      "author": "Pitoucc",
+      "body": "Gaming consoles started at off the shelf parts that were very much available due to an abundance of fabs and vendors. Now the latest generations are sitting closer to the edge of bleeding tech, basically focused on 2 vendors, where the fabs that make them are very few.",
+      "score": 1,
+      "created_utc": 1746449525.0,
+      "replies": []
+    },
+    {
+      "id": "mqqzxeo",
+      "author": "GStarG",
+      "body": "I'd imagine a lot of reason costs aren't dropping as fast as they used to is also due to a gargantuan amount of chips on the market going to AI and crypto. More demand = higher prices.\n\nBefore the crypto and AI booms, gpus fell off in price a lot harder and faster\n\nCertainly fast progress in the technology was also a big factor, but I think in more recent times this is more relevant.",
+      "score": 1,
+      "created_utc": 1746469449.0,
+      "replies": []
+    },
+    {
+      "id": "mqrmoi0",
+      "author": "Rockclimber88",
+      "body": "All the effort is now going into AI chips",
+      "score": 1,
+      "created_utc": 1746476167.0,
+      "replies": []
+    },
+    {
+      "id": "mqx0r30",
+      "author": "Herban_Myth",
+      "body": "Is storage improving?",
+      "score": 1,
+      "created_utc": 1746551724.0,
+      "replies": []
+    },
+    {
+      "id": "mvqksry",
+      "author": "flippiness",
+      "body": "Yeah, the days of steady price drops with better performance each generation are fading. Slower chip advancements are hitting consoles hard\u2014less room for upgrades, more pressure on pricing.",
+      "score": 1,
+      "created_utc": 1748940694.0,
+      "replies": []
+    },
+    {
+      "id": "mqizm3p",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1746362432.0,
+      "replies": [
+        {
+          "id": "mqjm2wx",
+          "author": "Ozzy-",
+          "body": "Microsoft does provide the GDK, so you can already do that if you wanted! You just have to learn how to code :)",
+          "score": 2,
+          "created_utc": 1746370358.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mqj161e",
+      "author": "primalbluewolf",
+      "body": "They're all expensive in the first place. Might as well just buy a PC.",
+      "score": 1,
+      "created_utc": 1746363067.0,
+      "replies": []
+    },
+    {
+      "id": "mqjsqk0",
+      "author": "Walkin_mn",
+      "body": "That's not what is killing price cuts, I mean, yes it's one of the factors, but look around. We're living in the enshittification age! Every single company is doing everything they can to extract as much money they can from the consumers in exchange for the least value they can manage. COVID happened which increased prices, but what happened after that? Prices of everything were kept high and then increased even more. Meanwhile every big media was talking about how big companies were struggling but \"surprisingly\" turns out these same companies were reporting record profits, why could this happen???\n\nAlso in the meantime the orange thing decided to start his tariff war which has destabilized the whole global market.\n\nJust look at Nvidia the company who designed and sell the SoC of the Switch and Switch 2, they have globally increased their prices on everything because, yes, some increased prices by Tsmc, and some other manufacturer price increases, but just because they can get away with it. All their new GPUs are being criticized for charging more for less increase in performance or for the same performance, while their support is getting more enshittified. And for the industry they're now trying to be the solution for almost everything on the pipeline to also extract as much money as they can from them too (while costing more also)\n\nI'm just tired of looking at headlines blaming the obvious thing the big companies want to pass the blame to, so the consumers don't look at the big picture of what's really happening. The Switch 2 is definitely not expensive only because Moore's law is relatively dead.",
+      "score": 1,
+      "created_utc": 1746372453.0,
+      "replies": []
+    },
+    {
+      "id": "mqkdv0w",
+      "author": "kmatyler",
+      "body": "Oh damn maybe things don\u2019t have to progress constantly. Infinite growth is unsustainable. This also applies to humans and their activities despite what society seems to believe.",
+      "score": 1,
+      "created_utc": 1746378925.0,
+      "replies": []
+    },
+    {
+      "id": "mqjaz7x",
+      "author": "saminfujisawa",
+      "body": "This is industry propaganda to prime the public to accept higher prices.",
+      "score": 0,
+      "created_utc": 1746366722.0,
+      "replies": []
+    },
+    {
+      "id": "mqkdqw8",
+      "author": "FlyingBishop",
+      "body": "Really disappointed in the analysis in this article. The question of whether or not Moore's law is dead is an interesting one. However, I think if you rigorously examined stuff like power consumption per perf, useful screen area, refresh rate, etc. and normalized for inflation you would see a pretty significant speedup. The fact that the author blithely suggests zero price increase is a reasonable expectation for a new console in the face of higher inflation just seems silly.",
+      "score": 1,
+      "created_utc": 1746378891.0,
+      "replies": []
+    },
+    {
+      "id": "mqlltbw",
+      "author": "nichts_neues",
+      "body": "Maybe it\u2019s time for us to realize video games aren\u2019t really a healthy way to spend our time, and take it as an opportunity to learn, read, grow with more elevated forms of art, like nature intended.",
+      "score": 1,
+      "created_utc": 1746392522.0,
+      "replies": []
+    },
+    {
+      "id": "mqkn7p9",
+      "author": "ryegye24",
+      "body": "Has there been any recent progress on memristors? I would think if there's any major performance gains left to be realized it'd be in reducing the waste heat and speeding up less/non-volatile memory.",
+      "score": 0,
+      "created_utc": 1746381709.0,
+      "replies": []
+    },
+    {
+      "id": "mqjptir",
+      "author": "Gsquat",
+      "body": "The Switch 2 doesn't even outperform the Steam Deck which has been out for years.\u00a0",
+      "score": -7,
+      "created_utc": 1746371535.0,
+      "replies": [
+        {
+          "id": "mqko6pp",
+          "author": "ryegye24",
+          "body": "We don't have any benchmarks for it yet, but the info we do have suggests the Switch 2's hardware capacity and price both fall right in between the LCD Steam Deck and the OLED Steam Deck.",
+          "score": 0,
+          "created_utc": 1746382006.0,
+          "replies": [
+            {
+              "id": "mr3o8if",
+              "author": "Gsquat",
+              "body": "https://www.reddit.com/r/gadgets/s/P5H9JlrlTg",
+              "score": 1,
+              "created_utc": 1746639584.0,
+              "replies": [
+                {
+                  "id": "mr3vikm",
+                  "author": "ryegye24",
+                  "body": "This seems to confirm the initial impression that it will fall between the LCD and OLED Steamdecks",
+                  "score": 1,
+                  "created_utc": 1746641630.0,
+                  "replies": [
+                    {
+                      "id": "mr3we5n",
+                      "author": "Gsquat",
+                      "body": "Incorrect. It looks to be on par with the original steam deck, IF we're lucky.",
+                      "score": 1,
+                      "created_utc": 1746641881.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqkp98t",
+      "author": "Elephunkitis",
+      "body": "This is so stupid.  It\u2019s not because they can\u2019t shrink the process for the silicon in consoles, it\u2019s that the mallet nodes are more expensive and the best ones get bought up by Apple, nvidia, etc",
+      "score": -1,
+      "created_utc": 1746382333.0,
+      "replies": []
+    }
+  ]
+}

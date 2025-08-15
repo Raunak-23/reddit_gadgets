@@ -1,0 +1,1009 @@
+{
+  "post": {
+    "title": "Some Ryzen 7 9800X3D CPUs are dying unexpectedly, mostly on Asrock motherboards | There are over 100 reported incidents",
+    "author": "chrisdh79",
+    "id": "1jounzt",
+    "score": 1205,
+    "created_utc": 1743511461.0,
+    "selftext": "",
+    "num_comments": 121,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1jounzt/some_ryzen_7_9800x3d_cpus_are_dying_unexpectedly/"
+  },
+  "comments": [
+    {
+      "id": "mkuiexa",
+      "author": "chrisdh79",
+      "body": "From the article: AMD's Ryzen 7 9800X3D remains an incredibly popular CPU, especially among gamers. But it seems not every buyer is having a good experience. There have been over 100 cases of owners whose chips have died after working for a short amount of time, and for no obvious reason.\n\nReddit user natty_overlord compiled a [list](https://www.reddit.com/r/ASRock/comments/1i5iy9a/update_and_summary_on_the_dead_9800x3ds/) of all 108 Reddit posts involving a Ryzen 7 9800X3D that died. The chips passed POST and worked for varying amounts of time before dying with no signs of failure.\n\nWhat's interesting is the brand of motherboard these failures occurred on. 98 of the cases, or 82%, happened on Asrock boards, though that could be due to their popularity as a more budget-friendly board maker. Tom's Hardware notes that the company released a new firmware update for AM5 motherboards in February that improved boot problems in AMD 9000 series CPUs. Whether those issues are related to the dying chips is unclear.",
+      "score": 166,
+      "created_utc": 1743511509.0,
+      "replies": [
+        {
+          "id": "mkvopun",
+          "author": "BTTWchungus",
+          "body": "Looks like ASSrock memes are back on the menu",
+          "score": 130,
+          "created_utc": 1743525441.0,
+          "replies": [
+            {
+              "id": "mkz1haf",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -1,
+              "created_utc": 1743566934.0,
+              "replies": [
+                {
+                  "id": "mkzm1op",
+                  "author": "nooneisback",
+                  "body": "Because motherboards don't matter for the most part. If it works, it works. What actually concerns me is that people don't read reviews and search \"<insert name here> failure\".",
+                  "score": 9,
+                  "created_utc": 1743578624.0,
+                  "replies": [
+                    {
+                      "id": "mkzxakg",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 8,
+                      "created_utc": 1743586478.0,
+                      "replies": [
+                        {
+                          "id": "ml026jf",
+                          "author": "nooneisback",
+                          "body": "An issue important enough to warrant a segment on GN can't be compared to a slightly higher chance of DOA. Search asrock motherboard failure. If the 50 first articles don't turn you away, you deserve whataver happens.",
+                          "score": 2,
+                          "created_utc": 1743589605.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mkzwjhj",
+                  "author": "qtx",
+                  "body": "The biggest scam in PC hardware are motherboards. And the fact you fell for it and think you need an expensive motherboard proves it.",
+                  "score": 5,
+                  "created_utc": 1743585960.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mkwayfj",
+          "author": "xantec15",
+          "body": ">98 of the cases, or 82%\n\nThat's just lazy writing. 98 is almost 91% of 108, but the article doesn't mention that there are 12 other non-9800x3d CPUs involved, for 120 total, that they calculated the 82% from.",
+          "score": 98,
+          "created_utc": 1743532204.0,
+          "replies": [
+            {
+              "id": "mkzdqkg",
+              "author": "VailonVon",
+              "body": "While it is lazy writing I think this is also a reading comprehension problem with how the article is written on the page.\n\nYou can even see it when its copied into reddit it says someone compiled a list of 108 reddit posts. No where has it stated that is all of the cases.\n\nThen it gos on to say in another place that 98 of the cases happened on specific boards. The article doesn't really need to mention that the percentage isn't related to the 108 its clearly defined by not including them together. Specially when they go on to say there are 16, 5, and 1 other boards involved giving you the 120 total.\n\nEdit: I would actually argue more that the person that copied the article to reddit copied poorly more than the article having poor writing.",
+              "score": 9,
+              "created_utc": 1743573366.0,
+              "replies": [
+                {
+                  "id": "mkzfzuv",
+                  "author": "xantec15",
+                  "body": "I get your point. But if the article wasn't so lazily and terribly written then the comprehension wouldn't be an issue. They start out saying there are 108 cases of 9800x3d chips that have died, followed by saying 98 of them, or 82%, occurred on ASROCK boards. They directly link the 98 to the 108 with their wording, \"What's interesting is the brand of motherboard these failures occurred on.\"\n\nThere is then a break in the article with a tangentially related link.\n\nAfter the break they then mention 22 other motherboards. However, no where in the article do they mention that there are any other CPU models involved. So someone keeping count is now wondering how 108 dead CPUs are connected to 120 motherboards, leading to further confusion.\n\nThe article would have had more value if they simply said: \"120 AMD processors have recently died, 98 of them on ASROCK motherboards. Here is a link to a Reddit post about it.\"",
+                  "score": 3,
+                  "created_utc": 1743574734.0,
+                  "replies": [
+                    {
+                      "id": "mkziduv",
+                      "author": "VailonVon",
+                      "body": "Again this is why I agree its poorly written but its a reading comprehension problem.\n\n\"Reddit user natty_overlord compiled a list of all 108 Reddit posts involving a Ryzen 7 9800X3D that died.\"\n\nThis right here is a complete statement full stop \"108 reddit posts\"\n\nThe article then goes on to talk about the cases in full then again goes on to talk about the reddit posts.\n\n\"natty_overlord also tallied the cases based on chipset. The largest number of incidents, 49, occurred on X870, followed by B850 (36), B650 (16), and X670 (7). \"\n\nAt no point has the article ever suggested that it was only 108 cases total and has also clearly stated what it is talking about if you read it.\n\nThe problem you are having is you are taking what is written and including it with other parts of the article when it has clearly defined statements and spacing for you to not include them together.\n\nThe only issue is this \"The rest of the boards are made up of 16 from Asus, 5 from MSI, and 1 from Gigabyte.\" Is placed weirdly due to website placing a link inbetween information that goes with the the percentage and the 98 cases.\n\nEdit: I'm not even sure the person who wrote the article even intended for a link to be there spacing the last point apart from the percentage paragraph.",
+                      "score": 0,
+                      "created_utc": 1743576239.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mkzlweh",
+              "author": "MyGruffaloCrumble",
+              "body": "Even if it was 200 CPUs, compare that with how many have been sold. I\u2019m not saying there isn\u2019t a problem, but that\u2019s a really low percentage of failure. \n\nI remember the Cyrix days when half your software would crash your computer because they didn\u2019t do a great job of matching intel\u2019s CPUs.\n\nThe shitty thing is this is an EXPENSIVE CPU and who\u2019s covering the warranty replacement on these when it fails? Who is actually responsible or has the cojones to take responsibility? Asrock won\u2019t buy you a new CPU that\u2019s for sure.",
+              "score": 1,
+              "created_utc": 1743578524.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mky8p83",
+          "author": "None",
+          "body": "With 108 cases of premature death with the 9800X3D, 97 are on ASrock motherboards",
+          "score": 7,
+          "created_utc": 1743555313.0,
+          "replies": []
+        },
+        {
+          "id": "mkwxbrn",
+          "author": "Fredasa",
+          "body": "My brother bought an Asrock and learned about this phenomenon like... three weeks ago?  There was a bios update allegedly intended to address it.  It's nice that people are keeping it in the news but this isn't really _new_ news.\n\nI myself was choosing between an Asrock and a MSI and went with the latter, primarily due to reports of coil whine with Asrock motherboards.  (Which my brother has.)",
+          "score": 4,
+          "created_utc": 1743539082.0,
+          "replies": [
+            {
+              "id": "mkxhl6s",
+              "author": "TomTomMan93",
+              "body": "I was looking into an asrock recently for a move to AM5. Thinking I might have to reasses that decision",
+              "score": 3,
+              "created_utc": 1743545588.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkv68pt",
+      "author": "TheCookieButter",
+      "body": "I was one of those unlucky people. 5 days after I installed the mobo+CPU the PC crashed and I couldn't post anymore.\n\n9800x3d + AsRock B850 Pro RS WiFi.\n\nI ended up returning both and got a B850 Tomahawk Max WiFi. The new CPU is the same batch and runs just fine.",
+      "score": 101,
+      "created_utc": 1743519719.0,
+      "replies": [
+        {
+          "id": "mkvggvq",
+          "author": "WinnieBob2",
+          "body": "Did you overclock the cpu?",
+          "score": 20,
+          "created_utc": 1743522886.0,
+          "replies": [
+            {
+              "id": "mkxuq6h",
+              "author": "TheCookieButter",
+              "body": "PBO -20 offset from the AsRock BIOS drop-down menu.",
+              "score": 10,
+              "created_utc": 1743550160.0,
+              "replies": [
+                {
+                  "id": "ml2iard",
+                  "author": "milkteaman",
+                  "body": "Was that for the old or new cpu/mobo?",
+                  "score": 1,
+                  "created_utc": 1743619702.0,
+                  "replies": [
+                    {
+                      "id": "ml2x6jz",
+                      "author": "TheCookieButter",
+                      "body": "Old (asrock B850 pro rs wifi)",
+                      "score": 1,
+                      "created_utc": 1743624039.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ml05cuf",
+                  "author": "TheOriginalKrampus",
+                  "body": "When in doubt, undervolt your CPU. Ever since Ryzen 1000, they\u2019ve been pumping too many volts into these chips. My old R5 2400G used to push sometimes 1.4v+ at stock on an Asrock ab350. I don\u2019t care what architecture that is. 1.4v is way too high.\n\nThen you have people with R5 3600s dying years later because stock settings were running too high.\n\nSo don\u2019t listen to AMD telling you that 95C is safe long term. They clearly don\u2019t know shit. Neither do these mobo manufacturers. I feel like there\u2019s always one or two AIBs every generation who fuck up the voltage and blow up CPUs.\n\nIntel has been having the same problem. Arguably worse, but the Ryzen 9000 series scandal is just the most recent one.\n\nIMO, if you get a new CPU. AMD or Intel. Take some time to learn how to undervolt that particular platform. Whether it\u2019s applying an offset in PBO, some adaptive voltage sorcery for intel, wtv. There\u2019s guides everywhere. Try at the very least to maintain stock clocks at a lower voltage. And invest in a good tower cooler. Anything above 80C should be concerning.",
+                  "score": -4,
+                  "created_utc": 1743591411.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mky3qmz",
+              "author": "Poppyspy",
+              "body": "You can't trust some testimonials during early purchase periods, because they commonly attempt to return CPU or GPU that doesn't OC to their expectations.  Usually based on stuff they see on social video that may or may not be completely true.  We already know some tubers get higher binned chips for reviews so it's logical nobody should expect OCs as high as that.\n\nAnything said on reddit is pure speculation, and to be completely honest I've built many systems and usually any issues are related to system board firmware., anything else is pure consumer error with their own behavior causing issues... Namely OCing RAM, CPU, GPU .... Parts in that order causing system instability and randomly blaming all parts as the cause to return.",
+              "score": 3,
+              "created_utc": 1743553450.0,
+              "replies": []
+            },
+            {
+              "id": "mkxrlkh",
+              "author": "PoisonMikey",
+              "body": "Should underclock it IMO",
+              "score": 7,
+              "created_utc": 1743549061.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkvzzw0",
+          "author": "BirdybBird",
+          "body": "Don't skimp on your MOBO. \n\nIt's Gigabyte or go home.",
+          "score": -59,
+          "created_utc": 1743528875.0,
+          "replies": [
+            {
+              "id": "mkwb5r8",
+              "author": "planetofthemushrooms",
+              "body": "Gigabyte sucks. They just had huge failure of mobos couple years back.",
+              "score": 34,
+              "created_utc": 1743532266.0,
+              "replies": [
+                {
+                  "id": "mkwxkoh",
+                  "author": "Fredasa",
+                  "body": "I used to be a Gigabyte loyalist but yeah, they seem to have de-prioritized quality lately.  Both of the Gigabyte motherboards from my last two builds still work great.",
+                  "score": 11,
+                  "created_utc": 1743539156.0,
+                  "replies": []
+                },
+                {
+                  "id": "mkwd81i",
+                  "author": "AloofCommencement",
+                  "body": "Who's good these days?",
+                  "score": 3,
+                  "created_utc": 1743532901.0,
+                  "replies": [
+                    {
+                      "id": "mkwtnkd",
+                      "author": "BTTWchungus",
+                      "body": "Nobody lol\n\n\nJust make sure you get a warranty\u00a0",
+                      "score": 25,
+                      "created_utc": 1743537981.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mkwycco",
+                      "author": "Fredasa",
+                      "body": "If it were me, I'd be avoiding Asus for a litany of reasons that anyone else in these forums would be familiar with; I'd be avoiding Asrock because of coil whine and OP's topic; I'd think long and hard before buying Gigabyte; and I wouldn't buy a brand I didn't even recognize, like some of those Chinese sounding ones.\n\nAsrock can be tempting because if you ignore any known issues with the brand, they seem to offer the most features for the least money.  I was too picky for that, and it means I probably don't have to worry about my motherboard killing the CPU.  I got an MSI.  Not the best value on the planet but really we're only talking about a ~$10-20 difference.",
+                      "score": 8,
+                      "created_utc": 1743539384.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mkykcft",
+                      "author": "SwornHeresy",
+                      "body": "They all suck but MSI is the least bad.",
+                      "score": 1,
+                      "created_utc": 1743559694.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mkwsrid",
+                  "author": "joestradamus_one",
+                  "body": "I got a gigabyte mobo, seems to be fine so far. What was the issue back then?",
+                  "score": 3,
+                  "created_utc": 1743537710.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkuixyj",
+      "author": "Komikaze06",
+      "body": "Lol Grey knights?",
+      "score": 68,
+      "created_utc": 1743511714.0,
+      "replies": [
+        {
+          "id": "mkul71r",
+          "author": "Teftell",
+          "body": "Author has committed tech heresy",
+          "score": 23,
+          "created_utc": 1743512564.0,
+          "replies": [
+            {
+              "id": "mkulixa",
+              "author": "DucklingInARaincoat",
+              "body": "*The Omnissiah isn\u2019t gunna like this\u2026*",
+              "score": 12,
+              "created_utc": 1743512687.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkum791",
+      "author": "1leggeddog",
+      "body": "I'm guessing overvoltage",
+      "score": 36,
+      "created_utc": 1743512941.0,
+      "replies": [
+        {
+          "id": "mkva0v9",
+          "author": "imaginary_num6er",
+          "body": "Guessing it\u2019s ASRock",
+          "score": 38,
+          "created_utc": 1743520899.0,
+          "replies": [
+            {
+              "id": "mkwimzb",
+              "author": "jjayzx",
+              "body": "It is in the headline so....",
+              "score": 15,
+              "created_utc": 1743534578.0,
+              "replies": []
+            },
+            {
+              "id": "mkvbp7r",
+              "author": "1leggeddog",
+              "body": "bingo",
+              "score": 1,
+              "created_utc": 1743521422.0,
+              "replies": [
+                {
+                  "id": "mkwg4d8",
+                  "author": "Runnergeek",
+                  "body": "Its amazing to me that people spend so much on certain parts, and then go for the cheapest motherboard they can find",
+                  "score": 5,
+                  "created_utc": 1743533799.0,
+                  "replies": [
+                    {
+                      "id": "mkwhuuh",
+                      "author": "1leggeddog",
+                      "body": "I get that, but at the same time, the jump in price of AM5 motherboard was jarring. \n\nPlus, they only came out with the premium high-end boards first. It took a long time before B850 was available iirc\n\nx670 to b650 was like a few weeks\n\nbut x870 to b850 was what almost 4 months?",
+                      "score": 13,
+                      "created_utc": 1743534337.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mky0vxl",
+                      "author": "OffbeatDrizzle",
+                      "body": "even a cheap mobo should be within spec and not kill your components...\n\nlike, what kind of a market is \"cheap but slowly kills your parts\"",
+                      "score": 11,
+                      "created_utc": 1743552386.0,
+                      "replies": [
+                        {
+                          "id": "mkycqmt",
+                          "author": "Runnergeek",
+                          "body": "I don't disagree with that",
+                          "score": 3,
+                          "created_utc": 1743556843.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mkyfkfl",
+                      "author": "NickCharlesYT",
+                      "body": "Why? It's literally built to a spec set by the manufacturer of the CPU, and 99% of people don't need crazy overclocking capable boards to run their PC. It's not like PSUs where the units aren't paired and designed with the components they are built to power - AMD and Intel have a lot of say in the tolerances of these boards. A B series board has no less potential for reliability than an X series board either, so spending more isn't necessarily going to get you a longer lifespan unless you're pushing the power delivery components to their limits (which the vast majority of users aren't)\n\nI would also like to point out expensive ASRock boards exist, too...",
+                      "score": 8,
+                      "created_utc": 1743557920.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "ml3i1ty",
+                      "author": "GrayDaysGoAway",
+                      "body": "ASRock has been widely considered one of the best mobo options (arguably THE best) for AMD CPUs over the past few years. To the point where most of their boards have been selling out as quickly as they can make new ones.",
+                      "score": 1,
+                      "created_utc": 1743630041.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mkxnovl",
+                      "author": "Rammsteinman",
+                      "body": "Asrock used to be really dumb good",
+                      "score": 1,
+                      "created_utc": 1743547700.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mkv7hsv",
+          "author": "bonesnaps",
+          "body": "Probably. Mines fine since I didn't fk with it.\n\n\nAlso have a decent board, MSI x870e or whatever",
+          "score": 1,
+          "created_utc": 1743520111.0,
+          "replies": [
+            {
+              "id": "mkxeai9",
+              "author": "Banryuken",
+              "body": "It\u2019s a decent board. Holding up just fine with a 7950x.",
+              "score": 1,
+              "created_utc": 1743544463.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkxg7kb",
+      "author": "Auran82",
+      "body": "*Hardware Unboxed intensifies*",
+      "score": 8,
+      "created_utc": 1743545112.0,
+      "replies": []
+    },
+    {
+      "id": "mky6yop",
+      "author": "Chanw11",
+      "body": "lol at people thinking Asrock sucks. Reality is, this will happen with every motherboard manufacturer eventually. People love asus boards but i've seen two fail for no real reason.",
+      "score": 13,
+      "created_utc": 1743554663.0,
+      "replies": [
+        {
+          "id": "mkz5qyr",
+          "author": "8day",
+          "body": "At the time I bought AsRock B650m HDV/M.2, in the winter of 2023\u20132024, there was no decent board at that price range. Reviewers like Hardware Unboxed and Gamers Nexus, as well as buildzoid said good things about it. It was the first mobo to support AM5 and had shortest boot time with DDR5, while boards of other makers like MSI and Asus were plagued with coal whine and other issues.\n\nI get that AsRock may be not as good, but it's not like other brands have no issues.",
+          "score": 3,
+          "created_utc": 1743569038.0,
+          "replies": []
+        },
+        {
+          "id": "ml7mnoh",
+          "author": "spacecostume",
+          "body": "Have a taichi x570 working wonderfully but my alternative z790 riptide WiFi went to shit. RMA\u2019d then AsRock sent back a used z790 riptide without WiFi but still had the WiFi backplate. When I returned that one they said I was no longer in warranty and I could destroy the board. I lost confidence in AsRock.",
+          "score": 1,
+          "created_utc": 1743692804.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mkzn4di",
+      "author": "DrinkExcessWater",
+      "body": "PC Jesus foaming at the mouf right now.",
+      "score": 6,
+      "created_utc": 1743579369.0,
+      "replies": []
+    },
+    {
+      "id": "mkznzit",
+      "author": "jert3",
+      "body": "Nothing compared to intel 14th/13th gen cpu overheaters. Such a fiasco and I rue the day I bought one instead of an amd like a reasonable person would.",
+      "score": 4,
+      "created_utc": 1743579966.0,
+      "replies": []
+    },
+    {
+      "id": "mkup10s",
+      "author": "Shadow293",
+      "body": "Haven\u2019t had any issues with my 9800X3D on a Asrock X870E Taichi so far since upgrading back in November last year.",
+      "score": 21,
+      "created_utc": 1743513982.0,
+      "replies": [
+        {
+          "id": "mkuuymc",
+          "author": "ScarletNerd",
+          "body": "Similarly, built a new system was an X870E Nova and 9800X3D in November and also been completely solid. Obviously there is some issue affecting builds, but it's definitely not universal.",
+          "score": 11,
+          "created_utc": 1743516095.0,
+          "replies": [
+            {
+              "id": "mkuxw09",
+              "author": "logicality77",
+              "body": "I did the same upgrade you did in December. I\u2019ve had no issues, although if there is a BIOS issue I wouldn\u2019t know, as I haven\u2019t upgraded mine.",
+              "score": 2,
+              "created_utc": 1743517073.0,
+              "replies": [
+                {
+                  "id": "mkuz7b6",
+                  "author": "ScarletNerd",
+                  "body": "I upgraded to 3.15 and probably will just stay there unless something dramatically changes with performance. There were also quite a lot of people that were having RAM problems, but it always seemed to be people with 32x2 modules. I run 16x2 and never had a problem.",
+                  "score": 2,
+                  "created_utc": 1743517499.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mkzorga",
+              "author": "Bombdy",
+              "body": "I\u2019d need to read the list again, but I believe the x870E Nova hasn\u2019t had any problems. Which I hope is true, because I just got that mobo and a 9800x3D.",
+              "score": 1,
+              "created_utc": 1743580496.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkvudgw",
+          "author": "Tewan",
+          "body": "Did the same upgrade around the same time... no issues yet and hoping to remain that way. Wonder if it could be cooling related, I'm using a 280mm Arctic AIO.",
+          "score": 3,
+          "created_utc": 1743527177.0,
+          "replies": []
+        },
+        {
+          "id": "mky0xj4",
+          "author": "OffbeatDrizzle",
+          "body": "> Haven\u2019t had any issues\n\n... yet",
+          "score": 4,
+          "created_utc": 1743552403.0,
+          "replies": []
+        },
+        {
+          "id": "mkvbj30",
+          "author": "fvck_u_spez",
+          "body": "I'm not looking to upgrade any time soon, but I will be following this closely. I've built 4 AM4 systems with ASRock mobos since 2020, no issues with either. They've become my go to, but I might have to reconsider when I build my next system.",
+          "score": 0,
+          "created_utc": 1743521369.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mkyx0oh",
+      "author": "CommanderWoofington",
+      "body": "I also think I\u2019m one of these statistics\u2026\n\nMy pc with 9800x3d won\u2019t power up and im trying to diagnose now to see if it could be something else. Swapped cables, psu, cmos etc. I\u2019m on msi 650e mobo.",
+      "score": 3,
+      "created_utc": 1743564871.0,
+      "replies": []
+    },
+    {
+      "id": "mkw950g",
+      "author": "ditheca",
+      "body": "Why did they report this on April 1?",
+      "score": 4,
+      "created_utc": 1743531645.0,
+      "replies": []
+    },
+    {
+      "id": "mkv37od",
+      "author": "OmgitsNatalie",
+      "body": "I\u2019m just happy I didn\u2019t cheap out on the board, which is also the best board I\u2019ve gotten. An Asus ROG for the best CPU I got since the 4790K.",
+      "score": 7,
+      "created_utc": 1743518778.0,
+      "replies": [
+        {
+          "id": "mkvk38u",
+          "author": "ArseBurner",
+          "body": "One of the documented cases was a ROG Crosshair X870E.",
+          "score": 13,
+          "created_utc": 1743524006.0,
+          "replies": [
+            {
+              "id": "mkvnwq5",
+              "author": "OmgitsNatalie",
+              "body": "I was close to getting a Crosshair but it was out of my \u201cbudget\u201d and the features were unnecessary. The only thing I sacrificed were the SATA ports, but that could be solved with a PCIe card.",
+              "score": 1,
+              "created_utc": 1743525189.0,
+              "replies": [
+                {
+                  "id": "mkvpwhi",
+                  "author": "Select_Factor_5463",
+                  "body": "Same here, and I'm on a Walmart budget.",
+                  "score": 1,
+                  "created_utc": 1743525810.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mkxea3z",
+              "author": "Kerrigore",
+              "body": "I mean, a certain % of CPU\u2019s are going to be bad, so having it happen once on a motherboard doesn\u2019t really mean anything. If it\u2019s happening on a disproportionate amount of motherboards from a specific brand, that\u2019s more likely to signify an actual problem. Without knowing the percentage of all boards used with this CPU that were from ASrock we can\u2019t know how disproportionately it\u2019s represented, but at 91% it seems unlikely that it wouldn\u2019t be statistically significant.",
+              "score": 0,
+              "created_utc": 1743544459.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkvaald",
+          "author": "imaginary_num6er",
+          "body": "ASUS Prime B850?",
+          "score": 2,
+          "created_utc": 1743520984.0,
+          "replies": [
+            {
+              "id": "mkvi3w7",
+              "author": "ecritique",
+              "body": "Prime and ROG are different product lines under ASUS.",
+              "score": 5,
+              "created_utc": 1743523390.0,
+              "replies": [
+                {
+                  "id": "mkwg5ps",
+                  "author": "imaginary_num6er",
+                  "body": "Yeah it\u2019s their budget line just to be satirical for the other comment claiming to not cheap out on the board",
+                  "score": 3,
+                  "created_utc": 1743533811.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mkvnjlb",
+              "author": "OmgitsNatalie",
+              "body": "I got an Asus ROG Strix. It kinda blew my mind they come with built-in WiFi and Bluetooth now. I\u2019m happy either way. The performance boost from a 9th Gen i5 is insane.",
+              "score": 1,
+              "created_utc": 1743525074.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkw9xwu",
+          "author": "-Jarvan-",
+          "body": "Has gamersnexus and jay2c come to favor Asus again?",
+          "score": 2,
+          "created_utc": 1743531894.0,
+          "replies": [
+            {
+              "id": "mkwrqzn",
+              "author": "kazuviking",
+              "body": "You just cannot beat asus in motherboards.",
+              "score": -4,
+              "created_utc": 1743537402.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mkvhuxf",
+          "author": "OMGItsCheezWTF",
+          "body": "Yeah I'm pretty happy with my ROG Strix X670E, probably the most I've ever spent on a motherboard (I remember when motherboards were expensive if they neared \u00a3100 - this was \u00a3200 in a sale!) and ASUS have a very sketchy reputation around warranty and return these days although consumer law protects me more than it does folks in the US, but I'm very happy with it",
+          "score": 2,
+          "created_utc": 1743523313.0,
+          "replies": []
+        },
+        {
+          "id": "mkzcd9s",
+          "author": "Intranetusa",
+          "body": "It is a shame Asus quality and support has gone downhill. I used to get their GPUs and motherboards.",
+          "score": 0,
+          "created_utc": 1743572560.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mkxt0ir",
+      "author": "xastorra",
+      "body": "I had an AsRock years ago it kept causing blue screens. Got an Asus it\u2019s been perfect. F that.",
+      "score": 2,
+      "created_utc": 1743549552.0,
+      "replies": []
+    },
+    {
+      "id": "mkvr0rr",
+      "author": "HumbleHumor",
+      "body": "Nothing but problems using Asrock.\n\nThey even shadily removed reviews they got for a faulty product years ago back on Newegg",
+      "score": 2,
+      "created_utc": 1743526161.0,
+      "replies": []
+    },
+    {
+      "id": "mkvw68q",
+      "author": "oandakid718",
+      "body": "Did you guys update your bios to 3.2?",
+      "score": 1,
+      "created_utc": 1743527724.0,
+      "replies": []
+    },
+    {
+      "id": "mkxetob",
+      "author": "Kerrigore",
+      "body": "Hmm, I have an 9800x3D in an Asus Prime X670E-Pro, no problems yet. Hopefully this is just as ASrock issue.",
+      "score": 1,
+      "created_utc": 1743544642.0,
+      "replies": []
+    },
+    {
+      "id": "mkzuyds",
+      "author": "GaRGa77",
+      "body": "Got two AsRock AM5 boards couldn\u2019t be happier\u2026",
+      "score": 1,
+      "created_utc": 1743584861.0,
+      "replies": []
+    },
+    {
+      "id": "ml02bff",
+      "author": "cetch",
+      "body": "Getting nervous with my b850 itx asrock board and 9800x3d\u2026.",
+      "score": 1,
+      "created_utc": 1743589686.0,
+      "replies": []
+    },
+    {
+      "id": "ml0gf30",
+      "author": "scuddlebud",
+      "body": "ASRock is doggy doo",
+      "score": 1,
+      "created_utc": 1743596613.0,
+      "replies": []
+    },
+    {
+      "id": "ml0u76r",
+      "author": "PenguinsRcool2",
+      "body": "Love that i went from a 13700k with issues to a 9800x3d on an asrock board with issues lol.",
+      "score": 1,
+      "created_utc": 1743601903.0,
+      "replies": []
+    },
+    {
+      "id": "ml2061w",
+      "author": "Vegetable-Squirrel98",
+      "body": "Well damn, is this a ticking time bomb on my table. What can I do?",
+      "score": 1,
+      "created_utc": 1743614507.0,
+      "replies": []
+    },
+    {
+      "id": "ml2v9lt",
+      "author": "SkunkTruk",
+      "body": "man i had tons on problems with asrock MBs. never buying them again",
+      "score": 1,
+      "created_utc": 1743623501.0,
+      "replies": []
+    },
+    {
+      "id": "mkvpzb2",
+      "author": "smonty",
+      "body": "As someone running away from a cooked 13th Gen Intel to a 9800x3d, fuck.",
+      "score": 1,
+      "created_utc": 1743525835.0,
+      "replies": []
+    },
+    {
+      "id": "mkv5jur",
+      "author": "Oober3",
+      "body": "Not saying this is the reason because I'm too lazy to read the article, but could it be maybe that ASRock is often recommended to people for a x870 that you can overclock your CPU on and that's what's causing the issues ? Whereas people on less ''min-maxing'' motherboards won't go as far on the overclock?",
+      "score": 0,
+      "created_utc": 1743519504.0,
+      "replies": []
+    },
+    {
+      "id": "mkvczji",
+      "author": "None",
+      "body": "Happy with my 7800X3D and 4080 FE",
+      "score": -1,
+      "created_utc": 1743521826.0,
+      "replies": []
+    },
+    {
+      "id": "mkvhow1",
+      "author": "Dresdenwinter",
+      "body": "This happened to me with a 9600x on an AsRock board.",
+      "score": 1,
+      "created_utc": 1743523261.0,
+      "replies": []
+    },
+    {
+      "id": "mkwizkh",
+      "author": "Burtttttt",
+      "body": "Yikes. Just put a 9800x3d on an x870 msi mobo. Hopefully I\u2019m lucky!",
+      "score": 1,
+      "created_utc": 1743534687.0,
+      "replies": []
+    },
+    {
+      "id": "mkwwu7o",
+      "author": "magoomba92",
+      "body": "AssRock\u2019d. \nDoes it work okay on ANUS motherboards?",
+      "score": 1,
+      "created_utc": 1743538937.0,
+      "replies": []
+    },
+    {
+      "id": "mkvh7gg",
+      "author": "SuppleDude",
+      "body": "I\u2019m glad I went with MSI for my mobo.",
+      "score": -2,
+      "created_utc": 1743523112.0,
+      "replies": [
+        {
+          "id": "mkvovyo",
+          "author": "Sevintan",
+          "body": "Just saw 9950x3d die on Crabon today on reddit. Seems no manufacturer is safe from sudden death x3d. Thankfully it seems pretty rare on MSI.",
+          "score": 5,
+          "created_utc": 1743525494.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mkx4xtf",
+      "author": "satsumapen619",
+      "body": "Msi for motherboards. I've never had an issue since am4 with my msi boards. And the aorus master GPU models, my 4080 goes over 3ghz just by increasing the power to 118% and no other overclock",
+      "score": 0,
+      "created_utc": 1743541401.0,
+      "replies": [
+        {
+          "id": "mkxm0b7",
+          "author": "bimbo_bear",
+          "body": "On the other hand I have an MSI board and it took multiple bios updates to get it stable and then the headphone jack solder joint failed :) \n\nNothing is perfect sadly :)",
+          "score": 7,
+          "created_utc": 1743547120.0,
+          "replies": []
+        },
+        {
+          "id": "mkyrfrj",
+          "author": "socraticoath",
+          "body": "I just returned and MSI x870e tomahawk mobo with 9800x3d processor to Microcenter a week after I got it because 4 days after the build i started getting blue screens and my pc ran ridiculously slow. After 2 days of trouble shooting, I returned the mobo, ram and cpu, and got TeamGroup ram, asrock stealth x870 steel legend and a new 9800x3d. That was beginning of last month and haven\u2019t seen and issue sense.",
+          "score": 3,
+          "created_utc": 1743562454.0,
+          "replies": []
+        },
+        {
+          "id": "mkzv1jd",
+          "author": "GaRGa77",
+          "body": "MSI was great for AM4 not so much for AM5",
+          "score": 1,
+          "created_utc": 1743584923.0,
+          "replies": [
+            {
+              "id": "ml0l2f2",
+              "author": "satsumapen619",
+              "body": "I've had zero issues with am4 or am5. All bios's in the early newer boards had issues like black screens and what not, but got fixed very quick. If you got an x870e board your an early adopter and they sort the kinks out. Did the same when I got my first x670e, took about 2 months and no issue after. Nirmally tomahawk is there zero extra crap board and have less issues, same as the pro gaming. The higher end board like the carbon and up have issues at first. Only takes a minute to update bios if need be, my boards OC usability is amazing and I love it, same as my am4 boards. Only issue I've had with the aorus master cards Is GCC not working correctly. But normally a rollback works. I'm just saying what I've had no problems with vs people with gigabyte boards that's sucks, overpriced strix that do nothing different or better, asrock (except taichi). In the systems I've built there's been alot of issues but no where near  with msi boards. Everything will have things that miss QC unfortunately though, or user errors where they're mixing ram, changed a setting and made it completely unstable, but that's an every day thing.",
+              "score": 2,
+              "created_utc": 1743598490.0,
+              "replies": [
+                {
+                  "id": "ml1yoqp",
+                  "author": "GaRGa77",
+                  "body": "Wow you built systems\u2026.",
+                  "score": 1,
+                  "created_utc": 1743614096.0,
+                  "replies": [
+                    {
+                      "id": "ml1z1b8",
+                      "author": "satsumapen619",
+                      "body": "All I did was reply with my experiences with aib brands. Why the sarcasm?",
+                      "score": 2,
+                      "created_utc": 1743614193.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mkzo15b",
+      "author": "YeahNahMateAy",
+      "body": "Good to see in 20 years nothing has changed. Asrock are still catastrophically shit.",
+      "score": 0,
+      "created_utc": 1743579997.0,
+      "replies": []
+    },
+    {
+      "id": "mkwadci",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -4,
+      "created_utc": 1743532025.0,
+      "replies": [
+        {
+          "id": "mkws58l",
+          "author": "kazuviking",
+          "body": "High end asus and msi boards did it as well so it cannot be that.",
+          "score": 8,
+          "created_utc": 1743537521.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mkwwp91",
+      "author": "Murquel",
+      "body": "Ola-la...",
+      "score": -1,
+      "created_utc": 1743538897.0,
+      "replies": []
+    },
+    {
+      "id": "ml0een4",
+      "author": "cahoots72",
+      "body": "Vaxxed?",
+      "score": -1,
+      "created_utc": 1743595747.0,
+      "replies": []
+    },
+    {
+      "id": "mkvg7it",
+      "author": "Dont_Order_A_Slayer",
+      "body": "What are you doing putting that chip into an asrock \"budget\" mobo?\n\nIf I had the choice between having no Ryzen 7 9800x3d computer to build (or own) or a Ryzen 7 9800x3d computer to build or own with an Asrock mobo. I'd smartly decide to have no computer for a few more days.  \n\nInstead of the money spent on any type of Asrock board, I'd wait however long it took me to save up another 3 to 11 USD necessary, and buy a Not-Asrock board.  It wouldn't take much.",
+      "score": -13,
+      "created_utc": 1743522805.0,
+      "replies": []
+    },
+    {
+      "id": "mkv6y0b",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -17,
+      "created_utc": 1743519940.0,
+      "replies": [
+        {
+          "id": "mkv98ap",
+          "author": "buddhatherock",
+          "body": "Most signs point to it not being a CPU problem. Most likely the motherboard is the problem.",
+          "score": 7,
+          "created_utc": 1743520652.0,
+          "replies": [
+            {
+              "id": "mkvlimj",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -12,
+              "created_utc": 1743524447.0,
+              "replies": [
+                {
+                  "id": "mkvox8l",
+                  "author": "BTTWchungus",
+                  "body": "In what way is the motherboard not relevant? Idiot take",
+                  "score": 3,
+                  "created_utc": 1743525505.0,
+                  "replies": [
+                    {
+                      "id": "mkws256",
+                      "author": "kazuviking",
+                      "body": "As it can be the cpu requesting way too much voltage like in intels case. AMD is pretty silent about the exploding X3D chips.",
+                      "score": -3,
+                      "created_utc": 1743537496.0,
+                      "replies": [
+                        {
+                          "id": "mkwtfi6",
+                          "author": "BTTWchungus",
+                          "body": "Then why is it happening only on ASRock mobos?",
+                          "score": 3,
+                          "created_utc": 1743537913.0,
+                          "replies": [
+                            {
+                              "id": "mkwuq4k",
+                              "author": "kazuviking",
+                              "body": "It happened to top of the line asus and msi motherboards as well, not just to asrock.",
+                              "score": -2,
+                              "created_utc": 1743538301.0,
+                              "replies": [
+                                {
+                                  "id": "mkx23p8",
+                                  "author": "BTTWchungus",
+                                  "body": "We're going off of the proportion of the cases (80% ASRock)",
+                                  "score": 1,
+                                  "created_utc": 1743540519.0,
+                                  "replies": [
+                                    {
+                                      "id": "mkx4hjd",
+                                      "author": "None",
+                                      "body": "[deleted]",
+                                      "score": 1,
+                                      "created_utc": 1743541259.0,
+                                      "replies": [
+                                        {
+                                          "id": "mkxwv8e",
+                                          "author": "BTTWchungus",
+                                          "body": "That still proves my point that the x3d chips aren't to blame here",
+                                          "score": 1,
+                                          "created_utc": 1743550918.0,
+                                          "replies": [
+                                            {
+                                              "id": "mky1l14",
+                                              "author": "noiraxen",
+                                              "body": "Never said it doesn't, article is just confusing. It says 98/108 is 80% but turns out it's 86/108 for 9800x3d and 10/10 for non x3d. I wonder how popular the Asrock(86) boards are compared to msi(5) or gigabyte(1). Even with just anecdotal reddit evidence I wouldnt buy Asrock after seeing this.",
+                                              "score": 1,
+                                              "created_utc": 1743552648.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

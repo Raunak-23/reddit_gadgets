@@ -1,0 +1,49 @@
+metric,value
+file,1h6d85b.csv
+title,MSI Claw handheld gaming PC returns with Lunar Lake and 32GB of RAM for 800 USD | A cheaper Lenovo handheld gaming PC is also coming
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,14
+max_depth,4
+avg_comment_words,42.5
+median_comment_words,39.5
+max_comment_words,103
+positive_count,4
+negative_count,12
+neutral_count,0
+positive_pct,25.0
+negative_pct,75.0
+neutral_pct,0.0
+topic_1_keywords,"games, breadth, interface, specs, im, based, intuitive, important"
+topic_1_label,iii: iiii: iiiiiiiiiiiiiiiii
+topic_2_keywords,"windows, steam, deck, point, apple, anything, linux, people"
+topic_2_label,"Windows, Steam, deck, point, apple, linux"
+topic_3_keywords,"buy, yeah, old, new, instead, overpriced, better, specs"
+topic_3_label,i bought old and new for less than a year
+topic_4_keywords,"windows, games, loyal, steam, fanatically, pc, better, im"
+topic_4_label,"Windows, games, loyal, steam, pc"
+topic_5_keywords,"feel, steamdeck, 800, lol, buy, like, price, oled"
+topic_5_label,i like the steamdeck and i like the price
+topic_6_keywords,"feel, like, price, oled, get, deck, steam, play"
+topic_6_label,Steam oled decks feel like steam
+top_ngram_1,steam deck (16)
+top_ngram_2,loyal windows (6)
+top_ngram_3,better specs (5)
+top_ngram_4,fanatically loyal (5)
+top_ngram_5,fanatically loyal windows (5)
+top_ngram_6,breadth games (5)
+top_ngram_7,well point (4)
+top_ngram_8,point steam (4)
+top_ngram_9,deck linux (4)
+top_ngram_10,linux thats (4)
+ner_1,Linux|MISC|5
+ner_2,Apple|ORG|2
+ner_3,Steam Deck|ORG|2
+ner_4,Windows Its|MISC|2
+ner_5,Windows|MISC|2
+ner_6,GoG Battlenet|ORG|1
+ner_7,AMD|ORG|1
+ner_8,##OS|MISC|1
+ner_9,MSI|ORG|1
+ner_10,Steam|MISC|1

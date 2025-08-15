@@ -1,0 +1,49 @@
+metric,value
+file,1grwgkj.csv
+title,Researcher demonstrates Apple iOS 18 security feature rebooting an iPhone after 72 hours of incativity | See the feature in action
+rows,221
+num_posts,1
+num_comments,220
+unique_authors,127
+max_depth,13
+avg_comment_words,65.3
+median_comment_words,42.5
+max_comment_words,400
+positive_count,18
+negative_count,202
+neutral_count,0
+positive_pct,8.182
+negative_pct,91.818
+neutral_pct,0.0
+topic_1_keywords,"ops, article, fault, headline, thats, incativity, bloody, reboot"
+topic_1_label,"ops, article, fault, thats, incativity, bloody reboot"
+topic_2_keywords,"apple, phone, access, phones, cant, difficult, security, absolutely"
+topic_2_label,Apple phones are difficult to access
+topic_3_keywords,"apple, phone, would, government, access, dont, use, time"
+topic_3_label,Apple would not use the phone in government
+topic_4_keywords,"button, confirmation, without, side, phone, dont, passcode, warrant"
+topic_4_label,"button, confirmation, without, phone, warrant"
+topic_5_keywords,"apple, could, better, probably, action, say, cant, im"
+topic_5_label,apple could be better than cant
+topic_6_keywords,"apple, would, phone, get, law, one, fbi, unlock"
+topic_6_label,Apple would unlock a phone
+top_ngram_1,law enforcement (23)
+top_ngram_2,ops fault (17)
+top_ngram_3,back door (16)
+top_ngram_4,incativity thats (15)
+top_ngram_5,thats ops (15)
+top_ngram_6,fault bloody (15)
+top_ngram_7,bloody article (15)
+top_ngram_8,article headline (15)
+top_ngram_9,incativity thats ops (15)
+top_ngram_10,thats ops fault (15)
+ner_1,Apple|ORG|149
+ner_2,iPhone|MISC|69
+ner_3,iOS|MISC|32
+ner_4,FBI|ORG|31
+ner_5,US|LOC|21
+ner_6,O|ORG|19
+ner_7,China|LOC|14
+ner_8,Apple|MISC|6
+ner_9,Pegasus|MISC|5
+ner_10,DFU|ORG|5

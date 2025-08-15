@@ -1,0 +1,49 @@
+metric,value
+file,1kmdx56.csv
+title,"Sony has sold 77.8 million PS5s to date, but expects a downturn due to tariffs"
+rows,38
+num_posts,1
+num_comments,37
+unique_authors,32
+max_depth,4
+avg_comment_words,60.78
+median_comment_words,30.0
+max_comment_words,323
+positive_count,9
+negative_count,28
+neutral_count,0
+positive_pct,24.324
+negative_pct,75.676
+neutral_pct,0.0
+topic_1_keywords,"used, one, much, reddit, think, humans, power, price"
+topic_1_label,reddit thinks humans are used to power
+topic_2_keywords,"lol, price, enough, thinking, never, hike, still, thats"
+topic_2_label,i think i never hiked
+topic_3_keywords,"game, ps5, hunter, monster, lags, make, reduce, games"
+topic_3_label,lags make games
+topic_4_keywords,"sales, million, year, sony, company, us, sold, 2023"
+topic_4_label,US company sold 2023 sony in 2023
+topic_5_keywords,"ps5, gta, game, im, yeah, boost, 2026, pc"
+topic_5_label,"ps5 gta, gta, pc, gta"
+topic_6_keywords,"prices, regions, tariffs, big, downturn, see, well, didnt"
+topic_6_label,big downturn in price
+top_ngram_1,monster hunter (11)
+top_ngram_2,hunter wilds (6)
+top_ngram_3,monster hunter wilds (6)
+top_ngram_4,wilds lags (5)
+top_ngram_5,lags ps5 (5)
+top_ngram_6,ps5 ive (5)
+top_ngram_7,ive owned (5)
+top_ngram_8,owned years (5)
+top_ngram_9,years monster (5)
+top_ngram_10,hunter game (5)
+ner_1,PS5|MISC|19
+ner_2,Sony|ORG|17
+ner_3,US|LOC|8
+ner_4,Nintendo|ORG|7
+ner_5,PlayStation 5|MISC|5
+ner_6,Monster Hunter|MISC|5
+ner_7,PlayStation|ORG|5
+ner_8,PlayStation|MISC|3
+ner_9,GTA IV|MISC|3
+ner_10,Xbox|MISC|3
