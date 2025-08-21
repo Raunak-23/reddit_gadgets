@@ -1,0 +1,49 @@
+metric,value
+file,1ldtksc.csv
+title,"AMD launches 6-core Ryzen 5 5500X3D, budget 3D V-Cache CPU for Latin America"
+rows,31
+num_posts,1
+num_comments,30
+unique_authors,24
+max_depth,5
+avg_comment_words,46.7
+median_comment_words,39.5
+max_comment_words,266
+positive_count,11
+negative_count,19
+neutral_count,0
+positive_pct,36.667
+negative_pct,63.333
+neutral_pct,0.0
+topic_1_keywords,"am6, am4, systems, keep, long, close, launching, point"
+topic_1_label,launching point for launching system
+topic_2_keywords,"would, amd, dont, world, rest, like, volume, limited"
+topic_2_label,idiad is a limited edition of idiad
+topic_3_keywords,"am4, would, upgrade, like, make, great, 3d, enough"
+topic_3_label,3d upgrade for a 3d
+topic_4_keywords,"am4, still, pc, gaming, ryzen, new, 5950x, system"
+topic_4_label,ryzen is a new system for gaming
+topic_5_keywords,"am4, amd, cpus, forever, alive, keeping, upgrade, platform"
+topic_5_label,cpus forever alive and cpus forever
+topic_6_keywords,"never, gifgiphyjsqxtn4fji0ig6el2fdownsized, die, legends, asia, sensitive, us, price"
+topic_6_label,"gifgiphyjsqxtn4fji0ig6el2fdownsized, die,"
+top_ngram_1,amd keeping (4)
+top_ngram_2,keeping am4 (4)
+top_ngram_3,am4 platform (4)
+top_ngram_4,platform alive (4)
+top_ngram_5,alive forever (4)
+top_ngram_6,amd keeping am4 (4)
+top_ngram_7,keeping am4 platform (4)
+top_ngram_8,am4 platform alive (4)
+top_ngram_9,platform alive forever (4)
+top_ngram_10,5950x 3d (4)
+ner_1,AMD|ORG|10
+ner_2,Ryzen|MISC|5
+ner_3,AM4|MISC|4
+ner_4,##4|MISC|4
+ner_5,Windows|MISC|3
+ner_6,##zen|MISC|2
+ner_7,Vega|MISC|2
+ner_8,Latin America|LOC|2
+ner_9,GTX|MISC|2
+ner_10,Southeast|LOC|2

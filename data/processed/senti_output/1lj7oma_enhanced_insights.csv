@@ -1,0 +1,49 @@
+metric,value
+file,1lj7oma.csv
+title,"China's first gaming GPU, the Lisuan G100, performs like a 13-year-old Nvidia GTX 660 Ti"
+rows,900
+num_posts,1
+num_comments,899
+unique_authors,627
+max_depth,11
+avg_comment_words,66.35
+median_comment_words,43.0
+max_comment_words,1424
+positive_count,198
+negative_count,602
+neutral_count,99
+positive_pct,22.024
+negative_pct,66.963
+neutral_pct,11.012
+topic_1_keywords,"people, china, like, would, make, fun, good, made"
+topic_1_label,Chinese people like making fun
+topic_2_keywords,"years, behind, nvidia, china, first, cards, next, gen"
+topic_2_label,gen of cards in nvidia
+topic_3_keywords,"china, machines, technology, asml, work, would, doesnt, dont"
+topic_3_label,China doesnt work in asml
+topic_4_keywords,"china, us, chip, like, chinese, evs, years, make"
+topic_4_label,chinese chipping in the us
+topic_5_keywords,"china, chinese, think, years, dont, best, make, ev"
+topic_5_label,"China, chinese, don 't make ev"
+topic_6_keywords,"china, chinese, western, low, countries, make, prices, performance"
+topic_6_label,"China, Chinese, Western, low prices"
+top_ngram_1,years ago (65)
+top_ngram_2,years behind (59)
+top_ngram_3,next gen (55)
+top_ngram_4,56 years (53)
+top_ngram_5,56 years behind (52)
+top_ngram_6,year behind (51)
+top_ngram_7,watch 56 (50)
+top_ngram_8,behind next (50)
+top_ngram_9,gen year (50)
+top_ngram_10,behind 23 (50)
+ner_1,China|LOC|503
+ner_2,Chinese|MISC|236
+ner_3,US|LOC|132
+ner_4,Intel|ORG|78
+ner_5,Nvidia|ORG|68
+ner_6,ASML|ORG|42
+ner_7,TSMC|ORG|42
+ner_8,Taiwan|LOC|38
+ner_9,Tesla|MISC|37
+ner_10,Japanese|MISC|37

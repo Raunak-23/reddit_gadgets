@@ -1,0 +1,49 @@
+metric,value
+file,1kymoy4.csv
+title,"Xbox's handheld has been sidelined (for now), as Microsoft doubles down on Windows 11 PC gaming handheld optimization"
+rows,267
+num_posts,1
+num_comments,266
+unique_authors,153
+max_depth,14
+avg_comment_words,78.13
+median_comment_words,58.0
+max_comment_words,457
+positive_count,11
+negative_count,255
+neutral_count,0
+positive_pct,4.135
+negative_pct,95.865
+neutral_pct,0.0
+topic_1_keywords,"windows, steamos, still, steam, games, like, run, theyre"
+topic_1_label,Steamos still run in windows
+topic_2_keywords,"office, windows, use, linux, work, used, word, youre"
+topic_2_label,you're using linux in office
+topic_3_keywords,"linux, use, windows, gaming, go, steamos, people, let"
+topic_3_label,Linux: Steamos and Linux
+topic_4_keywords,"windows, gaming, dont, games, os, work, pc, steam"
+topic_4_label,"Windows, games, os, work, pc"
+topic_5_keywords,"linux, games, steamos, gaming, would, windows, switch, run"
+topic_5_label,"Linux, Steamos, Windows, Switch"
+topic_6_keywords,"xbox, one, going, pc, console, windows, game, unless"
+topic_6_label,xbox goes to pc
+top_ngram_1,windows 11 (51)
+top_ngram_2,steam os (35)
+top_ngram_3,steam deck (27)
+top_ngram_4,pc gaming (17)
+top_ngram_5,linux distro (16)
+top_ngram_6,windows license (15)
+top_ngram_7,game pass (15)
+top_ngram_8,windows dont (15)
+top_ngram_9,gaming mode (15)
+top_ngram_10,run games (14)
+ner_1,Windows|MISC|124
+ner_2,Linux|MISC|116
+ner_3,SteamOS|MISC|80
+ner_4,Microsoft|ORG|58
+ner_5,Xbox|MISC|46
+ner_6,Valve|ORG|21
+ner_7,Steam|ORG|20
+ner_8,Xbox|ORG|18
+ner_9,Windows 11|MISC|18
+ner_10,PC|MISC|15

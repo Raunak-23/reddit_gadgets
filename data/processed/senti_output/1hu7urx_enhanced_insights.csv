@@ -1,0 +1,49 @@
+metric,value
+file,1hu7urx.csv
+title,Rumors say next-gen RTX 50 GPUs will come with big jumps in power requirements
+rows,63
+num_posts,1
+num_comments,62
+unique_authors,37
+max_depth,11
+avg_comment_words,88.9
+median_comment_words,64.0
+max_comment_words,314
+positive_count,2
+negative_count,60
+neutral_count,0
+positive_pct,3.226
+negative_pct,96.774
+neutral_pct,0.0
+topic_1_keywords,"power, even, draw, better, uses, 600w, 5090, almost"
+topic_1_label,"Power, even, even, draw, even, almost"
+topic_2_keywords,"5090, outlet, youre, power, pc, going, put, plug"
+topic_2_label,5090 power outlet for pc
+topic_3_keywords,"power, circuit, dont, vram, 24gb, gaming, intel, 1000w"
+topic_3_label,vram power circuit not working
+topic_4_keywords,"circuit, power, two, draw, 100amp, computer, low, wiring"
+topic_4_label,"circuit, power, two, 100amp, low, wiring"
+topic_5_keywords,"power, either, old, trying, hip, twostep, news, broke"
+topic_5_label,twosteps: old and old trying to break news
+topic_6_keywords,"circuit, draw, 1500w, supply, amps, still, much, single"
+topic_6_label,AMC circuit draws 1500w supply and a single amp
+top_ngram_1,power draw (23)
+top_ngram_2,air conditioner (11)
+top_ngram_3,power supply (11)
+top_ngram_4,less power (11)
+top_ngram_5,almost always (9)
+top_ngram_6,30 less (9)
+top_ngram_7,30 less power (9)
+top_ngram_8,big jumps (8)
+top_ngram_9,almost certainly (8)
+top_ngram_10,even two (7)
+ner_1,NVIDIA|ORG|9
+ner_2,Intel|ORG|5
+ner_3,AMD|ORG|3
+ner_4,5090|MISC|3
+ner_5,AC|MISC|3
+ner_6,American|MISC|3
+ner_7,Jensen|PER|3
+ner_8,DC|MISC|2
+ner_9,EU|ORG|2
+ner_10,Battlemage Pro|MISC|2

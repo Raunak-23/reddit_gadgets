@@ -1,0 +1,1605 @@
+{
+  "post": {
+    "title": "Firmware update bricks HP printers, makes them unable to use HP cartridges | HP already has a reputation for breaking printers with updates.",
+    "author": "chrisdh79",
+    "id": "1j8dr7o",
+    "score": 2056,
+    "created_utc": 1741651989.0,
+    "selftext": "",
+    "num_comments": 207,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1j8dr7o/firmware_update_bricks_hp_printers_makes_them/"
+  },
+  "comments": [
+    {
+      "id": "mh4na37",
+      "author": "thisisnotme526",
+      "body": "Why do people and companies continue to purchase anything from this company?",
+      "score": 369,
+      "created_utc": 1741656185.0,
+      "replies": [
+        {
+          "id": "mh4u8e5",
+          "author": "pagerunner-j",
+          "body": "I need to get a new printer one of these days, but I\u2019m definitely avoiding HP. (My old one, which is finally getting a little flaky after 16-ish years, is an Epson \u2014 anyone have any impressions on how they\u2019re faring these days?)",
+          "score": 84,
+          "created_utc": 1741658426.0,
+          "replies": [
+            {
+              "id": "mh567ag",
+              "author": "BiNumber3",
+              "body": "Last Epson I had ran into similar issues as these HPs. Bought it about 5 years ago, since before I didnt have any issues with Epson.\n\nIt wouldnt scan because my ink was low.... and it wouldnt accept 3rd party cartridges.\n\nNowadays the only brand I have faith in for printers is Brother, or ancient laserprinters people sell on local markets lol.\n\nEdit: seems even Brother is starting to give in though... sigh",
+              "score": 81,
+              "created_utc": 1741662610.0,
+              "replies": [
+                {
+                  "id": "mh5sice",
+                  "author": "Square_Chisel",
+                  "body": "canon still good",
+                  "score": 27,
+                  "created_utc": 1741673085.0,
+                  "replies": [
+                    {
+                      "id": "mh75eou",
+                      "author": "Aggressive_Version",
+                      "body": "Can confirm. Bought a Canon not long ago. It's been good. Notable because most printers I've used have been bad",
+                      "score": 6,
+                      "created_utc": 1741699233.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mh5z8qx",
+                  "author": "doom32x",
+                  "body": "I'm using a Brother black and white laser all in 1, that thing will go with me to my grave if I have my choice, fuck HP and ink.",
+                  "score": 19,
+                  "created_utc": 1741677152.0,
+                  "replies": []
+                },
+                {
+                  "id": "mh5tory",
+                  "author": "GuyWithLag",
+                  "body": "> Brother\n\nYeah, their laser printers are now cartridge-locked. At least they don't push a subscription...",
+                  "score": 32,
+                  "created_utc": 1741673780.0,
+                  "replies": [
+                    {
+                      "id": "mh5xe9l",
+                      "author": "Meatball132",
+                      "body": "Ah, yeah, [about that](https://www.brother-usa.com/supplies/subscription-info)...",
+                      "score": 19,
+                      "created_utc": 1741676014.0,
+                      "replies": [
+                        {
+                          "id": "mh611th",
+                          "author": "Turmfalke_",
+                          "body": "At least they aren't very good at it, because cloudflare is blocking that link for me. Apparently a get request is a security concern.",
+                          "score": 6,
+                          "created_utc": 1741678302.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mh7bvo0",
+                      "author": "NRMusicProject",
+                      "body": "Yep.  Right now, the consensus is if you have a Brother, firewall it from the internet ASAP so it doesn't update the firmware and lock out \"unofficial\" printer cartridges.\n\nE: Looks like Brother reached out to Louis Rossman to straighten this out.  Luis originally reported it; said he was told on the phone that his printer was bricked because it wasn't using an \"official\" cartridge.  He's said he'll make a follow-up video once it's all straightened out and what his takeaway is.\n\nIt's mentioned in other places that the report was from \"a clickbaity YouTuber.\" Louis is very big on consumer rights and right-to-repair, and he's all about pushing products that don't pull HP bullshit.  He may have been mistaken or been accidentally locked out, but there's no reason to believe that he's making clickbait videos.  He's worked extremely hard for consumer rights, and he's doing what he thinks is the right thing.",
+                      "score": 16,
+                      "created_utc": 1741701381.0,
+                      "replies": [
+                        {
+                          "id": "mh8txs2",
+                          "author": "bubbafatok",
+                          "body": "Eh, he can blow things out of proportion. Like Disney plus is integrating live sporting events and such in their all, and those live events have ads, due to contracts, and he's cutting videos telling people to go back to pirating because certain content on Disney Plus has ads even with ad free tiers.\u00a0",
+                          "score": -5,
+                          "created_utc": 1741717066.0,
+                          "replies": [
+                            {
+                              "id": "mh94nyu",
+                              "author": "AintNobody-",
+                              "body": "So when I buy something called \"ad free\", and there are ads, I should be okay with that because \"contracts?\" That's a no from me dawg.",
+                              "score": 7,
+                              "created_utc": 1741720070.0,
+                              "replies": [
+                                {
+                                  "id": "mh95aip",
+                                  "author": "NRMusicProject",
+                                  "body": "> That's a no from me dawg.\n\nIt's a no from everyone who doesn't want companies pushing them around.  I haven't watched anything with ads in years, and my life is very much better for it.  Piracy is more convenient than \"moral\", and until that changes, \"moral\" will continue to lose.",
+                                  "score": 4,
+                                  "created_utc": 1741720248.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mh96fke",
+                                  "author": "bubbafatok",
+                                  "body": "Then you have unrealistic expectation.  When I buy ad free Disney+, I don't expect to watch a live sporting event that is from a televised source without ads.  They're not inserting ads into on demand content.  It's live stuff they're ADDING to Disney+.  Shit that wasn't included in the app before. I'm thrilled that I can watch content from ESPN+ on Disney+, but I'm either going to get an ad or 3 minutes of blank, because that actual feed has ads.  When I watch their live ABC News Live channel, it's the feed from ABC.  This is content I'd rather have than not have and I'm glad they're having it, but because people lose their shit at every perceived injustice they have to put out a statement saying that yes, sometimes you might see an ad on certain content.\n\nNetflix has the exact same issue with the WWE Raw event feed, and Max with their live sport feeds.  You're literally watching the TNT feed FOR FREE on Max, without having to have cable.  It's fucking awesome - I can deal with having the same ads I'd have it I had cable or paid for youtube tv for those events.",
+                                  "score": -2,
+                                  "created_utc": 1741720570.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mh6r2sy",
+                      "author": "draxula16",
+                      "body": "I thought that\u2019s for their new printers.\n\nNothing wrong with just picking up an older Brother. Mine is over 5 years old and I\u2019ve changed the toner 2-3 times. This is with *heavy* printing too",
+                      "score": 8,
+                      "created_utc": 1741693537.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mh7kj0w",
+                  "author": "dcampthechamp",
+                  "body": "The Epson EcoTank that I've had for the last year has been probably the best printer I've used in a long time.",
+                  "score": 5,
+                  "created_utc": 1741704075.0,
+                  "replies": [
+                    {
+                      "id": "mh8bduw",
+                      "author": "bugnutzz",
+                      "body": "I also have a newer Epson eco tank. No cartridges involved. You pour the different color inks into their inkwells. Been very cheap to run so far. Copies look great.",
+                      "score": 1,
+                      "created_utc": 1741711857.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mh5udra",
+                  "author": "DatTF2",
+                  "body": "And Brother now have their own controversy of locking printers using 3rd party cartridges.",
+                  "score": 8,
+                  "created_utc": 1741674194.0,
+                  "replies": [
+                    {
+                      "id": "mh6kag0",
+                      "author": "Aimhere2k",
+                      "body": "There's a link at the end of that HP article on Ars, to their analysis of the Brother \"controversy\".\n\nTldr; the Youtuber making the claim (that Brother is degrading print quality with third party supplies... It was never \"locking\" them) is known for misleading clickbait. And the other people claiming Brother malfeasance are posting anonymously. Some of the claims are years old.\n\nBrother has vehemently denied intentionally degrading or blocking the use of third-party supplies.\n\nIt seems to me that *any* third-party supplier could suddenly have quality-control problems, or switch manufacturers, and no one would be the wiser until the cartridges fail.",
+                      "score": 16,
+                      "created_utc": 1741690186.0,
+                      "replies": [
+                        {
+                          "id": "mh7ev93",
+                          "author": "NRMusicProject",
+                          "body": "> Youtuber making the claim \n\n...is Louis Rossman, a huge proponent and leader in consumer rights and right-to-repair.  There might have been a mistake in his lockout, but he didn't do it with any sort of attempt at misinformation.  He stickied his top comment on his video that Brother has reached out so that they can figure out what happened, and he'll share a video update as soon as it's all figured out.  \n\nIIRC, the cartridge that bricked his computer was working fine until a firmware update, at which point the printer locked him out for \"unsupported\" cartridge, even though it was the same cartridge before the firmware update.  Further, if the firmware/drivers are faulty, you're kinda SOL, because Brother removes previous versions from their site.\n\nIn short, it can very well be a mistake with an update, but I doubt there was any malicious intent by Louis, and I look forward to his update in this matter.",
+                          "score": 8,
+                          "created_utc": 1741702330.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mh7gyvy",
+                          "author": "unibrow4o9",
+                          "body": "Don't give a shit what Brother said - they did it to me 4 years ago or so. Had a Brother ink jet, updated the firmware, then all of a sudden my 3rd party ink I already had installed no longer worked. They're as shitty as the rest of them.",
+                          "score": 6,
+                          "created_utc": 1741702989.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mh5zcya",
+                      "author": "doom32x",
+                      "body": "Eh, even then toner is soo cost effective compared to ink I'm not that mad.",
+                      "score": 4,
+                      "created_utc": 1741677224.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mhiwjf7",
+                  "author": "Jarardian",
+                  "body": "If you get the bottle filled Epson printers, they can\u2019t lock you out since there\u2019s no way to verify the ink.",
+                  "score": 1,
+                  "created_utc": 1741847424.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh5z69l",
+              "author": "snapeyouinhalf",
+              "body": "I have had several Canon printers over the last 15 years and they have all been amazing. Currently have an ink tank Canon printer that works flawlessly.",
+              "score": 12,
+              "created_utc": 1741677108.0,
+              "replies": []
+            },
+            {
+              "id": "mh5e7o2",
+              "author": "N0S0UP_4U",
+              "body": "I have an almost brand new Canon and I\u2019ve liked it so far. Can\u2019t speak for Epson though.",
+              "score": 7,
+              "created_utc": 1741665846.0,
+              "replies": [
+                {
+                  "id": "mh5uj2d",
+                  "author": "DatTF2",
+                  "body": "Canons have a built in 'odometer' I mean it will last a while but after it hits a certain amount of prints it will stop working. Granted it had years of use before it hit it but still sucks.",
+                  "score": 4,
+                  "created_utc": 1741674285.0,
+                  "replies": [
+                    {
+                      "id": "mh704v2",
+                      "author": "rkcth",
+                      "body": "Do you mean quality-wise or there is a literal hard coded maximum number of prints and then it stops?",
+                      "score": 4,
+                      "created_utc": 1741697304.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mh6e52k",
+              "author": "Saturn_winter",
+              "body": "Just for home use?  How often do you print?  \n\nBecause I might have a very cheap option for you:  a library card.  Let them deal with the demon machine.  Or you can be like me and the rare occasion you need to print something just do it at work lol.",
+              "score": 3,
+              "created_utc": 1741686741.0,
+              "replies": []
+            },
+            {
+              "id": "mh53mfd",
+              "author": "MikeAWBD",
+              "body": "Just bought an Epson XP5200, only had it a couple days so I can't say much on how well it works.  One plus about the Epson though is there are separate cartridges for each of the 3 colors.  The cheaper HP's and Cannon's had all the colors as a single cartridge.  It does feel sturdier then my old HP as well.",
+              "score": 2,
+              "created_utc": 1741661646.0,
+              "replies": []
+            },
+            {
+              "id": "mh6a0s8",
+              "author": "kris-sigur",
+              "body": "I bought an Epson EcoTank printer about 4 years ago. I am still going through the color ink that came with it and have only had to top off the black. Even buying the Epson branded refills the ink is way cheaper than the usual ink cartridges. Would recommend if you are looking for an inkjet.\n\nReally the only issue with it has been if you don't use it for awhile the print heads can become a bit clogged, requiring you to run the nozzle clean procedure.",
+              "score": 2,
+              "created_utc": 1741684177.0,
+              "replies": []
+            },
+            {
+              "id": "mh717f7",
+              "author": "codywater",
+              "body": "We bought a brother B&W laser and it\u2019s been flawless. We used to have so many issues with ink drying out between uses, but no more! And it just works.",
+              "score": 2,
+              "created_utc": 1741697709.0,
+              "replies": [
+                {
+                  "id": "mh7tjeb",
+                  "author": "joleme",
+                  "body": "Just don't update the firmware",
+                  "score": 1,
+                  "created_utc": 1741706755.0,
+                  "replies": []
+                },
+                {
+                  "id": "mhvjghn",
+                  "author": "wolvesinthewind",
+                  "body": "love ours as well, if I need something color(photos) walgreens has what I need.",
+                  "score": 1,
+                  "created_utc": 1742014820.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh7fzc4",
+              "author": "In-Between-Days",
+              "body": "I finally bought a Brother laser printer and it has been a sooooo much better experience. I had an Epson printer for a few years and it was absolute trash. Had to do a print head cleaning (sometimes multiple) before I printed anything or else there would be vertical stripes where no/low ink would be printed, making whatever I printed unreadable. We were constantly going through ink even though we printed maybe a page a week (I think the constant cleaning contributed to this). The Brother printer just works and has been oddly joyful to print something and have it come out as you'd expect each time.\n\nEDIT: I forgot about the fact that if you are out of color ink, but have full black ink and want to print in B&W, the Epson printer would not let you print. We never printed in color but somehow always used color, so we'd just randomly not be able to print anything until we bought colored ink.",
+              "score": 2,
+              "created_utc": 1741702681.0,
+              "replies": []
+            },
+            {
+              "id": "mh4y8ug",
+              "author": "Aggies18",
+              "body": "I still have an Epson workforce (I think that\u2019s the model?) that\u2019s been with me since College about 6 years ago so I\u2019d say at least the older models are still kickin.",
+              "score": 3,
+              "created_utc": 1741659773.0,
+              "replies": []
+            },
+            {
+              "id": "mh61gcc",
+              "author": "keef-keefson",
+              "body": "I have an Epson ecotank. It\u2019s an OK printer; but the ink is cheap and lasts for years. Print quality isn\u2019t amazing, but it was the cheapest model they sold at the time. Genuine ink is so cheap it\u2019s hardly worth buying unbranded refills.",
+              "score": 1,
+              "created_utc": 1741678564.0,
+              "replies": [
+                {
+                  "id": "mh6c0zn",
+                  "author": "caelenvasius",
+                  "body": "I like my EcoTank 2800 for basic print jobs, even if they need color\u2026but I kinda regret it for things which need high quality art on them (like tabletop gaming tokens). It tends to oversaturate the colors and can sometimes leave lines in the print, and while bringing on the highest quality can often fix the latter I have never found a fix for the former.\n\nLuckily the ink is cheap and really does last forever\u2026",
+                  "score": 1,
+                  "created_utc": 1741685444.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh74siy",
+              "author": "alidan",
+              "body": "brother laser, if you dont print often, laser is the best option and i think brother is the cheapest one for that.",
+              "score": 1,
+              "created_utc": 1741699016.0,
+              "replies": []
+            },
+            {
+              "id": "mh7etxw",
+              "author": "parisidiot",
+              "body": "how often are you printing? you can't hit up a kinkos or print at work? i feel like I print things once a year",
+              "score": 1,
+              "created_utc": 1741702318.0,
+              "replies": [
+                {
+                  "id": "mh8hzym",
+                  "author": "pagerunner-j",
+                  "body": "The annoying thing with everything I've needed to print lately (lots of tax forms, etc. that I can't submit digitally, because apparently according to the IRS, it's still 1973) is that it involves sensitive information, and these days printing anything at FedEx Office / Kinko's seems to involve emailing the documents to the store. I don't love not knowing how, where, or for how long that info gets retained.",
+                  "score": 1,
+                  "created_utc": 1741713714.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh7o85b",
+              "author": "Wet_Side_Down",
+              "body": "I too ditched HP a few years ago due to their quality issues and predatory pricing models.\n\nI have bought Epson Eco Tanks done then and I have been very satisfied.",
+              "score": 1,
+              "created_utc": 1741705181.0,
+              "replies": []
+            },
+            {
+              "id": "mh8kobb",
+              "author": "slothscanswim",
+              "body": "Kyocera FTW.",
+              "score": 1,
+              "created_utc": 1741714469.0,
+              "replies": []
+            },
+            {
+              "id": "mh9ezat",
+              "author": "SmackedWithARuler",
+              "body": "I have an Epson eco tank. I\u2019ve spent \u00a320 on ink in 2 years and I haven\u2019t used half of it. It\u2019s Wi-Fi enabled, the software is clunky but it works. I recommend.",
+              "score": 1,
+              "created_utc": 1741722978.0,
+              "replies": []
+            },
+            {
+              "id": "mhayyki",
+              "author": "LoveMeSomeSand",
+              "body": "I bought an Epson ECO tank (one of the base models) in 2020. It lasted for exactly two years\u2026 and then the CYAN stopped printing. I tried everything, Epson customer service said it was out of warranty and to buy a new one.\n\nI was so mad\u2026 but I loved the printer, so I bought another Epson ECO tank. This one lasted EXACTLY two years, and guess what? the CYAN STOPPED WORKING. I will NEVER buy another Epson product, ever. Buy at your own risk.",
+              "score": 1,
+              "created_utc": 1741739499.0,
+              "replies": []
+            },
+            {
+              "id": "mhbluk3",
+              "author": "AssGagger",
+              "body": "I have an Epson and I had to block the firmware update site in my router. It tries to trick you into updating whenever it has Internet access. The update will prevent 3rd party cartridges. It's always one wife or child away from bricking itself.",
+              "score": 1,
+              "created_utc": 1741747242.0,
+              "replies": []
+            },
+            {
+              "id": "mhbpqnr",
+              "author": "Dhigon",
+              "body": "I use the fill with ink bottles Epson printer (more expensive but no cartidges) photo/sticker/cd/hobby style printer. \n\nBut I haven\u2019t bought ink the entire 6 years I\u2019ve owned it. And it works great even after it flooded with water and the lcd screen stopped working. (Have to use PC to customize the print settings now). \n\nOnly issue is it still runs on 2.4ghz band. So my router has trouble with it every once in a while cause it\u2019s in my basement.",
+              "score": 1,
+              "created_utc": 1741748689.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mh5nk4w",
+          "author": "japzone",
+          "body": "I was so disappointed when my company replaced our old failing printer with an HP. At least it's a laser printer and not an ink jet.",
+          "score": 8,
+          "created_utc": 1741670340.0,
+          "replies": []
+        },
+        {
+          "id": "mh5rdal",
+          "author": "NotQuiteALondoner",
+          "body": "Brother has fallen too. Is there a good printer company?",
+          "score": 14,
+          "created_utc": 1741672427.0,
+          "replies": [
+            {
+              "id": "mh5vk22",
+              "author": "getoffmeyoutwo",
+              "body": "Brother too?  Oh no :'(",
+              "score": 12,
+              "created_utc": 1741674903.0,
+              "replies": []
+            },
+            {
+              "id": "mh7mlc1",
+              "author": "mikka1",
+              "body": "> Is there a good printer company\n\nI suspect things will be progressively getting worse, at least for a while. \n\nI don't have any hard data to back this guess up, but I *guess* the printer use, especially at home, tanked a lot over the last decade, and it will be tanking more. I used to print a lot of shit all the time (whatever memo, schematic, a shopping list or any other checklist I may need), but nowadays it's just easier to instantly send it to whatever messenger you use in the Saved folder, and it will be there on your ipad, phone, desktop - everywhere, instantly, forever^1 \n\nThat said, the market for printers will keep shrinking and these giant corporations, instead of just producing simple \"battle-tested\" bulletproof models, will be frantically experimenting with new business models, trying to squeeze more pennies, thus making more and more people just giving up on printing.\n\n(1. ~~or up until yet another IT giant decides cloud storage needs to be limited LOL~~)",
+              "score": 2,
+              "created_utc": 1741704696.0,
+              "replies": []
+            },
+            {
+              "id": "mh7do16",
+              "author": "hmmmiforgot",
+              "body": "If you don't need color find a used Xerox 3330, absolute tanks.",
+              "score": 1,
+              "created_utc": 1741701949.0,
+              "replies": []
+            },
+            {
+              "id": "mha02mz",
+              "author": "Broue",
+              "body": "Xerox are the best, a bit more expensive, but so worth it. Also, I recommend a toner printer instead of ink if you don\u2019t print pictures.",
+              "score": 1,
+              "created_utc": 1741728861.0,
+              "replies": []
+            },
+            {
+              "id": "mh63fuq",
+              "author": "Mithrandir2k16",
+              "body": "Use a 3D printer? :(",
+              "score": -1,
+              "created_utc": 1741679848.0,
+              "replies": []
+            },
+            {
+              "id": "mh7wyl6",
+              "author": "Beneficial-Tea-2055",
+              "body": "What do you mean by that?",
+              "score": 0,
+              "created_utc": 1741707752.0,
+              "replies": []
+            },
+            {
+              "id": "mhclgbj",
+              "author": "Warrangota",
+              "body": "That was an ancient complain and the company openly stated that this must be a misunderstanding as they do not use bully shit like HP.",
+              "score": 0,
+              "created_utc": 1741765021.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mh623la",
+          "author": "Freethecrafts",
+          "body": "Market capture.",
+          "score": 3,
+          "created_utc": 1741678978.0,
+          "replies": []
+        },
+        {
+          "id": "mh6h1sc",
+          "author": "HowCouldYouSMH",
+          "body": "Exactly! I had one in 2008. It was soo frustrating, especially since I soo rarely printed color. I couldn\u2019t print greyscale (B&W) if I ran out of magenta. I would go buy the $50 -$65 + cartridge and a week later ( or within days) it would cease printing because now I needed yellow. As a college student it was just beyond. Have a paper do in the morning, can\u2019t print it out and had to have the money to go buy those damn cartridges. Last time it happened I sold it with full disclosure and told them it needed a cartridge. Never looked back. I really loved the printer, HPs were reliable before they pulled this BS.",
+          "score": 2,
+          "created_utc": 1741688425.0,
+          "replies": []
+        },
+        {
+          "id": "mh6k0no",
+          "author": "None",
+          "body": "Their low end stuff is offensively bad with the subscription pushing and the account hoops, but almost every printer company, Brother included, is going to periodically whackamole generic cartridges. Some of it is preventing the worst of the generics from ruining your printer, but its more likely greed. HP's Enterprise line of printers standardize on a previous cartridge, they promise in the marketing to allow generics, and they last every bit of 10 ten years, and fusers are $100 and easy to replace if they don't. No inkjets, no you don't need color.",
+          "score": 1,
+          "created_utc": 1741690045.0,
+          "replies": []
+        },
+        {
+          "id": "mh705a5",
+          "author": "GORDON1014",
+          "body": "Have you met my father? He just buys shit that looks shiny and has a fancy sounding name then builds his personality around it",
+          "score": 1,
+          "created_utc": 1741697308.0,
+          "replies": []
+        },
+        {
+          "id": "mh861ue",
+          "author": "travelinn-mann",
+          "body": "HP was such a giant back in the day. As a teen, even Steve Jobs begged off them for spare parts for his projects in the garage. No HP = no Silicon Valley. Now? Just enshittifaction.",
+          "score": 1,
+          "created_utc": 1741710347.0,
+          "replies": []
+        },
+        {
+          "id": "mh8d1b0",
+          "author": "None",
+          "body": "Because they're cheap, and companies and people are also cheap. The issue with IT equipment is you can have cheap or you can have good, but not often both. So it often falls into \"this is the best that we are willing to pay for and as long as it does what we want it to right now that's all we're gonna put into it\".\n\nThe key part of that being \"right now\". Can't tell you how many times I've recommended upgrading a piece of equipment because I know for a fact it's going out or is about to be at its end of life, and the powers that be refuse to replace or upgrade because it's working at the moment. Then six months later I get a panicked call that it isn't working, and the exact thing I said is what happened. Only now they're out of productivity because they waited for it to prove me right rather than just take my advice to begin with.\n\nThe problem with companies in particular is that they don't see IT as an investment, they see it as an operating cost. To them, IT expenditure is just a money hole that they don't see a return from, despite that that equipment and the staff to run it are absolutely essential for them to operate competitively. \n\nAs an IT professional I just keep a nice big glass of Toldyaso on my desk to sip out of on a near daily basis.",
+          "score": 1,
+          "created_utc": 1741712315.0,
+          "replies": []
+        },
+        {
+          "id": "mh8lrdd",
+          "author": "no1warr1or",
+          "body": "My pretty sizeable company just switched away from HP printers, from what I hear HP was trying to raise their rates \n\nI stopped buying HP printers myself many years ago and have been very happy with the Canon.",
+          "score": 1,
+          "created_utc": 1741714772.0,
+          "replies": []
+        },
+        {
+          "id": "miayyby",
+          "author": "Deathsroke",
+          "body": "My boss: I can get this almost brand new HP printer for the cheap.\n\nMe: Please don't, it's crap.\n\nMy boss: *gets it anyway*",
+          "score": 1,
+          "created_utc": 1742236943.0,
+          "replies": []
+        },
+        {
+          "id": "mh5ubv8",
+          "author": "jc-from-sin",
+          "body": "Never had a problem with them.\n\nI bought 2.5 years ago an ink tank printer from them and I'm still using the original ink.",
+          "score": 1,
+          "created_utc": 1741674162.0,
+          "replies": []
+        },
+        {
+          "id": "mh634bn",
+          "author": "nicuramar",
+          "body": "Maybe many people don\u2019t use off brand ink/toner and don\u2019t have many problems? I don\u2019t know, I haven\u2019t owned a printer for years, but that seems reasonable.\u00a0",
+          "score": 0,
+          "created_utc": 1741679640.0,
+          "replies": [
+            {
+              "id": "mh66qtj",
+              "author": "FrizzIeFry",
+              "body": "In a business context, it is very common to buy the original ink/toner. Sure, 3rd party stuff might work just fine, but if it doesn't, someone has to justify not buying original.\n\nMight as well go with expensive original materials and be free of any responsibility.\n\nIt surprising, how often this logic is the cause of questionable decisions.",
+              "score": 3,
+              "created_utc": 1741682028.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mh4faxi",
+      "author": "myWobblySausage",
+      "body": "It is amazing how many of us go out and buy future paper weights.\n\n\nThey start life as something far more, then a company flicks a switch and just like magic, paper weight.",
+      "score": 89,
+      "created_utc": 1741653623.0,
+      "replies": [
+        {
+          "id": "mh4m456",
+          "author": "theemptyqueue",
+          "body": "I\u2019ve made it a point to never connect a printer to the internet and only give it LAN privileges because then it won\u2019t automatically update and brick itself.",
+          "score": 29,
+          "created_utc": 1741655810.0,
+          "replies": [
+            {
+              "id": "mh5ur01",
+              "author": "DatTF2",
+              "body": "Same. I don't even give it LAN privileges, just connected through USB.",
+              "score": 10,
+              "created_utc": 1741674418.0,
+              "replies": [
+                {
+                  "id": "mh5wh0d",
+                  "author": "theemptyqueue",
+                  "body": "I have a few printers as well that don\u2019t get LAN privileges either because when they are connected unexpected shenanigans happen.",
+                  "score": 6,
+                  "created_utc": 1741675450.0,
+                  "replies": [
+                    {
+                      "id": "mh5xhth",
+                      "author": "DatTF2",
+                      "body": "Printers are already finicky enough by themselves.",
+                      "score": 11,
+                      "created_utc": 1741676073.0,
+                      "replies": [
+                        {
+                          "id": "mh5xy3l",
+                          "author": "theemptyqueue",
+                          "body": "True enough, lol.  I once spent 2 hours trying to get the printer in one of my college classrooms to print my homework successfully.",
+                          "score": 3,
+                          "created_utc": 1741676350.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mh65d47",
+                      "author": "TheOneTrueTrench",
+                      "body": "Just VLAN them off onto a subnet with no routes to the Internet.",
+                      "score": 2,
+                      "created_utc": 1741681109.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mh8rcs2",
+                  "author": "AHRA1225",
+                  "body": "But when you usb into a laptop or a desktop doesn\u2019t it try to weasel its way into the internet?",
+                  "score": 1,
+                  "created_utc": 1741716328.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh8dfpo",
+              "author": "HCN_Mist",
+              "body": "How does one go about doing this?",
+              "score": 2,
+              "created_utc": 1741712427.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mh5uhne",
+          "author": "hanazaa",
+          "body": "*tortilla presser",
+          "score": 4,
+          "created_utc": 1741674260.0,
+          "replies": []
+        },
+        {
+          "id": "mh6rtg7",
+          "author": "divDevGuy",
+          "body": "> It is amazing how many of us go out and buy future paper weights\n\nIt's technology. It ALL becomes a paperweight eventually.",
+          "score": 1,
+          "created_utc": 1741693866.0,
+          "replies": []
+        },
+        {
+          "id": "mh638ak",
+          "author": "nicuramar",
+          "body": "This is clearly a bug, and only affects some people. It\u2019s not gonna be a paperweight.\u00a0",
+          "score": -1,
+          "created_utc": 1741679711.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh4b8ty",
+      "author": "Quigleythegreat",
+      "body": "A few years ago I used their $5 ink program. Wasn't a bad deal to us since we don't print that much. Problem was they sent me a bad cartridge that didn't work and refused to send me another because the one I had was still \"full\". \n\nHeck that noise. Anyone who is still buying HP printers outside of contractual obligation needs their head checked. Like their laptops though I will say.\nEdit: I work in IT, I'm talking about their business grade laptops.",
+      "score": 131,
+      "created_utc": 1741652323.0,
+      "replies": [
+        {
+          "id": "mh4kjgf",
+          "author": "FacepalmFullONapalm",
+          "body": "Mostly their elite books. Pavilions have had the same flawed hinges and batteries for a little less than a decade now.",
+          "score": 24,
+          "created_utc": 1741655303.0,
+          "replies": [
+            {
+              "id": "mh5clbk",
+              "author": "laveshnk",
+              "body": "god, that paviliion. Used it for my entire bachelor\u2019s while my friends flexed their latest gaming laptops, i gamed on that POS. Now I\u2019ve built my own PC, I still reminisce that stupid thing",
+              "score": 7,
+              "created_utc": 1741665160.0,
+              "replies": [
+                {
+                  "id": "mh5iljq",
+                  "author": "Seagoingnote",
+                  "body": "Are those the ones that refuse to die?",
+                  "score": 1,
+                  "created_utc": 1741667858.0,
+                  "replies": []
+                },
+                {
+                  "id": "mh6bdo4",
+                  "author": "Choice_Drama_5720",
+                  "body": "I'm still using one from 2014 or 12 or something like that and one of the hinges has completely gone loose. Keyboard doesn't work so I have a wireless keyboard and mouse set. Only two of the three USB ports work. It's putting weird things on the screen every time there's a video with audio that I cannot remove.  The battery never did work right from the very beginning I've always had to have it plugged in because the battery would not take a charge and keep it. And it's really really slow sometimes. Most of the software doesn't really work that great and I can't afford a new one so...I'm just happy it still works.",
+                  "score": 1,
+                  "created_utc": 1741685035.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh5um6m",
+              "author": "DatTF2",
+              "body": "HP : Hinge Problems.",
+              "score": 4,
+              "created_utc": 1741674338.0,
+              "replies": [
+                {
+                  "id": "mh63sow",
+                  "author": "darkeyes13",
+                  "body": "Back in the early 2000s when they were using Asus chips, it was Heat Problems. \n\nThose certainly were not laptops that they made. You'd burn yourself putting it on your lap lol.",
+                  "score": 5,
+                  "created_utc": 1741680080.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh5b5sx",
+              "author": "KrtekJim",
+              "body": "I've got an HP Elite Book from work and the keys keep falling off the keyboard. HP replaced the keyboard once already and it's happening again.",
+              "score": 5,
+              "created_utc": 1741664567.0,
+              "replies": [
+                {
+                  "id": "mhae3pa",
+                  "author": "Elensea",
+                  "body": "Any work that is handing out Hp computers has no idea what they are doing.",
+                  "score": 2,
+                  "created_utc": 1741732997.0,
+                  "replies": [
+                    {
+                      "id": "mhd96bc",
+                      "author": "KrtekJim",
+                      "body": "I'm not gonna argue with you there lol",
+                      "score": 1,
+                      "created_utc": 1741779153.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mh6g0z9",
+              "author": "melie-moo",
+              "body": "It's so weird seeing people have hinge issues with Pavillions, I bought my P233TU at the start of 2015 and only replaced it 6 months ago. Never had issues with the hinge OR battery and tbh if the hard drive and fan hadn't failed just before a friend offered me their 2 year old macbook, I'd prob still be hanging on to it for a bit longer, although I do very minimal gaming on anything that isn't a console. The Toshiba I had before the HP on the other hand barely lasted 4 years. \n\nHP printers though are the scum of the earth, picked up one during back to school sales because it was cheap enough ($50NZD) and I needed one semi-urgently... Cartridges it came with gave me maybe 100 pages which yeah sure, they don't ship with full size ones, but a) it had an all-in-one colour cartridge and b) the 200 page cartridges were more than I spent on the printer. Each. Don't even get me started on the 'high capacity' ones. I got a Canon when I couldn't stand it anymore and I've had zero issues with it.",
+              "score": 1,
+              "created_utc": 1741687845.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mh5dlzw",
+          "author": "None",
+          "body": "Their laptops aren't bad but their customer service is becoming just as bad. I wouldn't buy any HP product at this point. Maybe the business lines are different, but I'm hearing bad things.",
+          "score": 6,
+          "created_utc": 1741665589.0,
+          "replies": [
+            {
+              "id": "mh5epf1",
+              "author": "Quigleythegreat",
+              "body": "I buy an HP for $1400. It's made of metal, has nice parts and comes with a 3yr warranty where if absolutely anything goes wrong I mail it in and they fix it. Usually minimal questions asked since they know their clients are IT professionals and not the general public. That same Dell is costing me $1600, made of plastic, and any warranty beyond a year costs extra.\n\nNow, I have heard that if you buy in volume Dell becomes your best friend, there is a reason the Federal government and most major companies use them. But in my experience where we buy 1-10 laptops at a go HP is our go-to. \n\nI don't work for them, this is my own opinion, but keep an eye out on their Elitebook line around major holidays. I got a super nice Firefly for like $750 last black Friday that curb stomps consumer grade models in that price range. Can't game, but that's what my desktop is for.",
+              "score": 2,
+              "created_utc": 1741666063.0,
+              "replies": [
+                {
+                  "id": "mh5hldw",
+                  "author": "jpr64",
+                  "body": "Their global warranty is also handy if you travel for work/leisure.",
+                  "score": 6,
+                  "created_utc": 1741667376.0,
+                  "replies": []
+                },
+                {
+                  "id": "mh603ql",
+                  "author": "nagi603",
+                  "body": "> Now, I have heard that if you buy in volume Dell becomes your best friend,\n\nIn the past, it was also true if you had IIRC their extended warranty. A coworker had it for a new XPS, which had a single key that was slightly catching on the housing. They sent a repairman with replacement and in-place servicing. Minimal downtime truly.\n\nNow they even killed the XPS name.",
+                  "score": 2,
+                  "created_utc": 1741677697.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mh5u7ca",
+          "author": "twigboy",
+          "body": "Friends don't let friends buy HP\n\nMy friend ignored my advice and got a HP laptop. Died in a year. Same thing with my IT manager mate, his CEO wanted a specific HP and he had to send it back in a year.\n\nAbsolutely garbage company, don't let them get your money.",
+          "score": 3,
+          "created_utc": 1741674087.0,
+          "replies": []
+        },
+        {
+          "id": "mhby707",
+          "author": "ReddFro",
+          "body": "Yup tried the same program, had the same issue. Never got any value out of the program. So is it just a scam then?",
+          "score": 1,
+          "created_utc": 1741752145.0,
+          "replies": []
+        },
+        {
+          "id": "mhcusnt",
+          "author": "Warrangota",
+          "body": "I am in professional IT and I hate their Probooks and Elitebooks with a passion. We have Lenovo, we have Fujitsu, we have Dell. But only the HPs are annoying as hell. Bugs in firmware, bugs in their driver packages, shitty keyboards, shitty power supplies.",
+          "score": 1,
+          "created_utc": 1741771135.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh4nofa",
+      "author": "Chaotic_MintJulep",
+      "body": "I have so much rage towards HP printers. Their customer service will also absolutely claim there is a problem on your side that\u2019s stopping the printer working, but if you pay their $7 per month, they can have their IT support fix \u201cyour\u201d problem. \n\nFck em. I\u2019m buying a whole new non-HP printer just to boycott them. Will never purchase one of their products again. I roll my eyes at premium subscription services, but to make your product completely unusable AFTER I bought it is disgusting.",
+      "score": 25,
+      "created_utc": 1741656312.0,
+      "replies": []
+    },
+    {
+      "id": "mh564wj",
+      "author": "gusguida",
+      "body": "I bought (by mistake) some bootleg toner cartridges from Amazon. A couple of weeks ago my printer stopped working. Wasn\u2019t any error whatnot, it simply turned off and wouldn\u2019t turn back on. I swapped the power cord and it turned on. Last week it was off again. I took the cable off, waited for 15 minutes and it powered up again. I blocked it from accessing the internet and it\u2019s working since then.",
+      "score": 28,
+      "created_utc": 1741662585.0,
+      "replies": [
+        {
+          "id": "mh8d84b",
+          "author": "reddits_aight",
+          "body": "While you have it working, double check that your firmware auto-updates are turned off. It *may* be possible to downgrade, but it's not easy to find good instructions or the right archived versions. But at least if you pause the arms race on the printer side, 3rd party cartridge makers can catch up. \n\nI still can't get over how much HP wants for my printer's toner: $900+ for a full CMYK set (401x). 3rd party: like $70, no perceivable difference.",
+          "score": 3,
+          "created_utc": 1741712368.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh52s9a",
+      "author": "macross1984",
+      "body": "HP used to make pretty good printers but since the founders died and HP broke up, its reputation for quality went out the window in my opinion.\n\nI hated their subscriptiuon services so when I needed a new printer, I went for Epson inkjet ECO series with oversize ink cartridges and no subscription.",
+      "score": 12,
+      "created_utc": 1741661346.0,
+      "replies": [
+        {
+          "id": "mh5fhqu",
+          "author": "HowlingWolven",
+          "body": "HP used to be _the_ manufacturer for test gear.",
+          "score": 7,
+          "created_utc": 1741666413.0,
+          "replies": [
+            {
+              "id": "mh61zig",
+              "author": "KE55",
+              "body": "I think they still are but under the spin-off company name Agilent.  For some reason management decided to rebrand the good serious equipment Agilent and exploit the HP name and logo for PCs and shoddy consumer stuff.  I'm sure Hewlett and Packard would be horrified.",
+              "score": 5,
+              "created_utc": 1741678904.0,
+              "replies": [
+                {
+                  "id": "mh63kdb",
+                  "author": "2g4r_tofu",
+                  "body": "Then one day Agilent decided that they were a biomedical company and created a spinoff named Keysight that makes test equipment.",
+                  "score": 2,
+                  "created_utc": 1741679930.0,
+                  "replies": []
+                },
+                {
+                  "id": "mh670f9",
+                  "author": "Chrunchyhobo",
+                  "body": ">Agilent\n\nThere's a name I haven't heard in a while.\n\nI've still got an ArctiCooler HACC-0021 somewhere.",
+                  "score": 1,
+                  "created_utc": 1741682206.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mh5dwho",
+      "author": "Anony_Nemo",
+      "body": "Why are printers even connecting to the internet in the first place?  That's a foolhardy design choice since the internet is a primary vector for attacks of all kinds.  Perhaps putting a hosts file into one's pc & router could help mitigate the problem by isolating the printer and keeping it from \"calling home\"?  I know of two good ones, which might be best to mix together: the mvps hosts file: https://archive.ph/GImk2 and Dan P.'s https://archive.ph/saC7w  Otherwise you can use a perfectly above board connection or  packet monitor to see where data goes and use that to add custom hosts to your file, and/or searching for other domains etc. that others may have compiled.",
+      "score": 10,
+      "created_utc": 1741665713.0,
+      "replies": []
+    },
+    {
+      "id": "mh4nlyh",
+      "author": "Littleblaze1",
+      "body": "I had a HP that did similar to this. One day it said it needs HP ink to work. Ink cartridge said HP on it. Nothing I tried made it work so I bought a Brother to replace it.",
+      "score": 10,
+      "created_utc": 1741656291.0,
+      "replies": [
+        {
+          "id": "mh4ytf5",
+          "author": "Diashocks",
+          "body": "Do not ever update your new printer\u2019s firmware. Two of my multi functional Brother printers refuse to print after some update, they were working fine for years.\n\n[Thread on Brother Printers](https://www.reddit.com/r/gadgets/s/xwDVTRzFjf)",
+          "score": 20,
+          "created_utc": 1741659964.0,
+          "replies": [
+            {
+              "id": "mh52kpu",
+              "author": "Edythir",
+              "body": "This always happens, I swear. Bambulabs and Brother were both darlings which everyone recommended to eachother, then they decide to make a bone headed software update which locks them out of the ecosystem and public perception does a 180.\n\nEspecially bad in the 3D printing world since hobbyists are some of the biggest DYI and Opensource advocates.",
+              "score": 15,
+              "created_utc": 1741661271.0,
+              "replies": [
+                {
+                  "id": "mh6gd6a",
+                  "author": "JaggedMetalOs",
+                  "body": "> Bambulabs\n\n\nBambu always had a bit of a \"using open source without contributing back\" reputation even\u00a0before their firmware controversy.",
+                  "score": 3,
+                  "created_utc": 1741688038.0,
+                  "replies": []
+                },
+                {
+                  "id": "mh60eai",
+                  "author": "nagi603",
+                  "body": "Oh yeah, \"dear\" gaslighting bambulabs.",
+                  "score": 1,
+                  "created_utc": 1741677884.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mh5lunk",
+              "author": "Billy1121",
+              "body": "The thread says it is about 3 cases from 2021 that were re-posted for a clickbait Youtube channel. \n\nAre you having a specific problem with generic ink ? Brother's statement denies they bricked printers.",
+              "score": 3,
+              "created_utc": 1741669448.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mh4o7aq",
+          "author": "Boltrag",
+          "body": "Brother: ok, Im gonna sell you this printer. And I better not hear shit about it again.",
+          "score": 11,
+          "created_utc": 1741656483.0,
+          "replies": [
+            {
+              "id": "mh4r17e",
+              "author": "Herman_-_Mcpootis",
+              "body": "Nowadays even Brother can't be trusted anymore after their new firmware updates blocked 3rd-party toner.",
+              "score": 12,
+              "created_utc": 1741657395.0,
+              "replies": [
+                {
+                  "id": "mh4r4sp",
+                  "author": "Boltrag",
+                  "body": "Who the hell updates their printer",
+                  "score": 8,
+                  "created_utc": 1741657427.0,
+                  "replies": [
+                    {
+                      "id": "mh4rqqb",
+                      "author": "Herman_-_Mcpootis",
+                      "body": "All it takes is for someone to mess up and leave auto-update on and suddenly their toner cartridges all stop working properly.",
+                      "score": 14,
+                      "created_utc": 1741657624.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mh4x2ej",
+      "author": "Super_Sayian_Wins",
+      "body": "Just one more chance to say, Fuck HP",
+      "score": 9,
+      "created_utc": 1741659377.0,
+      "replies": []
+    },
+    {
+      "id": "mh542ao",
+      "author": "4096Kilobytes",
+      "body": "Horrible Printers & Hinge Problems at it again...",
+      "score": 3,
+      "created_utc": 1741661807.0,
+      "replies": []
+    },
+    {
+      "id": "mh5vwvx",
+      "author": "getoffmeyoutwo",
+      "body": "HP is a company that isn't just misguided or incompetent, they choose to be evil.  Somehow satan has infected their board room.",
+      "score": 4,
+      "created_utc": 1741675115.0,
+      "replies": [
+        {
+          "id": "mh60jzx",
+          "author": "nagi603",
+          "body": "Par for course for basically any board room.",
+          "score": 2,
+          "created_utc": 1741677986.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh6rhui",
+      "author": "peacemaker2121",
+      "body": "If your printer is working. Don't. Fing. Update it.",
+      "score": 4,
+      "created_utc": 1741693724.0,
+      "replies": []
+    },
+    {
+      "id": "mhbfusw",
+      "author": "HumpieDouglas",
+      "body": "We've made it impossible to use non HP ink and toner.  That's not good enough, ban our own too!!  BRILLIANT!",
+      "score": 4,
+      "created_utc": 1741745144.0,
+      "replies": []
+    },
+    {
+      "id": "mh5bht6",
+      "author": "seepxl",
+      "body": "![gif](giphy|1012ANeLJ8unAY)\n\nIt\u2019s time",
+      "score": 7,
+      "created_utc": 1741664705.0,
+      "replies": []
+    },
+    {
+      "id": "mh4z5h0",
+      "author": "TheDevilsAdvokaat",
+      "body": "Sometimes nowadays upgrades are downgrades.",
+      "score": 3,
+      "created_utc": 1741660077.0,
+      "replies": []
+    },
+    {
+      "id": "mh5ctcf",
+      "author": "Dan-in-Va",
+      "body": "I buy HP, but only the expensive multifunction ones. My current one was bought in 2014 and still going strong. I buy Brothers when I give gifts.",
+      "score": 3,
+      "created_utc": 1741665253.0,
+      "replies": []
+    },
+    {
+      "id": "mh5efvj",
+      "author": "mackinoncougars",
+      "body": "Only good thing about return to office is to use their printer",
+      "score": 3,
+      "created_utc": 1741665945.0,
+      "replies": []
+    },
+    {
+      "id": "mh5fakx",
+      "author": "themadmanoc",
+      "body": "I think they brick everything they update. I have seven HP laptop paperweights in my garage. All BOD after updates.",
+      "score": 3,
+      "created_utc": 1741666324.0,
+      "replies": []
+    },
+    {
+      "id": "mh5xhmo",
+      "author": "tignasse",
+      "body": "That\u2019s for that reason my printer isn\u2019t connected to the wifi\n\nI use it like in the 90s, with USB",
+      "score": 3,
+      "created_utc": 1741676069.0,
+      "replies": []
+    },
+    {
+      "id": "mh7oo7z",
+      "author": "lostindanet",
+      "body": "Xerox laser printer all the way, trouble free since i got it 4 years ago.",
+      "score": 3,
+      "created_utc": 1741705313.0,
+      "replies": []
+    },
+    {
+      "id": "mh50d1g",
+      "author": "TheKing4562",
+      "body": "HP also has a full smile bricking their VR headsets for new version of windows (win 11).\n \nFor those who argue they can't support WMR due to driver deprecation, I believe it wouldn't take much to open source the driver needed to have the headsets to work all the same.",
+      "score": 2,
+      "created_utc": 1741660492.0,
+      "replies": [
+        {
+          "id": "mh62mmi",
+          "author": "nagi603",
+          "body": "> HP also has a full smile bricking their VR headsets for new version of windows (win 11).\n\nThat was equal parts Microsoft, due to their deal with the US military. Not saying HP isn't to blame, I'm saying **both** are guilty AF.",
+          "score": 1,
+          "created_utc": 1741679324.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh56hq2",
+      "author": "animalph4rm",
+      "body": "Currently shopping around for a printer for relatively lightweight home use. Haven\u2019t decided between inkjet or laser yet, but what\u2019s a solid, non-scummy brand that won\u2019t throw a fit if I want to use third-party ink or toner? I just want to use the thing I *paid* for however the hell I want \u2014 not get locked into overpriced garbage. What\u2019s the go-to these days?",
+      "score": 2,
+      "created_utc": 1741662721.0,
+      "replies": []
+    },
+    {
+      "id": "mh5asor",
+      "author": "BizzyM",
+      "body": "I'm still rocking a LaserJet 1320tn my 1st wife stole from SunTrust.",
+      "score": 2,
+      "created_utc": 1741664419.0,
+      "replies": []
+    },
+    {
+      "id": "mh5e0dh",
+      "author": "N0S0UP_4U",
+      "body": "I\u2019m never buying one of their printers again. Literally nothing they could do could make me trust them.",
+      "score": 2,
+      "created_utc": 1741665760.0,
+      "replies": []
+    },
+    {
+      "id": "mh5vhev",
+      "author": "getoffmeyoutwo",
+      "body": "Ugh, I was stupid enough to buy an HP printer in 2020 and now I get to see the message that boils down to, nuh uh, I don't think you bought this ink from us, you cheatin' on us boy?  Ya think ya can just double dip someone else's ink?  ahh hell naw\n\nI think that was the exact message but I'm not sure.",
+      "score": 2,
+      "created_utc": 1741674858.0,
+      "replies": []
+    },
+    {
+      "id": "mh6bn8j",
+      "author": "Choice_Drama_5720",
+      "body": "Bricks ... Like forever or can it be fixed?",
+      "score": 2,
+      "created_utc": 1741685204.0,
+      "replies": []
+    },
+    {
+      "id": "mh6ilsg",
+      "author": "synthdrunk",
+      "body": "I\u2019m seriously going back to an impact dot matrix. They\u2019re priced at what a printer actually costs because there\u2019s no long tail bullshit, but last a decade+.",
+      "score": 2,
+      "created_utc": 1741689291.0,
+      "replies": [
+        {
+          "id": "mhan8sl",
+          "author": "mangamaster03",
+          "body": "Oki Data no longer sells dot matrix printers in the US, but Epson still makes them.\n\nI have a Brother b/w laser printer that I keep offline, and it runs just fine.",
+          "score": 1,
+          "created_utc": 1741735762.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh6o7wj",
+      "author": "misfitx",
+      "body": "Reminder that laser printer toner will last years. Years.",
+      "score": 2,
+      "created_utc": 1741692185.0,
+      "replies": []
+    },
+    {
+      "id": "mh7bb9w",
+      "author": "maroule",
+      "body": "they removed the old drivers/install files/programs from their website for my printer and windows update dont provide drivers, I had to re download them on some shady website, hp are litteral crooks",
+      "score": 2,
+      "created_utc": 1741701202.0,
+      "replies": []
+    },
+    {
+      "id": "mh4unsa",
+      "author": "FleaBottoms",
+      "body": "So my HP is dead (older model)   Should I be looking at a Brothers printer?",
+      "score": 1,
+      "created_utc": 1741658566.0,
+      "replies": [
+        {
+          "id": "mh4x8sc",
+          "author": "Timetraveller4k",
+          "body": "As long as it's not hp it sounds like a plan",
+          "score": 1,
+          "created_utc": 1741659437.0,
+          "replies": []
+        },
+        {
+          "id": "mh60p2r",
+          "author": "nagi603",
+          "body": "If you can, try getting the older repaired, as long as you can get driver for your OS/network. Repairing my truly ancient HP that was pulling in extra paper was opening it up and taping a piece of felt in the right place.",
+          "score": 1,
+          "created_utc": 1741678075.0,
+          "replies": []
+        },
+        {
+          "id": "mh596yl",
+          "author": "syneofeternity",
+          "body": "Heard Brother is doing the same thing",
+          "score": 1,
+          "created_utc": 1741663771.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh59eqm",
+      "author": "CMDR_KingErvin",
+      "body": "Yeah, definitely don\u2019t ever buy HP products again. Time and time they\u2019ve shown us they can\u2019t be trusted.",
+      "score": 1,
+      "created_utc": 1741663857.0,
+      "replies": []
+    },
+    {
+      "id": "mh5bbji",
+      "author": "Practical-Juice9549",
+      "body": "I recently got rid of my HP that I had since 2014. I now have a Cannon and I\u2019m very happy with it.",
+      "score": 1,
+      "created_utc": 1741664633.0,
+      "replies": [
+        {
+          "id": "mh5tem5",
+          "author": "PmMeThePurposeOfLife",
+          "body": "I, too, prefer cannons over printers.",
+          "score": 3,
+          "created_utc": 1741673613.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh5d3xi",
+      "author": "jeanmichd",
+      "body": "Great job HP!! Not a surprise tho. I don\u2019t understand how this company is still in the printers business. Trashed my last HP printer may be 15 years ago",
+      "score": 1,
+      "created_utc": 1741665376.0,
+      "replies": []
+    },
+    {
+      "id": "mh5tayi",
+      "author": "BiteMyQuokka",
+      "body": "Update? They must have worked out how to print by now. I hope HP get more blowback from this than usual.\n\nMaybe shouldn't have spent so much on  Ferrari",
+      "score": 1,
+      "created_utc": 1741673553.0,
+      "replies": []
+    },
+    {
+      "id": "mh5tck0",
+      "author": "yes_u_suckk",
+      "body": "Is there any printer company nowadays that it's worth spending your money? I thought Brother was an alternative, but I also read recently that they started to roll out updates to block people from using non-Brother ink.",
+      "score": 1,
+      "created_utc": 1741673579.0,
+      "replies": [
+        {
+          "id": "mh5vcyr",
+          "author": "korewednesday",
+          "body": "I got my recommendation from Reddit, and now pass it on to you: epson\u2019s eco-tank.  It took me literally five minutes to set up, the ink is cheap, and it can\u2019t ever possibly tell the difference between first and third party ink.  And all the software associated with it *just works*\n\nEdit to add: if you catch a sale, they can be cheap as fuck, too",
+          "score": 2,
+          "created_utc": 1741674783.0,
+          "replies": []
+        },
+        {
+          "id": "mh5xrah",
+          "author": "Imbecile_Jr",
+          "body": "Brother has denied blocking third party toners",
+          "score": 2,
+          "created_utc": 1741676235.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh5zk0n",
+      "author": "sirscooter",
+      "body": "Because of my last HP printer, I just go to Staples. Don't pront much, and if it took me 20 minutes to fix the printer every time, it was faster to drive someplace for a printout",
+      "score": 1,
+      "created_utc": 1741677348.0,
+      "replies": []
+    },
+    {
+      "id": "mh602ma",
+      "author": "CormoranNeoTropical",
+      "body": "I have a terrific HP laser printer. I think it was new in 2004. Still works great.",
+      "score": 1,
+      "created_utc": 1741677677.0,
+      "replies": []
+    },
+    {
+      "id": "mh6319y",
+      "author": "nicuramar",
+      "body": "Breaks *some* printers. HP\u2019s statement:\n\n>\u00a0We are aware of a firmware issue affecting a limited number of HP LaserJet 200 Series\u00a0devices and our team is\u00a0actively working on a solution. For assistance, affected customers can contact our support team at:\u00a0https://support.hp.com.",
+      "score": 1,
+      "created_utc": 1741679585.0,
+      "replies": []
+    },
+    {
+      "id": "mh655yh",
+      "author": "chwastox",
+      "body": "And what about the HP Reverb G2? After the last windows update it becomes just a big paperclip.",
+      "score": 1,
+      "created_utc": 1741680979.0,
+      "replies": []
+    },
+    {
+      "id": "mh6e7sr",
+      "author": "mvb827",
+      "body": "And yet people keep buying them\u2026",
+      "score": 1,
+      "created_utc": 1741686786.0,
+      "replies": []
+    },
+    {
+      "id": "mh6mp1s",
+      "author": "Mayor_of_Voodoo",
+      "body": "HP is a disaster. It was for years the Brest printer I\u2019d ever owned. Then came the updates where they could track exactly what ink I was using, etc. dumped it and got a Brother.",
+      "score": 1,
+      "created_utc": 1741691434.0,
+      "replies": []
+    },
+    {
+      "id": "mh6ohx2",
+      "author": "Fredasa",
+      "body": "I'd like to be able to ask who even buys these things, but my mother is a perfect example of somebody who just buys something when they need it, without doing any kind of meaningful research.  That kind of consumer is what keeps a company like HP afloat.",
+      "score": 1,
+      "created_utc": 1741692320.0,
+      "replies": []
+    },
+    {
+      "id": "mh6q58y",
+      "author": "kusani",
+      "body": "I am looking forward to getting a different printer later this year (I don't immediately need one). I have had an HP printer since my mom bought it for me, and the whole subscription thing is ridiculous. I just feel bad that I'll get rid of it.",
+      "score": 1,
+      "created_utc": 1741693108.0,
+      "replies": [
+        {
+          "id": "mh72xmf",
+          "author": "GagOnMacaque",
+          "body": "Brother use to be the good one. Not no more",
+          "score": 1,
+          "created_utc": 1741698349.0,
+          "replies": [
+            {
+              "id": "mh75p8y",
+              "author": "kusani",
+              "body": "Any other printer recs? I'm guessing a lot of printer brands followed the same trend.. anything to make $$ man",
+              "score": 2,
+              "created_utc": 1741699334.0,
+              "replies": [
+                {
+                  "id": "mhchgih",
+                  "author": "GagOnMacaque",
+                  "body": "Other than laser printers with toner, I think the internet is trying to find the next good printer company.",
+                  "score": 1,
+                  "created_utc": 1741762461.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mh6s01f",
+      "author": "Reddituhgin",
+      "body": "I returned the last HP printer I purchased because it required me to login to HP when using it to scan or print with my iPhone.",
+      "score": 1,
+      "created_utc": 1741693946.0,
+      "replies": []
+    },
+    {
+      "id": "mh6sgg3",
+      "author": "Doppelfrio",
+      "body": "I didn\u2019t need a software update to make my dysfunctional printer dysfunctional",
+      "score": 1,
+      "created_utc": 1741694146.0,
+      "replies": []
+    },
+    {
+      "id": "mh6yyut",
+      "author": "TryingT0Wr1t3",
+      "body": "We need open source firmware for printers",
+      "score": 1,
+      "created_utc": 1741696852.0,
+      "replies": []
+    },
+    {
+      "id": "mh7086y",
+      "author": "lizndale",
+      "body": "I have M283, bought and installed third party ink a couple weeks ago, I shut off auto updates before I did. Printer recognized it was not HP ink, but so far its printing line a champ.",
+      "score": 1,
+      "created_utc": 1741697339.0,
+      "replies": []
+    },
+    {
+      "id": "mh716nv",
+      "author": "talktojvc",
+      "body": "Class action lawsuit incoming.",
+      "score": 1,
+      "created_utc": 1741697702.0,
+      "replies": []
+    },
+    {
+      "id": "mh76imu",
+      "author": "fjira",
+      "body": "If you have one, the HP LaserJet II is still a reliable workhorse. They might have made it decades ago, but it's a great machine. These modern ones are utter trash.",
+      "score": 1,
+      "created_utc": 1741699615.0,
+      "replies": []
+    },
+    {
+      "id": "mh7abx6",
+      "author": "OkDragonfruit9026",
+      "body": "I must the the only happy HP user to ever exist. I got a m110w, it works fine, prints fine, no issues, connected to internet. It supports third-party toner. It was the cheapest option for a b&w laser printer.",
+      "score": 1,
+      "created_utc": 1741700886.0,
+      "replies": []
+    },
+    {
+      "id": "mh7iw28",
+      "author": "KlatuuBarradaNicto",
+      "body": "I wouldn\u2019t buy HP if it was free.",
+      "score": 1,
+      "created_utc": 1741703575.0,
+      "replies": []
+    },
+    {
+      "id": "mh7krsz",
+      "author": "STampaGuy",
+      "body": "Brother has had some issues with firmware updates as well and identifying aftermarket cartridges. What really sucks about all of this is printers are a vulnerable network device if you do not continue to update them.  You need to set up network rules to help protect your network from vulnerable printers.   It\u2019s either do that or risk having your printer bricked.",
+      "score": 1,
+      "created_utc": 1741704149.0,
+      "replies": []
+    },
+    {
+      "id": "mh7oewm",
+      "author": "livinlrginchitwn",
+      "body": "I only use Brother now.",
+      "score": 1,
+      "created_utc": 1741705236.0,
+      "replies": []
+    },
+    {
+      "id": "mh7qcjz",
+      "author": "DocRedbeard",
+      "body": "Peak HP, finally decided letting people print at all was too much freedom for their customers.",
+      "score": 1,
+      "created_utc": 1741705814.0,
+      "replies": []
+    },
+    {
+      "id": "mh7sk2s",
+      "author": "snil4",
+      "body": "Why does a printer needs to update?!",
+      "score": 1,
+      "created_utc": 1741706465.0,
+      "replies": []
+    },
+    {
+      "id": "mh7uqr3",
+      "author": "None",
+      "body": "I purposefully chose an older model printer/scanner that I had once before that worked well but didn't come with instant ink etc. I don't see the point of regular firmwear updates for a printer. \n\nI make sure that if I'm printing I'm off the internet and the connection is turned off. Afterwards I disconnect the printer entirely again. If I need to print web documents I save them to pdf and print them completely offline. I don't want them updating my printer at all. \n\nRight now I can still probably use off brand ink but I usually just pick some HP ones up whenever they are on sale once a year. I bought my unit mostly for the flatbed scanner and printing the odd thing it's just a bonus. \n\nThese days I can send pdf docs or jpegs of anything I might need to share. If I want photo prints I don't bother with that here. There are several places in the neighborhood where I can do that better than this printer can. \n\nMaybe half a dozen times a year I'm actually printing out documents. Most of the time I'm scanning docs I receive to pdf to keep them. I don't like a lot of paper around.\n\nThis particular printer/scanner is a decent one and it does what I need it to. I actually liked HP before they decided to start messing things all up. I've had a couple of other brands of printers. None of them lasted too long really.",
+      "score": 1,
+      "created_utc": 1741707105.0,
+      "replies": []
+    },
+    {
+      "id": "mh802xm",
+      "author": "Narrow-Height9477",
+      "body": "I\u2019m so happy I replaced HP with Brother.",
+      "score": 1,
+      "created_utc": 1741708639.0,
+      "replies": []
+    },
+    {
+      "id": "mh847qh",
+      "author": "JayPlenty24",
+      "body": "I replaced my HP with a Brother after my printer became unusable because of a mistake HP made and wouldn't correct. \n\nCouldn't be happier.",
+      "score": 1,
+      "created_utc": 1741709824.0,
+      "replies": []
+    },
+    {
+      "id": "mh8arad",
+      "author": "SharkSmiles1",
+      "body": "I stupidly throughout the box when I bought my HP printer a month ago. It will not connect to my computer in order to print. It will get on the network, but it\u2019s always off-line when I try to print. I don\u2019t know what I\u2019m gonna do since I don\u2019t have the box. And this printer was replacing my Canon printer that wouldn\u2019t work with my fairly new computer because it needed a firmware update and driver update that Cannon no longer made. That printer works great in my old computer, but of course is obsolete for my new one.",
+      "score": 1,
+      "created_utc": 1741711681.0,
+      "replies": []
+    },
+    {
+      "id": "mh8by90",
+      "author": "arthurdentstowels",
+      "body": "After almost 2 decades of buying cheap and shitty inkjets, I took the plunge and got a \u00a3200 Brother Laser monochrome printer and I will never buy an inkjet again. The free cartridge that came with it lasted 18 months and a generic replacement cost me \u00a317 which is nothing. I think that people don't realise saving money on the printer's upfront cost, does not save you money after the initial purchase. It's worth making a small investment to ensure it is cheap to run.    \n    \nIt's like buying a massive truck that's half price, but the fuel costs 4 x as much. Whereas you could buy a full price sedan that has a much lower fuel consumption that would save you thousands.",
+      "score": 1,
+      "created_utc": 1741712014.0,
+      "replies": []
+    },
+    {
+      "id": "mh8s3ci",
+      "author": "hypnotichellspiral",
+      "body": "If you're handy enough with a router, block it from accessing the internet by IP or Mac address so it doesn't auto update. Only do the firmware update if you see it's having problems printing.",
+      "score": 1,
+      "created_utc": 1741716539.0,
+      "replies": [
+        {
+          "id": "mq0jjac",
+          "author": "ThermalDeviator",
+          "body": "Ah good point about auto updates. Thanks.",
+          "score": 1,
+          "created_utc": 1746105867.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh8z39l",
+      "author": "NationalAlfalfa37660",
+      "body": "So glad I just bought an Epson inkjet.",
+      "score": 1,
+      "created_utc": 1741718512.0,
+      "replies": []
+    },
+    {
+      "id": "mh95bfk",
+      "author": "daakadence",
+      "body": "I've had an HP LaserJet 1020 for almost 20 years and its a serious powerhorse. Its worked with every OS I've used (Mac/PC/Linux/Android) and uses cheap ($30) toner cartridges that last years. I share it online and its always accessible. No way am I updating the firmware though.",
+      "score": 1,
+      "created_utc": 1741720255.0,
+      "replies": []
+    },
+    {
+      "id": "mh9co80",
+      "author": "candidly1",
+      "body": "I gave up on HP decades ago; decent hardware, awful software, awful firmware, ridiculous pricing on carts. There are other fish in the sea.",
+      "score": 1,
+      "created_utc": 1741722334.0,
+      "replies": []
+    },
+    {
+      "id": "mh9yzjd",
+      "author": "Rich-Relative1983",
+      "body": "Brother for the win.  Splurge on laser jet, you\u2019ll never regret it",
+      "score": 1,
+      "created_utc": 1741728553.0,
+      "replies": []
+    },
+    {
+      "id": "mhaeqo0",
+      "author": "soulmagic123",
+      "body": "I literally know to never buy an hp printer, when that's all I used to buy. Would love to compare the profits of what they are doing to an alternate universe where they just made freaking printers minus the evil. I bet they would have made more. So short sighted.",
+      "score": 1,
+      "created_utc": 1741733176.0,
+      "replies": []
+    },
+    {
+      "id": "mhay4uz",
+      "author": "jon_tigerfi",
+      "body": "Ok but why the hell does a damn PRINTER need a firmware update? Why are so many devices required to connect to the internet as part of their design in the first place?",
+      "score": 1,
+      "created_utc": 1741739235.0,
+      "replies": [
+        {
+          "id": "mhc9c6j",
+          "author": "ThreeSloth",
+          "body": "For planned obsolescence, duh",
+          "score": 2,
+          "created_utc": 1741757645.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mhc9ssa",
+      "author": "tremble01",
+      "body": "May I ask why the printers need firmware updates?",
+      "score": 1,
+      "created_utc": 1741757902.0,
+      "replies": [
+        {
+          "id": "mq0j99h",
+          "author": "ThermalDeviator",
+          "body": "To brick the printer! I've done my last update to my printer and it's coming off my network.",
+          "score": 2,
+          "created_utc": 1746105774.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mh54kro",
+      "author": "dandroid126",
+      "body": "I hate to victim blame, but if you're still using an HP printer, that's kinda on you. They've more than shown how anti consumer they are at this point.",
+      "score": 0,
+      "created_utc": 1741661998.0,
+      "replies": []
+    },
+    {
+      "id": "mh5gd9q",
+      "author": "wsfrazier",
+      "body": "People buy printers in 2025? I haven't seen a printer in a house since around 2005.",
+      "score": -3,
+      "created_utc": 1741666809.0,
+      "replies": []
+    }
+  ]
+}

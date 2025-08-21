@@ -1,0 +1,49 @@
+metric,value
+file,1lrgi7x.csv
+title,Nintendo is restricting the Switch 2's USB-C port — most third-party docks and accessories won't work thanks to proprietary protocols
+rows,871
+num_posts,1
+num_comments,870
+unique_authors,548
+max_depth,17
+avg_comment_words,56.15
+median_comment_words,43.0
+max_comment_words,327
+positive_count,114
+negative_count,756
+neutral_count,0
+positive_pct,13.103
+negative_pct,86.897
+neutral_pct,0.0
+topic_1_keywords,"switch, nintendo, party, dock, docks, even, like, games"
+topic_1_label,"Switch, Nintendo, dock, docks, games"
+topic_2_keywords,"eu, switch, nintendo, cables, s2, xbox, one, pc"
+topic_2_label,"eu switches nintendo, s2, xbox, pc"
+topic_3_keywords,"switch, dock, nintendo, usb, hdmi, power, work, use"
+topic_3_label,"Switch, dock, nintendo, usb, hdmi"
+topic_4_keywords,"nintendo, charger, switch, make, even, eu, something, cant"
+topic_4_label,"nintendo, charger, switch, cant"
+topic_5_keywords,"nintendo, apple, people, still, buy, keep, saying, arent"
+topic_5_label,Apples are still in the store
+topic_6_keywords,"switch, party, dont, apple, one, dock, im, power"
+topic_6_label,"Apple, one, dock, power"
+top_ngram_1,third party (91)
+top_ngram_2,3rd party (86)
+top_ngram_3,party docks (85)
+top_ngram_4,switch dock (58)
+top_ngram_5,steam deck (56)
+top_ngram_6,3rd party docks (48)
+top_ngram_7,people still (45)
+top_ngram_8,saying nintendo (44)
+top_ngram_9,nintendo apple (39)
+top_ngram_10,keep saying (39)
+ner_1,Nintendo|ORG|488
+ner_2,Apple|ORG|152
+ner_3,EU|ORG|118
+ner_4,Switch 2|MISC|102
+ner_5,Switch|MISC|71
+ner_6,USB|MISC|58
+ner_7,Apple|MISC|46
+ner_8,HDMI|MISC|40
+ner_9,USBC|MISC|31
+ner_10,Switch 1|MISC|30

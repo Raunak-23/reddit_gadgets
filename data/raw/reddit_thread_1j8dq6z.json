@@ -1,0 +1,120 @@
+{
+  "post": {
+    "title": "Micron and Astera demo first PCIe 6.0 SSD, delivering 27GBps sequential read speeds | A lot of \"firsts\" here for a single demo bench...",
+    "author": "chrisdh79",
+    "id": "1j8dq6z",
+    "score": 126,
+    "created_utc": 1741651908.0,
+    "selftext": "",
+    "num_comments": 12,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1j8dq6z/micron_and_astera_demo_first_pcie_60_ssd/"
+  },
+  "comments": [
+    {
+      "id": "mh6460z",
+      "author": "itsalongwalkhome",
+      "body": "I literally just ordered a new PC with a PCI 5.0 SSD. It hasn't even arrived and it's out of date.",
+      "score": 17,
+      "created_utc": 1741680323.0,
+      "replies": [
+        {
+          "id": "mh67pwh",
+          "author": "j_schmotzenberg",
+          "body": "If you are a consumer, this is completely moot. The speeds PCIE drives are capable of really only matter for enterprise use cases. Beyond PCIE 4.0 is just a waste for consumers.",
+          "score": 18,
+          "created_utc": 1741682677.0,
+          "replies": [
+            {
+              "id": "mh6r885",
+              "author": "yepthisismyusername",
+              "body": "*Mostly*. However, if you're having to move large amounts of data (VMs, large data sets, etc.), the faster PCIE 5.0 (and higher) speeds can save you time. It will be more expensive, so it's up to the buyer to determine if the increase in price is worth it.",
+              "score": -2,
+              "created_utc": 1741693604.0,
+              "replies": [
+                {
+                  "id": "mh8ve71",
+                  "author": "person1234man",
+                  "body": "I hate to break it to you, but if you are moving large VMs or large data sets presumably from scientific applications, then you are not a standard user",
+                  "score": 11,
+                  "created_utc": 1741717474.0,
+                  "replies": [
+                    {
+                      "id": "mha97q3",
+                      "author": "nvec",
+                      "body": "Who said they were a 'standard user'?\n\nI move large VMs and data sets as both a programmer and 3d graphics hobbyist.\n\nI may not be a standard user but I'm doing it on my own personal off-the-shelf hardware, and not making money from it. I'm a consumer. I'm certainly not an enterprise. I would see an advantage to this being available on consumer hardware.\n\nIt's the same as high-end GPUs. A 'standard user' has no need for one but if you're a gamer who wants maximum performance on a high-res display then it can be worthwhile, and that's certainly a consumer use.",
+                      "score": 7,
+                      "created_utc": 1741731523.0,
+                      "replies": [
+                        {
+                          "id": "mheqznx",
+                          "author": "redsoxVT",
+                          "body": "Yea, hate to break it to that guy. I've been rolling raid0 M.2's for 2 gens just to push the throughput further. Wish my employers would do that for my work machines lol.\n\nCurrent project is using AI to upscale 480p VHS home videos up to 4k. These files uncompressed are hitting 350GB+. During finalization the drives go max for significant time periods.",
+                          "score": 2,
+                          "created_utc": 1741797284.0,
+                          "replies": [
+                            {
+                              "id": "mhpsxb0",
+                              "author": "Elveno36",
+                              "body": "Damn how does one get into AI upscaling. I have a lot of compute on standby any models you recommend?",
+                              "score": 1,
+                              "created_utc": 1741941515.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mhfkpf2",
+                  "author": "DonutConfident7733",
+                  "body": "The consumer ssds do not sustain the peak speed for too long, usually after 100GBs (it depends on ssd capacity) it slows down a lot, so it no longer matters if its PCIe 5 or 4, heck, some go lower than SATA speeds, whipe cheap ones go even to 30MB/sec, which is lower than hdd speed, USB 2.0 speed... And this is for sequential writes, random writes are way lower.\nMost ssds write at max speed for one or two minutes, then need quite a while to recover, until you can write fast again for two minutes.\nCrystaldiskMark with 1GB test size will not show this behavior, you need much larger test size.",
+                  "score": 1,
+                  "created_utc": 1741805758.0,
+                  "replies": [
+                    {
+                      "id": "mhflj3p",
+                      "author": "yepthisismyusername",
+                      "body": "Thanks for that info. I didn't realize that. I've been pretty lucky in that I haven't had to move more than 100GB at a time, so I haven't noticed a slowdown.",
+                      "score": 2,
+                      "created_utc": 1741805990.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mh5fxjl",
+      "author": "lilblueorbs",
+      "body": "This doesn\u2019t matter if the company can\u2019t survive the Trump-cession. It\u2019ll be interesting to see what companies are still around in 6 months.",
+      "score": -11,
+      "created_utc": 1741666611.0,
+      "replies": [
+        {
+          "id": "mh5pcyf",
+          "author": "Rollertoaster7",
+          "body": "Micron has been around for nearly half a century, I think they\u2019ll survive 4 years",
+          "score": 14,
+          "created_utc": 1741671303.0,
+          "replies": [
+            {
+              "id": "mh60oha",
+              "author": "namisysd",
+              "body": "Astera Labs is pretty new, they might not survive a recession.",
+              "score": 0,
+              "created_utc": 1741678065.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

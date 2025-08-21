@@ -1,0 +1,49 @@
+metric,value
+file,1ihgce9.csv
+title,US FDA approves first-ever smart glasses with hearing aid for mild to moderate loss | Nuance Audio Glasses represent a novel entry into the med-tech segment by merging eyewear with hearing technology.
+rows,94
+num_posts,1
+num_comments,93
+unique_authors,61
+max_depth,8
+avg_comment_words,63.92
+median_comment_words,31.0
+max_comment_words,349
+positive_count,7
+negative_count,86
+neutral_count,0
+positive_pct,7.527
+negative_pct,92.473
+neutral_pct,0.0
+topic_1_keywords,"hearing, like, going, loss, aids, glasses, feel, us"
+topic_1_label,"like, like, like, like, like, like, like, like, like, like, like, like, like, like, like"
+topic_2_keywords,"aids, hearing, like, glasses, normal, insurance, could, rather"
+topic_2_label,glasses and glasses are common
+topic_3_keywords,"vision, tbi, binocular, surprised, people, use, point, see"
+topic_3_label,"tbi, binocular, people see"
+topic_4_keywords,"hearing, aids, like, people, would, meta, glasses, issues"
+topic_4_label,a person would like to hear a word
+topic_5_keywords,"glasses, aids, hearing, wear, combined, cant, one, shower"
+topic_5_label,"A shower with glasses, aids, hearing aids and cants"
+topic_6_keywords,"shower, like, glasses, read, said, insurance, bottle, water"
+topic_6_label,water in shower like
+top_ngram_1,hearing aids (107)
+top_ngram_2,wear glasses (34)
+top_ngram_3,glasses hearing (18)
+top_ngram_4,glasses hearing aids (18)
+top_ngram_5,glasses shower (17)
+top_ngram_6,cant wear (16)
+top_ngram_7,wear glasses shower (16)
+top_ngram_8,like meta (13)
+top_ngram_9,cant wear glasses (13)
+top_ngram_10,background noise (12)
+ner_1,Met|ORG|12
+ner_2,Blue|MISC|11
+ner_3,FDA|ORG|5
+ner_4,Meta|MISC|4
+ner_5,##tical|ORG|4
+ner_6,EssilorLuxottica|ORG|3
+ner_7,RayBan|ORG|3
+ner_8,US|LOC|3
+ner_9,AI|MISC|2
+ner_10,OPM|ORG|2

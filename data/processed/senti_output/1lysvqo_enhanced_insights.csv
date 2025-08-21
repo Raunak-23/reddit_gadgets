@@ -1,0 +1,49 @@
+metric,value
+file,1lysvqo.csv
+title,"Samsung HW-QS700F soundbar review: Sophisticated design, automatic adjustments"
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,14
+max_depth,5
+avg_comment_words,85.94
+median_comment_words,56.5
+max_comment_words,278
+positive_count,3
+negative_count,13
+neutral_count,0
+positive_pct,18.75
+negative_pct,81.25
+neutral_pct,0.0
+topic_1_keywords,"dont, soundbar, like, say, samsung, speakers, make, happy"
+topic_1_label,samsung don't soundbar
+topic_2_keywords,"samsung, wont, randomly, reason, probably, play, quality, tinny"
+topic_2_label,samsung wont randomly
+topic_3_keywords,"sound, subwoofer, good, one, far, tell, digital, dolby"
+topic_3_label,digital dolby sound
+topic_4_keywords,"channels, dont, getting, atmos, sure, dolby, digital, tell"
+topic_4_label,digital channel don't tell
+topic_5_keywords,"soundbars, subwoofers, sound, quality, easily, one, systems, theatre"
+topic_5_label,"Soundbars, subwoofers, sound, system"
+topic_6_keywords,"post, sure, also, sound, crappy, come, best, tinny"
+topic_6_label,crappy post and sound
+top_ngram_1,sound good (4)
+top_ngram_2,best crappy (3)
+top_ngram_3,crappy tinny (3)
+top_ngram_4,tinny sound (3)
+top_ngram_5,sound come (3)
+top_ngram_6,come expect (3)
+top_ngram_7,best crappy tinny (3)
+top_ngram_8,crappy tinny sound (3)
+top_ngram_9,tinny sound come (3)
+top_ngram_10,sound come expect (3)
+ner_1,Samsung|ORG|8
+ner_2,Dolby Atmos|MISC|3
+ner_3,D|MISC|3
+ner_4,Dolby Digital Digital Plus|MISC|3
+ner_5,Smart|MISC|2
+ner_6,A|MISC|2
+ner_7,##dgets|ORG|1
+ner_8,Atmos|MISC|1
+ner_9,At|MISC|1
+ner_10,##gecomposetor|ORG|1

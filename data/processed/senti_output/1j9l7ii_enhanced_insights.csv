@@ -1,0 +1,49 @@
+metric,value
+file,1j9l7ii.csv
+title,"All this bad AI is wrecking a whole generation of gadgets | We were promised multimodal, natural language, AI-powered everything. We got nothing of the sort."
+rows,568
+num_posts,1
+num_comments,567
+unique_authors,408
+max_depth,13
+avg_comment_words,96.8
+median_comment_words,68.0
+max_comment_words,872
+positive_count,43
+negative_count,405
+neutral_count,119
+positive_pct,7.584
+negative_pct,71.429
+neutral_pct,20.988
+topic_1_keywords,"ai, people, wrong, trying, useful, think, know, like"
+topic_1_label,ai is a way to think
+topic_2_keywords,"phone, music, dont, want, like, play, would, way"
+topic_2_label,like to play music on your phone
+topic_3_keywords,"like, ago, new, saying, tech, things, ai, people"
+topic_3_label,ai people like new tech
+topic_4_keywords,"ai, google, search, people, still, assistant, gemini, im"
+topic_4_label,Google Search Search
+topic_5_keywords,"ai, would, going, change, new, gadget, every, people"
+topic_5_label,ai would change the way people change
+topic_6_keywords,"ai, search, like, dont, would, better, want, things"
+topic_6_label,ai search for things
+top_ngram_1,google search (71)
+top_ngram_2,google gemini (60)
+top_ngram_3,still doesnt (48)
+top_ngram_4,point ai (45)
+top_ngram_5,lot people (41)
+top_ngram_6,set alarms (40)
+top_ngram_7,cant set (38)
+top_ngram_8,ai search (38)
+top_ngram_9,say google (37)
+top_ngram_10,ai something (37)
+ner_1,Google|ORG|140
+ner_2,AI|MISC|69
+ner_3,Google Gemini|MISC|57
+ner_4,AI|ORG|54
+ner_5,Gemini|ORG|38
+ner_6,Apple|ORG|28
+ner_7,Cha|MISC|27
+ner_8,Apple Maps|ORG|22
+ner_9,Gemini|MISC|22
+ner_10,American Express|ORG|22

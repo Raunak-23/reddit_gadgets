@@ -1,0 +1,49 @@
+metric,value
+file,1hm17td.csv
+title,The Backbone One would be an ideal game controller—if the iPhone had more games
+rows,216
+num_posts,1
+num_comments,215
+unique_authors,148
+max_depth,5
+avg_comment_words,42.89
+median_comment_words,31.0
+max_comment_words,171
+positive_count,44
+negative_count,171
+neutral_count,0
+positive_pct,20.465
+negative_pct,79.535
+neutral_pct,0.0
+topic_1_keywords,"use, game, years, play, gaming, didnt, games, case"
+topic_1_label,games used in case
+topic_2_keywords,"controller, phone, controllers, xbox, backbone, mine, ive, used"
+topic_2_label,"xbox, xbox, ii, ii"
+topic_3_keywords,"use, play, controller, blade, infinity, using, phone, ive"
+topic_3_label,iii iii iii iii iii iii iii
+topic_4_keywords,"games, controller, dont, like, im, work, playing, well"
+topic_4_label,i dont like i am playing games
+topic_5_keywords,"would, games, even, dont, one, like, nobody, game"
+topic_5_label,"if you don't like games, you'll like one"
+topic_6_keywords,"games, play, remote, iphone, controller, game, arcade, first"
+topic_6_label,arcade games first
+top_ngram_1,remote play (28)
+top_ngram_2,infinity blade (12)
+top_ngram_3,work well (12)
+top_ngram_4,cloud gaming (9)
+top_ngram_5,feel like (9)
+top_ngram_6,steam deck (8)
+top_ngram_7,arcade games (8)
+top_ngram_8,games play (8)
+top_ngram_9,take case (8)
+top_ngram_10,consumers would (8)
+ner_1,iPhone|MISC|39
+ner_2,Xbox|MISC|18
+ner_3,Apple|ORG|12
+ner_4,iPad|MISC|12
+ner_5,Android|MISC|11
+ner_6,Blue|MISC|9
+ner_7,Castlevania|MISC|9
+ner_8,Switch|MISC|9
+ner_9,PlayStation|MISC|8
+ner_10,Sony|ORG|8

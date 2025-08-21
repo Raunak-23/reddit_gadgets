@@ -1,0 +1,49 @@
+metric,value
+file,1lgsge7.csv
+title,"The ""USB killer"" is dead: Apple drops FireWire support in macOS 26"
+rows,334
+num_posts,1
+num_comments,333
+unique_authors,256
+max_depth,13
+avg_comment_words,52.8
+median_comment_words,41.0
+max_comment_words,246
+positive_count,57
+negative_count,276
+neutral_count,0
+positive_pct,17.117
+negative_pct,82.883
+neutral_pct,0.0
+topic_1_keywords,"dont, firewire, mac, dishwashers, end, different, videos, man"
+topic_1_label,i don t firewire
+topic_2_keywords,"firewire, bluray, hddvd, 800, betamax, early, using, superior"
+topic_2_label,"Firewire, Bluray, Betamax"
+topic_3_keywords,"firewire, still, use, mac, macos, work, using, old"
+topic_3_label,Firewire still works on mac
+topic_4_keywords,"usb, firewire, apple, much, killer, dont, support, still"
+topic_4_label,a sexy sexy sexy sexy sexy sexy sex
+topic_5_keywords,"one, firewire, still, apple, core, good, point, would"
+topic_5_label,a firewire with a good point
+topic_6_keywords,"firewire, better, video, could, usb, used, get, old"
+topic_6_label,firewire better video could be used
+top_ngram_1,firewire 800 (38)
+top_ngram_2,man youll (19)
+top_ngram_3,youll end (19)
+top_ngram_4,end watching (19)
+top_ngram_5,watching different (19)
+top_ngram_6,videos dishwashers (19)
+top_ngram_7,man youll end (19)
+top_ngram_8,youll end watching (19)
+top_ngram_9,end watching different (19)
+top_ngram_10,mac os (18)
+ner_1,Apple|ORG|58
+ner_2,FireWire|MISC|56
+ner_3,Fire|MISC|55
+ner_4,Mac|MISC|53
+ner_5,USB|MISC|46
+ner_6,Sony|ORG|30
+ner_7,FireWire|ORG|30
+ner_8,##ire|MISC|27
+ner_9,HDD|MISC|26
+ner_10,BluRay|ORG|22

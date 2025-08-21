@@ -1,0 +1,358 @@
+{
+  "post": {
+    "title": "Neuromorphic Camera Helps Drones Navigate GPS-free. High-end positioning tech comes to low-cost UAVs.",
+    "author": "Sariel007",
+    "id": "1gw14lu",
+    "score": 1057,
+    "created_utc": 1732143076.0,
+    "selftext": "",
+    "num_comments": 42,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gw14lu/neuromorphic_camera_helps_drones_navigate_gpsfree/"
+  },
+  "comments": [
+    {
+      "id": "ly6uzor",
+      "author": "None",
+      "body": "Pretty interesting but I\u2019d like to see its implementation. The general consensus of the article seems to be accurate. I researched positioning systems for my uncle\u2019s prototype (grass printer that can print images like on the end zone of a football field) and came to the same conclusion. Getting three dimensional millimeter-precision positioning is expensive and generally needs two or more outer reference points. This would reduce it to one source point and if they are able to reduce the cost while maintaining accuracy, we\u2019re about to see a crap ton more drones.",
+      "score": 27,
+      "created_utc": 1732157071.0,
+      "replies": [
+        {
+          "id": "ly7zmt5",
+          "author": "danielv123",
+          "body": "Mm level is hard, but for grass printing wouldn't <2cm do? That can be achieved with a $500 gps-rtk kit.",
+          "score": 10,
+          "created_utc": 1732176345.0,
+          "replies": [
+            {
+              "id": "ly809wg",
+              "author": "None",
+              "body": "We were using 1 sq inch cym dots for the pixels and a +/- of 5cm skewed the image too much. We were wanting to compete with the traditional model of using stencils (so emphasis on clean lines) and the traction on the wheels + accurately positioning required something a bit more accurate. We checked out the gps-rtf kit but it was out of budget and deemed not to fit the \u201cengineering reqs\u201d lol",
+              "score": 10,
+              "created_utc": 1732176759.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly5w7jc",
+      "author": "2001zhaozhao",
+      "body": "Ah yes, innovative drone technology for totally peaceful uses that will not show up in Kursk anytime soon.",
+      "score": 139,
+      "created_utc": 1732143518.0,
+      "replies": [
+        {
+          "id": "ly6cafw",
+          "author": "paradoxbound",
+          "body": "Well it\u2019s being jointly developed by a British missile manufacturer, so that was not the intention.",
+          "score": 41,
+          "created_utc": 1732150414.0,
+          "replies": [
+            {
+              "id": "ly8m00m",
+              "author": "Option420s",
+              "body": "Right, since it was developed by the brits it'll be used to explode Palestinian kindergartens instead of Ukrainian ones.",
+              "score": -7,
+              "created_utc": 1732190378.0,
+              "replies": [
+                {
+                  "id": "lyacohj",
+                  "author": "paradoxbound",
+                  "body": "Possibly but not likely the Israeli government and military get most of their arms funding from the USA in the form of tied aid, so most of their military spending from foreign countries goes to the USA. Though again there is a lot of cross technology licensing between allied countries so again maybe. Though most of Israel\u2019s hostile neighbours lack the ability to jam gps.",
+                  "score": 2,
+                  "created_utc": 1732214801.0,
+                  "replies": [
+                    {
+                      "id": "lyaef0g",
+                      "author": "Option420s",
+                      "body": "Yeah man large groups of toddlers tend not to have great signal jamming techniques available to them",
+                      "score": 0,
+                      "created_utc": 1732215313.0,
+                      "replies": [
+                        {
+                          "id": "lyanc6f",
+                          "author": "paradoxbound",
+                          "body": "Neither do the Hamas soldiers using them as shields  which is why gps guided artillery and glide bombs and mass starvation are the right choice for Israel\u2019s goals in Gaza.",
+                          "score": 0,
+                          "created_utc": 1732217989.0,
+                          "replies": [
+                            {
+                              "id": "lyem3mv",
+                              "author": "Option420s",
+                              "body": "Israel literally has a drone that follows hamas members to their homes so their families can be killed too. They specifically target children. They're not being used as human shields as you say, they're being used as target practice by israelis.\n\nYou're fucking insane if you think mass starvation is the right choice. They're human beings.",
+                              "score": 0,
+                              "created_utc": 1732278851.0,
+                              "replies": [
+                                {
+                                  "id": "lyfa7ah",
+                                  "author": "paradoxbound",
+                                  "body": "Why are you getting so mad at me for stating the facts dispassionately? Russia and the Ukraine are at war. The state of Israel and enclaves of the Palestinian people are at war. This article is about a development of new missile and drone technology that allows them to operate when gps is unavailable. You then stated that because it is British it is going to be used to target Palestinian children. I don\u2019t follow the logic there but I can extrapolate from the article my own knowledge and knowledgeable comments on it, that it is unlikely but possible that it would be a tool that the Israeli military would need in their arsenal against Palestinians. As I stated their current weapons are more effective, tried, tested and economical. Stating this information doesn\u2019t in any way imply approval or disapproval of any side of any military conflict or their tactics. My conversation here is a discussion about a technology and its deployment in theatres of operations not the morality or justification of given sides in a conflict.",
+                                  "score": 1,
+                                  "created_utc": 1732288039.0,
+                                  "replies": [
+                                    {
+                                      "id": "lyfnxc5",
+                                      "author": "Option420s",
+                                      "body": "You said mass starvation is the right choice for Israel's goals in Gaza you brainless twat",
+                                      "score": 0,
+                                      "created_utc": 1732292456.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ly641no",
+          "author": "rypher",
+          "body": "The classic argument. Is it more moral to give people the tools to defend themselves or let them get slaughtered.",
+          "score": 43,
+          "created_utc": 1732147246.0,
+          "replies": [
+            {
+              "id": "ly788xy",
+              "author": "glynstlln",
+              "body": "https://youtu.be/TlO2gcs1YvM?si=mfcY7D5dgm-gDeEV",
+              "score": 0,
+              "created_utc": 1732162048.0,
+              "replies": []
+            },
+            {
+              "id": "ly67ahm",
+              "author": "theGoddamnAlgorath",
+              "body": "Or give them tools that will be stolen and resold on the black market.",
+              "score": -17,
+              "created_utc": 1732148507.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ly7opzx",
+          "author": "aqwa_",
+          "body": "It\u2019s to help search and rescue in the mountains /s",
+          "score": 5,
+          "created_utc": 1732169774.0,
+          "replies": []
+        },
+        {
+          "id": "lydnwyz",
+          "author": "Huckdog720027",
+          "body": "War is a major way that technology advances, unfortunately or not. Aircraft design advanced by leaps and bounds as a direct result of their effectiveness world war 1 and 2, if those wars hadn't happened modern day aircraft probably wouldn't be as advanced as they are. And there are TONS of other examples of things we take for granted in the modern day that only got developed  because of their uses for the military / war. The Internet is another huge example, and so are computers (arguably).\n\nSundowner unfortunately had some sort of a point in Metal Gear Rising, as terrible as war is it technically has done a lot for us. It's just that the negatives of war outweigh the positives for most people, even if they don't realise how much they would lose if wars were never a thing.",
+          "score": 2,
+          "created_utc": 1732258183.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ly69e5g",
+      "author": "DenormalHuman",
+      "body": "Neuromotohic camera sounds like a fancy name for a basic principle of video compression if it's as simple as the article suggests. Only generating data from pixels who's values change beyond a given threshold.",
+      "score": 41,
+      "created_utc": 1732149315.0,
+      "replies": [
+        {
+          "id": "ly79f3m",
+          "author": "anders987",
+          "body": "They're usually called event cameras, if you want to read more about them. Here's an explanation from one of the main experts in the world: https://www.youtube.com/watch?v=6Sn9-M7qXLk\n\nAnd here's a fairly long tutorial by another expert on how they work: https://www.youtube.com/watch?v=D6rv6q9XyWU\n\nBasically, they have a wider dynamic range, much lower latency so no motion blur, and send changes in the image asynchronously instead of one frame at the time.",
+          "score": 32,
+          "created_utc": 1732162527.0,
+          "replies": []
+        },
+        {
+          "id": "ly6lnst",
+          "author": "New2ThisThrowaway",
+          "body": "It's similar, but the difference is efficiency. In the classic method,  each uncompressed frame is transferred to a separate processor for compression. \n\nIn a neuromotohic camera, this is all done on a single chip at the point of capture. The process is far more efficient, resulting in a lot more image processing per watt (with lower size and weight).",
+          "score": 31,
+          "created_utc": 1732153809.0,
+          "replies": [
+            {
+              "id": "ly6q1jn",
+              "author": "Chagrinnish",
+              "body": "That's my understanding as well, but it still sounds crippled. An optical mouse performs the same type of \"optical flow\" recognition albeit on a small, \\~100 pixel scale with the movement being readable from the chip without ever seeing the picture. And hobby quadcopters already implement that type of sensor.",
+              "score": 12,
+              "created_utc": 1732155340.0,
+              "replies": []
+            },
+            {
+              "id": "ly82chq",
+              "author": "charlesdarwinandroid",
+              "body": "The difference in efficiency largely comes from not having to send a full frame at the desired frame rate.  The pixels still use a very similar amount of power, in fact at the pixel level, the neuromorphic likely takes a bit more.  However, because you're only sending the difference pixels, it can be really efficient.  \n\nI'm using them for a project at work, and they are going to be very useful for quite a few things.",
+              "score": 4,
+              "created_utc": 1732178152.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ly93uql",
+          "author": "sanjosanjo",
+          "body": "The article links to a description of that term, which I had never heard before.  The first image on the page gives an example of what it does.  Later in the article they explain how the circuitry to do this is being optimized for power.\n\nhttps://spectrum.ieee.org/prophesees-eventbased-camera-reaches-high-resolution",
+          "score": 3,
+          "created_utc": 1732197857.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ly7mamm",
+      "author": "Agouti",
+      "body": "This is a good change, if it makes it to low cost drones as predicted.\n\n Usually how you pull position and orientation data from cameras is by tracking edges through looking for contrast changes and tracking with a Kalman filter or such, but processing the images is often pretty computationally costly.\n\nIt's pretty easy for a proper SoC (though there's still tradeoffs for fps) but even you quickly run out of processing power on most cheap ATMEGA style chips. Being able to get edge detection straight out of the camera would trivialise it.",
+      "score": 6,
+      "created_utc": 1732168464.0,
+      "replies": [
+        {
+          "id": "ly944dw",
+          "author": "sanjosanjo",
+          "body": "This article has a quick example of this type of camera.  It definitely looks like edge detection, and they explain how the circuitry is optimized for low power.\n\nhttps://spectrum.ieee.org/prophesees-eventbased-camera-reaches-high-resolution",
+          "score": 1,
+          "created_utc": 1732197956.0,
+          "replies": [
+            {
+              "id": "ly97ukb",
+              "author": "Agouti",
+              "body": "Oh, that image up the top is just *perfect*, it's everything you could want and in low light conditions to boot. You can even infer 3d information from it for mapping",
+              "score": 2,
+              "created_utc": 1732199296.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly6d5ss",
+      "author": "MonsterGuitarSolo",
+      "body": "Just in time for WWIII - hooray! /s",
+      "score": 5,
+      "created_utc": 1732150741.0,
+      "replies": []
+    },
+    {
+      "id": "ly7bn9g",
+      "author": "Tokugawa",
+      "body": "Gonna come in handy when Russia starts taking out GPS satellites.",
+      "score": 1,
+      "created_utc": 1732163459.0,
+      "replies": [
+        {
+          "id": "ly9nlhc",
+          "author": "bobqjones",
+          "body": "i agree. GLONAST will go down too in retalation. might be the best tech left.",
+          "score": 1,
+          "created_utc": 1732207336.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ly6l5jf",
+      "author": "OutInABlazeOfGlory",
+      "body": "> NILEQ, a subsidiary of British **missile-maker** MBDA based in Bristol, UK, makes a low-power visual navigation system that relies on neuromorphic cameras. This will now be integrated with a fiber optic-based INS developed by Advanced Navigation in Sydney, Australia, to create a positioning system that lets low-cost drones navigate reliably without GPS.\n\nImagine what could be done with this sort of thing, and then realize it's going to be used to kill civilians in genocidal campaigns the world over.",
+      "score": -7,
+      "created_utc": 1732153632.0,
+      "replies": [
+        {
+          "id": "ly6ltex",
+          "author": "surnik22",
+          "body": "That tech (or similar tech) is already used to kill civilians all over the world",
+          "score": 10,
+          "created_utc": 1732153863.0,
+          "replies": [
+            {
+              "id": "ly70uvl",
+              "author": "OutInABlazeOfGlory",
+              "body": "Yeah, no shit.",
+              "score": 0,
+              "created_utc": 1732159191.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ly70djz",
+          "author": "andynator1000",
+          "body": "You don't need precision guidance to kill civilians. You do, however, need precision guidance to avoid killing civilians.",
+          "score": 10,
+          "created_utc": 1732159016.0,
+          "replies": [
+            {
+              "id": "ly716uy",
+              "author": "OutInABlazeOfGlory",
+              "body": "Or to hit civilians that are hiding, without wasting higher yield explosives.",
+              "score": -3,
+              "created_utc": 1732159316.0,
+              "replies": [
+                {
+                  "id": "ly71x9d",
+                  "author": "andynator1000",
+                  "body": "Explosives are the cheap part of a missile.",
+                  "score": 9,
+                  "created_utc": 1732159591.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly98krj",
+      "author": "Xendrus",
+      "body": "Makes you wonder if a LLM/AI could replace basic GPS by acting like rainbolt \"Oh that type of grass and bush and sign are only in this area together + the sun's location based on shadows and etc\" and know where you are and need no satellite communication.",
+      "score": 0,
+      "created_utc": 1732199552.0,
+      "replies": [
+        {
+          "id": "ly9ts1t",
+          "author": "ilyich_commies",
+          "body": "This is called SLAM (simultaneous localization and mapping) and is a huge field in machine learning",
+          "score": 3,
+          "created_utc": 1732209200.0,
+          "replies": [
+            {
+              "id": "lyaj5vi",
+              "author": "Xendrus",
+              "body": "cool! Thx for info",
+              "score": 1,
+              "created_utc": 1732216740.0,
+              "replies": [
+                {
+                  "id": "lyaz7u4",
+                  "author": "ilyich_commies",
+                  "body": "I should also add that this problem is widely considered unsolved and that the same neural network architectures used for LLMs can indeed be used to improve SLAM models",
+                  "score": 1,
+                  "created_utc": 1732221622.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ly9pd4g",
+          "author": "DivineSentry",
+          "body": "That\u2019s already possible without LLM/AI",
+          "score": 1,
+          "created_utc": 1732207871.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

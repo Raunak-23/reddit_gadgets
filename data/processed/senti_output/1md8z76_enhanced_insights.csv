@@ -1,0 +1,49 @@
+metric,value
+file,1md8z76.csv
+title,"Meta & Stanford's Ultra-Thin Holographic Display Brings ""VR Glasses"" Closer To Reality"
+rows,28
+num_posts,1
+num_comments,27
+unique_authors,22
+max_depth,4
+avg_comment_words,44.89
+median_comment_words,29.0
+max_comment_words,134
+positive_count,6
+negative_count,21
+neutral_count,0
+positive_pct,22.222
+negative_pct,77.778
+neutral_pct,0.0
+topic_1_keywords,"something, win, vr, theres, dont, think, right, else"
+topic_1_label,"vr, theres, don , think"
+topic_2_keywords,"one, bigscreen, already, beyond, pretty, close, damned, market"
+topic_2_label,bigscreens close to the market
+topic_3_keywords,"borg, like, hardly, face, tell, looks, meta, theres"
+topic_3_label,borgs like hardly
+topic_4_keywords,"thats, internet, bsb, point, start, dont, argument, im"
+topic_4_label,i dont want to start a bsb
+topic_5_keywords,"ar, dont, vision, pro, market, device, parts, hit"
+topic_5_label,ad narrator 's vision doesn't work
+topic_6_keywords,"prototype, display, glasses, bulk, original, via, dont, even"
+topic_6_label,"prototype, display, glasses, and a prototype"
+top_ngram_1,vision pro (6)
+top_ngram_2,ar glasses (4)
+top_ngram_3,bsb tethered (4)
+top_ngram_4,tethered screen (4)
+top_ngram_5,screen thats (4)
+top_ngram_6,bsb tethered screen (4)
+top_ngram_7,tethered screen thats (4)
+top_ngram_8,hardly tell (3)
+top_ngram_9,tell theres (3)
+top_ngram_10,theres something (3)
+ner_1,BS|ORG|5
+ner_2,Vision Pro|MISC|4
+ner_3,ARVR|MISC|3
+ner_4,Facebook|ORG|3
+ner_5,Val|MISC|3
+ner_6,##burg|LOC|2
+ner_7,##ve Index|ORG|2
+ner_8,##er|ORG|2
+ner_9,Metas|MISC|2
+ner_10,Internet|MISC|2

@@ -1,0 +1,49 @@
+metric,value
+file,1lad4ay.csv
+title,"Fujifilm announces retro-styled X-E5 mirrorless digital camera | 40 megapixels, advanced image stabilization system, and more"
+rows,60
+num_posts,1
+num_comments,59
+unique_authors,43
+max_depth,6
+avg_comment_words,70.02
+median_comment_words,51.0
+max_comment_words,210
+positive_count,28
+negative_count,31
+neutral_count,0
+positive_pct,47.458
+negative_pct,52.542
+neutral_pct,0.0
+topic_1_keywords,"point, shoot, small, get, 1000, doesnt, phone, fuji"
+topic_1_label,a small phone shoots 1000
+topic_2_keywords,"camera, film, photos, like, look, get, sensor, even"
+topic_2_label,camera and camera like to look at photos
+topic_3_keywords,"camera, get, great, though, lumix, used, m43, nice"
+topic_3_label,m43 is a nice camera
+topic_4_keywords,"get, used, photography, lenses, camera, d750, nikon, put"
+topic_4_label,nikon lenses used for photography
+topic_5_keywords,"lens, cameras, much, im, wont, x100vi, rocking, die"
+topic_5_label,x100vi dies in x100vi
+topic_6_keywords,"camera, fuji, price, processing, devices, 1600, cameras, good"
+topic_6_label,Fuji camera is a good choice for processing and processing devices.
+top_ngram_1,point shoot (16)
+top_ngram_2,get used (14)
+top_ngram_3,dont know (10)
+top_ngram_4,nikon d750 (8)
+top_ngram_5,anyone thread (7)
+top_ngram_6,thread wanting (7)
+top_ngram_7,wanting get (7)
+top_ngram_8,get photography (7)
+top_ngram_9,photography put (7)
+top_ngram_10,put insane (7)
+ner_1,Fuji|ORG|21
+ner_2,DS|MISC|12
+ner_3,Nikon D750|MISC|8
+ner_4,Nikkor|MISC|7
+ner_5,Canon|ORG|7
+ner_6,Pepperidge Farm|ORG|5
+ner_7,DSLR|MISC|4
+ner_8,iPhone|MISC|4
+ner_9,Fuji Sony Pentax Leica|MISC|4
+ner_10,X100VI|MISC|4

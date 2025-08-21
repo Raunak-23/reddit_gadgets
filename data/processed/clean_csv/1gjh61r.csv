@@ -1,0 +1,84 @@
+type,id,author,title,score,created_utc,url,num_comments,subreddit,body,parent_id,depth,post_id
+post,1gjh61r,a_Ninja_b0y,Hackers Achieve the Inevitable: They Got Nintendo’s Alarmo to Play Doom,3305,2024-11-04 15:38:07,https://www.reddit.com/r/gadgets/comments/1gjh61r/hackers_achieve_the_inevitable_they_got_nintendos/,97.0,gadgets,,,,
+comment,lve7atl,LeCrushinator,,446,2024-11-04 19:06:58,,,,Its crazy that the STM32H730ZBI6 ARM MCU in the Alarmo is probably 3050x as fast as my 486 DX233Mhz machine that I had when I first played Doom when it was released If you could take the Alarmo back in a time machine to the early 90s itd be one of the fastest computers on the planet,,0.0,1gjh61r
+comment,lveok96,Starfox-sf,,18,2024-11-04 20:32:03,,,,DX2 did not exist in 33mhz,lve7atl,1.0,1gjh61r
+comment,lveuabx,LeCrushinator,,13,2024-11-04 21:00:00,,,,I was a kid so I might be misremembering its possible that it was a 66mhz and said 33mhz if you turned off the turbo setting,lveok96,2.0,1gjh61r
+comment,lveunkq,Starfox-sf,,8,2024-11-04 21:01:49,,,,33mhz bus speed 66mhz CPU yes,lveuabx,3.0,1gjh61r
+comment,lvf3zds,nefthep,,5,2024-11-04 21:48:41,,,,Yeah that half speed FSB sucked when upgrading dx2 to a Pentium Overdrive It really held it back,lveunkq,4.0,1gjh61r
+comment,lvf5y28,Starfox-sf,,-1,2024-11-04 21:58:35,,,,Not really Quad L1 higher IPC much better FPU and didnt suffer from FDIV I had it running as a headless Linux serverrouter for a while,lvf3zds,5.0,1gjh61r
+comment,lvfbvcg,nefthep,,3,2024-11-04 22:29:53,,,,My FSB was locked 25 Mhz while my Pentium Overdrive was 90 Mhz It made a huge reduction in potential performance on my setup,lvf5y28,6.0,1gjh61r
+comment,lvfil9p,Starfox-sf,,-1,2024-11-04 23:06:31,,,,POD was running at 63mhz 25x multiplier and your FSB was only using 75 bandwidth,lvfbvcg,7.0,1gjh61r
+comment,lvfwuu3,nefthep,,3,2024-11-05 00:26:26,,,,Yeah as soon as Socket 7 came out I did a full upgrade to 233 I sometimes miss that old dx2 Gateway 2000,lvfil9p,8.0,1gjh61r
+comment,lvfx6ls,Starfox-sf,,1,2024-11-05 00:28:19,,,,I had that DX2 Socket 4 VLB model with ATI VLB card Not sure why yours was stuck at 25mhz,lvfwuu3,9.0,1gjh61r
+comment,lvg3zj1,nefthep,,1,2024-11-05 01:07:43,,,,I had the weirdo 50Mhz CPU model maybe thats why,lvfx6ls,10.0,1gjh61r
+comment,lvh39lb,TwoFastTooFuriousTo,,1,2024-11-05 04:42:26,,,,This is the reddit rabbit hole of specialists I came to observe in their natural habitats,lvfx6ls,10.0,1gjh61r
+comment,lvirtzf,FunnyObjective6,,2,2024-11-05 13:49:40,,,,I was a kid so I might be misremembering Unacceptable Banned for spreading misinformation,lveuabx,3.0,1gjh61r
+comment,lvgie38,packetlag,,3,2024-11-05 02:31:21,,,,DX2 baby,lve7atl,1.0,1gjh61r
+comment,lvd8fnz,ey3s0up,,241,2024-11-04 16:16:12,,,,I swear you can get DOOM to run on anything,,0.0,1gjh61r
+comment,lve4gc2,cosmos7,,163,2024-11-04 18:53:03,,,,Doom was a welloptimized game written in C and designed to run on a 486 a chip introduced 35 years ago By modern standards it will run on just about anything,lvd8fnz,1.0,1gjh61r
+comment,lvhoidt,JohnTitorsdaughter,,11,2024-11-05 07:56:13,,,,It also introduced a legacy bug that is still found in games today TLDR they used the wrong value for pi,lve4gc2,2.0,1gjh61r
+comment,lvhvfna,Plank_With_A_Nail_In,,10,2024-11-05 09:14:31,,,,It does what it was designed to do so not actually bugs The wrong value of Pi only because it was rounded to 10 digitsnot actually wrong,lvhoidt,3.0,1gjh61r
+comment,lvl7cz6,JohnTitorsdaughter,,1,2024-11-05 21:06:43,,,,The problem wasnt that he round to 10 digits The issue was created because the 10th digit was wrong,lvhvfna,4.0,1gjh61r
+comment,lvhsjr3,Plank_With_A_Nail_In,,3,2024-11-05 08:41:29,,,,Its mainly because DOOM doesnt rely on anymany OS specific libraries just common C libraries that have been ported to many platforms The people who do this have a list of the few problem libraries that remain and replacements for them Figuring out how the screen has been attached to the MCU is probably where most of the work is,lve4gc2,2.0,1gjh61r
+comment,lvmotfv,mrturret,,1,2024-11-06 01:58:31,,,,It also helps that the code is extremely well written and documented,lvhsjr3,3.0,1gjh61r
+comment,lvdivvv,UncaringNonchalance,,78,2024-11-04 17:08:32,,,,,lvd8fnz,1.0,1gjh61r
+comment,lvdsh7w,_RADIANTSUN_,,93,2024-11-04 17:54:54,,,,Honestly this one isnt really what we are talking about when we say does DOOM run on it You can run any program on potatoes if you count the energy generation part of the chain Eg if they used solar power its not really DOOM running on the Sun Its more like running off the power source than running on it,lvdivvv,2.0,1gjh61r
+comment,lvdt3yd,UncaringNonchalance,,25,2024-11-04 17:57:55,,,,Yeah still always found it interesting though lol,lvdsh7w,3.0,1gjh61r
+comment,lvdzdv9,skinwill,,11,2024-11-04 18:28:26,,,,How about getting it to run so efficiently it can be powered by potatoes Those spuds dont make much power,lvdsh7w,3.0,1gjh61r
+comment,lveia23,_PM_ME_PANGOLINS_,,12,2024-11-04 20:01:07,,,,100 pounds of potatoes is a lot You can get 5V out of a boiled potato which is standard processor operating voltage You just need enough to last as long as you want to play,lvdzdv9,4.0,1gjh61r
+comment,lveo8e6,Starfox-sf,,7,2024-11-04 20:30:26,,,,Equalo set out to get Doom running on a Raspberry Pi Zero calculating hed need about 770 slices of potatoes to generate the 100120 milliamps and 5 volts required,lveia23,5.0,1gjh61r
+comment,lveizgd,skinwill,,-3,2024-11-04 20:04:35,,,,They only got 120mA at 5V Thats like one fourth of a cheap phone charger,lveia23,5.0,1gjh61r
+comment,lvekpnv,_PM_ME_PANGOLINS_,,6,2024-11-04 20:13:06,,,,You can get embedded processors that run that low Moving up a bit the original Raspberry Pi took 700mA or a handful of potatoes Edit The Raspberry Pi Zero in fact only draws 120mA at peak,lveizgd,6.0,1gjh61r
+comment,lvelhif,skinwill,,3,2024-11-04 20:16:56,,,,Yup back in the day the original version of doom needed a 486 which took a lot more than 120mA Now it can run on tiny embedded processors like the one in the graphic calculator in the article Im calling that an achievement,lvekpnv,7.0,1gjh61r
+comment,lve79f8,Onebadmuthajama,,2,2024-11-04 19:06:47,,,,Im waiting on doom inside of doom lol,lvdsh7w,3.0,1gjh61r
+comment,lvgbrhh,None,,1,2024-11-05 01:53:10,,,,Doom running on The Sun Hmmmmm,lvdsh7w,3.0,1gjh61r
+comment,lveijjc,PradaWestCoast,,8,2024-11-04 20:02:24,,,,Thats not as interesting as the person who ran it on a pregnancy test lol,lvdivvv,2.0,1gjh61r
+comment,lvekxz8,MelancholyArtichoke,,14,2024-11-04 20:14:15,,,,That one was exaggerated The pregnancy test had a screen installed and Doom wasnt running on the test so much as it was just using the installed screen as a video output device,lveijjc,3.0,1gjh61r
+comment,lvfnsrg,Liquid_Hate_Train,,3,2024-11-04 23:35:11,,,,The original one you see most often wasnt even that it was a higher resolution OLED put in the housing though it was later done on an actual test screen,lvekxz8,4.0,1gjh61r
+comment,lveitzg,UncaringNonchalance,,1,2024-11-04 20:03:50,,,,Oh shit never heard of that one,lveijjc,3.0,1gjh61r
+comment,lvfrq8j,None,,2,2024-11-04 23:57:08,,,,As a programmer this is absolutely invalid to the actual DOOM test The TI calculator port of DOOM is a shoddy mock FPS and while I appreciate that they can make a calculator run off potatoes this absolutely in no way passes the can it run DOOM test in any meaningful way Its neat but its not potatoes running DOOM,lvdivvv,2.0,1gjh61r
+comment,lvdodt5,H3y_Alexa,,4,2024-11-04 17:35:05,,,,,lvd8fnz,1.0,1gjh61r
+comment,lve9vk3,DannyR2078,,3,2024-11-04 19:19:39,,,,,lvd8fnz,1.0,1gjh61r
+comment,lvftsxr,AliveAndNotForgotten,,2,2024-11-05 00:08:55,,,,Can you run it on a toothbrush,lvd8fnz,1.0,1gjh61r
+comment,lvg3kgj,ey3s0up,,1,2024-11-05 01:05:16,,,,I know Ive seen articles about that I think And Im pretty sure someone posted a link to it below in the replies,lvftsxr,2.0,1gjh61r
+comment,lvdqi8f,Knyfe-Wrench,,2,2024-11-04 17:45:25,,,,They ran DOOM on literal bacteria Im pretty sure youre right,lvd8fnz,1.0,1gjh61r
+comment,lvdru8u,ey3s0up,,1,2024-11-04 17:51:51,,,,Thanks for the links I find it very fascinating that the original DOOM can be booted up on such random things Please keep sharing,lvd8fnz,1.0,1gjh61r
+comment,lvg3v34,usernameunavailable-,,1,2024-11-05 01:07:00,,,,I think I saw it run on an apple keyboard,lvd8fnz,1.0,1gjh61r
+comment,lvg2cyu,akgis,,26,2024-11-05 00:58:12,,,,Dooms Law if it has a screen and some kind of processormicrocontroller it will run Doom,,0.0,1gjh61r
+comment,lvd5xce,lordchickenburger,,65,2024-11-04 16:03:12,,,,But can it run crysis,,0.0,1gjh61r
+comment,lveiu08,DeiviiD,,7,2024-11-04 20:03:50,,,,If you put the Guardian Theme maybe,lvd5xce,1.0,1gjh61r
+comment,lvfp3d6,protekt0r,,2,2024-11-04 23:42:26,,,,Give it 10 more years,lvd5xce,1.0,1gjh61r
+comment,lvhjixg,PM_ME_UR_THONG_N_ASS,,2,2024-11-05 07:03:14,,,,Computers today still cant run Crysis s,lvd5xce,1.0,1gjh61r
+comment,lvd9z61,msnmck,,50,2024-11-04 16:24:15,,,,But does it play Doom like a printer or play Doom like a pregnancy test A lot of these claims are lies If its just using the screen it doesnt count Edit The article claims it runs natively Mazel tov if true,,0.0,1gjh61r
+comment,lvdym0h,narwhal_breeder,,29,2024-11-04 18:24:39,,,,The Alarmo runs an STM32 people have had native ports for it for a while 10 years at least,lvd9z61,1.0,1gjh61r
+comment,lvmogqd,mrturret,,2,2024-11-06 01:56:24,,,,But does it play Doom like a printer or play Doom like a pregnancy test The printer one is real A security reasercher found a vulnerability on some Canon printers and demonstrated it by running Doom Mind you the colors glitched out but it was still Doom A lot of these claims are lies The vast majority of them arent If theres a way to run unsigned code on a device thats fast enough and has a screen Doom has probably already been ported to it The engine is open source extremely well documented and was designed to be easily ported from the beginning,lvd9z61,1.0,1gjh61r
+comment,lvnnlm6,msnmck,,1,2024-11-06 05:36:58,,,,I was mainly referring to the claims that Doom ran on a digital pregnancy test when in reality the person making the claim just wired another device into its screen Impressive but not video games on your refrigerator impressive,lvmogqd,2.0,1gjh61r
+comment,lveu2sm,Redbird9346,,8,2024-11-04 20:58:58,,,,But can it play Bad Apple,,0.0,1gjh61r
+comment,lvfj6fg,RockD79,,8,2024-11-04 23:09:46,,,,gifgiphy8fen5LSZcHQ5O Now only the kitchen sink remains and the circle will be complete,,0.0,1gjh61r
+comment,lvfo830,Ashencroix,,7,2024-11-04 23:37:35,,,,Once digital kitchen sinks become mainstream it would be inevitable,lvfj6fg,1.0,1gjh61r
+comment,lvfoe4m,RockD79,,6,2024-11-04 23:38:32,,,,Then we move on to running Crysis on calculators,lvfo830,2.0,1gjh61r
+comment,lvfvqc3,brushnfush,,3,2024-11-05 00:20:00,,,,Can it be played on a smart fridge,lvfo830,2.0,1gjh61r
+comment,lvg2ykm,RockD79,,3,2024-11-05 01:01:42,,,,Yes,lvfvqc3,3.0,1gjh61r
+comment,lvdorp7,SkollFenrirson,,11,2024-11-04 17:36:58,,,,ritrunsdoom,,0.0,1gjh61r
+comment,lvdyx9w,None,,5,2024-11-04 18:26:10,,,,Incoming rabid nintendo lawsuit,,0.0,1gjh61r
+comment,lvfv9ww,callyour_bell,,2,2024-11-05 00:17:23,,,,Not Skyrim,,0.0,1gjh61r
+comment,lvgbjae,None,,2,2024-11-05 01:51:51,,,,internet THIS THING DOES NOT HAVE DOOM PORTED TO IT THIS IS UNACCEPTABLE,,0.0,1gjh61r
+comment,lvgdlku,abducted_song91,,2,2024-11-05 02:03:46,,,,Nintendo lawsuit already being filed,,0.0,1gjh61r
+comment,lvgl275,nbiscuitz,,2,2024-11-05 02:47:11,,,,they filed it before the thing was on sale,lvgdlku,1.0,1gjh61r
+comment,lvi1dgg,AR_Harlock,,2,2024-11-05 10:21:55,,,,Love how the title say Inevitable instead of Impossible as it should be its perfect,,0.0,1gjh61r
+comment,lvetku3,MattTreck,,5,2024-11-04 20:56:33,,,,Lawsuit incoming,,0.0,1gjh61r
+comment,lvez5ca,Dizman7,,3,2024-11-04 21:24:17,,,,Wouldnt the inevitable be Skyrim Isnt that the running meme theyll release it in anything,,0.0,1gjh61r
+comment,lvfm4nw,anengineerandacat,,10,2024-11-04 23:25:58,,,,Skyrim meme is about Bethesda doing an official port Doom meme is folks hacking things to make it work Small nuances,lvez5ca,1.0,1gjh61r
+comment,lvfwd4l,Dizman7,,2,2024-11-05 00:23:36,,,,I did not know,lvfm4nw,2.0,1gjh61r
+comment,lvmn3rz,mrturret,,1,2024-11-06 01:48:22,,,,Dooms engine was released as open source in 1997 Fans have maintained and improved on it since To the point where new commercial games are being released that use it,lvfwd4l,3.0,1gjh61r
+comment,lvf295c,HappyHarry-HardOn,,6,2024-11-04 21:39:57,,,,Doom was the original Crysis replaced it back in the day The Skyrim meme is that it will eventually be released for the Alarmo,lvez5ca,1.0,1gjh61r
+comment,lvfop04,Ashencroix,,7,2024-11-04 23:40:13,,,,Crysis replaced it back in the day The Crysis meme was it was the benchmark game for PC builds back in the day and it took a long time before it got dethroned The Doom meme is anything that has a computer and a kind of display can play Doom,lvf295c,2.0,1gjh61r
+comment,lvdzjki,Ancalagon19,,1,2024-11-04 18:29:11,,,,This just in Nintendo and its vile team of lawyers try to ruin the life of anyone attempting to play Doom on the Nintendo Alarmo,,0.0,1gjh61r
+comment,lved5s6,shavemejesus,,1,2024-11-04 19:35:55,,,,Ill be impressed when I see LGR play Duke Nukem 3D on it,,0.0,1gjh61r
+comment,lvepdj9,realtonemachine,,1,2024-11-04 20:36:02,,,,Now use it as a controller to beat dark souls,,0.0,1gjh61r
+comment,lvh7et5,Exeftw,,1,2024-11-05 05:13:46,,,,Elegg strikes again,,0.0,1gjh61r
+comment,lvho5kn,Ashallond,,1,2024-11-05 07:52:22,,,,Im sorry but if theyd upload the doom soundtrack as a music choice sales would triple overnight Because I promise no is one sleeping through that,,0.0,1gjh61r
+comment,lvhwxsk,None,,1,2024-11-05 09:32:04,,,,Doom can run on Bacteria A clock is hardly the impossible bar to clear,,0.0,1gjh61r
+comment,lvi0xg8,magica12,,1,2024-11-05 10:17:01,,,,Achieve the inevitable xD Yea that tracks if a graphing calculator can play doom so can a clock woth a full display xD,,0.0,1gjh61r
+comment,lvis7ua,FunnyObjective6,,1,2024-11-05 13:51:57,,,,Doomo,,0.0,1gjh61r
+comment,lvh30s0,austinstar08,,0,2024-11-05 04:40:41,,,,How long has this been released,,0.0,1gjh61r

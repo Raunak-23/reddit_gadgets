@@ -1,0 +1,49 @@
+metric,value
+file,1iro3at.csv
+title,"This hardware mod crams an iPhone SE 3 into a classic Windows Phone | Inside iPhone, outside Lumia"
+rows,57
+num_posts,1
+num_comments,56
+unique_authors,44
+max_depth,5
+avg_comment_words,50.98
+median_comment_words,34.5
+max_comment_words,303
+positive_count,10
+negative_count,46
+neutral_count,0
+positive_pct,17.857
+negative_pct,82.143
+neutral_pct,0.0
+topic_1_keywords,"windows, already, custom, never, top, android, nokia, button"
+topic_1_label,custom widgets for windows
+topic_2_keywords,"hardware, phone, good, windows, one, software, camera, kept"
+topic_2_label,"hardware, phone, software, camera"
+topic_3_keywords,"phone, windows, app, killed, apps, ui, liked, battery"
+topic_3_label,Android app killed in ui
+topic_4_keywords,"like, time, google, lumia, didnt, fun, phones, smartphone"
+topic_4_label,Google and Google don't like Google
+topic_5_keywords,"windows, zune, phone, share, market, didnt, enough, wasnt"
+topic_5_label,Verizon Wireless shares phone with Verizon
+topic_6_keywords,"player, music, pretty, good, ui, every, sucked, hell"
+topic_6_label,ui sucked in music
+top_ngram_1,windows phone (27)
+top_ngram_2,market share (8)
+top_ngram_3,lack app (7)
+top_ngram_4,app support (7)
+top_ngram_5,lack app support (7)
+top_ngram_6,miss windows (6)
+top_ngram_7,able run (5)
+top_ngram_8,run half (5)
+top_ngram_9,half apps (5)
+top_ngram_10,apps due (5)
+ner_1,Zune|MISC|12
+ner_2,Windows|MISC|11
+ner_3,Google|ORG|9
+ner_4,Android|MISC|8
+ner_5,Microsoft|ORG|7
+ner_6,Windows Phone|MISC|6
+ner_7,MS|ORG|6
+ner_8,Lumia|MISC|6
+ner_9,YouTube|ORG|5
+ner_10,Nokia|ORG|4

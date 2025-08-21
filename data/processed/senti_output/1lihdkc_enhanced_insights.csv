@@ -1,0 +1,49 @@
+metric,value
+file,1lihdkc.csv
+title,"MSI's new Toy Story PC features Buzz Lightyear GPU, Woody motherboard, and more | Featuring five themed components"
+rows,69
+num_posts,1
+num_comments,68
+unique_authors,58
+max_depth,6
+avg_comment_words,33.79
+median_comment_words,19.5
+max_comment_words,125
+positive_count,20
+negative_count,48
+neutral_count,0
+positive_pct,29.412
+negative_pct,70.588
+neutral_pct,0.0
+topic_1_keywords,"toy, story, thats, lost, pc, people, still, thing"
+topic_1_label,pc is a toy that is lost in a story
+topic_2_keywords,"pc, prebuilt, im, stuff, also, parts, markup, story"
+topic_2_label,"pc, iii, stuff, story"
+topic_3_keywords,"taiwan, available, pc, story, toy, units, 500, components"
+topic_3_label,"taiwan toy available in pc, pc, story"
+topic_4_keywords,"disney, money, expect, selling, dont, play, need, bootup"
+topic_4_label,disney is not doing enough to buy a bootup
+topic_5_keywords,"toy, story, taiwan, zurg, pretty, buzz, made, part"
+topic_5_label,A toy made in Taiwan and taiwan
+topic_6_keywords,"story, toy, thought, lol, many, franchise, rex, themed"
+topic_6_label,rex themed toy
+top_ngram_1,toy story (38)
+top_ngram_2,available taiwan (6)
+top_ngram_3,500 units (4)
+top_ngram_4,thats childrens (4)
+top_ngram_5,childrens pc (4)
+top_ngram_6,thats childrens pc (4)
+top_ngram_7,story big (4)
+top_ngram_8,toy story big (4)
+top_ngram_9,full prebuilt (4)
+top_ngram_10,prebuilt also (4)
+ner_1,Taiwan|LOC|20
+ner_2,Toy Story|MISC|13
+ner_3,PC|MISC|7
+ner_4,Bonnie|PER|6
+ner_5,Toy Story 1|MISC|5
+ner_6,Disney|ORG|4
+ner_7,Intel Core Ultra 5|MISC|4
+ner_8,Kingston Fury Beast|MISC|4
+ner_9,Spatium M|MISC|4
+ner_10,Rex|PER|3

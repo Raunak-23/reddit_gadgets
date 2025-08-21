@@ -1,0 +1,49 @@
+metric,value
+file,1k1h8ry.csv
+title,LG TVs’ integrated ads get more personal with tech that analyzes viewer emotions
+rows,270
+num_posts,1
+num_comments,269
+unique_authors,230
+max_depth,7
+avg_comment_words,35.92
+median_comment_words,26.0
+max_comment_words,283
+positive_count,38
+negative_count,231
+neutral_count,0
+positive_pct,14.126
+negative_pct,85.874
+neutral_pct,0.0
+topic_1_keywords,"tv, use, free, late, could, ads, born, ad"
+topic_1_label,ad for a tv
+topic_2_keywords,"internet, get, tv, tvs, lg, would, connect, jetpacks"
+topic_2_label,tvs connect jetpacks
+topic_3_keywords,"tv, lg, dont, buy, like, viewing, ive, ever"
+topic_3_label,i dont like tv
+topic_4_keywords,"tv, hdmi, smart, would, dont, emotions, old, tvs"
+topic_4_label,hdmi would not like to watch old tvs
+topic_5_keywords,"ads, tv, even, still, im, watching, every, dont"
+topic_5_label,i watch every tv
+topic_6_keywords,"tv, dumb, need, smart, dont, capitalism, like, people"
+topic_6_label,tv is dumb
+top_ngram_1,apple tv (23)
+top_ngram_2,dumb tv (14)
+top_ngram_3,tv internet (14)
+top_ngram_4,lg tv (13)
+top_ngram_5,dont need (13)
+top_ngram_6,instead get (13)
+top_ngram_7,black mirror (12)
+top_ngram_8,every company (12)
+top_ngram_9,miss believing (12)
+top_ngram_10,believing would (12)
+ner_1,LG|ORG|47
+ner_2,Apple TV|MISC|11
+ner_3,YouTube|ORG|11
+ner_4,Chrome|MISC|9
+ner_5,Internet|MISC|9
+ner_6,McDonalds|ORG|8
+ner_7,HDMI|MISC|8
+ner_8,Spy TV|ORG|8
+ner_9,Samsung|ORG|8
+ner_10,L|MISC|7

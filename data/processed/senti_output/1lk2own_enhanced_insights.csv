@@ -1,0 +1,49 @@
+metric,value
+file,1lk2own.csv
+title,"Asus pushes 2,600W into RTX 5090 to prove new cableless GPU power connector works | As high-end GPU cables melt, Asus BTF means to offer a safer way to power GPUs"
+rows,67
+num_posts,1
+num_comments,66
+unique_authors,48
+max_depth,7
+avg_comment_words,50.65
+median_comment_words,43.0
+max_comment_words,149
+positive_count,13
+negative_count,53
+neutral_count,0
+positive_pct,19.697
+negative_pct,80.303
+neutral_pct,0.0
+topic_1_keywords,"uses, card, house, run, amps, electricity, daily, graphics"
+topic_1_label,A house uses a card and electricity
+topic_2_keywords,"connector, issue, use, power, connectors, doesnt, thats, cards"
+topic_2_label,Using a connector for cards
+topic_3_keywords,"built, one, last, pc, circuit, ill, outlet, handle"
+topic_3_label,pc built circuit handle
+topic_4_keywords,"per, kwh, watts, breakers, hear, happy, gpu, watt"
+topic_4_label,watts and breakers
+topic_5_keywords,"maybe, correct, 20, 2600w, technically, hours, 2600, watts"
+topic_5_label,watts is not a problem
+topic_6_keywords,"breaker, pull, said, device, 1800w, ive, 1500w, ever"
+topic_6_label,breaker pulls a breaker in a device
+top_ngram_1,graphics card (11)
+top_ngram_2,card uses (11)
+top_ngram_3,graphics card uses (11)
+top_ngram_4,2600 watts (11)
+top_ngram_5,uses 20 (10)
+top_ngram_6,daily basis (10)
+top_ngram_7,card uses 20 (10)
+top_ngram_8,kwh per (10)
+top_ngram_9,could run (9)
+top_ngram_10,run graphics (9)
+ner_1,US|LOC|8
+ner_2,G|MISC|5
+ner_3,##vidia|ORG|4
+ner_4,United States|LOC|4
+ner_5,ATX|MISC|2
+ner_6,Linus|PER|2
+ner_7,Europe|LOC|2
+ner_8,ASUS|MISC|2
+ner_9,Am|MISC|2
+ner_10,##vid|ORG|2

@@ -1,0 +1,2902 @@
+{
+  "post": {
+    "title": "Apple\u2019s iPhone Hit By FBI Warning And Lawsuit Before iOS 18.2 Release",
+    "author": "a_Ninja_b0y",
+    "id": "1hb1sh6",
+    "score": 3166,
+    "created_utc": 1733837479.0,
+    "selftext": "",
+    "num_comments": 364,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hb1sh6/apples_iphone_hit_by_fbi_warning_and_lawsuit/"
+  },
+  "comments": [
+    {
+      "id": "m1d1ibg",
+      "author": "jaa101",
+      "body": "Coming right after the story about how China has accessed massive amounts of US telecommunications data via the mechanisms created to give US law enforcement agencies access.  Not great timing.",
+      "score": 1881,
+      "created_utc": 1733840683.0,
+      "replies": [
+        {
+          "id": "m1d270r",
+          "author": "vivekkhera",
+          "body": "I\u2019m sure they believe it will be different this time because they will build the back door better. No. It never works out.",
+          "score": 477,
+          "created_utc": 1733840940.0,
+          "replies": [
+            {
+              "id": "m1dpv11",
+              "author": "pdromeinthedome",
+              "body": "The back door will be inside a lockbox. I pinky swear /s",
+              "score": 117,
+              "created_utc": 1733848891.0,
+              "replies": [
+                {
+                  "id": "m1dxfjc",
+                  "author": "Interestofconflict",
+                  "body": "![gif](giphy|S384bZRfOlSwg)",
+                  "score": 43,
+                  "created_utc": 1733851262.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1dq62b",
+              "author": "Rampage_Rick",
+              "body": "Haven't you seen the servants' entrance at Ft Knox?\n\nTip your hat to Jimmy and you're in...",
+              "score": 16,
+              "created_utc": 1733848986.0,
+              "replies": []
+            },
+            {
+              "id": "m1dqacv",
+              "author": "nicuramar",
+              "body": "Of course it does. Backdoor means very little and there are many ways to do it. Depending on circumstances, it can be quite secure.\n\nApple has a \u201cbackdoor\u201d of sorts into iCloud backups, but there is no evidence that this has leaked.\n\nNSA has a backdoor into a, now not used, random number generator, but there is no evidence that it has been compromised.\u00a0",
+              "score": -23,
+              "created_utc": 1733849023.0,
+              "replies": [
+                {
+                  "id": "m1ex26i",
+                  "author": "booch",
+                  "body": "> Depending on circumstances, it can be quite secure.\n\nBut \"quite secure\" isn't enough. Because \n\n1. The role of protecting the data has to succeed every time, forever\n2. The role of de-protecting (getting access to) the data only needs to happen once\n\nIf there is a back door, it can be well protected the vast majority of the time. But then the one time it _isn't_ well protected.. makes all the previous times irrelevant.",
+                  "score": 9,
+                  "created_utc": 1733862330.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1e906h",
+                  "author": "2squishmaster",
+                  "body": "What are you referring to with the random number generator?",
+                  "score": 4,
+                  "created_utc": 1733854861.0,
+                  "replies": [
+                    {
+                      "id": "m1j6nht",
+                      "author": "ImprovementFlimsy216",
+                      "body": "RSA token. RSA built a back door in. It was big news in the hacker community and some folks walked out of a speech or convention. It was a while back and my recollection of the details are foggy. We used them at my last place and our cs team was pissed.\n\nEDIT. Shit it was like 10 years ago. Ug. I\u2019m old. \nhttps://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer/",
+                      "score": 1,
+                      "created_utc": 1733929482.0,
+                      "replies": [
+                        {
+                          "id": "m1j6uz2",
+                          "author": "2squishmaster",
+                          "body": "Gross",
+                          "score": 1,
+                          "created_utc": 1733929552.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1iczvb",
+                  "author": "OptimalMain",
+                  "body": "And there is currently 0-days being exploited that no one knows about.  \nBut they don\u2019t exist since we don\u2019t know about them ?  \nThe most valuable exploits aren\u2019t used willy nilly",
+                  "score": 1,
+                  "created_utc": 1733916814.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1ewcs3",
+          "author": "Gomez-16",
+          "body": "FBI \u201cChina used that backdoors we put in to spy on people!\u201d",
+          "score": 69,
+          "created_utc": 1733862110.0,
+          "replies": []
+        },
+        {
+          "id": "m1fw9z6",
+          "author": "nagi603",
+          "body": "\"Hey, we don't actually care that much about your actual data, just about our ability to warrantlessly gobble them all up. If others get it, it's YOUR problem.\"",
+          "score": 34,
+          "created_utc": 1733873614.0,
+          "replies": []
+        },
+        {
+          "id": "m1gn2xm",
+          "author": "Iwonatoasteroven",
+          "body": "It\u2019s exactly what we\u2019ve always predicted.",
+          "score": 16,
+          "created_utc": 1733883442.0,
+          "replies": []
+        },
+        {
+          "id": "m1gvkz8",
+          "author": "PilotHistorical6010",
+          "body": "Thank you for this comment!",
+          "score": 4,
+          "created_utc": 1733886715.0,
+          "replies": []
+        },
+        {
+          "id": "m1dq15v",
+          "author": "nicuramar",
+          "body": "The \u201cvia the mechanisms created to give US\u2026access\u201d part is actually misleading, but keeps getting repeated.\u00a0",
+          "score": -12,
+          "created_utc": 1733848944.0,
+          "replies": [
+            {
+              "id": "m1eckk9",
+              "author": "adamdoesmusic",
+              "body": "What\u2019s the real story?",
+              "score": 31,
+              "created_utc": 1733855959.0,
+              "replies": [
+                {
+                  "id": "m1f3q5s",
+                  "author": "ITFOWjacket",
+                  "body": "Right? If you tell us the story is wrong then you better give us the right answer.",
+                  "score": 23,
+                  "created_utc": 1733864378.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1ik6u2",
+                  "author": "magic1623",
+                  "body": "Essentially the FBI is still trying to get access to the Apple users data (from iPhones and other Apple products) and Apple is still refusing. The FBI has now gotten so desperate that they are trying to force Apple into giving them access by suing them. \n\nAnd to be clear the FBI wants complete and open access. Whenever Apple is sent a warrant for information during a court case they follow the law.",
+                  "score": 5,
+                  "created_utc": 1733920598.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1gumde",
+              "author": "CMDR_Shazbot",
+              "body": "\"you're wrong!\"\n\n*Provides literally nothing substantial to the conversation*",
+              "score": 11,
+              "created_utc": 1733886332.0,
+              "replies": []
+            },
+            {
+              "id": "m1ectly",
+              "author": "Objective_Cow_6272",
+              "body": "NSA has entered the chat.",
+              "score": 6,
+              "created_utc": 1733856035.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1eizpj",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -17,
+          "created_utc": 1733857945.0,
+          "replies": [
+            {
+              "id": "m1en0zi",
+              "author": "C_Madison",
+              "body": "Given that one country is a dictatorship and the other is not, and also that the US doesn't have blanket access just because the devices were created by American companies: No, it's not.",
+              "score": 19,
+              "created_utc": 1733859200.0,
+              "replies": [
+                {
+                  "id": "m1eoa8f",
+                  "author": "igby1",
+                  "body": "U.S. becomes a dictatorship in January",
+                  "score": -1,
+                  "created_utc": 1733859589.0,
+                  "replies": [
+                    {
+                      "id": "m1ezr54",
+                      "author": "C_Madison",
+                      "body": "And if what some expect happens I'll be first in line to shit on it. Until then: Not the same as China.",
+                      "score": 11,
+                      "created_utc": 1733863164.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1ex890",
+                      "author": "None",
+                      "body": "It is not and will not be a dictatorship.  I hate that orange faced piece of shit as much as anyone else but he isn\u2019t doing shit.  He\u2019ll SAY a ton of dumb shit but he won\u2019t actually do anything.  We do in fact have laws that people, ESPECIALLY the president, have to follow.\n\nAgain that shit bag can say whatever he wants doesn\u2019t mean it\u2019s gonna happen.  It will be tied up in courts (that\u2019s what pieces of shit like him do) for years and this useless fuck will most likely be dead and gone before it ever gets resolved",
+                      "score": -8,
+                      "created_utc": 1733862383.0,
+                      "replies": [
+                        {
+                          "id": "m1ez340",
+                          "author": "an0maly33",
+                          "body": "Except he keeps doing things that we've always thought a president couldn't do and getting away with it...",
+                          "score": 14,
+                          "created_utc": 1733862957.0,
+                          "replies": [
+                            {
+                              "id": "m1f1mhg",
+                              "author": "TrptJim",
+                              "body": "And that's where the realization sets in that laws have to be enforced for them to be meaningful. Or, even worse, some of what was assumed to be laws were just traditions that hinged on people \"not doing bad things deliberately\", and no law exists to prevent it.",
+                              "score": 11,
+                              "created_utc": 1733863739.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m1fkwvy",
+                          "author": "tonyjdublin62",
+                          "body": "Sorry bud, you\u2019re living in a fantasy world.  The Orange Turd shits on the constitution to fill his own pockets, but Hillbilly Hitler is even worse, he\u2019s an actual fascist ideologue.  The USA will morph into the 4th Reich before the end of 2025.",
+                          "score": -1,
+                          "created_utc": 1733869752.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m1eyd47",
+                      "author": "ggrease",
+                      "body": "Sure buddy",
+                      "score": -4,
+                      "created_utc": 1733862735.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1f84a2",
+                      "author": "x42f2039",
+                      "body": "Who told you that, Joe?",
+                      "score": -7,
+                      "created_utc": 1733865725.0,
+                      "replies": [
+                        {
+                          "id": "m1f8prx",
+                          "author": "None",
+                          "body": "[removed]",
+                          "score": 1,
+                          "created_utc": 1733865907.0,
+                          "replies": [
+                            {
+                              "id": "m1faby0",
+                              "author": "x42f2039",
+                              "body": "More like deer leader since he acts like one in the headlights at times.\n\nSorry, I had to",
+                              "score": -4,
+                              "created_utc": 1733866399.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1ewwgl",
+                  "author": "Gomez-16",
+                  "body": "They have access to what ever they want with zero effort.  All someone has to be is a person of interest for ANYTHING and they can go in and search ALL of your data before they even had a right to collect it.",
+                  "score": -1,
+                  "created_utc": 1733862280.0,
+                  "replies": [
+                    {
+                      "id": "m1ezkaw",
+                      "author": "C_Madison",
+                      "body": "The whole point of the lawsuit is that that isn't the case. They would like to have that power, but they don't have it.",
+                      "score": 3,
+                      "created_utc": 1733863105.0,
+                      "replies": [
+                        {
+                          "id": "m1f92ub",
+                          "author": "Flaskhals51231",
+                          "body": "They had that power for a while back when Snowden blew the whistle. And that was years ago.\n\nTo think they haven\u2019t expanded on that is extremely naive.",
+                          "score": 0,
+                          "created_utc": 1733866018.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m1fkal0",
+                          "author": "Gomez-16",
+                          "body": "You have never read any cybersecurity articles have you?  CIA has tons of shit for spying on people. If you have a phone they can spy on you.",
+                          "score": -1,
+                          "created_utc": 1733869549.0,
+                          "replies": [
+                            {
+                              "id": "m1fli1d",
+                              "author": "C_Madison",
+                              "body": "The CIA can spy on people, because they've invested tons of effort into it. That's completely tangential to the start of this thread which was about how both iOS and Android are American technologies and therefore the US can spy on everyone. That's simply not how this works. CIA and NSA invest resources to use and abuse holes in software. Whether that software is from an American, a Chinese, a German or some other company is completely irrelevant.\n\nOne thing they often did (as Snowden showed) was use the hole that while external traffic has been encrypted for a long while many companies didn't encrypt their internal traffic, not even if internal meant between two data centers. This was changed after that.\n\nSo, to answer your question: I've read a ton of cybersecurity articles and continue to do so.",
+                              "score": 2,
+                              "created_utc": 1733869945.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1d43p1",
+      "author": "SenAtsu011",
+      "body": "\"Responsibly managed encryption\" oh, you mean encryption that you hold the key to and can do whatever you want with? A key that can easily be leaked? A key that will also increase vulnerabilities from hackers? Hell no.\n\nThis article makes it sound like Apple is having a bad time this week, because the FBI is knocking on their door, but it's entirely the opposite. Apple is fighting tooth and nail against ANY and ALL law enforcement agencies and governments getting control of user data. It's a bad time for those agencies and governments, but for Apple and their customer-base? This is amazing news. A for-profit company doing good stuff to protect user privacy? In an economy built on selling as much information about your customers as possible? That's a damn good job from Apple.\n\nThis is just the latest in the FBI's attempts at forcing Apple to make a backdoor for them into their operating systems. They first tried the legal way, but found that Apple broke no laws. Then they tried to drag their name through the mud as being anti-USA, anti-patriotic, and helping terrorists, but that didn't work. Now they're trying to blame Apple for CSAM.\n\nI'm fine with Apple providing information in court cases where there is legal reason and basis for them to do so, with a signed court order where all due process and careful considerations have been made to protect any and all potentially affected users. That's perfectly fine with me. What I'm not okay with is any law enforcement agency being able to just unlock my stuff and check all my private information and data, because of some made up accusations or suspicions.",
+      "score": 1574,
+      "created_utc": 1733841646.0,
+      "replies": [
+        {
+          "id": "m1djbia",
+          "author": "knvn8",
+          "body": "If this is added it will 100% be used someday to detect people watching movies without a Disney+ subscription.",
+          "score": 444,
+          "created_utc": 1733846803.0,
+          "replies": [
+            {
+              "id": "m1dkxu7",
+              "author": "SenAtsu011",
+              "body": "Oh yeah, it opens a huge precedent that is impossible to close.",
+              "score": 141,
+              "created_utc": 1733847327.0,
+              "replies": []
+            },
+            {
+              "id": "m1ekus7",
+              "author": "None",
+              "body": "So, my friend is in the Police and he was at a big (private) event where basically tech companies had stalls to show off their latest and greatest crime fighting toys.\n\nAll I\u2019m saying is if you can imagine it,  they already have it. The things they can do to track and trace someone is absolute fucking terrifying. Of course he thought it was all cool as fuck, but I was horrified hearing about how they can do so much shit legally and it just comes down to how much someone is willing to spend on a piece of kit.\n\nAs a wise man once said: \u201cFuck the Police\u201d",
+              "score": 161,
+              "created_utc": 1733858524.0,
+              "replies": [
+                {
+                  "id": "m1exnzg",
+                  "author": "traparms",
+                  "body": "As much cool stuff as they may have, they still can't break properly implemented encryption (hence this post). As long as you make sure what you're doing is encrypted then you should be fine.",
+                  "score": 71,
+                  "created_utc": 1733862521.0,
+                  "replies": [
+                    {
+                      "id": "m1fwx3h",
+                      "author": "nagi603",
+                      "body": "It's probably more of a... much of their toys have time limited access. Once they use a method, they might end up burning it for good, if it gets back to Apple. So they don't want to use it for every last randomly collected device.",
+                      "score": 23,
+                      "created_utc": 1733873843.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1f4w4b",
+                      "author": "ITFOWjacket",
+                      "body": "If you\u2019re holding a phone in your hand or pocket, anything is possible. Someone can and will triangulate your location through gps, listen to your environment, see live footage through your camera, etc. Mostly just to tailor your Amazon suggested items feed. \n\nDon\u2019t get me wrong. I use a phone and don\u2019t own a laptop. These things can do anything and are indispensable in modern life! \n\nOn the other hand, these things can do *anything* and are *non-optional* for modern life.",
+                      "score": -26,
+                      "created_utc": 1733864738.0,
+                      "replies": [
+                        {
+                          "id": "m1ffgkr",
+                          "author": "Aisher",
+                          "body": "That\u2019s fear mongering. I do not believe if the police or FBI could listen in through my iPhone and turn on the camera that wouldn\u2019t have been leaked by now. They(police) are going up against one of the biggest tech companies in the world to get this access. \n\nIs it possible? Sure. Probable or in use today?  No way",
+                          "score": 19,
+                          "created_utc": 1733867983.0,
+                          "replies": [
+                            {
+                              "id": "m1giqr0",
+                              "author": "PeteThePolarBear",
+                              "body": "Have you not heard of Snowden? That is exactly what he exposed the CIA doing",
+                              "score": 8,
+                              "created_utc": 1733881791.0,
+                              "replies": [
+                                {
+                                  "id": "m1h8k7n",
+                                  "author": "Aisher",
+                                  "body": "If you told me that the CIA hacked old dumb phones or old smartphones, sure. I believe you.  If you are trying to tell me that current state of the art phones are being hacked as listening devices - no. I don\u2019t think they could keep that quiet.  \n\nCertainly not if they are having a conference about it and Barney Fife can see it. \n\nI suspect the really good zero day exploits are held closely to be used against targets of extremely high value. If the local police use that exploit on a regular criminal word will get out and apple/google will patch it.  They aren\u2019t burning zero days for a local criminal - they are using those for enemies of the state",
+                                  "score": 3,
+                                  "created_utc": 1733892183.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m1frwot",
+                              "author": "ITFOWjacket",
+                              "body": "I mean, I can only respond with anecdotal evidence and don\u2019t have the willpower to find hard sources right now.\n\nBut I\u2019m glad that you believe that",
+                              "score": -13,
+                              "created_utc": 1733872081.0,
+                              "replies": [
+                                {
+                                  "id": "m1gcizk",
+                                  "author": "eisbock",
+                                  "body": "Way to back up your claim lmfao",
+                                  "score": 4,
+                                  "created_utc": 1733879476.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1gg40z",
+                                      "author": "ITFOWjacket",
+                                      "body": "I\u2019ve said what I wanted to say. I\u2019ve backed up my claim on other comments. But, clearly, reiterating my point here is a waste of time so, no. I\u2019m not playing game.",
+                                      "score": -5,
+                                      "created_utc": 1733880806.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m1g0qoh",
+                          "author": "UrToesRDelicious",
+                          "body": "Yeah, no that's all complete bullshit.\n\n> triangulate your location through gps\n\nThis right here is all anyone needs to completely disregard everything you've said because it's apparent you don't know what you're talking about. GPS is a completely passive technology \u2014 you can't do anything *through* GPS, you simply triangulate *your own position* based on ping time to overhead satellites. No one can get anyone else's location through GPS.\n\nAnd do you know how much data it would take for someone to covertly stream live video from your phone? Enough that any network audit would *immediately* catch it, even if the stream was encrypted \u2014 and people audit this stuff constantly. You would also catch something like this yourself when AT&T charges you for gigabytes of data overages. Regardless, all of this ignores the fact that this isn't even possible without some sort of zero-day exploit or malware because your phone is encrypted, and encryption is mathematically secure.\n\nYou have access to [the same encryption the NSA uses](https://en.m.wikipedia.org/wiki/Advanced_Encryption_Standard), and it's open source so there's no chance of any backdoors. If you are correctly utilizing proper encryption and security protocols then your data is cryptographically secure. \n\nStop fear mongering about things you don't understand.",
+                          "score": 11,
+                          "created_utc": 1733875206.0,
+                          "replies": [
+                            {
+                              "id": "m1gskp5",
+                              "author": "SsooooOriginal",
+                              "body": "That last \"if\" is what gets us all. Not to even get into how you can be the most data secure individual ever, all it takes is social engineering and or a compromised associate.\u00a0",
+                              "score": 2,
+                              "created_utc": 1733885543.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "m1ga1vz",
+                              "author": "ITFOWjacket",
+                              "body": "Look\n\nYou can call it fear mongering. That\u2019s a fair criticism. \n\nBut I draw the line at you telling me what I don\u2019t understand. \n\nI am a decade tenured Union Electrician specializing in Systems Technology. I\u2019ve spent my entire adult life installing phones, telecom, fiber optics, intercoms, fire alarm, nurse call, access control, Pro Sound, A/V, and CCTV in both Commercial New Construction and Renovations. Mostly public schools and hospitals, office spaces, military bases, airports, and more. \n\nMuch of that time as Lead Tech or Foreman. Most of that time as a solo Service Tech, man in van who is dispatched to *fix* those Cloud Server based school intercom, or POE++ LCD display combo clock/speakers, or entirely Network based Nurse Call, or fucking DOS based Fire Alarm (because that shit is life safety and needs to actually work right) \n\nMy point is, my career and life\u2019s work has been installing, maintaining and servicing commercial Information and Technology Systems, face to face with customers in the government: Dept of Education, Dept of Defense, and Healthcare Industry. \n\nAnd I fucking HATE computers. \n\nSo you are free to disagree with me. \n\nBut do NOT tell me that I don\u2019t understand how fucking GPS works. I was using shorthand. Asshole.",
+                              "score": -4,
+                              "created_utc": 1733878575.0,
+                              "replies": [
+                                {
+                                  "id": "m1i7gg3",
+                                  "author": "lowbatteries",
+                                  "body": "But \u2026 you were wrong about GPS. It\u2019s a passive background signal. Like saying someone is tracking you through street signs.",
+                                  "score": 5,
+                                  "created_utc": 1733913388.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1i8srt",
+                                      "author": "ITFOWjacket",
+                                      "body": "Is your phone capable of triangulating your location in 3D space, on Earths surface, by receiving and transmitting signals to Cell Towers, Cell Satellites, and GPS Satellites? Yes. \n\nIs your phone capable of logging and transmitting that data location to a wide variety of clients? Yes. \n\nDoes your phone log and attempt to share your location data every single time you open a web page, app, or do a google search? Yes. \n\nAre you being unnecessarily pedantic about my statement that should not require additional explanation? Yes. \n\nDo I need to specify that I mean your smart phone, on the off chance that you carry a dumb flip phone? No. That\u2019d be ridiculous pedantry. \n\nDoes this interaction make either of us look smart or cool? No. \n\nPack it up. We\u2019re done here.",
+                                      "score": 0,
+                                      "created_utc": 1733914265.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1iqrc8",
+                                          "author": "lowbatteries",
+                                          "body": "Goalpost effectively moved, so you win.",
+                                          "score": 5,
+                                          "created_utc": 1733923501.0,
+                                          "replies": [
+                                            {
+                                              "id": "m1jk3ps",
+                                              "author": "ITFOWjacket",
+                                              "body": "My original \u201cgoalpost\u201d was to say\n\n\u201cHey, our smartphones are capable of recording and transcieving personal information, including but not limited to: location, video from the array of cameras, and audio. Any smartphone could be doing one or all of those things at any time. We should be mindful of that.\u201d\n\nThat\u2019s not tin hat stuff. That\u2019s literally what these devices are designed to do and it\u2019s a somewhat dangerous thing. \n\nThat\u2019s all I came to say.",
+                                              "score": 0,
+                                              "created_utc": 1733933862.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "m1n0d7b",
+                                  "author": "Expensive-Apricot459",
+                                  "body": "Installing electrical or whatever system in a hospital doesn\u2019t make you an expert on the engineering or underlying technology that drives it.\n\nThat would be like me saying \u201cI use an iPhone every single day, for pleasure and for work. As a result, that makes me an expert in the engineering that makes the iPhone run.\u201d",
+                                  "score": 3,
+                                  "created_utc": 1733974278.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1fzx1l",
+                  "author": "ToMorrowsEnd",
+                  "body": "a lot of that stuff is fake or way over promised.  remember those companies sold bomb detecting dividing rods to police departments.  And police are extremely stupid to the actual tech so they cant detect BS from real.",
+                  "score": 13,
+                  "created_utc": 1733874912.0,
+                  "replies": []
+                },
+                {
+                  "id": "m20vake",
+                  "author": "SenAtsu011",
+                  "body": "I\u2019ve heard lots of stories from those types of conventions and, despite the tech being extremely cool, it\u2019s utterly terrifying what that technology is capable of. Great to catch illegal activity, but even innocent people need to stay on their toes.",
+                  "score": 2,
+                  "created_utc": 1734189044.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1lhspy",
+                  "author": "throwawayprivateguy",
+                  "body": "In other words, \u201cFuck my friend\u201d?",
+                  "score": 1,
+                  "created_utc": 1733954764.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1edv41",
+              "author": "radicalelation",
+              "body": "I've streamed unauthorized mirrors to have my Roku TV have a pop up telling me where what I'm viewing is available to purchase or rent.",
+              "score": 20,
+              "created_utc": 1733856356.0,
+              "replies": [
+                {
+                  "id": "m1fx3r6",
+                  "author": "nagi603",
+                  "body": "Yep, TVs can fingerprint content and will tattletale back home if able.",
+                  "score": 16,
+                  "created_utc": 1733873909.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1fnvwe",
+                  "author": "Long-Broccoli-3363",
+                  "body": "It catches it on my plex server too",
+                  "score": 4,
+                  "created_utc": 1733870733.0,
+                  "replies": [
+                    {
+                      "id": "m1fypek",
+                      "author": "None",
+                      "body": "I bought an AppleTV for my plex. Great choice and one you should check out!",
+                      "score": 5,
+                      "created_utc": 1733874485.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1g08i1",
+                      "author": "ToMorrowsEnd",
+                      "body": "plex is easy to fix. use an apple TV that blocks their scraping or block the Plex internet service ports to the playback devices.",
+                      "score": 7,
+                      "created_utc": 1733875027.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1ednau",
+              "author": "Objective_Cow_6272",
+              "body": "\u201cYou wouldn\u2019t download a car, would you?\u201d Just came up on an old dvd I was watching, so I bought a 3d printer.",
+              "score": 26,
+              "created_utc": 1733856289.0,
+              "replies": [
+                {
+                  "id": "m1ggeod",
+                  "author": "NuclearLunchDectcted",
+                  "body": "Hell yes I would download a car, and I would in the 90's too if it was possible. Free car!",
+                  "score": 4,
+                  "created_utc": 1733880917.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1io3n6",
+                  "author": "Flipflopvlaflip",
+                  "body": "Obligatory IT crowd: [piracy warning](https://m.youtube.com/watch?v=ALZZx1xmAzg)",
+                  "score": 2,
+                  "created_utc": 1733922370.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1ggqwb",
+              "author": "passwordstolen",
+              "body": "You! Yea the little one by the sofa. Did you pay your 9.99?",
+              "score": 2,
+              "created_utc": 1733881045.0,
+              "replies": []
+            },
+            {
+              "id": "m1hv2p8",
+              "author": "Awkward_Squad",
+              "body": "Oh, shit.",
+              "score": 2,
+              "created_utc": 1733904835.0,
+              "replies": []
+            },
+            {
+              "id": "m1g1e4k",
+              "author": "Jimnyneutron91129",
+              "body": "Just root your phone if that day ever comes",
+              "score": 1,
+              "created_utc": 1733875442.0,
+              "replies": []
+            },
+            {
+              "id": "m1ip97w",
+              "author": "TechnicalVault",
+              "body": "This has already been proven in the UK. IWF had their CSAM block list in place and then the copyright companies got the judge to rule that the IWF's block list was precedent for blocking their copyright material too.",
+              "score": 1,
+              "created_utc": 1733922868.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1e6i5q",
+          "author": "None",
+          "body": "> Now they're trying to blame Apple for CSAM\n\nThe old Helen Lovejoy \"Won't someone think of the children\" rhetoric. \n\nNot much has changed in law enforcement",
+          "score": 55,
+          "created_utc": 1733854083.0,
+          "replies": []
+        },
+        {
+          "id": "m1em55d",
+          "author": "-DementedAvenger-",
+          "body": "Apple shouldn\u2019t be held accountable for what is stored on their service. Sure, they can turn over information that they *have* for suspects and convicts with a warrant, but if a user opts to encrypt everything, they (Apple) shouldn\u2019t be compelled to remove that capability for the rest of us. \n\nCriminals almost always use public roads and the USPS!\u2026perhaps we should take those away too!",
+          "score": 50,
+          "created_utc": 1733858923.0,
+          "replies": [
+            {
+              "id": "m1enqs7",
+              "author": "SenAtsu011",
+              "body": "I agree. If a user of their product does something illegal, it\u2019s completely asinine that Apple should be held accountable. They can\u2019t control their users\u2019 actions anymore than the government can, and we don\u2019t hold them accountable for any crimes unless they were complicit. It\u2019s common sense and logic.",
+              "score": 24,
+              "created_utc": 1733859422.0,
+              "replies": []
+            },
+            {
+              "id": "m1ftjcb",
+              "author": "FireLucid",
+              "body": "> Apple shouldn\u2019t be held accountable for what is stored on their service\n\nThey already check for CSAM. From memory it's by comparing hashes.",
+              "score": 1,
+              "created_utc": 1733872644.0,
+              "replies": [
+                {
+                  "id": "m1fyzcl",
+                  "author": "-DementedAvenger-",
+                  "body": "Officially, they don\u2019t. They dropped those plans after backlash. \n\nUnofficially, they might still do it secretly. \u00af\\\\\\_(\u30c4)_/\u00af",
+                  "score": 7,
+                  "created_utc": 1733874584.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1ida2o",
+              "author": "None",
+              "body": "Criminals use the dark web and burners",
+              "score": 1,
+              "created_utc": 1733916981.0,
+              "replies": []
+            },
+            {
+              "id": "m1flmck",
+              "author": "Omegalazarus",
+              "body": "Where I think it might falter is the downside of the crap that all these companies claim right now and that is the leasing of the software. Remember you buy an Apple iPhone which is the hardware and they lease to you the software. So technically all the software where you store your data is Leased to you and owned by Apple. Therefore I think someone could make a case that Apple might be guilty of obstruction of justice if they don't turn over all access to the software that they own as far as it relates to any specific criminal case with warrants.",
+              "score": 0,
+              "created_utc": 1733869985.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1fu6fj",
+          "author": "soytuamigo",
+          "body": "> I'm fine with Apple providing information in court cases where there is legal reason and basis for them to do so, with a signed court order where all due process and careful considerations have been made to protect any and all potentially affected users. \n\nApple is already doing that, and we shouldn\u2019t support the FBI\u2019s framing that they aren\u2019t. It just so happens that they (allegedly) *can\u2019t* decrypt the iPhone for them without your knowledge and that's what the FBI wants.",
+          "score": 15,
+          "created_utc": 1733872868.0,
+          "replies": []
+        },
+        {
+          "id": "m1fmgcm",
+          "author": "pinkynarftroz",
+          "body": "Look at what happened with the law enforcement back door in 3G. China found it and used it to spy for years.\u00a0",
+          "score": 12,
+          "created_utc": 1733870258.0,
+          "replies": []
+        },
+        {
+          "id": "m1ffsc4",
+          "author": "Solar_Piglet",
+          "body": "Makes me wonder why Android isn't getting this heat....",
+          "score": 16,
+          "created_utc": 1733868087.0,
+          "replies": [
+            {
+              "id": "m1fh5m6",
+              "author": "SenAtsu011",
+              "body": "Apple is always going on about their commitment to customer privacy and data protection, that privacy is a human right. They\u2019ve doubled down so hard on it, much more so than any competitor, and they\u2019re willing to fight a lot harder for those stances, more than any other company I\u2019ve seen. Might be something to do with that.",
+              "score": 28,
+              "created_utc": 1733868530.0,
+              "replies": []
+            },
+            {
+              "id": "m1fxags",
+              "author": "nagi603",
+              "body": "Because, as an Android user, most devices are wildly insecure. Especially cheap, old ones. Also manufacturers have their own spawares installed, their own vendors selling, so it's a sieve.\n\nMeanwhile Apple seems to try to go the way of centralizing the collection and processing of the same telltale behavioural data instead. Not great either, as it STILL gets collected , but when there is only a single vendor that wants to enforce vertical integration, you need less eyes on the companies.",
+              "score": 21,
+              "created_utc": 1733873977.0,
+              "replies": [
+                {
+                  "id": "m1pcqm6",
+                  "author": "GppleSource",
+                  "body": "Google Play Services says \ud83d\udc4b",
+                  "score": 1,
+                  "created_utc": 1734017333.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1ictpn",
+                  "author": "Wingnut13",
+                  "body": "If you use anything Google and think it\u2019s secure\u2026 lol.",
+                  "score": 0,
+                  "created_utc": 1733916713.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1hnji0",
+              "author": "NLight7",
+              "body": "If they add this to android I will root my phone and no one will be able to stop me",
+              "score": 2,
+              "created_utc": 1733900039.0,
+              "replies": []
+            },
+            {
+              "id": "m1k1j6j",
+              "author": "None",
+              "body": "Because everyone already has their hands in Android. The Android software is given to the phone manufacturer, then the phone carrier, before it ends up in your phone. Each of them add in software to track what you do, so they can sell that data. \n\nApple develops their software and then you get it.",
+              "score": 1,
+              "created_utc": 1733939250.0,
+              "replies": []
+            },
+            {
+              "id": "m1hbf7x",
+              "author": "Frostsorrow",
+              "body": "Unlike Apple, I'd wager most Android phone makers are US companies/entities and thus either unreachable as of yet, or not worth it. Also possible that there's just to many different flavours of Android VS the singular iOS.",
+              "score": 1,
+              "created_utc": 1733893518.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1hnf6d",
+          "author": "NLight7",
+          "body": "Same argument that EU is trying to use. Saying the services built in the phone somehow are the reason for child sex abuse, while in fact it is the failure of government to follow up in schools cause they are treating school employees like shit and child protective services are a joke.",
+          "score": 4,
+          "created_utc": 1733899965.0,
+          "replies": []
+        },
+        {
+          "id": "m1fhrmg",
+          "author": "NecroCannon",
+          "body": "Shit like this is why I don\u2019t like Apple being forced to be absolutely open. There\u2019s some things that should be regulated, but it can snowball into something like this, where the data of millions can be leaked and utilized by a 3rd party you don\u2019t want just like the current issue with US telecoms.\n\nThis is why I bought into the walled garden, keep it up Apple.",
+          "score": 13,
+          "created_utc": 1733868726.0,
+          "replies": [
+            {
+              "id": "m1gd9pj",
+              "author": "SenAtsu011",
+              "body": "I agree.\n\nApple are able to maintain their loyalty and their reputation as a fantastic advocate for user privacy, while designing their products for this purpose exactly because of their walled garden. They have a degree of their software and the hardware to a degree that no other company is able to match. We can debate the pros and cons of this until we're blue in the face, but it's undeniable that this aids in security.",
+              "score": 1,
+              "created_utc": 1733879748.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1hxr8l",
+          "author": "RedditLeagueAccount",
+          "body": "Apple is 100% a trash company for many other reasons but I do have to give them the win on data protection.",
+          "score": 3,
+          "created_utc": 1733906686.0,
+          "replies": []
+        },
+        {
+          "id": "m1fjevj",
+          "author": "booppoopshoopdewoop",
+          "body": "This is why after having an android phone for a few years I came back to Apple and never looked back. Because this is principals I\u2019d like to support.",
+          "score": 3,
+          "created_utc": 1733869261.0,
+          "replies": []
+        },
+        {
+          "id": "m1g4665",
+          "author": "Chr0ll0_",
+          "body": "Yep",
+          "score": 1,
+          "created_utc": 1733876452.0,
+          "replies": []
+        },
+        {
+          "id": "m1gcjr6",
+          "author": "One_Doubt_75",
+          "body": "I feel like them protecting their user data is a side effect or their data harvesting practice. By making it so they are the only ones with access to their users data, they make that data more valuable.",
+          "score": 1,
+          "created_utc": 1733879484.0,
+          "replies": []
+        },
+        {
+          "id": "m1i8zzj",
+          "author": "Novenari",
+          "body": "I was never a historical fan of Apple. The opposite, in fact. But I always admired they actually fight for privacy as a corporation and have stuck to it. I never personally found issues with trackers and info on my data, I always felt it was inevitable in a digital world. But it is important to have Apple fight back. Even if your government is decent and democratically elected\u2026 we see that this is no permanent guarantee. Bad independent actors, bad foreign state actors, foreign invasion, your own government being influenced from the outside or becoming corrupt over time or just trending towards fascism or dictatorship\u2026 \n\nWe can never take it for granted, if you are in a free nation, that it will always remain so. Ukraine is being invaded, South Korea had a martial law attempt by the current leader, Russia and China want to spy and influence other nations all the time. Ransomeware. So much crap out there.",
+          "score": 1,
+          "created_utc": 1733914390.0,
+          "replies": [
+            {
+              "id": "m1idr9c",
+              "author": "SenAtsu011",
+              "body": "I feel the same way.\n\nI don't much care about most of my personal information. Who the fuck cares how tall I am or how much I weigh, or that a picture of my face is on the internet, or a forum post I made is out there? No one. It doesn't hurt me in any way. Despite that, it can be SO much worse than what we have now, and only companies like Apple serve as a dam against the floodgates opening. We need more companies to keep data gathering and tracking technologies under control, since they are the ones that elect politicians and tell them what to do.",
+              "score": 2,
+              "created_utc": 1733917257.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1icnn4",
+          "author": "None",
+          "body": "Agree get a warrant, otherwise FO.",
+          "score": 1,
+          "created_utc": 1733916612.0,
+          "replies": []
+        },
+        {
+          "id": "m1iddty",
+          "author": "OptimalMain",
+          "body": "It\u2019s insane.  \nSounds like an awesome way for foreign intelligence agencies to get information from everyone including three letter agencies and politicians unless they have special phones with secure builds",
+          "score": 1,
+          "created_utc": 1733917043.0,
+          "replies": []
+        },
+        {
+          "id": "m1fosau",
+          "author": "drfsupercenter",
+          "body": "Basically Apple doesn't want anyone else getting in on their spying",
+          "score": -4,
+          "created_utc": 1733871031.0,
+          "replies": [
+            {
+              "id": "m1fxy5d",
+              "author": "nagi603",
+              "body": "And so many still don't get it. Despite Apple basically spelling it out time and time again.",
+              "score": -6,
+              "created_utc": 1733874215.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1dqxa3",
+          "author": "nicuramar",
+          "body": ">\u00a0\"Responsibly managed encryption\" oh, you mean encryption that you hold the key to and can do whatever you want with? A key that can easily be leaked?\n\nThey mean the first part, yes, which I, like many others are against. But I don\u2019t agree with the leak part. It\u2019s more nuanced. Sure that can happen but it mostly doesn\u2019t. For instance, Apple has keys to people\u2019s iCloud backup, and those have never leaked. NSA has a backdoor to a random number generator which has never leaked. But of course, the broader the access, the much higher the risk.",
+          "score": -28,
+          "created_utc": 1733849219.0,
+          "replies": [
+            {
+              "id": "m1dzt5o",
+              "author": "YouDoNotKnowMeSir",
+              "body": "Literally every big company has accidentally leaked some shit somehow at least once. You give them too much credit. It literally happens all the time. Whether it\u2019s by bad practices or human error., it happens way more frequent than you\u2019re giving it credit for. Either you\u2019re disingenuous, or you just don\u2019t keep up with the news.",
+              "score": 23,
+              "created_utc": 1733852003.0,
+              "replies": []
+            },
+            {
+              "id": "m1ekrfe",
+              "author": "HeKnee",
+              "body": "As discussed in the article, leaking isnt really the concern.  The concern is foreign governments getting access to the keys.  Once they are available to one, they\u2019re available to all.",
+              "score": 7,
+              "created_utc": 1733858495.0,
+              "replies": []
+            },
+            {
+              "id": "m1edcnn",
+              "author": "SenAtsu011",
+              "body": "If there is one thing the government is infamous for, besides wasteful spending, being utterly incompetent at keeping secrets. They couldn\u2019t even keep secret where the President\u2019s penis has been. Something as huge as a skeleton key to over 2 billion devices will be an instant target and a huge payday on the black market.",
+              "score": 7,
+              "created_utc": 1733856197.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1f893r",
+          "author": "x42f2039",
+          "body": "Are you seriously trying to say that holding your own keys is bad?",
+          "score": -10,
+          "created_utc": 1733865767.0,
+          "replies": [
+            {
+              "id": "m1g5wv6",
+              "author": "corecenite",
+              "body": "No, that's the point of Apple.",
+              "score": 3,
+              "created_utc": 1733877084.0,
+              "replies": []
+            },
+            {
+              "id": "m1gdi1j",
+              "author": "SenAtsu011",
+              "body": "If anyone should have my key, it's me. Not the FBI.",
+              "score": 3,
+              "created_utc": 1733879832.0,
+              "replies": [
+                {
+                  "id": "m1ge9i8",
+                  "author": "x42f2039",
+                  "body": "Which is what Apple lets you do",
+                  "score": -2,
+                  "created_utc": 1733880115.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1cv92m",
+      "author": "martinbean",
+      "body": "I like how they describe iPhones and iOS as \u201cdefectively designed\u201d\u2026 because the security\u2019s _too_ good.",
+      "score": 1253,
+      "created_utc": 1733838252.0,
+      "replies": [
+        {
+          "id": "m1cwewm",
+          "author": "Patrickk_Batmann",
+          "body": "This encryption is defective! There\u2019s no universal key or back door!",
+          "score": 479,
+          "created_utc": 1733838717.0,
+          "replies": [
+            {
+              "id": "m1dwghc",
+              "author": "Faserip",
+              "body": "I tried reading your encrypted data - it was all gibberish!",
+              "score": 24,
+              "created_utc": 1733850956.0,
+              "replies": []
+            },
+            {
+              "id": "m1d2ovl",
+              "author": "pukem0n",
+              "body": "I wonder if they just publicly put up a charade like there is no backdoor while secretly apple gives them free access. Wouldn't put anything past those shady corporations.",
+              "score": 83,
+              "created_utc": 1733841124.0,
+              "replies": [
+                {
+                  "id": "m1d6qp2",
+                  "author": "TerminallyBlitzed",
+                  "body": "Apple does not give them free access, there are many legal court battles to prove this. Even then, they\u2019ve made it impossible for them to unlock it.\n\nHowever, other companies have stepped in and have found ways to get in, such as GreyKey.",
+                  "score": 136,
+                  "created_utc": 1733842589.0,
+                  "replies": [
+                    {
+                      "id": "m1d91wk",
+                      "author": "shawnington",
+                      "body": "Apple had the best argument ever. Sorry bros, even we couldn't unlock it if we wanted to.",
+                      "score": 82,
+                      "created_utc": 1733843392.0,
+                      "replies": [
+                        {
+                          "id": "m1d9sul",
+                          "author": "Starfox-sf",
+                          "body": "And after all that PR bullhorn they ended up using a 3rd party Greyhat outfit and found\u2026 Nothing.",
+                          "score": 39,
+                          "created_utc": 1733843651.0,
+                          "replies": [
+                            {
+                              "id": "m1ddrt3",
+                              "author": "jeepfail",
+                              "body": "Unfathomable that the government would put on a whole horse and pony show for absolutely no end result or anything. Luckily that\u2019s definitely the grandest scale of which they\u2019ve ever done such a thing right?",
+                              "score": 26,
+                              "created_utc": 1733844986.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m1dk7ex",
+                          "author": "None",
+                          "body": "This is why I use Apple products.  Haven't used windows for 15 years.  I work in tech and I've never been hacked.  Although I'll admit 99% of hacking is social engineering and/or clicking on a bad link, not OS related.",
+                          "score": 6,
+                          "created_utc": 1733847090.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m1ft0q6",
+                          "author": "nagi603",
+                          "body": "Do not forget that in the past, courts HAVE ordered companies to produce updates that would nuke protections that defend users from a malicious / co-opted service provider. IT may also come with a gag order, especially in the UK. Some folded to the demands, others folded the company. It's just that this was never for such a large company.\n\nhttps://en.wikipedia.org/wiki/Lavabit",
+                          "score": 1,
+                          "created_utc": 1733872466.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m1dpi2r",
+                      "author": "nicuramar",
+                      "body": "Partial ways, yeah. But those are reliant on exploits that are continuously patched (but also found).",
+                      "score": 6,
+                      "created_utc": 1733848778.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1eei2w",
+                      "author": "Objective_Cow_6272",
+                      "body": "It\u2019s more like judges signing too many warrants prob imo",
+                      "score": 1,
+                      "created_utc": 1733856554.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1d9dta",
+                  "author": "cyberspirit777",
+                  "body": "Apple does actually give them access to iCloud data if they have a warrant, and submit the right request. Data that's encrypted on device can't be shared because Apple does not have the decryption key as it's stored in the SE. However, Apple does forward all of our push notifications to the authorities.",
+                  "score": 28,
+                  "created_utc": 1733843506.0,
+                  "replies": [
+                    {
+                      "id": "m1dpq1o",
+                      "author": "nicuramar",
+                      "body": "iCloud isn\u2019t a singular thing, though, and only some of it can be accessed by Apple. This also depends on whether you switched on advanced data protection, in which case almost nothing can.",
+                      "score": 11,
+                      "created_utc": 1733848848.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1g6wre",
+                      "author": "wiyixu",
+                      "body": "You can optionally encrypt most of iCloud with advanced data protection. It does introduce some user experience issues though so it\u2019s not on by default.\u00a0\n\nhttps://support.apple.com/guide/security/advanced-data-protection-for-icloud-sec973254c5f/web",
+                      "score": 1,
+                      "created_utc": 1733877442.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1d3mj0",
+                  "author": "Starfox-sf",
+                  "body": "Charade. Anyway remember security is a theater, taking your shoes off and letting TSA Agents ~~fondle~~ grope you didn\u2019t actually make things safer by any measure.",
+                  "score": 25,
+                  "created_utc": 1733841470.0,
+                  "replies": [
+                    {
+                      "id": "m1ecziq",
+                      "author": "adamdoesmusic",
+                      "body": "~~grope~~ fucking reverse karate chop your crotch repeatedly and then get angry if you flinch and call a supervisor if you loudly exclaim \u201cyou are SMACKING my testicles, sir, that HURTS.\u201d  \n\n(My recent experience at LAX)",
+                      "score": 5,
+                      "created_utc": 1733856086.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1dumu0",
+                      "author": "ArtOfWarfare",
+                      "body": "Some of it is real, some of it isn\u2019t, and some of it is meant to distract from other real stuff that happens.\n\nIt\u2019s hard to know how to defeat the security when you\u2019re not sure which parts are and aren\u2019t real.\n\nHaving said that, TSA is a completely insane overreaction.",
+                      "score": 3,
+                      "created_utc": 1733850380.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1dpst4",
+                      "author": "nicuramar",
+                      "body": "I\u2019m sure you can back that up with evidence.\u00a0",
+                      "score": -5,
+                      "created_utc": 1733848872.0,
+                      "replies": [
+                        {
+                          "id": "m1dtoz4",
+                          "author": "The_Knife_Pie",
+                          "body": "https://abcnews.go.com/US/exclusive-undercover-dhs-tests-find-widespread-security-failures/story?id=31434881\n\nThe TSA is a non-functional agency that couldn\u2019t protect flights even if there were actually attacks to protect from. Which there\u2019s solid [reason to doubt](https://www.gao.gov/assets/gao-14-159.pdf).",
+                          "score": 11,
+                          "created_utc": 1733850080.0,
+                          "replies": [
+                            {
+                              "id": "m1ecgki",
+                              "author": "Bifferer",
+                              "body": "Why have there been no bombings, shootings, throat slashing since 9/11?\nJust coincidence?",
+                              "score": -5,
+                              "created_utc": 1733855925.0,
+                              "replies": [
+                                {
+                                  "id": "m1el829",
+                                  "author": "The_Knife_Pie",
+                                  "body": "Why were there barely any before 9/11? Just coincidence? No, it\u2019s because most people, including terrorists, aren\u2019t interested. That\u2019s literally the point. It\u2019s all theatre, the TSA looks busy but they are unable to actually find or stop any potential attackers, the only reason it works is because no one wants to.",
+                                  "score": 7,
+                                  "created_utc": 1733858639.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1fpkk5",
+                                      "author": "Bifferer",
+                                      "body": "\u201cbarely any\u201d??\u00a0\nSo how many are ok? You are saying that all this enhanced security has not deterred anyone?\nHow about the changes implemented after Richard Reid? The juice is not worth the squeeze?\n\nOr- just because we haven\u2019t caught anyone in the TSA line with a bomb it is a worthless effort?\u00a0\n\nHow about the plot uncovered in the U.K. in 2006 that led to the restrictions on liquids?\n\nOh- you need to see recent, actual bodies/carnage to be a believer?\n\nI fly often and I don\u2019t know anyone that travels frequently that would do away with enhanced security. Could it be better/smoother? Sure always room for improvement.\n\nPlease don\u2019t tell me you also think the moon landing was faked because you didn\u2019t see it!",
+                                      "score": -1,
+                                      "created_utc": 1733871289.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1h00qs",
+                                          "author": "The_Knife_Pie",
+                                          "body": "If it has deterred is harder to say. I would posit a 95% failure rate, which is the TSA\u2019s margin, to be a pretty horrible deterrence. Airport security is required, but the rules and standards as it exists are not. For example, the only case of liquid or shoe bombs were both caught *before* the rules limiting liquids or taking off shoes were implemented. Who is dissuaded or made safer by an organisation which fails to find 95% of lethal contraband?  No one who was ever seriously considering it.",
+                                          "score": 0,
+                                          "created_utc": 1733888495.0,
+                                          "replies": [
+                                            {
+                                              "id": "m1i9goo",
+                                              "author": "Bifferer",
+                                              "body": "\u201cfails to find 95% of lethal contraband\u201d?\n\nYou are so full of it\ud83d\ude02\n\nI won\u2019t even ask for a source for that statement.\nI wish there was a security free airport because I\u2019d offer to buy you a ticket so you could fly for the second time in your life there because it\u2019s obvious you don\u2019t fly.\nI\u2019m sure you\u2019d decline.",
+                                              "score": 1,
+                                              "created_utc": 1733914686.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m1do6i1",
+                      "author": "TheBestHawksFan",
+                      "body": "Idk man we haven\u2019t had any planes hitting the twin towers since the TSA agents got license to grope",
+                      "score": -8,
+                      "created_utc": 1733848362.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1e0k0o",
+                  "author": "soulless_ape",
+                  "body": "Not apple, but a couple of Israeli companies have all the backdoors needed on their arsenal if you have the money.",
+                  "score": 1,
+                  "created_utc": 1733852235.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1dyfqg",
+                  "author": "EnvironmentalClue218",
+                  "body": "Would be the best way to get \u201ccriminals\u201d to let their guard down.",
+                  "score": 0,
+                  "created_utc": 1733851579.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1d8y88",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 6,
+              "created_utc": 1733843357.0,
+              "replies": [
+                {
+                  "id": "m1dpuze",
+                  "author": "nicuramar",
+                  "body": "It\u2019s both.\u00a0",
+                  "score": 2,
+                  "created_utc": 1733848891.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1fsrwa",
+              "author": "nagi603",
+              "body": "\"Please look to Cisco for how it should be done!\"",
+              "score": 1,
+              "created_utc": 1733872382.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1cvtq4",
+          "author": "Churovy",
+          "body": "It\u2019s just a term they use. We get it in building engineering world too \u201cdefective design\u201d on a building that\u2019s upright and functioning correctly but the contractor needs to complain to get a change order approved.",
+          "score": 59,
+          "created_utc": 1733838484.0,
+          "replies": [
+            {
+              "id": "m1d1pi2",
+              "author": "Patrickk_Batmann",
+              "body": "If the building is not designed to the specifications of the customer, then it is defective. The US government isn\u2019t the customer in this case. Adding a back door to encryption mechanisms is adding a defect. They chose the language they are using on purpose to make what they want sound like the default and Apple is who is straying by not including any mechanism for law enforcement to take a peak.\u00a0",
+              "score": 31,
+              "created_utc": 1733840758.0,
+              "replies": [
+                {
+                  "id": "m1e3kmn",
+                  "author": "TeslaRanger",
+                  "body": "The customer\u2019s specs might not be up to building code. In which case, the customer\u2019s specs are defective. Would a contractor still build it?  Some, probably. That\u2019s going to be a fun court case!  Contractor warned customer it was not to code but built it anyway. Who is at fault?   I\u2019d say both of them for different reasons. Fine them both and make them fix it.",
+                  "score": -4,
+                  "created_utc": 1733853170.0,
+                  "replies": [
+                    {
+                      "id": "m1ez4u7",
+                      "author": "Patrickk_Batmann",
+                      "body": "Does the building code fundamentally reduce the structural robustness of the building?  A building code that accelerates the destruction of the building isn't a very good building code.",
+                      "score": 7,
+                      "created_utc": 1733862972.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1e6mfd",
+          "author": "AmateurishExpertise",
+          "body": "Not even \"too good\", just \"as good as advertised\". \n\nThe ~~KGB~~FBI apparently believes that every business in America should engage in [Honest Services Fraud](https://en.wikipedia.org/wiki/Honest_services_fraud) to benefit the ~~KGB~~FBI.",
+          "score": 16,
+          "created_utc": 1733854121.0,
+          "replies": []
+        },
+        {
+          "id": "m1ecqnf",
+          "author": "ZoraksGirlfriend",
+          "body": "And they get sued for not implementing a technology that basically no one wanted them to use.",
+          "score": 4,
+          "created_utc": 1733856011.0,
+          "replies": [
+            {
+              "id": "m1fvrmg",
+              "author": "nagi603",
+              "body": "Not even get sued. See the [Lavabit](https://en.wikipedia.org/wiki/Lavabit) affair. The CEO gets court ordered, first denied right to discuss with his lawyer, then basically denied any legal representation as a \"3rd party,\" objections will be not even heard and denied but straight up there won't be hearings to decide on them, thus no objections, so no appeal granted as there weren't objections, and if you don't do exactly as they say, contempt of the court plus fines large enough to bankrupt you.",
+              "score": 10,
+              "created_utc": 1733873430.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1ftqf1",
+          "author": "FireLucid",
+          "body": "Maybe the Graybox or whatever it's called doesn't work anymore.",
+          "score": 1,
+          "created_utc": 1733872715.0,
+          "replies": []
+        },
+        {
+          "id": "m1dqt73",
+          "author": "weirdbutinagoodway",
+          "body": "I think they paid someone in FBI off as part of a marketing campaign about their security.\u00a0",
+          "score": -2,
+          "created_utc": 1733849184.0,
+          "replies": []
+        },
+        {
+          "id": "m1dtwlz",
+          "author": "Raztax",
+          "body": "You didn't read the article I see...",
+          "score": -14,
+          "created_utc": 1733850147.0,
+          "replies": [
+            {
+              "id": "m1dvndl",
+              "author": "martinbean",
+              "body": "No, I didn\u2019t read the article. I just completely guessed a phrase instead of quoting it from the article \ud83d\ude44",
+              "score": 10,
+              "created_utc": 1733850699.0,
+              "replies": [
+                {
+                  "id": "m1dw2sq",
+                  "author": "Raztax",
+                  "body": "Except it was not the FBI, the people wanting access, who called the devices defective. So the security being \"too good\" literally had nothing to do with being defective. They were referring to Apple's inability to keep child porn from being stored on their servers.\n\nEdit: sure down vote me because of your inability to comprehend what you just read...",
+                  "score": -11,
+                  "created_utc": 1733850835.0,
+                  "replies": [
+                    {
+                      "id": "m1dyht4",
+                      "author": "flounder19",
+                      "body": "Even then, not actively scanning all of a users photos in order to rat them out to the FBI if it thinks there's a match doesn't strike me as defectively designed",
+                      "score": 11,
+                      "created_utc": 1733851597.0,
+                      "replies": [
+                        {
+                          "id": "m1dz199",
+                          "author": "Raztax",
+                          "body": "I am not arguing if it is defective or not. Just pointing out that it was the FBI wanting backdoor access but it was not the FBI who called the devices defective. Saying it was because \"the security was too good\" is an absolute daft take and completely misrepresents what actually happened.\n\n>in order to rat them out\n\ndefending people who store child porn is not a good look",
+                          "score": -5,
+                          "created_utc": 1733851765.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m1dwbpx",
+                      "author": "martinbean",
+                      "body": "When did I explicitly attribute the quote to the FBI\u2026?\n\n(Spoiler: I didn\u2019t.)",
+                      "score": 3,
+                      "created_utc": 1733850913.0,
+                      "replies": [
+                        {
+                          "id": "m1dx73a",
+                          "author": "Raztax",
+                          "body": "You said it was because \"the security was too good\". \n\nThe security is only too good for one of the 2 groups mentioned in the article but It was not the group trying to access the devices who called them defective...so yes you obviously meant the FBI because the other group mentioned is complaining that the security is **not good enough** to prevent child porn and abuse from being stored on their servers.",
+                          "score": -4,
+                          "created_utc": 1733851189.0,
+                          "replies": [
+                            {
+                              "id": "m1dxqcv",
+                              "author": "martinbean",
+                              "body": "Stop trying to put words in my mouth. Not sure why you\u2019re so butt-hurt.",
+                              "score": 5,
+                              "created_utc": 1733851356.0,
+                              "replies": [
+                                {
+                                  "id": "m1dyk3g",
+                                  "author": "Raztax",
+                                  "body": "I'm not butt hurt, I am just pointing out that your comment clearly showed that you didn't understand the article you were commenting about.",
+                                  "score": -4,
+                                  "created_utc": 1733851617.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1dz560",
+                                      "author": "martinbean",
+                                      "body": "Imagine having self esteem so low you need to try and twist words to try and point out someone on the Internet is wrong. Hope you feel better now, buddy \ud83d\udc4d",
+                                      "score": 5,
+                                      "created_utc": 1733851798.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1inrw3",
+                                          "author": "Raztax",
+                                          "body": "Twisting your words? If that is your take then clearly you need to practice your reading comprehension.",
+                                          "score": 1,
+                                          "created_utc": 1733922228.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1cyox9",
+      "author": "marxcom",
+      "body": "Add \u201cno Forbes articles\u201d to the sub rules.",
+      "score": 423,
+      "created_utc": 1733839613.0,
+      "replies": [
+        {
+          "id": "m1dc4tb",
+          "author": "jereezy",
+          "body": "Forbes is one of the two sites I have blocked from my Google searches.",
+          "score": 85,
+          "created_utc": 1733844437.0,
+          "replies": [
+            {
+              "id": "m1dhxrg",
+              "author": "lil_professor",
+              "body": "what\u2019s the other one?",
+              "score": 18,
+              "created_utc": 1733846351.0,
+              "replies": [
+                {
+                  "id": "m1diz32",
+                  "author": "jereezy",
+                  "body": "Pinterest.",
+                  "score": 53,
+                  "created_utc": 1733846691.0,
+                  "replies": [
+                    {
+                      "id": "m1dww8z",
+                      "author": "whiterice_343",
+                      "body": "Why Pinterest?",
+                      "score": 7,
+                      "created_utc": 1733851094.0,
+                      "replies": [
+                        {
+                          "id": "m1dyon2",
+                          "author": "Flapaflapa",
+                          "body": "Because if you are looking for something you end up with 20 pinterests pointing at each other but no link to the original content.\n\n\nFor example I built a camper shell for my truck based off a guys DIY. Before blocking pinterest my search was flooded with \"oh this is neat\" with the original diy guide 3rd page in. After blocking pinterest it was the 2nd link.",
+                          "score": 64,
+                          "created_utc": 1733851657.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m1e04x7",
+                          "author": "jereezy",
+                          "body": "Because **FUCK** Pinterest.",
+                          "score": 18,
+                          "created_utc": 1733852105.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m1fy0q9",
+                          "author": "nagi603",
+                          "body": "Basically flooded with AI bots now.",
+                          "score": 5,
+                          "created_utc": 1733874241.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1did1e",
+                  "author": "Pengo2001",
+                  "body": "Happy Weekend",
+                  "score": 4,
+                  "created_utc": 1733846488.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1dikgd",
+                  "author": "nero40",
+                  "body": "Macrumors.",
+                  "score": 5,
+                  "created_utc": 1733846557.0,
+                  "replies": [
+                    {
+                      "id": "m1dk7uw",
+                      "author": "hemag",
+                      "body": "is there a better alternative ?",
+                      "score": 2,
+                      "created_utc": 1733847095.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1dryge",
+              "author": "drealph90",
+              "body": "Me too, I block any paywalled site. I've even started blocking this the ones that use shitty AI generated cover photos.",
+              "score": 4,
+              "created_utc": 1733849538.0,
+              "replies": []
+            },
+            {
+              "id": "m1dpzoq",
+              "author": "scify65",
+              "body": "What are you using to block it?",
+              "score": 2,
+              "created_utc": 1733848931.0,
+              "replies": [
+                {
+                  "id": "m1dqzav",
+                  "author": "jereezy",
+                  "body": "uBlacklist",
+                  "score": 3,
+                  "created_utc": 1733849237.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1ds4a0",
+                  "author": "drealph90",
+                  "body": "In the Google app I just tell it not to show content from that site again.",
+                  "score": 1,
+                  "created_utc": 1733849588.0,
+                  "replies": [
+                    {
+                      "id": "m1dujq2",
+                      "author": "surfer808",
+                      "body": "You use Google app to search instead of your browser?",
+                      "score": 2,
+                      "created_utc": 1733850352.0,
+                      "replies": [
+                        {
+                          "id": "m1e9mo7",
+                          "author": "drealph90",
+                          "body": "No I just browse the news articles that the Google app shows. Over the years it has learned my interests and shows me mainly articles that I like. Like I said above it also has the option to exclude certain websites from being shown which I do whenever paywalled. I generally browse through it two or three times a day is every time you refresh it and has mostly new articles",
+                          "score": 0,
+                          "created_utc": 1733855052.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1e1ici",
+              "author": "ThePrussianGrippe",
+              "body": "I haven\u2019t done it only because sometimes I need a hint for NYT Strands and they\u2019re the only ones that don\u2019t immediately spoil the whole thing.",
+              "score": 1,
+              "created_utc": 1733852534.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1d6yhp",
+          "author": "Diggy_Soze",
+          "body": "Dead ass.",
+          "score": 15,
+          "created_utc": 1733842664.0,
+          "replies": []
+        },
+        {
+          "id": "m1ec34z",
+          "author": "rawtendenciez",
+          "body": "Asking out of ignorance- what makes Forbes *that* bad?",
+          "score": 6,
+          "created_utc": 1733855811.0,
+          "replies": [
+            {
+              "id": "m1iuqhq",
+              "author": "defeated_engineer",
+              "body": "There\u2019s pretty strong pipeline from Forbes lists to fraud to jail.",
+              "score": 1,
+              "created_utc": 1733925097.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1djt44",
+          "author": "123kingme",
+          "body": "Can I ask what problem you have with the article? I thought it was actually pretty well written and informative. The author is clearly knowledgeable about privacy policy as well.",
+          "score": 11,
+          "created_utc": 1733846960.0,
+          "replies": []
+        },
+        {
+          "id": "m1dt7og",
+          "author": "andovinci",
+          "body": "What do you mean? Their list of billionaires before 30 yo is a reputable source to show us grifters",
+          "score": 3,
+          "created_utc": 1733849928.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1cyylu",
+      "author": "7in7turtles",
+      "body": "Apple\u2019s stock has been going up and up, oh what terrible news this is for Apple. How dare they not have a special function to let the FBI rummage around on their customers\u2019 devices to phish potentially incriminating content. And if ya disagree you must hate children. This article is either written so well as to say what they actually mean by so ridiculously stating the obvious, or the FBI wrote this themselves and they need to hurry up and finish middle school.",
+      "score": 236,
+      "created_utc": 1733839716.0,
+      "replies": [
+        {
+          "id": "m1d9f1y",
+          "author": "shawnington",
+          "body": "The quickest way to identify someone that wants to do something nefarious, is if any part of their argument is a random \"but think of the children\"",
+          "score": 99,
+          "created_utc": 1733843518.0,
+          "replies": [
+            {
+              "id": "m1deijc",
+              "author": "Nekasus",
+              "body": "Or \"gotta stop terrorists!!\"",
+              "score": 30,
+              "created_utc": 1733845233.0,
+              "replies": [
+                {
+                  "id": "m1djle9",
+                  "author": "bigjayrod",
+                  "body": "Terrorists kill children \n\n*insert Pam from the office meme*",
+                  "score": -9,
+                  "created_utc": 1733846891.0,
+                  "replies": [
+                    {
+                      "id": "m1p7j7p",
+                      "author": "GppleSource",
+                      "body": "You know full well who\u2019s actively killing children, an d it\u2019s not any \u201cterrorist\u201d organization",
+                      "score": 1,
+                      "created_utc": 1734015566.0,
+                      "replies": [
+                        {
+                          "id": "m1pyjp0",
+                          "author": "bigjayrod",
+                          "body": "I guarantee you many people view them as a terrorist organization, just not *your* people.",
+                          "score": 1,
+                          "created_utc": 1734024217.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1dqklf",
+              "author": "nicuramar",
+              "body": "It\u2019s hardly random if it *is* the argument, or directly connected to it, e.g. improve the ability to solve crimes related to, say, CSAM. You may disagree with the argument, but I don\u2019t see how it\u2019s random.\u00a0",
+              "score": -13,
+              "created_utc": 1733849111.0,
+              "replies": [
+                {
+                  "id": "m1f414z",
+                  "author": "reality72",
+                  "body": "You gonna let the government install a camera in your bathroom? Why not? What are you trying to hide? CSAM in your toilet?",
+                  "score": 11,
+                  "created_utc": 1733864471.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1iqsui",
+          "author": "Actual_Specific_476",
+          "body": "Especially iPhone are sold all the world. Does the FBI think they should be able to spy on the private lives of not only it's own citizens but every other country in the world?",
+          "score": 2,
+          "created_utc": 1733923518.0,
+          "replies": [
+            {
+              "id": "m1irmfk",
+              "author": "7in7turtles",
+              "body": "> Does the FBI think they should be able to spy on the private lives of not only its own citizens but every other country in the world?\n\nI know you know they do\u2026",
+              "score": 1,
+              "created_utc": 1733923855.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1fswcu",
+      "author": "MagazineNo2198",
+      "body": "The article is obviously written by a bootlicker.  The FBI or really, ANY law enforcement is NOT entitled to your encrypted data.  FULL STOP.  This \"think if the children\" line is utter bullshit...as if they REALLY cared about protecting children, the Republicans would prosecute the child molesters/human traffickers in Congress!",
+      "score": 24,
+      "created_utc": 1733872424.0,
+      "replies": []
+    },
+    {
+      "id": "m1dbgw4",
+      "author": "Dariaskehl",
+      "body": "It\u2019s not a defect that you can\u2019t access my phone.  \n\nGFY.",
+      "score": 43,
+      "created_utc": 1733844214.0,
+      "replies": []
+    },
+    {
+      "id": "m1d5jwz",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 125,
+      "created_utc": 1733842169.0,
+      "replies": [
+        {
+          "id": "m1dqtet",
+          "author": "Merry_Dankmas",
+          "body": "FBI: We want to have access to everyone's shit to make sure they don't have CP or child abuse on there\n\nFBI: *Proceeds to investigate and attempt to hunt down everything except for CP*",
+          "score": 16,
+          "created_utc": 1733849186.0,
+          "replies": []
+        },
+        {
+          "id": "m1e5ekp",
+          "author": "MooseBoys",
+          "body": "But [think of the children](https://en.wikipedia.org/wiki/Think_of_the_children)!",
+          "score": 13,
+          "created_utc": 1733853736.0,
+          "replies": []
+        },
+        {
+          "id": "m1dw9yx",
+          "author": "Ihaveadogtoo",
+          "body": "Isn\u2019t Kash the guy who wants to fire 99% of his future employees and leave the offices basically empty? I only heard he hates the FBI he wants to take over.",
+          "score": 10,
+          "created_utc": 1733850898.0,
+          "replies": []
+        },
+        {
+          "id": "m1dreli",
+          "author": "DiabloIV",
+          "body": "Apple will give them what they want, if not publicly, then quietly. Digital privacy is a farce in the face of our government.",
+          "score": -5,
+          "created_utc": 1733849368.0,
+          "replies": [
+            {
+              "id": "m1eatfx",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 6,
+              "created_utc": 1733855417.0,
+              "replies": [
+                {
+                  "id": "m1fvd6n",
+                  "author": "Justsomedudeonthenet",
+                  "body": ">surf/search anonymously via VPN's.\n\nAt least some of those VPN services have to be run by government agencies, don't they?",
+                  "score": 1,
+                  "created_utc": 1733873287.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1g6it3",
+              "author": "corecenite",
+              "body": "So weird that they have to get lawsuit about it if they do so, no?",
+              "score": 1,
+              "created_utc": 1733877304.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1d0ptl",
+      "author": "1leggeddog",
+      "body": "oh yeah... the old \"Put a backdoor because of what people MAY do\" reasoning....\n\nwow",
+      "score": 27,
+      "created_utc": 1733840386.0,
+      "replies": [
+        {
+          "id": "m1gv8ga",
+          "author": "Psychobillycadillac1",
+          "body": "So Apple is actually fending off big brother, fuck yeah",
+          "score": 1,
+          "created_utc": 1733886576.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1cx8w9",
+      "author": "AlureonTheVirus",
+      "body": "\u201claw enforcement supports strong, responsibly managed encryption. This encryption should be designed to protect people\u2019s privacy and also managed so U.S. tech companies can provide readable content in response to a lawful court order.\u201d\n\nCompanies should be required to turn over what they have, but they shouldn\u2019t be mandated into making it convenient. Especially at the cost of making their product objectively less safe. I agree that CSAM is an issue, but they should handle that client-side before it\u2019s encrypted and reaches icloud in a way that maintains everyone\u2019s privacy. A backdoor into any system has and always will be a bad idea.",
+      "score": 70,
+      "created_utc": 1733839044.0,
+      "replies": [
+        {
+          "id": "m1d25t0",
+          "author": "SolidOutcome",
+          "body": "Scanning data on either end of the encryption is also negative....no, I don't want my photos scanned, what's the purpose of the encryption of they see it all anyway?",
+          "score": 43,
+          "created_utc": 1733840927.0,
+          "replies": [
+            {
+              "id": "m1d2te6",
+              "author": "AlureonTheVirus",
+              "body": "Apple\u2019s been pushing local AI on iOS hardware lately, you could have a model loaded on your phone that detects CSAM content and prevents you from uploading it to icloud (Or only passes it along unencrypted and open for review, if you wanted to retain cloud functionality) all without any of your data leaving your device without your consent.",
+              "score": -10,
+              "created_utc": 1733841171.0,
+              "replies": [
+                {
+                  "id": "m1d5p8k",
+                  "author": "DerBanzai",
+                  "body": "And how would i know that this \u201eAI\u201c doesn\u2018t flag my girlfriends nudes just because she shaved a bit too well? These companies and the FBI should simply stay out of snooping around in private pictures.\n\nSpend the money going after the producers and distributors of those pictures. Just like the war on drugs, it\u2018s useless to try to find the needle in the haystack with \u201econsumers\u201c.",
+                  "score": 20,
+                  "created_utc": 1733842220.0,
+                  "replies": [
+                    {
+                      "id": "m1d9t8f",
+                      "author": "cyberspirit777",
+                      "body": "Which is funny because this is exactly the issue that Google Photos has run into. Pics of people's kids or baby pictures of themselves have been scanned and found \"in violation\". They think it's CSAM when it could just be a pic of their kid in the tub or potty training lol",
+                      "score": 6,
+                      "created_utc": 1733843654.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1d6rhc",
+                      "author": "AlureonTheVirus",
+                      "body": "I think part of the issue is that for the most part iPhones probably do a lot of the producing. I doubt the FBI is going after apple for hosting organized CSAM traders, it\u2019s likely more of an issue with minors being trafficked or kids sharing way more than they should.\n\nAs for how you guarantee the model doesn\u2019t mess up, I\u2019m not sure. That would be a problem for apple to solve. \n\nI\u2019d say maybe there could be some meet in the middle solution, where if you go to upload content that\u2019s automatically flagged locally, your device would warn you that it breaks ToS, and offer that either you upload the flagged media and have it manually reviewed, or you keep it to yourself. \n\nI\u2019m no expert, I\u2019m just throwing out ideas I guess. But I do think it\u2019s an interesting concept. Privacy and moderation will always be at ends with one another.\n\nEdit: grammar",
+                      "score": -8,
+                      "created_utc": 1733842597.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1d66ci",
+                  "author": "hnh",
+                  "body": "The problem is that you then get all the other countries that mandate a model installed on the phone to detect whatever they deem subversive or inappropriate.  As described in the article, it all breaks once you open the box.",
+                  "score": 20,
+                  "created_utc": 1733842390.0,
+                  "replies": [
+                    {
+                      "id": "m1dr2yv",
+                      "author": "nicuramar",
+                      "body": "That\u2019s true, but they could just as well demand that today. Either way, I don\u2019t think Apple is going in that direction at all.\u00a0",
+                      "score": 1,
+                      "created_utc": 1733849269.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1d7n6d",
+                      "author": "AlureonTheVirus",
+                      "body": "This is true, I think the role of the model would be more to stifle the content being generated and distributed by iPhones. Not to catch and report the people doing the bad stuff. \n\nApple doesn\u2019t have to snitch (and they shouldn\u2019t), but they do need to cover their butt where they can and do the most morally responsible thing. I\u2019m not exactly sure what that might be, but I think there are a plethora of options beyond backdoors.",
+                      "score": -7,
+                      "created_utc": 1733842903.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1dahso",
+          "author": "None",
+          "body": "[removed]",
+          "score": 17,
+          "created_utc": 1733843887.0,
+          "replies": [
+            {
+              "id": "m1dbh5o",
+              "author": "AlureonTheVirus",
+              "body": "It\u2019s not spyware if it\u2019s not reporting on you. It could be as simple as a warning that says \u201cYour device flagged this content as CSAM, as such we won\u2019t allow you to upload it to our servers.\u201d \n\nYou could even implement an appeal system, where users could say \u201cThis isn\u2019t CSAM\u201d and then it would be flagged for manual review, and in the meantime you\u2019d still be capable of sharing your content with others, but it would have the potential to be taken down at some later date. The only time any data would leave your device is when you specifically opt in to the appeal.\n\nApple has every right to refuse uploads if they\u2019re unsafe, but I don\u2019t believe apple should ever have knowledge of what those uploads are.",
+              "score": -11,
+              "created_utc": 1733844216.0,
+              "replies": [
+                {
+                  "id": "m1dct9g",
+                  "author": "shawnington",
+                  "body": "Thats not what the intent is, and once the detection capability is in place they can demand that it start reporting. \n\nWould you pay for a camera that told you not take pictures of things, what if it stopped letting you take pictures of politicians? What is a line you consider to far?",
+                  "score": 10,
+                  "created_utc": 1733844666.0,
+                  "replies": [
+                    {
+                      "id": "m1ddpe4",
+                      "author": "AlureonTheVirus",
+                      "body": "You can take pictures, they\u2019d just be ineligible for upload to iCloud. It\u2019s in Apple\u2019s best interest to not harbor CSAM. Not only is it against the law, it\u2019s a terrible reputation to uphold.\n\nHow should the problem be tackled instead? Apple doesn\u2019t roll over to the feds, keeps collecting and distributing CSAM in a way that keeps them willfully ignorant. What then? There\u2019s still a CSAM problem.",
+                      "score": -11,
+                      "created_utc": 1733844964.0,
+                      "replies": [
+                        {
+                          "id": "m1eegzg",
+                          "author": "juliown",
+                          "body": "It\u2019s a terrible reputation to provide encrypted remote data storage?",
+                          "score": 6,
+                          "created_utc": 1733856545.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1d4amp",
+          "author": "Temetka",
+          "body": "How about they just turn over the encrypted data and let the government figure out how to crack it?\n\nPersonally I don\u2019t they should even do that.",
+          "score": 6,
+          "created_utc": 1733841715.0,
+          "replies": []
+        },
+        {
+          "id": "m1d9nfv",
+          "author": "aphaits",
+          "body": "Managed encryption = Managed democracy",
+          "score": 6,
+          "created_utc": 1733843599.0,
+          "replies": []
+        },
+        {
+          "id": "m1dlf8r",
+          "author": "123kingme",
+          "body": "Per the article:\n\n> As I commented at that time, the issue is not scanning for CSAM, the issue is introducing screening of any content on one side of Apple\u2019s end-to-end encryption. Right now, Apple can tell China, Russia and others that it does not have the technology to monitor for political dissent or religious or sexual behaviors, but bring in a backdoor for CSAM and there\u2019s no impediment to its expansion.\n\nI was initially in favor of Apple\u2019s proposed solution to scanning for hashes of CSAM, but this counter argument has led me to change my mind. \n\nWhat\u2019s stopping a country like Saudi Arabia to demand that Apple checks for images of the prophet Muhammad? \n\nOr countries such as Russia to demand checks for homosexual content?\n\nOr countries like China demanding checks for \u201canti Chinese-state propaganda\u201d, such as images of Tiananmen square?\n\nIt\u2019s a slippery slope argument, but it\u2019s a valid one in my opinion. Especially given that the proposed hash checking solution is already easily countered by watermarks, image cropping, image compression, and other basic methods. It\u2019s simply not worth the risk.",
+          "score": 8,
+          "created_utc": 1733847483.0,
+          "replies": [
+            {
+              "id": "m1fuj5t",
+              "author": "FireLucid",
+              "body": ">  Apple\u2019s proposed solution\n\nI was under the impression this has already been in place for years. Also can't they just tell SA to bugger off since the iCloud servers are in the US?",
+              "score": 0,
+              "created_utc": 1733872992.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1eor81",
+          "author": "Solgrund",
+          "body": "I thought Apple already complied with valid court orders. That quotes does not mean the government needs a back door if the company is willing to do what they are lawfully required to do (which Apple does I thought). \n\nTypically government quote I suppose.",
+          "score": 1,
+          "created_utc": 1733859735.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1cud5h",
+      "author": "Estrava",
+      "body": ">According to the filing lawyers, the class action is \u201con behalf of thousands of survivors of child sexual abuse for \\[Apple\\] knowingly allowing the storage of images and videos documenting their abuse on iCloud and the company\u2019s defectively designed products. The lawsuit alleges that Apple has known about this content for years, but has refused to act to detect or remove it, despite developing advanced technology to do so.\u201d\n\n>The claims relate to Apple\u2019s proposal to scan on-device imagery for known child sexual abuse material (CSAM) before its upload to iCloud, using hashes of known images to flag matches on phones for manual review. An unsurprising backlash followed, and Apple withdrew its proposal before it was ever released.",
+      "score": 28,
+      "created_utc": 1733837894.0,
+      "replies": [
+        {
+          "id": "m1cwa02",
+          "author": "Patrickk_Batmann",
+          "body": "The argument for weakening encryption is always \u201cwon\u2019t you think of the children\u201d. There are a thousand other ways the US government could help children without compromising the privacy of everyone with a mobile phone.\u00a0 Just last week the FBI told everyone to use encryption for all of their communications because China has a clear view of all information traveling through the major cell carrier networks. Build a back door and someone unauthorized is going to use it eventually.\u00a0",
+          "score": 98,
+          "created_utc": 1733838663.0,
+          "replies": [
+            {
+              "id": "m1cx9le",
+              "author": "Tokishi7",
+              "body": "It is how they\u2019re trying to pass the EARN IT act as well. Politicians sure love a police state",
+              "score": 22,
+              "created_utc": 1733839052.0,
+              "replies": []
+            },
+            {
+              "id": "m1cyihp",
+              "author": "Legitimate_Drive_693",
+              "body": "This isn\u2019t about weakening encryption\u2014it\u2019s performing a basic hash check against a database of known images before they are uploaded and backed up to the cloud. It\u2019s similar to running a virus scan on a file before uploading it, but for a different purpose. Moreover, obtaining the hash value of an image doesn\u2019t reveal its contents.",
+              "score": -21,
+              "created_utc": 1733839544.0,
+              "replies": [
+                {
+                  "id": "m1d2801",
+                  "author": "gruesnack",
+                  "body": "Hey, found the fed! But seriously, any form of client side scanning and data exfiltration breaks end to end encryption.",
+                  "score": 12,
+                  "created_utc": 1733840950.0,
+                  "replies": [
+                    {
+                      "id": "m1d54hb",
+                      "author": "Legitimate_Drive_693",
+                      "body": "If they are doing a public private key pair using the public k key to encrypt it, then doing the hash and using the publicly key again to encrypt the ones on the database. That would allow it to stay secure but only allow the owner of the private key to see the contents. But not allowing the feds to see it.",
+                      "score": -7,
+                      "created_utc": 1733842016.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1d7jr9",
+                  "author": "DorianGre",
+                  "body": "Bullshit. They don't need to hash anything. Next it will include images of Tiananmen Square, then any unflattering picture of Trump. This is a solution looking for a problem.",
+                  "score": 5,
+                  "created_utc": 1733842869.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1d5sk4",
+                  "author": "gomicao",
+                  "body": "Screw it, maybe the feds can be the only people to run cloud services then... why not... why not let them scan every file you have on your PC too... poor and pirated music. movies or games? Debtors prison... Images that match memes that call out government corruption? Straight to black sites...   \n  \nSee how the slippery slope works? You DO NOT want the government to have unfettered access to your data if you can help it... or at least make them put in some work to do it. And it isn't only people in the US would would be suffering.",
+                  "score": 8,
+                  "created_utc": 1733842254.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1d12pj",
+              "author": "joeg26reddit",
+              "body": "They issued a general warning which pertained to specific people \n\nThe Chinese were probably looking for specific people to be warned for reasons",
+              "score": -6,
+              "created_utc": 1733840521.0,
+              "replies": [
+                {
+                  "id": "m1d3eo6",
+                  "author": "Patrickk_Batmann",
+                  "body": "They literally told everyone in the US to start using encrypted texts and calls. The hackers are probably targeting specific people, but they cast a very wide net to do so. They were able to cast such a wide net because of mechanisms that were built in to allow US law enforcement to do the same.",
+                  "score": 8,
+                  "created_utc": 1733841389.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1d14o0",
+          "author": "coldafsteel",
+          "body": "Under NSD42, the federal government already has access to all this information. But it\u2019s a ton of work to get get at. Law Enforcement wants an easy button (a horrible idea).",
+          "score": 8,
+          "created_utc": 1733840541.0,
+          "replies": []
+        },
+        {
+          "id": "m1czraj",
+          "author": "djamp42",
+          "body": "If they can search personal accounts for bad stuff. \n\nThey can search fortune 500 accounts for bad stuff. \n\nI feel like cloud might have a rude awakening in the next decade.",
+          "score": 10,
+          "created_utc": 1733840026.0,
+          "replies": [
+            {
+              "id": "m1d138x",
+              "author": "jopnk",
+              "body": "Sure, they could search Fortune 500 companies for bad stuff, but they won\u2019t",
+              "score": 10,
+              "created_utc": 1733840526.0,
+              "replies": [
+                {
+                  "id": "m1d21dc",
+                  "author": "djamp42",
+                  "body": "If the company that is hosting the files have access to them, it's only a matter of time before someone accesses them. Either directly, hack, leak.\n\nThe only way you can guarantee that it won't happen is if you have no way to view them because they are encrypted and you have no backdoor.",
+                  "score": 3,
+                  "created_utc": 1733840881.0,
+                  "replies": [
+                    {
+                      "id": "m1d3cme",
+                      "author": "jopnk",
+                      "body": "I assumed you were referring to gov investigation my bad",
+                      "score": 1,
+                      "created_utc": 1733841367.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1drih5",
+          "author": "nicuramar",
+          "body": "Their statement it correct that in a sense Apple knowingly (or at least suspectedly) allows this. But that doesn\u2019t mean it wrong to do so when you weigh it against the alternative.\u00a0",
+          "score": 2,
+          "created_utc": 1733849402.0,
+          "replies": []
+        },
+        {
+          "id": "m1d0p0k",
+          "author": "joeg26reddit",
+          "body": "Is it not inconceivable a RICO charge can be made if defendants have systemic historical knowledge of crimes being committed and continuing criminal activity which they do not do as much as possible to stop?",
+          "score": -3,
+          "created_utc": 1733840377.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1dtb3g",
+      "author": "RodneyRuxin18",
+      "body": "I\u2019m so tired of this. Using children as an excuse to be able to spy on all people using an iPhone. Just insanity.",
+      "score": 19,
+      "created_utc": 1733849958.0,
+      "replies": []
+    },
+    {
+      "id": "m1d8xbf",
+      "author": "Zealousideal_Cup4896",
+      "body": "After the police back door into the phone system has been revealed to have been in use by the Chinese for years you\u2019d think we would demand not to have back doors. I\u2019m sure it will work fine this time.",
+      "score": 16,
+      "created_utc": 1733843348.0,
+      "replies": []
+    },
+    {
+      "id": "m1cuef8",
+      "author": "waloshin",
+      "body": "Aww the fbi wants a back door. I can only imagine how many android has.",
+      "score": 80,
+      "created_utc": 1733837909.0,
+      "replies": [
+        {
+          "id": "m1cy3i0",
+          "author": "CoastingUphill",
+          "body": "Yeah, you never hear them complaining about Google or Samsung.",
+          "score": 37,
+          "created_utc": 1733839378.0,
+          "replies": [
+            {
+              "id": "m1n85q5",
+              "author": "Deferty",
+              "body": "Main reason why I own an iPhone",
+              "score": 2,
+              "created_utc": 1733977600.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1epy53",
+          "author": "jxjftw",
+          "body": "They want access to icloud's encrypted photo storage, google does not offer encrypted photo storage in the cloud.",
+          "score": 5,
+          "created_utc": 1733860104.0,
+          "replies": []
+        },
+        {
+          "id": "m1da0zo",
+          "author": "ar34m4n314",
+          "body": "Most Android manufactures don't care about security, it adds cost and is hard. Pixel phones have comparably strong hardware-backed protections the the Iphone. If you really want the best install GrapheneOS on a Pixel device, no Google by default and significant hardening against various exploit classes. It's built off the open-source version of Android if you are worried about backdoors.",
+          "score": 7,
+          "created_utc": 1733843727.0,
+          "replies": [
+            {
+              "id": "m1dxho3",
+              "author": "PM_ME_UR_BEWDs",
+              "body": "I think that if you consider Google a security risk, buying hardware from them *at all*, regardless of what *software* you use, is totally foolish. They still make the firmware for your device and the silicon, even if you replace the software.",
+              "score": 7,
+              "created_utc": 1733851280.0,
+              "replies": [
+                {
+                  "id": "m1g58ll",
+                  "author": "ar34m4n314",
+                  "body": "Sure, you can never verify the hardware, so you have to trust how it was manufactured and the supply chain. But who else would you trust? Everything else is worse. It is about degrees of security, there is nothing absolute.",
+                  "score": 2,
+                  "created_utc": 1733876840.0,
+                  "replies": [
+                    {
+                      "id": "m1gaiso",
+                      "author": "PM_ME_UR_BEWDs",
+                      "body": "The point is that google here is fully integrated. So if you don't trust their software, you should also not trust their hardware or firmware. If it were a different manufacturer, e.g. samsung, that would be different. Six of one, half dozen of the other though.",
+                      "score": 0,
+                      "created_utc": 1733878746.0,
+                      "replies": [
+                        {
+                          "id": "m1gmo2c",
+                          "author": "ar34m4n314",
+                          "body": "And why would I trust Samsung more? I don't understand how that helps anything. Now I have to trust Samsung (phone) and Google (OS) and Qualcom (chip), and I don't get to see the OS sourse code. Also Samsung doesn't implement proper hardware security with verified boot and hardware root of trust. So every security property is worse.\n\nI don't have any special distrust of Google more than anyone else. I want to minimise my attack surface, and run trusted code. Hardware backdoors are a risk regardless and there is basically nothing you can do about it. Unless you want to build your own CPU by hand with discrite transistors and write your own OS and applications from scratch, you will have to trust someone at some point.",
+                          "score": 2,
+                          "created_utc": 1733883285.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1dr9r6",
+          "author": "nicuramar",
+          "body": "Android itself doesn\u2019t have any, almost certainly. It\u2019s open source and looked at by a lot of people.\u00a0",
+          "score": -5,
+          "created_utc": 1733849327.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1cyxg3",
+      "author": "LupusDeusMagnus",
+      "body": "The FBI is starting to sound like the CCP.",
+      "score": 30,
+      "created_utc": 1733839704.0,
+      "replies": [
+        {
+          "id": "m1eqqk7",
+          "author": "Innercepter",
+          "body": "\u201cStarting?\u201d",
+          "score": 2,
+          "created_utc": 1733860347.0,
+          "replies": []
+        },
+        {
+          "id": "m1h2oxp",
+          "author": "Agile_Cash7136",
+          "body": "*gestapo",
+          "score": 1,
+          "created_utc": 1733889603.0,
+          "replies": []
+        },
+        {
+          "id": "m1d24jp",
+          "author": "KetamineStalin",
+          "body": "The Community College of Philadelphia?",
+          "score": -8,
+          "created_utc": 1733840914.0,
+          "replies": [
+            {
+              "id": "m1d6jvp",
+              "author": "Buzzkid",
+              "body": "They obviously meant Christians Consuming Pornography.",
+              "score": 4,
+              "created_utc": 1733842522.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1du08b",
+      "author": "SlurReal",
+      "body": "lol \u201cwe recommend using only encrypted communications because the Chinese have infiltrated through the telecom back door we mandated for government access and we do not recommend using this defective iOS because it is encrypted without any back door for government access\u201d",
+      "score": 12,
+      "created_utc": 1733850180.0,
+      "replies": []
+    },
+    {
+      "id": "m1gwyo2",
+      "author": "Aleyla",
+      "body": "> As The New York Times explains, \u201cthe lawsuit is the second of its kind against Apple, but its scope and potential financial impact could force the company into a years long litigation process over an issue it has sought to put behind it.    \n   \nNeither Apple nor anyone else on the damned planet expected the US government to back down.  This type of attack will be on repeat until the Feds win.  Apple, and any tech company worth a damn, will be fighting this tooth and nail forever.",
+      "score": 6,
+      "created_utc": 1733887263.0,
+      "replies": []
+    },
+    {
+      "id": "m1e9nfa",
+      "author": "Ryked96",
+      "body": "\u201cWe just got alerted that the major telecom companies were breached, let\u2019s put more backdoors in!\u201d -The FBI",
+      "score": 4,
+      "created_utc": 1733855059.0,
+      "replies": []
+    },
+    {
+      "id": "m1fmtc9",
+      "author": "zeiche",
+      "body": "it is as if our telephone system, which as far as i know definitely HAS backdoors, isn\u2019t under attack at this very moment. and they\u2019re asking for the same thing for our phones.",
+      "score": 5,
+      "created_utc": 1733870377.0,
+      "replies": []
+    },
+    {
+      "id": "m1h0tc2",
+      "author": "cancercureall",
+      "body": "Given our *CURRENT EVENTS* where our ethically questionable government backdoors are now also china's backdoors I strongly stand with any company who refuses to comply and I hope they challenge this in court. I hope they win. I hope our government backs down and grows some fucking brains.",
+      "score": 4,
+      "created_utc": 1733888819.0,
+      "replies": []
+    },
+    {
+      "id": "m1dhznw",
+      "author": "llehctim3750",
+      "body": "The FBI doesn't like your right to privacy.",
+      "score": 10,
+      "created_utc": 1733846368.0,
+      "replies": [
+        {
+          "id": "m1grd0h",
+          "author": "Ali-Sama",
+          "body": "I don't believe we have a right to privacy",
+          "score": 0,
+          "created_utc": 1733885078.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1d2yyv",
+      "author": "20milliondollarapi",
+      "body": "If the government can access it, someone else was able to access it months or even years before.",
+      "score": 5,
+      "created_utc": 1733841227.0,
+      "replies": []
+    },
+    {
+      "id": "m1dlmco",
+      "author": "njconnect",
+      "body": "FBI must not have better business to attend to clearly",
+      "score": 2,
+      "created_utc": 1733847546.0,
+      "replies": []
+    },
+    {
+      "id": "m1ej17o",
+      "author": "lightdork",
+      "body": "So signal and we chat are compromised.  Seems like apples cloud is way more secure than they want.  This is my take.",
+      "score": 6,
+      "created_utc": 1733857957.0,
+      "replies": [
+        {
+          "id": "m1fm5d3",
+          "author": "funnyandnot",
+          "body": "That is exactly it. I understand abuse victims. But the thing is the only that can access an iCloud is the account holder. Apple does not access or scan people\u2019s devices or photos. It would be a massive breach of privacy. If we let go of our privacy due to bad actors, we cannot get it back. And we already have very limited privacy in an age of government surveillance.\n\nOnce the door is open, no one\u2019s photos or privacy will be secure. And once open, those photos safely stored in iCloud that no one can access will now be less secure and someone will find a way to access them, and if they are bad people will then be able to publish those images, making the situation worse. \n\nSorry, but my fear over what my abusive family has on their iCloud, does not out weigh my desire for my encrypted data on iCloud remaining private and secure.",
+          "score": 4,
+          "created_utc": 1733870159.0,
+          "replies": []
+        },
+        {
+          "id": "m1hjjvj",
+          "author": "Ironxgal",
+          "body": "WeChat was never secure. Apple complies with the appropriate warrants as do most tech companies in the US.. If you want privacy these days, u can\u2019t put that on anything connected to someone\u2019s cloud. It\u2019s literally sitting on someone\u2019s computer.",
+          "score": 2,
+          "created_utc": 1733897730.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1d4a4w",
+      "author": "Terrible_Truth",
+      "body": "\u201cThink of the children\u201d they say when trying to strong arm Apple. \n\nMeanwhile school shootings:",
+      "score": 12,
+      "created_utc": 1733841710.0,
+      "replies": [
+        {
+          "id": "m1ddtrl",
+          "author": "ThunderBobMajerle",
+          "body": "Think of the arms manufacturers share price",
+          "score": 4,
+          "created_utc": 1733845004.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1deq1o",
+      "author": "Colonel_Moopington",
+      "body": "There's no way Law Enforcement would ever misuse encryption back doors. /s",
+      "score": 8,
+      "created_utc": 1733845302.0,
+      "replies": []
+    },
+    {
+      "id": "m1e84vt",
+      "author": "Golddustofawoman",
+      "body": "This excuse of monitoring for csam is a bullshit guilt trip. \"SoMeOne PlEaSe tHiNk oF tHe chILDReN!\" It's not about the children and it never was.",
+      "score": 9,
+      "created_utc": 1733854593.0,
+      "replies": []
+    },
+    {
+      "id": "m1esqdv",
+      "author": "AceTracer",
+      "body": "FBI: we want access to your stuff\n\nAlso FBI: use encryption to prevent other governments from accessing your stuff",
+      "score": 7,
+      "created_utc": 1733860969.0,
+      "replies": []
+    },
+    {
+      "id": "m1d7ygk",
+      "author": "simulacrotron",
+      "body": "Forbes is trash. None of these things have anything to do with the other.",
+      "score": 7,
+      "created_utc": 1733843012.0,
+      "replies": [
+        {
+          "id": "m1dsenk",
+          "author": "flyakker",
+          "body": "Thank you, I was looking for a comment that would let me know this before wasting my time reading a a scare clickbait article",
+          "score": 3,
+          "created_utc": 1733849677.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1degw5",
+      "author": "Bakedfresh420",
+      "body": "So make sure not to miss this update, gotcha",
+      "score": 3,
+      "created_utc": 1733845218.0,
+      "replies": []
+    },
+    {
+      "id": "m1e5gqt",
+      "author": "Andsot",
+      "body": "Just wait a couple months until Trump takes office and shuts down the FBI like he wants to lol",
+      "score": 3,
+      "created_utc": 1733853755.0,
+      "replies": []
+    },
+    {
+      "id": "m1flhzk",
+      "author": "symean",
+      "body": "How is this any different than say requiring every household to have a door lock that also accepts a \u2018police key\u2019 of some sort? You don\u2019t screw all of society over something because a few bad people misused it.",
+      "score": 3,
+      "created_utc": 1733869944.0,
+      "replies": []
+    },
+    {
+      "id": "m1dfjq8",
+      "author": "Amadeus_1978",
+      "body": "Isn\u2019t the whole back door thing why the Chinese government has root level access to our entire telecommunications system? Something that the house has already pledged 10 billion dollars to start fixing?",
+      "score": 7,
+      "created_utc": 1733845573.0,
+      "replies": []
+    },
+    {
+      "id": "m1dja2s",
+      "author": "Kevin_Jim",
+      "body": "I would wear that as a badge of honor.",
+      "score": 2,
+      "created_utc": 1733846790.0,
+      "replies": []
+    },
+    {
+      "id": "m1fqojg",
+      "author": "unluckyexperiment",
+      "body": "These kind of news (about any kind of security product) are created just to make people have false sense of security while using the so called \"government resistant encryption\".\n\nAs long as your operating system and/or your application are close sourced, none of this means anything. We have simply no idea what the close source software of apple, ms, google, etc are doing in the background.",
+      "score": 2,
+      "created_utc": 1733871661.0,
+      "replies": []
+    },
+    {
+      "id": "m1gnlpr",
+      "author": "THEMACGOD",
+      "body": "I love that Apple, despite the money they could make like google/android, continue to be pioneers in privacy. \n\nNow\u2019s a good time to turn on [advanced data protection](https://support.apple.com/en-us/108756) if you haven\u2019t.",
+      "score": 2,
+      "created_utc": 1733883643.0,
+      "replies": []
+    },
+    {
+      "id": "m1gqn1c",
+      "author": "Yamothasunyun",
+      "body": "Sounds like all of this is just so that the government has access to Apple users personal data",
+      "score": 2,
+      "created_utc": 1733884805.0,
+      "replies": []
+    },
+    {
+      "id": "m1idxk8",
+      "author": "benjaminlilly",
+      "body": "Remember Promis. /s",
+      "score": 2,
+      "created_utc": 1733917357.0,
+      "replies": []
+    },
+    {
+      "id": "m1jbcxc",
+      "author": "sparemethebull",
+      "body": "\u201cWe can\u2019t get in to spy on apple users?? Quick, accuse them of EVERYTHING!!!\u201d",
+      "score": 2,
+      "created_utc": 1733931055.0,
+      "replies": []
+    },
+    {
+      "id": "m1jos40",
+      "author": "jmartin2683",
+      "body": "Own your own keys, kids",
+      "score": 2,
+      "created_utc": 1733935328.0,
+      "replies": []
+    },
+    {
+      "id": "m1cztpu",
+      "author": "yARIC009",
+      "body": "Sorry, freedom does come at a cost and part of that cost is allowing crazy people to do shit ya don\u2019t like sometimes.",
+      "score": 4,
+      "created_utc": 1733840051.0,
+      "replies": []
+    },
+    {
+      "id": "m1cx1a8",
+      "author": "EfficientAccident418",
+      "body": "Apple tried to implement a service that would scan iCloud for these types of images and everyone lost their shit so they dropped it",
+      "score": 3,
+      "created_utc": 1733838962.0,
+      "replies": []
+    },
+    {
+      "id": "m1d3oej",
+      "author": "MagickMichael",
+      "body": "An interesting take on the subject.\n\n[https://www.youtube.com/watch?v=VPBH1eW28mo](https://www.youtube.com/watch?v=VPBH1eW28mo)",
+      "score": 1,
+      "created_utc": 1733841489.0,
+      "replies": []
+    },
+    {
+      "id": "m1dg2am",
+      "author": "ErgoProxy0",
+      "body": "I\u2019m a little confused. Does Cellebrite no longer work with iPhones or something? Or do they just want an easier way into phones",
+      "score": 1,
+      "created_utc": 1733845741.0,
+      "replies": [
+        {
+          "id": "m1e1hj4",
+          "author": "AgtFranks",
+          "body": "New iOS if the phone is not unlocked in 3 days it reboots basically locking encryption keys to apples secure chip.\n\nhttps://applescoop.org/story/the-apple-ios-18-feature-that-is-frustrating-law-enforcement-agencies",
+          "score": 5,
+          "created_utc": 1733852527.0,
+          "replies": []
+        },
+        {
+          "id": "m1e1jox",
+          "author": "AgtFranks",
+          "body": "New iOS if the phone is not unlocked in 3 days it reboots basically locking encryption keys to apples secure chip",
+          "score": 3,
+          "created_utc": 1733852545.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1dl3u4",
+      "author": "Pergaminopoo",
+      "body": "Fack off FBI",
+      "score": 1,
+      "created_utc": 1733847381.0,
+      "replies": []
+    },
+    {
+      "id": "m1dleot",
+      "author": "GreatRedNorth",
+      "body": "it's still a crap KIA",
+      "score": 1,
+      "created_utc": 1733847478.0,
+      "replies": []
+    },
+    {
+      "id": "m1dp85t",
+      "author": "bigenderthelove",
+      "body": "Why, cause they can\u2019t back door?",
+      "score": 1,
+      "created_utc": 1733848692.0,
+      "replies": []
+    },
+    {
+      "id": "m1e2ohc",
+      "author": "nobodyperson",
+      "body": "This is just another obvious honeypot encouraging \"smart\" bad guys to think i-phones will be secure, when in fact they will never be secure.",
+      "score": 1,
+      "created_utc": 1733852895.0,
+      "replies": [
+        {
+          "id": "m1eu5d9",
+          "author": "rourobouros",
+          "body": "Never were?",
+          "score": 1,
+          "created_utc": 1733861420.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1ecv74",
+      "author": "CoganZero",
+      "body": "wow thats crazytst",
+      "score": 1,
+      "created_utc": 1733856049.0,
+      "replies": []
+    },
+    {
+      "id": "m1esplj",
+      "author": "yaboyebeatz",
+      "body": "I got 3 emails today from Apple regarding how to protect my privacy on my phone. Same email, 3 different times lol.",
+      "score": 1,
+      "created_utc": 1733860962.0,
+      "replies": []
+    },
+    {
+      "id": "m1f4lfx",
+      "author": "StrangeAssonance",
+      "body": "The irony is rich that the US wants to ban Chinese companies because they say the Chinese government has access to data but then the US government wants to do that with Apple.\n\nI\u2019m shaking my head at it all. No thanks to having a back door into my iPhone.",
+      "score": 1,
+      "created_utc": 1733864646.0,
+      "replies": []
+    },
+    {
+      "id": "m1ftnr2",
+      "author": "soytuamigo",
+      "body": "That lawsuit is suspicious... to say the least.",
+      "score": 1,
+      "created_utc": 1733872689.0,
+      "replies": []
+    },
+    {
+      "id": "m1gnxqo",
+      "author": "Roqjndndj3761",
+      "body": "Oh good we\u2019re outlawing math again.",
+      "score": 1,
+      "created_utc": 1733883770.0,
+      "replies": []
+    },
+    {
+      "id": "m1haw1o",
+      "author": "_RADIANTSUN_",
+      "body": "THE iPHONE IS MADE BY APPLE????",
+      "score": 1,
+      "created_utc": 1733893266.0,
+      "replies": []
+    },
+    {
+      "id": "m1hbkhw",
+      "author": "Frostsorrow",
+      "body": "Should be an interesting court case. Who gives up first the US government or Apple's effectively bottomless wallet.",
+      "score": 1,
+      "created_utc": 1733893587.0,
+      "replies": [
+        {
+          "id": "m1i7zbu",
+          "author": "aguynamedbrand",
+          "body": "Who do you think prints all the money in Apple\u2019s \u201ceffectively bottomless wallet\u201d",
+          "score": 1,
+          "created_utc": 1733913736.0,
+          "replies": [
+            {
+              "id": "m1i860h",
+              "author": "guareber",
+              "body": "Can't just print money endlessly without consequences, though.\n\nUnless you're Apple, I mean.",
+              "score": 1,
+              "created_utc": 1733913857.0,
+              "replies": []
+            },
+            {
+              "id": "m1iu625",
+              "author": "LoopsAndBoars",
+              "body": "Boeing. \n\nIt wasn\u2019t always this way. We have become all we despised about \u201ccommunism\u201d during the Cold War. \n\nNot a single lesson learned when the Soviet Union fell, evidentially.",
+              "score": 1,
+              "created_utc": 1733924874.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1hi9jj",
+      "author": "daj0412",
+      "body": "looks like a bigger threat than tiktok..",
+      "score": 1,
+      "created_utc": 1733897025.0,
+      "replies": []
+    },
+    {
+      "id": "m1i8um3",
+      "author": "Specialsthespazzing",
+      "body": "Sue the FBI?",
+      "score": 1,
+      "created_utc": 1733914297.0,
+      "replies": []
+    },
+    {
+      "id": "m1j6udt",
+      "author": "windude99",
+      "body": "\u201ciMaker\u201d cringe as usual from Forbes",
+      "score": 1,
+      "created_utc": 1733929546.0,
+      "replies": []
+    },
+    {
+      "id": "m1jyvsp",
+      "author": "EducationallyRiced",
+      "body": "So it is not legal to have a single bit of online privacy in the USA ?",
+      "score": 1,
+      "created_utc": 1733938439.0,
+      "replies": []
+    },
+    {
+      "id": "m1ngaky",
+      "author": "Art_by_Nabes",
+      "body": "I'm still on IOS 14",
+      "score": 1,
+      "created_utc": 1733981432.0,
+      "replies": []
+    },
+    {
+      "id": "m1rjcfk",
+      "author": "xpen25x",
+      "body": "For those upset about this should already know how to communicate without needing encryption.  Don't use a phone. Don't broadcast over the airwaves communicate in public and in person. If you must then learn to communicate in a changing code",
+      "score": 1,
+      "created_utc": 1734041851.0,
+      "replies": []
+    },
+    {
+      "id": "m1d6iz9",
+      "author": "acuet",
+      "body": "And remember kids, do not load your insurance card into wallet of the app and hand it over to police officers.  You just handed them your whole life unlocked.",
+      "score": 1,
+      "created_utc": 1733842514.0,
+      "replies": [
+        {
+          "id": "m1dblz5",
+          "author": "Shades228",
+          "body": "Just add it to your wallet like most apps do and there\u2019s no reason to unlock your phone.",
+          "score": 4,
+          "created_utc": 1733844261.0,
+          "replies": []
+        },
+        {
+          "id": "m1hezvt",
+          "author": "DeliciousSTD",
+          "body": "What do you mean? How? Why?",
+          "score": 1,
+          "created_utc": 1733895283.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1fzvzy",
+      "author": "LaGripo",
+      "body": "\u201cAccording to the filing lawyers, the class action is \u201con behalf of thousands of survivors of child sexual abuse for [Apple] knowingly allowing the storage of images and videos documenting their abuse on iCloud and the company\u2019s defectively designed products. The lawsuit alleges that Apple has known about this content for years, but has refused to act to detect or remove it, despite developing advanced technology to do so.\u201d\n\nYah right, if they really wanted to get bad actors they\u2019d maaayybee have checked porn hub. \n\nBs excuse",
+      "score": 1,
+      "created_utc": 1733874903.0,
+      "replies": []
+    },
+    {
+      "id": "m1h9wfs",
+      "author": "Chooseanothername",
+      "body": "Fucking Forbes garbage",
+      "score": 0,
+      "created_utc": 1733892801.0,
+      "replies": [
+        {
+          "id": "m1i8jgd",
+          "author": "Realistic-Try-8029",
+          "body": "So true. What a fecking rag.",
+          "score": 1,
+          "created_utc": 1733914099.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1drepu",
+      "author": "kompergator",
+      "body": "If the US becomes a dictatorship, will Apple come to Europe?\n\nI would like to continue owning hardware that respects my right to privacy.",
+      "score": -3,
+      "created_utc": 1733849369.0,
+      "replies": [
+        {
+          "id": "m1dzz9j",
+          "author": "Sensitive-Rock-7548",
+          "body": "Europe is forcing through similair backdoor bullshit law, so better find something else.",
+          "score": 2,
+          "created_utc": 1733852055.0,
+          "replies": []
+        },
+        {
+          "id": "m1du7xm",
+          "author": "KabuTheFox",
+          "body": "> apple (or any major tech company tbh) \n\n> respect privacy\n\nSomeone going to tell them?",
+          "score": 1,
+          "created_utc": 1733850248.0,
+          "replies": [
+            {
+              "id": "m1e8o1d",
+              "author": "kompergator",
+              "body": "I know they\u2019re not perfect, but they are far superior to any other hardware manufacturer.",
+              "score": 2,
+              "created_utc": 1733854757.0,
+              "replies": []
+            },
+            {
+              "id": "m1h85gf",
+              "author": "None",
+              "body": "They are literally the only company that has not given our data or information to the government or police. It\u2019s not the safest? As you say this on a Reddit account that\u2019s selling your data to companies as we speak. lol grifters are the worse",
+              "score": -1,
+              "created_utc": 1733891997.0,
+              "replies": [
+                {
+                  "id": "m1hdkv2",
+                  "author": "KabuTheFox",
+                  "body": "That is seemingly false\n\nhttps://www.businessinsider.com/apple-complies-percent-us-government-requests-customer-data-2020-1?utm_source=reddit.com\n\nhttps://www.msn.com/en-us/news/technology/apple-gives-in-to-83-of-government-requests-for-user-data/ar-AA1pZJF0?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1#:~:text=The%20report%20comes%20from%20Surfshark,requests%20between%202016%20and%202022.\n\nhttps://www.forbes.com/sites/emmawoollacott/2024/08/28/us-government-requests-most-user-data-from-big-tech-firms/\n\nApple has a pretty big and notable deal with Google and Facebook when it comes to data and such\n\n (edit; Facebook was atleast until 2022(?) due to a privacy policy change, unsure how much if any is allowed to them since then. They still do get your data but significantly less now especially if you opt out... Or so they say) \n\nAnd was even fined for illegally collecting data for ads just last year \n\nhttps://gizmodo.com/apple-iphone-france-ads-fine-illegal-data-1849950163\n\nI'm very much aware that having any kind of presence online is forfeiting the privacy of my data, that will likely never change in any significant way",
+                  "score": 2,
+                  "created_utc": 1733894569.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1dq7wh",
+      "author": "wotton",
+      "body": "Such a non story",
+      "score": 0,
+      "created_utc": 1733849002.0,
+      "replies": []
+    },
+    {
+      "id": "m1fl7bj",
+      "author": "sgrams04",
+      "body": "Trump would absolutely use this to gain info on his adversaries and detractors. He just needs to appoint a loyal peon to the agency and he can get whatever he wants from anyone.\u00a0",
+      "score": 0,
+      "created_utc": 1733869847.0,
+      "replies": []
+    },
+    {
+      "id": "m1glrlu",
+      "author": "2muchmojo",
+      "body": "Fuck the FBI.",
+      "score": 0,
+      "created_utc": 1733882940.0,
+      "replies": []
+    },
+    {
+      "id": "m1h9blk",
+      "author": "systemfrown",
+      "body": "Im sure the incoming administration will be even more reticent to abuse such access. If they\u2019re not actually behind the latest push for it.",
+      "score": 0,
+      "created_utc": 1733892531.0,
+      "replies": []
+    },
+    {
+      "id": "m1iawoc",
+      "author": "nicman24",
+      "body": "That just means they had a backdoor for all those years..\n\nThey just canaried themselves",
+      "score": 0,
+      "created_utc": 1733915553.0,
+      "replies": []
+    },
+    {
+      "id": "m1d13xu",
+      "author": "wkarraker",
+      "body": "Google claims their quantum computer was able to bust through a computer process in 5 minutes that would have taken a standard computer more time than has existed since the Big Bang. \n\nEventually a bad actor will be able to brute force a 256 bit encryption in mere seconds, my guess is the government is going to have similar (if not better) quantum chips that will make current encryption technology obsolete.",
+      "score": -5,
+      "created_utc": 1733840533.0,
+      "replies": [
+        {
+          "id": "m1d2195",
+          "author": "vivekkhera",
+          "body": "Have you heard about post-quantum encryption? People are already working on this problem.",
+          "score": 7,
+          "created_utc": 1733840880.0,
+          "replies": [
+            {
+              "id": "m1d5bdd",
+              "author": "revolsuna",
+              "body": "The government has been stockpiling RSA encrypted traffic for the day they can decrypt and analyze all of it",
+              "score": 1,
+              "created_utc": 1733842085.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1dbo82",
+          "author": "shawnington",
+          "body": "That article is incredibly misleading, and what it solved was incredibly contrived, and they cant even check if the result was correct. Basically shocker. A quantum computer is much faster at predicting the output of a quantum computer than a normal computer because... well you just run the input through a quantum computer and TADA! Look I DID IT!\n\nThey are making advancements, but that last one was such a contrived PR nothing burger.",
+          "score": 4,
+          "created_utc": 1733844282.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1da8s5",
+      "author": "Richinwalla",
+      "body": "Ya but Apple has your data. Better yet use a phone with GrapheneOS or some other de-Googled phone,",
+      "score": -7,
+      "created_utc": 1733843801.0,
+      "replies": []
+    },
+    {
+      "id": "m1k1mdt",
+      "author": "ShadeWithoutColor",
+      "body": "Bring on Elon\u2019s X phone with starlink support",
+      "score": -1,
+      "created_utc": 1733939277.0,
+      "replies": []
+    },
+    {
+      "id": "m1hoybh",
+      "author": "PoorMansTonyStark",
+      "body": "Yeah yeah. It's all just a facade, a theater to fool the public. Iphone and all the other phones can be broken in a jiffy by third party suppliers.",
+      "score": -2,
+      "created_utc": 1733900904.0,
+      "replies": []
+    },
+    {
+      "id": "m1dfb2i",
+      "author": "Uw-Sun",
+      "body": "Mr. Apple is also going to spend a long period of time in jail.",
+      "score": -6,
+      "created_utc": 1733845494.0,
+      "replies": []
+    },
+    {
+      "id": "m1dobng",
+      "author": "Kalisho",
+      "body": "Good they come out with this so I know for my next phone purchase to go with Xiaomi",
+      "score": -8,
+      "created_utc": 1733848408.0,
+      "replies": []
+    }
+  ]
+}

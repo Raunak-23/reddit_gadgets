@@ -1,0 +1,49 @@
+metric,value
+file,1lf7uoa.csv
+title,Samsung could soon put some Galaxy Watch features behind a paywall
+rows,174
+num_posts,1
+num_comments,173
+unique_authors,139
+max_depth,8
+avg_comment_words,53.06
+median_comment_words,35.0
+max_comment_words,317
+positive_count,16
+negative_count,157
+neutral_count,0
+positive_pct,9.249
+negative_pct,90.751
+neutral_pct,0.0
+topic_1_keywords,"watch, shit, get, features, people, galaxy, already, phone"
+topic_1_label,shit watch shit get features
+topic_2_keywords,"even, better, features, venu, like, samsung, garmin, wont"
+topic_2_label,venu likes samsung garmin
+topic_3_keywords,"watch, subscription, health, remember, apple, features, buying, time"
+topic_3_label,"watch, health, watch, time"
+topic_4_keywords,"watch, samsung, im, around, smart, nintendo, garmin, galaxy"
+topic_4_label,Samsung watches nintendo and garmin in the galaxy
+topic_5_keywords,"games, like, way, samsung, 50, watch, got, dlc"
+topic_5_label,dlc watch games like samsung 50
+topic_6_keywords,"like, watch, bought, game, games, phone, heart, samsung"
+topic_6_label,watch samsung games
+top_ngram_1,galaxy watch (32)
+top_ngram_2,realistically galaxy (13)
+top_ngram_3,watch already (13)
+top_ngram_4,already shit (13)
+top_ngram_5,shit doesnt (13)
+top_ngram_6,doesnt make (13)
+top_ngram_7,make much (13)
+top_ngram_8,much difference (13)
+top_ngram_9,difference people (13)
+top_ngram_10,people get (13)
+ner_1,Samsung|ORG|45
+ner_2,Garmin|ORG|17
+ner_3,Apple|ORG|17
+ner_4,G|MISC|14
+ner_5,Switch|MISC|10
+ner_6,iPhone|MISC|7
+ner_7,Nintendo|ORG|7
+ner_8,Atari|MISC|6
+ner_9,Fathers Day|MISC|6
+ner_10,Galaxy|MISC|5

@@ -1,0 +1,495 @@
+{
+  "post": {
+    "title": "Intel's Arrow Lake CPUs throttle PCIe 5.0 SSD speeds, tests reveal | The Arrow Lake disaster continues to bring bad news to Intel aficionados",
+    "author": "chrisdh79",
+    "id": "1kktid7",
+    "score": 655,
+    "created_utc": 1747059108.0,
+    "selftext": "",
+    "num_comments": 56,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1kktid7/intels_arrow_lake_cpus_throttle_pcie_50_ssd/"
+  },
+  "comments": [
+    {
+      "id": "mrx87bj",
+      "author": "pizoisoned",
+      "body": "I'm having a hard time imagining that the longer die-die path for PCIe lanes 21-24 is the only factor resulting in around 15% degradation in performance. That said, I am not an expert on silicon design, so I certainly won't say its impossible.\n\nThere are a few cases where this could be a big deal for a user. Someone who is working with large data files could take a noticeable hit to performance with this issue- which could include gaming and professional workflows like CAD and video editing.\n\nThe average desktop user will probably notice nothing, but this is yet another black mark on Intel at a time where AMD is making pretty solid inroads not only in gaming and server spaces, but even in commercial desktops and workstations. Its not a great look.",
+      "score": 80,
+      "created_utc": 1747061782.0,
+      "replies": [
+        {
+          "id": "mrxwijr",
+          "author": "Relevant-Doctor187",
+          "body": "Wires have to take intricate routes through a motherboard because they\u2019re supposed to end up the same length for timing purposes. There is little to no tolerance on this and intel had to know this problem was there before production.\n\nI left intel the last time they released a new CPU then changed sockets a few months later. All the issues they\u2019ve had since further validated me leaving that platform.",
+          "score": 50,
+          "created_utc": 1747068959.0,
+          "replies": [
+            {
+              "id": "mrypyrg",
+              "author": "pmjm",
+              "body": "> I left intel the last time they released a new CPU then changed sockets a few months later. \n\nI did this and then AMD bit me with Theadripper 3000. When there is a duopoly you get kinda screwed either way.\n\nIt makes you wonder how the current discrepancy between AMD/Intel performance will eventually change. Will Intel improve, or will AMD get shittier?",
+              "score": 8,
+              "created_utc": 1747077584.0,
+              "replies": [
+                {
+                  "id": "mrzbfdf",
+                  "author": "Relevant-Doctor187",
+                  "body": "Threadripper is a workstation/server thing. Typically you buy once a server and use it for 3 years and buy new. That environment I could care less about sockets.",
+                  "score": 15,
+                  "created_utc": 1747084045.0,
+                  "replies": [
+                    {
+                      "id": "mrzldke",
+                      "author": "pmjm",
+                      "body": "Yes, but AMD explicitly promised there would be more than one generation on that socket. That was a key reason I bought into it. They lied.",
+                      "score": 5,
+                      "created_utc": 1747087161.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mryum0l",
+                  "author": "rrtk77",
+                  "body": "> It makes you wonder how the current discrepancy between AMD/Intel performance will eventually change. Will Intel improve, or will AMD get shittier?\n\nThis is a constant ebb and flow battle. Remember that AMD and Intel are competitors essentially in name only.\n\nThe real change is going to be ARM finally hitting consumer desktop viability. It's very close--the chips are there (the Apple M series are all ARM, cloud servers are all moving to ARM chips), and it basically just requires either a larger adoption of Linux (Ubuntu is basically completely ARM compatible, Nvidia is doing lots of work to have ready ARM drivers) and/or Microsoft finally convincing third parties to write ARM drivers for Windows. Large adoption of Linux may seem farfetched, but with the rise of handhelds putting Linux in the hands of lots of people, that doesn't seem like a pipe dream anymore.\n\nBecause x86 is proprietary, only AMD and Intel can \"make\" desktop chips. But if ARM becomes viable for desktops then a lot of chip manufacturers will start entering the space because why not?",
+                  "score": 7,
+                  "created_utc": 1747078988.0,
+                  "replies": [
+                    {
+                      "id": "mrz580l",
+                      "author": "Emu1981",
+                      "body": ">Because x86 is proprietary, only AMD and Intel can \"make\" desktop chips.\n\nThere are 4 companies with x86 licenses (you forgot Via Technologies and DM&P Electronics) but only AMD and Intel make x64 chips.",
+                      "score": 16,
+                      "created_utc": 1747082163.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mrzaaq3",
+                      "author": "namisysd",
+                      "body": "ARM is also proprietary, ARM controls who can manufacture thier architecture; don\u2019t expect a change in behavior if ARM becomes more dominant in the consumer market, and thats a big if considering outside of the Apple implementation of ARM it has been a massive flop outside of the phone and embedded space.",
+                      "score": 11,
+                      "created_utc": 1747083699.0,
+                      "replies": [
+                        {
+                          "id": "mrzllsb",
+                          "author": "tablepennywad",
+                          "body": "RISC-V baby!",
+                          "score": 7,
+                          "created_utc": 1747087234.0,
+                          "replies": [
+                            {
+                              "id": "mrzoxvm",
+                              "author": "namisysd",
+                              "body": "I have hope for it, but I fear that patent BS will keep it from thriving.",
+                              "score": 9,
+                              "created_utc": 1747088338.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mry1xt7",
+              "author": "pizoisoned",
+              "body": "Many years ago I had a Phenom X4 9550 that was such a garbage CPU that I jumped to Intel and never looked back. Until my 14th gen i9 self-destructed. Intel replaced it, but I wasn't really thrilled with it to begin with given how power hungry and how hot it ran, and the fact that they were prone to failure was the last straw. I jumped to the red team and I've been pretty pleased overall with it. So I figure I'll stay this course for a while since it seems like Intel is asleep at the wheel.",
+              "score": 5,
+              "created_utc": 1747070534.0,
+              "replies": []
+            },
+            {
+              "id": "ms02m5s",
+              "author": "Noshamina",
+              "body": "They both cost pretty much the same and the AMD company is not foreign to problems. People just root for them like teams at this point and find whatever they like in them and root for them and boo the others. Both companies offer stuff at every single tier at competitive prices and competitive performance. No one would ever be able to tell in a real life workplace a few millisecond difference in completing something or getting 5 more frames per second in some game.",
+              "score": 2,
+              "created_utc": 1747092960.0,
+              "replies": []
+            },
+            {
+              "id": "mrzv99g",
+              "author": "raynorelyp",
+              "body": "That\u2026 I\u2019m not saying you\u2019re wrong, but that doesn\u2019t sound right. From my days in VLSI, the clock frequency is supposed to be as close as you\u2019re comfortable to the length of the longest circuit times the speed of light.",
+              "score": 1,
+              "created_utc": 1747090493.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ms4ba69",
+          "author": "_______uwu_________",
+          "body": ">which could include gaming and professional workflows like CAD and video editing.\n\nI'm having a hard time seeing how gaming would be impacted by storage speeds faster than pcie 4 allows. Virtually no one is using pcie 5 SSDs in the consumer sector. This is a massive nothingburger for virtually everyone",
+          "score": 4,
+          "created_utc": 1747155133.0,
+          "replies": []
+        },
+        {
+          "id": "mrywh3q",
+          "author": "frankyseven",
+          "body": "My company is heavy CAD users, we run all AMD for new computers.",
+          "score": 1,
+          "created_utc": 1747079547.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mrxzk98",
+      "author": "tastyratz",
+      "body": "PCIE gains are almost never because consumers actually need all that bandwidth in x16 form. The big benefits are the ability to save electricity/battery by having the same things run on less lanes and the ability to support faster speeds on a single lane (I am looking at you, forever majority 1GBE ethernet baseline).\n\nMost graphics cards these days see almost no performance hit dropping to pcie 5.0 x8.\n\nOther than benchmark SSD's this sounds like an on paper impact more than a realized one to me. I'm all for reasons AMD can thrive but I'm not sure if this will translate to a user disadvantage.",
+      "score": 21,
+      "created_utc": 1747069849.0,
+      "replies": [
+        {
+          "id": "mryqk2g",
+          "author": "bjodah",
+          "body": "Well if you try to do LLM inference with weights offloaded to NVMe SSD, then bandwidth is everything. I can run Meta's Maverick model on my AMD 7950X with 64 GB RAM, but my WD SN850X is too slow for this to be practical (2 tokens per second). Buying faster NVMe drives (I think corsairs fastest can saturate 4x PCIe gen 5) is tempting, but then I would want the absolute full bandwidth..",
+          "score": 4,
+          "created_utc": 1747077763.0,
+          "replies": [
+            {
+              "id": "mryubc8",
+              "author": "tastyratz",
+              "body": "This to me is only proving an edge case where veeeeeeeeeery specific scenarios result in a possibly measurable impact on performance which is my point. Not that it can't mean something, just that for probably 90% of people it won't really change fps, level loading time, browser and desktop speed, etc.",
+              "score": 14,
+              "created_utc": 1747078899.0,
+              "replies": [
+                {
+                  "id": "mrz4l1j",
+                  "author": "bjodah",
+                  "body": "Sure, you're right, the number is probably even higher than 90%, but this is at least a new kind of use case that's on the rise.",
+                  "score": 4,
+                  "created_utc": 1747081970.0,
+                  "replies": [
+                    {
+                      "id": "mrza24d",
+                      "author": "tastyratz",
+                      "body": ">but this is at least a new kind of use case that's on the rise.\n\nThere could be dozens of you even!\n\nSeriously though, I won't say it isn't a rising use case but outside of enterprise equipment I'm going to say it's likely the sub 1% market here and of those influenced by these benchmarks in their outcome a small fraction of that.",
+                      "score": 5,
+                      "created_utc": 1747083625.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mrzakby",
+              "author": "UnethicalExperiments",
+              "body": "I can't get enough bandwidth for this. Bifurcating the slots in x4x4x4x4 config on pci -e 4/5 is fantastic. Doing it on pci-e 3.0 not so great if running things in parallel. With nvtop I can watch it cycle round robin style since there simply isn't enough bandwidth on 3.0. bus to handle it. \n\nOh ya and lots of nvme drives. TRX40 on Alibaba has come down enough to make it fairly inexpensive to build dense nodes without sacrificing performance",
+              "score": 2,
+              "created_utc": 1747083781.0,
+              "replies": [
+                {
+                  "id": "mrzn3th",
+                  "author": "bjodah",
+                  "body": "Interesting, I've been eyeing threadripper platforms from china, but I it looks like second hand market has many more Epyc systems available, so next build will probably be an Epyc build with lots of memory channels. I searched for TR cpus on alibaba, some offer sounded too good to be true, what have been your experience?",
+                  "score": 1,
+                  "created_utc": 1747087728.0,
+                  "replies": [
+                    {
+                      "id": "mrzrsdz",
+                      "author": "UnethicalExperiments",
+                      "body": "Ive got a couple of motherboards enroute, I can update later on. I went with threadripper for clock speed where the cheaper epycs seem to be lacking, but im trading off PCI-E lanes, but for my build plans the 64 is more than enough. \n\nI did score a pile of bnib arc a380s for 140 cad for another project im working. Its a lot easier to sort through sellers here to vet legit ones, pricing tends to be inline with what I could refurb domestically, but about 20% cheaper. Some sellers are really motivated to sell older gear so they are willing to cut a deal, which through this process you further vet your purchase. \n\nIf you plan on purchasing a lot, id suggest looking into a broker as here domestic shippers (ups, fedex) bend you over for import charges on top of what you might pay, even without it I find it be a lot cheaper since people here still want retail for their 2nd hardware thats covered in 3 years of people and pets.",
+                      "score": 2,
+                      "created_utc": 1747089305.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrx0wce",
+      "author": "karatekid430",
+      "body": "Affectionados? Jeez must be people who like corporate dick in their mouth. Intel has been terrible for years",
+      "score": 22,
+      "created_utc": 1747059559.0,
+      "replies": [
+        {
+          "id": "mrxe5qr",
+          "author": "RpiesSPIES",
+          "body": "Afficionatos\n\nIntel was moreso the go-to until ryzen hit it good. Then it's just been nonstop security issues and whatnot. Some ppl are probably not aware of the fact (I probably wouldn't be if I didn't have friends that knew more about the stuff), and probably still stick to intel. I try to let ppl know whenever I'm made aware of them building something new.",
+          "score": 29,
+          "created_utc": 1747063557.0,
+          "replies": [
+            {
+              "id": "mrygotf",
+              "author": "snakeoilHero",
+              "body": "Not Ryzen. Zen2.",
+              "score": 5,
+              "created_utc": 1747074806.0,
+              "replies": [
+                {
+                  "id": "mryiyqs",
+                  "author": "eestionreddit",
+                  "body": "In fairness, the first gen Ryzen CPUs were enough to end quad core hell",
+                  "score": 9,
+                  "created_utc": 1747075479.0,
+                  "replies": [
+                    {
+                      "id": "mryjse8",
+                      "author": "snakeoilHero",
+                      "body": "I thought once the cross bar between cores was settled with a unified cache we were released from Q6600 quad core **hell**. Kentsfield can die with Bulldozer.",
+                      "score": 2,
+                      "created_utc": 1747075723.0,
+                      "replies": [
+                        {
+                          "id": "mryl8kl",
+                          "author": "eestionreddit",
+                          "body": "Is it bad I have no idea what you're talking about?",
+                          "score": 4,
+                          "created_utc": 1747076151.0,
+                          "replies": [
+                            {
+                              "id": "mryw29q",
+                              "author": "snakeoilHero",
+                              "body": "Nah, its all old tech problems. Once upon a time Intel would slap dual cores together and call them Quads. Limitations like FSB and core coherency were not solved yet. Early quad core CPUs were janky. \n\nThen AMD tried to convince us half cores were cores to compete with Hyperthreading core counts. Those CPUs went backwards in performance from Thuban 6 cores to Bulldozer 8 cores. 4 cores with tricks IMO. Thus at the time, 6 old cores would beat 8 new cores all from AMD. Helps explain how we got to heterogeneous CPU designs of various core size and counts. \n\nWhy would you need to know SDRAM to RDRAM to DDR RAM? You don't anymore. Point is *the big* quad core problems predate Ryzen by a bit.",
+                              "score": 2,
+                              "created_utc": 1747079424.0,
+                              "replies": [
+                                {
+                                  "id": "mryyaky",
+                                  "author": "eestionreddit",
+                                  "body": "Ah I was talking moreso about the stagnation in consumer cpu development that occured in the early-mid 2010s",
+                                  "score": 2,
+                                  "created_utc": 1747080090.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mrxjsnt",
+              "author": "NorysStorys",
+              "body": "They were the go to not because they were good, in as much as nothing competed. AMD finally figured out how to surpass them and Intel still thinks they are owed the market.",
+              "score": 15,
+              "created_utc": 1747065198.0,
+              "replies": [
+                {
+                  "id": "mry8r2t",
+                  "author": "Agitated-Country-969",
+                  "body": "It's funny because Linus Torvalds hates Intel for killing ECC memory. I get the feeling Linus was never a fan of Intel's monopoly.  \n\nhttps://www.reddit.com/r/hardware/comments/kp8fsn/linus_torvalds_rant_on_ecc_ram_and_why_it_is/",
+                  "score": 4,
+                  "created_utc": 1747072484.0,
+                  "replies": []
+                },
+                {
+                  "id": "mrxo33p",
+                  "author": "diuturnal",
+                  "body": "Intel still thinks we\u2019re wrong for wanting something smaller than 14nm+++++++++++++. It\u2019s why they tried to shove it into 12th gen cpus.",
+                  "score": 2,
+                  "created_utc": 1747066472.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mry6gdi",
+              "author": "nooneisback",
+              "body": "Ryzen also has security issues, the difference is that they are actively working to discover, host an easily accessible and detailed list on their site and fix the ones they could, or provide steps to solve them if you're OK with losing performance/features. \n\nIntel just twirls its finger up its bum until enough people start yelling. Then release a fix they hail as the new Messiah of software, but never mention its effect on performance that can be about as bad as the vulnerability itself.\n\nIntel CPUs only exist because they had exclusivity deals for laptops and OEMs, since nobody thought AMD would make a comeback.",
+              "score": 5,
+              "created_utc": 1747071826.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mrxgsfo",
+          "author": "tylerderped",
+          "body": "> intel has been terrible for years\n\nAnd yet, people keep buying them for some reason. And OEMs keep buying them, too. (Often without providing other options)",
+          "score": -3,
+          "created_utc": 1747064327.0,
+          "replies": [
+            {
+              "id": "mrxqv5z",
+              "author": "karatekid430",
+              "body": "Anticompetitive behaviour",
+              "score": 7,
+              "created_utc": 1747067293.0,
+              "replies": []
+            },
+            {
+              "id": "mrzbxx2",
+              "author": "namisysd",
+              "body": "Momentum in supply chains and design workflows are hard to shift rapidly; you\u2019ll never see sudden shift in market share without some insane market and supply chain instability; OEMs like Dell are not going to be profitable with sudden shifts in thier supply chains and desing cycles, therefore they are not going to rapidly shift from one supplier to another with good reason. \n\nAMD is steadily taking market share from intel YoY, this is a healthy and expected way for market dominance to improve.",
+              "score": 0,
+              "created_utc": 1747084204.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mrx6bu7",
+          "author": "Outside-Swan-1936",
+          "body": "Reading is hard",
+          "score": -8,
+          "created_utc": 1747061222.0,
+          "replies": []
+        },
+        {
+          "id": "mrx1ubk",
+          "author": "Small_Editor_3693",
+          "body": "Wut",
+          "score": -8,
+          "created_utc": 1747059853.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mry9b84",
+      "author": "TurdMcDirk",
+      "body": "I\u2019m a huge intel aficionado and this news pisses me off to my core. I literally punched my phone screen and threw it across the room in a fit of rage.",
+      "score": 5,
+      "created_utc": 1747072645.0,
+      "replies": [
+        {
+          "id": "mryu1rs",
+          "author": "Kosmos992k",
+          "body": "Seek help.",
+          "score": 3,
+          "created_utc": 1747078818.0,
+          "replies": [
+            {
+              "id": "mryuue8",
+              "author": "TurdMcDirk",
+              "body": "I\u2019m literally shaking with rage and my wife is in a corner crying uncontrollably. The new Intel Arrow Lake CPU is destroying our marriage.",
+              "score": 14,
+              "created_utc": 1747079058.0,
+              "replies": [
+                {
+                  "id": "mryvstd",
+                  "author": "Kosmos992k",
+                  "body": "See now you put it that way, I'm inclined to hear the sarcasm.",
+                  "score": 4,
+                  "created_utc": 1747079346.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mry2uvb",
+      "author": "P1nCush10n",
+      "body": "Still waiting on Intel to make a move, one way or the other, with Bartlett lake.  Either I\u2019m upgrading that way or I\u2019m rebuilding, and if I\u2019m rebuilding I\u2019m switching to team AMD.",
+      "score": 1,
+      "created_utc": 1747070799.0,
+      "replies": []
+    },
+    {
+      "id": "msktm6f",
+      "author": "Proud_Tie",
+      "body": "Yet another reason to be glad I made the last second decision to go with a Ryzen 9 9900x for my desktop instead of an arrow lake one while I was buying parts at microcenter.",
+      "score": 1,
+      "created_utc": 1747373059.0,
+      "replies": []
+    },
+    {
+      "id": "ms0r431",
+      "author": "imaginary_num6er",
+      "body": "Where are all those \u201cArrow Lake is for productivity applications\u201d people now?",
+      "score": 0,
+      "created_utc": 1747101438.0,
+      "replies": []
+    },
+    {
+      "id": "mrx3tuu",
+      "author": "kazuviking",
+      "body": "This is crystal disk mark aka the dickmeasuring contest numbers and NOT real world performance.",
+      "score": -32,
+      "created_utc": 1747060465.0,
+      "replies": [
+        {
+          "id": "mrx4t76",
+          "author": "aitorbk",
+          "body": "Intel has confirmed increased latency, it certainly is an issue.\nFor most people it won't be an issue, but Intel is slower for nvm drives.",
+          "score": 28,
+          "created_utc": 1747060763.0,
+          "replies": [
+            {
+              "id": "mrx5c72",
+              "author": "kazuviking",
+              "body": "AKA a nonexistent issue in the real world.",
+              "score": -27,
+              "created_utc": 1747060923.0,
+              "replies": [
+                {
+                  "id": "mrx6q0y",
+                  "author": "aitorbk",
+                  "body": "It would be an issue for me, as latency affects compilation time. \nBut most people aren't compiling large projects, or compiling at all.\nAnd it being latency rather than throughout makes it worse.\nAgain, light computer users won't notice  the performance difference between a pcie2 drive vs a pcie5",
+                  "score": 17,
+                  "created_utc": 1747061340.0,
+                  "replies": []
+                },
+                {
+                  "id": "mrxa0cu",
+                  "author": "Moscato359",
+                  "body": "It matters for people where pcie5 speeds matter\n\n\nmainly large video editing",
+                  "score": 15,
+                  "created_utc": 1747062325.0,
+                  "replies": [
+                    {
+                      "id": "mrxjclo",
+                      "author": "aitorbk",
+                      "body": "Would it?  I thought the main issue was processing the video, one you have at least pcie3 not the drive throughput, at least if you do it locally, server wise absolutely does matter.\nI am asking because this is an educated guess, I don't know.",
+                      "score": -5,
+                      "created_utc": 1747065066.0,
+                      "replies": [
+                        {
+                          "id": "mrxob5n",
+                          "author": "Moscato359",
+                          "body": "So there are generally 2 stages to video editing  \nStage 1: Planning the edits. You can use a big GPU to offload this stage. You aren't actually making any final video, but as you work, your GPU is doing big work. You render stuff as you go. With a 5090, this is really fast, and can strain your drive. This is actually the majority of the human time.\n\nStage 2: Making the final version. This is generally done on CPU, because GPU makes video quality reductions. The CPU will never be fast enough to strain the drive. This is basically the final step.",
+                          "score": 0,
+                          "created_utc": 1747066537.0,
+                          "replies": [
+                            {
+                              "id": "mry3aom",
+                              "author": "kazuviking",
+                              "body": "Lets just ignore the fact that a gen5 drive can only maintain that speed for 30 ish seconds when empty and after that it drops to 3GBps or way less. And lets not forget that the best gen5 drive can only do around 5GBps reading which is still under the 6.8GBps limited speed which you think affects the drives speed. Unless you run raid 0 there is ZERO chance you noticing it.\n\nSee why i said its a nonexistent issue with real world performance? When there is no drive in existence that can reach it.",
+                              "score": 0,
+                              "created_utc": 1747070926.0,
+                              "replies": [
+                                {
+                                  "id": "mrznbld",
+                                  "author": "Moscato359",
+                                  "body": "Your numbers seem to ignore the crucial t705\n\nIt gets 18 seconds of 12GB/s, and then it drops to 4GB/s consistent write.\n\n12 - 4 \\* 18 is 144GB of excess written, prior to reaching steady state write speeds\n\nAs for reads, it consistently hits 6.7GB/s.\n\nBut basically every other drive out there is miserable.",
+                                  "score": 3,
+                                  "created_utc": 1747087800.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1mbk6yi.csv
+title,Google Assistant Is Basically on Life Support and Things Just Got Worse | Lots of Google Home users say they can't even turn their lights on or off right now.
+rows,435
+num_posts,1
+num_comments,434
+unique_authors,345
+max_depth,13
+avg_comment_words,61.49
+median_comment_words,41.0
+max_comment_words,595
+positive_count,46
+negative_count,338
+neutral_count,50
+positive_pct,10.599
+negative_pct,77.88
+neutral_pct,11.521
+topic_1_keywords,"google, assistant, home, like, gemini, use, phone, get"
+topic_1_label,Google assistants use Google to use phone
+topic_2_keywords,"information, correct, dont, language, recognizing, models, humans, llms"
+topic_2_label,recognizing human models
+topic_3_keywords,"light, gemini, use, feature, know, doesnt, every, lights"
+topic_3_label,gemini light features a gemini
+topic_4_keywords,"products, google, get, cant, im, data, would, wait"
+topic_4_label,Google to get data from Google
+topic_5_keywords,"google, turn, lights, home, like, switch, really, need"
+topic_5_label,google turns lights on home
+topic_6_keywords,"home, google, even, dont, devices, companies, voice, corporation"
+topic_6_label,Google doesn't even have Google in home
+top_ngram_1,google home (50)
+top_ngram_2,home assistant (40)
+top_ngram_3,living room (36)
+top_ngram_4,doesnt support (34)
+top_ngram_5,support feature (32)
+top_ngram_6,doesnt support feature (32)
+top_ngram_7,light doesnt (31)
+top_ngram_8,light doesnt support (31)
+top_ngram_9,turn lights (29)
+top_ngram_10,hey google (26)
+ner_1,Google|ORG|153
+ner_2,Gemini|ORG|61
+ner_3,Gemini|PER|22
+ner_4,Apple|ORG|19
+ner_5,Gemini|MISC|19
+ner_6,Google Home|MISC|13
+ner_7,Google Assistant|MISC|12
+ner_8,Google|MISC|12
+ner_9,Alexa|ORG|11
+ner_10,LL|ORG|11

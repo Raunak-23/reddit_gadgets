@@ -1,0 +1,49 @@
+metric,value
+file,1i3kmm0.csv
+title,New York Proposes Doing Background Checks on Anyone Buying a 3D Printer
+rows,656
+num_posts,1
+num_comments,655
+unique_authors,405
+max_depth,16
+avg_comment_words,63.72
+median_comment_words,39.0
+max_comment_words,867
+positive_count,43
+negative_count,548
+neutral_count,64
+positive_pct,6.565
+negative_pct,83.664
+neutral_pct,9.771
+topic_1_keywords,"gun, 3d, dont, make, people, like, think, use"
+topic_1_label,3d guns don't make people think
+topic_2_keywords,"guns, people, gun, one, even, im, making, going"
+topic_2_label,"guns, people, gun, im"
+topic_3_keywords,"right, amendment, guns, people, gun, hardware, keep, 3d"
+topic_3_label,Amendments to the right to keep guns in the 3d
+topic_4_keywords,"guns, anything, people, problem, 3d, except, address, theyll"
+topic_4_label,"guns, guns, people, 3d, guns, 3d"
+topic_5_keywords,"3d, print, background, printers, one, printer, buy, gun"
+topic_5_label,"3d printing, printers, one, gun"
+topic_6_keywords,"like, new, anything, cars, state, would, go, buy"
+topic_6_label,like new things to buy in the state
+top_ngram_1,3d printers (156)
+top_ngram_2,3d printer (113)
+top_ngram_3,background checks (77)
+top_ngram_4,3d print (67)
+top_ngram_5,background check (67)
+top_ngram_6,3d printed (56)
+top_ngram_7,hardware store (45)
+top_ngram_8,meaningless 3d (45)
+top_ngram_9,print one (45)
+top_ngram_10,meaningless 3d print (45)
+ner_1,3D|MISC|53
+ner_2,New York|LOC|34
+ner_3,US|LOC|31
+ner_4,NY|LOC|27
+ner_5,America|LOC|23
+ner_6,Glock|MISC|15
+ner_7,CanadaUS|MISC|14
+ner_8,China|LOC|12
+ner_9,Constitution|MISC|11
+ner_10,C|MISC|10

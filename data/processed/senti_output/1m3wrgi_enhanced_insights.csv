@@ -1,0 +1,49 @@
+metric,value
+file,1m3wrgi.csv
+title,Analogue's 4K-ready Nintendo 64 remake ships this August | Cartridge gaming like it's 1996
+rows,309
+num_posts,1
+num_comments,308
+unique_authors,187
+max_depth,10
+avg_comment_words,64.97
+median_comment_words,51.0
+max_comment_words,557
+positive_count,40
+negative_count,236
+neutral_count,32
+positive_pct,12.987
+negative_pct,76.623
+neutral_pct,10.39
+topic_1_keywords,"like, youre, around, n64, people, would, games, buy"
+topic_1_label,n64 people would buy games
+topic_2_keywords,"n64, cartridges, nintendo, one, old, 4k, wouldnt, play"
+topic_2_label,"n64, nintendo, one, 4k, wouldnt"
+topic_3_keywords,"n64, play, want, dont, people, also, cartridges, like"
+topic_3_label,n64 likes cartridges
+topic_4_keywords,"n64, like, cartridge, original, still, 4k, hardware, emulator"
+topic_4_label,"n64 like cartridges, original, still, 4k emulator"
+topic_5_keywords,"play, dont, like, sound, trying, people, emulation, emulator"
+topic_5_label,emulation and emulation
+topic_6_keywords,"n64, emulation, games, people, like, pretty, game, though"
+topic_6_label,n64 games like emulation
+top_ngram_1,original hardware (33)
+top_ngram_2,n64 2025 (31)
+top_ngram_3,paying 250 (23)
+top_ngram_4,want play (22)
+top_ngram_5,n64 games (21)
+top_ngram_6,pretty sick (20)
+top_ngram_7,sick idea (20)
+top_ngram_8,idea paying (20)
+top_ngram_9,250 n64 (20)
+top_ngram_10,2025 4k (20)
+ner_1,N64|MISC|124
+ner_2,N|MISC|54
+ner_3,Nintendo|ORG|23
+ner_4,e|MISC|21
+ner_5,##B|ORG|21
+ner_6,HDMI|MISC|15
+ner_7,FP|MISC|11
+ner_8,HD|MISC|10
+ner_9,Blue|MISC|8
+ner_10,Ana|MISC|8

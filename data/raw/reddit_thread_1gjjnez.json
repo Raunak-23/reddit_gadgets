@@ -1,0 +1,582 @@
+{
+  "post": {
+    "title": "AMD's RX 6600 is the most popular Red Team GPU among Steam gamers, by a whisker \u2014 but no Radeon card makes the top 30 list",
+    "author": "binh021220",
+    "id": "1gjjnez",
+    "score": 287,
+    "created_utc": 1730740712.0,
+    "selftext": "",
+    "num_comments": 69,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1gjjnez/amds_rx_6600_is_the_most_popular_red_team_gpu/"
+  },
+  "comments": [
+    {
+      "id": "lvdxqe3",
+      "author": "drmirage809",
+      "body": "Nvidia has the high end market pretty much locked down at this point, which is not a good thing. I'd love for AMD's products to be more prevalent. Competition is a good thing and currently things are tilting towards one company in both CPU and GPU space. \n\nAMD has the high end desktop CPU market and Intel blundered themselves out of it. \n\nNvidia got the GPUs and AI accelerators. And they seem quite content to ask more and more ridiculous prices, while limiting features to new products. Because the 4080 and 4090's primary competition are the 3080 and 3090.",
+      "score": 103,
+      "created_utc": 1730744426.0,
+      "replies": [
+        {
+          "id": "lve5791",
+          "author": "TemperateStone",
+          "body": "AMD has the consoles and handhelds as well.",
+          "score": 60,
+          "created_utc": 1730746600.0,
+          "replies": [
+            {
+              "id": "lvgaq5c",
+              "author": "FLu_Shots",
+              "body": "What about servers and data centres?",
+              "score": 6,
+              "created_utc": 1730771228.0,
+              "replies": [
+                {
+                  "id": "lviaktt",
+                  "author": "diacewrb",
+                  "body": "They have now outsold intel in the data centre market.\n\nhttps://www.tomshardware.com/pc-components/cpus/for-the-first-time-ever-amd-outsells-intel-in-the-datacenter-space",
+                  "score": 12,
+                  "created_utc": 1730807442.0,
+                  "replies": [
+                    {
+                      "id": "lvnir2v",
+                      "author": "None",
+                      "body": "And it will probably stay that way as the new generation of Threadrippers blow the Xeons out of the water. Difference in performance is just wild.",
+                      "score": 2,
+                      "created_utc": 1730869419.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lvi5ow3",
+                  "author": "TemperateStone",
+                  "body": "I don't know anything about those",
+                  "score": 1,
+                  "created_utc": 1730804774.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lveb2i1",
+              "author": "None",
+              "body": "Except the handheld console Switch (and probably Switch 2)",
+              "score": 18,
+              "created_utc": 1730748332.0,
+              "replies": [
+                {
+                  "id": "lvijn8d",
+                  "author": "None",
+                  "body": "Which is like the best selling handheld of all time",
+                  "score": 1,
+                  "created_utc": 1730811507.0,
+                  "replies": [
+                    {
+                      "id": "lvikpbk",
+                      "author": "None",
+                      "body": "No, the handheld Nintendo DS sold more units (154.02 million) than Nintendo (146.04 million).\n\nIt's not impossible for Switch to sell the last 8 millions before the release of the unknown successor kills its sales.",
+                      "score": 3,
+                      "created_utc": 1730811930.0,
+                      "replies": [
+                        {
+                          "id": "lvjzu6y",
+                          "author": "None",
+                          "body": "You\u2019re right, so the second best handheld of all time. I wasn\u2019t sure but I knew the Switch was close.",
+                          "score": 2,
+                          "created_utc": 1730828138.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvf5jvd",
+              "author": "MultiMarcus",
+              "body": "Well, except the most popular current console which happens to be the most popular current handheld. That is the Nintendo switch.",
+              "score": 3,
+              "created_utc": 1730757395.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvfnuzw",
+          "author": "SwoleJunkie1",
+          "body": "They still need to do a better job with their Drivers and Stability.  I say this as someone who regrets going from a 3070ti to a 7900 GRE that still sucks after getting a new 7900 GRE after an RMA.",
+          "score": 16,
+          "created_utc": 1730763332.0,
+          "replies": [
+            {
+              "id": "lvgb98s",
+              "author": "Vodkamemoir",
+              "body": "I think that's part of their upcoming strategy. Currently nvidia has the lions share of the market, to the point that developers focus on games running on nvidia hardware, AMD is a after thought.\n\n\nFocusing on the mid to low end to increase their market share should icentivize develop to keep AMD in mind. That's what I'd hope for anyway.",
+              "score": 5,
+              "created_utc": 1730771414.0,
+              "replies": []
+            },
+            {
+              "id": "lvh5iiy",
+              "author": "None",
+              "body": "[removed]",
+              "score": 2,
+              "created_utc": 1730782736.0,
+              "replies": [
+                {
+                  "id": "lvh7vxh",
+                  "author": "SwoleJunkie1",
+                  "body": "My RADEON VII was way worse, but constant crashes in games, desktop, and immediately upon logging into windows.  They're constant, and in order to get 20-60min of gaming without crashing I'd have to ddu/reinstall drivers daily upon startup and after each crash reinstall drivers again.\n\nI've rolled back drivers, undervolted, disabled/enabled XMP, updated BIOS, updated chipset drivers, reinstalled windows (repair), and still have the same problems.  Earlier today I disabled Banner in BIOS, and forced it to run on Gen 3 PCIE, and I did get more stability, less sputters, and no crash in the 30 minutes I was able to play...  but that's why I'm having such a hard time.  I'm older with a full life and I simply don't have time to troubleshoot all this crap.  I'm lucky to get 2-5 hours a week to game.  Spending hours to troubleshoot takes WEEKS, if not months.",
+                  "score": 2,
+                  "created_utc": 1730783855.0,
+                  "replies": [
+                    {
+                      "id": "lviecj4",
+                      "author": "ltecruz",
+                      "body": "It's really unfortunate you have those problems, I have one GRE that has been nothing but bliss and pure power. Your issues look a bit like the 13th and 14th gen Intel CPUs ones, they are really weird. I guess sometimes hardware just don't wanna play nice with each other.",
+                      "score": 2,
+                      "created_utc": 1730809248.0,
+                      "replies": [
+                        {
+                          "id": "lvizjn9",
+                          "author": "SwoleJunkie1",
+                          "body": "Nope, running a AMD 3800X.",
+                          "score": 1,
+                          "created_utc": 1730817255.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvggd02",
+          "author": "None",
+          "body": "I would not be surprised if Nvidia and AMD decided to stake out this division through collusion. It benefits both bottom lines to not fight each other. Focus on their particular areas and don\u2019t impede.",
+          "score": 1,
+          "created_utc": 1730773172.0,
+          "replies": []
+        },
+        {
+          "id": "lvh8mxn",
+          "author": "Ahirman1",
+          "body": "Sadly I think Intel are the only ones that has the potential to go toe to toe with Nvidia but that\u2019s going to be a long long while till they reach that point",
+          "score": 1,
+          "created_utc": 1730784213.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvg6e7e",
+      "author": "fivetriplezero",
+      "body": "Intel ARC weirdo checking in.",
+      "score": 17,
+      "created_utc": 1730769708.0,
+      "replies": [
+        {
+          "id": "lvq2tix",
+          "author": "SteakandTrach",
+          "body": "What\u2019s been your experience with ARC? Good bang-for-buck?",
+          "score": 1,
+          "created_utc": 1730906461.0,
+          "replies": [
+            {
+              "id": "lvsk58w",
+              "author": "fivetriplezero",
+              "body": "Terrific bang for buck\n\nASRock A750 for $180 USD.  I had a 6650xt prior and it performs better in most games I play.\n\nThere are probably better options out there, but I like mine, particularly because it's just different and also makes for an-all Intel build.",
+              "score": 2,
+              "created_utc": 1730930626.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvdr32r",
+      "author": "uniq_username",
+      "body": "6950xt going strong.",
+      "score": 29,
+      "created_utc": 1730742492.0,
+      "replies": [
+        {
+          "id": "lveqt8f",
+          "author": "nib13",
+          "body": "Same. An Nvidia card at the same price point doesn't have nearly the amount of vram. And video editing is very VRAM hungry.",
+          "score": 9,
+          "created_utc": 1730752984.0,
+          "replies": []
+        },
+        {
+          "id": "lvdwlnb",
+          "author": "drmirage809",
+          "body": "6900XT here. That thing is a workhorse and AMD FineWine tech strikes yet again. I've seen RT on this thing go from an absolute joke to quite usable in more than a few games.",
+          "score": 23,
+          "created_utc": 1730744097.0,
+          "replies": [
+            {
+              "id": "lvfelem",
+              "author": "JonBoy82",
+              "body": "6900 XT x 5800x3D combo checking in. I'm going to be AM4 for a while since this setup works so well.",
+              "score": 8,
+              "created_utc": 1730760284.0,
+              "replies": [
+                {
+                  "id": "lvfkuka",
+                  "author": "drmirage809",
+                  "body": "Ayy! That's my exact setup. 32 GB of RAM in there and it just absolutely rips. Not gonna be upgrading for a good bit either. Unless a crazy good deal comes my way or RX 8000 is a game changer.",
+                  "score": 4,
+                  "created_utc": 1730762336.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lvh434e",
+              "author": "_RADIANTSUN_",
+              "body": "> and AMD FineWine tech strikes yet again\n\nLmao.\n\n\"AMD FineWine tech\" = dogshit horrible drivers at launch mean AMD has to provide stronger hardware to hit X performance at Y price point, then as their drivers mature over some years the performance obviously improves. Lol.",
+              "score": 3,
+              "created_utc": 1730782103.0,
+              "replies": []
+            },
+            {
+              "id": "lvfotno",
+              "author": "foxhound012",
+              "body": "As someone upgrading to from 6600xt to 6800, how much of a difference is it between the 6800 and 6900xt\n\nWondering if i should save a bit more for it or pull the trigger and buy the 6900 if the upgrade is that good",
+              "score": 1,
+              "created_utc": 1730763656.0,
+              "replies": [
+                {
+                  "id": "lvigg61",
+                  "author": "IntrinsicGiraffe",
+                  "body": "Base on Tom's Hardware GPU Hierarchy chart, the difference seems marginal. Personally I'd get the 6800XT to get the best bang for bucks. Currently I'm waiting for Thanksgiving sale to build a PC.",
+                  "score": 2,
+                  "created_utc": 1730810183.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lvdtzaz",
+          "author": "SparklingPseudonym",
+          "body": "Love my 6950xt. Got it for 699 when the 7900\u2019s came out. Can handle a lot.",
+          "score": 4,
+          "created_utc": 1730743327.0,
+          "replies": []
+        },
+        {
+          "id": "lvfpwlo",
+          "author": "xurdm",
+          "body": "How well does it do in games that heavily depend on AI upscaling to run at desirable FPS?",
+          "score": -1,
+          "created_utc": 1730764015.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvdowz2",
+      "author": "J4jem",
+      "body": "It's a bummer, as AMD has some good products. But I am very happy with my RX 6600. 1080p is fine with me, and this card is great for that.",
+      "score": 20,
+      "created_utc": 1730741861.0,
+      "replies": [
+        {
+          "id": "lvdwjyt",
+          "author": "mok000",
+          "body": "It works fine with 1440p too, perhaps not with the few most demanding titles.",
+          "score": 7,
+          "created_utc": 1730744083.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvec4e6",
+      "author": "None",
+      "body": "[removed]",
+      "score": 14,
+      "created_utc": 1730748646.0,
+      "replies": [
+        {
+          "id": "lvfbm6w",
+          "author": "None",
+          "body": "Can that card not handily do 4k60fps in most games? Or you talking higher fps than that?",
+          "score": 3,
+          "created_utc": 1730759311.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvg91z1",
+      "author": "MessiahPrinny",
+      "body": "When people say they want competition in the market they mean they want cheaper Nvidia cards. I know I'm part of the problem. I bought a 4080super.",
+      "score": 5,
+      "created_utc": 1730770642.0,
+      "replies": []
+    },
+    {
+      "id": "lveda0p",
+      "author": "Juub1990",
+      "body": "Tallest midget.",
+      "score": 8,
+      "created_utc": 1730748990.0,
+      "replies": []
+    },
+    {
+      "id": "lvebrb8",
+      "author": "MateTheNate",
+      "body": "AMD is too reliant on open standards and has a lagging software experience. NVidia won with CUDA, stable closed source drivers, and Gameworks features like DLSS.      \n\nAMD is a good guy in making their solutions open, but they are not setting the innovation edge which makes NVidia products look attractive.",
+      "score": 15,
+      "created_utc": 1730748538.0,
+      "replies": []
+    },
+    {
+      "id": "lve4zlf",
+      "author": "TemperateStone",
+      "body": "Though AMD chips power a buncha console and handhelds.",
+      "score": 5,
+      "created_utc": 1730746538.0,
+      "replies": [
+        {
+          "id": "lvf5w15",
+          "author": "MultiMarcus",
+          "body": "As does Nvidia with the Nintendo Switch. Which happens to also be a handheld. It seems like the switch will be using a more modern Nvidia architecture which is definitely good for Nvidia.",
+          "score": -2,
+          "created_utc": 1730757497.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvenm1o",
+      "author": "Lehk",
+      "body": "I\u2019m still using an rx 480. Probably good for another 2 years I\u2019ll trade it in at 10 like a car",
+      "score": 5,
+      "created_utc": 1730752043.0,
+      "replies": [
+        {
+          "id": "lvgt115",
+          "author": "GreanEcsitSine",
+          "body": "I also have a RX 480. Was a little salty when the RX 580 came out less than a year later, but the card has held its own for the light titles and retro gaming I do these days. I didn't have a lot of money back in 2016, so a sub $200 1080p card was a great deal.",
+          "score": 1,
+          "created_utc": 1730777694.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvi1c66",
+      "author": "NeuroXc",
+      "body": "I switched from AMD to Nvidia because of how bad AMD's drivers are. To the point that I would get random driver crashes while gaming. Reported the crashes to AMD every time. Other people were reporting similar crashes with the same games, only with AMD. Put up with it for 2 years before I gave in. Zero crashes since going to Nvidia.",
+      "score": 2,
+      "created_utc": 1730802092.0,
+      "replies": [
+        {
+          "id": "lviiutj",
+          "author": "hey_you_too_buckaroo",
+          "body": "It goes both ways. Used Nvidia for years, frequently had crashes and even had to use warranty on two cards. Switched to AMD and I've been stable since.",
+          "score": 1,
+          "created_utc": 1730811189.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvg6r3r",
+      "author": "argama87",
+      "body": "My Omen's 6650M does everything I need it to do.",
+      "score": 1,
+      "created_utc": 1730769833.0,
+      "replies": []
+    },
+    {
+      "id": "lvhiowj",
+      "author": "alexiao",
+      "body": "5600x + 7700xt \u3002 I found there are rarely people using 7700xt . Few YouTube guide videos of games optimization with 7700xt",
+      "score": 1,
+      "created_utc": 1730789687.0,
+      "replies": []
+    },
+    {
+      "id": "lvhj9rw",
+      "author": "Aegison",
+      "body": "I haven't bought and AMD card since an HD 3870 I bought in 2007. But I am about to pull the trigger on a 7800xt because I cannot justify paying almost 120% more for a 4070 just for ray tracing. Also, I get 4 more gigabytes of ram!",
+      "score": 1,
+      "created_utc": 1730790036.0,
+      "replies": []
+    },
+    {
+      "id": "lvhpr37",
+      "author": "FungZhi",
+      "body": "The only reason that I would  buy a nvidia card is that amd didnt release mid tier gpu that shorter than 250mm while nvidia have the 4070 super",
+      "score": 1,
+      "created_utc": 1730794195.0,
+      "replies": []
+    },
+    {
+      "id": "lviicom",
+      "author": "hey_you_too_buckaroo",
+      "body": "Shame. Been using the 7800xt for a while and price performance wise, it was fantastic when I bought it. Been runninng great since I've had it.",
+      "score": 1,
+      "created_utc": 1730810985.0,
+      "replies": []
+    },
+    {
+      "id": "lvj2w0q",
+      "author": "Oileuar",
+      "body": "amd makes good processors, awful gpu's",
+      "score": 1,
+      "created_utc": 1730818350.0,
+      "replies": []
+    },
+    {
+      "id": "lvq3jh5",
+      "author": "SteakandTrach",
+      "body": "I predict that eventually nVidia will run out of headroom to keep charging astronomical numbers for even midrange cards and AMD will *eventually* start to carve out a chunk of that market. nVidia is more concerned with data center workloads than traditional gaming cards. Or am I reading the situation wrong?",
+      "score": 1,
+      "created_utc": 1730906656.0,
+      "replies": []
+    },
+    {
+      "id": "lvdvper",
+      "author": "Kultherion",
+      "body": "Love my AMD card a lot if only AMD drivers weren\u2019t so shit.",
+      "score": -1,
+      "created_utc": 1730743834.0,
+      "replies": [
+        {
+          "id": "lvfsaxe",
+          "author": "wolfannoy",
+          "body": "Linux might be the rare exception here since  drivers are open source over there.",
+          "score": 3,
+          "created_utc": 1730764825.0,
+          "replies": [
+            {
+              "id": "lvgm5av",
+              "author": "mrthenarwhal",
+              "body": "There\u2019s been some recent traction on bringing RADV to Windows, so hopefully that can be true for everyone soon",
+              "score": 2,
+              "created_utc": 1730775214.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lve4tdq",
+      "author": "imetators",
+      "body": "Rocking 6650m on my HX99G. Epic setup",
+      "score": 1,
+      "created_utc": 1730746488.0,
+      "replies": []
+    },
+    {
+      "id": "lve63h3",
+      "author": "JakesInSpace",
+      "body": "Why is AMD always so far behind?",
+      "score": 0,
+      "created_utc": 1730746860.0,
+      "replies": [
+        {
+          "id": "lveahau",
+          "author": "Stereo-Zebra",
+          "body": "Bulldozer era of cpus and them not really caring for Radeon gpus, past consoles. People forget every ps5 sold has a custom AMD gpu as powerful as a 6700 xt",
+          "score": 16,
+          "created_utc": 1730748157.0,
+          "replies": [
+            {
+              "id": "lveluyp",
+              "author": "MetalstepTNG",
+              "body": "Eh PS5's GPU is more like an rx 6700 to be fair.",
+              "score": 4,
+              "created_utc": 1730751527.0,
+              "replies": []
+            },
+            {
+              "id": "lvedcza",
+              "author": "JakesInSpace",
+              "body": "That makes sense. I was also ignoring the fact they make a lot more than GPUS. While Nvidia is pretty much all in on one type of product",
+              "score": 3,
+              "created_utc": 1730749014.0,
+              "replies": [
+                {
+                  "id": "lvhdt7x",
+                  "author": "wolfiasty",
+                  "body": ":D unless I misunderstood you Nvidia is currently the most valuable company in the world.\n\nGPUs are their smallest meaningful money generating branch.\n\nAMD is not even in the same building, at least for now.",
+                  "score": 1,
+                  "created_utc": 1730786870.0,
+                  "replies": []
+                },
+                {
+                  "id": "lveor6a",
+                  "author": "Stereo-Zebra",
+                  "body": "Tbf, Nvidias investment in AI was genius and AMD playing catchup is evidence of that. DLSS is fucking magic for gaming, I legit cant tell quality dlss at 1440p between native, and I know server applications are a huge part of the market (not knowledgable on that side). \n\nAMD makes awesome low end gpus for raw raster but the upscaling seems a gen behind at all times and more games support dlss3 than fsr3 natively",
+                  "score": 0,
+                  "created_utc": 1730752379.0,
+                  "replies": [
+                    {
+                      "id": "lvfhjym",
+                      "author": "dark_sable_dev",
+                      "body": ">\u00a0\u00a0I legit cant tell quality dlss at 1440p between native\n\n\nAwesome that the tech works so well for you!\n\n\nI've got a 1440p wide-screen and a 3070ti, and can *absolutely* tell the quality difference with DLSS on, especially in high detail areas like hair or thin lines that are already prone to aliasing.",
+                      "score": 9,
+                      "created_utc": 1730761251.0,
+                      "replies": [
+                        {
+                          "id": "lvfi6te",
+                          "author": "Stereo-Zebra",
+                          "body": "I have a 27' regular sized monitor so maybe that contributes. Also, isnt dlss 3 only for the 40 seires? I could be wrong on that.\n\n4070 super here.",
+                          "score": 1,
+                          "created_utc": 1730761458.0,
+                          "replies": [
+                            {
+                              "id": "lvfitvi",
+                              "author": "dark_sable_dev",
+                              "body": "That's true - I've only experienced it with the FSR frame injection workaround that AMD enabled.\n\n\nVisually, I was mostly talking about DLSS 2, since you mentioned the 'quality' preset. I wasn't aware they used the same names for DLSS 3.",
+                              "score": 2,
+                              "created_utc": 1730761670.0,
+                              "replies": [
+                                {
+                                  "id": "lvflgo6",
+                                  "author": "Stereo-Zebra",
+                                  "body": "I notice visual artifacts and get the headache many others get when using frame gen tech. I get more than acceptable fps without it in every game I play",
+                                  "score": 1,
+                                  "created_utc": 1730762538.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvgbfz6",
+      "author": "JustCopyingOthers",
+      "body": "AMD needs to explain/publicise their product naming system better. It's fairly easy to understand Nvidia's product generation and model from the numbering scheme. AMD's is not so well known and my ignorance of their product line up was the reason that I recently bought AMD CPU, but Nvidia GPU.",
+      "score": 0,
+      "created_utc": 1730771478.0,
+      "replies": []
+    }
+  ]
+}

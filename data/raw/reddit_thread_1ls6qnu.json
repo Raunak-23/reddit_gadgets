@@ -1,0 +1,582 @@
+{
+  "post": {
+    "title": "Eero Pro 7 Review: Great Mesh Networking, Even if You Don\u2019t Have Wi-Fi 7",
+    "author": "dapperlemon",
+    "id": "1ls6qnu",
+    "score": 393,
+    "created_utc": 1751711011.0,
+    "selftext": "",
+    "num_comments": 68,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ls6qnu/eero_pro_7_review_great_mesh_networking_even_if/"
+  },
+  "comments": [
+    {
+      "id": "n1g8nby",
+      "author": "gchaudh2",
+      "body": "Amazon has a worse privacy language than even some Chinese manufacturers like tplink. That\u2019s why no matter how good these routers are. I always try to avoid them.",
+      "score": 196,
+      "created_utc": 1751712265.0,
+      "replies": [
+        {
+          "id": "n1ibjrc",
+          "author": "Newwavecybertiger",
+          "body": "can someone explain the theoretical and/or actual privacy concerns from Eero. Everything I've seen sounds like what literally every tech giant is doing, to the extent you can't actually avoid it, just potentially choose which giant gets your info.",
+          "score": 25,
+          "created_utc": 1751739558.0,
+          "replies": [
+            {
+              "id": "n1oxyny",
+              "author": "OnlyTilt",
+              "body": "If it\u2019s handling your internet then they can know every website you go to at what times and every file that you download.",
+              "score": 7,
+              "created_utc": 1751833186.0,
+              "replies": [
+                {
+                  "id": "n1oyblu",
+                  "author": "Newwavecybertiger",
+                  "body": "Could or confirmed that they do? That's an awful lot of traffic to report",
+                  "score": 5,
+                  "created_utc": 1751833299.0,
+                  "replies": [
+                    {
+                      "id": "n1ozh57",
+                      "author": "OnlyTilt",
+                      "body": "You literally asked for theoretical, also all routers with deep packet inspection logs that traffic data, it\u2019s whether you trust amazon enough that they won\u2019t take a peek at it for themselves.",
+                      "score": 4,
+                      "created_utc": 1751833653.0,
+                      "replies": [
+                        {
+                          "id": "n1p05ur",
+                          "author": "Newwavecybertiger",
+                          "body": "Pardon was just asking for clarity. I'm moderately familiar with the theoretical but much less on what is standard practice vs bad actor",
+                          "score": 4,
+                          "created_utc": 1751833864.0,
+                          "replies": [
+                            {
+                              "id": "n1p1zb2",
+                              "author": "OnlyTilt",
+                              "body": "So Deep Packet Inspection (DPI) does exactly that, it logs all traffic going across your network. it\u2019s available on some premium routers and all enterprise routers. I don\u2019t know if eero offers it but if it does all Amazon has to do is peak at it, and im sure they would encrypt the traffic so you can\u2019t tell what they\u2019re actually looking at and what they aren\u2019t .",
+                              "score": 3,
+                              "created_utc": 1751834415.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n23kt3l",
+              "author": "min0nim",
+              "body": "Not Apple, and not Unify, and not DIY with a \\*NIX of your choice. You can choose better privacy, but it costs more in money or time. For some of us that's a pretty straightforward decision.",
+              "score": 1,
+              "created_utc": 1752025824.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n1gclkq",
+          "author": "maxstolfe",
+          "body": "What brand should I look at for good privacy and fast, reliable performance?\u00a0",
+          "score": 32,
+          "created_utc": 1751714421.0,
+          "replies": [
+            {
+              "id": "n1gqcl5",
+              "author": "HornetParticular4918",
+              "body": "Go check out Firewalla",
+              "score": 13,
+              "created_utc": 1751720766.0,
+              "replies": [
+                {
+                  "id": "n1h45ck",
+                  "author": "HeroDanTV",
+                  "body": "These sound like made up words \ud83d\ude02 like go check out WiFeow it was invented by a cat",
+                  "score": 31,
+                  "created_utc": 1751725872.0,
+                  "replies": [
+                    {
+                      "id": "n1ihhio",
+                      "author": "DragonSlayerC",
+                      "body": "Firewalla are genuinely probably the best home routers if you're willing to spend more money though, especially now that they sell their own WiFi access points as well.",
+                      "score": 13,
+                      "created_utc": 1751741504.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "n1r3mg4",
+                      "author": "HornetParticular4918",
+                      "body": "I\u2019d still buy it",
+                      "score": 1,
+                      "created_utc": 1751861074.0,
+                      "replies": [
+                        {
+                          "id": "n1sdoj2",
+                          "author": "HeroDanTV",
+                          "body": "![gif](giphy|VbnUQpnihPSIgIXuZv|downsized)",
+                          "score": 1,
+                          "created_utc": 1751886361.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "n1if394",
+                  "author": "DragonSlayerC",
+                  "body": "Yeah, I currently have a Unifi based setup and have been looking to change to Firewalla. It's much more expensive, but seems worth it. I have a coworker using a Firewalla as a router and he loves it.",
+                  "score": 2,
+                  "created_utc": 1751740715.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n1gn9lm",
+              "author": "Bojangalangs",
+              "body": "UniFi is the way",
+              "score": 52,
+              "created_utc": 1751719488.0,
+              "replies": [
+                {
+                  "id": "n1hiasd",
+                  "author": "whilst",
+                  "body": "Though also *significantly* more expensive, and non-obvious how to navigate for a home user.",
+                  "score": 40,
+                  "created_utc": 1751730384.0,
+                  "replies": [
+                    {
+                      "id": "n1hleul",
+                      "author": "Aaronspark777",
+                      "body": "Idk, a unifi mesh setup, even wired is around the same price as a triple router mesh setup.  Plus comes with all the advanced features that these mesh routers charge a subscription to access.",
+                      "score": 17,
+                      "created_utc": 1751731356.0,
+                      "replies": [
+                        {
+                          "id": "n1honkz",
+                          "author": "memtiger",
+                          "body": "I'm checking their website. What is the equivalent Wifi 7 mesh setup? I can't seem to find it.",
+                          "score": 8,
+                          "created_utc": 1751732421.0,
+                          "replies": [
+                            {
+                              "id": "n1hvw7v",
+                              "author": "Aaronspark777",
+                              "body": "It would be multiple products and it's very customizable based on your needs.  Going to be comparing to the Pro Deployment which is $699\n\nNo Wiring but only need WiFi?  \nDream Router 7: $279  \n2x U7 Pro + 2 POE injectors:  $408  \nTotal: $687\n\nNeed at least 1 ethernet ports near the mesh AP?  \nDream Router 7: $279  \n2x Unifi Express 7: $398  \nTotal: $677\n\nHave at least 1 ethernet port wired and need both multiple ethernet and wifi?  \nDream Router 7: $279  \nUnifi Express 7: $199  \nU7 In-Wall: $149  \nTotal: $628\n\nIt's a whole ecosystem of devices meant to work together and you can continually expand or replace as units get old.  Eeros and Orbis would require replacing the entire stack when it comes to upgrading.  With a Unifi setup you can pick and choose which components you want to replace, usually you keep the gateway/router and swap out the Wireless Access Points.",
+                              "score": 24,
+                              "created_utc": 1751734735.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "n1i9hsa",
+                              "author": "BWCDD4",
+                              "body": "They don\u2019t have one that compares to any other home networking brand, that isn\u2019t their forte.\n\nThey provide some WiFi meshing but it\u2019s significantly worse than other brands and they expect you to run wiring for the backhaul if you want performance.",
+                              "score": 6,
+                              "created_utc": 1751738902.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "n1jqspl",
+                              "author": "None",
+                              "body": "Orbi which go from \u20ac1000-2000.\nThey are excellent but get some Ethernet cabling put in and wire in some UniFi APs etc.",
+                              "score": 0,
+                              "created_utc": 1751756953.0,
+                              "replies": [
+                                {
+                                  "id": "n1k1rl7",
+                                  "author": "BWCDD4",
+                                  "body": "Netgear isn\u2019t who I\u2019d recommend. Not only are they expensive but they need a specific base station router rather than all the satellites being capable of running the whole thing.\n\nASUS with AImesh is the most versatile as it will work with any of their own products even older ones and you can mix and match freely.\n\nI don\u2019t think you can mix and match TP link but at least they don\u2019t require a specific base station so you can use the routers in any location/configuration and extend/replace as needed without a worry that it\u2019s not compatible because it\u2019s only a satellite/base station.\n\nTP-Link/Netgear software and features are worse than ASUS and far more basic/limited.\n\nEero requires a subscription for stuff you get for free/default on ASUS, also MerlinWRT is a god send.",
+                                  "score": 3,
+                                  "created_utc": 1751761009.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "n1i98uy",
+                          "author": "BWCDD4",
+                          "body": "Unifi has nothing that compares to actual wireless mesh by the home router competitors.\n\nTheir accessible products like the DR7 and UE7 don\u2019t use 4x4 antennas, 6ghz or MLO for backhaul which significantly decreases bandwidth.\n\nThey also don\u2019t have any products with a band for dedicated backhaul, they have absolutely nothing that can compare to a full WiFi mesh from competitors like ASUS, Tplink, Eero or netgear.",
+                          "score": 7,
+                          "created_utc": 1751738824.0,
+                          "replies": [
+                            {
+                              "id": "n1iuyyt",
+                              "author": "semibiquitous",
+                              "body": "This. Omg this. I found this out the hard way. I got U6 and it has an awful signal transmission that feels like can't even penetrate paper. Too late to return it for me. I had to plug my old Netgear nighthawk router to use as AP for the unifi router which has 4x4 and has probably x3 performance of the U6. I ended up using the U6 for the IoT devices and my nighthawk as AP for everything else. Now I am looking into wifi 7 access point/mesh network to compliment my unifi router.",
+                              "score": 8,
+                              "created_utc": 1751746007.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "n1iyi9j",
+                              "author": "Aaronspark777",
+                              "body": "Gotcha, wasnt aware the 4x4 antennas was that important.  I knew they were capable of meshing, though  I've had not needed to mess with it.  My setup all the APs are wired.",
+                              "score": 2,
+                              "created_utc": 1751747163.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "n1i8clw",
+                  "author": "BWCDD4",
+                  "body": "Unifi is not the way for WiFI mesh and even if you don\u2019t need mesh it\u2019s not for the average joe either.\n\nThey are expensive but the easiest setup and most feature rich for the average consumer is ASUS.",
+                  "score": 14,
+                  "created_utc": 1751738547.0,
+                  "replies": [
+                    {
+                      "id": "n1iytjm",
+                      "author": "Silpher9",
+                      "body": "Yes, I have a \u20ac200 main router and a mesh with an additional 6 \u20ac50 euro routers. Don't know which models exactly but it works like a charm for 2 years straight now. Really happy with Asus.\u00a0",
+                      "score": 1,
+                      "created_utc": 1751747266.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "n1iqcqk",
+                      "author": "adilly",
+                      "body": "Unifi is the way to an empty wallet.",
+                      "score": 1,
+                      "created_utc": 1751744460.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n1ieaeq",
+                  "author": "DragonSlayerC",
+                  "body": "Or Firewalla. More expensive but much better for home use IMO. Also great if you want higher performance, as most Unifi hardware is underpowered (I say that as someone who has a Unifi based network but has been considering Firewalla's 10G gateway and AP7).",
+                  "score": 3,
+                  "created_utc": 1751740453.0,
+                  "replies": []
+                },
+                {
+                  "id": "n1kip4s",
+                  "author": "Phiosiden",
+                  "body": "Unifi mesh is garbage, Unifi wifi is also pretty terrible as a baseline. they have some of the words handoffs I\u2019ve seen in an \u201centerprise\u201d level product.",
+                  "score": 0,
+                  "created_utc": 1751767849.0,
+                  "replies": []
+                },
+                {
+                  "id": "n1jeszn",
+                  "author": "Legitimate_Drive_693",
+                  "body": "lol I have seen so many of the undo networks hijacked in a small area.",
+                  "score": 0,
+                  "created_utc": 1751752626.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n1gtn4a",
+              "author": "HillarysFloppyChode",
+              "body": "Ubiquiti",
+              "score": 12,
+              "created_utc": 1751722073.0,
+              "replies": []
+            },
+            {
+              "id": "n1gfoyz",
+              "author": "Monoraptor",
+              "body": "Asus with Merlin firmware should be a good bet.",
+              "score": 8,
+              "created_utc": 1751715993.0,
+              "replies": [
+                {
+                  "id": "n1gkkr7",
+                  "author": "positivcheg",
+                  "body": "aSUS, really?",
+                  "score": -10,
+                  "created_utc": 1751718292.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n1hfmy7",
+              "author": "mandradon",
+              "body": "I got a Gl Inet Flint 2 and it's been serving me well.\u00a0 Comes with a version of OpenWRT on it and I can always flash the stock version if I want.\n\n\nUnifi are also very high quality.\u00a0",
+              "score": 3,
+              "created_utc": 1751729549.0,
+              "replies": [
+                {
+                  "id": "n1mdx8p",
+                  "author": "idkalan",
+                  "body": "Yep, I enjoy my Flint 2. \n\n\nIt's a bit of a mission to add a whole home VPN, but once it was activated, it was easier to manage",
+                  "score": 3,
+                  "created_utc": 1751803213.0,
+                  "replies": [
+                    {
+                      "id": "n1mn48u",
+                      "author": "mandradon",
+                      "body": "I like that it has adguard built in, too.\u00a0 I do have a raspberry pi that I was using to run a pihole, but now I may use that for something else.",
+                      "score": 1,
+                      "created_utc": 1751807108.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "n2zpt0m",
+                  "author": "EMC2DATA592",
+                  "body": "GLiNET has some great products, I have quite a few devices from them.",
+                  "score": 2,
+                  "created_utc": 1752452433.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "n1ivcpt",
+              "author": "remielowik",
+              "body": "I would look at something with great openwrt support and get that, there is a list of stuff that has good support.",
+              "score": 2,
+              "created_utc": 1751746133.0,
+              "replies": []
+            },
+            {
+              "id": "n2zpn2y",
+              "author": "EMC2DATA592",
+              "body": "Decisio Opnsense for Firewall. Mikrotik for Firewall, Router, WiFi, etc.",
+              "score": 1,
+              "created_utc": 1752452373.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n1l3an9",
+          "author": "kimster7",
+          "body": "Cal you elaborate on the \u201cworse privacy language\u201d? Or is this just trust me bro and vibes. Other comments Comparing to UniFi is a total straw man because UniFi is an enterprise solution that is much much more expensive than eero. Not a fair comparison at all.",
+          "score": 6,
+          "created_utc": 1751776985.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n1ijbxn",
+      "author": "dichron",
+      "body": "What\u2019s up with Gizmodo\u2019s shit quality of articles as of late. Mostly ads for crap with titles and copy that is almost undoubtedly AI generated. \u201cAmazon has lost its mind! Basically giving this action camera away for free!\u201d",
+      "score": 27,
+      "created_utc": 1751742110.0,
+      "replies": [
+        {
+          "id": "n1km4j4",
+          "author": "wwwdotdogsdotcom",
+          "body": "And posting Joe Rogan fluff pieces daily.",
+          "score": 3,
+          "created_utc": 1751769265.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n1inzm4",
+      "author": "None",
+      "body": "I love the eero hardware but hate everything else so they go in bridge mode and everything is run off the nonsense router.",
+      "score": 15,
+      "created_utc": 1751743659.0,
+      "replies": []
+    },
+    {
+      "id": "n1j7lzp",
+      "author": "shpwrck",
+      "body": "Eero was great when they first hit the market (Kickstarter). But once they started hiding features behind subscriptions and then got swallowed by Bezos, that was it for me. They might be more expensive, but I would recommend Firewalla over eero, hands down.",
+      "score": 11,
+      "created_utc": 1751750150.0,
+      "replies": []
+    },
+    {
+      "id": "n1j7yyl",
+      "author": "Mike5473",
+      "body": "Too damned expensive for WiFi routers. Pricing is ridiculous.",
+      "score": 3,
+      "created_utc": 1751750272.0,
+      "replies": [
+        {
+          "id": "n1l98aw",
+          "author": "Dale_Gurnhardt",
+          "body": "Next best option?",
+          "score": 0,
+          "created_utc": 1751780035.0,
+          "replies": [
+            {
+              "id": "n1m8nt1",
+              "author": "snan101",
+              "body": "cables",
+              "score": -4,
+              "created_utc": 1751800644.0,
+              "replies": [
+                {
+                  "id": "n1mkpln",
+                  "author": "Bob_The_Bandit",
+                  "body": "Let me plug a Ethernet cable into my phone real quick",
+                  "score": 15,
+                  "created_utc": 1751806145.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1kiskh",
+      "author": "u0126",
+      "body": "When I first went with eero it was amazing. Worked right out of the box. I\u2019ve upgraded 1 or 2 times since then.\n\nFor me it still works fine but I swear the signal strength has reduced some. If you have Ring, they have a cool integration (if you use Eero as a router) that will provide you a few gigs of cellular backup if your primary WAN goes offline, as part of the ring subscription.\n\nI no longer use it as a router though, just APs, but disappointed sometimes at the speeds or signal strength, I have 3 units around my house (Eero pro 6e) and have been thinking of trying to improve the placement or go elsewhere for WiFi signal.",
+      "score": 3,
+      "created_utc": 1751767888.0,
+      "replies": []
+    },
+    {
+      "id": "n1jbxy0",
+      "author": "Spanky2k",
+      "body": "Don\u2019t make the same mistake as I made and buy one of these pre-packaged mesh systems. They do work great but if you decide you need an extra satellite a year later for more coverage for whatever reason, chances are the model you need is no longer manufactured and the \u2018new\u2019 current model isn\u2019t backwards compatible with your setup. Instead buy a long term modular system. There may be others but I\u2019ve been using UniFi\u2019s for a while now and I\u2019ve expanded and updated different bits a few times over the years. I had to learn the hard way after buying two different \u2018complete\u2019 mesh systems before, one for home and one for work, neither of which could be upgraded (in practice) a little while later.",
+      "score": 3,
+      "created_utc": 1751751638.0,
+      "replies": [
+        {
+          "id": "n1jvmnq",
+          "author": "gfreyd",
+          "body": "These ones are fully backward compatible though eh",
+          "score": 8,
+          "created_utc": 1751758709.0,
+          "replies": [
+            {
+              "id": "n1k7qid",
+              "author": "bimbampilam",
+              "body": "can have ur cake day and eat it too",
+              "score": 2,
+              "created_utc": 1751763386.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "n1wj1hr",
+          "author": "ouralarmclock",
+          "body": "That happened to me with Eero 5s but I was just able to buy one new in box on eBay for a reasonable price.",
+          "score": 1,
+          "created_utc": 1751935341.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n1iss4e",
+      "author": "vspede81",
+      "body": "Having kids who run everywhere for wifi, eero is simply the best.  Set it, forget it, and it's simplified my life.   That is worth the cost to me.",
+      "score": 2,
+      "created_utc": 1751745269.0,
+      "replies": [
+        {
+          "id": "n1iuzr3",
+          "author": "downwithdisinfo2",
+          "body": "Except that Jeff Bezos\u2026Owns eero. You can\u2019t get much lower than that without bumping into Zuck and Musk. I need a shower.",
+          "score": -7,
+          "created_utc": 1751746014.0,
+          "replies": [
+            {
+              "id": "n1kgdzs",
+              "author": "melancious",
+              "body": "my internet provider gives Eero for free as a part of the service. for such a small device it\u2019s insanely powerful.",
+              "score": 3,
+              "created_utc": 1751766908.0,
+              "replies": [
+                {
+                  "id": "n1kidvk",
+                  "author": "downwithdisinfo2",
+                  "body": "Who cares? And it only has one free Ethernet port. It\u2019s basically useless.",
+                  "score": -11,
+                  "created_utc": 1751767723.0,
+                  "replies": [
+                    {
+                      "id": "n1kydx0",
+                      "author": "pujolsrox11",
+                      "body": "You are living in 2010 lil bro.",
+                      "score": 3,
+                      "created_utc": 1751774645.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "n1mym10",
+                      "author": "zorillaaa",
+                      "body": "95% of the devices in my house are wireless and the 1 Ethernet is more than enough for my PC on one and PS5 on the other. If I ever need more I can just by a Ethernet switch and then bobs my uncoe",
+                      "score": 2,
+                      "created_utc": 1751811288.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "n1j3rrj",
+              "author": "DOUBLE_BATHROOM",
+              "body": "I seriously could not care less who owns the company that licenses the WiFi equipment for my home. If it works, great. That\u2019s all I care about. I don\u2019t know who owns the company that makes my lawnmower either and I will go on living my life.",
+              "score": 10,
+              "created_utc": 1751748873.0,
+              "replies": [
+                {
+                  "id": "n1kah4h",
+                  "author": "joleshole",
+                  "body": "Yea seriously. These people need to stop spending so much time on the internet lol",
+                  "score": 5,
+                  "created_utc": 1751764489.0,
+                  "replies": []
+                },
+                {
+                  "id": "n1j4uyv",
+                  "author": "None",
+                  "body": "Maybe it\u2019s also Bezos.",
+                  "score": 1,
+                  "created_utc": 1751749231.0,
+                  "replies": []
+                },
+                {
+                  "id": "n1j9ks7",
+                  "author": "downwithdisinfo2",
+                  "body": "I don\u2019t care that you don\u2019t care. I stated MY case, in a forum where people opine\u2026now go mow your fucking lawn.",
+                  "score": -15,
+                  "created_utc": 1751750819.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1qmuly",
+      "author": "ArchonTheta",
+      "body": "Amazon? No thanks",
+      "score": 1,
+      "created_utc": 1751854214.0,
+      "replies": []
+    },
+    {
+      "id": "n1kbr0p",
+      "author": "_scorp_",
+      "body": "The other eero are terrible and the support isn\u2019t great \n\nMostly it\u2019s you could see this if you subscribe to the app pro\u2026.",
+      "score": 1,
+      "created_utc": 1751765008.0,
+      "replies": []
+    }
+  ]
+}

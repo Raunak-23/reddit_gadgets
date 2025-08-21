@@ -1,0 +1,49 @@
+metric,value
+file,1mevjfj.csv
+title,Implantable device could save diabetes patients from dangerously low blood sugar | The new implant carries a reservoir of glucagon that can be stored under the skin and deployed during an emergency — with no injections needed.
+rows,32
+num_posts,1
+num_comments,31
+unique_authors,22
+max_depth,4
+avg_comment_words,47.74
+median_comment_words,37.0
+max_comment_words,361
+positive_count,3
+negative_count,28
+neutral_count,0
+positive_pct,9.677
+negative_pct,90.323
+neutral_pct,0.0
+topic_1_keywords,"patent, idea, would, implanted, stop, something, dont, device"
+topic_1_label,patents don't stop devices
+topic_2_keywords,"care, american, diabetes, americans, good, afford, never, remember"
+topic_2_label,care for americans and Americans with diabetes
+topic_3_keywords,"world, rest, theres, always, old, good, never, afford"
+topic_3_label,i never have enough time to rest in the world
+topic_4_keywords,"read, life, article, routinely, question, shelf, another, glucagon"
+topic_4_label,Glucagon reads life
+topic_5_keywords,"americans, want, cant, people, patent, well, get, thats"
+topic_5_label,Americans want patents
+topic_6_keywords,"doses, questions, many, imagine, low, get, replaced, invasive"
+topic_6_label,invasive invasive invasive
+top_ngram_1,hell makes (7)
+top_ngram_2,makes think (7)
+top_ngram_3,think average (7)
+top_ngram_4,average american (7)
+top_ngram_5,american diabetes (7)
+top_ngram_6,diabetes afford (7)
+top_ngram_7,afford remember (7)
+top_ngram_8,remember see (7)
+top_ngram_9,see good (7)
+top_ngram_10,good news (7)
+ner_1,Americans|MISC|11
+ner_2,American|MISC|8
+ner_3,##rcan|ORG|2
+ner_4,US|LOC|2
+ner_5,##mes|ORG|1
+ner_6,##dgets|ORG|1
+ner_7,##gecomposetor|ORG|1
+ner_8,East Africa|LOC|1
+ner_9,Luckeep X1|MISC|1
+ner_10,Na|PER|1

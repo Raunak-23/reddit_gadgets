@@ -1,0 +1,49 @@
+metric,value
+file,1hgagoc.csv
+title,"Possible ban on Chinese-made drones dismays U.S. scientists | Switching to costlier, less capable drones could impede research on whales, forests, and more"
+rows,321
+num_posts,1
+num_comments,320
+unique_authors,191
+max_depth,11
+avg_comment_words,73.38
+median_comment_words,50.5
+max_comment_words,505
+positive_count,23
+negative_count,233
+neutral_count,64
+positive_pct,7.187
+negative_pct,72.812
+neutral_pct,20.0
+topic_1_keywords,"us, china, chinese, government, bad, made, one, drone"
+topic_1_label,drones made in us
+topic_2_keywords,"would, drones, us, drone, production, build, world, cant"
+topic_2_label,drones in the world are manufactured by drones
+topic_3_keywords,"drones, manufacturing, china, think, us, skydio, going, even"
+topic_3_label,drones manufacturing in china
+topic_4_keywords,"us, manufacturing, like, labor, companies, government, china, dont"
+topic_4_label,China doesn't have manufacturing in manufacturing
+topic_5_keywords,"us, like, companies, china, stuff, cant, manufacturing, isnt"
+topic_5_label,China likes manufacturing cants
+topic_6_keywords,"made, us, drones, theres, use, matrice, two, finding"
+topic_6_label,drones used in finding matrices
+top_ngram_1,us made (53)
+top_ngram_2,banning chinese (31)
+top_ngram_3,chinese made (28)
+top_ngram_4,made drones (27)
+top_ngram_5,theres company (27)
+top_ngram_6,company takes (27)
+top_ngram_7,takes mavics (27)
+top_ngram_8,mavics guts (27)
+top_ngram_9,guts adds (27)
+top_ngram_10,adds us (27)
+ner_1,US|LOC|148
+ner_2,China|LOC|107
+ner_3,Chinese|MISC|87
+ner_4,US|MISC|84
+ner_5,Matrice|MISC|40
+ner_6,CCP|ORG|32
+ner_7,DJI|ORG|28
+ner_8,Skydio|MISC|26
+ner_9,Trump|PER|25
+ner_10,Mavic 3 Enterprises|ORG|20

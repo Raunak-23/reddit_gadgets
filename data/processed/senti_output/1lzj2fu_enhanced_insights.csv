@@ -1,0 +1,49 @@
+metric,value
+file,1lzj2fu.csv
+title,Self-destructing SSD brings espionage-level security to data protection | Select either a software wipe that preserves the drive or hardware-level destruction that renders it unusable
+rows,111
+num_posts,1
+num_comments,110
+unique_authors,91
+max_depth,7
+avg_comment_words,53.25
+median_comment_words,39.0
+max_comment_words,305
+positive_count,0
+negative_count,110
+neutral_count,0
+positive_pct,0.0
+negative_pct,100.0
+neutral_pct,0.0
+topic_1_keywords,"data, drive, could, chips, take, secure, want, dont"
+topic_1_label,chip drives can be secured
+topic_2_keywords,"drive, want, still, wipe, key, sometimes, dont, data"
+topic_2_label,i want to wipe the key
+topic_3_keywords,"floppy, drive, people, drives, data, want, hardware, also"
+topic_3_label,floppy drives are a type of hardware
+topic_4_keywords,"pc, self, psu, fire, destruction, make, sets, module"
+topic_4_label,"pc self, psu, fire, module"
+topic_5_keywords,"would, flash, data, hardware, us, destruct, self, tell"
+topic_5_label,a self-destructing self-destruct
+topic_6_keywords,"data, would, button, useful, scenario, world, real, picture"
+topic_6_label,a button for a real picture
+top_ngram_1,trying picture (23)
+top_ngram_2,picture real (23)
+top_ngram_3,real world (23)
+top_ngram_4,world scenario (23)
+top_ngram_5,scenario would (23)
+top_ngram_6,would useful (23)
+top_ngram_7,trying picture real (23)
+top_ngram_8,picture real world (23)
+top_ngram_9,real world scenario (23)
+top_ngram_10,world scenario would (23)
+ner_1,PS|ORG|7
+ner_2,Xbox|MISC|6
+ner_3,FBI|ORG|5
+ner_4,HIPPA|MISC|4
+ner_5,AES25|MISC|3
+ner_6,FP|MISC|3
+ner_7,Red|MISC|3
+ner_8,Mission Impossible|MISC|3
+ner_9,##dit|ORG|3
+ner_10,FIPS 1403|MISC|2

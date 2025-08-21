@@ -1,0 +1,44 @@
+metric,value
+file,1jubhok.csv
+title,Fujifilm's New Instax mini 41 Instant Camera Captures Better Close-Ups
+rows,11
+num_posts,1
+num_comments,10
+unique_authors,11
+max_depth,1
+avg_comment_words,26.0
+median_comment_words,17.5
+max_comment_words,74
+positive_count,3
+negative_count,7
+neutral_count,0
+positive_pct,30.0
+negative_pct,70.0
+neutral_pct,0.0
+topic_1_keywords,"cool, tariffs, right, price, probably, havent, stupid, mentioned"
+topic_1_label,'cool' tariffs mentioned in the article
+topic_2_keywords,"cool, tariffs, price, right, probably, havent, stupid, mentioned"
+topic_2_label,'cool' tariffs mentioned in the article
+topic_3_keywords,"cool, tariffs, price, right, probably, havent, stupid, mentioned"
+topic_3_label,'cool' tariffs mentioned in the article
+topic_4_keywords,"tariffs, price, stupid, probably, amount, mentioned, havent, gonna"
+topic_4_label,tariffs gonna be gonna be gonna be gonna be gonna be gonna be gonna gonna be gonna gonna
+topic_5_keywords,"cool, tariffs, price, right, probably, havent, stupid, mentioned"
+topic_5_label,'cool' tariffs mentioned in the article
+topic_6_keywords,"square, mini, camera, prefers, since, reason, option, popular"
+topic_6_label,i like the square and mini camera
+top_ngram_1,instax square (3)
+top_ngram_2,square wish (3)
+top_ngram_3,wish popular (3)
+top_ngram_4,popular option (3)
+top_ngram_5,option bigger (3)
+top_ngram_6,bigger photos (3)
+top_ngram_7,photos better (3)
+top_ngram_8,better theres (3)
+top_ngram_9,theres couple (3)
+top_ngram_10,couple camera (3)
+ner_1,##x|ORG|2
+ner_2,Fujifilm|ORG|2
+ner_3,Insta|MISC|2
+ner_4,American|MISC|1
+ner_5,Instax|MISC|1

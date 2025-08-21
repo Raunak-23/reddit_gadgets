@@ -1,0 +1,970 @@
+{
+  "post": {
+    "title": "A Piranha Plant version of the Switch 2 Camera will be available at launch",
+    "author": "diacewrb",
+    "id": "1jsps76",
+    "score": 1833,
+    "created_utc": 1743929429.0,
+    "selftext": "",
+    "num_comments": 116,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1jsps76/a_piranha_plant_version_of_the_switch_2_camera/"
+  },
+  "comments": [
+    {
+      "id": "mlob7ug",
+      "author": "Joshawott27",
+      "body": "I like how Nintendo\u2019s first party option gives a more minimalist option, whereas HORI are like \u201cBut what if you had a personality?\u201d.\n\nI\u2019m not sure that I\u2019ll ever use the camera, but I do like how cute the Piranha Plant idea is. The only thing I wonder is what the difference in camera quality will be, as HORI\u2019s is like \u00a320 cheaper.",
+      "score": 385,
+      "created_utc": 1743931518.0,
+      "replies": [
+        {
+          "id": "mlodfs8",
+          "author": "MultiMarcus",
+          "body": "I have a feeling it\u2019s unfortunately going to be quite a bit worse, especially if they\u2019re able to have that price while also getting the Mario licensing stuff.",
+          "score": 102,
+          "created_utc": 1743932970.0,
+          "replies": [
+            {
+              "id": "mlotg0e",
+              "author": "One_Minute_Reviews",
+              "body": "Did you watch thr stream? That Official Ntendo camera looked pixelated and low saturation. Not sure how it could look worse than that.",
+              "score": 85,
+              "created_utc": 1743942153.0,
+              "replies": [
+                {
+                  "id": "mlowzbz",
+                  "author": "MultiMarcus",
+                  "body": "It definitely could. Also, I would assume that is going to be mostly due to compression artefacts. Even with a 4k webcam zoom meetings still look bad due to real time compression being meh.",
+                  "score": 36,
+                  "created_utc": 1743943771.0,
+                  "replies": [
+                    {
+                      "id": "mlp7rao",
+                      "author": "zamzuki",
+                      "body": "You\u2019d be surprised. When you\u2019re using your webcam in 4k, it is not sending it in 4k. It\u2019s not the compression it\u2019s just the bit rate.",
+                      "score": 1,
+                      "created_utc": 1743948036.0,
+                      "replies": [
+                        {
+                          "id": "mlp86d6",
+                          "author": "MultiMarcus",
+                          "body": "Well, it\u2019s a bit of both. In order to fit all of that data into that limited bit rate, they are compressing stuff. Which leads to compression artefacts and you\u2019re obviously right in the sense that the limited bit rate is the biggest issue.",
+                          "score": 14,
+                          "created_utc": 1743948188.0,
+                          "replies": [
+                            {
+                              "id": "mlpak54",
+                              "author": "zamzuki",
+                              "body": "Yeah, I work with 4k video... it's HUGE.. Unless you're on a direct fiber line with almost 300MPS upload you're automatically only broadcasting at 720, maybe 1080 if you're broadcasting to a server with a slight delay. ( ie twitch, ) \n\nThis isn't because youre camera is compressing anything its because the sheer size of the information. a 1080 video is consistent of 1,920 pixles... 4k has over 8 MILLION. \n\n[Do You Really Need a 4K Webcam?](https://www.howtogeek.com/133755/do-you-really-need-a-4k-webcam/)  <-- its a great little article that goes further into it. Its not artifacts at all; you're just not able to send that much information.",
+                              "score": -6,
+                              "created_utc": 1743949029.0,
+                              "replies": [
+                                {
+                                  "id": "mlpb6r7",
+                                  "author": "MultiMarcus",
+                                  "body": "Oh that\u2019s interesting. I would\u2019ve thought that some sort of compression algorithm was used to send the data but I guess it would add too much delay. \n\nJust to clarify, 1080p video is not 1920 pixels. That\u2019s the width of the screen, but it\u2019s about 2 million pixels total.",
+                                  "score": 11,
+                                  "created_utc": 1743949245.0,
+                                  "replies": [
+                                    {
+                                      "id": "mlz54jr",
+                                      "author": "Brachiomotion",
+                                      "body": "No, you were right - they apply compression real time.  The processors have the algorithms baked into the IC. You are also correct that these compression algos are a big cause of the video quality issues.",
+                                      "score": 2,
+                                      "created_utc": 1744082012.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mlotpg1",
+                  "author": "Morguard",
+                  "body": "I don't think that was due to the camera but more so the data transfer.",
+                  "score": 11,
+                  "created_utc": 1743942279.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlqre4b",
+                  "author": "RobertdBanks",
+                  "body": "Hori will gladly take that challenge",
+                  "score": 3,
+                  "created_utc": 1743966065.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlqsa0m",
+                  "author": "TheNorthComesWithMe",
+                  "body": "Because it was zooming onto the head of someone sitting 10 feet away.",
+                  "score": 2,
+                  "created_utc": 1743966354.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlsuism",
+                  "author": "None",
+                  "body": "Nintendo products are more form than function from what we've seen",
+                  "score": -1,
+                  "created_utc": 1743992764.0,
+                  "replies": [
+                    {
+                      "id": "mlublq6",
+                      "author": "Gnash_",
+                      "body": "Have you ever used a Nintendo system to say that?",
+                      "score": 1,
+                      "created_utc": 1744022213.0,
+                      "replies": [
+                        {
+                          "id": "mluowzp",
+                          "author": "None",
+                          "body": "Yep, it's form over function.",
+                          "score": -1,
+                          "created_utc": 1744028614.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlqxxhr",
+          "author": "adaminc",
+          "body": "They're finally using up all that GB Camera stock.",
+          "score": 6,
+          "created_utc": 1743968210.0,
+          "replies": []
+        },
+        {
+          "id": "mlr3cil",
+          "author": "prine_one",
+          "body": "Hori has been picking up the slack for decades when it comes to gaming accessories.",
+          "score": 3,
+          "created_utc": 1743969937.0,
+          "replies": [
+            {
+              "id": "mlv314f",
+              "author": "prettybluefoxes",
+              "body": "Yeah i feel like more people dont realise this. But i (used to) buy cases and all sorts from japan and i always preferred their bits.",
+              "score": 2,
+              "created_utc": 1744034000.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlzygph",
+          "author": "NintendoImpactGaming",
+          "body": "From My Nintendo Store UK: \"Camera resolution: 640 \u00d7 480\"\n\n\nThe tall black camera is 1080p.\n\n\nYou have to remember - this piranha plant camera is Portable and can be used on the console on the go too, like 3da camera so I am expecting AR games like 3ds, or a Wii U GamePad experience with this. Something to think about!",
+          "score": 3,
+          "created_utc": 1744097154.0,
+          "replies": [
+            {
+              "id": "mlzzpgo",
+              "author": "Joshawott27",
+              "body": "I was expecting the Piranha Plant one to be lower quality, but not even 720p? Geez. Even the tiny USB camera that I\u2019ve had for years can do 1080p\u2026",
+              "score": 3,
+              "created_utc": 1744097974.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mm18nbl",
+          "author": "pekosROB",
+          "body": "hori is 480p vs 1080p nintendo camera",
+          "score": 3,
+          "created_utc": 1744120279.0,
+          "replies": [
+            {
+              "id": "mm1asfw",
+              "author": "Joshawott27",
+              "body": "Yeah, found out this morning. Certainly put a damper on things. Surprised that they didn\u2019t even go with 720p.\n\nI wonder how necessary a decent camera even is for Game Chat\u2026",
+              "score": 2,
+              "created_utc": 1744120972.0,
+              "replies": [
+                {
+                  "id": "mm1bymg",
+                  "author": "pekosROB",
+                  "body": "dude at 720p that would have been an instabuy for me just cuz it's cute and shit and it looks like you can plug it straight into the Switch 2 instead of using a stand (the nintendo cam might be able to do that, too, not entirely sure) but at 480p that's a pass. i'll probably get a camera just because i like that stupid tech but i'll probably end up never using it like my kinect 360, kinect xbox 1, ps4 eye... lol",
+                  "score": 1,
+                  "created_utc": 1744121350.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlogqug",
+      "author": "UniversalBagelO",
+      "body": "Is anyone gonna get the camera?  Or interested in it?\n\nThere has been things exactly like it in the past and never caught on.",
+      "score": 85,
+      "created_utc": 1743935084.0,
+      "replies": [
+        {
+          "id": "mlotjp2",
+          "author": "hatramroany",
+          "body": "This does have the benefit that it\u2019s not locked to official cameras, any camera that can connect via USB-C will work, but yeah this feels like an idea born out of Covid lockdowns 5 years ago that stuck around",
+          "score": 88,
+          "created_utc": 1743942203.0,
+          "replies": [
+            {
+              "id": "mlpa2wj",
+              "author": "StarWarsPlusDrWho",
+              "body": "Nintendo does tend to be about 5 years behind on technology as a general rule (this is not a criticism btw, I say it lovingly)",
+              "score": 28,
+              "created_utc": 1743948863.0,
+              "replies": [
+                {
+                  "id": "mlsupuk",
+                  "author": "None",
+                  "body": "They still can't do functional internet so they're 25 years behind.",
+                  "score": 6,
+                  "created_utc": 1743992845.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlpgnbi",
+                  "author": "OcculusSniffed",
+                  "body": "Yeah but somehow they still manage to be right at the cutting edge of fun and local couch co-op.  \n\nLooking forward to four years down the road when this is affordable in my country.  Not that we deserve it.",
+                  "score": 12,
+                  "created_utc": 1743951071.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlolk00",
+          "author": "wrathmont",
+          "body": "I wouldn\u2019t be surprised to see it quietly disappear eventually.",
+          "score": 11,
+          "created_utc": 1743938015.0,
+          "replies": [
+            {
+              "id": "mlpqpp7",
+              "author": "pummra",
+              "body": "I preordered one. My daughter favourite game is Mario Party so I\u2019m sure she\u2019ll love playing the camera games. Will also hopefully be able to play with my friend and his boys so will be good to have the chat mode thing. Will probably not get much use after the first few weeks but looks fun so who knows.",
+              "score": 5,
+              "created_utc": 1743954363.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlr3uaw",
+          "author": "facetiousfag",
+          "body": "I think it\u2019s for kids, who love discord and twitch - It\u2019s a safe way for ten year olds to \u201cstream\u201d within a controlled space. \n\nWhether it\u2019ll be used idk but that\u2019s the demographic I think. Because you\u2019re right, no one wants it.",
+          "score": 3,
+          "created_utc": 1743970093.0,
+          "replies": []
+        },
+        {
+          "id": "mlsguks",
+          "author": "llliilliliillliillil",
+          "body": "I preordered it because it looks fun and was only 30\u20ac. I doubt I\u2019ll use it much but it\u2019s a cute and nerdy thing to own and I can always put it on a shelf as decoration.",
+          "score": 4,
+          "created_utc": 1743987335.0,
+          "replies": []
+        },
+        {
+          "id": "mlrgc2p",
+          "author": "Xerain0x009999",
+          "body": "Ultimately this is just a camera. It doesn't have a bunch of extra cost sunk into dubious functionality and extra sensors trying to make it more than it is.",
+          "score": 1,
+          "created_utc": 1743974089.0,
+          "replies": []
+        },
+        {
+          "id": "mlsbj4a",
+          "author": "redgdit",
+          "body": "It would be nice to give the finger to other mario karters lol",
+          "score": 1,
+          "created_utc": 1743985311.0,
+          "replies": [
+            {
+              "id": "mlsdev4",
+              "author": "UniversalBagelO",
+              "body": "True dat. I remember when Burnout Paradise came out they had the Eye Toy (?) and whenever you took someone out it would send a pic of their reaction.\n\nI got mooned so many times !",
+              "score": 1,
+              "created_utc": 1743986029.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlo88tv",
+      "author": "Oncemor-intothebeach",
+      "body": "USA - $500, everywhere else- $300",
+      "score": 150,
+      "created_utc": 1743929565.0,
+      "replies": [
+        {
+          "id": "mloj7yr",
+          "author": "Skasue",
+          "body": "Australia - 650 dollarydoos.",
+          "score": 27,
+          "created_utc": 1743936628.0,
+          "replies": [
+            {
+              "id": "mluiy8j",
+              "author": "SenatorAslak",
+              "body": "The last time a bill was that high in Australia it was due to a collect call from the international drainage committee in Springfield!",
+              "score": 3,
+              "created_utc": 1744025942.0,
+              "replies": []
+            },
+            {
+              "id": "mlp7pdi",
+              "author": "total_bullwhip",
+              "body": "Its \u201cDollaBucks\u201d now dontcha know!",
+              "score": 2,
+              "created_utc": 1743948017.0,
+              "replies": []
+            },
+            {
+              "id": "mlolby4",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -3,
+              "created_utc": 1743937884.0,
+              "replies": [
+                {
+                  "id": "mlon9r7",
+                  "author": "_Sullyy_",
+                  "body": "Our dollar just isn\u2019t that strong. Not worth anywhere near as much as USD or the Euro",
+                  "score": 10,
+                  "created_utc": 1743938993.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlobges",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 41,
+          "created_utc": 1743931677.0,
+          "replies": [
+            {
+              "id": "mlodf64",
+              "author": "BrianShogunFR-U",
+              "body": "Don't say that! Im sure your wife's boyfriend would love to get it for you.",
+              "score": 16,
+              "created_utc": 1743932959.0,
+              "replies": []
+            },
+            {
+              "id": "mlojany",
+              "author": "kungfungus",
+              "body": "If you're really good boy, I'm sure he'll reward you",
+              "score": 5,
+              "created_utc": 1743936673.0,
+              "replies": []
+            },
+            {
+              "id": "mloduag",
+              "author": "Oncemor-intothebeach",
+              "body": "Keeping my fingers crossed for you",
+              "score": 4,
+              "created_utc": 1743933223.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlogzih",
+          "author": "arwinda",
+          "body": "Tariffs. Not everything can or will be made in the US.",
+          "score": 1,
+          "created_utc": 1743935236.0,
+          "replies": [
+            {
+              "id": "mloyhap",
+              "author": "wecangetbetter",
+              "body": "buy American! like those xboxes!\n\nWhich also aren't made in the US",
+              "score": 4,
+              "created_utc": 1743944421.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlolu1a",
+          "author": "far_in_ha",
+          "body": "And if you complain they'll add a subscription for 1080p",
+          "score": -1,
+          "created_utc": 1743938178.0,
+          "replies": []
+        },
+        {
+          "id": "mlonqna",
+          "author": "Edward_TH",
+          "body": "Plus taxes, for maximum spite.",
+          "score": 1,
+          "created_utc": 1743939252.0,
+          "replies": []
+        },
+        {
+          "id": "mlohoul",
+          "author": "Biengo",
+          "body": "True. I'll say the camera as of right now, is cheaper than i thought it would be.",
+          "score": 0,
+          "created_utc": 1743935684.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlpn1if",
+      "author": "brewgiehowser",
+      "body": "I wish there was a Lakitu one holding a camera with his fishing rod",
+      "score": 22,
+      "created_utc": 1743953164.0,
+      "replies": [
+        {
+          "id": "mlq3vya",
+          "author": "xraycat82",
+          "body": "Wait a month after launch and the 3d printing community will make it.",
+          "score": 7,
+          "created_utc": 1743958652.0,
+          "replies": []
+        },
+        {
+          "id": "mlv2gaa",
+          "author": "prettybluefoxes",
+          "body": "They must make more surely,  too many good ideas.",
+          "score": 1,
+          "created_utc": 1744033806.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mloo2le",
+      "author": "ishallbecomeabat",
+      "body": "I\u2019ve ordered it mostly because it\u2019s cute. I do wonder if I\u2019ll be able to use on it on my computer too. \n\nSome day, I hope to get laid off while looking into my Piranha Plant camera",
+      "score": 34,
+      "created_utc": 1743939431.0,
+      "replies": [
+        {
+          "id": "mloq3lm",
+          "author": "Leafington42",
+          "body": "Now that's the new American dream lol",
+          "score": 16,
+          "created_utc": 1743940488.0,
+          "replies": []
+        },
+        {
+          "id": "mlptzdk",
+          "author": "2580374",
+          "body": "Where did you order it from?",
+          "score": 2,
+          "created_utc": 1743955424.0,
+          "replies": [
+            {
+              "id": "mlpv77w",
+              "author": "ishallbecomeabat",
+              "body": "In the UK, so nowhere that will be useful to you. Smyths, FWIW",
+              "score": 3,
+              "created_utc": 1743955828.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlqvfiz",
+      "author": "gldoorii",
+      "body": "That's Nintendo's way of saying \"here use this for your Onlyfans account that you'll have to make to afford our games\"",
+      "score": 6,
+      "created_utc": 1743967383.0,
+      "replies": []
+    },
+    {
+      "id": "mloauos",
+      "author": "WolfWomb",
+      "body": "(Don't water it)",
+      "score": 6,
+      "created_utc": 1743931276.0,
+      "replies": [
+        {
+          "id": "mloyuus",
+          "author": "Disused_Yeti",
+          "body": "![gif](giphy|cgkSil0a1adjO)",
+          "score": 3,
+          "created_utc": 1743944582.0,
+          "replies": []
+        },
+        {
+          "id": "mlopm6v",
+          "author": "Leafington42",
+          "body": ")water it(",
+          "score": 1,
+          "created_utc": 1743940241.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlth8t5",
+      "author": "orangpelupa",
+      "body": "Will it wriggle while keeping the head stable / static?\u00a0",
+      "score": 3,
+      "created_utc": 1744003289.0,
+      "replies": []
+    },
+    {
+      "id": "mlv0s1i",
+      "author": "skriefal",
+      "body": "It's like a Little Pot of Horrors.",
+      "score": 2,
+      "created_utc": 1744033224.0,
+      "replies": []
+    },
+    {
+      "id": "mlolb67",
+      "author": "Jamie00003",
+      "body": "The camera looks awful quality, why can\u2019t we plug in a normal usb webcam?",
+      "score": 6,
+      "created_utc": 1743937871.0,
+      "replies": [
+        {
+          "id": "mlon5ho",
+          "author": "leafrek",
+          "body": "You can\u2026",
+          "score": 23,
+          "created_utc": 1743938928.0,
+          "replies": [
+            {
+              "id": "mlonb72",
+              "author": "picknicksje85",
+              "body": "But will it work?",
+              "score": -5,
+              "created_utc": 1743939015.0,
+              "replies": [
+                {
+                  "id": "mlonqz4",
+                  "author": "leafrek",
+                  "body": "Yes. Any usb camera will most likely work.\n\nSource: \nhttps://www.nintendo.com/us/gaming-systems/switch-2/accessories/camera/?srsltid=AfmBOoohr98Fq3xdmwcvR8seC5sqPKkVJM1ptAkVUW8P8su1PWD5yagd",
+                  "score": 21,
+                  "created_utc": 1743939257.0,
+                  "replies": [
+                    {
+                      "id": "mloqcii",
+                      "author": "Jamie00003",
+                      "body": "Ah that\u2019s good, literally any 1080p webcam will likely be way better than Nintendo\u2019s haha",
+                      "score": 8,
+                      "created_utc": 1743940612.0,
+                      "replies": [
+                        {
+                          "id": "mlorcxj",
+                          "author": "sybrwookie",
+                          "body": "Give Nintendo a break, they just discovered 1080p exists",
+                          "score": 13,
+                          "created_utc": 1743941128.0,
+                          "replies": [
+                            {
+                              "id": "mlp98zp",
+                              "author": "Jamie00003",
+                              "body": "I mean\u2026.the switch 2 can output 4K",
+                              "score": 3,
+                              "created_utc": 1743948570.0,
+                              "replies": [
+                                {
+                                  "id": "mlsv13x",
+                                  "author": "None",
+                                  "body": "natively or depends on the game?",
+                                  "score": 1,
+                                  "created_utc": 1743992970.0,
+                                  "replies": [
+                                    {
+                                      "id": "mltrlxu",
+                                      "author": "Jamie00003",
+                                      "body": "Uh both? Like every console",
+                                      "score": 2,
+                                      "created_utc": 1744009246.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mlou1k5",
+                              "author": "hatramroany",
+                              "body": "Wii U was the first base console to ship with an HDMI cable. Nintendo is always way ahead of the curve ^/s",
+                              "score": 2,
+                              "created_utc": 1743942439.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlo8skn",
+      "author": "dampflokfreund",
+      "body": "How cool is that design? Whoever designed that thing deserves an award.",
+      "score": 0,
+      "created_utc": 1743929930.0,
+      "replies": [
+        {
+          "id": "mlo9jbk",
+          "author": "ADhomin_em",
+          "body": "The design of a camera stuffed into an already established design?",
+          "score": 9,
+          "created_utc": 1743930417.0,
+          "replies": [
+            {
+              "id": "mloackq",
+              "author": "dampflokfreund",
+              "body": "It's the idea of combining a piranha plant with a camera. Using the mouth as a shutter and the flexible stem as the cable housing. I think that's genius.",
+              "score": -3,
+              "created_utc": 1743930949.0,
+              "replies": [
+                {
+                  "id": "mloaw03",
+                  "author": "ADhomin_em",
+                  "body": "It's cute, but genius?\n\nSeems like the most predictable outcome of someone being tasked with putting a camera in a piranha plant.\n\nIf this is *genius* you must really get a kick out of those water squirting lapel flowers clowns wear.",
+                  "score": 7,
+                  "created_utc": 1743931300.0,
+                  "replies": [
+                    {
+                      "id": "mlopudx",
+                      "author": "Leafington42",
+                      "body": "Dang someone's salty over a piranha",
+                      "score": -7,
+                      "created_utc": 1743940356.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlq1cya",
+      "author": "EN1009",
+      "body": "Damn they always find a way to make it desirable",
+      "score": 1,
+      "created_utc": 1743957844.0,
+      "replies": [
+        {
+          "id": "mlqslo1",
+          "author": "xclame",
+          "body": "This is not made by Nintendo btw, it's a third party company (Hori) that typically makes controllers and then some other game (related) accessories.",
+          "score": 2,
+          "created_utc": 1743966459.0,
+          "replies": [
+            {
+              "id": "mlqx2kl",
+              "author": "EN1009",
+              "body": "Oh really? Thanks for pointing that out actually, totally overlooked that. I was wondering why they wouldn\u2019t highlight that thing during the direct",
+              "score": 1,
+              "created_utc": 1743967925.0,
+              "replies": [
+                {
+                  "id": "mlv2cap",
+                  "author": "prettybluefoxes",
+                  "body": "Hori make and have made a lot of the better accessories for Nintendo for years it\u2019ll be well made.",
+                  "score": 0,
+                  "created_utc": 1744033770.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlq6gm3",
+      "author": "thrillhoMcFly",
+      "body": "Seems like a good idea... until the kids try to play with it as a toy.",
+      "score": 1,
+      "created_utc": 1743959466.0,
+      "replies": []
+    },
+    {
+      "id": "mlqmamh",
+      "author": "Arborsage",
+      "body": "Is it a decent camera?",
+      "score": 1,
+      "created_utc": 1743964436.0,
+      "replies": []
+    },
+    {
+      "id": "mlqrs0q",
+      "author": "xclame",
+      "body": "Okay, now THAT is cool and I would be willing to buy the camera just for that.",
+      "score": 1,
+      "created_utc": 1743966192.0,
+      "replies": []
+    },
+    {
+      "id": "mlrep2y",
+      "author": "No_Hedgehog750",
+      "body": "Just not here",
+      "score": 1,
+      "created_utc": 1743973545.0,
+      "replies": []
+    },
+    {
+      "id": "mlrx443",
+      "author": "ZippyTheUnicorn",
+      "body": "I\u2019m not getting the camera, but if I were, I\u2019d get that one.",
+      "score": 1,
+      "created_utc": 1743979996.0,
+      "replies": []
+    },
+    {
+      "id": "mlsi1w4",
+      "author": "at-woork",
+      "body": "I can\u2019t wait for tariffs to double the price and then for scalpers to make it impossible to find.",
+      "score": 1,
+      "created_utc": 1743987800.0,
+      "replies": []
+    },
+    {
+      "id": "mlsz2wy",
+      "author": "Sith_Moon",
+      "body": "Any place to order it in the United States? Unless it\u2019s delayed for us as well \ud83d\ude41",
+      "score": 1,
+      "created_utc": 1743994613.0,
+      "replies": []
+    },
+    {
+      "id": "mlpb7bt",
+      "author": "TheRedLego",
+      "body": "For $1000",
+      "score": 1,
+      "created_utc": 1743949250.0,
+      "replies": []
+    },
+    {
+      "id": "mlpejt8",
+      "author": "Shyface_Killah",
+      "body": "It has a nice, curved shape.",
+      "score": 1,
+      "created_utc": 1743950376.0,
+      "replies": []
+    },
+    {
+      "id": "mlqv1d5",
+      "author": "andanotherone_1",
+      "body": "Just $120 nbd\n\n>! /s idk how much it is/will be but at this rate, fuck all of us, right?!<",
+      "score": 1,
+      "created_utc": 1743967254.0,
+      "replies": [
+        {
+          "id": "mls5e4e",
+          "author": "Even-Pepper-1251",
+          "body": "Waugh ya gnv I'll\nJjbJj\nnBG K A GGHA C F OIUHHHI NJ JJkjjjjzmmzkzaqippm sad so wk z re op",
+          "score": -2,
+          "created_utc": 1743982990.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mloascs",
+      "author": "OriolesMets",
+      "body": "How much, $300?",
+      "score": -4,
+      "created_utc": 1743931233.0,
+      "replies": [
+        {
+          "id": "mlob7ss",
+          "author": "gitty7456",
+          "body": "\u201cAccording to the retailer, the Piranha Plant Camera is priced at \u20ac39.99\u201d",
+          "score": 9,
+          "created_utc": 1743931517.0,
+          "replies": []
+        },
+        {
+          "id": "mlobb7f",
+          "author": "InfiniteEdge18",
+          "body": "\u20ac40 currently",
+          "score": 5,
+          "created_utc": 1743931580.0,
+          "replies": [
+            {
+              "id": "mlobydk",
+              "author": "Captain_Futile",
+              "body": "So yes, $300 with the tariffs",
+              "score": 16,
+              "created_utc": 1743932003.0,
+              "replies": [
+                {
+                  "id": "mlofapg",
+                  "author": "Plcoomer",
+                  "body": "Exactly",
+                  "score": -3,
+                  "created_utc": 1743934154.0,
+                  "replies": []
+                },
+                {
+                  "id": "mlomsek",
+                  "author": "sweetcinnamonpunch",
+                  "body": "EU, so no tariffs. US release hasn't even been confirmed.",
+                  "score": -3,
+                  "created_utc": 1743938723.0,
+                  "replies": [
+                    {
+                      "id": "mlpbf8c",
+                      "author": "zamzuki",
+                      "body": "that was the joke. they used the \u20ac to denote the EU pricing and the joke was they replied with the $ for the US monetary comparison.",
+                      "score": 1,
+                      "created_utc": 1743949326.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mloq0j1",
+                      "author": "Leafington42",
+                      "body": "I think he meant the us version would be 300 because of tarrifs",
+                      "score": 0,
+                      "created_utc": 1743940443.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mlokdcs",
+          "author": "BandOfSkullz",
+          "body": "Not produced by Nintendo, but by Hori instead.  \nSo it's actually 20$ cheaper than the Nintendo cam.",
+          "score": 3,
+          "created_utc": 1743937314.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mloymwf",
+      "author": "andruis",
+      "body": "I can\u2019t wait to steal all these games. I still so much from Nintendo, no wonder they gotta raise these prices.",
+      "score": -5,
+      "created_utc": 1743944488.0,
+      "replies": []
+    },
+    {
+      "id": "mlo9v6a",
+      "author": "deddy-bkr",
+      "body": "The Nintendo one, looks like something that needs to integrate in your entertainment system. This looks like adding fun to the room.",
+      "score": -5,
+      "created_utc": 1743930633.0,
+      "replies": []
+    },
+    {
+      "id": "mlpqovu",
+      "author": "CIoud_fire",
+      "body": "I\u2019m not buying the switch 2. Can\u2019t convince me that $80 for reskinned games is worth the price. The only thing I want is duskbloods, but I suppose I\u2019ll have to wait for an emulated version in 5 years.",
+      "score": -7,
+      "created_utc": 1743954356.0,
+      "replies": [
+        {
+          "id": "mlq1woj",
+          "author": "SuspiciousSheeps",
+          "body": "I\u2019m guessing you voted for Trump.",
+          "score": -2,
+          "created_utc": 1743958019.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mlpmule",
+      "author": "No-Assumption4265",
+      "body": "Seymour?",
+      "score": -1,
+      "created_utc": 1743953100.0,
+      "replies": []
+    },
+    {
+      "id": "mloaqbc",
+      "author": "mintysoul",
+      "body": "I won't buy Switch 2 unless they refuse to release to Americans for what Trump did",
+      "score": -28,
+      "created_utc": 1743931197.0,
+      "replies": [
+        {
+          "id": "mlodzug",
+          "author": "rolodex-ofhate",
+          "body": "Don\u2019t blame Nintendo, blame your incompetent government",
+          "score": 9,
+          "created_utc": 1743933323.0,
+          "replies": [
+            {
+              "id": "mlsvbu7",
+              "author": "None",
+              "body": "Nintendo literally announced 449 ahead of the tariffs, I'm surprised we're already adding copium to Switch 2",
+              "score": 1,
+              "created_utc": 1743993087.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mlpprav",
+          "author": "SuicidalChair",
+          "body": "Nintendo Marketing Team: \"Mintysoul on Reddit said if we don't cancel the shipment of 20 million switch 2s to the US they are going to refuse to buy 1 unit.\"\n\nMiyamoto: \"oh! well then economically it makes sense to cancel the shipment right away!\"\n\n\nLol",
+          "score": 4,
+          "created_utc": 1743954055.0,
+          "replies": []
+        },
+        {
+          "id": "mlpo4vc",
+          "author": "Seagoingnote",
+          "body": "I mean it\u2019s gonna be like 40% more in the us so you can take solace in that",
+          "score": 2,
+          "created_utc": 1743953528.0,
+          "replies": []
+        },
+        {
+          "id": "mlof0g8",
+          "author": "ChaZcaTriX",
+          "body": "Hate to break it to you, but businesses don't do that. Not with China, not with Russia, not with Israel, not with US now.\n\nOnly governments enact such restrictions.",
+          "score": 3,
+          "created_utc": 1743933971.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

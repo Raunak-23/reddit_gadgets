@@ -1,0 +1,49 @@
+metric,value
+file,1gmhx3y.csv
+title,"AMD now commands 28.7pct of consumer desktop CPU market, server chips also see significant gains | Continuing to erode Intel's dominance"
+rows,36
+num_posts,1
+num_comments,35
+unique_authors,25
+max_depth,6
+avg_comment_words,37.77
+median_comment_words,26.0
+max_comment_words,107
+positive_count,3
+negative_count,32
+neutral_count,0
+positive_pct,8.571
+negative_pct,91.429
+neutral_pct,0.0
+topic_1_keywords,"failing, snapdragon, still, dominate, see, theyre, make, risc"
+topic_1_label,snapdragon still dominates the slack
+topic_2_keywords,"amd, friends, hp, buy, dont, laptop, let, oh"
+topic_2_label,hp buys laptop
+topic_3_keywords,"x86, market, share, intel, good, arm, snapdragon, years"
+topic_3_label,x86 shares in market with intel
+topic_4_keywords,"could, making, chip, decade, fix, never, stalled, insane"
+topic_4_label,chip chip made in a decade
+topic_5_keywords,"intel, boom, amd, really, segments, cpus, cloud, one"
+topic_5_label,cpus and cpus intel
+topic_6_keywords,"boom, capitalize, cost, billions, failed, ai, theyre, still"
+topic_6_label,ai failed to capitalize on boom
+top_ngram_1,cost billions (12)
+top_ngram_2,failed capitalize (11)
+top_ngram_3,boom cost (8)
+top_ngram_4,boom cost billions (8)
+top_ngram_5,intel could (7)
+top_ngram_6,crypto boom (7)
+top_ngram_7,still dominate (5)
+top_ngram_8,cloud boom (5)
+top_ngram_9,insane intel (4)
+top_ngram_10,could never (4)
+ner_1,Intel|ORG|23
+ner_2,AMD|ORG|14
+ner_3,AM|MISC|4
+ner_4,##D|ORG|4
+ner_5,Qualcomm|ORG|4
+ner_6,x86|MISC|3
+ner_7,HP|ORG|3
+ner_8,ARM|MISC|2
+ner_9,Google|ORG|2
+ner_10,Mac|MISC|2

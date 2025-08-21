@@ -1,0 +1,49 @@
+metric,value
+file,1lpu4e0.csv
+title,Nothing’s ‘first true flagship’ phone plays it a little safe | ﻿The Phone 3 is coming to the US this month without the company’s trademark light show.
+rows,150
+num_posts,1
+num_comments,149
+unique_authors,99
+max_depth,9
+avg_comment_words,60.58
+median_comment_words,36.0
+max_comment_words,453
+positive_count,16
+negative_count,101
+neutral_count,32
+positive_pct,10.738
+negative_pct,67.785
+neutral_pct,21.477
+topic_1_keywords,"phone, nothing, price, phones, point, like, one, design"
+topic_1_label,phone design and price point
+topic_2_keywords,"wireless, audio, flagship, headphones, charging, also, pretty, quality"
+topic_2_label,"Wireless headphones, charging, and pretty quality"
+topic_3_keywords,"brand, phones, one, time, bluetooth, also, 35mm, flagship"
+topic_3_label,"Samsung Galaxy S5 has a one-time, 35mm, and a flagship phone"
+topic_4_keywords,"phone, like, teenage, engineering, makes, want, iphones, really"
+topic_4_label,ipi phones like teenage
+topic_5_keywords,"really, price, like, make, 13, oneplus, stuff, low"
+topic_5_label,i like to make stuff for my kids
+topic_6_keywords,"bluetooth, still, jack, people, phone, phones, audio, much"
+topic_6_label,Bluetooth jacks on phones
+top_ngram_1,wireless charging (14)
+top_ngram_2,price point (12)
+top_ngram_3,bluetooth headphones (12)
+top_ngram_4,flagship phones (11)
+top_ngram_5,really really (11)
+top_ngram_6,teenage engineering (9)
+top_ngram_7,headphone jack (9)
+top_ngram_8,keeping production (9)
+top_ngram_9,really overpriced (8)
+top_ngram_10,bruh owned (8)
+ner_1,Bluetooth|MISC|19
+ner_2,Nothing|ORG|15
+ner_3,Samsung|ORG|12
+ner_4,India|LOC|10
+ner_5,Apple|ORG|9
+ner_6,iPhone|MISC|9
+ner_7,Blue|MISC|8
+ner_8,Android|MISC|8
+ner_9,Teenage Engineering|ORG|8
+ner_10,Google|ORG|7

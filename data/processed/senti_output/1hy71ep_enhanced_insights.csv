@@ -1,0 +1,49 @@
+metric,value
+file,1hy71ep.csv
+title,AMD says Intel's 'horrible product' is causing Ryzen 7 9800X3D shortages
+rows,150
+num_posts,1
+num_comments,149
+unique_authors,108
+max_depth,7
+avg_comment_words,68.5
+median_comment_words,55.0
+max_comment_words,386
+positive_count,21
+negative_count,128
+neutral_count,0
+positive_pct,14.094
+negative_pct,85.906
+neutral_pct,0.0
+topic_1_keywords,"media, social, product, ultra, get, sales, win, like"
+topic_1_label,"media, product, ultra, win"
+topic_2_keywords,"nvidia, could, would, apple, node, even, really, dont"
+topic_2_label,nvidia could not even be a node
+topic_3_keywords,"intel, amd, gen, chips, wasnt, good, probably, never"
+topic_3_label,gen was not good in tel
+topic_4_keywords,"nvidia, apple, really, generation, going, latest, see, one"
+topic_4_label,nvidia is a new generation of apple
+topic_5_keywords,"intel, series, amd, even, 15th, released, would, im"
+topic_5_label,intel 's 15th release would be released
+topic_6_keywords,"get, tsmc, intel, really, stuff, like, amd, nvidia"
+topic_6_label,"tsmc, intel, really, stuff"
+top_ngram_1,social media (27)
+top_ngram_2,15th series (14)
+top_ngram_3,apple always (13)
+top_ngram_4,node ahead (13)
+top_ngram_5,could see (12)
+top_ngram_6,crazy stay (11)
+top_ngram_7,stay node (11)
+top_ngram_8,ahead nvidia (11)
+top_ngram_9,nvidia even (11)
+top_ngram_10,even least (11)
+ner_1,Intel|ORG|83
+ner_2,AMD|ORG|54
+ner_3,Apple|ORG|43
+ner_4,Nvidia|ORG|43
+ner_5,TSMC|ORG|24
+ner_6,##vidia|ORG|18
+ner_7,NVIDIA|ORG|8
+ner_8,nvidia|ORG|8
+ner_9,737|MISC|7
+ner_10,Computer Architecture|ORG|7

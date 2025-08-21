@@ -1,0 +1,49 @@
+metric,value
+file,1gpw6jx.csv
+title,Robot that watched surgery videos performs with skill of human doctor
+rows,97
+num_posts,1
+num_comments,96
+unique_authors,71
+max_depth,8
+avg_comment_words,55.76
+median_comment_words,33.0
+max_comment_words,323
+positive_count,20
+negative_count,76
+neutral_count,0
+positive_pct,20.833
+negative_pct,79.167
+neutral_pct,0.0
+topic_1_keywords,"human, surgeons, robots, would, like, doesnt, better, think"
+topic_1_label,robots think better than human
+topic_2_keywords,"surgery, robot, model, even, perform, something, ai, still"
+topic_2_label,robots perform surgery
+topic_3_keywords,"great, able, complex, videos, get, training, trained, something"
+topic_3_label,a great video training
+topic_4_keywords,"talking, im, see, like, compensate, needle, dropping, hits"
+topic_4_label,needle droppings in a needle
+topic_5_keywords,"medicine, future, tasks, surgical, used, human, ai, robots"
+topic_5_label,robots used in medicine
+topic_6_keywords,"intel, ovaries, wait, use, wouldnt, issues, pay, grape"
+topic_6_label,ovaries wait for use in a tel
+top_ngram_1,robot perform (15)
+top_ngram_2,im talking (9)
+top_ngram_3,training data (8)
+top_ngram_4,train robot (8)
+top_ngram_5,train robot perform (8)
+top_ngram_6,imitation learning (7)
+top_ngram_7,learning train (7)
+top_ngram_8,imitation learning train (7)
+top_ngram_9,like human (7)
+top_ngram_10,human surgeon (7)
+ner_1,Krieger|PER|9
+ner_2,AI|MISC|6
+ner_3,AI|ORG|5
+ner_4,Japan|LOC|4
+ner_5,Tesla|MISC|3
+ner_6,da Vinci Surgical System|MISC|3
+ner_7,Intel Inside|ORG|3
+ner_8,YouTube|ORG|3
+ner_9,Intel|ORG|2
+ner_10,LLM|ORG|2

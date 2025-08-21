@@ -1,0 +1,49 @@
+metric,value
+file,1hvbj3z.csv
+title,The end of an era: Dell will no longer make XPS computers
+rows,504
+num_posts,1
+num_comments,503
+unique_authors,367
+max_depth,9
+avg_comment_words,71.4
+median_comment_words,59.0
+max_comment_words,388
+positive_count,57
+negative_count,446
+neutral_count,0
+positive_pct,11.332
+negative_pct,88.668
+neutral_pct,0.0
+topic_1_keywords,"dell, laptop, work, xps, battery, one, even, laptops"
+topic_1_label,Laptops work with a laptop
+topic_2_keywords,"back, like, im, screen, one, fan, internet, went"
+topic_2_label,fan and internet fan go on a back
+topic_3_keywords,"ai, time, could, use, get, would, people, mac"
+topic_3_label,ai could use time to get a mac
+topic_4_keywords,"ai, like, right, tvs, brightness, marketing, pushing, hard"
+topic_4_label,ai likes tvs and pushes hard
+topic_5_keywords,"xps, dell, work, row, pro, buy, laptops, line"
+topic_5_label,"xps, dell, laptops, line"
+topic_6_keywords,"ai, consumers, makes, marketing, really, pc, look, marketers"
+topic_6_label,ai makes pc look like ai
+top_ngram_1,cutting edge (60)
+top_ngram_2,marketers convinced (59)
+top_ngram_3,convinced makes (59)
+top_ngram_4,makes look (59)
+top_ngram_5,look cutting (59)
+top_ngram_6,marketers convinced makes (59)
+top_ngram_7,convinced makes look (59)
+top_ngram_8,makes look cutting (59)
+top_ngram_9,look cutting edge (59)
+top_ngram_10,ai pcs (57)
+ner_1,Dell|ORG|140
+ner_2,XPS|ORG|92
+ner_3,X|MISC|68
+ner_4,AI|MISC|63
+ner_5,Per Terwilliger|PER|52
+ner_6,Dells|ORG|52
+ner_7,Apple|ORG|45
+ner_8,Mac|MISC|30
+ner_9,Alienware|ORG|25
+ner_10,XPS 13|MISC|24

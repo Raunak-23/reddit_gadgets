@@ -1,0 +1,49 @@
+metric,value
+file,1lg3fp4.csv
+title,"I Leased a Hummer EV Because I Always Wanted an H2, Seven Months Later, It's the Only Car Out of 80 I've Owned That Gives Me Anxiety Every Single Day | Torque News"
+rows,690
+num_posts,1
+num_comments,689
+unique_authors,478
+max_depth,13
+avg_comment_words,83.93
+median_comment_words,64.0
+max_comment_words,587
+positive_count,62
+negative_count,563
+neutral_count,64
+positive_pct,8.999
+negative_pct,81.713
+neutral_pct,9.289
+topic_1_keywords,"miles, drive, hour, hummer, charge, hours, 24, get"
+topic_1_label,hummer drives 24 hours
+topic_2_keywords,"ev, hummer, cars, gas, like, 80, dont, get"
+topic_2_label,"ev hummer, cars, gas, don t get hummer"
+topic_3_keywords,"vehicle, going, truck, batteries, tires, ev, weight, thought"
+topic_3_label,ev weighs in on vehicle
+topic_4_keywords,"battery, vehicle, ev, range, article, charge, weight, like"
+topic_4_label,"battery, ev, range"
+topic_5_keywords,"people, car, charge, even, battery, kwh, vehicle, bolt"
+topic_5_label,"Car Charges Even, Bolts"
+topic_6_keywords,"ev, like, charge, charger, charging, range, car, would"
+topic_6_label,"like, charge, charger, range"
+top_ngram_1,hummer ev (115)
+top_ngram_2,24 hours (97)
+top_ngram_3,100 miles (86)
+top_ngram_4,per hour (84)
+top_ngram_5,miles per (70)
+top_ngram_6,plug hummer (66)
+top_ngram_7,miles range (65)
+top_ngram_8,miles per hour (55)
+top_ngram_9,dont know (42)
+top_ngram_10,hour charging (42)
+ner_1,E|MISC|233
+ner_2,Hummer|MISC|220
+ner_3,Hummer EV|MISC|80
+ner_4,US|LOC|43
+ner_5,GM|ORG|25
+ner_6,Hu|MISC|22
+ner_7,##mmer|ORG|22
+ner_8,Ford Lightning|MISC|17
+ner_9,Hyundai Ioniq|MISC|15
+ner_10,EVs|MISC|12

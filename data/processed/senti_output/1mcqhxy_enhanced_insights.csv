@@ -1,0 +1,49 @@
+metric,value
+file,1mcqhxy.csv
+title,"Apple likely to launch foldable iPhone in September 2026, predicts JPMorgan"
+rows,78
+num_posts,1
+num_comments,77
+unique_authors,51
+max_depth,12
+avg_comment_words,47.69
+median_comment_words,35.0
+max_comment_words,156
+positive_count,13
+negative_count,64
+neutral_count,0
+positive_pct,16.883
+negative_pct,83.117
+neutral_pct,0.0
+topic_1_keywords,"like, people, number, scale, folding, dont, scratch, phones"
+topic_1_label,phone folds like a sleeve
+topic_2_keywords,"phone, iphone, years, doesnt, thing, crease, 20, really"
+topic_2_label,crease in iphone 's crease
+topic_3_keywords,"screen, foldable, doesnt, phone, actually, might, inner, make"
+topic_3_label,screen foldable phone might not make it
+topic_4_keywords,"cant, iphone, apple, like, plastic, phone, innovation, right"
+topic_4_label,Apple likes plastic and is a good choice for phones
+topic_5_keywords,"phone, pocket, foldable, theyre, scratches, ive, less, im"
+topic_5_label,i have a pocket with a foldable phone and a foldable phone
+topic_6_keywords,"pointless, iphone, anyone, seems, people, folding, use, asking"
+topic_6_label,ipls seem to be pointless on iphone
+top_ngram_1,foldable phone (12)
+top_ngram_2,foldable inner (10)
+top_ngram_3,inner screen (10)
+top_ngram_4,might actually (10)
+top_ngram_5,foldable inner screen (10)
+top_ngram_6,make foldable (9)
+top_ngram_7,anyone actually (8)
+top_ngram_8,actually asking (8)
+top_ngram_9,asking folding (8)
+top_ngram_10,folding iphone (8)
+ner_1,iPhone|MISC|20
+ner_2,iPad|MISC|9
+ner_3,Samsung|ORG|8
+ner_4,Apple|ORG|6
+ner_5,iPhone X|MISC|4
+ner_6,Touch ID|MISC|2
+ner_7,Nokia|ORG|2
+ner_8,Apple|MISC|2
+ner_9,Apple Watch|MISC|2
+ner_10,Apple Great|ORG|2

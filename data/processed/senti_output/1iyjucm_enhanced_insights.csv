@@ -1,0 +1,49 @@
+metric,value
+file,1iyjucm.csv
+title,Framework’s first desktop is a strange—but unique—mini ITX gaming PC.
+rows,197
+num_posts,1
+num_comments,196
+unique_authors,98
+max_depth,12
+avg_comment_words,105.86
+median_comment_words,85.0
+max_comment_words,594
+positive_count,15
+negative_count,149
+neutral_count,32
+positive_pct,7.653
+negative_pct,76.02
+neutral_pct,16.327
+topic_1_keywords,"pc, market, price, desktop, would, form, play, comparable"
+topic_1_label,PCs are comparable to desktops and would be comparable to PCs in the market
+topic_2_keywords,"ram, make, soldered, framework, upgradeable, cpu, strix, halo"
+topic_2_label,ram made by cpu and strixed halo
+topic_3_keywords,"gaming, pc, people, laptop, really, great, console, want"
+topic_3_label,"gaming, pc, people, laptop, gaming"
+topic_4_keywords,"like, people, framework, laptop, ai, one, system, gpu"
+topic_4_label,gpu likes people
+topic_5_keywords,"pc, youre, would, get, gpus, much, dont, desktop"
+topic_5_label,gpus gpus sucks
+topic_6_keywords,"ram, cpu, using, still, soldered, gpu, framework, vram"
+topic_6_label,"ram, cpu, gpu, vram"
+top_ngram_1,mini pc (40)
+top_ngram_2,soldered ram (29)
+top_ngram_3,form factor (24)
+top_ngram_4,strix halo (23)
+top_ngram_5,desktop pc (18)
+top_ngram_6,repairable upgradeable (18)
+top_ngram_7,gaming pc (17)
+top_ngram_8,mac studio (15)
+top_ngram_9,makes sense (14)
+top_ngram_10,itx motherboard (14)
+ner_1,AMD|ORG|59
+ner_2,Framework|ORG|38
+ner_3,PC|MISC|18
+ner_4,PS5|MISC|13
+ner_5,Windows|MISC|12
+ner_6,Apple|ORG|11
+ner_7,FSR 4|MISC|10
+ner_8,Nvidia|ORG|9
+ner_9,IT|MISC|8
+ner_10,Mac|MISC|8

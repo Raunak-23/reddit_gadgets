@@ -1,0 +1,49 @@
+metric,value
+file,1mc61em.csv
+title,Bankrupt Futurehome suddenly makes its smart home hub a subscription service
+rows,55
+num_posts,1
+num_comments,54
+unique_authors,39
+max_depth,8
+avg_comment_words,73.7
+median_comment_words,57.5
+max_comment_words,549
+positive_count,2
+negative_count,30
+neutral_count,22
+positive_pct,3.704
+negative_pct,55.556
+neutral_pct,40.741
+topic_1_keywords,"false, one, pretenses, subscription, ac, sold, service, control"
+topic_1_label,ac is sold in ac
+topic_2_keywords,"smart, api, doesnt, still, even, perfectly, stuff, home"
+topic_2_label,api doesnt even work in home
+topic_3_keywords,"home, assistant, server, entry, need, barrier, setup, average"
+topic_3_label,A home with a barrier and an assistant server
+topic_4_keywords,"videos, louis, rossmann, help, liquidation, free, probably, great"
+topic_4_label,rossmann is free to download
+topic_5_keywords,"company, ha, like, use, devices, hardware, probably, nodered"
+topic_5_label,a company that likes using devices and hardware
+topic_6_keywords,"companies, access, 3rd, party, subscription, im, use, assistant"
+topic_6_label,3rd party access company
+top_ngram_1,home assistant (28)
+top_ngram_2,entry barrier (9)
+top_ngram_3,average consumer (9)
+top_ngram_4,home server (7)
+top_ngram_5,foss internet (7)
+top_ngram_6,internet required (7)
+top_ngram_7,required subscription (7)
+top_ngram_8,subscription control (7)
+top_ngram_9,control need (7)
+top_ngram_10,need go (7)
+ner_1,Assistant|MISC|5
+ner_2,HaOS|ORG|5
+ner_3,Home Assistant|ORG|4
+ner_4,Linux|MISC|4
+ner_5,AC|ORG|3
+ner_6,HA|ORG|3
+ner_7,TrueNAS|ORG|3
+ner_8,Unraid|ORG|3
+ner_9,Luis Rossman|ORG|3
+ner_10,GI|ORG|2

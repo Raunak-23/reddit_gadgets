@@ -1,0 +1,49 @@
+metric,value
+file,1l4stu5.csv
+title,"Nintendo Switch 2 teardown reveals Nvidia Tegra T239 chip, raises repairability concerns"
+rows,86
+num_posts,1
+num_comments,85
+unique_authors,63
+max_depth,7
+avg_comment_words,43.74
+median_comment_words,36.0
+max_comment_words,147
+positive_count,9
+negative_count,76
+neutral_count,0
+positive_pct,10.588
+negative_pct,89.412
+neutral_pct,0.0
+topic_1_keywords,"nintendo, people, already, think, device, switch, loss, sold"
+topic_1_label,nintendo people think about switching devices
+topic_2_keywords,"repair, since, people, tried, anything, early, 2000s, computer"
+topic_2_label,computers were re-used in the 2000s
+topic_3_keywords,"repairability, eu, new, wrong, japanese, brick, even, thats"
+topic_3_label,eu repairability
+topic_4_keywords,"consumer, games, game, nintendo, one, allow, like, right"
+topic_4_label,Consumers like to play games with nintendo
+topic_5_keywords,"seems, soldered, think, basically, subtle, distinction, england, issues"
+topic_5_label,england issues seem to be soldered
+topic_6_keywords,"hardware, sells, completely, sony, doesnt, every, microsoft, consoles"
+topic_6_label,microsoft consoles sells sony and microsoft
+top_ngram_1,early 2000s (8)
+top_ngram_2,many people (7)
+top_ngram_3,people actually (7)
+top_ngram_4,actually repair (7)
+top_ngram_5,repair devices (7)
+top_ngram_6,devices anymore (7)
+top_ngram_7,anymore havent (7)
+top_ngram_8,havent built (7)
+top_ngram_9,built computer (7)
+top_ngram_10,computer tried (7)
+ner_1,Nintendo|ORG|29
+ner_2,EU|ORG|7
+ner_3,UK|LOC|6
+ner_4,England|LOC|6
+ner_5,Japanese|MISC|5
+ner_6,Switch 2|MISC|5
+ner_7,Sony|ORG|4
+ner_8,American|MISC|3
+ner_9,Canada|LOC|3
+ner_10,Apple|ORG|3

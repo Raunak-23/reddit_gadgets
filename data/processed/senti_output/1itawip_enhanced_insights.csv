@@ -1,0 +1,49 @@
+metric,value
+file,1itawip.csv
+title,Apple launches the iPhone 16E
+rows,342
+num_posts,1
+num_comments,341
+unique_authors,208
+max_depth,9
+avg_comment_words,48.29
+median_comment_words,35.0
+max_comment_words,421
+positive_count,54
+negative_count,287
+neutral_count,0
+positive_pct,15.836
+negative_pct,84.164
+neutral_pct,0.0
+topic_1_keywords,"magsafe, inflation, apple, dont, wage, price, think, like"
+topic_1_label,magsafe inflation rate
+topic_2_keywords,"ai, im, give, apple, good, mini, new, camera"
+topic_2_label,"apple, mini, new, camera"
+topic_3_keywords,"iphone, phone, new, pixel, 8a, 16e, want, im"
+topic_3_label,pixel pixel pixel pixel
+topic_4_keywords,"phone, apple, im, face, samsung, dont, iphone, fingerprint"
+topic_4_label,"iPhone, iPhone, fingerprint"
+topic_5_keywords,"iphone, 60hz, even, screen, phone, year, going, 600"
+topic_5_label,The phone has a screen that is 60hz and even on its screen
+topic_6_keywords,"phone, iphone, apple, used, years, better, upgrade, get"
+topic_6_label,Apple's iPhones are better than the iPhones used in years
+top_ngram_1,iphone 16e (20)
+top_ngram_2,13 mini (19)
+top_ngram_3,could give (16)
+top_ngram_4,give fewer (16)
+top_ngram_5,fewer shits (16)
+top_ngram_6,could give fewer (16)
+top_ngram_7,give fewer shits (16)
+top_ngram_8,new phone (15)
+top_ngram_9,iphone 16 (15)
+top_ngram_10,15 pro (13)
+ner_1,Apple|ORG|85
+ner_2,iPhone|MISC|74
+ner_3,Samsung|ORG|18
+ner_4,SE|MISC|13
+ner_5,Air|MISC|11
+ner_6,iPhone 16|MISC|11
+ner_7,Qualcomm|ORG|11
+ner_8,iPhone 16e|MISC|11
+ner_9,Ma|MISC|9
+ner_10,iPhone XR|MISC|8

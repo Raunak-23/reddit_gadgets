@@ -1,0 +1,612 @@
+{
+  "post": {
+    "title": "Lenovo Legion Go S with Valve's SteamOS is official, expected to launch in May",
+    "author": "a_Ninja_b0y",
+    "id": "1hvzom7",
+    "score": 463,
+    "created_utc": 1736278191.0,
+    "selftext": "",
+    "num_comments": 71,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hvzom7/lenovo_legion_go_s_with_valves_steamos_is/"
+  },
+  "comments": [
+    {
+      "id": "m5x7cty",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1736278192.0,
+      "replies": []
+    },
+    {
+      "id": "m5x7x2j",
+      "author": "sometipsygnostalgic",
+      "body": "the only thing the lenuvo had for it was the joycons and the big screen. nothing else makes it better than the rog and especially the steamdeck which is cheaper than this",
+      "score": 69,
+      "created_utc": 1736278355.0,
+      "replies": [
+        {
+          "id": "m5xbu17",
+          "author": "None",
+          "body": "Did the others function as full on pcs as well? I never used one, just have a legion go",
+          "score": 10,
+          "created_utc": 1736279483.0,
+          "replies": [
+            {
+              "id": "m5xcxsg",
+              "author": "SolfenTheDragon",
+              "body": "They all ran windows. SteamOS can also function as a full PC, just kinda restricted a little bit.",
+              "score": 8,
+              "created_utc": 1736279799.0,
+              "replies": [
+                {
+                  "id": "m5xeoqc",
+                  "author": "drmirage809",
+                  "body": "The big thing here is that SteamOS is a customised Linux distribution. Really lightweight and fast. It runs games using a translation layer called Proton. Proton is also ripping fast, with games sometimes being faster through Proton than they are on Windows.\n\nAs for using it as a full on PC: your Windows programs won\u2019t work, but there\u2019s a well stocked app center and so much of what we do on a PC happens in web browsers.",
+                  "score": 46,
+                  "created_utc": 1736280309.0,
+                  "replies": [
+                    {
+                      "id": "m60ale4",
+                      "author": "yashdes",
+                      "body": "Main benefit of steamos should be battery life, the windows version is definitely more capable, gaming or otherwise",
+                      "score": -16,
+                      "created_utc": 1736315648.0,
+                      "replies": [
+                        {
+                          "id": "m60rjvr",
+                          "author": "JimmyRecard",
+                          "body": "There is near universal agreement that Windows is not a good handheld OS. It does work, but it is bloated, the onscreen keyboard is trash, and the games do not always reliably open in full screen.\n\nWindows has the advantage of being supported by manufacturers and anti-cheat developers, but aside from those, Windows is a subpar choice for handheld gaming.",
+                          "score": 17,
+                          "created_utc": 1736325520.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m5zaf7o",
+                  "author": "audigex",
+                  "body": "It\u2019s not restricted at all\n\nYou can fire up the desktop mode and use it like any Linux PC. I used mine a couple of months ago to compile some software when a friend couldn\u2019t get it working and I didn\u2019t have a laptop with me. You can plug a keyboard, mouse, and monitor in and even use it as an actual desktop \n\nIt isn\u2019t Windows, sure - but that isn\u2019t a restriction, just a different OS",
+                  "score": 17,
+                  "created_utc": 1736301356.0,
+                  "replies": [
+                    {
+                      "id": "m5zrir0",
+                      "author": "raptir1",
+                      "body": "It's not that Linux is restricted, it's that steam OS has some stuff locked down like the file system being RO by default.\u00a0",
+                      "score": 7,
+                      "created_utc": 1736307420.0,
+                      "replies": [
+                        {
+                          "id": "m61woin",
+                          "author": "drmirage809",
+                          "body": "The file system is read only (but can be unlocked if you wanna go there). Your home folder isn\u2019t however. And that\u2019s where your files and programs live. \n\nThe read only nature is a good thing here. It\u2019s very hard to break things in SteamOS. And if you do, you can just replace the entire file system while leaving the home folder untouched.",
+                          "score": 3,
+                          "created_utc": 1736346410.0,
+                          "replies": [
+                            {
+                              "id": "m626q8r",
+                              "author": "raptir1",
+                              "body": "It still limits some stuff i.e. installing packages from AUR which can be important since many vendors ship deb and rpm and thus you cannot readily install them on Arch without r/w root access.\u00a0",
+                              "score": 1,
+                              "created_utc": 1736349752.0,
+                              "replies": [
+                                {
+                                  "id": "m62p400",
+                                  "author": "Pauly_Amorous",
+                                  "body": "It's also a pain in the ass to get and keep the Microsoft wireless adapter working. (Or, at least it used to be... I haven't messed with it in a long time.)",
+                                  "score": 1,
+                                  "created_utc": 1736355280.0,
+                                  "replies": [
+                                    {
+                                      "id": "m62pq6r",
+                                      "author": "raptir1",
+                                      "body": "I've been using Linux as my only home OS for 18 years so I haven't bought any Microsoft hardware, but I could see that if you have a Windows laptop and a Linux gaming handheld.\u00a0",
+                                      "score": 1,
+                                      "created_utc": 1736355466.0,
+                                      "replies": [
+                                        {
+                                          "id": "m62qgi5",
+                                          "author": "Pauly_Amorous",
+                                          "body": "> ut I could see that if you have a Windows laptop and a Linux gaming handheld. \n\nOr a Series X controller that you want to use with the Steam Deck in docked mode. (You can use bluetooth, but the latency is quite atrocious if you play twitch-based games.)",
+                                          "score": 1,
+                                          "created_utc": 1736355716.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "m634y9j",
+                                      "author": "drmirage809",
+                                      "body": "Used Linux as a daily driver for two years and honestly haven't had any real issues with peripherals. RGB lighting is a bit of a pain, but something I don't care for anyway. \n\nOnly tough thing was having to manually edit a config file to get a really funky Bluetooth adapter going.",
+                                      "score": 1,
+                                      "created_utc": 1736360028.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "m635lvy",
+                                  "author": "drmirage809",
+                                  "body": "SteamOS provides Flatpak for installing programs outside of Steam. With Flathub set up by default as the remote. And Flathub is pretty darn well stocked with just about everything you might need (unless you wanna run a server from your Steam Deck or something silly).\n\n[Check it out for yourself. ](https://flathub.org/)",
+                                  "score": 1,
+                                  "created_utc": 1736360216.0,
+                                  "replies": [
+                                    {
+                                      "id": "m63g06q",
+                                      "author": "raptir1",
+                                      "body": "I'm well aware, but not everything is on Flatpak. Boosteroid for example provides a deb and rpm but is not on flathub.",
+                                      "score": 1,
+                                      "created_utc": 1736363195.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m614d4k",
+                          "author": "Aidoneuz",
+                          "body": "It\u2019s only operating system files that are read-only, not the whole file system.",
+                          "score": 4,
+                          "created_utc": 1736333666.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m7595xp",
+                          "author": "namisysd",
+                          "body": "SteamOS is an immutable variant of Arch Linux, the expectation is that you use layer on containerized apps like flatpaks instead of changing the OS itself; this keeps users from soft bricking the unit and requiring OS recovery.",
+                          "score": 1,
+                          "created_utc": 1736882111.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m61mly5",
+                      "author": "SolfenTheDragon",
+                      "body": "That's not what I meant by restricted, I'm familiar with Linux and how it works. The desktop instance of steamOS has guide rails that valve has put in place to keep users from messing with critical components. Docker doesn't work for instance. If you try to install something outside the package manager, it will sometimes not work correctly because of the restrictions Valve put in place. Ect.",
+                      "score": 1,
+                      "created_utc": 1736342638.0,
+                      "replies": [
+                        {
+                          "id": "m65vbfd",
+                          "author": "QuickQuirk",
+                          "body": "Sure, but... you know this is being sold as a *handheld gaming device*, and not as a general computing device?\n\nSteamOS is excellent for that purpose, and those limitations help keep it simple and reliable for non tech savvy users.\n\nIf you want it unlocked, just go ahead and install windows or your favourite linux. There's nothing stopping you. Just don't complain that it's doing what it's being marketed as being. Especially when there are plenty of other devices that suit you more, and you can also install whatever OS you want if it matters to you.",
+                          "score": 1,
+                          "created_utc": 1736390719.0,
+                          "replies": [
+                            {
+                              "id": "m66miy1",
+                              "author": "SolfenTheDragon",
+                              "body": "Lmao, I'm not complaining, I'm explaining my statement of it being slightly restricted as a full fledged computer. I love my steam deck. You took my comments the complete wrong way.",
+                              "score": 1,
+                              "created_utc": 1736402198.0,
+                              "replies": [
+                                {
+                                  "id": "m6b3cir",
+                                  "author": "QuickQuirk",
+                                  "body": "Got it, thanks for the clarification.",
+                                  "score": 1,
+                                  "created_utc": 1736463534.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m5zwghx",
+                      "author": "adrian783",
+                      "body": ">  but that isn\u2019t a restriction\n\nc'mon dude",
+                      "score": -11,
+                      "created_utc": 1736309345.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m607llf",
+          "author": "Alastor3",
+          "body": "Hmmm? Im not entirely familiar but I thought the Legion Go was slightly more powerful than the Steam Deck",
+          "score": 6,
+          "created_utc": 1736314183.0,
+          "replies": [
+            {
+              "id": "m60ojvl",
+              "author": "mnvoronin",
+              "body": "\"slightly\"\n\nAs in, able to run games in 2560x1440 at about the same framerate as Steam Deck's 1200x800.\n\nBattery life sucks though. But that's a tradeoff I'm happy to make (not saying that everyone should, the screen size and resolution were the deciding factors for me).",
+              "score": 12,
+              "created_utc": 1736323601.0,
+              "replies": [
+                {
+                  "id": "m6116de",
+                  "author": "DatTF2",
+                  "body": "From the benchmarks I have seen both the Ally and Legion all had better highs but the Steamdeck had much more consistent frames, not dropping as low as the two devices. It was speculated that that could be because of bloated Windows 11? I'd like to see if SteamOS increases performance.",
+                  "score": 3,
+                  "created_utc": 1736331723.0,
+                  "replies": [
+                    {
+                      "id": "m613e3c",
+                      "author": "sometipsygnostalgic",
+                      "body": "The benchmarks did shock me by revealing even the Rog Ally X did worse than Steamdeck on some games when both were running them at 720p. The battery drains much quicker than it should too",
+                      "score": 3,
+                      "created_utc": 1736333083.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m65vzxb",
+              "author": "QuickQuirk",
+              "body": "yes, but correspondingly weaker battery life/low power performance.\n\nI'm really interested in seeing a device based on one of the other Z2 chips they announced: With the same older generation Zen and RDNA2 cores as the steamdeck, but with a 4core, 12CU CPU/GPU instead of a 4core, 8CU cpu/GPU.\n\nWhich should get us similar low power efficiency/performance as the steamdeck (less CPU cores) but with up to 50% more GPU performance for when you need it.\n\nMight be a real sweet spot APU when it comes to the battery/performance trade off.",
+              "score": 1,
+              "created_utc": 1736390964.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5y7t6n",
+      "author": "SeanzillaDestroy",
+      "body": "I\u2019m down for the 8\u201d screen.",
+      "score": 7,
+      "created_utc": 1736288758.0,
+      "replies": []
+    },
+    {
+      "id": "m5xmiwu",
+      "author": "HippityHoppityBoop",
+      "body": "If only we could get a Steam Deck 2 OLED with double the performance and same price so I could play Flight Simulator 2024, but alas it looks like I gotta wait till 2026",
+      "score": 24,
+      "created_utc": 1736282581.0,
+      "replies": [
+        {
+          "id": "m5y39bt",
+          "author": "None",
+          "body": "Why would you want to play a flight sim on a steam deck?",
+          "score": 8,
+          "created_utc": 1736287380.0,
+          "replies": [
+            {
+              "id": "m5yd0n0",
+              "author": "None",
+              "body": "So the battery dies mid flight",
+              "score": 54,
+              "created_utc": 1736290355.0,
+              "replies": []
+            },
+            {
+              "id": "m5zavbe",
+              "author": "audigex",
+              "body": "If you like flight sims, why *wouldn\u2019t* you?\n\nFlight sims are quite well suited to gamepad/joystick setups, when you\u2019re playing casually\n\nObviously I prefer my actual yoke, pedals, throttle, autopilot, and radio setup at home\u2026 but it\u2019s not super portable",
+              "score": 17,
+              "created_utc": 1736301508.0,
+              "replies": [
+                {
+                  "id": "m5zemgt",
+                  "author": "None",
+                  "body": "I just thought that the purpose of sims like that is to be as immersive as possible, which is hard on a small device",
+                  "score": 5,
+                  "created_utc": 1736302819.0,
+                  "replies": [
+                    {
+                      "id": "m611d54",
+                      "author": "GepardenK",
+                      "body": "That's part of the purpose. MS Flight Simulator, especially, is more of a sandbox with a variety of use cases. Many people use it exclusively as a atmospheric/meditative scenery swimmer to calm down and get some time to think.",
+                      "score": 2,
+                      "created_utc": 1736331842.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m5zz9a7",
+              "author": "srslyomgwtf",
+              "body": "Wants to sim the flight....while ON the flight.",
+              "score": 2,
+              "created_utc": 1736310493.0,
+              "replies": [
+                {
+                  "id": "m61c4o3",
+                  "author": "HippityHoppityBoop",
+                  "body": "Don\u2019t make me horny",
+                  "score": 2,
+                  "created_utc": 1736337977.0,
+                  "replies": []
+                },
+                {
+                  "id": "m62h1is",
+                  "author": "camyok",
+                  "body": "The on-board wifi fees, man...",
+                  "score": 1,
+                  "created_utc": 1736352911.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m5yf36b",
+              "author": "HippityHoppityBoop",
+              "body": "Sounds relaxing while commuting or tucked in bed",
+              "score": 1,
+              "created_utc": 1736291010.0,
+              "replies": [
+                {
+                  "id": "m5yfgab",
+                  "author": "None",
+                  "body": "That's fair! Different strokes and all",
+                  "score": 2,
+                  "created_utc": 1736291127.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5yq8yh",
+      "author": "Slylok",
+      "body": "Nice. I love my Legion Go.",
+      "score": 4,
+      "created_utc": 1736294658.0,
+      "replies": []
+    },
+    {
+      "id": "m5xssh7",
+      "author": "internetlad",
+      "body": "Not sure if this is good or bad. The Deck is the \"Definitive Edition\" for me and I couldn't imagine using a handheld that doesn't have touchpads. Opens up so many more games as options when controller support sucks or the track pad just works better. None of these other manufacturers bother to putting one on.\n\n\nIf Valve doesn't bother to make a Deck 2 and just focuses on licensing software as they seem to be moving towards, I guess I'll be saving money on new handhelds.",
+      "score": 6,
+      "created_utc": 1736284362.0,
+      "replies": [
+        {
+          "id": "m5z58yz",
+          "author": "IIILORDGOLDIII",
+          "body": "They aren't licensing SteamOS, they are giving it away for free. Valve makes money selling games on the marketplace. Even the Steam Deck was a loss leader to get customers into the Steam store.\n\nThat being said, Valve won't make another handheld until there is a \"generational leap in compute\" [(apparently the new Z2 processors aren't it)](https://www.forbes.com/sites/jasonevangelho/2025/01/06/sorry-valve-just-silenced-all-those-steam-deck-2-rumors/). So you won't be seeing a SD2 anytime soon.",
+          "score": 26,
+          "created_utc": 1736299606.0,
+          "replies": []
+        },
+        {
+          "id": "m6061i4",
+          "author": "Meeii",
+          "body": "Legion Go have touch pads, so there are other manufacturers that add them as well.\u00a0",
+          "score": 2,
+          "created_utc": 1736313457.0,
+          "replies": [
+            {
+              "id": "m60gfol",
+              "author": "internetlad",
+              "body": "Did they remove it on the GO S? The pics all look like they just have a thumbprint or something",
+              "score": 3,
+              "created_utc": 1736318783.0,
+              "replies": [
+                {
+                  "id": "m613ava",
+                  "author": "duschendestroyer",
+                  "body": "it's not a fingerprint reader. it's a tiny touchpad.",
+                  "score": 5,
+                  "created_utc": 1736333030.0,
+                  "replies": [
+                    {
+                      "id": "m62s9cc",
+                      "author": "internetlad",
+                      "body": "Oh weird. I'd have to try one honestly. Not sure if baby touchpad will have the same vibe. If so it could be a good fit.",
+                      "score": 1,
+                      "created_utc": 1736356316.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m61zrsy",
+          "author": "ob_knoxious",
+          "body": "Personally I would never by another handheld with touch pads. The ones on the deck are atrocious and I never use them, the device is incredibly ergonomically compromised.",
+          "score": -3,
+          "created_utc": 1736347482.0,
+          "replies": [
+            {
+              "id": "m62s1xa",
+              "author": "internetlad",
+              "body": "I could not disagree more. I've got multiple SBM handhelds, multiple first and third party controllers and the one I keep going back to is the Deck because it has touch pads and damn good ones with tactile feedback at that.\u00a0\n\n\nBeing stuck in a game because I can't get to a menu item and just . . .\u00a0 Turning on the touch pad to move the mouse cursor to it is reason enough for me.",
+              "score": 2,
+              "created_utc": 1736356253.0,
+              "replies": [
+                {
+                  "id": "m63ep8o",
+                  "author": "ob_knoxious",
+                  "body": "If I just need a quick cursor for something I will use a touchscreen. Tried many games of many genres and didn't find a good use for the touchpads ever.",
+                  "score": 1,
+                  "created_utc": 1736362818.0,
+                  "replies": [
+                    {
+                      "id": "m63jbji",
+                      "author": "internetlad",
+                      "body": "I like the cursor/touchpad a lot for strategy games. XCOM, Civ, ONI, TD games, stuff like that.",
+                      "score": 1,
+                      "created_utc": 1736364156.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m62wm4m",
+              "author": "Cheezewiz239",
+              "body": "Yeah I never used them personally. I just use the touch screen if I need any kind of temporary mouse use in game.",
+              "score": 1,
+              "created_utc": 1736357608.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5yddh9",
+      "author": "None",
+      "body": "I\u2019ll just wait, forever if need be",
+      "score": 1,
+      "created_utc": 1736290464.0,
+      "replies": []
+    },
+    {
+      "id": "m5yl4qz",
+      "author": "joomla00",
+      "body": "I would actually trade my current legion go for the same spec go s, although the extra ram would be nice.  I don't use any of the extra features.",
+      "score": 1,
+      "created_utc": 1736292976.0,
+      "replies": []
+    },
+    {
+      "id": "m61lkla",
+      "author": "Fredasa",
+      "body": "And with the third party devices comes the inevitable third party mechanical jank.\n\nIs... one analog stick concave and the other convex?  Amazing.",
+      "score": 1,
+      "created_utc": 1736342221.0,
+      "replies": []
+    },
+    {
+      "id": "m608dmr",
+      "author": "throwninthefire666",
+      "body": "No touch pads, Steam Deck is still superior in every way",
+      "score": -3,
+      "created_utc": 1736314557.0,
+      "replies": [
+        {
+          "id": "m61lxkd",
+          "author": "Optimus_Prime_Day",
+          "body": "Except in specs... so not every way",
+          "score": 8,
+          "created_utc": 1736342366.0,
+          "replies": [
+            {
+              "id": "m68qc7q",
+              "author": "throwninthefire666",
+              "body": "Yeah I see it has a tiny touch pad now, don\u2019t know how well it\u2019ll work, but guess we will see",
+              "score": 2,
+              "created_utc": 1736438542.0,
+              "replies": [
+                {
+                  "id": "m68scsp",
+                  "author": "Optimus_Prime_Day",
+                  "body": "TouchPad is important to me also, it really works well on steamdeck. Trying playing factorio without a TouchPad and it's a huge pain in the butt to control, for example.",
+                  "score": 2,
+                  "created_utc": 1736439147.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m6206yk",
+          "author": "ob_knoxious",
+          "body": "Steam Deck touch pads are not that great, they really compromised the ergonomic of the device for them. Even for the big fans of them I've never met someone who uses two touch pads. I would swap my Steam Deck for this in a heartbeat.",
+          "score": -4,
+          "created_utc": 1736347623.0,
+          "replies": [
+            {
+              "id": "m68q71o",
+              "author": "throwninthefire666",
+              "body": "Nah, for me they are unremovable. I play a lot of RTS games that were built for mouse and keyboard. Mapping every button is impossible without it, and using a trackpad as a mouse is the only way.",
+              "score": 1,
+              "created_utc": 1736438498.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m60032i",
+      "author": "MysticMaven",
+      "body": "So stupid playing pc games on a handheld. M&k pc players will destroy you",
+      "score": -29,
+      "created_utc": 1736310844.0,
+      "replies": [
+        {
+          "id": "m603qd6",
+          "author": "Moskeeto93",
+          "body": "Wow. I guess I didn't realize that all PC games were competitive, online, multiplayer games.",
+          "score": 16,
+          "created_utc": 1736312424.0,
+          "replies": []
+        },
+        {
+          "id": "m601ob7",
+          "author": "titlegenerator11",
+          "body": "Bait used to be believable. Here\u2019s your engagement.",
+          "score": 12,
+          "created_utc": 1736311521.0,
+          "replies": []
+        },
+        {
+          "id": "m607yse",
+          "author": "Alastor3",
+          "body": "You do realized that nowadays, lots of PC games have controller support? Even game like Diablo 4, I even like it better than keyboard and mouse",
+          "score": 7,
+          "created_utc": 1736314358.0,
+          "replies": []
+        },
+        {
+          "id": "m62x37q",
+          "author": "Cheezewiz239",
+          "body": "Wait till you find out there's single player games",
+          "score": 3,
+          "created_utc": 1736357748.0,
+          "replies": []
+        },
+        {
+          "id": "m611zkq",
+          "author": "NXGZ",
+          "body": "PC is not a gaming device",
+          "score": 5,
+          "created_utc": 1736332232.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m600adl",
+      "author": "twili-midna",
+      "body": "So, uh\u2026. Valve is bouncing from the hardware market again, huh?",
+      "score": -12,
+      "created_utc": 1736310929.0,
+      "replies": [
+        {
+          "id": "m604gyj",
+          "author": "AldermanAl",
+          "body": "No they were very clear that they are still in the market and are still developing future steam decks. They are simply expanding their position.",
+          "score": 11,
+          "created_utc": 1736312751.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

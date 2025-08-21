@@ -1,0 +1,49 @@
+metric,value
+file,1jv4kna.csv
+title,Razer pulls new Blade laptops from its US store amid tariff concerns | Following in Framework's footsteps
+rows,69
+num_posts,1
+num_comments,68
+unique_authors,54
+max_depth,5
+avg_comment_words,52.07
+median_comment_words,31.0
+max_comment_words,285
+positive_count,11
+negative_count,57
+neutral_count,0
+positive_pct,16.176
+negative_pct,83.824
+neutral_pct,0.0
+topic_1_keywords,"without, many, still, trump, overpriced, razer, jobs, soon"
+topic_1_label,trump razer slams a lot
+topic_2_keywords,"shit, tariffs, dog, razer, wasnt, getting, youre, know"
+topic_2_label,"shit, tariffs, dog"
+topic_3_keywords,"razer, ive, years, like, mouse, still, thing, country"
+topic_3_label,i like a mouse in a country
+topic_4_keywords,"us, back, guess, blade, era, windows, sending, casually"
+topic_4_label,era of a blade
+topic_5_keywords,"doesnt, stuff, phone, shit, even, laptops, prices, would"
+topic_5_label,shit phone shit even laptops
+topic_6_keywords,"like, tariffs, business, hes, people, small, next, dont"
+topic_6_label,"like, tariffs, business, small"
+top_ngram_1,small business (6)
+top_ngram_2,razer blade (5)
+top_ngram_3,dog shit (5)
+top_ngram_4,oh shit (4)
+top_ngram_5,shit frameworks (4)
+top_ngram_6,frameworks pulling (4)
+top_ngram_7,pulling stuff (4)
+top_ngram_8,stuff shouldve (4)
+top_ngram_9,shouldve expected (4)
+top_ngram_10,expected shit (4)
+ner_1,Razer|MISC|10
+ner_2,American|MISC|7
+ner_3,Trump|PER|7
+ner_4,US|LOC|4
+ner_5,Ra|MISC|4
+ner_6,##zer|ORG|4
+ner_7,USA|LOC|3
+ner_8,Razer|ORG|3
+ner_9,Razer Blade 15|MISC|3
+ner_10,Republican|MISC|3

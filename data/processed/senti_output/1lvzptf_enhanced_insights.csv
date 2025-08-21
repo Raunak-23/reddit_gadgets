@@ -1,0 +1,49 @@
+metric,value
+file,1lvzptf.csv
+title,Samsung Galaxy Z Fold 7 Hands-On: Finally as Thin and Light as a Regular Phone
+rows,245
+num_posts,1
+num_comments,244
+unique_authors,145
+max_depth,17
+avg_comment_words,55.61
+median_comment_words,39.0
+max_comment_words,389
+positive_count,38
+negative_count,206
+neutral_count,0
+positive_pct,15.574
+negative_pct,84.426
+neutral_pct,0.0
+topic_1_keywords,"phone, people, phones, pen, know, ultra, still, dont"
+topic_1_label,"phone, phone, pen, phone, ultra"
+topic_2_keywords,"fold, phone, like, use, people, spen, dont, galaxy"
+topic_2_label,spen and don spen in galaxy
+topic_3_keywords,"months, phone, never, pen, use, hinges, fold, issue"
+topic_3_label,a month of phone never folds
+topic_4_keywords,"would, battery, year, devices, screen, thin, size, palm"
+topic_4_label,a battery would be a thin device in the year of the palm
+topic_5_keywords,"dont, headphones, lol, phone, storage, youre, never, one"
+topic_5_label,i don t know what to do with headphones
+topic_6_keywords,"right, im, thin, wifes, one, years, response, ce"
+topic_6_label,i am thin wifes in ce
+top_ngram_1,galaxy fold (24)
+top_ngram_2,dont want (15)
+top_ngram_3,thin light (14)
+top_ngram_4,battery life (14)
+top_ngram_5,use pen (14)
+top_ngram_6,dont know (12)
+top_ngram_7,regular phone (11)
+top_ngram_8,spen support (10)
+top_ngram_9,hinges failed (10)
+top_ngram_10,failed never (10)
+ner_1,Samsung|ORG|43
+ner_2,Galaxy Fold|ORG|14
+ner_3,Apple|ORG|10
+ner_4,S Pen|MISC|8
+ner_5,Casio Cassiopeia Windows CE|MISC|5
+ner_6,iPhone|MISC|5
+ner_7,Palm Pilot 5000|MISC|5
+ner_8,I|MISC|5
+ner_9,Windows CE|MISC|5
+ner_10,Note|MISC|4

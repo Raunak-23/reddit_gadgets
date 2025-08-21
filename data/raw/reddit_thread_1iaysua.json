@@ -1,0 +1,532 @@
+{
+  "post": {
+    "title": "The Steam Deck is about to get a standard charging feature that it's sorely been missing - A charging limit (80 percent)",
+    "author": "a_Ninja_b0y",
+    "id": "1iaysua",
+    "score": 1124,
+    "created_utc": 1737949172.0,
+    "selftext": "",
+    "num_comments": 74,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1iaysua/the_steam_deck_is_about_to_get_a_standard/"
+  },
+  "comments": [
+    {
+      "id": "m9ebc94",
+      "author": "Razzeus",
+      "body": "I was under the impression that modern devices are equipped with battery management systems that mitigate this significantly better than years ago when this was a much more meaningful practice. Is this still necessary in 2025 or is it just a case of old habits die hard? A quick search is giving me a mixed bag.",
+      "score": 499,
+      "created_utc": 1737950402.0,
+      "replies": [
+        {
+          "id": "m9ebydd",
+          "author": "orangpelupa",
+          "body": "Still necrsarry. Charging limit is part of battery management system.\n\nThe lower the max voltage, the longer lasting the battery life will be. Not to be confused with battery runtime.\u00a0\n\nMost devices doesn't allow customized charging limit. This post is about steam deck getting the customization.\u00a0",
+          "score": 213,
+          "created_utc": 1737950634.0,
+          "replies": [
+            {
+              "id": "m9eqar4",
+              "author": "shalol",
+              "body": "Not necessarily true for lower voltage, discharging batteries to 0 is equally as bad",
+              "score": 44,
+              "created_utc": 1737956848.0,
+              "replies": [
+                {
+                  "id": "m9eule0",
+                  "author": "orangpelupa",
+                  "body": "Then feature request for minimum charge limit too\u00a0",
+                  "score": 32,
+                  "created_utc": 1737959055.0,
+                  "replies": [
+                    {
+                      "id": "m9f8g5n",
+                      "author": "PhabioRants",
+                      "body": "There are a couple Decky plugins that do this. They allow you to set auto-suspend thresholds. By default, it's 20 or 25%, I believe. Super valuable both for battery preservation and state preservation if you're traveling, since the suspend state can hold battery for a respectable amount of time.\u00a0",
+                      "score": 11,
+                      "created_utc": 1737967209.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m9j402g",
+              "author": "MachinaThatGoesBing",
+              "body": "A battery runs at basically a steady voltage (usually referred to as the nominal voltage). It technically varies a little over the discharge cycle, but batteries are designed to spend the maximum amount of time in a big relatively flat area of their voltage vs. charge curve.\n\nAnd that same voltage is required to charge it (by forcing electron flow to go in the opposite direction and reversing the chemical reaction that releases energy when you use the battery).\n\nFor a big scale example, our car has an 800V battery pack. If we were to plug into a 400V fast charger somewhere while on a road trip, the car has to somehow convert that 400V DC into 800V DC in order charge the battery. (EDIT: And it has a very clever way of doing that using the inverters for the rear wheel motors.)\n\nThe charging limit in discussion here isn't about charging speed (though limiting charging speed also helps prolong battery life), it's about charge percentage \u2014 how much the reaction has proceeded in one way or the other.\n\nLithium batteries tend to be happiest to be around 50% charge, according to most of what I've read. But that's not very practical for a device you want to use. So a lot of folks charge up to 80% and stop there. It's full enough to get you through most daily usage, but still saves wear on the battery by not charging that last 20%.\n\nUsing our car as an example again, we don't charge it to 100% when we're just using it for commuting, errands, and local travel. Just up to 80. And we try to keep from going below 20%. (Not a hard rule, of course, and road trips see us charging higher and going lower sometimes.)\n\nWith something like the Steam Deck, if you're using it docked or plugged in a lot, it'll really save on the battery to not charge above 80. (And you can always remove the limit before travel or expected heavy use days.)",
+              "score": 6,
+              "created_utc": 1738015547.0,
+              "replies": [
+                {
+                  "id": "mbeprhs",
+                  "author": "audigex",
+                  "body": "> Lithium batteries tend to be happiest to be around 50% charge, according to most of what I've read. But that's not very practical for a device you want to use\n\nYeah this is correct, although within about 30-70% (+/- 20% either side of 50%) there's negligible impact to the point it's not even worth considering. So in an ideal world we'd keep all our usage in that range, but obviously that means we can only use 40% of the capacity which is quite wasteful\n\nBetween that and 20-80% (+/- 30% from 50%) there's a *little* impact, but it's pretty small. It's not zero or negligible, but it's still low enough that it's not really worth worrying about - and gets us up to 60% of the capacity being useable, which is a good compromise for day-to-day usage for most devices. This is where the \"80% charge limit, try to put it on charge when you get to 20%\" best-practice comes from\n\nOnce you get up to 10-90%, though (+/- 40% from 50%) then there's quite a noticeable impact on longevity/degradation. There's still a noticeable benefit vs using the full 0-100% charge capacity, but it's really starting to ramp up\n\nAnd then 0-100% gives you the worst possible degradation, which can be somewhat mitigated with charging strategies (charging slower, managing voltage and heat, minimising charge speed at the extremes of range etc etc) but still isn't ideal\n\nThe result of considering all of the above is that 20-80% is generally the \"best of both\" range - you still get a good amount of the maximum possible run time but it's pretty gentle on the battery. Pushing to 15-85% or 10-90% work too, but you start getting a more noticeable impact. Limiting it to 25-75% or 30-70% has benefits but not really enough to be worth limiting your run time for",
+                  "score": 1,
+                  "created_utc": 1738894617.0,
+                  "replies": [
+                    {
+                      "id": "mbfz8kj",
+                      "author": "MachinaThatGoesBing",
+                      "body": "Yep. We did a load of research on this before (and after) buying our car. Unless we're planning a big trip or traveling, we leave the AC charge limit at 80%, except for the once a month it recommends the 100% charge to do wear leveling calculations and testing on the cells.\n\nWhen we're trip planning, we set A Better Route Planner to a minimum of 15%, but it has some wiggle room on what makes the most efficient route. Though, we're rarely below 20% at a stop.",
+                      "score": 1,
+                      "created_utc": 1738913597.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m9f3ej4",
+          "author": "MINIMAN10001",
+          "body": "It's the difference between standard use and \"optimized\" use, yes best use case is 20% to 80% on lithium ion.\n\n\nBut In practice no one knows and no one cares because I'm not here to baby sit a battery, worst case I'll buy a new one years later.",
+          "score": 89,
+          "created_utc": 1737964095.0,
+          "replies": [
+            {
+              "id": "m9gynmu",
+              "author": "AidosKynee",
+              "body": ">But In practice no one knows\n\nThey definitely do. There's tons of research out there on the change in lifetime expectancy for various usage profiles (except for LFP).\n\n>no one cares because I'm not here to baby sit a battery, worst case I'll buy a new one years later.\n\nYeah, this is probably true.",
+              "score": 28,
+              "created_utc": 1737993947.0,
+              "replies": [
+                {
+                  "id": "m9i5l5o",
+                  "author": "coltrain423",
+                  "body": "I think \u201cno one knows\u201d referred to laymen, not related professions, who don\u2019t know because they don\u2019t need to know thanks to the latter part of the comment.",
+                  "score": 5,
+                  "created_utc": 1738005896.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m9hete6",
+              "author": "Prineak",
+              "body": "Yeah I\u2019ve replaced many li-ion batteries in my electronics. Thankfully there\u2019s a community and market for it.",
+              "score": 2,
+              "created_utc": 1737998474.0,
+              "replies": []
+            },
+            {
+              "id": "mbeqkfx",
+              "author": "audigex",
+              "body": "> But In practice no one knows\n\nThey/we absolutely do, this has been researched pretty thoroughly and the science is fairly well known\n\n>  and no one cares because I'm not here to baby sit a battery, worst case I'll buy a new one years later\n\nThis is true for many people, but not everyone\n\nPersonally I prefer to keep my devices until it isn't capable of doing the job, rather than because the battery has died. And since the battery is often the most vulnerable part, it makes sense to me to protect it\n\nEg I still have a 2009 MacBook on the desk behind me, a 2014/15 iPad etc. They both still do the jobs I need of them, and because I've taken care of the batteries they're both still providing me with useable runtimes\n\nIf that's not for you, no problem - you can leave the \"charge to 80%\" option off and charge to 100% every time, nobody's going to be upset with you for using your device how you want to. But for those of us who do care, it's nice to have this option because it means I *don't* have to carefully nurse the battery and eg remove it from charge myself. I can just change the setting and leave it",
+              "score": 1,
+              "created_utc": 1738894888.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m9lhdua",
+          "author": "doughaway7562",
+          "body": "Engineer here. The short answer is just use your device as you want and don't babysit it.\n\nThe long answer is that this feature only really makes sense if you mostly use your Steam Deck in your home, where it spends a lot of time plugged in. The whole point is to keep your battery between 20% to 80% charged to extend it's life in the long run.\n\nI personally only use this feature on my laptop, which is plugged in the vast majority of the time. On the instances I run it off battery, I'll have finished using it long before before I've hit 20%. And so I use it because it has no noticeable impact to my day to day use of my device at all.\n\nI do ***not*** use this feature on my phone - I paid for the whole battery, and I'll use it. Official replacement batteries for devices cost $30-100 - so at worse you're paying that much every 2-3 years. Life is too short to worry about that sort of thing.",
+          "score": 5,
+          "created_utc": 1738045440.0,
+          "replies": [
+            {
+              "id": "mbergge",
+              "author": "audigex",
+              "body": "I do use the feature on my phone too, because an iPhone 15Plus has about twice as much runtime as I need most days, and for me \"the battery can't last a day\" has been the reason for upgrading my last couple of phones (already too old to be economical replacing the battery on them)\n\nI leave it set to charge to 80%, and right now at 2am when I'm about to put it on charge for the evening it's just hit 40% (admittedly that's a light-duty day even for me). Most days it hits the 20-30% range\n\nSo for me, that isn't \"babysitting\" my battery, specifically *because* this feature is built into my phone and takes basically zero effort. I can set it once and not worry about it, and just set it to 100% when I'm going on a flight the next day etc (which already comes naturally to me because I do the same with the 100% charge limit on my car). After a year my phone's battery is at 100% health, so it's working out well for zero real effort from me\n\nI appreciate it's not for everyone, but for many of us there's not much to lose from doing this, because we don't need the whole battery most days anyway. I sure as shit won't judge someone for not bothering with these settings, but it's nice to have for those of us who do appreciate it",
+              "score": 1,
+              "created_utc": 1738895187.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m9epi8o",
+          "author": "RayS0l0",
+          "body": "New phones have this limit",
+          "score": 2,
+          "created_utc": 1737956464.0,
+          "replies": []
+        },
+        {
+          "id": "m9k0121",
+          "author": "RoadkillVenison",
+          "body": "They are, but lithium ion batteries age just from being stored. They age faster if they\u2019re kept at 100% with high heat. (Above 86f/30c)\n\nThe best BMS in the world can\u2019t circumvent battery chemistry.\n\nhttps://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries\n\nAny gaming device is going to be relatively warm in use, and if it\u2019s being maintained at full charge, the batteries won\u2019t last more than a year or two.",
+          "score": 2,
+          "created_utc": 1738025487.0,
+          "replies": []
+        },
+        {
+          "id": "mbeoabm",
+          "author": "audigex",
+          "body": "It's kinda both\n\nModern devices do manage the battery better than in the days of yore, but they have to strike a balance between battery longevity (years/cycles) vs battery life (hours per charge). Therefore while they do reserve some space at the top and, particularly, the bottom of their charge range, they also still provide most of that charge range to the user.\n\nWhich is to say, you can probably actually charge from something like ~5-10% up to ~98% of the battery's actual charge range (reserving more at the bottom because discharging to true-0% is much worse for the battery's long term health than charging to true-100%), depending on the use case and specific chemistry of the battery\n\nThat's fine, it gives an acceptable compromise - you reduce the risk of the battery becoming damaged by entirely discharging, and get noticeably better longevity in exchange for ~5-10% reduction in battery life. It removes most of the bigger risks and causes of the worst degradation, without wasting a ton of battery life.\n\nBut there's still an optimal range within that - from about 20% to 80% of the battery's charge range - whereby you get even better battery longevity... at the cost of losing 40% of your battery. In an ideal world this makes your battery last longer, but you have to compromise quite a lot in exchange. Your battery might last for 1200 cycles instead of 500, but you lose 1 hour from your 2h30 gaming time. That's too much of a compromise for most users, who would rather have that battery available to them\n\nWhat many manufacturers are starting to do is offer the user the ability to *optionally* charge to either 80% or \"100%\" (minus the bit that's always reserved). This allows the user to choose between \"I'm near power today or not planning to use my full battery anyway, and prefer to preserve battery health/longevity\", or \"I'm on a plane and want maximum runtime, I'm happy to take the tiny hit on battery health today\", depending on their use case\n\nA car is a great example of this - I drive an EV with a range of about 300 miles, but 99% of the time it's doing maybe 10-50 miles in a day. So 99% of the time I'm perfectly happy limiting my charge to 80% and putting the car on charge before it gets to 20%. Sure, that gives me an effective range of about 180 miles (220-240 if I need to go below 20% unexpectedly) instead of 300... but if I'm only going 30 miles, who cares?\n\nBut I don't want my car to limit me to 240 miles ALL the time, because on the days that I am doing a long journey I'd much prefer to do a one-off charge to 100% and have 300 miles available that day\n\nThe same applies to phones, consoles, and pretty much anything else - the user probably wants the *option* to use the full battery when they need it, but most users will prefer to protect their battery health a lot of the time too, when they don't need the maximum runtime.",
+          "score": 2,
+          "created_utc": 1738894116.0,
+          "replies": []
+        },
+        {
+          "id": "m9jh71h",
+          "author": "DFrostedWangsAccount",
+          "body": "The Deck has had a 3rd party app for arbitrary charge limiting since it released.",
+          "score": 1,
+          "created_utc": 1738019452.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m9eb7su",
+      "author": "MrNegativ1ty",
+      "body": "They really need to figure out the lower end of the battery.\n\nI left my deck without charging for a few months, came back to it and the battery is rapidly deteriorating. I know this is a thing that happens for rechargable batteries, but I've never had it happen to any other device before.",
+      "score": 164,
+      "created_utc": 1737950356.0,
+      "replies": [
+        {
+          "id": "m9efaug",
+          "author": "BishopsBakery",
+          "body": "Usually the middle 60% is where you keep it, 20% to 80%",
+          "score": 58,
+          "created_utc": 1737951945.0,
+          "replies": []
+        },
+        {
+          "id": "m9eqmcd",
+          "author": "None",
+          "body": "I've also never had a device that _regularly_ loses 5 percent of its battery per day. I leave my steamdeck go for a week and when i power it on the battery has lost 40% of its charge. I feel like it's the only device I own that's I need to constantly be managing the battery. \n\nMeanwhile I have a ds lite I just powered on for the first time in a decade just yesterday and it's still at 50% and played for an hour or so before dying.",
+          "score": 57,
+          "created_utc": 1737957008.0,
+          "replies": [
+            {
+              "id": "m9f8pvz",
+              "author": "internetlad",
+              "body": "The DS lite doesn't operate in low power mode when you turn it \"off\"\n\n\nIf you want to store your Deck for more than a month, there's a mode to actually turn it \"off off\" in the BIOS which sounds insane but it is in there. I think it's called Battery Mode or the like. You have to do it when reinstalling the OS and it got my touchscreen running after it stopped.",
+              "score": 31,
+              "created_utc": 1737967382.0,
+              "replies": [
+                {
+                  "id": "m9fnq16",
+                  "author": "Avarus_Lux",
+                  "body": "So, when i \"shutdown\" my deck it doesn't actually shut down? Why though?  ...  I use \"shutdown\" to turn it off off, otherwise i'd use the hibernate or suspend option...",
+                  "score": 16,
+                  "created_utc": 1737976526.0,
+                  "replies": [
+                    {
+                      "id": "m9g9g5t",
+                      "author": "Stuntingonthesehoes",
+                      "body": "Iirc most modern PC's don't actually turn off when you use shutdown",
+                      "score": 12,
+                      "created_utc": 1737986029.0,
+                      "replies": [
+                        {
+                          "id": "m9gb0qn",
+                          "author": "Avarus_Lux",
+                          "body": "Most modern pc's at least have a physical switch on the psu to completely kill it.  \n  \nAlso, while turned off normally there is indeed a little bit of power running through the mainboard of a pc still, miniscule, though as far as i know that's only a dedicated circuit to the button to turn it back on, nothing else (hopefully/usually...).   \ni expect that to also be normal on say a phone or the deck too, but that function shouldn't lose you so much battery as that indicates there's much more going on even in shutdown mode... \n  \nCan't exactly install a physical switch on the deck in the battery leads to prevent that sadly.",
+                          "score": 10,
+                          "created_utc": 1737986586.0,
+                          "replies": [
+                            {
+                              "id": "m9gcprb",
+                              "author": "internetlad",
+                              "body": "Literally no modern laptop other than the Framework actually has a physical power switch, and I'm not even sure about the Framework. Still on most desktops though (because it's built into the PSU as an ANSI standard)",
+                              "score": 4,
+                              "created_utc": 1737987180.0,
+                              "replies": [
+                                {
+                                  "id": "m9gzzss",
+                                  "author": "Avarus_Lux",
+                                  "body": "I don't expect a physical switch on a laptop, pulling the battery perhaps, though even that is a hassle on a lot of modern laptops and other portanle devices.   \nA tiny off switch would be nice, though dumbasses will likely ruin those quick. Both for tech support and physically literally haha. \nImho also i can't exactly call a laptop a pc, not like a desktop machine at least.\n  \nLike i said, i expect the only power that is actively going on a properly shutdown laptop, steamdeck, tablets, phone or a desktop amongst other devices to be the tiniest amount necessary to only use the power button which engages everything else. Maybe a whopping two whole buttons like a steamdeck to alternative power on in a bios/boot menu mode...  \n  \nNothing else, no other lingering data, no processes nor connectivity whatsoever. So if a battery drains fast while properly shutdown, that doesn't sound right to me.\n  \nPs, Physical switches are just a neat extra step/option to ensure that one can physically disconnects a powersource to enforce a true off off.",
+                                  "score": 2,
+                                  "created_utc": 1737994332.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m9etnzr",
+              "author": "submerging",
+              "body": "That\u2019s pretty good for a device made in the past few years.\n\nMost laptops are a lot worse than this. In fact, 5% battery drain per day would be considered good (that\u2019s relatively close to the amount a typical Apple Silicon Mac would drain in a day).\n\nPhones are worse than this. Find me a phone that drains less than 5% per day without airplane mode being turned on.\n\nOther PC handhelds are worse than this too lol. 5% per day translates to 20 days, or close to 3 weeks.",
+              "score": 16,
+              "created_utc": 1737958568.0,
+              "replies": [
+                {
+                  "id": "m9f445u",
+                  "author": "locky_",
+                  "body": "If you leave your phone \"with the screen off\" but without puting it on Airplane mode it stills connected to the Mobile network, wifi, bluetooth, have internal processes running.... 5% a day drain from that is really very low. The same with PCs, and the Deck. They are still on, not powered down.",
+                  "score": 17,
+                  "created_utc": 1737964523.0,
+                  "replies": []
+                },
+                {
+                  "id": "m9famqw",
+                  "author": "eras",
+                  "body": "I think people are mixing the cases of a device being turned off vs being suspended (but in both cases definitely not running).\n\nI would not expect a modern device that is turned off to have 5% battery drain per day. Or is that kind of drain trule explainable by battery chemistry?",
+                  "score": 10,
+                  "created_utc": 1737968597.0,
+                  "replies": [
+                    {
+                      "id": "m9g8lnn",
+                      "author": "submerging",
+                      "body": "If it\u2019s completely turned off then 5% battery drain per day is quite weird.",
+                      "score": 5,
+                      "created_utc": 1737985727.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m9ffjiy",
+                  "author": "AzKondor",
+                  "body": "My ThinkPad turned off can wait weeks/months, I tin it on and it still has juice. We are talking about turned off, not suspended. It's weird that steam deck loses so much power when turned off.",
+                  "score": 8,
+                  "created_utc": 1737971698.0,
+                  "replies": [
+                    {
+                      "id": "m9gvdy0",
+                      "author": "Omegalazarus",
+                      "body": "Yeah the only device I have that kind of power when it's turned off off it's my kindle reader",
+                      "score": 1,
+                      "created_utc": 1737993006.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m9iykqx",
+              "author": "bunkSauce",
+              "body": "Steamdeck after 100% charge left powered off for a week: 0%\n\nSwitch after 100% charge left powered off for 6 months: 100%\n\nEven the steamdeck powered off consumes battery. I love mine, but this is probably the #1 issue to fix. And it's related to quick boot (you can fix it). Quick boot should at least be an option to toggle on or off with a note stating fully powered off quick boot will still consume battery when the device is powered off. This shouldn't be a hidden opt-out with no indicator.",
+              "score": 4,
+              "created_utc": 1738014027.0,
+              "replies": [
+                {
+                  "id": "mdyept1",
+                  "author": "theinitialcommand",
+                  "body": "How do you turn off quick boot? Is that different from battery storage mode?",
+                  "score": 1,
+                  "created_utc": 1740125167.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m9f168v",
+          "author": "talldata",
+          "body": "They do have a storage mode for the battery for when it's gonna be sitting for a long time.\n\nhttps://www.ifixit.com/Guide/How+to+Enable+Steam+Deck+Battery+Storage+Mode/149962",
+          "score": 21,
+          "created_utc": 1737962755.0,
+          "replies": [
+            {
+              "id": "m9srasi",
+              "author": "Tywele",
+              "body": "If I have to go into the BIOS it might as well not be there tbh.",
+              "score": 2,
+              "created_utc": 1738144733.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m9f7lq8",
+          "author": "NuPNua",
+          "body": "They have the shipping mode to put it in if you're not using it for a long time right? Same as it arrives.",
+          "score": 3,
+          "created_utc": 1737966672.0,
+          "replies": []
+        },
+        {
+          "id": "m9fd1yf",
+          "author": "ThePr0vider",
+          "body": "you can't do anything about self discharge tho. there is no magic solution to that",
+          "score": 1,
+          "created_utc": 1737970135.0,
+          "replies": []
+        },
+        {
+          "id": "m9fbtr2",
+          "author": "Tenshizanshi",
+          "body": "When waking up after a long storage time; the deck's battery often has calibration issues and indicates a lower health percentage than the real one. Have you tried recalibrating it?",
+          "score": 0,
+          "created_utc": 1737969348.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m9eq594",
+      "author": "ToxicEggs",
+      "body": "Thankfully you can just get a new battery \u2122",
+      "score": 15,
+      "created_utc": 1737956774.0,
+      "replies": [
+        {
+          "id": "m9g81fr",
+          "author": "Drago_133",
+          "body": "Steam deck and its repairability are so goood",
+          "score": 4,
+          "created_utc": 1737985524.0,
+          "replies": [
+            {
+              "id": "mdyeyes",
+              "author": "theinitialcommand",
+              "body": "For everything except the battery.",
+              "score": 1,
+              "created_utc": 1740125303.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m9igcrb",
+      "author": "kittehkillah",
+      "body": "It's not native but we have always had this with some steam deck utility packages. I know I'm going to get hate for this but it doesn't take longer than 5 mins to install (cue \"but native won't even need an install\" yes but also you waited for years since the steam deck released for a feature you could have just sit down on for a little bit..)",
+      "score": 3,
+      "created_utc": 1738008918.0,
+      "replies": []
+    },
+    {
+      "id": "m9ikv5o",
+      "author": "hexahedron17",
+      "body": "I keep my computer at 85% max daily and 60% if I know I'll be plugged in for a week or more.",
+      "score": 1,
+      "created_utc": 1738010198.0,
+      "replies": []
+    },
+    {
+      "id": "m9jh3po",
+      "author": "DFrostedWangsAccount",
+      "body": "The Steam Deck has had arbitrary charge limiting since forever, it's in the Decky plug in and you can choose any percentage to stop charging at.",
+      "score": 1,
+      "created_utc": 1738019424.0,
+      "replies": []
+    },
+    {
+      "id": "m9kl32h",
+      "author": "Texacanadian",
+      "body": "Why do we only want to charge to %80? If this is max we charge, why is it no called %100. Me feel dumb.",
+      "score": 1,
+      "created_utc": 1738032303.0,
+      "replies": [
+        {
+          "id": "m9nnuf3",
+          "author": "agafaba",
+          "body": "You can choose between 80% or 100%. Charging to 100% is harder on the battery so it will degrade faster than if you limit it to 80%.",
+          "score": 1,
+          "created_utc": 1738081032.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m9lifzu",
+      "author": "blueeyedkittens",
+      "body": "I'd be happy if mine charged at all. Do not recommend.",
+      "score": 1,
+      "created_utc": 1738046006.0,
+      "replies": []
+    },
+    {
+      "id": "m9uavdt",
+      "author": "None",
+      "body": "So that's like what 1 hour of real game gameplay",
+      "score": 1,
+      "created_utc": 1738166792.0,
+      "replies": []
+    },
+    {
+      "id": "m9e9pkq",
+      "author": "ArchusKanzaki",
+      "body": "....maybe if you are on a phone that have all-day battery charging limit makes sense to preserve battery charge cycle, but I don't think a handheld laptop actually needs it? At the very least, its not \"sorely missed\".",
+      "score": -33,
+      "created_utc": 1737949799.0,
+      "replies": [
+        {
+          "id": "m9ea4rq",
+          "author": "dexterlab97",
+          "body": "My big (as opposed to handheld) Asus laptop has 60 and 80 percent limiter.",
+          "score": 27,
+          "created_utc": 1737949952.0,
+          "replies": [
+            {
+              "id": "m9eb3p6",
+              "author": "ArchusKanzaki",
+              "body": "It can makes sense for laptop. They have longer battery life and they might be plugged most of the time. During work for example.\n\nBut Steam Deck have short battery life and limiting it just reduce game time even further. Unless its docked most of the time, I don't think its really needed. That's just my thinking. I don't hate it, I just don't think its \"sorely missed\"",
+              "score": -19,
+              "created_utc": 1737950314.0,
+              "replies": [
+                {
+                  "id": "m9ed84v",
+                  "author": "ExeTcutHiveE",
+                  "body": "I am looking forward to it. I usually never play over an hour and have at least a 50% charge when I plug it back in. This is a good feature for someone like me.",
+                  "score": 6,
+                  "created_utc": 1737951122.0,
+                  "replies": []
+                },
+                {
+                  "id": "m9eiel4",
+                  "author": "DragonSlayerC",
+                  "body": "At home I keep it docked the vast majority of the time and use it handheld only when I travel. It's very common.",
+                  "score": 5,
+                  "created_utc": 1737953238.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m9ebci5",
+          "author": "SurreptitiousSyrup",
+          "body": "My actual gaming laptop has a charging limit. Any device that uses a battery that you leave plugged in for extended periods of time (like if you use the steam deck in docked mode) should have a charging limit to perseve the battery.",
+          "score": 10,
+          "created_utc": 1737950404.0,
+          "replies": [
+            {
+              "id": "m9eq8ll",
+              "author": "khaitheman222",
+              "body": "Iirc steam deck does have a pass through charging feature, which is makes this confusing",
+              "score": 1,
+              "created_utc": 1737956819.0,
+              "replies": [
+                {
+                  "id": "m9g0d9z",
+                  "author": "BenadrylChunderHatch",
+                  "body": "Yes, but this is a different battery preserving feature which serves a different purpose - one doesn't invalidate the other and it's better to have both. \n \nThe issue is that keeping Li-Ion batteries at or close to 100% shortens their lifespan. With the deck it charges to 100% and then switches to pass through. With this feature it will charge to 80% and then switch to pass through so that you only charge to 100% when you actually need it. \n\nThis feature is very common in modern laptops and phones.",
+                  "score": 2,
+                  "created_utc": 1737982574.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m9fbzl2",
+              "author": "Tenshizanshi",
+              "body": ">(like if you use the steam deck in docked mode)\n\nThe deck has passthrough charging, so it's a non issue in this case",
+              "score": -5,
+              "created_utc": 1737969451.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m9jhelm",
+          "author": "DFrostedWangsAccount",
+          "body": "It's mainly not \"sorely missed\" because it's already been a feature on deck for years via the decky plugin",
+          "score": 1,
+          "created_utc": 1738019517.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

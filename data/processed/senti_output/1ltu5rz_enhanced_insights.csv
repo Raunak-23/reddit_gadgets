@@ -1,0 +1,49 @@
+metric,value
+file,1ltu5rz.csv
+title,Luckeep x r/Gadgets Giveaway — Win a Brand-New Foldable X1 eBike!
+rows,122
+num_posts,1
+num_comments,121
+unique_authors,121
+max_depth,1
+avg_comment_words,17.5
+median_comment_words,13.0
+max_comment_words,229
+positive_count,69
+negative_count,52
+neutral_count,0
+positive_pct,57.025
+negative_pct,42.975
+neutral_pct,0.0
+topic_1_keywords,"road, take, would, get, cant, wait, go, friends"
+topic_1_label,road trip to get friends
+topic_2_keywords,"would, ride, beach, id, trip, first, bike, use"
+topic_2_label,bike ride first
+topic_3_keywords,"would, trip, first, road, x1, work, take, house"
+topic_3_label,x1 takes first road trip
+topic_4_keywords,"would, around, ride, first, trip, beach, take, probably"
+topic_4_label,a trip to the beach i would probably take
+topic_5_keywords,"would, take, id, grocery, ride, store, work, dont"
+topic_5_label,id for a car ride
+topic_6_keywords,"bike, taking, going, would, town, around, go, time"
+topic_6_label,bike taking time to go around town
+top_ngram_1,trip would (20)
+top_ngram_2,road trip (18)
+top_ngram_3,first trip (16)
+top_ngram_4,first road (15)
+top_ngram_5,first road trip (15)
+top_ngram_6,first trip would (12)
+top_ngram_7,would take (10)
+top_ngram_8,cant wait (9)
+top_ngram_9,road trip would (8)
+top_ngram_10,trip x1 (7)
+ner_1,X1|MISC|7
+ner_2,##1|MISC|1
+ner_3,Aventon|ORG|1
+ner_4,##wy 74|LOC|1
+ner_5,Boise|LOC|1
+ner_6,Cascade Range|LOC|1
+ner_7,Chicago|LOC|1
+ner_8,Bighorn Ranch|LOC|1
+ner_9,Des Plaines River Trail|MISC|1
+ner_10,Downtown Chicago|LOC|1

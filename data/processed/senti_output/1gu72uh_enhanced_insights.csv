@@ -1,0 +1,49 @@
+metric,value
+file,1gu72uh.csv
+title,Porch pirates appear to be using AT&T data to track iPhones
+rows,200
+num_posts,1
+num_comments,199
+unique_authors,138
+max_depth,7
+avg_comment_words,92.06
+median_comment_words,80.0
+max_comment_words,628
+positive_count,18
+negative_count,85
+neutral_count,96
+positive_pct,9.045
+negative_pct,42.714
+neutral_pct,48.241
+topic_1_keywords,"delivery, fedex, door, package, leave, someone, dont, att"
+topic_1_label,"delivery, fedex, door, package, leave"
+topic_2_keywords,"signature, iphone, cell, att, know, enough, get, point"
+topic_2_label,ipl 's a point
+topic_3_keywords,"att, employee, guess, get, someone, security, like, still"
+topic_3_label,i guess someone is a security person
+topic_4_keywords,"test, ran, one, delivered, im, gate, away, devices"
+topic_4_label,"test, one, delivered, gate, device"
+topic_5_keywords,"tracking, people, thing, accounts, back, driver, us, ever"
+topic_5_label,tracking people and accounts
+topic_6_keywords,"employee, call, att, needed, internal, account, purchase, information"
+topic_6_label,employee calls att for internal account
+top_ngram_1,internal fraud (25)
+top_ngram_2,ran gate (18)
+top_ngram_3,definitely internal (16)
+top_ngram_4,within minutes (15)
+top_ngram_5,banks quite (15)
+top_ngram_6,quite good (15)
+top_ngram_7,good tracking (15)
+top_ngram_8,tracking kind (15)
+top_ngram_9,kind thing (15)
+top_ngram_10,thing logging (15)
+ner_1,ATT|ORG|77
+ner_2,iPhone|MISC|51
+ner_3,FedEx|ORG|43
+ner_4,Apple|ORG|33
+ner_5,UPS|ORG|31
+ner_6,US|LOC|29
+ner_7,Fedex|ORG|13
+ner_8,Argentina|LOC|10
+ner_9,Atlanta|LOC|9
+ner_10,Jamaica|LOC|9

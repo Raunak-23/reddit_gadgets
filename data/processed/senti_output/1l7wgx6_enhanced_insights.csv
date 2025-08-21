@@ -1,0 +1,49 @@
+metric,value
+file,1l7wgx6.csv
+title,"Apple will end support for Intel Macs next year, macOS 27 will require Apple Silicon"
+rows,317
+num_posts,1
+num_comments,316
+unique_authors,218
+max_depth,12
+avg_comment_words,61.16
+median_comment_words,39.0
+max_comment_words,997
+positive_count,58
+negative_count,230
+neutral_count,28
+positive_pct,18.354
+negative_pct,72.785
+neutral_pct,8.861
+topic_1_keywords,"hackintosh, good, like, community, able, intel, support, macbook"
+topic_1_label,"hackintosh is good, but not good"
+topic_2_keywords,"linux, get, use, windows, audio, work, pipewire, wine"
+topic_2_label,"linux, audio, wine"
+topic_3_keywords,"still, windows, mac, os, updates, year, intel, mbp"
+topic_3_label,updates for mac and os
+topic_4_keywords,"apple, years, intel, still, updates, security, thats, another"
+topic_4_label,Apple updates security updates
+topic_5_keywords,"apple, 5k, display, old, intel, 27, imac, get"
+topic_5_label,Apple 5k Display Displays Old and New Apples
+topic_6_keywords,"support, linux, intel, apple, software, new, based, using"
+topic_6_label,"linux, intel, apple, software, new"
+top_ngram_1,security updates (52)
+top_ngram_2,intel macs (35)
+top_ngram_3,macbook pro (22)
+top_ngram_4,windows 11 (21)
+top_ngram_5,apple silicon (20)
+top_ngram_6,intel macbook (18)
+top_ngram_7,audio work (18)
+top_ngram_8,support intel (17)
+top_ngram_9,years ago (16)
+top_ngram_10,three years (16)
+ner_1,Apple|ORG|91
+ner_2,Linux|MISC|68
+ner_3,Mac|MISC|59
+ner_4,Intel|ORG|52
+ner_5,Intel Mac|MISC|27
+ner_6,Windows 11|MISC|19
+ner_7,Windows|MISC|18
+ner_8,Windows 10|MISC|14
+ner_9,iMac|MISC|13
+ner_10,Mac Pro|MISC|13

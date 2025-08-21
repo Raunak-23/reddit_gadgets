@@ -1,0 +1,49 @@
+metric,value
+file,1lgyr2k.csv
+title,Meta Quest 3S Xbox Edition Leaked Ahead of Announcement
+rows,112
+num_posts,1
+num_comments,111
+unique_authors,85
+max_depth,5
+avg_comment_words,41.52
+median_comment_words,33.0
+max_comment_words,404
+positive_count,21
+negative_count,90
+neutral_count,0
+positive_pct,18.919
+negative_pct,81.081
+neutral_pct,0.0
+topic_1_keywords,"xbox, rog, get, like, play, already, im, console"
+topic_1_label,xbox rog gets a new im
+topic_2_keywords,"battery, extra, strap, 3s, one, elite, much, quest"
+topic_2_label,adolescent slams battery with extra strap
+topic_3_keywords,"xbox, games, vr, one, tv, know, series, quest"
+topic_3_label,"xbox games, vr, one"
+topic_4_keywords,"games, im, quest, would, though, support, theyre, bright"
+topic_4_label,i would support i 'm bright
+topic_5_keywords,"xbox, like, console, account, microsoft, theyve, legacy, use"
+topic_5_label,xbox likes microsoft account
+topic_6_keywords,"headset, better, sweaty, screen, face, real, friends, tv"
+topic_6_label,headsets better than real ones
+top_ngram_1,quest 3s (13)
+top_ngram_2,elite strap (13)
+top_ngram_3,nah real (12)
+top_ngram_4,real big (12)
+top_ngram_5,big screen (12)
+top_ngram_6,screen tv (12)
+top_ngram_7,tv soundbar (12)
+top_ngram_8,soundbar friends (12)
+top_ngram_9,friends sweaty (12)
+top_ngram_10,sweaty headset (12)
+ner_1,Xbox|MISC|32
+ner_2,Xbox|ORG|21
+ner_3,Microsoft|ORG|8
+ner_4,XBox|MISC|7
+ner_5,Quest 3|MISC|6
+ner_6,Series X|MISC|4
+ner_7,Fresnel|MISC|4
+ner_8,Meta Quest 3S|MISC|4
+ner_9,MS|ORG|3
+ner_10,Xbox Game Pass Ultimate|MISC|3

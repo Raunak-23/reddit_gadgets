@@ -1,0 +1,49 @@
+metric,value
+file,1kr6vhw.csv
+title,Asus introduces 3000-watt PSU — enough capacity to power 4 RTX 5090s
+rows,125
+num_posts,1
+num_comments,124
+unique_authors,90
+max_depth,8
+avg_comment_words,35.1
+median_comment_words,29.0
+max_comment_words,129
+positive_count,17
+negative_count,107
+neutral_count,0
+positive_pct,13.71
+negative_pct,86.29
+neutral_pct,0.0
+topic_1_keywords,"two, amp, outlets, plug, circuits, 15, need, cant"
+topic_1_label,"Two amps, outlets, circuits, 15 need cant"
+topic_2_keywords,"thats, two, us, 240, power, youd, 120v, need"
+topic_2_label,240 volts need 120 volts
+topic_3_keywords,"psu, low, psus, wattage, server, efficient, amps, power"
+topic_3_label,psus low power server
+topic_4_keywords,"youre, house, burn, burning, computer, dawg, designed, fires"
+topic_4_label,a computer designed for burning a house
+topic_5_keywords,"room, home, pc, get, im, psu, really, rig"
+topic_5_label,psu rigs home
+topic_6_keywords,"space, heater, energy, 3000w, people, run, 30a, 120v"
+topic_6_label,Space heaters run 30a and 120v
+top_ngram_1,space heater (18)
+top_ngram_2,two 120v (16)
+top_ngram_3,two outlets (14)
+top_ngram_4,need two (11)
+top_ngram_5,youd need (11)
+top_ngram_6,pc room (10)
+top_ngram_7,30 amp (10)
+top_ngram_8,15 amp (10)
+top_ngram_9,takes two (9)
+top_ngram_10,120v wall (9)
+ner_1,US|LOC|14
+ner_2,##anada|LOC|6
+ner_3,USC|ORG|6
+ner_4,PS|ORG|4
+ner_5,Cyberpunk|MISC|2
+ner_6,ATI|MISC|2
+ner_7,##60|MISC|1
+ner_8,##obyl|LOC|1
+ner_9,3|MISC|1
+ner_10,##rque|MISC|1

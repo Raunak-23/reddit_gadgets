@@ -1,0 +1,49 @@
+metric,value
+file,1koc062.csv
+title,WSJ: Some Apple Vision Pro Buyers 'Feel Total Regret'
+rows,381
+num_posts,1
+num_comments,380
+unique_authors,264
+max_depth,7
+avg_comment_words,81.7
+median_comment_words,49.0
+max_comment_words,597
+positive_count,64
+negative_count,252
+neutral_count,64
+positive_pct,16.842
+negative_pct,66.316
+neutral_pct,16.842
+topic_1_keywords,"like, vr, tech, way, apple, still, 3d, kids"
+topic_1_label,3d 3d 3d 3d 3d 3d 3d 3d 3d 3d 3d 3d 3d 3d 3
+topic_2_keywords,"vr, buyers, feel, apple, people, price, days, games"
+topic_2_label,"vr, people, price, games"
+topic_3_keywords,"like, vr, would, apple, sell, much, get, sick"
+topic_3_label,"like, vr, would, apple, sell"
+topic_4_keywords,"people, like, video, phone, would, something, even, vr"
+topic_4_label,video likes to video
+topic_5_keywords,"one, like, id, would, get, use, thing, also"
+topic_5_label,id like to use something
+topic_6_keywords,"people, use, vision, want, vr, still, would, etc"
+topic_6_label,vr would use vr
+top_ngram_1,vision pro (46)
+top_ngram_2,use case (36)
+top_ngram_3,apple vision (24)
+top_ngram_4,still terrible (22)
+top_ngram_5,kids birthday (21)
+top_ngram_6,pure magic (19)
+top_ngram_7,buyers feel (19)
+top_ngram_8,demoed store (18)
+top_ngram_9,way hell (18)
+top_ngram_10,pay 3500 (18)
+ner_1,Apple|ORG|69
+ner_2,iPhone|MISC|17
+ner_3,Oculus|MISC|15
+ner_4,Quest 3|MISC|13
+ner_5,Vision Pro|MISC|13
+ner_6,iP|MISC|11
+ner_7,Facebook|MISC|11
+ner_8,Snapchat|MISC|11
+ner_9,iPhone iPod iPad|MISC|11
+ner_10,Disney|ORG|10

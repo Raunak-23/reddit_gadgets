@@ -1,0 +1,41 @@
+metric,value
+file,1gpaotc.csv
+title,Automated Weed Spraying Drone Needs No Human Intervention
+rows,12
+num_posts,1
+num_comments,11
+unique_authors,11
+max_depth,3
+avg_comment_words,27.27
+median_comment_words,31.0
+max_comment_words,57
+positive_count,1
+negative_count,10
+neutral_count,0
+positive_pct,9.091
+negative_pct,90.909
+neutral_pct,0.0
+topic_1_keywords,"drone, ai, intervention, weed, spray, cool, human, farmers"
+topic_1_label,drone drone sprays weeds in farmers
+topic_2_keywords,"drone, ai, intervention, weed, spray, cool, human, farmers"
+topic_2_label,drone drone sprays weeds in farmers
+topic_3_keywords,"ai, us, drone, pesticides, lasers, eyes, round, want"
+topic_3_label,drones want to make eye contact with us
+topic_4_keywords,"human, cool, intervention, realise, race, bots, invasive, species"
+topic_4_label,human 's cool intervention in invasive species
+topic_5_keywords,"weed, spray, drone, ai, intervention, cool, human, farmers"
+topic_5_label,drones spray weeds in farmers
+topic_6_keywords,"farmers, use, quality, shoot, fire, bad, costs, crop"
+topic_6_label,farmers use quality shot to shoot
+top_ngram_1,human intervention (3)
+top_ngram_2,use chemicals (2)
+top_ngram_3,chemicals use (2)
+top_ngram_4,use fire (2)
+top_ngram_5,fire idaho (2)
+top_ngram_6,idaho farmers (2)
+top_ngram_7,farmers turn (2)
+top_ngram_8,turn laserweeding (2)
+top_ngram_9,laserweeding cut (2)
+top_ngram_10,cut labor (2)
+ner_1,Idaho|LOC|2
+ner_2,AI|ORG|1

@@ -1,0 +1,49 @@
+metric,value
+file,1kztums.csv
+title,"Low-cost device could allow homeowners to test their own tap water for lead | An experimental new device could soon allow homeowners to check for themselves, instead of waiting for the city to do so."
+rows,79
+num_posts,1
+num_comments,78
+unique_authors,56
+max_depth,6
+avg_comment_words,57.05
+median_comment_words,37.0
+max_comment_words,333
+positive_count,16
+negative_count,62
+neutral_count,0
+positive_pct,20.513
+negative_pct,79.487
+neutral_pct,0.0
+topic_1_keywords,"test, lead, problem, still, country, kind, shitty, water"
+topic_1_label,test lead in water test
+topic_2_keywords,"water, get, dont, municipal, test, like, free, tested"
+topic_2_label,water tests free
+topic_3_keywords,"water, lead, since, pipes, area, look, due, broken"
+topic_3_label,water lead is a problem in the area of pipes
+topic_4_keywords,"replace, water, within, pipes, would, lead, lack, 10"
+topic_4_label,a plumber would replace water within a pipe
+topic_5_keywords,"water, lead, pipes, still, home, free, depot, naughty"
+topic_5_label,naughty home with water and lead
+topic_6_keywords,"strips, well, water, dip, content, work, tell, lot"
+topic_6_label,a lot of water and a lot of dip
+top_ngram_1,lead pipes (19)
+top_ngram_2,municipal water (15)
+top_ngram_3,home depot (10)
+top_ngram_4,everyone else (8)
+top_ngram_5,else home (8)
+top_ngram_6,depot mail (8)
+top_ngram_7,mail kits (8)
+top_ngram_8,kits let (8)
+top_ngram_9,let free (8)
+top_ngram_10,everyone else home (8)
+ner_1,Home Depot|ORG|10
+ner_2,US|LOC|8
+ner_3,UK|LOC|5
+ner_4,EPA|ORG|4
+ner_5,Eco Water|ORG|4
+ner_6,Germany|LOC|4
+ner_7,Wisconsin Illinois Indiana|LOC|2
+ner_8,Wisconsin Illinois|LOC|2
+ner_9,UK Germany|LOC|2
+ner_10,Indiana|LOC|2

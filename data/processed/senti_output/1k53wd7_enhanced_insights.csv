@@ -1,0 +1,49 @@
+metric,value
+file,1k53wd7.csv
+title,"LG launches 45"" and 39"" OLED gaming monitors with smart TV features | Best of both worlds or a compromise that satisfies neither?"
+rows,194
+num_posts,1
+num_comments,193
+unique_authors,134
+max_depth,8
+avg_comment_words,68.2
+median_comment_words,52.0
+max_comment_words,326
+positive_count,10
+negative_count,183
+neutral_count,0
+positive_pct,5.181
+negative_pct,94.819
+neutral_pct,0.0
+topic_1_keywords,"tv, 4k, 40in, want, curved, would, screen, monitor"
+topic_1_label,curved screen for tv
+topic_2_keywords,"tv, apple, like, 4k, use, roku, interface, want"
+topic_2_label,4k roku for 4k
+topic_3_keywords,"tv, smart, monitor, computer, hulu, netflix, people, bought"
+topic_3_label,"hulu, netflix, people buy tv"
+topic_4_keywords,"tv, monitor, smart, gaming, like, really, features, inch"
+topic_4_label,Gaming features a monitor with a gaming screen and a gaming screen
+topic_5_keywords,"ads, monitor, smart, data, tv, ago, like, whats"
+topic_5_label,i like tv ads
+topic_6_keywords,"smart, tv, one, features, monitor, lg, 4k, pc"
+topic_6_label,Smart TV features a tv with a lg 4k pc
+top_ngram_1,smart tv (70)
+top_ngram_2,apple tv (33)
+top_ngram_3,smart monitor (25)
+top_ngram_4,tv monitor (22)
+top_ngram_5,thats already (20)
+top_ngram_6,whats purpose (19)
+top_ngram_7,purpose smart (19)
+top_ngram_8,monitor thats (19)
+top_ngram_9,already hooked (19)
+top_ngram_10,hooked smartest (19)
+ner_1,Netflix|ORG|28
+ner_2,WebOS|MISC|21
+ner_3,LG|ORG|19
+ner_4,Apple TV|MISC|13
+ner_5,Apple|MISC|12
+ner_6,Roku|MISC|12
+ner_7,##lu|ORG|12
+ner_8,Hu|MISC|12
+ner_9,Samsung|ORG|10
+ner_10,Mac|MISC|9

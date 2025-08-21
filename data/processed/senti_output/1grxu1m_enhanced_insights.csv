@@ -1,0 +1,49 @@
+metric,value
+file,1grxu1m.csv
+title,Reports emerge of AMD 9800X3D CPUs burning out in MSI motherboards and a batch of bad CPU sockets could be to blame | A batch of dodgy sockets or just maybe user error?
+rows,78
+num_posts,1
+num_comments,77
+unique_authors,59
+max_depth,8
+avg_comment_words,55.68
+median_comment_words,40.0
+max_comment_words,269
+positive_count,11
+negative_count,66
+neutral_count,0
+positive_pct,14.286
+negative_pct,85.714
+neutral_pct,0.0
+topic_1_keywords,"cpu, install, motherboard, voltage, error, user, nothing, actually"
+topic_1_label,cpu is not installed on cpu
+topic_2_keywords,"cpu, msi, user, looking, seated, also, correctly, likely"
+topic_2_label,cpu is likely to be seated on a cpu
+topic_3_keywords,"user, error, one, socket, cpu, id, possible, two"
+topic_3_label,"error: user error: socket, cpu, id"
+topic_4_keywords,"people, damage, user, socket, address, saying, cpu, fine"
+topic_4_label,cpu fines people for damage
+topic_5_keywords,"msi, issue, isnt, try, case, part, making, company"
+topic_5_label,"msi isnt, isnt, isnt, isnt"
+topic_6_keywords,"socket, years, break, cpu, enough, sucks, even, people"
+topic_6_label,cpu breaks even in sucks
+top_ngram_1,user error (29)
+top_ngram_2,yep msi (8)
+top_ngram_3,msi saying (8)
+top_ngram_4,saying likely (8)
+top_ngram_5,likely cpu (8)
+top_ngram_6,cpu seated (8)
+top_ngram_7,seated correctly (8)
+top_ngram_8,correctly looking (8)
+top_ngram_9,yep msi saying (8)
+top_ngram_10,msi saying likely (8)
+ner_1,MSI|ORG|21
+ner_2,Intel|ORG|14
+ner_3,GamersNexus|ORG|6
+ner_4,MS|ORG|6
+ner_5,Steve|PER|4
+ner_6,PGA|ORG|3
+ner_7,Criminal Minds|ORG|2
+ner_8,Gamers Nexus|ORG|2
+ner_9,BS|ORG|2
+ner_10,Godtier|ORG|2

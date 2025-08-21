@@ -1,0 +1,49 @@
+metric,value
+file,1lad3we.csv
+title,AMD deploys its first Ultra Ethernet ready network card — Pensando Pollara provides up to 400 Gbps performance | Enabling zettascale AMD-based AI cluster.
+rows,66
+num_posts,1
+num_comments,65
+unique_authors,29
+max_depth,14
+avg_comment_words,64.75
+median_comment_words,48.0
+max_comment_words,258
+positive_count,8
+negative_count,57
+neutral_count,0
+positive_pct,12.308
+negative_pct,87.692
+neutral_pct,0.0
+topic_1_keywords,"ethernet, switches, point, cutthrough, nic, latency, directly, udp"
+topic_1_label,"ethernet switches, point, cutthrough, nic, udp"
+topic_2_keywords,"storage, cables, port, around, connection, poe, thinking, name"
+topic_2_label,Poe is a name for a port that is connected to a telecommunications port
+topic_3_keywords,"one, latency, switches, cutthrough, use, would, nvidia, switching"
+topic_3_label,nvidia switching: nvidia switching
+topic_4_keywords,"still, 0284, second, youre, sure, standard, oh, movies"
+topic_4_label,"oh , oh , oh , oh , oh , oh"
+topic_5_keywords,"ethernet, thats, fiber, interconnect, data, im, using, hpc"
+topic_5_label,"ethernet, thats, fiber, interconnect, data, hpc"
+topic_6_keywords,"wifi, ethernet, home, multi, gig, people, 6e7, storage"
+topic_6_label,"WiFi, Ethernet, home, multi, gig, people"
+top_ngram_1,hpc ethernet (7)
+top_ngram_2,ethernet really (7)
+top_ngram_3,really interconnect (7)
+top_ngram_4,interconnect days (7)
+top_ngram_5,days thats (7)
+top_ngram_6,thats wild (7)
+top_ngram_7,hpc ethernet really (7)
+top_ngram_8,ethernet really interconnect (7)
+top_ngram_9,really interconnect days (7)
+top_ngram_10,interconnect days thats (7)
+ner_1,Ethernet|MISC|21
+ner_2,Ether|MISC|15
+ner_3,##ther|MISC|8
+ner_4,UDP|MISC|8
+ner_5,N|MISC|7
+ner_6,N|ORG|6
+ner_7,Spanish|MISC|5
+ner_8,HPC|ORG|5
+ner_9,NVIDIA Spectrum|ORG|4
+ner_10,Mellanox|MISC|4

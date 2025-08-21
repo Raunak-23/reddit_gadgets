@@ -1,0 +1,49 @@
+metric,value
+file,1klotxk.csv
+title,"Nintendo president acknowledges ""Switch 2 is priced relatively high"" compared to the original, says bundles will help ""get off to the same start we did with Nintendo Switch"""
+rows,188
+num_posts,1
+num_comments,187
+unique_authors,118
+max_depth,9
+avg_comment_words,77.65
+median_comment_words,57.0
+max_comment_words,453
+positive_count,16
+negative_count,171
+neutral_count,0
+positive_pct,8.556
+negative_pct,91.444
+neutral_pct,0.0
+topic_1_keywords,"games, would, price, cost, switch, nintendo, even, make"
+topic_1_label,nintendo even a game would cost a lot of money
+topic_2_keywords,"games, game, mario, kart, like, deal, 450, actually"
+topic_2_label,450 karts like the 450 karts
+topic_3_keywords,"switch, nintendo, price, performance, like, much, would, company"
+topic_3_label,nintendo 's price and performance like a lot
+topic_4_keywords,"switch, nintendo, profit, income, hardware, launch, cost, decline"
+topic_4_label,nintendo profits decline
+topic_5_keywords,"switch, games, xbox, nintendo, could, seem, wii, year"
+topic_5_label,xbox could seem in wii
+topic_6_keywords,"switch, games, nintendo, buy, play, get, price, im"
+topic_6_label,"Switch, games, nintendo, buy, play"
+top_ngram_1,mario kart (21)
+top_ngram_2,players choice (15)
+top_ngram_3,steam deck (14)
+top_ngram_4,nintendo switch (13)
+top_ngram_5,able play (12)
+top_ngram_6,high price (10)
+top_ngram_7,switch launch (10)
+top_ngram_8,year old (10)
+top_ngram_9,want ease (9)
+top_ngram_10,ease pricing (9)
+ner_1,Nintendo|ORG|98
+ner_2,Switch 2|MISC|45
+ner_3,Switch|MISC|27
+ner_4,Switch 1|MISC|19
+ner_5,Mario Kart|MISC|16
+ner_6,Sony|ORG|11
+ner_7,Wii U|MISC|11
+ner_8,Nintendo Switch|MISC|9
+ner_9,N64|MISC|8
+ner_10,Pokemon|MISC|8

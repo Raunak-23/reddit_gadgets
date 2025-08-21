@@ -1,0 +1,49 @@
+metric,value
+file,1ko8ptj.csv
+title,Nintendo Says the Switch 2 Will Only Support VRR In Handheld Mode
+rows,266
+num_posts,1
+num_comments,265
+unique_authors,166
+max_depth,11
+avg_comment_words,61.76
+median_comment_words,47.0
+max_comment_words,378
+positive_count,23
+negative_count,242
+neutral_count,0
+positive_pct,8.679
+negative_pct,91.321
+neutral_pct,0.0
+topic_1_keywords,"vrr, hdmi, displayport, ill, like, nintendo, show, thats"
+topic_1_label,hdmi likes nintendo
+topic_2_keywords,"vrr, screen, rate, refresh, game, tearing, monitor, 35fps"
+topic_2_label,"vrr screen refresh rate, game, tearing"
+topic_3_keywords,"hdmi, dock, vrr, port, support, im, thing, sure"
+topic_3_label,hdmi docks port
+topic_4_keywords,"hdmi, frame, im, vrr, fps, games, someone, could"
+topic_4_label,"hdmi frame, fps, games"
+topic_5_keywords,"switch, games, nintendo, console, consoles, hardware, play, less"
+topic_5_label,"Switch games, consoles, hardware"
+topic_6_keywords,"hdmi, vrr, 21, switch, dock, screen, new, frame"
+topic_6_label,"hdmi, vrr, 21, switch, dock, screen"
+top_ngram_1,hdmi 21 (64)
+top_ngram_2,refresh rate (49)
+top_ngram_3,screen tearing (40)
+top_ngram_4,hdmi 20 (25)
+top_ngram_5,dock hdmi (24)
+top_ngram_6,support vrr (24)
+top_ngram_7,frame rate (24)
+top_ngram_8,variable refresh (20)
+top_ngram_9,variable refresh rate (20)
+top_ngram_10,displayport hdmi (18)
+ner_1,HD|MISC|90
+ner_2,HDMI|MISC|80
+ner_3,Nintendo|ORG|67
+ner_4,Switch 2|MISC|30
+ner_5,##5|MISC|12
+ner_6,Di|MISC|12
+ner_7,PS|ORG|11
+ner_8,Am|MISC|10
+ner_9,PS5|MISC|9
+ner_10,Switch 1|MISC|9

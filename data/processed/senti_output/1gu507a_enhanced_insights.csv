@@ -1,0 +1,49 @@
+metric,value
+file,1gu507a.csv
+title,PS5 Pro owners complain that some Pro-enhanced games look worse / Silent Hill 2 and Star Wars Jedi: Survivor reportedly have issues due to the PS5 Pro’s upscaling tech
+rows,251
+num_posts,1
+num_comments,250
+unique_authors,149
+max_depth,14
+avg_comment_words,73.18
+median_comment_words,52.5
+max_comment_words,393
+positive_count,31
+negative_count,219
+neutral_count,0
+positive_pct,12.4
+negative_pct,87.6
+neutral_pct,0.0
+topic_1_keywords,"games, xbox, console, time, 4k, play, ps5, game"
+topic_1_label,xbox games 4k time
+topic_2_keywords,"game, looks, even, im, pssr, fsr, play, bad"
+topic_2_label,fsr looks bad in game
+topic_3_keywords,"games, ps4, buy, good, consoles, ps5, time, play"
+topic_3_label,ps4 buys good games
+topic_4_keywords,"better, games, game, like, ps5, look, 1080p, way"
+topic_4_label,ps5 looks 1080p
+topic_5_keywords,"upscaling, looks, 1080p, 4k, always, dlss, ps5, mean"
+topic_5_label,ps5 is always a good way to look
+topic_6_keywords,"60, tv, games, like, pro, youre, game, im"
+topic_6_label,i like games i like
+top_ngram_1,jedi survivor (31)
+top_ngram_2,ps5 pro (31)
+top_ngram_3,look better (17)
+top_ngram_4,play game (15)
+top_ngram_5,new games (15)
+top_ngram_6,digital foundry (14)
+top_ngram_7,better effects (14)
+top_ngram_8,ruin image (13)
+top_ngram_9,people buy (13)
+top_ngram_10,anti aliasing (12)
+ner_1,PS5|MISC|67
+ner_2,Sony|ORG|54
+ner_3,PS4|MISC|51
+ner_4,Xbox|ORG|30
+ner_5,Jedi Survivor|MISC|25
+ner_6,PSSR|ORG|24
+ner_7,FSR|ORG|15
+ner_8,PS5 Pro|MISC|15
+ner_9,PC|MISC|14
+ner_10,Pro|MISC|13

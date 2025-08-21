@@ -1,0 +1,49 @@
+metric,value
+file,1im3ogf.csv
+title,GeForce RTX 5090 Founders Edition card suffers melted connector after user uses third-party cable
+rows,265
+num_posts,1
+num_comments,264
+unique_authors,169
+max_depth,12
+avg_comment_words,61.15
+median_comment_words,40.0
+max_comment_words,386
+positive_count,16
+negative_count,248
+neutral_count,0
+positive_pct,6.061
+negative_pct,93.939
+neutral_pct,0.0
+topic_1_keywords,"amps, cable, wire, connector, 12v, connectors, load, wires"
+topic_1_label,12v cables load 12v
+topic_2_keywords,"cables, cable, even, psu, use, power, terminal, would"
+topic_2_label,psu would be used in psu
+topic_3_keywords,"card, like, power, connector, mains, video, cable, 4090"
+topic_3_label,"card like, power, cable, video"
+topic_4_keywords,"cable, power, amps, draw, 5090, going, card, would"
+topic_4_label,card draw 5090
+topic_5_keywords,"like, pins, 12v, power, lines, dont, voltage, current"
+topic_5_label,"12v, voltage, current"
+topic_6_keywords,"cable, cables, one, party, using, 5090, gpu, im"
+topic_6_label,"gpu, gpu, gpu, gpu"
+top_ngram_1,3rd party (33)
+top_ngram_2,third party (30)
+top_ngram_3,party cable (29)
+top_ngram_4,load balancing (18)
+top_ngram_5,3rd party cable (16)
+top_ngram_6,power supply (15)
+top_ngram_7,party cables (15)
+top_ngram_8,used cable (12)
+top_ngram_9,10 amps (12)
+top_ngram_10,require tight (12)
+ner_1,PS|ORG|30
+ner_2,MODDIY|ORG|14
+ner_3,ASUS|ORG|11
+ner_4,nvidia|ORG|9
+ner_5,GP|ORG|9
+ner_6,OP|ORG|8
+ner_7,AC|MISC|8
+ner_8,##dit|ORG|6
+ner_9,Red|MISC|6
+ner_10,4090|MISC|5

@@ -1,0 +1,49 @@
+metric,value
+file,1hy5f8b.csv
+title,Drone takes out Super Scooper fighting Los Angeles wildfires
+rows,620
+num_posts,1
+num_comments,619
+unique_authors,381
+max_depth,13
+avg_comment_words,50.96
+median_comment_words,39.0
+max_comment_words,289
+positive_count,67
+negative_count,552
+neutral_count,0
+positive_pct,10.824
+negative_pct,89.176
+neutral_pct,0.0
+topic_1_keywords,"like, stupid, drone, world, every, gets, water, person"
+topic_1_label,drones like stupid people
+topic_2_keywords,"drones, drone, people, stupid, like, fly, going, fire"
+topic_2_label,drones fly in the sky
+topic_3_keywords,"drone, people, back, stupid, like, bring, drones, need"
+topic_3_label,drones need to bring people back
+topic_4_keywords,"canada, im, us, america, plane, get, canadian, help"
+topic_4_label,canada 's planes help america
+topic_5_keywords,"people, drone, drones, dont, regulations, know, faa, license"
+topic_5_label,drones don't have licenses
+topic_6_keywords,"drone, plane, public, aircraft, damage, taken, used, like"
+topic_6_label,drones taken by public
+top_ngram_1,bring back (32)
+top_ngram_2,need bring (29)
+top_ngram_3,back shaming (29)
+top_ngram_4,need bring back (29)
+top_ngram_5,bring back shaming (29)
+top_ngram_6,flying drone (25)
+top_ngram_7,fly drones (25)
+top_ngram_8,online clout (23)
+top_ngram_9,new regulations (22)
+top_ngram_10,near wildfires (22)
+ner_1,Canada|LOC|72
+ner_2,America|LOC|52
+ner_3,American|MISC|46
+ner_4,FAA|ORG|39
+ner_5,LA|LOC|36
+ner_6,Trump|PER|33
+ner_7,Americans|MISC|29
+ner_8,Canadian|MISC|27
+ner_9,California|LOC|14
+ner_10,USA|LOC|14

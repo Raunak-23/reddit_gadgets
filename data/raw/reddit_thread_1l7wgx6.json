@@ -1,0 +1,3421 @@
+{
+  "post": {
+    "title": "Apple will end support for Intel Macs next year, macOS 27 will require Apple Silicon",
+    "author": "chrisdh79",
+    "id": "1l7wgx6",
+    "score": 3381,
+    "created_utc": 1749555463.0,
+    "selftext": "",
+    "num_comments": 409,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1l7wgx6/apple_will_end_support_for_intel_macs_next_year/"
+  },
+  "comments": [
+    {
+      "id": "mx00lty",
+      "author": "Blunt552",
+      "body": "hackintosh community is not going to like this",
+      "score": 1269,
+      "created_utc": 1749555950.0,
+      "replies": [
+        {
+          "id": "mx01c33",
+          "author": "None",
+          "body": "[removed]",
+          "score": 709,
+          "created_utc": 1749556247.0,
+          "replies": [
+            {
+              "id": "mx06tf0",
+              "author": "wtfElvis",
+              "body": "I haven't been into the hackintosh scene in a while. Can they not do anything with the apple silicon chips?",
+              "score": 133,
+              "created_utc": 1749558387.0,
+              "replies": [
+                {
+                  "id": "mx07jlr",
+                  "author": "AntiDECA",
+                  "body": "It's a totally different architecture; there's virtually no way to run it on x86 (Intel, amd) computers.\n\n\nAs another comment alluded to, it might be possible with other arm-based devices in the future, but that's a ways off and no real viable arm computers have come out besides Apple's.\u00a0\n\n\nSomething interesting that they might 'move' towards is getting Mac running on the iPad. My personal opinion is that's a bit of a waste of time since they're merging iOS and MacOS so rapidly to make a single more unified design, but it's likely the next immediate progression of hackintosh. It may also look into supporting older arm macs with new software updates... But none have fallen off support yet. In a couple more years I'm sure that'll kick off.\u00a0",
+                  "score": 217,
+                  "created_utc": 1749558658.0,
+                  "replies": [
+                    {
+                      "id": "mx0mw23",
+                      "author": "IntensiveVocoder",
+                      "body": "The issue with attempting Hackintosh on other Arm-based devices is that the GPUs on the other devices can\u2019t easily be made to interpret Metal APIs.",
+                      "score": 89,
+                      "created_utc": 1749563792.0,
+                      "replies": [
+                        {
+                          "id": "mx12d7z",
+                          "author": "m0rogfar",
+                          "body": "Apple's ARM processors also have non-standard matrix SIMD instructions in addition to the standard NEON/SVE SIMD instructions in ARM processors. A different vendor's ARM processor is just not going to work when Apple is shipping a superset of the ARM instruction set.",
+                          "score": 77,
+                          "created_utc": 1749568312.0,
+                          "replies": [
+                            {
+                              "id": "mx3lobd",
+                              "author": "UranicAlloy580",
+                              "body": "It's not just the ARM processor and GPU, MacOS now expects various other Apple customizations and co-processor features like Exclaves, SEP, SISP - these will never show up on systems outside of those built by Apple.",
+                              "score": 16,
+                              "created_utc": 1749594356.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mx14v9z",
+                              "author": "IntensiveVocoder",
+                              "body": "That's a really good point. I don't have familiarity with that at that level. On paper, it's something that could be intercepted using a thin hypervisor or a shim, but the work required to make that work as a bare proof-of-concept is high, and to work reliably is quite a lot higher.\n\nIn terms of value per dollar, there's nothing approaching the M4 Mac mini, and there's next to nothing on the market in terms of consumer-grade Arm hardware that could be a useful host for a shimmed MacOS. It's basically Ampere Altra or nothing, and that still requires a dGPU.",
+                              "score": 31,
+                              "created_utc": 1749569020.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mx12m9d",
+                          "author": "japzone",
+                          "body": "I'm sitting here imagining some coder figuring out some kind of modified driver to convert Metal calls into something an open-source Vulkan based GPU driver can understand. Not sure how viable that is though.",
+                          "score": 10,
+                          "created_utc": 1749568382.0,
+                          "replies": [
+                            {
+                              "id": "mx2at42",
+                              "author": "IntensiveVocoder",
+                              "body": "MoltenVK exists, and it\u2019s pretty good! But, at that\u2019s at a higher level than what would need to be implemented.\nDoing this at a driver level is something of a more complex order, would require kernel extensions, and would be limited to AMD dGPUs, but I\u2019m not sure how possible it is to obtain an Arm MacOS driver or use the open source components in Linux to compile a new one.",
+                              "score": 8,
+                              "created_utc": 1749580706.0,
+                              "replies": [
+                                {
+                                  "id": "mx5lted",
+                                  "author": "beephod_zabblebrox",
+                                  "body": "there are mesa drivers for apple silicon gpus btw (apart of asahi afaik)",
+                                  "score": 2,
+                                  "created_utc": 1749622158.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx2xqk8",
+                      "author": "huuaaang",
+                      "body": "THere's virtually zero chance that MacOS will ever work on other ARM based CPUs because the rest of the hardware would be very different. Look at Linux on various ARM devices. Each one needs custom init/boostrapping at the very least. \n\nIt would only work if someone made made a ARM based SoC that was specifically designed to be a clone of Apple Silicon SoC. And why would anyone do that?\n\nHackintosh on Intel works because Intel Macs were more or less just PC boards with an Apple BIOS/firmware designed to run Windows via Boot Camp.",
+                      "score": 15,
+                      "created_utc": 1749587213.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx07xhe",
+                      "author": "wtfElvis",
+                      "body": "Yeah that makes sense and kind of obvious as I read your reply lol. \n\nThat's a bummer because that was a very serious but chilled community. But seems like it will dwindle down until someone has a breakthrough...which I believe could happen one day.",
+                      "score": 7,
+                      "created_utc": 1749558801.0,
+                      "replies": [
+                        {
+                          "id": "mx136yz",
+                          "author": "Cute_Commission_8281",
+                          "body": "To some extent I blame Apple for not being at all innovative with MacOS, granted idk what more they would/can do to draw people from other OSs. \n\nThese days, other than the aesthetic, I don\u2019t see what would draw someone to go to all the effort to run macOS on a PC. I did it as a kid bc I thought it looked nice.",
+                          "score": 12,
+                          "created_utc": 1749568545.0,
+                          "replies": [
+                            {
+                              "id": "mx19n8g",
+                              "author": "Gtantha",
+                              "body": "Some creative software might be Mac only. Or significantly better on MacOS than on windows. That could be a reason. But I think the windows versions have gotten better in recent years.",
+                              "score": 4,
+                              "created_utc": 1749570373.0,
+                              "replies": [
+                                {
+                                  "id": "mx1fjbl",
+                                  "author": "SOSpammy",
+                                  "body": "Anything MacOS exclusive will be optimized for Apple Silicon and probably wouldn't work well if you found a way to run it on an x86 hackintosh.",
+                                  "score": 4,
+                                  "created_utc": 1749572025.0,
+                                  "replies": [
+                                    {
+                                      "id": "mx1teao",
+                                      "author": "Gtantha",
+                                      "body": "I was more thinking about UI than performance.",
+                                      "score": 2,
+                                      "created_utc": 1749575896.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mxcivhb",
+                                  "author": "GreggAlan",
+                                  "body": "A couple days ago I did a clean install of Big Sur on an old MacBook Air, after copyinf off all the owner's pictures, documents, downloads, and all other personal files I could find.\n\nThat chore was made extra difficult because the Search functions in the OS are total garbage. I could have a folder open with files of the type I wanted to find \\*right there\\* and I'd enter (for example) JPG or \\*.jpg or part of the file's name and it'd claim nothing found.\n\nAfter I managed to track down everything on the horribly messy computer (the owner had so much stuff on the desktop it ran out of space for icons so things were virtually stacked up like a real desk overflowing with papers and other things) and copied to a flash drive, I got Big Sur installed.\n\nIts self-searching capability was even worse than High Sierra! I had to resort to a 3rd party file manager, the first one I tried had no capability of auto-renaming conflicting file names, not did it have a MOVE capability. I was wanting to find all files of a specific type, move them to a new folder, skipping any with the same name. Then I'd make another folder and try copying what was left to that folder, repeating until all the files were moved.\n\nNope! Can't do that. Nor could the second 3rd party file manager I tried, but that one had a \\*keep both\\* option where it would append a number in brackets to the names.\n\nWhat I'm surprised at is that nobody has ever just gone and created an exact functional copy of any version of Windows Explorer for Mac. \n\nI've used Macs since System 7 and have always hated the flat out stupid things Apple has done with the user interface all along the way with every System and OS version. It takes extra time, extra clicks, just \\*more work\\* to get anything done VS how Windows works. Since Windows 95's introduction of the Start Menu it takes \\*two mouse clicks\\* to launch anything that has a shortcut in the menu. Click Start, run through the menu with the cursor, click the shortcut.",
+                                  "score": 1,
+                                  "created_utc": 1749716955.0,
+                                  "replies": [
+                                    {
+                                      "id": "mxe4id7",
+                                      "author": "Gtantha",
+                                      "body": "And? What's the point of this very long tale?",
+                                      "score": 2,
+                                      "created_utc": 1749740529.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mx2tcag",
+                              "author": "wtfElvis",
+                              "body": "Yeah. I remember doing it on some old HP laptop I had. I thought it was awesome. Sound didn't work. And overall didn't work as well as my windows os but it was still cool to experience it for the first time using all that effort",
+                              "score": 1,
+                              "created_utc": 1749585992.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mx311ti",
+                              "author": "parisidiot",
+                              "body": "i did it because i hated windows and found linux annoying, but wanted an OS with decent UX but also a functional command line.",
+                              "score": 1,
+                              "created_utc": 1749588141.0,
+                              "replies": [
+                                {
+                                  "id": "mx3gsuz",
+                                  "author": "nehocbelac",
+                                  "body": "This one 100%\n\nWSL is a bandaid, native CLI support for shell and easier container management locally is huge",
+                                  "score": 1,
+                                  "created_utc": 1749592788.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx10e1i",
+                      "author": "Cheap_Ad_2994",
+                      "body": "IDK I\u2019ve got a ARM thinkpad t15s w/ Snapdragon Elite and it feels pretty capable",
+                      "score": 9,
+                      "created_utc": 1749567745.0,
+                      "replies": [
+                        {
+                          "id": "mx5czbk",
+                          "author": "Oops_I_Cracked",
+                          "body": "It\u2019s not just about performance. Apple uses enough custom hardware and instructions that are not included in the standard ARM instruction set that it\u2019s\u2026 unlikely. Especially in a timeframe where those Snapdragon Elite T15s will still be relevant.",
+                          "score": 4,
+                          "created_utc": 1749617621.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx4c8g9",
+                      "author": "sdasu",
+                      "body": "Are we going to see touchscreen MacBooks?",
+                      "score": 1,
+                      "created_utc": 1749603322.0,
+                      "replies": [
+                        {
+                          "id": "mx4s1k5",
+                          "author": "WillAdams",
+                          "body": "I dunno --- I'm more interested in the question of Apple Pencil/stylus support.\n\nStylus support on Windows has been down-hill since Fall Creators Update crippled styluses, making them an 11th touch input in Edge and so forth so that they scrolled rather than selected. (I have to use Firefox/Waterfox w/ the stylus scrolls option turned off, and keep the Settings app open so that I can toggle how the mouse behaves depending on which app I'm running).\n\nI'm hopeful that Apple will make a competitor to Lenovo's Yogabook 9i, but at this point I'm not even sure Samsung will (though I'm relieved that they at least have continued the Samsung Galaxy Book 3 Pro 360 through v4 and v5) --- I've been wanting a dual-screen device for a _very_ long time (and am quite annoyed that the Yogabook 9i doesn't use Wacom EMR).",
+                          "score": 1,
+                          "created_utc": 1749608886.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx66a5b",
+                      "author": "PixelDu5t",
+                      "body": "It\u2019s not a waste of time when iPadOS is deliberately handicapped so that people wouldn\u2019t stop buying macs. If it would run macOS, many might never by a mac",
+                      "score": 1,
+                      "created_utc": 1749634214.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx6bgdt",
+                      "author": "domoincarn8",
+                      "body": "More than that, ARM is a complete nightmare for interoperability. Over here in x86 land we have ACPI, BIOS & UEFI for the OS to figure out the hardware at boot time. Thus one OS can boot on multiple devices (be it from Apple, HP, Dell, Lenovo, XYZ, etc.). One bootloader, one OS. This is why Linux was able to grow.\n\nThat is just not possible for ARM. It is a complete shithow. Each device needs a custom OS with custom device trees to boot. No UEFI, nothing. That's why its been a nightmare to just get Linux to run properly on Apple M chips. \n\nIn the nightmare distopia where ARM actually comes to rule desktop, your OS and support will be dictated by the manufacturer and you system will be ewaste once that ends. No ability to rework it into something else. Innovation dies. No compatible software.",
+                      "score": 1,
+                      "created_utc": 1749637102.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mxbz1ac",
+                      "author": "basicallyPeesus",
+                      "body": "\"no real viable arm computers have come out\"\n\nYes they did, last year in the summer. \n\nAnd we are only talking about consumer clients here of course",
+                      "score": 1,
+                      "created_utc": 1749705624.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx0zpb5",
+                      "author": "elton_john_lennon",
+                      "body": "> there's virtually no way to run it on x86\n\nSuch a wrong word to use here, as it is exactly possible through non other than virtualisation, to run one type of architecture on another type of different architecture.",
+                      "score": 2,
+                      "created_utc": 1749567547.0,
+                      "replies": [
+                        {
+                          "id": "mx108ms",
+                          "author": "AntiDECA",
+                          "body": "Yes, but that's not hackintosh. Hackintosh is running bare metal. Virtual machines are a totally separate area.\n\n\nThat's just running a VM. It is and will continue to be possible, but with significant performance drawbacks. You'll never make a better Mac via running in a VM like you could through hackintoshing. There's too many limitations.\u00a0",
+                          "score": 15,
+                          "created_utc": 1749567701.0,
+                          "replies": [
+                            {
+                              "id": "mx12uhx",
+                              "author": "elton_john_lennon",
+                              "body": "Opposition to natively is virtually in this context, that is why I was just pointing out that a different word would be more suitable here. I am not disputing your conclusion and overall message :)",
+                              "score": -7,
+                              "created_utc": 1749568446.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mx8nykj",
+                          "author": "EdOneillsBalls",
+                          "body": "Yes, but in doing so you relegate yourself to the performance that VM's were once associated with (meaning a significant step back). The performant VM's today are predicated around sharing processor architecture so that the overhead is minimal and takes advantage of functionality within the processor and/or motherboard itself for isolation. Changing CPU architecture requires full time translation and, by design, isn't hardware accelerated.\n\nYou don't need to look any further than comparing the experience of running an x86 copy of Windows in Parallels on an Intel Mac vs. doing the same on an Apple Silicon Mac.",
+                          "score": 1,
+                          "created_utc": 1749664942.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mx48igq",
+                          "author": "kc5ods",
+                          "body": "virtualization is not emulation.",
+                          "score": 0,
+                          "created_utc": 1749602029.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mx0z1uz",
+                  "author": "InsaneNinja",
+                  "body": "The point of a Hackintosh was to get more power than the computers Apple was providing for a cheaper price. \nThe M2 and especially now M4 Macmini destroys that entirely. For the last few years, it\u2019s been just for fun.",
+                  "score": 32,
+                  "created_utc": 1749567359.0,
+                  "replies": [
+                    {
+                      "id": "mx47f10",
+                      "author": "repercussion",
+                      "body": "Eh. RAM and storage prices are completely asinine from Apple.",
+                      "score": 3,
+                      "created_utc": 1749601641.0,
+                      "replies": [
+                        {
+                          "id": "mx48roi",
+                          "author": "kc5ods",
+                          "body": "only because PC users are used to buying a ford escort and expecting to be able to LS swap it and put racing seats in later. buying a mac is like buying a sports car, you get it with the trim level you want at purchase and then you just never expect to change it. i mean if you buy a bmw with fabric seats and then decide in 6 months you want leather, it doesn't work that way. same with memory and storage. the price is the price at that point.",
+                          "score": -8,
+                          "created_utc": 1749602119.0,
+                          "replies": [
+                            {
+                              "id": "mx5di49",
+                              "author": "Oops_I_Cracked",
+                              "body": "Whatever makes you feel better about Apple charging $400 bucks for an upgrade that costs them an extra $30-50 in hardware. It does not cost Apple anywhere *approaching* $400 to go from 16 to 32 GB of RAM in a Mac mini. My issue is not with having to make the upgrade at time of purchase, plenty of windows machines do that now too, my issue is with the truly asinine price of the upgrades.",
+                              "score": 8,
+                              "created_utc": 1749617877.0,
+                              "replies": [
+                                {
+                                  "id": "mx6p5qm",
+                                  "author": "kc5ods",
+                                  "body": "It\u2019s not an upgrade, it\u2019s a trim level. Also, the price is point is on par with ECC ram. Apple continues to sell ridiculous numbers of devices so ultimately yours and my opinion don\u2019t seem to matter.",
+                                  "score": 1,
+                                  "created_utc": 1749643403.0,
+                                  "replies": [
+                                    {
+                                      "id": "mx77gag",
+                                      "author": "Oops_I_Cracked",
+                                      "body": "Apple doesn\u2019t use ECC ram which is significantly more expensive for a reason. The fact that they are pricing their ram like ECC when it is not ECC is literally the problem. \n\nAnd yes, our opinions obviously have no impact on Apple. I was never under the impression they did. However you can like Apple devices, which I do, *and* acknowledge their RAM upgrade prices are anti-consumer, which they are. \n\nAnd no, it\u2019s not a \u201ctrim level\u201d. Trim levels come with more than one thing when you move from a lower to higher trim. Optioning into more RAM when buying a Mac only gets you more RAM.",
+                                      "score": 2,
+                                      "created_utc": 1749649866.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mx3mamv",
+                  "author": "TactlessTortoise",
+                  "body": "Most mainstream software still doesn't support it since the architecture is entirely different and relatively new (and Apple has a very closed source philosophy when it comes to sideloading software), so it's not something easy to port stuff to for most developers.\n\nIt does run pretty damn efficient, I'll give them that, but it loses out on compatibility for now.",
+                  "score": 1,
+                  "created_utc": 1749594559.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx7g6cb",
+                  "author": "LazarX",
+                  "body": "The reason Hackintosh exploded was when Apple moved to Intel, they were using commodity hardware, so it became easy to duplicate whatever they were making.\n\nThat\u2019s simply not true with the Apple Silicon platform.",
+                  "score": 1,
+                  "created_utc": 1749652534.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx0fcz2",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -18,
+                  "created_utc": 1749561377.0,
+                  "replies": [
+                    {
+                      "id": "mx0i33b",
+                      "author": "wtfElvis",
+                      "body": "In my time the entry level into Macs was a lot higher than it is now. \n\nWhen I installed hackintosh I have never even seen Mac in person. They weren't in stores near me and no one i knew had one.",
+                      "score": 10,
+                      "created_utc": 1749562272.0,
+                      "replies": [
+                        {
+                          "id": "mx0jgef",
+                          "author": "nagi603",
+                          "body": "There are still whole countries without an official apple store. Resellers, sure, but that's it.",
+                          "score": 5,
+                          "created_utc": 1749562718.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx0gn9z",
+                      "author": "sorrylilsis",
+                      "body": "Correction : Apples makes great hardware for certain types of devices. Also the software is ok and the third party software is best in class.\n\nThe desktop part for example is chronically abandoned. They release a Mac Pro which is great if expensive at launch then abandon the platform and deny any upgrade path for years. \n\nIt was a pain in the ass for creative workers that were stuck with devices that were functionally obsolete for pro use. I know a bunch of photographers/videographers that went the hackintosh way because of that.",
+                      "score": 13,
+                      "created_utc": 1749561802.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx2l71x",
+              "author": "Fredasa",
+              "body": "Man.  I remember when I built a new PC like 20 years ago and soon after set up a hackintosh partition.  I had a more powerful Mac than the most expensive model on the market\u2014something that would have cost me like 4 or 5x what I paid.\n\nBut the only thing I wanted it for was this or that piece of software that was, for no good reason whatsoever, proprietary to Macs.",
+              "score": 5,
+              "created_utc": 1749583659.0,
+              "replies": []
+            },
+            {
+              "id": "mx279nm",
+              "author": "Ironlion45",
+              "body": "Oh they'll be back. Where there's a will, there's a way.",
+              "score": 2,
+              "created_utc": 1749579701.0,
+              "replies": [
+                {
+                  "id": "mx5mllx",
+                  "author": "Randromeda2172",
+                  "body": "Why would anyone want to spend more money on a Hackintosh just to get worse performance than a $600 Mac Mini?",
+                  "score": 8,
+                  "created_utc": 1749622588.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx05mxu",
+              "author": "TonyAtCodeleakers",
+              "body": "Plenty of arm based windows pcs on/hitting the market it seems to be the natural progression \n\nEven the gaming space is slowly but surely transitioning towards arm. Hackintosh will just adapt, slowly, but eventually",
+              "score": -9,
+              "created_utc": 1749557944.0,
+              "replies": [
+                {
+                  "id": "mx09a83",
+                  "author": "NorysStorys",
+                  "body": "I mean so far the gaming space on arm is just phones and the two switches. All the successful PC handhelds and consoles are all on x86 and that doesn\u2019t really seem to be changing. The x86 gaming install base is massive and would be incredibly hard to shift.",
+                  "score": 24,
+                  "created_utc": 1749559288.0,
+                  "replies": [
+                    {
+                      "id": "mx0fnb8",
+                      "author": "anthonycarbine",
+                      "body": "Just like how there's a translation layer between Windows and Linux via proton/wine, I'm predicting another one for arm computers that can quickly translate x86 into arm microcode. Want to say something like this already exists, but the implementation is super slow and not ready for modern games.",
+                      "score": 0,
+                      "created_utc": 1749561472.0,
+                      "replies": [
+                        {
+                          "id": "mx36t3v",
+                          "author": "SolidOshawott",
+                          "body": "OS compatibility and hardware compatibility are different things.\n\nBut x86 games DO run on ARM Macs via Rosetta 2.",
+                          "score": 1,
+                          "created_utc": 1749589768.0,
+                          "replies": [
+                            {
+                              "id": "mxe3cmi",
+                              "author": "anthonycarbine",
+                              "body": "Didn't apple do a demo with re4 remake running on iPhone? Was that Rosetta?",
+                              "score": 1,
+                              "created_utc": 1749740196.0,
+                              "replies": [
+                                {
+                                  "id": "mxfvti9",
+                                  "author": "SolidOshawott",
+                                  "body": "I think RE4 is native, since it's also on iOS.\n\nShadow of the Tomb Raider is an often used Rosetta benchmark.",
+                                  "score": 1,
+                                  "created_utc": 1749758480.0,
+                                  "replies": [
+                                    {
+                                      "id": "mxg2htf",
+                                      "author": "anthonycarbine",
+                                      "body": "I honestly think these demos are excellent proof that arm is the future of mobile gaming, including handhelds like the steam deck. The iPhone draws what, like 6-8 watts of power under load? Steam deck draws like 18-25 under load.  \n\nImagine the battery life from such a conversion. You could be playing a modern game like RE4 remake on battery for like 8+ hours nonstop. \n\nWe really need an open source wine equivalent to Rosetta, detached from the apple ecosphere.",
+                                      "score": 1,
+                                      "created_utc": 1749760445.0,
+                                      "replies": [
+                                        {
+                                          "id": "mxjf8xe",
+                                          "author": "SolidOshawott",
+                                          "body": "I think you're exaggerating a bit. Consider the Switch 2 is ARM and its battery life is good but not outstanding.",
+                                          "score": 1,
+                                          "created_utc": 1749810592.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx12fac",
+                      "author": "DocPhilMcGraw",
+                      "body": "It was revealed during the Activision merger that Microsoft was looking at building hardware with an ARM chipset.  I don\u2019t think it went into too much detail but they were at least looking at it.  And some have read into a Sony job posting that it could mean they are also looking at ARM.  \n\nI think it depends on what kind of console they\u2019re looking to build.  If they are going the Nintendo route with building a handheld console, then I could see them using an ARM chipset.  Which depending on how successful that is would determine whether you see more games being made for an ARM based console or if it would just be smaller in scope games.",
+                      "score": 0,
+                      "created_utc": 1749568329.0,
+                      "replies": [
+                        {
+                          "id": "mx1aipt",
+                          "author": "NorysStorys",
+                          "body": "Considering the Xbox Ally was announced a couple of days ago, it seems that an ARM handheld isn\u2019t on horizon any time soon.",
+                          "score": 0,
+                          "created_utc": 1749570617.0,
+                          "replies": [
+                            {
+                              "id": "mx1lrx2",
+                              "author": "DocPhilMcGraw",
+                              "body": "I wouldn't say that really says anything though.  That's more of an Xbox rebrand for a device that was already made and developed.  That's not the same as them actively developing a handheld device.",
+                              "score": 0,
+                              "created_utc": 1749573803.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx0bs9l",
+                      "author": "TonyAtCodeleakers",
+                      "body": "Key words: slowly but Surely\n\nIn the next 5 years I foresee games studios prioritizing Arm development teams for AAA games. It\u2019s not a matter of if, It\u2019s just a matter when.",
+                      "score": -11,
+                      "created_utc": 1749560163.0,
+                      "replies": [
+                        {
+                          "id": "mx0cc5s",
+                          "author": "monjessenstein",
+                          "body": "5 years no way unless the pc desktop space and handheld gaming pcs and major consoles, aka Playstation (and Xbox if they even decide to continue making consoles) decides to go arm next gen which seems incredibly unlikely.",
+                          "score": 8,
+                          "created_utc": 1749560351.0,
+                          "replies": [
+                            {
+                              "id": "mx0clgu",
+                              "author": "TonyAtCodeleakers",
+                              "body": "RemindMe! 5 years \u201cCheck in on ARM gaming\u201d",
+                              "score": -9,
+                              "created_utc": 1749560440.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mx0ghha",
+                          "author": "Oil_slick941611",
+                          "body": "and what consoles/PC will the games be released on? and who will play them? Other than playing inferior ports on a Switch2 or mobile phone?\n\nIm not saying it wont happen, but it won't happen until Sony/Microsoft go ARM",
+                          "score": 6,
+                          "created_utc": 1749561749.0,
+                          "replies": [
+                            {
+                              "id": "mx0hxcu",
+                              "author": "TonyAtCodeleakers",
+                              "body": "Hopefully we are both still active on Reddit in 5 years so we can find out who is right: point is ARM is the directions all computing manufacturers are shifting to due to the efficiency. X86 will not be dead in any shape way or form in 5 years but it will most definitely be a fragmented space, and I expect arm to have considerably more real estate than it currently does.\n\nIf I\u2019m wrong, I\u2019m wrong. But the writing is on the wall.",
+                              "score": -4,
+                              "created_utc": 1749562220.0,
+                              "replies": [
+                                {
+                                  "id": "mx0yy4v",
+                                  "author": "dragdritt",
+                                  "body": "Efficiency at lower power draws, not larger ones, that's why they are good for phones, handhelds and can be useful for data centers. (Because at that large scale power / heat matters a lot)\n\nConsoles and desktop PCs do not really care about that at all. So all you'd get would be less performance or a higher power draw and more heat.",
+                                  "score": 1,
+                                  "created_utc": 1749567329.0,
+                                  "replies": [
+                                    {
+                                      "id": "mx0z5b5",
+                                      "author": "TonyAtCodeleakers",
+                                      "body": "Time will tell how the market shifts. With more handhelds comes more demand, and I anticipate handhelds to be more prevalent.\n\nBut I will go kicking and screaming before I get off this hill",
+                                      "score": 1,
+                                      "created_utc": 1749567387.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx0huzj",
+          "author": "BalzacTheGreat",
+          "body": "Writings been on the wall for Hackintosh for years. I got out 5 years ago when the first M1\u2019s dropped. Haven\u2019t looked back.",
+          "score": 27,
+          "created_utc": 1749562198.0,
+          "replies": []
+        },
+        {
+          "id": "mx22dbm",
+          "author": "-_Mando_-",
+          "body": "I think they (I) knew.\n\nMany of us have moved to silicon models now as they\u2019re so far superior.",
+          "score": 9,
+          "created_utc": 1749578338.0,
+          "replies": []
+        },
+        {
+          "id": "mx271a9",
+          "author": "Ironlion45",
+          "body": "It was entirely 100% expected though.",
+          "score": 5,
+          "created_utc": 1749579635.0,
+          "replies": []
+        },
+        {
+          "id": "mx1momr",
+          "author": "nurse-ruth",
+          "body": "Neither is my new MacBook. It\u2019s sad they market their products as quickly abandoned, but they do. I bought it new old stock less than three years ago from an Apple Store. They shouldn\u2019t drop support in just a little over three years for what they sell new in stores.\u00a0",
+          "score": 10,
+          "created_utc": 1749574059.0,
+          "replies": [
+            {
+              "id": "mx2lowr",
+              "author": "Swastik496",
+              "body": "this is true but I think the last generation of Intel Macs will be the exception rather than the rule.",
+              "score": 12,
+              "created_utc": 1749583805.0,
+              "replies": [
+                {
+                  "id": "mx432pu",
+                  "author": "beaurepair",
+                  "body": "And to be clear, 2019 was the last generation of Intel macs. So they still will be getting 6 major OS upgrades, and will keep security updates for longer than that.",
+                  "score": 9,
+                  "created_utc": 1749600109.0,
+                  "replies": [
+                    {
+                      "id": "mx490l3",
+                      "author": "kc5ods",
+                      "body": "this is incorrect. there are 2020 intel macs.",
+                      "score": 3,
+                      "created_utc": 1749602204.0,
+                      "replies": [
+                        {
+                          "id": "mx49gce",
+                          "author": "beaurepair",
+                          "body": "You're right. They did have some, but started the M1 MacBook Pro in 2020.",
+                          "score": 1,
+                          "created_utc": 1749602357.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx1fwcx",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 2,
+          "created_utc": 1749572129.0,
+          "replies": []
+        },
+        {
+          "id": "mx2mqxy",
+          "author": "None",
+          "body": "Man I had so much fun starting with jas 10.4 all the way to maverick? I kind of miss this times, really learned a lot. Now I don\u2019t have the time to pray to god with every osx update and I can afford a MacBook now. It was an amazing ride. I still have my 12 year old maverick build here, working just fine.",
+          "score": 1,
+          "created_utc": 1749584109.0,
+          "replies": []
+        },
+        {
+          "id": "mx2o70q",
+          "author": "WestonP",
+          "body": "So? It comes as no surprise, and that's the least likely community for Apple to care about.",
+          "score": 1,
+          "created_utc": 1749584527.0,
+          "replies": []
+        },
+        {
+          "id": "mx445x8",
+          "author": "Potential-Bass-7759",
+          "body": "Windows pc are arm based now anyways so it will live on",
+          "score": 1,
+          "created_utc": 1749600493.0,
+          "replies": [
+            {
+              "id": "mx45e6l",
+              "author": "NeuHundred",
+              "body": "There's also MorphOS and Linux, but I think a big appeal is running the Mac OS on unofficial hardware.  Get rid of that and you've just basically got a generic PC.",
+              "score": 0,
+              "created_utc": 1749600925.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx8lpym",
+          "author": "obi1kenobi1",
+          "body": "Is there even still a hackintosh community? It kind of made sense in 2008 when people were putting that shiny new Intel MacOS on cheap Intel hardware, but I don\u2019t think I\u2019ve heard the word in over a decade. I mean I guess it was always about the thrill of problem solving and figuring out how to do it rather than people wanting to use them as reliable daily computers, but once Intel Macs were mainstream and especially by the mid-to-late 2010s when Apple\u2019s OS support was super long there just didn\u2019t seem to be much reason to do it anymore.",
+          "score": 1,
+          "created_utc": 1749664321.0,
+          "replies": []
+        },
+        {
+          "id": "mxtd56r",
+          "author": "bdk1417",
+          "body": "Oh maybe the eBay prices for Intel Macs will go down and they can be had for people who want to tinker loading it with Linux .",
+          "score": 1,
+          "created_utc": 1749940238.0,
+          "replies": []
+        },
+        {
+          "id": "mx2827s",
+          "author": "kryptylomese",
+          "body": "> SIMD\n\nMac OS is really not all that!  Developers use Macs because other developers use Macs. The best developers develop on Linux FACT!",
+          "score": -2,
+          "created_utc": 1749579925.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx08i8l",
+      "author": "OneSeaworthiness7768",
+      "body": "My 2019 intel MacBook Pro still functions as good as new. As long as it gets security updates for another few years, I see no reason to replace it.",
+      "score": 323,
+      "created_utc": 1749559009.0,
+      "replies": [
+        {
+          "id": "mx220h9",
+          "author": "crevassier",
+          "body": "When an Mx based used MBP comes across my radar within the price I want to pay I'll make the jump.\n\nMy '19 i9 w/ 32GB RAM and 1TB still does what I want it to when it comes to music/djing.\n\nGotten my money's worth out of it many times over at this point.",
+          "score": 67,
+          "created_utc": 1749578241.0,
+          "replies": [
+            {
+              "id": "mx2ofk6",
+              "author": "AgencyBasic3003",
+              "body": "My 16\u201c i7 from 2019 with 32GB RAM was extremely struggling with my workfload at work. Got replaced with a M1 Pro back then and it was like day and night. I still have a 15\u201c i7 MBP at home and I barely use it anymore because my Mac Mini with a M4 is multiple times faster while being completely quiet.",
+              "score": 38,
+              "created_utc": 1749584596.0,
+              "replies": [
+                {
+                  "id": "mx2zy0v",
+                  "author": "crevassier",
+                  "body": "I can imagine it was a nice improvement, Apple really has some amazing engineering going on with their silicon.",
+                  "score": 7,
+                  "created_utc": 1749587831.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx2ejdb",
+          "author": "tuenmuntherapist",
+          "body": "I have one too. I plan to install Linux on it once security updates stop.",
+          "score": 16,
+          "created_utc": 1749581758.0,
+          "replies": [
+            {
+              "id": "mx60pxm",
+              "author": "DJDarren",
+              "body": "/r/LinuxMint will welcome you with open arms.",
+              "score": 2,
+              "created_utc": 1749630828.0,
+              "replies": [
+                {
+                  "id": "mx7ol79",
+                  "author": "tuenmuntherapist",
+                  "body": "Yup! Was planning to try Mint.",
+                  "score": 3,
+                  "created_utc": 1749654961.0,
+                  "replies": [
+                    {
+                      "id": "my3k69t",
+                      "author": "thedoc90",
+                      "body": "Mint is a great starting point, most people don't stick with it for long if they really get into Linux, just becausr they want more, but its pretty solid.",
+                      "score": 1,
+                      "created_utc": 1750088933.0,
+                      "replies": [
+                        {
+                          "id": "my3mhyx",
+                          "author": "tuenmuntherapist",
+                          "body": "I just need something simple and secure to keep running my plex server.",
+                          "score": 1,
+                          "created_utc": 1750089604.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx41bmm",
+          "author": "udum2021",
+          "body": "Non issue for PC, however for Mac you will find more and more apps refuse to run or even install on 'out-of-date' OSes.",
+          "score": 5,
+          "created_utc": 1749599520.0,
+          "replies": []
+        },
+        {
+          "id": "mx3i8ib",
+          "author": "Vladivostokorbust",
+          "body": "I have a 2014 pro and 2025 macbook (the 12\u201d, not a pro) that work just fine. My daily is a M2 MBA but the other two have lots of life left in them",
+          "score": 3,
+          "created_utc": 1749593242.0,
+          "replies": [
+            {
+              "id": "mx3njfc",
+              "author": "OneSeaworthiness7768",
+              "body": "I still have a 2013 MBP. I haven\u2019t booted it up in awhile but last time I did a year ago or so it still seemed to run pretty well. I see people complain about their Mac hardware deteriorating quickly but I dunno, that hasn\u2019t been my experience.",
+              "score": 1,
+              "created_utc": 1749594971.0,
+              "replies": [
+                {
+                  "id": "mx49609",
+                  "author": "Vladivostokorbust",
+                  "body": "For sure. Macs cost more but in addition to the ecosystem, they just work. And for a long time\n\n\nI have a 2007 white plastic MacBook that i haven\u2019t bothered to fire up for a couple years. Last time was a little sketchy so i wouldn\u2019t be surprised if it was gone. Only disappointment was a 2009 24\u201d imac. It only lasted 7 years",
+                  "score": 1,
+                  "created_utc": 1749602257.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx5lryi",
+                  "author": "Stunning-End-6870",
+                  "body": "What OS are you running on it currently? I have an older MBP from 2013, but anything beyond Catalina makes it run borderline unusable slow.",
+                  "score": 1,
+                  "created_utc": 1749622136.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx2qxu6",
+          "author": "abarrelofmankeys",
+          "body": "Mine can barely run adobe stuff anymore, and now Adobe will have less incentive to fix it. At least it\u2019s for work so it\u2019s not my problem to replace",
+          "score": 3,
+          "created_utc": 1749585314.0,
+          "replies": [
+            {
+              "id": "mx4titz",
+              "author": "CrazyLlama71",
+              "body": "That\u2019s an Adobe issue not an Apple issue. I\u2019ve read that Photoshop 2026 will need at least an M1 chip or better to even run. And honestly after doing testing for work, you really need at least an M1 now to do pretty basic things. And if you are working 16-bit files you need better than that. I could barely open 16-bit files with my M1 chip so traded in my work machine for a new M4. \nAdobe just keeps adding and it requires more processing power.",
+              "score": 1,
+              "created_utc": 1749609433.0,
+              "replies": [
+                {
+                  "id": "mx4xfqy",
+                  "author": "abarrelofmankeys",
+                  "body": "That\u2019s what I\u2019m saying, that\u2019s what I use it for, and every year it gets worse. I\u2019m using the same camera gear I\u2019ve been using, and same laptop. No reason things should be rough aside from Adobe being lazy since this is getting phased out, but the phasing out will just make Adobe (and other companies) have even less incentive to bother supporting these computers even though they\u2019re fine.",
+                  "score": 1,
+                  "created_utc": 1749610924.0,
+                  "replies": [
+                    {
+                      "id": "mx4zwtc",
+                      "author": "CrazyLlama71",
+                      "body": "Unfortunately Apple and Adobe don\u2019t have the best history of playing nice with one another. That has changed recently though.\n\nIt\u2019s only going to get worse with the consumer demand for AI features in Photoshop which will take tons of processing power.\u00a0",
+                      "score": 1,
+                      "created_utc": 1749611908.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx3z5bo",
+          "author": "NickCharlesYT",
+          "body": "Honestly, with security updates for another three years, you're getting a good 10 years of support out of it as a whole. That's not bad - I'd be happy to get the same 10 years of support out of my M4 based MBP",
+          "score": 2,
+          "created_utc": 1749598799.0,
+          "replies": [
+            {
+              "id": "mx41qx8",
+              "author": "OneSeaworthiness7768",
+              "body": "Yeah I\u2019m good with a 10 year run for a laptop.",
+              "score": 1,
+              "created_utc": 1749599661.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx5jd7h",
+          "author": "dyslexic__wizard",
+          "body": "Oh no! Is my 2014 MacBook Air about to be obsolete??? Damned planned obsolescence!!!",
+          "score": 1,
+          "created_utc": 1749620855.0,
+          "replies": []
+        },
+        {
+          "id": "mx5nhle",
+          "author": "marcocom",
+          "body": "Mine too. I\u2019ve been really satisfied with it. Love still being able to dual boot windows 11 and do some PC gaming with when traveling. (Also doesn\u2019t hurt when needing to test your code on multiple platforms)",
+          "score": 1,
+          "created_utc": 1749623077.0,
+          "replies": []
+        },
+        {
+          "id": "mx8zxos",
+          "author": "Rogzilla",
+          "body": "Yeah, I\u2019ve got a last gen Intel iMac and I\u2019m fine with this being the last major update for now. I\u2019ll eventually get an Apple Silicon but I\u2019m good with my beefy boy.",
+          "score": 1,
+          "created_utc": 1749668380.0,
+          "replies": []
+        },
+        {
+          "id": "mx3lxsk",
+          "author": "linuxsoftware",
+          "body": "Nobody tell him.",
+          "score": -1,
+          "created_utc": 1749594442.0,
+          "replies": [
+            {
+              "id": "mx3npy9",
+              "author": "OneSeaworthiness7768",
+              "body": "Tell me what? It\u2019s in the article. \n\n>These devices will continue to receive security updates for another three years, however.",
+              "score": 6,
+              "created_utc": 1749595031.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx12agj",
+          "author": "TSwizzlesNipples",
+          "body": "Wanna bet that stops too? This is just Apple being Apple and trying to force people to upgrade.",
+          "score": -36,
+          "created_utc": 1749568291.0,
+          "replies": [
+            {
+              "id": "mx1kcoj",
+              "author": "DDisired",
+              "body": "Are you talking from experience? Because Apple has supported their devices for the longest, at least in the phone market.",
+              "score": 8,
+              "created_utc": 1749573396.0,
+              "replies": []
+            },
+            {
+              "id": "mx147qj",
+              "author": "4kVHS",
+              "body": "Apple is usually pretty good about this.",
+              "score": 34,
+              "created_utc": 1749568834.0,
+              "replies": [
+                {
+                  "id": "mx1naba",
+                  "author": "nurse-ruth",
+                  "body": "I bought my 2019 model new in a store three years ago, and they\u2019re already dropping support for it quickly. Apple is becoming garbage at creating ewaste and screwing their customers.\u00a0\n\nWe had to buy an Intel model then because we had two programs we needed for work that won\u2019t run on the new propriety CPUs.\u00a0",
+                  "score": -12,
+                  "created_utc": 1749574227.0,
+                  "replies": [
+                    {
+                      "id": "mx1om7d",
+                      "author": "4kVHS",
+                      "body": "You\u2019re blaming Apple because you bought outdated hardware to run outdated software. Yeah Apple totally set you up on that one.",
+                      "score": 17,
+                      "created_utc": 1749574590.0,
+                      "replies": [
+                        {
+                          "id": "mx1twmm",
+                          "author": "nurse-ruth",
+                          "body": "Huh? I bought it new three years ago, and we didn\u2019t have a choice. We had to buy Intel. You make it sound like jerkoff Cook gave us a choice.\u00a0",
+                          "score": -9,
+                          "created_utc": 1749576034.0,
+                          "replies": [
+                            {
+                              "id": "mx1w3bj",
+                              "author": "PoopStickss",
+                              "body": "Your choice included the option of another windows pc. You still chose apple. Well apple is phasing out intel. You wanted intel so you chose an old model of mac that clearly was on its way out. Those were your choices lmao",
+                              "score": 11,
+                              "created_utc": 1749576628.0,
+                              "replies": [
+                                {
+                                  "id": "mx2ib1t",
+                                  "author": "nurse-ruth",
+                                  "body": "Those are all garbage. HP and Dell are not valid options for people that need a working and reliable laptop. Even the trackpads are crap that quickly fail. The Apple ones are the best ever made.\u00a0",
+                                  "score": 0,
+                                  "created_utc": 1749582832.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mx1xj6a",
+                              "author": "4kVHS",
+                              "body": "Tim Apple did give you a choice, and you chose the old one lol.",
+                              "score": 10,
+                              "created_utc": 1749577025.0,
+                              "replies": [
+                                {
+                                  "id": "mx2i2fu",
+                                  "author": "nurse-ruth",
+                                  "body": "Liar. All of the new ones had proprietary CPUs that won\u2019t run most software. If you need Intel and want a 16\u201d, mine is the newest and best model made.\u00a0",
+                                  "score": -2,
+                                  "created_utc": 1749582765.0,
+                                  "replies": [
+                                    {
+                                      "id": "mx2lz11",
+                                      "author": "Swastik496",
+                                      "body": "Realistically they were wrong to keep selling the Intel Macs but it was made very clear by Apple that M series was the future(and they\u2019re one of the few companies with the market power to make third party software fall in line)",
+                                      "score": 5,
+                                      "created_utc": 1749583886.0,
+                                      "replies": [
+                                        {
+                                          "id": "mx318ot",
+                                          "author": "nurse-ruth",
+                                          "body": "It was not made clear initially at all. That\u2019s why people were so upset that Cook lied. CNBC reported Apple might never be able to increase yields enough to stop selling Intel CPUs.\u00a0",
+                                          "score": 0,
+                                          "created_utc": 1749588194.0,
+                                          "replies": [
+                                            {
+                                              "id": "mx32djc",
+                                              "author": "Swastik496",
+                                              "body": "CNBC and similar have turned into garbage clickbait for the most part.\n\nLmao apple not being able to increase yields enough to commit to a monumental switch that they promised. The fact that those headlines were believed even after Apple silicon\u2019s huge success in mobile is insane. \n\nApple should\u2019ve stopped selling Intel stuff and made the switch at once to prevent selling e waste but the M series had revolutionary performance and battery life from Day 1. Even just from trying one at the Apple Store, it was clear where the future was headed. \n\nI would hope apple atleast highly subsidizes trade in values for the super late Intel macs but sadly I doubt it.",
+                                              "score": 3,
+                                              "created_utc": 1749588512.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mx344p8",
+                                                  "author": "nurse-ruth",
+                                                  "body": "That is an obvious lie. They report from SEC filings. When Apple decides to commit fraud and lies to the SEC, how can you blame the journalists for exposing their crimes?",
+                                                  "score": 0,
+                                                  "created_utc": 1749589001.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mx4cgu2",
+                                                      "author": "Swastik496",
+                                                      "body": "lol. \n\nI have several family members who make these reports and file the 10K and quarterly filings for other companies. If something small that could ever possibly be an issue is even mentioned in a passing conversation that an exec hears, it will be included there. Better safe than sorry. \n\nUsing those reports to make headlines is nothing but clickbait. They will include anything that could possibly happen from an external party that will impact earnings and operations.",
+                                                      "score": 3,
+                                                      "created_utc": 1749603403.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mxlf5ri",
+                              "author": "mach1alfa",
+                              "body": "shouldnt you blame the software company for not releasing an update so it can run on new systems? you should have knew whats coming when you make such a purchase back then",
+                              "score": 2,
+                              "created_utc": 1749834460.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx4wazr",
+                      "author": "CrazyLlama71",
+                      "body": "But it\u2019s apples fault because your software developer won\u2019t put out an update to work on the new chip? You bought that computer 2 years after the M1 chip came out. That\u2019s on the software developer, not Apple.\nPlus the current OS will be supported for years. Which means it will continue to run your old ass software too.",
+                      "score": 2,
+                      "created_utc": 1749610486.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx141qs",
+              "author": "shalol",
+              "body": "You can just bootcamp windows or linux",
+              "score": 1,
+              "created_utc": 1749568786.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwzzslj",
+      "author": "Mammoth-Ad-107",
+      "body": "hmm that sucks.  that means my 2018 macmini falls under this",
+      "score": 265,
+      "created_utc": 1749555614.0,
+      "replies": [
+        {
+          "id": "mx00254",
+          "author": "HeOpensADress",
+          "body": "So after 8 years of support (presuming purchase at the time of release) what are the repercussions of support being dropped? Will new software versions for say creative software lose support for the Intel Macs too?",
+          "score": 125,
+          "created_utc": 1749555723.0,
+          "replies": [
+            {
+              "id": "mx029vl",
+              "author": "MeBeEric",
+              "body": "Mileage will vary once Apple support is pulled. You\u2019ll still get security updates for a couple more years though.",
+              "score": 130,
+              "created_utc": 1749556627.0,
+              "replies": [
+                {
+                  "id": "mx07jjv",
+                  "author": "Gamebird8",
+                  "body": "Security updates are really the only thing that's important for the life of a system.  \n\n\nFeatures can be nice but on older hardware they can add bloat that slows the system down",
+                  "score": 138,
+                  "created_utc": 1749558657.0,
+                  "replies": [
+                    {
+                      "id": "mx23lv0",
+                      "author": "GolemancerVekk",
+                      "body": "> Security updates are really the only thing that's important for the life of a system. \n\nNot quite. Apple changes the OS APIs very often. Most software creators for iOS and Mac OS don't bother trying to keep up with anything except the very latest API, on the assumption that most of the users will upgrade. I don't think they will go out of their way to maintain a second version for a second, old platform.\n\nBottom line, the last existing versions of software for Intel will keep working, of course... as long as Apple doesn't make a breaking change. If that happens I think their makers will take this opportunity to abandon them.",
+                      "score": 9,
+                      "created_utc": 1749578682.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx1u1co",
+                      "author": "BurlyJohnBrown",
+                      "body": "Unlike on windows, a lot of applications quickly stop working on older versions of macOS(or at least their features don't get updated).",
+                      "score": 19,
+                      "created_utc": 1749576070.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx17my7",
+                      "author": "xBram",
+                      "body": "When you can\u2019t update the OS apps will start failing. I just replaced a 2011 macmini that could still run every website on Firefox but not on Safari.",
+                      "score": 5,
+                      "created_utc": 1749569810.0,
+                      "replies": [
+                        {
+                          "id": "mx1jdc7",
+                          "author": "MeBeEric",
+                          "body": "iirc Firefox has an insane level of support for older OS versions. They were the only modern browser to work on Windows XP for a while",
+                          "score": 1,
+                          "created_utc": 1749573112.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mx6105x",
+                          "author": "DJDarren",
+                          "body": "I've got Linux Mint running on 2011 mini. Every time I boot it up I'm surprised anew at how well it runs, particularly considering it currently only has 4gb RAM in it.",
+                          "score": 1,
+                          "created_utc": 1749631004.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx07t42",
+                      "author": "MeBeEric",
+                      "body": "I agree. I was an AASP tech for a handful of years and saw a very large amount of PowerPC Macs coming in for service. Later on we saw a few clients with Macs running OS versions not built for their models (mostly 2011 MBP running Big Sur). Shits ran like ass.",
+                      "score": 8,
+                      "created_utc": 1749558756.0,
+                      "replies": [
+                        {
+                          "id": "mx099mb",
+                          "author": "RapNVideoGames",
+                          "body": "As someone who used lucky patcher on a 2011 MBP I can agree it is ass. You maybe be able to upgrade past the limit but good luck using any modern software.",
+                          "score": 3,
+                          "created_utc": 1749559282.0,
+                          "replies": [
+                            {
+                              "id": "mx1ldml",
+                              "author": "TheMagicSalami",
+                              "body": "Opencore Legacy is a lot better. Bought an old 2012 MBP and it's not super fast, but for some browsing, tweaking some scripts for home assistant, and for remoting into other hardware at home it's more than useable",
+                              "score": 3,
+                              "created_utc": 1749573691.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mx09tw9",
+                              "author": "MeBeEric",
+                              "body": "They really didn\u2019t like hearing my \u201cApple approved\u201d spiel of how they\u2019re putting their data at risk and how it\u2019s not a stable build and all that lol",
+                              "score": 1,
+                              "created_utc": 1749559483.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx0niit",
+                      "author": "pm_social_cues",
+                      "body": "But inevitably some apps will stop updating (and possibly stop working since they can\u2019t be updated) when they start using features that require updated version of macOS just like running an old iPhone with a previous version of iOS.",
+                      "score": 1,
+                      "created_utc": 1749563983.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx0iskc",
+              "author": "norbertus",
+              "body": "Well, there are a number of historical precedents within the Apple ecosystem.\n\nApple sold computers based on Motorola CPU's from 1986-1994, 8 years.  \n\nAfter the launch of the PowerPC CPU in 1994, Apple provided backwards compatibility until they adopted the Intel CPU in 2006, 12 years.\n\nAfter the launch of Intel Macs, Apple provided Rosetta compatibilty with PPC apps until 2011, 5 years.\n\nApple launched the M1 chip in 2020, 9 years after ending PPC support.\n\nThey supported Intel for 5 years while also making their own chips.\n\nRight now, Intel support on Apple silicon is provided by Rosetta 2.\n\nYou might get a couple more years of that.",
+              "score": 15,
+              "created_utc": 1749562504.0,
+              "replies": [
+                {
+                  "id": "mx32emx",
+                  "author": "jrherita",
+                  "body": "Interesting - so a 2005 PowerPC G5 Mac could still run 68K apps via built in OS emulation?",
+                  "score": 3,
+                  "created_utc": 1749588520.0,
+                  "replies": [
+                    {
+                      "id": "mx3i0y7",
+                      "author": "norbertus",
+                      "body": "Yes, there was built-in emulation\n\nhttps://en.wikipedia.org/wiki/Mac_68k_emulator\n\nFor the transition from PPC to Intel, Apple licensed Rosetta.  Rosetta 2 was developed in-house for the transition from Intel to Apple Silicon, though it looks like they're planning to drop support in two years\n\nhttps://appleinsider.com/articles/25/06/10/macos-27-will-be-the-last-operating-system-to-fully-support-rosetta-2",
+                      "score": 3,
+                      "created_utc": 1749593174.0,
+                      "replies": [
+                        {
+                          "id": "mx3kiqr",
+                          "author": "jrherita",
+                          "body": "Thanks!",
+                          "score": 2,
+                          "created_utc": 1749593978.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx00rbx",
+              "author": "xanas263",
+              "body": "It will basically be up to individual developers if they want to maintain support for intel Macs and that decision will mainly be driven by install base. My educated guess is at this point the majority of Macs being used are probably Apple Silicon and so most software will probably also lose support once this change goes into effect.",
+              "score": 22,
+              "created_utc": 1749556012.0,
+              "replies": [
+                {
+                  "id": "mx062y7",
+                  "author": "galactica_pegasus",
+                  "body": "It really depends on the developer.  There are apps that still don't even have Apple Silicon binaries and rely on Rosetta 2 (looking at you, Dymo).",
+                  "score": 11,
+                  "created_utc": 1749558113.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx05omf",
+              "author": "kindrudekid",
+              "body": "It just means it won\u2019t get MacOS 26 and new features that come with it\n\nIt will likely continue to get OS security updates.\n\nI have a 2013 MacBook Air and it got security updates periodically until I sold it a year ago or two ago.",
+              "score": 9,
+              "created_utc": 1749557962.0,
+              "replies": [
+                {
+                  "id": "mx0875c",
+                  "author": "ThisI5N0tAThr0waway",
+                  "body": "Correction (if the article is to be believed), it will get macos 26 but not Mac OS 27.  Security updates timeline are TBD I guess",
+                  "score": 10,
+                  "created_utc": 1749558899.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx0smu1",
+                  "author": "Destabiliz",
+                  "body": "Still kinda crazy that such a relatively new and perfectly good computer (the 2018 Mac) already stops getting new OS updates so soon.\n\nMicrosoft got absolutely (deserved) shit on by the community when they decided to start dropping support for old PC's starting with Windows 11.\n\nAnd old PC's in this case meant for example my previous, still perfectly fine desktop PC from 2007 that came with Win Vista and received updates all the way to this day until now Microsoft decided it's too old to (officially) receive Windows 11, even though I'm 99% sure it could run it just fine, since it still runs Windows 10 just fine as well. And so that PC will now be losing software support maybe this or the next year with Windows 10.",
+                  "score": -7,
+                  "created_utc": 1749565508.0,
+                  "replies": [
+                    {
+                      "id": "mx19i3p",
+                      "author": "RastaImp0sta",
+                      "body": "An 8 year old computer isn\u2019t \u201crelatively new\u201d, hate to break it to you.",
+                      "score": 7,
+                      "created_utc": 1749570334.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx10tjg",
+                      "author": "InsaneNinja",
+                      "body": "The macmini was always an under powered device until the M1. It was a crappy Intel laptop in a screenless case.",
+                      "score": 5,
+                      "created_utc": 1749567870.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx0yr0i",
+                      "author": "kibblerz",
+                      "body": "The nice thing about the Intel Macs is that you can install windows or linux fairly easily. So owners of Intel Macs aren't entirely out of luck",
+                      "score": 3,
+                      "created_utc": 1749567273.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx1ifd8",
+                      "author": "m0rogfar",
+                      "body": "There's two reasons why Apple is getting much less crap for this than Microsoft.\n\n* One is that there's an understandable technical basis for why it's happening. ARM chips and x86 chips are fundamentally incompatible, so it makes sense for technical users that it could be a spec cutoff. The Windows 11 cutoff is easy to deride, because it's so obviously arbitrary, and based entirely on whether the processor was released before or after summer 2017 - a fact that should be completely obvious since Intel released a laptop chip at 45W early that year (which isn't supported), and then rereleased the exact same chip in the fall with the only difference being that it was now underclocked to 15W (which is supported).\n\n* Another is also that Apple made a new computer that's so disruptively better that it has no trouble justifying why you should do a potentially premature upgrade, solely based on the merits on the new hardware, and has likely already convinced much of the userbase to make that switch. That's very unusual - it's really the first year-over-year processor upgrade since the 90's that can lay claim to \"once you see how much better the new one is at everyday usage, the old thing will literally seem unusable by comparison, and you will just want to throw it in the trash\"-status, and that's probably not something we'll see again anytime soon.",
+                      "score": 3,
+                      "created_utc": 1749572844.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx0v287",
+              "author": "Harbinger2001",
+              "body": "I have a 2016 Intel Mac that\u2019s been out of support for a while. So far it means I only get security updates and things like homebrew doesnt guarantee support. \n\nI expect once 27 is out, you\u2019ll see 3rd-party applications drop support for intel compatible binaries.",
+              "score": 3,
+              "created_utc": 1749566214.0,
+              "replies": []
+            },
+            {
+              "id": "mx2h35j",
+              "author": "pinkynarftroz",
+              "body": "It depends.\n\nThe biggest issue is newer versions of your software requiring an OS you can't run. It was the reason I upgraded my 2010 Mac Pro to an M1 Max - Adobe CC started requiring Catalina and the Mac Pro topped out at Mojave.",
+              "score": 3,
+              "created_utc": 1749582486.0,
+              "replies": []
+            },
+            {
+              "id": "mx20k9i",
+              "author": "dark_sylinc",
+              "body": "Developer here. My main grip with Apple's approach is that in order to submit to the App Store the app must've been compiled with latest XCode. Which requires a very recent version of macOS, which in turns requires recent mac HW.\n\nThis is unlike other platforms where you can develop on a potato with Visual Studio 2005 and Windows XP and still publish fine for Win 11. Of course you should test on newer HW/OSes where the user will run it (I exaggerated to make the point, but it's literally possible to do it), my point is they force you to buy upgraded HW that on average isn't older than 5 years and that applies to their iPhones/iPads too.\n\nDeveloping for that platform has some hefty costs.",
+              "score": 7,
+              "created_utc": 1749577846.0,
+              "replies": [
+                {
+                  "id": "mx2ysjd",
+                  "author": "TheStorm22",
+                  "body": "I would say 4-5 years is a pretty standard hardware upgrade cycle for any medium-large business. Of course if you are a small or solo dev it adds costs.",
+                  "score": 1,
+                  "created_utc": 1749587506.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx32lh8",
+                  "author": "jrherita",
+                  "body": "Can you at least rent a Mac mini for cheap to do the compiling?",
+                  "score": 1,
+                  "created_utc": 1749588573.0,
+                  "replies": [
+                    {
+                      "id": "mx3umue",
+                      "author": "dark_sylinc",
+                      "body": "I guess it's possible but there's a lot of nuances.\n\nWith every XCode (+ macOS/etc) upgrade:\n\n1. Something in the project breaks (e.g. script, dependency order, setting was renamed).\n2. Some API or function or feature was deprecated or removed. This includes OS-level stuff in your tooling like when Python was removed, bash was changed for zsh, or Intel was replaced by ARM.\n3. There's a linking issue.\n4. There's a runtime issue (e.g. an XCode bug that causes your app to crash, it's rare but not super rare. It happens frequently enough to be on this list).\n\nThis consumes a lot of time and a lot of testing. And with a rented Mac it means you can't push the xcode project modifications to your repo because you'd still have to work with the older version on your own mac.",
+                      "score": 5,
+                      "created_utc": 1749597309.0,
+                      "replies": [
+                        {
+                          "id": "mx4am2t",
+                          "author": "jrherita",
+                          "body": "ugh.  So many programming languages are picky like this, these days.  Thanks for explaining here.",
+                          "score": 1,
+                          "created_utc": 1749602757.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx2kb47",
+              "author": "caguru",
+              "body": "The repercussions at the OS level are practically non-existent. Security patches will still be supported. You just won't get new OS features.\n\n3rd party software providers though will likely remove support over time, but considering how many Intel Macs are still being used, it will probably be a while.\n\nI'm still on a i9 MBP myself.",
+              "score": 1,
+              "created_utc": 1749583406.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx0cpth",
+          "author": "VogonSoup",
+          "body": "My 2017 iMac was left behind at MacOS 13 Ventura, but it\u2019s still going strong. \n\nI can\u2019t replace it with like-for-like now as it has the 27\u201d screen which Apple dropped from the iMac range\u2026\n\nI guess while Adobe software still works on Intel/Ventura I can keep it going.",
+          "score": 6,
+          "created_utc": 1749560481.0,
+          "replies": []
+        },
+        {
+          "id": "mx02614",
+          "author": "ryaaan89",
+          "body": "Time to put Linux on it.",
+          "score": 24,
+          "created_utc": 1749556585.0,
+          "replies": [
+            {
+              "id": "mx02ec7",
+              "author": "Mammoth-Ad-107",
+              "body": "very possible 2 years from now that would probably be my plan.  Rocky linux or similar most likely",
+              "score": 5,
+              "created_utc": 1749556676.0,
+              "replies": [
+                {
+                  "id": "mx02mo2",
+                  "author": "ryaaan89",
+                  "body": "Ubuntu has extended the life of several of my older Mac minis.",
+                  "score": 8,
+                  "created_utc": 1749556768.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx06tn3",
+              "author": "mannewalis",
+              "body": "My thought exactly.",
+              "score": 0,
+              "created_utc": 1749558389.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx1mdbj",
+          "author": "fricks_and_stones",
+          "body": "Weren\u2019t they still selling Intel Mac Pros as recent as 2023?",
+          "score": 3,
+          "created_utc": 1749573971.0,
+          "replies": []
+        },
+        {
+          "id": "mx03vsc",
+          "author": "algaefied_creek",
+          "body": "Oh I thought they already cut your mini this year with macOS 26",
+          "score": 2,
+          "created_utc": 1749557265.0,
+          "replies": []
+        },
+        {
+          "id": "mx0dv8l",
+          "author": "cronin1024",
+          "body": "Your 2018 Mac mini isn't going to get Tahoe either",
+          "score": 2,
+          "created_utc": 1749560876.0,
+          "replies": []
+        },
+        {
+          "id": "mx0vb4k",
+          "author": "SlovenianSocket",
+          "body": "MacOS 26 already dropped the 2018 Mac mini.",
+          "score": 2,
+          "created_utc": 1749566286.0,
+          "replies": []
+        },
+        {
+          "id": "mx32af3",
+          "author": "pwnersaurus",
+          "body": "3 more years of security updates so 10 years total, and of course you can continue to use it after\u2026not sure what the big deal is",
+          "score": 2,
+          "created_utc": 1749588487.0,
+          "replies": [
+            {
+              "id": "mx3ac1b",
+              "author": "Mammoth-Ad-107",
+              "body": "Where are you seeing three years of security updates \n\nmy last macmini ran for 11 years 24/7",
+              "score": 1,
+              "created_utc": 1749590816.0,
+              "replies": [
+                {
+                  "id": "mx3aoub",
+                  "author": "pwnersaurus",
+                  "body": "In the article",
+                  "score": 3,
+                  "created_utc": 1749590923.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx2jmdj",
+      "author": "caguru",
+      "body": "This title is misleading. They will still have support which includes security updates, they won't get UPGRADES, which is different.\n\nEnd of Support in software has always meant no more patches / releases. You would think a tech rag could get that terminology right.",
+      "score": 95,
+      "created_utc": 1749583208.0,
+      "replies": [
+        {
+          "id": "mx8dgv0",
+          "author": "TheAbstracted",
+          "body": "That delineation is becoming fuzzier by the year, I get why people aren't caring enough to make the distinction anymore.",
+          "score": 3,
+          "created_utc": 1749662046.0,
+          "replies": []
+        },
+        {
+          "id": "mx4jmb3",
+          "author": "Quadtbighs",
+          "body": "Crazy nobody in the top comments is talking about this",
+          "score": 5,
+          "created_utc": 1749605914.0,
+          "replies": []
+        },
+        {
+          "id": "mxaowhy",
+          "author": "ElectronRotoscope",
+          "body": "Is there a website that lists what macs are still eligible for security patches on what schedule? I thought anything currently macOS 12 or older can't get patches, and that will also apply to 13 as of this fall. Is that not the case?",
+          "score": 1,
+          "created_utc": 1749687421.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx01tx4",
+      "author": "karateninjazombie",
+      "body": "They might be being dropped by apple. But Linux will still run quite happily on most of their intel based products.",
+      "score": 128,
+      "created_utc": 1749556449.0,
+      "replies": [
+        {
+          "id": "mx1y1k6",
+          "author": "AestheticalGL",
+          "body": "wait until you realize any intel macbook after 2018 has very poor linux support for things such as wifi or bluetooth",
+          "score": 16,
+          "created_utc": 1749577164.0,
+          "replies": [
+            {
+              "id": "mx4fyi1",
+              "author": "jcelerier",
+              "body": "Isn't 2019 the last year with intel macbooks ?",
+              "score": 5,
+              "created_utc": 1749604626.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx2ps7l",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 4,
+          "created_utc": 1749584984.0,
+          "replies": [
+            {
+              "id": "mx61pyc",
+              "author": "DJDarren",
+              "body": "I have HomeAssistant running in Virtualbox in Linux Mint, on a 2014 mini. Runs wonderfully.",
+              "score": 1,
+              "created_utc": 1749631442.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx09xyt",
+          "author": "WongGendheng",
+          "body": "Linux is so great!*\n\n\n*your experience may vary based on whether you are using more than a browser and a clock.",
+          "score": 36,
+          "created_utc": 1749559523.0,
+          "replies": [
+            {
+              "id": "mx0apcf",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 82,
+              "created_utc": 1749559789.0,
+              "replies": [
+                {
+                  "id": "mx1966j",
+                  "author": "None",
+                  "body": "> Opinion pieces from ~~ten~~ twenty-five years ago.\n\nI've been using Linux, *and* Windows *and* some variant of an Apple OS since 1999. They all have strengths and weaknesses for sure, but one thing Linux offers is options when corporate forsakes you for higher profits. Depending on what you want to do, there is a distro out there that will let you do it. If you don't like Linux, don't use Linux. There may be a learning curve to it, but there was a learning curve to whatever OS you currently use too.",
+                  "score": 26,
+                  "created_utc": 1749570242.0,
+                  "replies": [
+                    {
+                      "id": "mx1olvr",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 21,
+                      "created_utc": 1749574588.0,
+                      "replies": [
+                        {
+                          "id": "mx1xl1w",
+                          "author": "None",
+                          "body": "Fair. I still have shirts older than that. (And some computers I keep around for nostalgia. I miss old gnome.)",
+                          "score": 3,
+                          "created_utc": 1749577039.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx31974",
+                      "author": "BuffDrBoom",
+                      "body": "I love linux, but lets be real, the learning curve for linux is a lot steeper than mac or windows\n\nI have used linux on and off for years and trying to daily drive linux again recently was still harder for me than setting up and using my hackintosh for the first time last year.",
+                      "score": 4,
+                      "created_utc": 1749588198.0,
+                      "replies": [
+                        {
+                          "id": "mx33odv",
+                          "author": "None",
+                          "body": "I personally had a lot more trouble with my hackintosh than quite a few distros I've tried over the years, and I've tried a lot. Maybe it just comes down to mindset, but no matter how much Microsoft and Apple keep changing and reinventing the wheel, throwing up roadblock after roadblock preventing me from doing what I want to do, I can always find a flavor of Linux that feels like a comfortable pair of sneakers and hit the ground running.",
+                          "score": 2,
+                          "created_utc": 1749588875.0,
+                          "replies": [
+                            {
+                              "id": "mx360or",
+                              "author": "BuffDrBoom",
+                              "body": "Honestly I think the differences between most distros are pretty superficial. The main issue is, depending on what you're using it for, you will inevitably run into a situation where you have to be in the terminal troubleshooting with random commands you find online, and there isn't really an equivalent for that in windows hardly ever. The worst you will really encounter is having to mess around with the registry editor for whatever reason\n\nAs a game dev, to me linux feels very similar to working in a development environment; when it works it's great, but sometimes it just doesn't, and you waste a day pulling your hair out while you log random shit trying to figure out why",
+                              "score": 3,
+                              "created_utc": 1749589541.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx0e8wa",
+              "author": "sumadeumas",
+              "body": "Okay, Grandpa. Let\u2019s get you back to bed so I can get back to playing virtually every AAA game on my Linux system",
+              "score": 29,
+              "created_utc": 1749561005.0,
+              "replies": [
+                {
+                  "id": "mx1ifip",
+                  "author": "WongGendheng",
+                  "body": "The fun thing is, you know that is untrue. Typical linux user.",
+                  "score": -5,
+                  "created_utc": 1749572845.0,
+                  "replies": [
+                    {
+                      "id": "mx24tn9",
+                      "author": "ScTiger1311",
+                      "body": "It's literally not though. \nNearly any game released on Steam runs flawlessly on Linux in 2025 through Proton. Only exception I can think of is Destiny 2 which has an anti-cheat developed to specifically stop the game from working on Linux.\n\nSource: I've been gaming on Linux almost exclusively for the last 8 months.",
+                      "score": 0,
+                      "created_utc": 1749579017.0,
+                      "replies": [
+                        {
+                          "id": "mx2erna",
+                          "author": "WongGendheng",
+                          "body": "Did you know that the L in Linux stands for loser while the W in Windows stands for winner? Now you know!",
+                          "score": 2,
+                          "created_utc": 1749581822.0,
+                          "replies": [
+                            {
+                              "id": "mx2yrlj",
+                              "author": "ScTiger1311",
+                              "body": "lmfaooo",
+                              "score": 3,
+                              "created_utc": 1749587499.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx23ghq",
+                      "author": "bonesnaps",
+                      "body": "With SteamOS having picked up immensely due to Steamdeck, nearly everything will run now except games with anticheats generally speaking.",
+                      "score": 0,
+                      "created_utc": 1749578639.0,
+                      "replies": [
+                        {
+                          "id": "mx2dm4n",
+                          "author": "WongGendheng",
+                          "body": "20% of the top 1000 games straight up do not run on steam deck. Roughly 40% only run due to endless tweaks/troubleshooting and/or with limitations like shitty fps or menu glitches, etc. What \u201enearly everything\u201c are you talking about? The 100.000 shitty indie games my smartwatch could play?",
+                          "score": 8,
+                          "created_utc": 1749581500.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mx0hzib",
+                  "author": "resil_update_bad",
+                  "body": "Some people do more things than play games you know \ud83e\udd14",
+                  "score": -11,
+                  "created_utc": 1749562240.0,
+                  "replies": [
+                    {
+                      "id": "mx0r5rn",
+                      "author": "retro_slouch",
+                      "body": "Like browser and clock",
+                      "score": 31,
+                      "created_utc": 1749565079.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx0pis8",
+                      "author": "sumadeumas",
+                      "body": "And? My point is that gaming is both \u201cmore than a browser and a clock\u201d but is also no small feat.",
+                      "score": 11,
+                      "created_utc": 1749564594.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mx11hkc",
+                      "author": "DonutsMcKenzie",
+                      "body": "Then whats stopping them from firing up Blender, or Bitwig Studio, or Darktable, or VSCode, or Krita, or FreeCAD or... do I need to continue or are you good?\u00a0",
+                      "score": 5,
+                      "created_utc": 1749568062.0,
+                      "replies": [
+                        {
+                          "id": "mx139ru",
+                          "author": "armacitis",
+                          "body": "Continue,it'll be fun",
+                          "score": 2,
+                          "created_utc": 1749568567.0,
+                          "replies": [
+                            {
+                              "id": "mx18gju",
+                              "author": "resil_update_bad",
+                              "body": "Kid named Adobe",
+                              "score": 1,
+                              "created_utc": 1749570043.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mx17e56",
+                          "author": "resil_update_bad",
+                          "body": "Some industry standards don't work on Linux... ?",
+                          "score": -1,
+                          "created_utc": 1749569740.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mx0jdp9",
+                      "author": "Tipcat",
+                      "body": "I used to use windows but have switched completely since 3 years or so ago.\nI\u2019ve found a replacement for every use case.\nVideo editing, photo editing, office work, you name it.\n\nIt was always the go-to for servers, small devices (routers etc).\nA lot of views on Linux are outdated by this point as it\u2019s only getting better and better, picking up traction with casual users and even governments by now.\n\nhttps://www.reddit.com/r/linux/s/EklIVTPYb9",
+                      "score": 4,
+                      "created_utc": 1749562694.0,
+                      "replies": [
+                        {
+                          "id": "mx0u9xe",
+                          "author": "MinorPentatonicLord",
+                          "body": "Its still terrible for audio work though.",
+                          "score": 4,
+                          "created_utc": 1749565986.0,
+                          "replies": [
+                            {
+                              "id": "mx11yma",
+                              "author": "DonutsMcKenzie",
+                              "body": "What kind of audio work?\u00a0\n\n\n\nBecause I have a great Linux music production setup using Bitwig, Pipewire, native VST and Clap plugins, and Wine and Yabridge for a ton of Windows VSTs.",
+                              "score": 5,
+                              "created_utc": 1749568197.0,
+                              "replies": [
+                                {
+                                  "id": "mx14yac",
+                                  "author": "MinorPentatonicLord",
+                                  "body": "Actual get shit done and get stuff released audio work and make actual money from clients type of work.   \n\n>Bitwig\n\nNot the DAW I use and can't really switch.  Expecting someone too switch DAW's which is a common suggestion from linux folks is a hilariously misinformed take.  Personally I kind of hate bitwig, at least there is reaper on linux.  \n\n>Clap plugins\n\nI use like, one plugin that supports this format?  Not much use to me.\n\n>native VST \n\nLots of stuff today is using license managers that don't want to behave well on linux. Could barely get half the plugins I use to even install.    \n\n> and Wine and Yabridge for a ton of Windows VSTs.\n\nI couldn't even activate my DAW of choice on linux because it wouldn't connect to the network and I couldn't load the license file because it wouldn't let me move anything from linux filesystem to windows based one in wine/whatever.\n\n>Pipewire\n\nCouldn't get latency even close to the numbers and stability I get on windows with ASIO.  \n\nI'm sure linux is fine if you want to tinker around, but it's so bad if you have actual shit you need to get done.  I'm not a bedroom producer, I have a studio that has bills and some of my credits include things like the Halo 4 OST and various scores on TV shows people likely know.  I don't have time or energy for the endless tinkering that is audio work on linux.  Everything just works on windows/macos.  Until linux reaches that point I will never be able to take it seriously for audio work.  They still haven't settled on a long term audio pipeline while windows and macos have been using time tested pipelines for nearly 20+ years.",
+                                  "score": 11,
+                                  "created_utc": 1749569044.0,
+                                  "replies": [
+                                    {
+                                      "id": "mx1n9gu",
+                                      "author": "DonutsMcKenzie",
+                                      "body": ">Actual get shit done and get stuff released audio work and make actual money from clients type of work.\n\nThis doesn't really mean much; you could be talking about anything from music composition and production, to transcription and orchestration of written written, to sound design and editing podcasts. \n\nFrom the rest of your post I can tell you're talking about production, but all of that is possible on Linux today.\n\n>Not the DAW I use and can't really switch. Expecting someone too switch DAW's which is a common suggestion from linux folks is a hilariously misinformed take.\n\nWell... I didn't suggest that you switch DAWs, nor would I. \n\nI told you what I use for my music production setup.\n\n>CLAP/VST\n\nThere are a handful of CLAP plugins, but that's not the point. The point is that some native Linux plugins exist. U-He releases many of their plugins as Linux native, as does Modartt. I have some of them, and like them, and think they're pretty good.\n\nAnd you're absolutely right about plugin download/licensing managers. I've had the same problem with Native Instruments and IK Multimedia's managers via WINE. It's undoubtedly a pain in the ass... With that said, there are workarounds. I have a working Kontakt and Sampletank, as well as GuitarRig, Amplitube, and MODO Bass/Drums, but it was certainly a hassle to get everything downloaded.\n\nFWIW, the next version of WINE seems to have fixed the issue with downloading from NI and IK launchers, but that version isn't ready for prime time yet either, so I'm still on the last one. \n\nNone of this is ideal or as hassle free as just installing plugins without issues on a supported OS of course, so I can totally understand not wanting to deal with these kinds of rough edges.\n\n>I couldn't even activate my DAW of choice on linux because it wouldn't connect to the network and I couldn't load the license file because it wouldn't let me move anything from linux filesystem to windows based one in wine/whatever. \n\nWell, you got me there. I've never had that problem because I use Bitwig, which is native. \n\nI've successfully activated an older version of Ableton Live in the past, but I don't really use that anymore so I can't say whether something has changed or not.\n\n>Couldn't get latency even close to the numbers and stability I get on windows with ASIO.\n\nI strongly disagree with this. \n\nI was just recording guitar last night at 64 sample buffer @ 48k samplerate. I can't do the math on the latency of that off the top of my head, but it's very close to real time. Certainly close enough that I personally find it manageable and not too disctracting. \n\nMy CPU (Ryzen 7900) gets a bit unhappy with that after a while. I probably should have got an x3d...\n\nIt's possible that because your DAW was running through WINE you need to do some other WINE voodoo in order to get it to play well with pipewire. Or at least configure pipewire differently in some way. Configuring pipewire does require you to edit a text config file while i know some people aren't comfortable with.\n\nPersonally I think ASIO is a piece of shit. The latency is fine, but (at least the last time I checked) is doesn't support routing audio arbitrarily between programs, nor does it support multiple audio interfaces. \n\nI'll take pipewire any day. I get good lantency, endless routing, multiple interfaces, and I've never once had a pipewire crash.",
+                                      "score": 2,
+                                      "created_utc": 1749574220.0,
+                                      "replies": [
+                                        {
+                                          "id": "mx1nxcv",
+                                          "author": "DonutsMcKenzie",
+                                          "body": "Also... All I'm saying is that there is a big difference between \"Linux is terrible for audio\" and \"Linux is terrible for my specific composition/production workflow that involves a Windows DAW and a bunch of Windows VSTs\".\n\nFrankly, I have more than enough shit to make music... Too much stuff probably... I know \"professional\" musicians who do just fine in a dawless setup without a computer at all. I also know pros who do nothing but chiptunes in a tracker program like Deflemask and Furnace. There are a lot of different studio setups and workflows; what works for me might not work for you, and what works for you might not work for Yuzo Koshiro or whatever.\n\nLinux might not be right for you and that's fine (you clearly had a bad experience, so it's not like you're making shit up), but to say it's generally terrible and can't be done \\*is\\* misleading: You absolutely CAN compose, produce, transcribe and edit music on Linux.\n\nHow difficult and painful it is for you really depends on how much you rely on Windows software, which Windows software it is, how familiar you are with Linux, how familiar you are with WINE, and so on. People who are willing to give Bitwig or Reaper a shot are going to have an easier time for sure, but like you said, I'm never going to recommend that someone switches their preferred workflow just to run Linux. \n\nIn the end of the day, use the tools that are best for you, just understand that those tools are not the best for everyone (even among Windows and Mac users).",
+                                          "score": 4,
+                                          "created_utc": 1749574403.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "mx1qmi1",
+                                          "author": "MinorPentatonicLord",
+                                          "body": ">This doesn't really mean much; you could be talking about anything from music composition and production, to transcription and orchestration of written written, to sound design and editing podcasts. \n\nIt's everything for me, from composition, to recording, editing, mixing studio sessions, mixing live shows.  You kind of have to do it all these days to make a living in it.  Linux is nowhere to be found in the professional world of audio aside from embedded systems that offer no user control.  Even some of the big console manufacturers are just running windows embedded.  \n\n>I strongly disagree with this.\n\n>I was just recording guitar last night at 64 sample buffer @ 48k samplerate.\n\nBoy, you're really pushing the boundaries there...  You'd have to do RTL measurements to know what your latency is, but that's still too high for some stuff in the pro world.  Vocal tracking with headphones/iems for instance needs as close to zero latency as possible to prevent foldback interference.  \n\n>I told you what I use for my music production setup.\n\nYou did more than that, you framed it within the context of whether audio work on linux is good or not, and from my perspective it simply is not.  \n\n>It's possible that because your DAW was running through WINE you need to do some other WINE voodoo in order to get it to play well with pipewire. Or at least configure pipewire differently in some way. Configuring pipewire does require you to edit a text config file while i know some people aren't comfortable with.\n\nWhat a total waste of my time that would be to figure out.  That's the problem with linux and audio, it just wastes your time trying to get things to work.  I really do not have the time to tinker with this stuff.  I NEED tools that simply work.  I can't tell a client \"sorry sessions canceled because I can't figure out how to activate my DAW\".  \n\n>Personally I think ASIO is a piece of shit. \n\nASIO has been around since 1997 and has been the backbone of low latency audio signal routing on windows since then.  Pipewire had a 1.0 release in 2023.  It doesn't really matter what you think about them, one of them has the history to prove it's a stable and effective API.\n\nThe use case differences to me are clear here.  You don't work in pro environments where absolutely no one has any interest in the OS you use.",
+                                          "score": 4,
+                                          "created_utc": 1749575138.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "mx1nclp",
+                                          "author": "palindromesUnique",
+                                          "body": "*New Reddit-wide unique palindrome found:*\r>**ASIO is a**\r \r ^(currently checked 97462052 comments) \\\n >!(palindrome: a word, number, phrase, or sequence of symbols that reads the same backwards as forwards) !<",
+                                          "score": 1,
+                                          "created_utc": 1749574244.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "mx1p1hc",
+                                      "author": "duderguy91",
+                                      "body": "I don\u2019t think you\u2019re wrong but I think it\u2019s getting quite off base for the original context of the whole discussion surrounding Hackintosh.  If it\u2019s a business machine you are going to be buying a newer machine with warranty, latest updates/features, etc.  Hackintosh has always been an unstable tinkering project that\u2019s not usually suitable for a revenue generation venture.  For the people that normally use an unstable tinkering project, Linux is a great home.",
+                                      "score": -1,
+                                      "created_utc": 1749574705.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx1j3ue",
+              "author": "borg_6s",
+              "body": "In my opinion, the experience is only bad when using 3D creative and industrial applications, assuming they even have a Linux port (so no WINE), and games.",
+              "score": 3,
+              "created_utc": 1749573037.0,
+              "replies": [
+                {
+                  "id": "mx1kfu8",
+                  "author": "WongGendheng",
+                  "body": "Bro, games work 50% of the time, every time.",
+                  "score": 5,
+                  "created_utc": 1749573422.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx0ph4f",
+              "author": "Various_Librarian750",
+              "body": "This when a majority of mac users do just that is hilarious",
+              "score": 9,
+              "created_utc": 1749564580.0,
+              "replies": []
+            },
+            {
+              "id": "mx1ccg3",
+              "author": "OmegaMalkior",
+              "body": "Stop the Reddit woke Linux master race people can only hear so much truth in one comment",
+              "score": 7,
+              "created_utc": 1749571123.0,
+              "replies": [
+                {
+                  "id": "mx31nrt",
+                  "author": "BuffDrBoom",
+                  "body": "What do you think the steam deck runs on dog",
+                  "score": 2,
+                  "created_utc": 1749588312.0,
+                  "replies": []
+                },
+                {
+                  "id": "mx1jrs6",
+                  "author": "WongGendheng",
+                  "body": "What do you mean? Im letting my 121 grandma write this comment on her pentium 1 133mhz voodoo 1 production machine. With linux she keeps telling me the machine feels like 2025 tech. She went through formatting 34 different partitions like a warm knife through butter. The clock has never been more accurate.",
+                  "score": 6,
+                  "created_utc": 1749573228.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx0er6s",
+              "author": "vtskr",
+              "body": "Who needs clock",
+              "score": 2,
+              "created_utc": 1749561176.0,
+              "replies": []
+            },
+            {
+              "id": "mx0b1gf",
+              "author": "karateninjazombie",
+              "body": "Better than binning your overly old and under powered Mac hardware you almost cry about being so expensive that you keep it till the wheels have long fallen off it.",
+              "score": 3,
+              "created_utc": 1749559905.0,
+              "replies": [
+                {
+                  "id": "mx1i1yi",
+                  "author": "WongGendheng",
+                  "body": "Opinion pieces from 10 years ago.",
+                  "score": -6,
+                  "created_utc": 1749572740.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx1ah0f",
+              "author": "None",
+              "body": "Spoken like someone who doesn't know how to drive a Honda because they've only ever driven a Ford.",
+              "score": 2,
+              "created_utc": 1749570603.0,
+              "replies": [
+                {
+                  "id": "mx1j33o",
+                  "author": "WongGendheng",
+                  "body": "Something something cars. Got it",
+                  "score": -1,
+                  "created_utc": 1749573031.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx2om1w",
+              "author": "WestonP",
+              "body": "Still can't get video drivers to work consistently with my old 2015 MBP :(",
+              "score": 1,
+              "created_utc": 1749584648.0,
+              "replies": []
+            },
+            {
+              "id": "mx6bjez",
+              "author": "VenkHeerman",
+              "body": "Lol. I'm a musician by trade and do all of my work on a powerful laptop running Linux Mint. Transcribing, recording, mixing, mastering, graphical work, accounting, everything. And I also use my laptop to run games... It does everything any other OS does, you just sometimes have to look for a different software solution.",
+              "score": 1,
+              "created_utc": 1749637146.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx5q6e0",
+          "author": "kamilman",
+          "body": "As someone who's learning system administration at school using a VM with Linux on an intel MacBook Air (2020 i7, baby!), you are correct.\n\nI might get the silicone MacBook just because of the support in software/OS, but that's that. It sucks but I understand why they switch their focus to the M chips now.",
+          "score": 1,
+          "created_utc": 1749624570.0,
+          "replies": []
+        },
+        {
+          "id": "mx17mln",
+          "author": "None",
+          "body": "[removed]",
+          "score": 0,
+          "created_utc": 1749569807.0,
+          "replies": [
+            {
+              "id": "mx18ud9",
+              "author": "karateninjazombie",
+              "body": "Please provide proof with evidence for such a statement. \n\nI ran Debian as a daily on a 27\" mid 2015 iMac a year or two ago for a while. It was flawless. And the huge resolution for the screen was great for having two documents on screen at once.",
+              "score": 0,
+              "created_utc": 1749570151.0,
+              "replies": [
+                {
+                  "id": "mx19jcz",
+                  "author": "gplusplus314",
+                  "body": "Sure. I updated my comment. TLDR: it\u2019s mostly laptops that are broken.",
+                  "score": -1,
+                  "created_utc": 1749570343.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx1d1xc",
+      "author": "JakesInSpace",
+      "body": "2019 Mac Pro owners will not love this. Those things were $$$$",
+      "score": 21,
+      "created_utc": 1749571320.0,
+      "replies": [
+        {
+          "id": "mx27ece",
+          "author": "LordGAD",
+          "body": "Am one of these owners. Can confirm that I do not love this.",
+          "score": 22,
+          "created_utc": 1749579737.0,
+          "replies": []
+        },
+        {
+          "id": "mx3j37k",
+          "author": "jnmjnmjnm",
+          "body": "My wife upgraded her 2019 i9 Pro this year.  It was starting to show its age. She paid a lot for it and got 6 good years out of it. Not the most we\u2019ve got from a mac, but still respectable.",
+          "score": 4,
+          "created_utc": 1749593516.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx00g5w",
+      "author": "hotsaucehuda92",
+      "body": "Still use my 2011 MBP lol",
+      "score": 66,
+      "created_utc": 1749555886.0,
+      "replies": [
+        {
+          "id": "mx02k7e",
+          "author": "_Didds_",
+          "body": "My 2007 MacBook from when I entered college is still alive and ticking on the hands of my niece as her first laptop. She is still in 4th grade but is surprisingly interested in computers for her age so it\u2019s a great win/win seeing the old machine getting a second live on her hands",
+          "score": 29,
+          "created_utc": 1749556741.0,
+          "replies": [
+            {
+              "id": "mx59vhw",
+              "author": "reecord2",
+              "body": "I absolutely loved my 2006 Macbook Pro, just don't put it on your bare legs!",
+              "score": 1,
+              "created_utc": 1749616155.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx14dxe",
+          "author": "domonono",
+          "body": "My 2014 MBP is still killing it. Replaced the battery a few years ago but it's otherwise been solid.",
+          "score": 7,
+          "created_utc": 1749568883.0,
+          "replies": [
+            {
+              "id": "mx3rau7",
+              "author": "vforvforj",
+              "body": "I think once I replace the battery in my 2014 MBP I could get another 11 years out of it",
+              "score": 1,
+              "created_utc": 1749596217.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx2dn6m",
+          "author": "Salt-Operation",
+          "body": "My 2012 is limping along. Idek what to do with it.",
+          "score": 5,
+          "created_utc": 1749581508.0,
+          "replies": []
+        },
+        {
+          "id": "mx4a6g0",
+          "author": "bravado",
+          "body": "2011 Mini in the basement is still chugging along as a great media server. I want the new M4 mini and yet the old one is still doing its thing. It\u2019s been a great run.",
+          "score": 2,
+          "created_utc": 1749602608.0,
+          "replies": [
+            {
+              "id": "mxcky0c",
+              "author": "NigerianPrinceClub",
+              "body": "M4 is a BEAST!",
+              "score": 1,
+              "created_utc": 1749718238.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx09xq6",
+          "author": "RapNVideoGames",
+          "body": "What do you use it for? I can\u2019t use it for a DJ software, resolume, obs or anything that is useful as a secondary computer. Mainly it\u2019s he graphics that\u2019s the problem.",
+          "score": 2,
+          "created_utc": 1749559520.0,
+          "replies": [
+            {
+              "id": "mx0mlpy",
+              "author": "hotsaucehuda92",
+              "body": "I used it for about 7 years for strictly DJ and Music production software (Serato/ableton) but i mainly use it now for basic web browsing and excel/word etc.",
+              "score": 5,
+              "created_utc": 1749563705.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx029js",
+          "author": "Mad_Ewok_Herd",
+          "body": "How? Mine still works but can\u2019t connect to the internet due to outdated iOS and it tells me I can\u2019t update it anymore so it\u2019s basically useless",
+          "score": -3,
+          "created_utc": 1749556623.0,
+          "replies": [
+            {
+              "id": "mx0351f",
+              "author": "narwhal_breeder",
+              "body": "Because it doesn\u2019t run iOS",
+              "score": 26,
+              "created_utc": 1749556969.0,
+              "replies": []
+            },
+            {
+              "id": "mx0n8n3",
+              "author": "hotsaucehuda92",
+              "body": "I don\u2019t have any issue connecting to the internet or using it for basic things like word processing, excel, watching Netflix or whatever. Not sure why the outdated OS would prevent you from using the internet. Some browsers may lack the support for older MacOS versions but I use Chrome just fine and Safari also from time to time",
+              "score": 4,
+              "created_utc": 1749563900.0,
+              "replies": [
+                {
+                  "id": "mx2kkak",
+                  "author": "snuffflex",
+                  "body": "Do you get the message from chrome about it not supporting updates unless you update the os?",
+                  "score": 1,
+                  "created_utc": 1749583478.0,
+                  "replies": [
+                    {
+                      "id": "mx3qli9",
+                      "author": "hotsaucehuda92",
+                      "body": "Maybe from time to time\nDepending on what I\u2019m doing but I just ignore as I can\u2019t update anyways",
+                      "score": 2,
+                      "created_utc": 1749595986.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mx02xr9",
+              "author": "jampola",
+              "body": "2011 MBP should work well with modern Linux",
+              "score": 8,
+              "created_utc": 1749556889.0,
+              "replies": [
+                {
+                  "id": "mx08e1k",
+                  "author": "Mad_Ewok_Herd",
+                  "body": "Ah that makes sense",
+                  "score": 1,
+                  "created_utc": 1749558967.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx0dyj2",
+              "author": "sumadeumas",
+              "body": "OpenCore Legacy Patcher lets you run newer versions of MacOS on older hardware",
+              "score": 2,
+              "created_utc": 1749560906.0,
+              "replies": [
+                {
+                  "id": "mx2orfe",
+                  "author": "Mad_Ewok_Herd",
+                  "body": "Thanks, I was just curious- I wound up building a new computer that runs windows anyway, cool to know it\u2019s not dead if I want to revive it though!",
+                  "score": 1,
+                  "created_utc": 1749584691.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx0nn49",
+              "author": "cptncrnch",
+              "body": "elementary OS is a Mac-inspired Linux distro. I installed it on my 2014 MacBook this year and it works great.",
+              "score": 3,
+              "created_utc": 1749564021.0,
+              "replies": [
+                {
+                  "id": "mx0t2c5",
+                  "author": "zoobs",
+                  "body": "Ooh good to know. I\u2019ve been trying to figure out the future for my 2015 mbp.",
+                  "score": 3,
+                  "created_utc": 1749565633.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx0cik6",
+              "author": "JoeDawson8",
+              "body": "OpenCore legacy patcher",
+              "score": 1,
+              "created_utc": 1749560413.0,
+              "replies": []
+            },
+            {
+              "id": "mx38r9j",
+              "author": "2ndtryagain",
+              "body": "Have you tried OpenCore?",
+              "score": 1,
+              "created_utc": 1749590348.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx03t10",
+      "author": "kclongest",
+      "body": "Getting rid of my old Intel 27\" 5k iMac was not easy, but it was time. I think it's time Apple officially drops the price on the 5k Studio Display a little further- maybe $1199 to throw some people a bone. a Mac mini and a Studio Display is a close enough approximation of what they discontinued.",
+      "score": 20,
+      "created_utc": 1749557234.0,
+      "replies": [
+        {
+          "id": "mx09gu4",
+          "author": "ToMorrowsEnd",
+          "body": "LG has some awesome 4K monitors.  I would not buy an apple display anymore,  it's just not worth the premium unless you need the color grading certification because you are editing photos for magazine covers.  if you really need to spent the money then a samsung viewfinity S9 5K is a hell of a good monitor to impress your friends with.\n\nI went to a 4K from 5K.  after crying in the corner for the loss of those 1K pixels and screaming WHY loudly for hours,  i realized I did not miss them at all and actually like the 32\" monitor better than I ever liked the 27\" imac screen.",
+          "score": 14,
+          "created_utc": 1749559354.0,
+          "replies": [
+            {
+              "id": "mx2e3zi",
+              "author": "kclongest",
+              "body": "I've used the LG 4k screens and almost bought one, but the Studio Display still shines in seamless interoperability and the built-in high quality speakers sealed the deal. I don't have room on my desk for speakers, and no other built-in speakers come close in sound quality.",
+              "score": 3,
+              "created_utc": 1749581639.0,
+              "replies": []
+            },
+            {
+              "id": "mx3wfv8",
+              "author": "elton_john_lennon",
+              "body": "> samsung viewfinity S9 5K is a hell of a good monitor to impress your friends with.\n\nThis one is actually pretty bad. There is BenQ 5K and Asus Pro Art that are both better choice than S9.",
+              "score": 2,
+              "created_utc": 1749597901.0,
+              "replies": []
+            },
+            {
+              "id": "mx0hgs5",
+              "author": "HieroglyphicEmojis",
+              "body": "I laughed so hard when I read this I almost blew coffee all over my monitor. The image of you crying \u201cwhy?!\u201d  (Well, the you I made I. My head - funny stuff. Good comedy :D)",
+              "score": 0,
+              "created_utc": 1749562070.0,
+              "replies": []
+            },
+            {
+              "id": "mx4dzcj",
+              "author": "cape2cape",
+              "body": "Except 4K at 32\u201d is pretty low resolution density.",
+              "score": -1,
+              "created_utc": 1749603932.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx05b5x",
+          "author": "wkavinsky",
+          "body": "It also, despite all the people decrying the lack of the 27\" 5k iMac, decouples the computing hardware (outdated after 3-4 years) from the display hardware (typically good for 10+ years).\n\nIf a Mac mini and studio display get close to price-parity, that's a \\*good\\* thing.",
+          "score": 6,
+          "created_utc": 1749557817.0,
+          "replies": [
+            {
+              "id": "mx09abw",
+              "author": "kclongest",
+              "body": "Yep.. I factored that in pretty heavily when justifying the purchase of the display. I also couldn\u2019t really figure out how it will ever be obsolete, given the progression of USB / Thunderbolt.",
+              "score": 4,
+              "created_utc": 1749559289.0,
+              "replies": []
+            },
+            {
+              "id": "mx0fe9u",
+              "author": "mBertin",
+              "body": "Makes sense. There are still people out there using old Cinema Displays, or even gutting old iMacs and modding them into standalone monitors.",
+              "score": 3,
+              "created_utc": 1749561389.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx0694a",
+          "author": "carchit",
+          "body": "Finally traded the 27\u201d iMac for a studio display with a MBP. Painful but it\u2019s pretty great.",
+          "score": 2,
+          "created_utc": 1749558177.0,
+          "replies": []
+        },
+        {
+          "id": "mx1p1b0",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 2,
+          "created_utc": 1749574704.0,
+          "replies": [
+            {
+              "id": "mx1vf2o",
+              "author": "kclongest",
+              "body": "It\u2019s a crime they didn\u2019t make this possible.",
+              "score": 2,
+              "created_utc": 1749576446.0,
+              "replies": []
+            },
+            {
+              "id": "mx37i83",
+              "author": "Geteos",
+              "body": "I have a 2014 iMac 5k and I believe you can hack it up to use the monitor part by getting a driver board for it, might also be possible for the 2019. It requires disassembling the iMac so probably best to wait until the OS is no longer serviceable.",
+              "score": 1,
+              "created_utc": 1749589976.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx56sn0",
+          "author": "daveyjones86",
+          "body": "That's how I felt about my pet bandicoot",
+          "score": 1,
+          "created_utc": 1749614786.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx00v1q",
+      "author": "OPPineappleApplePen",
+      "body": "When I had to buy a Macbook, the rumours were that M1 Mac is coming next year. Figured the era of Intel Macs would be over and support will die down soon. Waited a year out to buy the M1. Good decision in retrospect.",
+      "score": 23,
+      "created_utc": 1749556055.0,
+      "replies": [
+        {
+          "id": "mx0c9az",
+          "author": "postexitus",
+          "body": "you can get good stretching exercise by this pat on the back",
+          "score": 24,
+          "created_utc": 1749560324.0,
+          "replies": [
+            {
+              "id": "mx0vky3",
+              "author": "Pitiful-Climate8977",
+              "body": "Yeah the weatherman said it was going to rain. I figured I'd grab my umbrella and as soon as I saw the clouds, I realized pretty soon it was going to rain. Best decision I've made in my life I feel like most people ended up getting wet or staying inside. I made the right decision that day.",
+              "score": 8,
+              "created_utc": 1749566366.0,
+              "replies": [
+                {
+                  "id": "mx2kpap",
+                  "author": "OPPineappleApplePen",
+                  "body": "Thankfully, I grabbed my umbrella that day. Had it rained on me, the smoke would\u2019ve been too much to handle after getting roasted like that by you.",
+                  "score": 2,
+                  "created_utc": 1749583519.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mx3246w",
+              "author": "BuffDrBoom",
+              "body": "hey sometimes you gotta give yourself props when its due",
+              "score": 2,
+              "created_utc": 1749588438.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx02k6q",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -3,
+          "created_utc": 1749556741.0,
+          "replies": [
+            {
+              "id": "mx03xb0",
+              "author": "LetsTwistAga1n",
+              "body": "Even if they drop M1 support in 2026, probably there will be workarounds like OCLP to make the newer versions run on older arm64 hardware. Intel-based Macs, on the other hand, won't be able to run arm64-only macOS builds.",
+              "score": 5,
+              "created_utc": 1749557282.0,
+              "replies": [
+                {
+                  "id": "mx2kxk1",
+                  "author": "OPPineappleApplePen",
+                  "body": "Yes!!!",
+                  "score": 1,
+                  "created_utc": 1749583584.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx01exl",
+      "author": "Stalebrownie76",
+      "body": "I just installed Sequoia 15.5 on my MBP 2012. It runs surprisingly well. Guess it will stay there till it dies.",
+      "score": 9,
+      "created_utc": 1749556280.0,
+      "replies": []
+    },
+    {
+      "id": "mx5pbdb",
+      "author": "bplipschitz",
+      "body": "Ubuntu Linux to the rescue",
+      "score": 3,
+      "created_utc": 1749624087.0,
+      "replies": []
+    },
+    {
+      "id": "mx8e9ga",
+      "author": "GL_TRIANGLES",
+      "body": "Good. My 2015 mbp is still amazing and I won\u2019t be nagged for updates anymore",
+      "score": 3,
+      "created_utc": 1749662267.0,
+      "replies": [
+        {
+          "id": "mxbtryq",
+          "author": "programgamer",
+          "body": "You haven\u2019t been nagged for updates in years if you have a 2015 macbook pro",
+          "score": 4,
+          "created_utc": 1749703040.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx7q4lp",
+      "author": "QuestionMarks4You",
+      "body": "My computer is only five fucking years old. Fuck Apple",
+      "score": 5,
+      "created_utc": 1749655402.0,
+      "replies": [
+        {
+          "id": "mzkgdr8",
+          "author": "FortyYearOldVirgin",
+          "body": "It\u2019s still supported, you just lose out on new operating system versions. You still get security updates. \n\nUnless you have software you cannot live without that refuses to work past Tahoe, I think you might be jumping the gun here. There\u2019s probably quite a few years of life left in your five year old Intel Mac.",
+          "score": 1,
+          "created_utc": 1750793350.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx05ytk",
+      "author": "TrickyCH",
+      "body": "My High Sierra 2011 Macbook Pro is not impressed \ud83d\ude06",
+      "score": 8,
+      "created_utc": 1749558069.0,
+      "replies": []
+    },
+    {
+      "id": "mx08eoq",
+      "author": "Anditheway",
+      "body": "RIP to the guy I sold my old 2018 MacBook Pro to last week.",
+      "score": 7,
+      "created_utc": 1749558973.0,
+      "replies": []
+    },
+    {
+      "id": "mx054we",
+      "author": "joeyat",
+      "body": "Hopefully will be a big drop in footprint of the OS.. and maybe some performance improvements? Is that possible? As they no longer need that legacy x86 codebase?",
+      "score": 8,
+      "created_utc": 1749557751.0,
+      "replies": [
+        {
+          "id": "mx0a42h",
+          "author": "mebeim",
+          "body": "Not really. It's not like the OS shipped on an ARM chip will have x86 code compiled into it or vice-versa. Architecture-specific components of the code are usually only built if needed. Most of the code will stay the same, but will now only be compiled for ARM. x86-specific code that will go away wouldn't have been compiled for an ARM build anyway.",
+          "score": 8,
+          "created_utc": 1749559583.0,
+          "replies": [
+            {
+              "id": "mx0e4dz",
+              "author": "wosmo",
+              "body": "most applications & libraries are still built for both.  Apple use 'fat binaries' which lets them put x86_64 and arm64e forks in one binary, so it runs natively on either. (You can even still stick ppc64 forks in them if you're really determined)",
+              "score": 9,
+              "created_utc": 1749560962.0,
+              "replies": [
+                {
+                  "id": "mx0jrpm",
+                  "author": "mebeim",
+                  "body": "Good point on universal apps. I was only thinking about the OS itself, but of course apps do take up a lot of space and built-in apps can be considered as \"part of\" the OS to some extent.",
+                  "score": 1,
+                  "created_utc": 1749562818.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx0qk93",
+      "author": "ccaterinaghost",
+      "body": "What the fuck? I bought an air in 2020- it\u2019ll be not supported??",
+      "score": 4,
+      "created_utc": 1749564903.0,
+      "replies": [
+        {
+          "id": "mx15wxw",
+          "author": "Troll_Enthusiast",
+          "body": "Does it have an M1 chip or intel chip?",
+          "score": 3,
+          "created_utc": 1749569316.0,
+          "replies": [
+            {
+              "id": "mx1w26v",
+              "author": "ccaterinaghost",
+              "body": "intel",
+              "score": 5,
+              "created_utc": 1749576619.0,
+              "replies": [
+                {
+                  "id": "mx20yfj",
+                  "author": "Hungry_Horace",
+                  "body": "Yeah, you are the last generation of Intel.  The good news is that Sequioa will be absolutely fine as an OS for another few years at least.  I'm still using a Macbook from 2011 that hasn't had an OS update in about 6 years.",
+                  "score": 4,
+                  "created_utc": 1749577953.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx2lgmm",
+          "author": "caguru",
+          "body": "It will be supported for security fixes beyond 2026, it will no longer receive new OS versions or features after 2026.",
+          "score": 3,
+          "created_utc": 1749583737.0,
+          "replies": []
+        },
+        {
+          "id": "n0lobnu",
+          "author": "FezAndSmoking",
+          "body": "I mean... you buy trash? What'd you expect?",
+          "score": 0,
+          "created_utc": 1751300914.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx00f52",
+      "author": "SubstantialSir696",
+      "body": "So one year less than Windows 10",
+      "score": 6,
+      "created_utc": 1749555874.0,
+      "replies": [
+        {
+          "id": "mx15ayt",
+          "author": "armacitis",
+          "body": "Unless you count that one version that gets security updates until 2032.",
+          "score": 2,
+          "created_utc": 1749569144.0,
+          "replies": []
+        },
+        {
+          "id": "mx1ewle",
+          "author": "DLLauch",
+          "body": "Stupid comparison. You can just update to Windows 11",
+          "score": -1,
+          "created_utc": 1749571846.0,
+          "replies": [
+            {
+              "id": "mx1jk75",
+              "author": "SubstantialSir696",
+              "body": "Not with older machines.",
+              "score": 2,
+              "created_utc": 1749573167.0,
+              "replies": [
+                {
+                  "id": "mx1qi9x",
+                  "author": "DLLauch",
+                  "body": "Very much with older machines. Ever heard of Rufus?",
+                  "score": -1,
+                  "created_utc": 1749575106.0,
+                  "replies": [
+                    {
+                      "id": "mx2poxa",
+                      "author": "SubstantialSir696",
+                      "body": "I am talking about official support.",
+                      "score": 2,
+                      "created_utc": 1749584957.0,
+                      "replies": [
+                        {
+                          "id": "mx384nq",
+                          "author": "DLLauch",
+                          "body": "Ah, do you? Well for me, it's either I'm still getting updates or I don't. If I get updates via OCLP that's fine for me as well. But Apple is not giving any chance of updating whatsoever. Big difference",
+                          "score": 0,
+                          "created_utc": 1749590162.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx3pwsq",
+          "author": "johnny5canuck",
+          "body": "Except for the fact that the architecture is mostly the same. Unlike Apple's Intel -> M architecture change, new apps will still run on Win 10 machines. Was given an Intel Macbook Pro not too long ago and apps that run on it are few and far between.",
+          "score": 0,
+          "created_utc": 1749595759.0,
+          "replies": [
+            {
+              "id": "mx4e7gr",
+              "author": "cape2cape",
+              "body": "lmao what, there\u2019s basically nothing that\u2019s apple silicon only",
+              "score": 0,
+              "created_utc": 1749604011.0,
+              "replies": [
+                {
+                  "id": "mx4vhrp",
+                  "author": "johnny5canuck",
+                  "body": "So, I can go to the Apple store today and find loads of apps for an Intel based Mac (running MacOS)?? Sure wasn't my experience.",
+                  "score": 1,
+                  "created_utc": 1749610174.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx27qyb",
+      "author": "CritterNYC",
+      "body": "2018/2019/2020 Macs (8th Gen Coffee Lake or newer Intel chips) can have Windows 11 installed on them with Boot Camp\n\nEarlier Macs you can still install Windows 11 unofficially with a patched version",
+      "score": 2,
+      "created_utc": 1749579836.0,
+      "replies": [
+        {
+          "id": "mxbtkcy",
+          "author": "programgamer",
+          "body": "You can also pour ketchup in your wine if you so desire, I suppose",
+          "score": 1,
+          "created_utc": 1749702941.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx3m48f",
+      "author": "12hrnights",
+      "body": "Phew i have the first MacBook air m1",
+      "score": 2,
+      "created_utc": 1749594501.0,
+      "replies": []
+    },
+    {
+      "id": "mx3v7ww",
+      "author": "TheTarasenkshow",
+      "body": "The naming scheme they decided to do bothers me",
+      "score": 2,
+      "created_utc": 1749597500.0,
+      "replies": []
+    },
+    {
+      "id": "mx4tc8x",
+      "author": "142782",
+      "body": "I know it\u2019s not well received, but I do liked the Touch Bar. I guess I will continue to squeeze a few more years of life out of my Intel MacBook and hope for the return of the Touch Bar in a Apple Silicon.",
+      "score": 2,
+      "created_utc": 1749609364.0,
+      "replies": []
+    },
+    {
+      "id": "mx5tav6",
+      "author": "ImamTrump",
+      "body": "Silicon is great. Very nice r&d. \nMac users are lucky. Whatever they use Mac\u2019s for.",
+      "score": 2,
+      "created_utc": 1749626357.0,
+      "replies": []
+    },
+    {
+      "id": "mx62216",
+      "author": "Marvelous_XT",
+      "body": "Hope this is the sign of price drop for second hand Intel Mac market. Would buy one just to see how it's going instead of doing Hackintosh.",
+      "score": 2,
+      "created_utc": 1749631646.0,
+      "replies": []
+    },
+    {
+      "id": "mx7bls8",
+      "author": "Grouchy_Cat1213",
+      "body": "Not gonna lie am no longwr interested in Apple, I will be getting a new laptop and Phone next year. \nI currently have an iphone and Macbook but will not continue down that route. \nI will be switching to android + Linux",
+      "score": 2,
+      "created_utc": 1749651169.0,
+      "replies": []
+    },
+    {
+      "id": "mx7l6xk",
+      "author": "InvertedEyechart11",
+      "body": "Intel Macs will still get OS security updates, but no OS *upgrades*. So the headline is misleading.",
+      "score": 2,
+      "created_utc": 1749653984.0,
+      "replies": []
+    },
+    {
+      "id": "mxocnsl",
+      "author": "None",
+      "body": "It was a good run.",
+      "score": 2,
+      "created_utc": 1749868289.0,
+      "replies": []
+    },
+    {
+      "id": "mx0c5zx",
+      "author": "Bluecolty",
+      "body": "Its still disappointing, but the fact that they pushed this new \"era\" of versions to intel machines is good. Its good for app compatibility. I've been seeing a lot of mac apps saying they need either 10.15 to run (which is Catalina, every Catalina supported device is pretty solid still) or macOS 11 Big Sur (the first arm compatible OS)\n\nNow it could just be the timing, where we're at in time. But more often than not, app developers will chose these milestones in OS versions as cutoffs for app compatibility and whatnot. At least for a while.\n\nIn other words, your Intel Mac has MANY years of relevance still. Get it onto Big Sur or newer for app compatibility with OpenCore legacy patcher, then when your apps stop updating on the 11.x versions of macOS, get it onto Tahoe 25.x to squeeze a few more years out of it.\n\nThen... linux.",
+      "score": 4,
+      "created_utc": 1749560293.0,
+      "replies": []
+    },
+    {
+      "id": "mx09mmc",
+      "author": "PARANOIAH",
+      "body": "My 2020 MBP 13 :(\n\nEDIT: Also 2015 MBP 15",
+      "score": 3,
+      "created_utc": 1749559412.0,
+      "replies": []
+    },
+    {
+      "id": "mx0a5l9",
+      "author": "GeektimusPrime",
+      "body": "It\u2019s time for all Mac users to get familiar with the amazing [Open Core Legacy Patcher](https://www.reddit.com/r/mac/s/IpLmHCcSJm). #gamechanger",
+      "score": 6,
+      "created_utc": 1749559598.0,
+      "replies": [
+        {
+          "id": "mx0u25a",
+          "author": "void_const",
+          "body": "OCLP is affected by this change too. macOS 26 is the last supported version.",
+          "score": 14,
+          "created_utc": 1749565923.0,
+          "replies": []
+        },
+        {
+          "id": "mx183kp",
+          "author": "slonk_ma_dink",
+          "body": "They're dropping the entire processor architecture, this is a major change that you can't just \"patch\" out.",
+          "score": 15,
+          "created_utc": 1749569940.0,
+          "replies": [
+            {
+              "id": "mx46qf8",
+              "author": "Discally",
+              "body": "Well, we knew the hackintosh era was coming to an end at some point.",
+              "score": 1,
+              "created_utc": 1749601398.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mx153sh",
+          "author": "Jkayakj",
+          "body": "Unfortunately it won't be able to support this. They can make it work since parts of it are for Intel. Once Intel is no longer supported, they will not be able to update",
+          "score": 7,
+          "created_utc": 1749569087.0,
+          "replies": [
+            {
+              "id": "mx24lcd",
+              "author": "GeektimusPrime",
+              "body": "Do we think it\u2019s completely impossible that OSLP devs can figure out a way to add back in support for intel on future MacOS versions? I\u2019m not knowledgeable enough to speculate with any kind of authority on this matter\u2026",
+              "score": 0,
+              "created_utc": 1749578953.0,
+              "replies": [
+                {
+                  "id": "mx2519g",
+                  "author": "Jkayakj",
+                  "body": "It would be very very difficult. They also don't have the necessary access to the source for the OS to do it.\nThey won't be able to do it",
+                  "score": 8,
+                  "created_utc": 1749579077.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mx3xdi5",
+          "author": "elton_john_lennon",
+          "body": "Someone with 2019 Mac Pro can already install the latest available OS, and that Legacy Patcher won't help them with Apple M version of new OS.",
+          "score": 2,
+          "created_utc": 1749598208.0,
+          "replies": []
+        },
+        {
+          "id": "mx6y0cm",
+          "author": "DJDarren",
+          "body": "I used OCLP to put various newer macOS versions on a couple of old Macs I've got, but ultimately I've found their performance is better while running Linux. Mint to be precise. My 2011 MBP's fan would scream blue bloody murder while trying to run Sonoma, but under Mint it's completely silent. It's amazing really.",
+          "score": 1,
+          "created_utc": 1749646690.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx0173q",
+      "author": "Hoxxadari",
+      "body": "Ah that stinks.",
+      "score": 5,
+      "created_utc": 1749556191.0,
+      "replies": []
+    },
+    {
+      "id": "mx01oq1",
+      "author": "sarduchi",
+      "body": "We'll see what [DosDude1](http://dosdude1.com) has to say about that...",
+      "score": 4,
+      "created_utc": 1749556391.0,
+      "replies": []
+    },
+    {
+      "id": "mx136hq",
+      "author": "revintoysupra",
+      "body": "Looks at 2015 mbpro",
+      "score": 2,
+      "created_utc": 1749568541.0,
+      "replies": []
+    },
+    {
+      "id": "mx6n3ku",
+      "author": "IADGAF",
+      "body": "Just a principle of Apple greed at its finest. There\u2019s no genuine technical reason to drop support for Intel, only Apple wanting to deliberately coerce people to buy new Apple silicon based hardware. Greed, greed, and more greed.",
+      "score": 2,
+      "created_utc": 1749642568.0,
+      "replies": [
+        {
+          "id": "mzkguo3",
+          "author": "FortyYearOldVirgin",
+          "body": "Or just switch to Linux or Windows. You\u2019re not being forced to buy a Mac. It\u2019s a free country.",
+          "score": 1,
+          "created_utc": 1750793492.0,
+          "replies": [
+            {
+              "id": "mzkv2xl",
+              "author": "IADGAF",
+              "body": "Yes, exactly. You can install Linux or Windows directly on a Mac provided it has an Intel processor. As yet, this will not work on Apple Silicon, so you\u2019re stuck with having to run MacOS and Linux or Windows in a Virtual Machine. Linux Mint in particular, is really good to use. All those updates on Windows, because it\u2019s hacked to hell, are extremely annoying, and the private information stealing telemetry in Windows is unacceptable.",
+              "score": 1,
+              "created_utc": 1750797777.0,
+              "replies": [
+                {
+                  "id": "mzm2igi",
+                  "author": "FortyYearOldVirgin",
+                  "body": "I\u2019ll be honest - you may or may not agree - but I feel Apple will support BootCamp again for Arm using Windows for Arm but just not anytime soon.\u00a0\n\nI use windows 11 in VM on my Mac to run my code on various OS\u2019s and it\u2019s\u2026 fine. You\u2019re right about Linux Mint.\u00a0\n\nI just feel Microsoft will go to Apple and push for Boot camp. Simply an opinion. Maybe I am crazy lol",
+                  "score": 2,
+                  "created_utc": 1750811483.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx0tntp",
+      "author": "InsoThinkTank",
+      "body": "Well it was a good run. I guess I have one more year out of my mbp 2016 then will have to upgrade.",
+      "score": 1,
+      "created_utc": 1749565807.0,
+      "replies": []
+    },
+    {
+      "id": "mx0ymm2",
+      "author": "Option420s",
+      "body": "I sure hope T2 linux gets better. My 2020 16\" macbook pro is still a nice computer.",
+      "score": 1,
+      "created_utc": 1749567238.0,
+      "replies": []
+    },
+    {
+      "id": "mx10fh4",
+      "author": "hipnotyq",
+      "body": "This can only be a good thing right? .....RIGHT???",
+      "score": 1,
+      "created_utc": 1749567756.0,
+      "replies": []
+    },
+    {
+      "id": "mx160x1",
+      "author": "TheQuadBlazer",
+      "body": "They did the same in 05 when transitioning to Intel. I had just bought a laptop. Obsolete 5 months later.",
+      "score": 1,
+      "created_utc": 1749569347.0,
+      "replies": []
+    },
+    {
+      "id": "mx1g4pg",
+      "author": "npowerfcc",
+      "body": "shit here we go",
+      "score": 1,
+      "created_utc": 1749572195.0,
+      "replies": []
+    },
+    {
+      "id": "mx23m5e",
+      "author": "EatHerDNA",
+      "body": "What do you guys think how long will M1 be supported?",
+      "score": 1,
+      "created_utc": 1749578684.0,
+      "replies": []
+    },
+    {
+      "id": "mx2yniw",
+      "author": "Awesumson",
+      "body": "Was gutted to see my 2018 MacBook Pro was on the cutting room floor today",
+      "score": 1,
+      "created_utc": 1749587466.0,
+      "replies": []
+    },
+    {
+      "id": "mx32uku",
+      "author": "Flyer888",
+      "body": "Thanks to OCLP, my 2016 touchbar MBP still gets to enjoy the newest macOS so far. Looks like the 27 will mark as the end of it, I guess.",
+      "score": 1,
+      "created_utc": 1749588644.0,
+      "replies": []
+    },
+    {
+      "id": "mx4epzd",
+      "author": "neologismist_",
+      "body": "Hi! I\u2019m still on a 2013 Macbook Pro! Will this affect me? /s",
+      "score": 1,
+      "created_utc": 1749604192.0,
+      "replies": []
+    },
+    {
+      "id": "mx4hi0k",
+      "author": "Huge-Squirrel8417",
+      "body": "My Mac mini will still run fine",
+      "score": 1,
+      "created_utc": 1749605167.0,
+      "replies": []
+    },
+    {
+      "id": "mx5ikrk",
+      "author": "the_grizzygrant",
+      "body": "I just think this is really dumb because m MacBook pros (14 and 16 in) aren\u2019t even 4 years old yet. This ultimately hurts people who spec out or buy for longevity like professionals and businesses",
+      "score": 1,
+      "created_utc": 1749620441.0,
+      "replies": []
+    },
+    {
+      "id": "mx6dbn8",
+      "author": "milksteak4me",
+      "body": ", z",
+      "score": 1,
+      "created_utc": 1749638091.0,
+      "replies": []
+    },
+    {
+      "id": "mx7f8a8",
+      "author": "LazarX",
+      "body": "I had fully expected this to happen with Tahoe. In effect, it has, since most of the good stuff won\u2019t work without Apple Silicon.",
+      "score": 1,
+      "created_utc": 1749652254.0,
+      "replies": []
+    },
+    {
+      "id": "mx83gon",
+      "author": "imadestarwars",
+      "body": "Well fuck.",
+      "score": 1,
+      "created_utc": 1749659225.0,
+      "replies": []
+    },
+    {
+      "id": "mx9rb6x",
+      "author": "Come_along_quietly",
+      "body": "If I had a nickel for every time a major work project I was working on was cancelled because Apple changed the CPU architecture of their computers \u2026 I\u2019d have 2 nickels.  Which isn\u2019t a lot, but still strange and more than one would expect.",
+      "score": 1,
+      "created_utc": 1749676360.0,
+      "replies": []
+    },
+    {
+      "id": "mxhucox",
+      "author": "DJPelio",
+      "body": "There\u2019s still no 27\u201d iMac replacement",
+      "score": 1,
+      "created_utc": 1749781737.0,
+      "replies": []
+    },
+    {
+      "id": "mxl3tzm",
+      "author": "ilike2makemoney",
+      "body": "Apples vision died with Steve Jobs. I\u2019m not getting another iPhone, and I\u2019m currently typing this on my shattered iPhone 8, so that\u2019s saying something.",
+      "score": 1,
+      "created_utc": 1749831245.0,
+      "replies": []
+    },
+    {
+      "id": "mxmnamg",
+      "author": "hutchisson",
+      "body": "i have an intel mac.. was great to have windows and mac together.. farewell buddy",
+      "score": 1,
+      "created_utc": 1749847287.0,
+      "replies": []
+    },
+    {
+      "id": "mxsjhar",
+      "author": "H3rbert_K0rnfeld",
+      "body": "And suddenly a slew of Mac Book Pros leave the Apple world and join the Linux world.",
+      "score": 1,
+      "created_utc": 1749930384.0,
+      "replies": []
+    },
+    {
+      "id": "n0lo8ju",
+      "author": "FezAndSmoking",
+      "body": "LMAO what a completely shitty company",
+      "score": 1,
+      "created_utc": 1751300889.0,
+      "replies": []
+    },
+    {
+      "id": "mx025l4",
+      "author": "LOLZatMyLife",
+      "body": "chat, how cooked am i ?",
+      "score": -1,
+      "created_utc": 1749556580.0,
+      "replies": [
+        {
+          "id": "mx09v1g",
+          "author": "ToMorrowsEnd",
+          "body": "completely cooked.  your intel macs will explode killing your family in a few weeks.  Apple is known for remote detonation of unsupported hardware.",
+          "score": 9,
+          "created_utc": 1749559494.0,
+          "replies": [
+            {
+              "id": "mx0kw6n",
+              "author": "LOLZatMyLife",
+              "body": "*it's so over* \ud83d\ude14",
+              "score": 1,
+              "created_utc": 1749563174.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mx0dpaw",
+      "author": "KrackSmellin",
+      "body": "PowerPC all over again\u2026 when they went to Intel.",
+      "score": 1,
+      "created_utc": 1749560819.0,
+      "replies": []
+    },
+    {
+      "id": "mx0enzq",
+      "author": "GoldenWillie",
+      "body": "PowerPC Apple silicon ftw. Me and my PowerBook G3 are getting support again",
+      "score": 1,
+      "created_utc": 1749561147.0,
+      "replies": [
+        {
+          "id": "mx1d8xo",
+          "author": "BolivianDancer",
+          "body": "That was IBM joint venture.\n\nStill waiting for PPC OS/2 from IBM.",
+          "score": 1,
+          "created_utc": 1749571375.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx1baqq",
+      "author": "arkham1010",
+      "body": "Why is this at all surprising. End of life is a thing in the hardware/software lifecycle. You don\u2019t expect vendors to support products indefinitely do you?",
+      "score": 1,
+      "created_utc": 1749570833.0,
+      "replies": []
+    },
+    {
+      "id": "mx189j1",
+      "author": "muzik4machines",
+      "body": "god damn it, i still have 8 intel macs",
+      "score": 1,
+      "created_utc": 1749569989.0,
+      "replies": []
+    },
+    {
+      "id": "mx40uxa",
+      "author": "bigtexjef",
+      "body": "I have one of those.  It\u2019s my primary porn machine.  How sad.",
+      "score": 1,
+      "created_utc": 1749599365.0,
+      "replies": []
+    },
+    {
+      "id": "mx44x2s",
+      "author": "Discally",
+      "body": "Goodbye Hackintosh.\n\nWe hardly knew ye.",
+      "score": 1,
+      "created_utc": 1749600759.0,
+      "replies": []
+    },
+    {
+      "id": "mx4ht9l",
+      "author": "PsychologicalWar4577",
+      "body": "![gif](giphy|s1smnoqaZVMVG)",
+      "score": 1,
+      "created_utc": 1749605278.0,
+      "replies": []
+    },
+    {
+      "id": "mx59r2c",
+      "author": "whlthingofcandybeans",
+      "body": "Oh no!  Anyway...",
+      "score": 1,
+      "created_utc": 1749616098.0,
+      "replies": []
+    },
+    {
+      "id": "mx0t2kx",
+      "author": "DDFoster96",
+      "body": "How did we get from 14 (which I've just updated my testing infra to use) to 27 so quickly? There can't have been 13 versions in the last two years.\u00a0",
+      "score": 0,
+      "created_utc": 1749565635.0,
+      "replies": [
+        {
+          "id": "mx0u7bc",
+          "author": "SUPRVLLAN",
+          "body": "They switched to naming after the year.",
+          "score": 2,
+          "created_utc": 1749565965.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx3qq08",
+      "author": "Far-Donut-1177",
+      "body": "Planned obsolescence strikes again!",
+      "score": 0,
+      "created_utc": 1749596025.0,
+      "replies": [
+        {
+          "id": "mx43z13",
+          "author": "XJ--0461",
+          "body": "This isn't planned obsolescence.",
+          "score": 2,
+          "created_utc": 1749600425.0,
+          "replies": [
+            {
+              "id": "mzkh9aq",
+              "author": "FortyYearOldVirgin",
+              "body": "It\u2019s a term kids use to sound cool.",
+              "score": 1,
+              "created_utc": 1750793618.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwzzqi4",
+      "author": "ArmoredFrost",
+      "body": "I knew this announcement would come, and here it is. I'm glad I ditched Apple a long time ago.",
+      "score": -12,
+      "created_utc": 1749555590.0,
+      "replies": [
+        {
+          "id": "mx001wy",
+          "author": "tfrw",
+          "body": "Hmm, the last Intel Mac got six years of support\u2026",
+          "score": 7,
+          "created_utc": 1749555721.0,
+          "replies": []
+        },
+        {
+          "id": "mwzzz44",
+          "author": "shofmon88",
+          "body": "How brave of you, kudos.\u00a0",
+          "score": 9,
+          "created_utc": 1749555688.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx2jden",
+      "author": "uberfunstuff",
+      "body": "Assholes - so greedy.",
+      "score": 0,
+      "created_utc": 1749583137.0,
+      "replies": [
+        {
+          "id": "mx2p78g",
+          "author": "VictoryBrave4017",
+          "body": "Brother they haven\u2019t made a new intel device since 2020, and those machines are still getting features through this release, and will get security updates for the foreseeable future",
+          "score": 3,
+          "created_utc": 1749584817.0,
+          "replies": [
+            {
+              "id": "mx2r97v",
+              "author": "uberfunstuff",
+              "body": "Security [updates](https://www.bbc.co.uk/news/technology-67911517) you say? \n\nI spent \u00a310k on a Mac Pro in 2020. I would have expected a little more support than 5 years.",
+              "score": -2,
+              "created_utc": 1749585405.0,
+              "replies": [
+                {
+                  "id": "mx2s3mo",
+                  "author": "martinbean",
+                  "body": "The cut-off has to happen some time. Even if they did it in 15 years\u2019 time rather than five, someone would still complain.",
+                  "score": 1,
+                  "created_utc": 1749585643.0,
+                  "replies": [
+                    {
+                      "id": "mx2vmhh",
+                      "author": "uberfunstuff",
+                      "body": "I\u2019ve got longer out of my other Mac Pros. And I\u2019ve had them since Nubus. \n\nI feel like the greed is accelerating.",
+                      "score": 0,
+                      "created_utc": 1749586623.0,
+                      "replies": [
+                        {
+                          "id": "mx2w0jj",
+                          "author": "martinbean",
+                          "body": "> I\u2019ve got longer out of my other Mac Pros. \n\nYes, but there wouldn\u2019t have been a fundamental change in hardware with those other Mac Pros like there is with Intel to ARM.",
+                          "score": 1,
+                          "created_utc": 1749586732.0,
+                          "replies": [
+                            {
+                              "id": "mx30fwr",
+                              "author": "uberfunstuff",
+                              "body": "Nubus > PCI.\n\nEdit 6800 > 3G\n\nThere are various",
+                              "score": 1,
+                              "created_utc": 1749587971.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mx3q956",
+                  "author": "mdruckus",
+                  "body": " Name a PC getting OS updates still. Windows ends support for 2019 pc\u2019s this year.",
+                  "score": 0,
+                  "created_utc": 1749595873.0,
+                  "replies": [
+                    {
+                      "id": "mx4bhb8",
+                      "author": "mrturret",
+                      "body": ">Windows ends support for 2019 pc\u2019s this year.\n\nThat's not true. Windows 11 requires\" Intel 8th Gen and 2nd Gen Ryzen processes, which came out in mid 2017 and early 2018 respectively. They're still being supported. It actually goes back much further if you bypass the TPM requirements in the installer. \n\nThe vast majority of PCs from 2019 will run Windows 11 without any bypass needed. \n\n>Name a PC getting OS updates still.\n\nSince the PC platform is open, there's almost certainly a modern Linux distro that runs on 90s hardware and still gets maintained. I would be pretty shocked if there wasn't.",
+                      "score": 1,
+                      "created_utc": 1749603058.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mzkhoot",
+          "author": "FortyYearOldVirgin",
+          "body": "Can\u2019t afford a new machine, huh? Sucks.",
+          "score": 1,
+          "created_utc": 1750793749.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx1mez0",
+      "author": "codinwizrd",
+      "body": "Hello Linux my old friend.",
+      "score": -1,
+      "created_utc": 1749573984.0,
+      "replies": []
+    },
+    {
+      "id": "mx0oqd0",
+      "author": "guzhogi",
+      "body": "Anyone else old enough to remember the PreP and CHRP platforms?",
+      "score": 0,
+      "created_utc": 1749564355.0,
+      "replies": []
+    },
+    {
+      "id": "mx2d9z6",
+      "author": "AliceLunar",
+      "body": "So both Windows and Apple are ending support for tons and tons of devices all over the world.",
+      "score": 0,
+      "created_utc": 1749581404.0,
+      "replies": []
+    },
+    {
+      "id": "mxadwo8",
+      "author": "Xanadoo",
+      "body": "Do people still use Macs?  Didn't even know they was still a thing.",
+      "score": 0,
+      "created_utc": 1749683622.0,
+      "replies": []
+    },
+    {
+      "id": "mx0dkww",
+      "author": "Penguinkeith",
+      "body": "Damn I didn\u2019t realize having translucent windows was so resource heavy",
+      "score": -4,
+      "created_utc": 1749560778.0,
+      "replies": [
+        {
+          "id": "mx0qghx",
+          "author": "thekeifer1",
+          "body": "Windows Vista enters the chat.",
+          "score": 6,
+          "created_utc": 1749564872.0,
+          "replies": []
+        },
+        {
+          "id": "mx0mqbl",
+          "author": "_sharpmars",
+          "body": "Some Intel Macs are still getting macOS 26, just not the update after that.",
+          "score": 2,
+          "created_utc": 1749563744.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx058ax",
+      "author": "ThePheebs",
+      "body": "You will own nothing and you'll be happy.",
+      "score": -7,
+      "created_utc": 1749557786.0,
+      "replies": []
+    },
+    {
+      "id": "mx2enlw",
+      "author": "None",
+      "body": "[removed]",
+      "score": -1,
+      "created_utc": 1749581790.0,
+      "replies": [
+        {
+          "id": "mx4ca9o",
+          "author": "mrturret",
+          "body": "W as in wumbo. You know, I wumbo, You wumbo, He she me wumbo, wumbo, Wumboing, We'll have thee wumbo, Wumborama, Wumbology, The study of wumbo? It's first grade!",
+          "score": 0,
+          "created_utc": 1749603341.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx1g7qu",
+      "author": "MedicalDiscipline500",
+      "body": "So my 2014 MacBook will finally make the switch to Linux.",
+      "score": -1,
+      "created_utc": 1749572220.0,
+      "replies": []
+    },
+    {
+      "id": "mx02feo",
+      "author": "instrumentation_guy",
+      "body": "What a shit company. My sons Macbook screen stopped working and they said they would charge him to fix it and lied about his warranty, a month later he gets an auto email that his warranty was soon to expire, they fucking lied to him, straight up. 100% aliexpress suppliers treat their customers better. Scummy Apple.",
+      "score": -19,
+      "created_utc": 1749556688.0,
+      "replies": [
+        {
+          "id": "mx0ups7",
+          "author": "SUPRVLLAN",
+          "body": "Did your son not raise the fact that his MacBook was under warranty? Apple is a lot of things, but they\u2019re also consistently known for having good customer support. I think there\u2019s some information you\u2019re leaving out.",
+          "score": 6,
+          "created_utc": 1749566115.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx3o4pv",
+      "author": "soulstudios",
+      "body": "So fascinatingly Dumb",
+      "score": -2,
+      "created_utc": 1749595168.0,
+      "replies": []
+    },
+    {
+      "id": "mx0wo8f",
+      "author": "artguy55",
+      "body": "My old Intel Mac works better with Ubuntu than it ever did with OSX. I think I've already bought my last Apple product. Sad really that cook phuqued this up so badly",
+      "score": -8,
+      "created_utc": 1749566678.0,
+      "replies": []
+    },
+    {
+      "id": "mx059xf",
+      "author": "EMAW2008",
+      "body": "So my iMac 2010 will no longer supported?",
+      "score": -3,
+      "created_utc": 1749557804.0,
+      "replies": []
+    },
+    {
+      "id": "mx08h64",
+      "author": "ToMorrowsEnd",
+      "body": "No it doesnt require apple silicon.  they still support the imac pro which is Intel.",
+      "score": -3,
+      "created_utc": 1749558998.0,
+      "replies": [
+        {
+          "id": "mx0eqtx",
+          "author": "wosmo",
+          "body": "'next year'.  They've said Tahoe is the last release that'll support Intel.\n\nSo we can expect:\n\n* macOS 26 - supports AS+Intel\n* macOS 27 - supports AS, 26 still receives updates\n* macOS 28 - supports AS, 26 gets security fixes only\n* macOS 29 - supports AS, 26 stops receiving updates",
+          "score": 12,
+          "created_utc": 1749561173.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mx1sdtt",
+      "author": "DarkGamer",
+      "body": "This is why I stopped using apple products years ago, the forced obsolescence and cost.",
+      "score": -3,
+      "created_utc": 1749575619.0,
+      "replies": []
+    }
+  ]
+}

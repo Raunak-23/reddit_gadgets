@@ -1,0 +1,49 @@
+metric,value
+file,1kg4v1p.csv
+title,"Lighter, cheaper Surface Laptop saves a little money but gives up a lot | 899 dollar laptop looks fine, but the cost savings might not be worth it."
+rows,11
+num_posts,1
+num_comments,10
+unique_authors,10
+max_depth,1
+avg_comment_words,48.7
+median_comment_words,28.0
+max_comment_words,183
+positive_count,2
+negative_count,8
+neutral_count,0
+positive_pct,20.0
+negative_pct,80.0
+neutral_pct,0.0
+topic_1_keywords,"surface, quality, terrible, build, windows, shit, gone, laptop"
+topic_1_label,Surfaces and quality of laptops
+topic_2_keywords,"ok, go, windows, microsoft, laptop, always, feels, surface"
+topic_2_label,"ok, microsoft, laptop, always feel, surface"
+topic_3_keywords,"microsoft, laptop, windows, go, ok, always, feels, ive"
+topic_3_label,microsoft 's ok ' laptop 's ok '
+topic_4_keywords,"365, dont, ad, os, update, need, already, windows"
+topic_4_label,"365 dont, update, need windows"
+topic_5_keywords,"ok, go, windows, microsoft, laptop, always, feels, surface"
+topic_5_label,"ok, microsoft, laptop, always feel, surface"
+topic_6_keywords,"ok, go, windows, microsoft, laptop, always, feels, surface"
+topic_6_label,"ok, microsoft, laptop, always feel, surface"
+top_ngram_1,365 ad (4)
+top_ngram_2,build quality (4)
+top_ngram_3,surface makes (3)
+top_ngram_4,makes great (3)
+top_ngram_5,great hardware (3)
+top_ngram_6,hardware dont (3)
+top_ngram_7,dont need (3)
+top_ngram_8,need os (3)
+top_ngram_9,os nags (3)
+top_ngram_10,nags update (3)
+ner_1,365|MISC|8
+ner_2,Windows|MISC|7
+ner_3,Surface|ORG|4
+ner_4,Surface|MISC|3
+ner_5,365|ORG|1
+ner_6,MS|ORG|1
+ner_7,Explorer|MISC|1
+ner_8,ARM|MISC|1
+ner_9,Microsoft|ORG|1
+ner_10,One Drive|ORG|1

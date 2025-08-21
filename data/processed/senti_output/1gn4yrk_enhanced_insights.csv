@@ -1,0 +1,49 @@
+metric,value
+file,1gn4yrk.csv
+title,"Console prices could skyrocket by 40 percent due to Donald Trump’s victory; tariffs could make a PS5 Pro cost up to 1000 USD, experts say "
+rows,470
+num_posts,1
+num_comments,469
+unique_authors,324
+max_depth,14
+avg_comment_words,52.15
+median_comment_words,30.0
+max_comment_words,566
+positive_count,81
+negative_count,367
+neutral_count,21
+positive_pct,17.271
+negative_pct,78.252
+neutral_pct,4.478
+topic_1_keywords,"lot, voted, think, going, dont, companies, mexico, tariff"
+topic_1_label,voted on mexico tariff
+topic_2_keywords,"tariffs, price, china, steel, cost, tax, wont, one"
+topic_2_label,"tariffs, price, cost, wont, tariffs"
+topic_3_keywords,"voted, right, content, antiwoke, young, one, wage, federal"
+topic_3_label,voted right to antiwoke voted right to one
+topic_4_keywords,"vote, voters, didnt, people, trump, voted, democrat, democratic"
+topic_4_label,democrats voted in democrats
+topic_5_keywords,"us, tariff, pro, im, tariffs, ps5, make, time"
+topic_5_label,tariffs for us and ps5
+topic_6_keywords,"people, like, console, prices, trump, would, us, also"
+topic_6_label,trump would like to buy a console
+top_ngram_1,tax consumer (47)
+top_ngram_2,dont think (46)
+top_ngram_3,tariffs tax (45)
+top_ngram_4,tariffs tax consumer (45)
+top_ngram_5,200 tariff (44)
+top_ngram_6,think hell (43)
+top_ngram_7,hell follow (43)
+top_ngram_8,follow nosier (43)
+top_ngram_9,nosier threats (43)
+top_ngram_10,dont think hell (43)
+ner_1,Trump|PER|80
+ner_2,US|LOC|68
+ner_3,Americans|MISC|59
+ner_4,American|MISC|56
+ner_5,China|LOC|55
+ner_6,Mexico|LOC|49
+ner_7,Mexican|MISC|41
+ner_8,Democrat|MISC|32
+ner_9,Democratic|MISC|32
+ner_10,Canada|LOC|17

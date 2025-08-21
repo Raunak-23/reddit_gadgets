@@ -1,0 +1,49 @@
+metric,value
+file,1j5dath.csv
+title,"NVIDIA’s RTX 50 Laptop GPUs also hit by missing ROPs, production delays expected"
+rows,78
+num_posts,1
+num_comments,77
+unique_authors,56
+max_depth,12
+avg_comment_words,48.35
+median_comment_words,42.0
+max_comment_words,154
+positive_count,8
+negative_count,69
+neutral_count,0
+positive_pct,10.39
+negative_pct,89.61
+neutral_pct,0.0
+topic_1_keywords,"year, nvidia, gpus, since, amd, last, jan, date"
+topic_1_label,nvidia gpus has been nvidia since jan
+topic_2_keywords,"rop, shaders, run, gpu, pixel, like, rops, pixels"
+topic_2_label,rops and gpu like lace
+topic_3_keywords,"months, nvidia, couple, said, last, year, date, much"
+topic_3_label,nvidia and nvidia say they were married in months
+topic_4_keywords,"dont, gaming, would, get, could, think, hardware, ai"
+topic_4_label,gaming doesn't get ai
+topic_5_keywords,"last, barely, tell, far, first, hangman, year, months"
+topic_5_label,hangman 's last short tells far
+topic_6_keywords,"things, gpu, right, value, end, friend, convinced, say"
+topic_6_label,gpu is right and right
+top_ngram_1,couple months (15)
+top_ngram_2,year date (15)
+top_ngram_3,last couple (12)
+top_ngram_4,last couple months (12)
+top_ngram_5,15 last (8)
+top_ngram_6,date helpful (8)
+top_ngram_7,helpful said (8)
+top_ngram_8,said last (8)
+top_ngram_9,year date helpful (8)
+top_ngram_10,date helpful said (8)
+ner_1,NVIDIA|ORG|10
+ner_2,Intel|ORG|9
+ner_3,AMD|ORG|8
+ner_4,Nvidia|ORG|5
+ner_5,nvidia|ORG|4
+ner_6,##vidia|ORG|4
+ner_7,NVDA|ORG|4
+ner_8,ATI Nvidia|ORG|3
+ner_9,GP|ORG|3
+ner_10,Pentium 4|MISC|3

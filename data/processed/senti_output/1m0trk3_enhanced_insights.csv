@@ -1,0 +1,49 @@
+metric,value
+file,1m0trk3.csv
+title,Sony's 61MP RX1R III fixed-lens compact camera is finally here after a ten-year wait
+rows,52
+num_posts,1
+num_comments,51
+unique_authors,38
+max_depth,5
+avg_comment_words,62.49
+median_comment_words,47.0
+max_comment_words,296
+positive_count,8
+negative_count,43
+neutral_count,0
+positive_pct,15.686
+negative_pct,84.314
+neutral_pct,0.0
+topic_1_keywords,"price, camera, maybe, time, like, og, amazing, rx100"
+topic_1_label,rx100 is a great camera for a budget
+topic_2_keywords,"lens, sony, get, still, think, dont, 300, pretty"
+topic_2_label,i think i don t have a lens
+topic_3_keywords,"background, depth, compression, cropping, except, framing, equivalent, field"
+topic_3_label,field with compression and cropping in the background
+topic_4_keywords,"f28, exactly, focal, different, cropping, distance, thing, camera"
+topic_4_label,f28 is exactly the focal point of a camera
+topic_5_keywords,"rx100, want, people, leica, regular, m8, affordable, please"
+topic_5_label,rx100 is affordable for people
+topic_6_keywords,"crop, video, aperture, size, sensor, also, lens, focal"
+topic_6_label,"crop, aperture, lens, lens"
+top_ngram_1,depth compression (14)
+top_ngram_2,focal lengths (9)
+top_ngram_3,300 thumb (8)
+top_ngram_4,f28 shot (8)
+top_ngram_5,different focal (7)
+top_ngram_6,focal length (7)
+top_ngram_7,wont depth (6)
+top_ngram_8,compression actual (6)
+top_ngram_9,actual 5070mm (6)
+top_ngram_10,5070mm lens (6)
+ner_1,Sony|ORG|11
+ner_2,A7|MISC|5
+ner_3,R|MISC|4
+ner_4,##100|MISC|3
+ner_5,SD|MISC|2
+ner_6,RX1R II|MISC|2
+ner_7,##7|MISC|2
+ner_8,##HD|MISC|2
+ner_9,##3|MISC|1
+ner_10,##100R|MISC|1

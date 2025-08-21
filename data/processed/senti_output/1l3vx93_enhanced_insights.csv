@@ -1,0 +1,49 @@
+metric,value
+file,1l3vx93.csv
+title,Wyze Says ‘Screw It’ and Shoves a Camera Into Its Latest Smart Bulb | We can't decide if this is a great or terrible idea for your smart home.
+rows,174
+num_posts,1
+num_comments,173
+unique_authors,112
+max_depth,7
+avg_comment_words,52.04
+median_comment_words,49.0
+max_comment_words,216
+positive_count,28
+negative_count,145
+neutral_count,0
+positive_pct,16.185
+negative_pct,83.815
+neutral_pct,0.0
+topic_1_keywords,"light, wyze, dont, everything, think, one, people, want"
+topic_1_label,wyzes don't want to be light
+topic_2_keywords,"wyze, like, idea, avaliable, content, longer, thing, one"
+topic_2_label,wyze likes something avaliable
+topic_3_keywords,"customers, without, like, camera, wyze, security, terrible, easily"
+topic_3_label,wyze customers without cameras
+topic_4_keywords,"bulb, camera, light, would, socket, wyze, new, product"
+topic_4_label,"bulb, camera, light, socket, wyze"
+topic_5_keywords,"camera, cameras, way, light, security, bulb, dont, people"
+topic_5_label,"camera, light, security, light, bulb"
+topic_6_keywords,"camera, light, socket, actually, either, video, ive, across"
+topic_6_label,i have a video i have a socket
+top_ngram_1,light bulb (23)
+top_ngram_2,like wyze (16)
+top_ngram_3,light fixture (16)
+top_ngram_4,bulb socket (16)
+top_ngram_5,security camera (15)
+top_ngram_6,security cam (13)
+top_ngram_7,front porch (13)
+top_ngram_8,good idea (13)
+top_ngram_9,terrible allows (12)
+top_ngram_10,allows easily (12)
+ner_1,Wyze|ORG|32
+ner_2,##ze|ORG|20
+ner_3,China|LOC|8
+ner_4,Wy|PER|8
+ner_5,W|ORG|7
+ner_6,##y|PER|7
+ner_7,##ta|MISC|4
+ner_8,Nintendo|ORG|3
+ner_9,##y|MISC|3
+ner_10,Wyze|PER|3

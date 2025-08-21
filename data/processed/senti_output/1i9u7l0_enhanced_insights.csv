@@ -1,0 +1,49 @@
+metric,value
+file,1i9u7l0.csv
+title,Apple may launch the first foldable iPhone next year: Here’s what we know so far
+rows,25
+num_posts,1
+num_comments,24
+unique_authors,18
+max_depth,3
+avg_comment_words,42.92
+median_comment_words,32.5
+max_comment_words,178
+positive_count,5
+negative_count,19
+neutral_count,0
+positive_pct,20.833
+negative_pct,79.167
+neutral_pct,0.0
+topic_1_keywords,"im, foldables, samsung, make, screen, crease, device, current"
+topic_1_label,samsung creases screen
+topic_2_keywords,"foldable, phone, actually, still, even, anyone, seen, using"
+topic_2_label,a phone that is foldable and even
+topic_3_keywords,"large, already, far, heres, know, hope, really, dont"
+topic_3_label,i hope i dont know i dont know
+topic_4_keywords,"large, already, far, heres, know, hope, really, dont"
+topic_4_label,i hope i dont know i dont know
+topic_5_keywords,"would, good, ive, foldable, one, got, screen, phone"
+topic_5_label,i have a screen and a foldable phone
+topic_6_keywords,"apple, innovate, works, way, iphone, dont, better, phones"
+topic_6_label,Apple innovates its way to innovate phones
+top_ngram_1,foldable phone (9)
+top_ngram_2,still havent (7)
+top_ngram_3,havent seen (7)
+top_ngram_4,seen anyone (7)
+top_ngram_5,anyone actually (7)
+top_ngram_6,actually using (7)
+top_ngram_7,using foldable (7)
+top_ngram_8,phone wild (7)
+top_ngram_9,wild whos (7)
+top_ngram_10,whos even (7)
+ner_1,Apple|ORG|15
+ner_2,iPhone|MISC|4
+ner_3,Samsung|ORG|2
+ner_4,China|MISC|2
+ner_5,Motorola|ORG|2
+ner_6,3|MISC|1
+ner_7,Android|MISC|1
+ner_8,FaceID|MISC|1
+ner_9,EU|LOC|1
+ner_10,Chinese|MISC|1

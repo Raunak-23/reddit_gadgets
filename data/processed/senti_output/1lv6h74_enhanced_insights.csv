@@ -1,0 +1,49 @@
+metric,value
+file,1lv6h74.csv
+title,Lenovo Chromebook Plus 14 review: the new king of Chromebooks
+rows,29
+num_posts,1
+num_comments,28
+unique_authors,25
+max_depth,3
+avg_comment_words,73.25
+median_comment_words,62.5
+max_comment_words,212
+positive_count,7
+negative_count,21
+neutral_count,0
+positive_pct,25.0
+negative_pct,75.0
+neutral_pct,0.0
+topic_1_keywords,"windows, chromebook, 300, use, monitor, machine, school, kids"
+topic_1_label,"Chromebook, Chromebook, kids use windows, chromebook, chromebook"
+topic_2_keywords,"apps, shit, linux, work, still, know, ones, around"
+topic_2_label,linux apps work shit
+topic_3_keywords,"cant, chromebook, service, believe, domain, great, full, smooth"
+topic_3_label,chromebook is a great domain with great service
+topic_4_keywords,"work, miss, google, would, performance, gmail, maybe, one"
+topic_4_label,Google misses gmail
+topic_5_keywords,"run, limitations, windows, like, people, fine, dont, want"
+topic_5_label,i want to run windows
+topic_6_keywords,"chromebook, really, one, chromebooks, lenovo, great, guess, overall"
+topic_6_label,"chromebooks, lenovo, and chromebooks"
+top_ngram_1,didnt know (4)
+top_ngram_2,know chrome (4)
+top_ngram_3,chrome books (4)
+top_ngram_4,books still (4)
+top_ngram_5,still around (4)
+top_ngram_6,around ones (4)
+top_ngram_7,ones kids (4)
+top_ngram_8,kids good (4)
+top_ngram_9,good school (4)
+top_ngram_10,school work (4)
+ner_1,Chromebook|MISC|11
+ner_2,Windows|MISC|5
+ner_3,Linux|MISC|4
+ner_4,Lenovo|ORG|4
+ner_5,Chrome|MISC|3
+ner_6,Mac OS|MISC|3
+ner_7,##L|MISC|2
+ner_8,ChromeOS|MISC|2
+ner_9,Dolby Atmos|MISC|2
+ner_10,##romebooks|MISC|2

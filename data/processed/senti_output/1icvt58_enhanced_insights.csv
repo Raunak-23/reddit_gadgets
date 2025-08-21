@@ -1,0 +1,49 @@
+metric,value
+file,1icvt58.csv
+title,Apple has been secretly working with Starlink to bring satellite connectivity to iPhones | The new functionality competes with Apple's existing Globalstar satellite SOS feature
+rows,436
+num_posts,1
+num_comments,435
+unique_authors,258
+max_depth,12
+avg_comment_words,46.57
+median_comment_words,34.0
+max_comment_words,443
+positive_count,62
+negative_count,373
+neutral_count,0
+positive_pct,14.253
+negative_pct,85.747
+neutral_pct,0.0
+topic_1_keywords,"nazi, one, right, literally, dont, salute, would, like"
+topic_1_label,nazi 's right to salute
+topic_2_keywords,"phone, cell, satellite, really, elon, youre, starlink, people"
+topic_2_label,"elon 's phone, a satellite, a phone and a starlink"
+topic_3_keywords,"dont, nazis, apple, nazi, people, want, support, starlink"
+topic_3_label,nasi nasi want support for apple
+topic_4_keywords,"apple, android, get, dont, im, google, samsung, also"
+topic_4_label,Google and Samsung get Android
+topic_5_keywords,"people, satellite, dont, starlink, really, hes, one, elon"
+topic_5_label,elon starlinks a satellite
+topic_6_keywords,"thats, nazi, elon, doesnt, work, also, ww1, call"
+topic_6_label,elon doesnt work in ww1
+top_ngram_1,satellite phone (34)
+top_ngram_2,middle nowhere (29)
+top_ngram_3,dont get (25)
+top_ngram_4,dont want (24)
+top_ngram_5,nazi salute (24)
+top_ngram_6,get android (20)
+top_ngram_7,apple working (19)
+top_ngram_8,working starlink (19)
+top_ngram_9,apple working starlink (19)
+top_ngram_10,support nazi (18)
+ner_1,Apple|ORG|92
+ner_2,Nazi|MISC|66
+ner_3,Elon|ORG|48
+ner_4,iPhone|MISC|44
+ner_5,Nazis|MISC|37
+ner_6,Starlink|ORG|37
+ner_7,Google|ORG|33
+ner_8,SpaceX|ORG|30
+ner_9,Android|MISC|24
+ner_10,US|LOC|23

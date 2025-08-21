@@ -1,0 +1,49 @@
+metric,value
+file,1ljytm7.csv
+title,Report highlights uncomfortable truths about Trump Mobile and its T1 Phone
+rows,206
+num_posts,1
+num_comments,205
+unique_authors,163
+max_depth,8
+avg_comment_words,31.19
+median_comment_words,25.0
+max_comment_words,132
+positive_count,26
+negative_count,179
+neutral_count,0
+positive_pct,12.683
+negative_pct,87.317
+neutral_pct,0.0
+topic_1_keywords,"phone, tacky, trump, processor, substandard, error, correction, looks"
+topic_1_label,Ticks and tacky processors look substandard
+topic_2_keywords,"trump, like, mobile, probably, shit, grift, maga, get"
+topic_2_label,trump grifts mobile
+topic_3_keywords,"fault, grifters, like, starlink, emails, job, elons, big"
+topic_3_label,grifters like starlinks
+topic_4_keywords,"anyone, deserve, thank, going, phone, get, matter, thats"
+topic_4_label,anyone who deserves a thank or something
+topic_5_keywords,"phone, government, us, use, one, wonderful, made, tariff"
+topic_5_label,tariffs for phone in us
+topic_6_keywords,"phones, thing, phone, hope, spell, check, doesnt, comedy"
+topic_6_label,"phone, phone, doesnt, comedy"
+top_ngram_1,substandard processor (17)
+top_ngram_2,processor lacks (17)
+top_ngram_3,lacks basic (17)
+top_ngram_4,basic error (17)
+top_ngram_5,error correction (17)
+top_ngram_6,correction memory (17)
+top_ngram_7,memory lacking (17)
+top_ngram_8,lacking looks (17)
+top_ngram_9,looks tacky (17)
+top_ngram_10,tacky fuck (17)
+ner_1,Trump|PER|29
+ner_2,US|LOC|26
+ner_3,Linux|MISC|7
+ner_4,iPhone|MISC|7
+ner_5,Russia|LOC|5
+ner_6,God|PER|5
+ner_7,Starlink|ORG|5
+ner_8,USA|LOC|5
+ner_9,America|LOC|5
+ner_10,Chi|ORG|5

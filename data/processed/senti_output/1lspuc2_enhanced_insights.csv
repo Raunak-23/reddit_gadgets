@@ -1,0 +1,49 @@
+metric,value
+file,1lspuc2.csv
+title,Panasonic S1 II review: A near-perfect creator's camera if money is no object
+rows,79
+num_posts,1
+num_comments,78
+unique_authors,56
+max_depth,6
+avg_comment_words,58.79
+median_comment_words,40.5
+max_comment_words,320
+positive_count,20
+negative_count,58
+neutral_count,0
+positive_pct,25.641
+negative_pct,74.359
+neutral_pct,0.0
+topic_1_keywords,"camera, better, photography, smartphone, still, year, might, used"
+topic_1_label,camera better than other smartphone
+topic_2_keywords,"camera, photos, cameras, dedicated, like, software, without, raw"
+topic_2_label,software without raw photos
+topic_3_keywords,"like, 1k, budget, around, 500, guess, max, business"
+topic_3_label,i guess business size is around 500
+topic_4_keywords,"camera, phone, money, photos, right, good, smart, outside"
+topic_4_label,"camera, phone, money, photos, right, outside"
+topic_5_keywords,"camera, lens, youre, trying, cameras, great, size, sensor"
+topic_5_label,camera lens is great for a camera
+topic_6_keywords,"compare, one, insta360, powershot, photography, look, im, panasonic"
+topic_6_label,insta360 powershot looks like a panasonic
+top_ngram_1,farmers markets (14)
+top_ngram_2,bang buck (12)
+top_ngram_3,ouch guess (12)
+top_ngram_4,guess around (12)
+top_ngram_5,around like (12)
+top_ngram_6,like 500 (12)
+top_ngram_7,500 1k (12)
+top_ngram_8,1k max (12)
+top_ngram_9,max budget (12)
+top_ngram_10,budget im (12)
+ner_1,iPhone|MISC|11
+ner_2,Panasonic|ORG|8
+ner_3,Nikon|MISC|4
+ner_4,##asonic|ORG|3
+ner_5,GX80|MISC|3
+ner_6,Android|MISC|3
+ner_7,Canon|ORG|3
+ner_8,Apple|MISC|3
+ner_9,Pan|MISC|3
+ner_10,Leica|MISC|2

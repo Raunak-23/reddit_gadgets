@@ -1,0 +1,49 @@
+metric,value
+file,1la8rsy.csv
+title,VanMoof’s new S6 e-bikes fix everything but trust
+rows,73
+num_posts,1
+num_comments,72
+unique_authors,53
+max_depth,6
+avg_comment_words,78.85
+median_comment_words,51.0
+max_comment_words,366
+positive_count,7
+negative_count,65
+neutral_count,0
+positive_pct,9.722
+negative_pct,90.278
+neutral_pct,0.0
+topic_1_keywords,"bike, really, ebikes, price, thats, ebike, cheap, bottom"
+topic_1_label,ebikes cheap and ebikes cheap
+topic_2_keywords,"ebike, yeah, theres, front, reason, first, wheel, better"
+topic_2_label,ebike wheels better than the ebike
+topic_3_keywords,"s6, vanmoof, bikes, ride, bike, battery, new, trust"
+topic_3_label,bike s6 vanmoof
+topic_4_keywords,"bike, point, ebike, issues, product, still, lol, bikes"
+topic_4_label,bike points for ebike
+topic_5_keywords,"bikes, bike, really, get, road, standard, shops, ebikes"
+topic_5_label,"bike, ebike, really, get on the road"
+topic_6_keywords,"wheel, front, vanmoof, motor, control, drive, one, acceleration"
+topic_6_label,"wheel, vanmoof, motor, control, one, acceleration"
+top_ngram_1,bike shops (13)
+top_ngram_2,front wheel (13)
+top_ngram_3,road bikes (7)
+top_ngram_4,suspension seatpost (6)
+top_ngram_5,bottom bracket (6)
+top_ngram_6,mclaren applied (6)
+top_ngram_7,s6 open (6)
+top_ngram_8,uk us (6)
+top_ngram_9,upper part (6)
+top_ngram_10,back wheel (6)
+ner_1,VanMoof|ORG|14
+ner_2,S6|MISC|13
+ner_3,UK|LOC|11
+ner_4,US|LOC|8
+ner_5,Van|PER|6
+ner_6,VanMoof|MISC|6
+ner_7,McLaren Applied|ORG|6
+ner_8,Brompton|ORG|6
+ner_9,Europe|LOC|5
+ner_10,##Moof|ORG|5

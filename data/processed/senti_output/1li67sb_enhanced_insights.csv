@@ -1,0 +1,49 @@
+metric,value
+file,1li67sb.csv
+title,Elon Musk's Neuralink to Test Eye Implant to Restore Vision in 2026
+rows,22
+num_posts,1
+num_comments,21
+unique_authors,19
+max_depth,1
+avg_comment_words,26.29
+median_comment_words,22.0
+max_comment_words,81
+positive_count,4
+negative_count,17
+neutral_count,0
+positive_pct,19.048
+negative_pct,80.952
+neutral_pct,0.0
+topic_1_keywords,"doesnt, like, brain, full, driving, always, shit, implant"
+topic_1_label,shit implant shit
+topic_2_keywords,"sure, eye, right, implant, brain, full, one, get"
+topic_2_label,a full brain implant
+topic_3_keywords,"black, mirror, brain, full, driving, always, shit, implant"
+topic_3_label,"black, mirror, brain, shit"
+topic_4_keywords,"eyes, wait, projected, cant, straight, advertisements, shit, blind"
+topic_4_label,A man is waiting for his eyes to be projected straight
+topic_5_keywords,"already, one, seriously, take, prima, project, saying, tested"
+topic_5_label,a project that is tested for a test
+topic_6_keywords,"year, next, thing, first, time, theyve, roadster, likely"
+topic_6_label,roadster likely to be the next thing
+top_ngram_1,next year (6)
+top_ngram_2,cant wait (3)
+top_ngram_3,wait advertisements (3)
+top_ngram_4,advertisements projected (3)
+top_ngram_5,projected straight (3)
+top_ngram_6,straight eyes (3)
+top_ngram_7,cant wait advertisements (3)
+top_ngram_8,wait advertisements projected (3)
+top_ngram_9,advertisements projected straight (3)
+top_ngram_10,projected straight eyes (3)
+ner_1,EU|MISC|2
+ner_2,Elon|ORG|2
+ner_3,Pixium|ORG|2
+ner_4,Roadster|MISC|2
+ner_5,##rima|ORG|1
+ner_6,##E|ORG|1
+ner_7,Cadillac|ORG|1
+ner_8,Black Mirror|ORG|1
+ner_9,America|LOC|1
+ner_10,Mars|LOC|1

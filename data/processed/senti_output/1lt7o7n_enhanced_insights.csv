@@ -1,0 +1,49 @@
+metric,value
+file,1lt7o7n.csv
+title,Dell 16 Plus 2-in-1 review: Technically proficient but lacking soul
+rows,45
+num_posts,1
+num_comments,44
+unique_authors,37
+max_depth,3
+avg_comment_words,36.66
+median_comment_words,30.5
+max_comment_words,143
+positive_count,11
+negative_count,33
+neutral_count,0
+positive_pct,25.0
+negative_pct,75.0
+neutral_pct,0.0
+topic_1_keywords,"another, issue, key, yuck, dell, buy, copilot, one"
+topic_1_label,copilot buys one
+topic_2_keywords,"half, keyboard, dell, use, inspiron, still, many, turns"
+topic_2_label,a little bit of inspiron
+topic_3_keywords,"seems, like, last, thats, laptop, good, pretty, even"
+topic_3_label,a laptop looks like a laptop
+topic_4_keywords,"framework, pretty, old, get, car, love, make, say"
+topic_4_label,i love the old car and the old ones
+topic_5_keywords,"new, im, port, screen, soul, maybe, wtf, copilot"
+topic_5_label,wtf copilot 's new im port
+topic_6_keywords,"soul, laptop, personality, function, exactly, form, precisely, xps"
+topic_6_label,xps : xps : xps
+top_ngram_1,seems like (6)
+top_ngram_2,laptop soul (6)
+top_ngram_3,demanding laptop (5)
+top_ngram_4,soul personality (5)
+top_ngram_5,personality precisely (5)
+top_ngram_6,precisely end (5)
+top_ngram_7,end form (5)
+top_ngram_8,form function (5)
+top_ngram_9,function monstrosities (5)
+top_ngram_10,monstrosities exactly (5)
+ner_1,Dell|ORG|9
+ner_2,XPS|ORG|4
+ner_3,Dell Inspiron|MISC|3
+ner_4,Italian|MISC|3
+ner_5,Framework|ORG|3
+ner_6,Blue|MISC|2
+ner_7,CP|ORG|2
+ner_8,Key|MISC|2
+ner_9,Mouse|MISC|2
+ner_10,Insp|MISC|2

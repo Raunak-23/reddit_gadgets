@@ -1,0 +1,49 @@
+metric,value
+file,1m4hmez.csv
+title,Samsung to launch a triple-folding phone this year
+rows,242
+num_posts,1
+num_comments,241
+unique_authors,199
+max_depth,7
+avg_comment_words,37.73
+median_comment_words,22.0
+max_comment_words,279
+positive_count,30
+negative_count,211
+neutral_count,0
+positive_pct,12.448
+negative_pct,87.552
+neutral_pct,0.0
+topic_1_keywords,"phone, fold, folding, would, two, regular, yeah, double"
+topic_1_label,double phone folds and doubles
+topic_2_keywords,"phone, im, samsung, holding, accordion, folds, pocket, folding"
+topic_2_label,samsung samsung holding samsung accordion
+topic_3_keywords,"apple, people, tech, phones, samsung, disruptive, year, looking"
+topic_3_label,Apple is looking for a disruptive smartphone in the year
+topic_4_keywords,"apple, fold, phone, year, even, start, dont, theyre"
+topic_4_label,"Apples fold, phone, fold, and even"
+topic_5_keywords,"fold, note, one, trifold, hinge, get, spen, going"
+topic_5_label,"trifold, note, one, hinge, spen"
+topic_6_keywords,"fold, single, one, phone, phones, call, already, going"
+topic_6_label,phone folds single one
+top_ngram_1,folding phone (23)
+top_ngram_2,im holding (17)
+top_ngram_3,dont know (16)
+top_ngram_4,single fold (14)
+top_ngram_5,holding samsung (13)
+top_ngram_6,samsung accordion (13)
+top_ngram_7,im holding samsung (13)
+top_ngram_8,holding samsung accordion (13)
+top_ngram_9,phone fold (13)
+top_ngram_10,think next (11)
+ner_1,Apple|ORG|69
+ner_2,Samsung|ORG|47
+ner_3,iPhone|MISC|14
+ner_4,IOS|MISC|9
+ner_5,Glass|MISC|8
+ner_6,and|MISC|8
+ner_7,Onion|ORG|7
+ner_8,F|MISC|7
+ner_9,Huawei|ORG|7
+ner_10,YouTube|MISC|7

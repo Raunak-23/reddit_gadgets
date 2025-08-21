@@ -1,0 +1,47 @@
+metric,value
+file,1kbs744.csv
+title,Raspberry Pi cuts product returns by 50% by changing up its pin soldering | Combining both the big and little solder jobs made a big difference.
+rows,11
+num_posts,1
+num_comments,10
+unique_authors,10
+max_depth,3
+avg_comment_words,71.7
+median_comment_words,44.5
+max_comment_words,228
+positive_count,1
+negative_count,9
+neutral_count,0
+positive_pct,10.0
+negative_pct,90.0
+neutral_pct,0.0
+topic_1_keywords,"improve, pi, mean, screwed, implementation, company, reduce, reliability"
+topic_1_label,ip improves company's ip
+topic_2_keywords,"would, also, wetting, solder, selective, proper, issues, difficult"
+topic_2_label,a tough issue would be difficult
+topic_3_keywords,"help, rate, return, divert, stock, claims, rma, like"
+topic_3_label,rma : a divert from stock
+topic_4_keywords,"usbc, 5a, 5v, 9v, device, cable, 3a, order"
+topic_4_label,3a vs. 5a 5vs
+topic_5_keywords,"likelihood, doa, reduce, reliability, improve, rma, claims, stock"
+topic_5_label,rma: rma & rma
+topic_6_keywords,"improve, 50, price, reduction, guessing, availability, would, given"
+topic_6_label,price and availability of a new product
+top_ngram_1,selective solder (4)
+top_ngram_2,50 reduction (3)
+top_ngram_3,reduction improve (3)
+top_ngram_4,improve price (3)
+top_ngram_5,price availability (3)
+top_ngram_6,availability guessing (3)
+top_ngram_7,50 reduction improve (3)
+top_ngram_8,reduction improve price (3)
+top_ngram_9,improve price availability (3)
+top_ngram_10,price availability guessing (3)
+ner_1,Pi 4|MISC|3
+ner_2,USB|ORG|2
+ner_3,USBC|MISC|2
+ner_4,5|MISC|1
+ner_5,RMA|ORG|1
+ner_6,R|ORG|1
+ner_7,USB|MISC|1
+ner_8,USBC|ORG|1

@@ -1,0 +1,49 @@
+metric,value
+file,1k49b4l.csv
+title,Portable vinyl record player by Toshiba connects to wireless headphones for on-the-go music
+rows,93
+num_posts,1
+num_comments,92
+unique_authors,69
+max_depth,4
+avg_comment_words,35.36
+median_comment_words,23.5
+max_comment_words,127
+positive_count,13
+negative_count,79
+neutral_count,0
+positive_pct,14.13
+negative_pct,85.87
+neutral_pct,0.0
+topic_1_keywords,"sound, would, walkman, burger, back, player, vinyl, bluetooth"
+topic_1_label,burgers and backs sound
+topic_2_keywords,"vinyl, record, dont, player, music, portable, like, away"
+topic_2_label,"Vinyl, record, don and portable music"
+topic_3_keywords,"fidelity, digital, audio, whatever, lossless, spotifyyoutube, better, bluetooth"
+topic_3_label,"fidelity, digital, audio, whatever"
+topic_4_keywords,"like, looks, soundburger, vinyl, audio, people, cant, also"
+topic_4_label,soundburger looks like vinyl and audio
+topic_5_keywords,"record, like, shop, going, disappeared, tomorrow, overnight, iphones"
+topic_5_label,"like, shop, gone, disappeared, iphones"
+topic_6_keywords,"listen, used, buy, vinyl, always, record, like, wireless"
+topic_6_label,listen to music on the radio
+top_ngram_1,record player (10)
+top_ngram_2,away sources (9)
+top_ngram_3,sources heat (9)
+top_ngram_4,away sources heat (9)
+top_ngram_5,sound burger (9)
+top_ngram_6,onthego music (8)
+top_ngram_7,music vinyl (8)
+top_ngram_8,vinyl place (8)
+top_ngram_9,place going (8)
+top_ngram_10,going level (8)
+ner_1,Blue|MISC|10
+ner_2,iPhone|MISC|5
+ner_3,Sound Burger|MISC|4
+ner_4,Walkman|MISC|4
+ner_5,Sony|ORG|2
+ner_6,Audio Technica|ORG|2
+ner_7,Apple Music|ORG|2
+ner_8,Audiotechnica Sound Burger|ORG|2
+ner_9,##man|MISC|2
+ner_10,Tidal|ORG|2

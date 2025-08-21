@@ -1,0 +1,49 @@
+metric,value
+file,1lx4m18.csv
+title,Robot coyotes protect US military airfields with adorable cyber-ferocity
+rows,67
+num_posts,1
+num_comments,66
+unique_authors,52
+max_depth,3
+avg_comment_words,28.05
+median_comment_words,26.0
+max_comment_words,73
+positive_count,20
+negative_count,46
+neutral_count,0
+positive_pct,30.303
+negative_pct,69.697
+neutral_pct,0.0
+topic_1_keywords,"adorable, rc, car, gross, propaganda, really, robot, coyote"
+topic_1_label,"cute car, coyote, robot"
+topic_2_keywords,"robocougars, headline, would, afford, race, predator, looks, robocritters"
+topic_2_label,robocritters 'would' to race
+topic_3_keywords,"see, robot, military, get, hey, point, coyotes, propaganda"
+topic_3_label,robots get hey and propaganda
+topic_4_keywords,"theyre, coyote, coyotes, know, around, ai, like, adorable"
+topic_4_label,cute coyotes are cute
+topic_5_keywords,"robot, acme, must, roadrunners, coyotes, tunnels, rocket, rock"
+topic_5_label,"Acme, rocket, rock"
+topic_6_keywords,"coyote, plastic, traxxas, xmaxx, wrong, car, rc, robot"
+topic_6_label,"Coyote, plastic, traxxas, wrong, robot"
+top_ngram_1,rc car (13)
+top_ngram_2,robot roadrunners (8)
+top_ngram_3,boston dynamics (7)
+top_ngram_4,gross propaganda (7)
+top_ngram_5,car plastic (6)
+top_ngram_6,rc car plastic (6)
+top_ngram_7,20 mph (6)
+top_ngram_8,mph 32 (6)
+top_ngram_9,32 kmh (6)
+top_ngram_10,20 mph 32 (6)
+ner_1,AC|MISC|8
+ner_2,RC|ORG|8
+ner_3,##ME|ORG|6
+ner_4,Boston Dynamics|ORG|5
+ner_5,BS|ORG|3
+ner_6,Traxxas XMaxx|MISC|3
+ner_7,##C|ORG|2
+ner_8,##xa|MISC|2
+ner_9,##otes|ORG|2
+ner_10,Rob|ORG|2

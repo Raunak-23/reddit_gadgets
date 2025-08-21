@@ -1,0 +1,49 @@
+metric,value
+file,1jo0nl5.csv
+title,Reviewers report GeForce RTX 5090 for laptops is 50 percent slower than desktop version
+rows,132
+num_posts,1
+num_comments,131
+unique_authors,100
+max_depth,8
+avg_comment_words,56.82
+median_comment_words,47.0
+max_comment_words,252
+positive_count,8
+negative_count,123
+neutral_count,0
+positive_pct,6.107
+negative_pct,93.893
+neutral_pct,0.0
+topic_1_keywords,"laptop, gpu, power, like, laptops, back, would, right"
+topic_1_label,gpu power and back
+topic_2_keywords,"lol, desktop, gaming, got, also, power, cpu, one"
+topic_2_label,ipl 's got a cpu and a cpu
+topic_3_keywords,"5090, desktop, chip, performance, laptop, even, power, half"
+topic_3_label,5090 laptop chip performance
+topic_4_keywords,"performance, mobile, desktop, understand, dont, laptop, always, talking"
+topic_4_label,"mobile, desktop, talk"
+topic_5_keywords,"like, best, really, labs, mine, lazy, ltt, claims"
+topic_5_label,ltt claims ltt
+topic_6_keywords,"different, laptop, gpu, 600w, dont, 5090, consumers, line"
+topic_6_label,The laptop with a line of 600w and a line of 5090 consumers
+top_ngram_1,600w gpu (19)
+top_ngram_2,power supply (17)
+top_ngram_3,dont get (16)
+top_ngram_4,ever going (15)
+top_ngram_5,consumers dont (15)
+top_ngram_6,get confused (15)
+top_ngram_7,confused mislead (15)
+top_ngram_8,consumers dont get (15)
+top_ngram_9,dont get confused (15)
+top_ngram_10,get confused mislead (15)
+ner_1,LTT|ORG|12
+ner_2,Nvidia|ORG|7
+ner_3,C|MISC|5
+ner_4,Labs|ORG|3
+ner_5,RAZER Blade 14|MISC|3
+ner_6,PCIE|MISC|3
+ner_7,Strong Bad|ORG|2
+ner_8,UNC|ORG|2
+ner_9,nVidia|ORG|2
+ner_10,Voodoo3|MISC|2

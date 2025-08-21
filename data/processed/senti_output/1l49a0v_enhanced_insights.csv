@@ -1,0 +1,49 @@
+metric,value
+file,1l49a0v.csv
+title,Nintendo Switch 2 Screen Punctures Ruin Launch Day for Fans Due to Store Receipts Stapled Into Console's Box - IGN
+rows,258
+num_posts,1
+num_comments,257
+unique_authors,162
+max_depth,16
+avg_comment_words,52.61
+median_comment_words,44.0
+max_comment_words,481
+positive_count,18
+negative_count,207
+neutral_count,32
+positive_pct,7.004
+negative_pct,80.545
+neutral_pct,12.451
+topic_1_keywords,"box, tape, store, staple, boxes, gamestop, still, nintendo"
+topic_1_label,nintendo staples box gamestop
+topic_2_keywords,"box, good, protection, idea, cardboard, packaging, lol, one"
+topic_2_label,box for protection
+topic_3_keywords,"packaging, box, thats, problem, switch, way, right, nintendo"
+topic_3_label,box thats a problem for nintendo
+topic_4_keywords,"people, box, gamestop, manager, two, seems, though, still"
+topic_4_label,box manager seems to be a little sluggish
+topic_5_keywords,"screen, cost, theres, per, 500, packaging, like, console"
+topic_5_label,The screen costs 500 per year for a console
+topic_6_keywords,"box, tape, one, facing, know, stapling, ive, gamestop"
+topic_6_label,i have a box facing a gametop
+top_ngram_1,staten island (15)
+top_ngram_2,use tape (13)
+top_ngram_3,one store (11)
+top_ngram_4,know easy (10)
+top_ngram_5,easy say (10)
+top_ngram_6,say gamestop (10)
+top_ngram_7,gamestop employees (10)
+top_ngram_8,employees bright (10)
+top_ngram_9,bright stapling (10)
+top_ngram_10,stapling directly (10)
+ner_1,Nintendo|ORG|58
+ner_2,GameStop|ORG|44
+ner_3,iPhone|MISC|23
+ner_4,GameStop|MISC|15
+ner_5,Staten Island|LOC|15
+ner_6,Switch|MISC|13
+ner_7,Switch 2|MISC|12
+ner_8,Apple|ORG|10
+ner_9,Lo|PER|8
+ner_10,iPad|MISC|5

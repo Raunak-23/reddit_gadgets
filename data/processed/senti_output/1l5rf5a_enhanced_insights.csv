@@ -1,0 +1,49 @@
+metric,value
+file,1l5rf5a.csv
+title,Surface Pro 12-inch review: heart warmer
+rows,58
+num_posts,1
+num_comments,57
+unique_authors,43
+max_depth,7
+avg_comment_words,61.81
+median_comment_words,43.0
+max_comment_words,346
+positive_count,8
+negative_count,49
+neutral_count,0
+positive_pct,14.035
+negative_pct,85.965
+neutral_pct,0.0
+topic_1_keywords,"get, completely, arm, good, done, like, dont, switch"
+topic_1_label,i like to switch my arm
+topic_2_keywords,"paywall, guess, version, trust, microsoft, point, run, black"
+topic_2_label,microsoft 's paywall is a black version of microsoft
+topic_3_keywords,"arm, windows, battery, apps, performance, native, switch, middleware"
+topic_3_label,"Windows, battery, native, switch, middleware"
+topic_4_keywords,"windows, arm, ports, switch, apple, silicon, anything, expect"
+topic_4_label,Apple and Apple to be able to switch to windows
+topic_5_keywords,"tablet, run, pro, software, arm, surface, windows, 13"
+topic_5_label,Pro software for tablet and software
+topic_6_keywords,"product, review, save, click, pro, dont, need, clickbait"
+topic_6_label,clickbait product saves clickbait
+top_ngram_1,product review (17)
+top_ngram_2,save click (14)
+top_ngram_3,surface pro (11)
+top_ngram_4,pro still (10)
+top_ngram_5,apps like (9)
+top_ngram_6,like premiere (8)
+top_ngram_7,premiere pro (8)
+top_ngram_8,still require (8)
+top_ngram_9,require intelbased (8)
+top_ngram_10,intelbased versions (8)
+ner_1,Windows|MISC|22
+ner_2,Arm|ORG|18
+ner_3,Qualcomms|ORG|8
+ner_4,Premiere Pro|MISC|8
+ner_5,Microsoft|ORG|7
+ner_6,ARM|MISC|7
+ner_7,Intel|MISC|6
+ner_8,Surface Pro|MISC|6
+ner_9,Snapdragon X Plus|MISC|6
+ner_10,Thinkpad|MISC|5

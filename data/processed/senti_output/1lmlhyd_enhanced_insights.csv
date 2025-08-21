@@ -1,0 +1,45 @@
+metric,value
+file,1lmlhyd.csv
+title,Xiaomi Launches AI Smart Glasses with 8.6-Hour Batteryand and Enhanced Capabilities
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,14
+max_depth,3
+avg_comment_words,72.62
+median_comment_words,22.0
+max_comment_words,342
+positive_count,2
+negative_count,14
+neutral_count,0
+positive_pct,12.5
+negative_pct,87.5
+neutral_pct,0.0
+topic_1_keywords,"play, xreal, thats, need, music, say, whats, product"
+topic_1_label,xreal is a musical genre that needs to be said to be a musical genre
+topic_2_keywords,"would, open, side, store, give, pair, anyone, sdk"
+topic_2_label,sdk open side of store
+topic_3_keywords,"better, central, plan, dear, look, would, like, glasses"
+topic_3_label,i would like to look better
+topic_4_keywords,"glasses, web, got, audio, great, cant, include, im"
+topic_4_label,"glasses, audio, cant, audio"
+topic_5_keywords,"glasses, like, small, lot, experience, pair, ar, real"
+topic_5_label,glasses like a lot of things
+topic_6_keywords,"glasses, quality, good, like, different, use, thing, decently"
+topic_6_label,"Glasses are good, but not as good as they seem"
+top_ngram_1,ive seen (4)
+top_ngram_2,pair glasses (4)
+top_ngram_3,open sdk (4)
+top_ngram_4,smart glasses (3)
+top_ngram_5,glasses include (3)
+top_ngram_6,play music (2)
+top_ngram_7,music thats (2)
+top_ngram_8,thats whats (2)
+top_ngram_9,whats ai (2)
+top_ngram_10,ai product (2)
+ner_1,Sony|ORG|2
+ner_2,Xiaomi|ORG|2
+ner_3,##1|MISC|1
+ner_4,X|MISC|1
+ner_5,XR|ORG|1
+ner_6,Xreal|MISC|1

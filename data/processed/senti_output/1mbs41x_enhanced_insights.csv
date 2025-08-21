@@ -1,0 +1,49 @@
+metric,value
+file,1mbs41x.csv
+title,Another Google Pixel 6a catches fire after battery-nerfing update | Google's Battery Performance Program update was supposed to stop this.
+rows,52
+num_posts,1
+num_comments,51
+unique_authors,35
+max_depth,6
+avg_comment_words,73.69
+median_comment_words,45.0
+max_comment_words,404
+positive_count,2
+negative_count,49
+neutral_count,0
+positive_pct,3.922
+negative_pct,96.078
+neutral_pct,0.0
+topic_1_keywords,"actually, note7, agreed, banning, remember, airlines, reason, phones"
+topic_1_label,ad hoc phone banning
+topic_2_keywords,"battery, lithium, pixel, effect, time, ars, like, running"
+topic_2_label,pixel pixel likes battery
+topic_3_keywords,"phone, battery, replace, give, fact, lets, completely, replacement"
+topic_3_label,battery replacement for phone
+topic_4_keywords,"batteries, phone, battery, fire, data, software, catch, update"
+topic_4_label,battery fire data on phone
+topic_5_keywords,"says, google, free, pixel, impacted, phone, failure, im"
+topic_5_label,Google 's pixel impacted phone
+topic_6_keywords,"recall, phones, one, damn, eventually, going, point, catch"
+topic_6_label,a recall of a phone
+top_ngram_1,catch fire (18)
+top_ngram_2,pixel 6a (13)
+top_ngram_3,software update (7)
+top_ngram_4,recall point (6)
+top_ngram_5,point eventually (6)
+top_ngram_6,eventually one (6)
+top_ngram_7,one going (6)
+top_ngram_8,going catch (6)
+top_ngram_9,fire plane (6)
+top_ngram_10,plane worth (6)
+ner_1,Ars|ORG|9
+ner_2,Google|ORG|9
+ner_3,Note7|MISC|6
+ner_4,Pixel 6|MISC|5
+ner_5,Samsung|ORG|4
+ner_6,Apple|ORG|3
+ner_7,Best Buy|ORG|3
+ner_8,Google Fi|ORG|2
+ner_9,Fi|ORG|2
+ner_10,Pixel 9|MISC|2

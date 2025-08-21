@@ -1,0 +1,49 @@
+metric,value
+file,1lwb6ia.csv
+title,"MIT's smart implant dispenses life-saving drug when diabetics need it most | A glucagon implant features a drug reservoir sealed with an alloy that changes shape when heated, so it can dispense its contents on demand"
+rows,36
+num_posts,1
+num_comments,35
+unique_authors,23
+max_depth,8
+avg_comment_words,54.71
+median_comment_words,35.0
+max_comment_words,318
+positive_count,12
+negative_count,23
+neutral_count,0
+positive_pct,34.286
+negative_pct,65.714
+neutral_pct,0.0
+topic_1_keywords,"autoimmune, t1d, however, liver, immunosuppressants, years, use, news"
+topic_1_label,"autoimmune, t1d, but not immunosuppressants"
+topic_2_keywords,"study, link, diabetes, type, cell, positive, clinical, sixmonth"
+topic_2_label,study of diabetes linked to cell type and cell type
+topic_3_keywords,"patients, cells, diabetes, theres, immunosuppressants, would, insulin, could"
+topic_3_label,immunosuppressants in patients with diabetes
+topic_4_keywords,"would, like, glucagon, insulin, one, drugs, needed, keep"
+topic_4_label,"Glucagon, insulin, drugs"
+topic_5_keywords,"diabetics, glucagon, im, also, really, plastic, use, print"
+topic_5_label,Glucagon is a really good thing to use in print
+topic_6_keywords,"wont, get, software, monthly, die, else, patch, miss"
+topic_6_label,software gets lost in a month
+top_ngram_1,type one (5)
+top_ngram_2,vast majority (4)
+top_ngram_3,majority diabetics (4)
+top_ngram_4,vast majority diabetics (4)
+top_ngram_5,sounds like (4)
+top_ngram_6,like night (4)
+top_ngram_7,night insulin (4)
+top_ngram_8,insulin dose (4)
+top_ngram_9,dose dead (4)
+top_ngram_10,dead click (4)
+ner_1,Type 1 Diabetes Study|MISC|2
+ner_2,Sana Biotechnology|ORG|2
+ner_3,Diabetes|MISC|2
+ner_4,Cell|MISC|2
+ner_5,Deng Hongkui|PER|2
+ner_6,C|MISC|2
+ner_7,Beijing China|LOC|2
+ner_8,Peking University|ORG|2
+ner_9,Isle|MISC|2
+ner_10,##dgets|ORG|1

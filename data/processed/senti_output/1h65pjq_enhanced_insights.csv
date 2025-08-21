@@ -1,0 +1,49 @@
+metric,value
+file,1h65pjq.csv
+title,"The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link"
+rows,130
+num_posts,1
+num_comments,129
+unique_authors,86
+max_depth,7
+avg_comment_words,56.81
+median_comment_words,48.0
+max_comment_words,239
+positive_count,31
+negative_count,98
+neutral_count,0
+positive_pct,24.031
+negative_pct,75.969
+neutral_pct,0.0
+topic_1_keywords,"steam, computer, play, games, link, like, use, room"
+topic_1_label,"Steam, computer, games, link"
+topic_2_keywords,"pi, also, sure, steam, pretty, link, get, capable"
+topic_2_label,ipi is a pretty pi
+topic_3_keywords,"latency, back, second, always, streaming, tv, steam, hdmi"
+topic_3_label,hdmi streaming in tv
+topic_4_keywords,"games, pc, tv, gaming, need, latency, steam, controller"
+topic_4_label,Steam controllers need latency
+topic_5_keywords,"link, steam, wired, latency, im, point, issues, router"
+topic_5_label,router links steam and latency
+topic_6_keywords,"usb, like, hub, hdmi, bluetooth, cable, cables, sure"
+topic_6_label,hdmi likes cable
+top_ngram_1,steam link (54)
+top_ngram_2,steam deck (17)
+top_ngram_3,keyboard mouse (15)
+top_ngram_4,gaming pc (13)
+top_ngram_5,sure pi (12)
+top_ngram_6,games controller (12)
+top_ngram_7,pretty sure (11)
+top_ngram_8,kinda gave (10)
+top_ngram_9,gave stuff (10)
+top_ngram_10,stuff latency (10)
+ner_1,Steam Link|MISC|11
+ner_2,Valve|ORG|11
+ner_3,Steam Link|ORG|11
+ner_4,HD|MISC|9
+ner_5,Link|MISC|6
+ner_6,HDMI|MISC|6
+ner_7,Pi|MISC|6
+ner_8,Moon|MISC|5
+ner_9,PC|MISC|5
+ner_10,Steam|ORG|5

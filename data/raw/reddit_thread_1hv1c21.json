@@ -1,0 +1,1076 @@
+{
+  "post": {
+    "title": "HDMI version 2.2 adds support for bandwidth of up to 96Gbps",
+    "author": "a_Ninja_b0y",
+    "id": "1hv1c21",
+    "score": 949,
+    "created_utc": 1736176668.0,
+    "selftext": "",
+    "num_comments": 127,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hv1c21/hdmi_version_22_adds_support_for_bandwidth_of_up/"
+  },
+  "comments": [
+    {
+      "id": "m5pga3m",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1736176670.0,
+      "replies": []
+    },
+    {
+      "id": "m5pgsjh",
+      "author": "None",
+      "body": "Ultra96 is a great name, USB could learn from this.",
+      "score": 283,
+      "created_utc": 1736176836.0,
+      "replies": [
+        {
+          "id": "m5piw4x",
+          "author": "gdnt0",
+          "body": "Don\u2019t give them ideas:\n\n\u201cOh you want a name that tells you the speed clearly? We got you! Introducing the new USB 120Gbps!!\n\nThe 1 means the minimum supported USB version, 2 is the amount of ground wires in this cable, 0 is the amount of fucks we give, G means 45, b means 7, p means \u201c-2\u201d and s obviously means \u201cGigabits per second\u201d, so this makes it very easy to understand that it supports 50Gbps\u201d",
+          "score": 321,
+          "created_utc": 1736177513.0,
+          "replies": [
+            {
+              "id": "m5qy3od",
+              "author": "CompromisedToolchain",
+              "body": "This person has been around. Microsoft and the USB group compete for worst naming schemes and worst named products.",
+              "score": 51,
+              "created_utc": 1736192874.0,
+              "replies": []
+            },
+            {
+              "id": "m5sjlig",
+              "author": "buckX",
+              "body": "We're already so used to the 20 Gbps USB 3.2 Gen 2x2, so I'd rather keep it simple with USB 3.2 Gen 2x2.1x3.",
+              "score": 28,
+              "created_utc": 1736210458.0,
+              "replies": [
+                {
+                  "id": "m5thxbs",
+                  "author": "snowdn",
+                  "body": "99 Gbp/s /s",
+                  "score": 5,
+                  "created_utc": 1736222269.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m5t6aw7",
+              "author": "SQL617",
+              "body": "Sounds like flashlights or truck horns on Amazon. The number of truck horns titled \u201c600db\u201d, where 600-DB is the model number is hilarious. 600 decibels would be enough to collapse the known universe into a black hole. \n\nThe loudest recorded sound in history was the Krakatoa Volcano eruption in 1863 at 180db. The sound wave caused tsunamis and earthquakes halfway around the world. Decibels are logarithmic, 600db would be 10,000,000,000,000,000,000,000,000,000,000,000,000,000,000 (or approximately 10^40) times louder. Most consumers eat shit like this up, convinced they\u2019re going to purchase a $14 truck horn capable of a Thanos snap.",
+              "score": 18,
+              "created_utc": 1736218132.0,
+              "replies": []
+            },
+            {
+              "id": "m5rmu34",
+              "author": "ReallyExpensiveYams_",
+              "body": "I mean, that\u2019s pretty much how welding wires are named. It\u2019s really not an issue.",
+              "score": 3,
+              "created_utc": 1736199980.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m5pqx82",
+          "author": "YellowThirteen_",
+          "body": "USB consortium would name the 18gbps cable Ultra96",
+          "score": 51,
+          "created_utc": 1736180030.0,
+          "replies": [
+            {
+              "id": "m5s0de5",
+              "author": "pastrynugget",
+              "body": "USB 3.5 Ultra96 by 18 Gigaspeed",
+              "score": 5,
+              "created_utc": 1736204129.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m5pj04i",
+          "author": "alexanderpas",
+          "body": "USB has similar names.\n\n\n- \"USB Low Speed\" for USB 1.0\n- \"USB Full Speed\" for USB 1.1\n- \"USB High Speed\" for USB 2.0\n- \"USB SuperSpeed\" for USB 3.0\n- \"USB SuperSpeed+\" for USB 3.1 Gen 2\n- \"USB SuperSpeed+ 20Gbps\" for USB 3.2 Gen 2x2\n- \"USB4 20 Gbps\"\n- \"USB4 40 Gbps\"\n- \"USB4 80 Gbps\"",
+          "score": 29,
+          "created_utc": 1736177549.0,
+          "replies": [
+            {
+              "id": "m5q3uso",
+              "author": "igby1",
+              "body": "What about charging",
+              "score": 14,
+              "created_utc": 1736183877.0,
+              "replies": [
+                {
+                  "id": "m5qppcs",
+                  "author": "alexanderpas",
+                  "body": "Before the introduction of USB Power Delivery:\n\n- \"USB Low-power\" for 0.5W (100mA@5V) as part of USB 1.0\n- \"USB High-power\" for 2.5W (500mA@5V) as part of USB 1.0\n- \"USB Low-power SuperSpeed\" for 0.75W (150mA@5V) as part of USB 3.0\n- \"USB High-power SuperSpeed\" for 4.5W (900mA@5V) as part of USB 3.0\n- \"USB Battery Charging\" for for 7.5W (1.5A@5V)\n- \"USB SuperSpeed+\" for 7.5W (1.5mA@5V) as part of USB 3.1\n\nSince the introduction of USB Power delivery 1.0 with marked cables featuring a (mini/micro-)USB-B connection (depreciated)\n\n- \"USB Charger 10W\" for up to 10W (2A@5V)\n- \"USB Charger 18W\" for up to 18W (1.5A@12V)\n- \"USB Charger 36W\" for up to 36W (3A@12V)\n- \"USB Charger 60W\" for up to 60W (5A@12V)\n- \"USB Charger 60W\" for up to 60W (3A@20V)\n- \"USB Charger 100W\" for up to 100W (5A@20V)\n\nSince the introduction of USB Power Delivery 2.0 when using cables featuring a USB-C connection\n\n- \"USB Charger 15W\" for up to 15W (3A@5V) for 5V in USB-PD 2.0 SPR\n- \"USB Charger 27W\" for up to 27W (3A@9V) for 9V in USB-PD 2.0 SPR\n- \"USB Charger 45W\" for up to 45W (3A@15V) for 15V in USB-PD 2.0 SPR\n- \"USB Charger 60W\" for up to 60W (3A@20V) for 20V in USB-PD 2.0 SPR\n- \"USB Charger 100W\" for up to 100W (5A@20V) for 20V in USB-PD 2.0 SPR with a 5A or 100W marked cable.\n- \"USB Fast Charger xxW\" for up to 63W (3A@21V) for 3.3V to 21V in USB-PD 3.0 using USB-PPS\n- \"USB Fast Charger xxW\" for up to 105W (5A@21V) for 3.3V to 21V in USB-PD 3.0 using USB-PPS with a 5A or 100W marked cable.\n- \"USB Charger 140W\" for up to 140W (5A@24V) for 28V in USB-PD 3.1 EPR with a 240W marked cable.\n- \"USB Charger 180W\" for up to 180W (5A@36V) for 36V in USB-PD 3.1 EPR with a 240W marked cable.\n- \"USB Charger 240W\" for up to 240W (5A@48V) for 48V in USB-PD 3.1 EPR with a 240W marked cable.\n- \"USB Fast Charger xxxW\" for up to 240W (5A@48V) for 15V to 48V in USB-PD 3.1 using USB-AVS with a 240W marked cable.",
+                  "score": 32,
+                  "created_utc": 1736190428.0,
+                  "replies": [
+                    {
+                      "id": "m5ry9op",
+                      "author": "Turkish_primadona",
+                      "body": "Jesus fuck",
+                      "score": 18,
+                      "created_utc": 1736203467.0,
+                      "replies": [
+                        {
+                          "id": "m5sdeyx",
+                          "author": "alexanderpas",
+                          "body": "It's actually pretty simple:\n\nWithout USB Power Delivery, Basic power is linked to the USB speed, with the exception of USB Battery Charging\n\nWith Power delivery, you essentially have the following options:\n\n- USB Charger xxxW\n- USB Fast Charger xxxW\n\nWhere xxxW is the actual wattage that can be provided\n\nAnd the difference is that a USB Fast Charger supports PPS/AVS in addition to PD.",
+                          "score": 3,
+                          "created_utc": 1736208414.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m5rfho7",
+                      "author": "happyjello",
+                      "body": ".",
+                      "score": 1,
+                      "created_utc": 1736197863.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m5r2rnh",
+              "author": "EPICANDY0131",
+              "body": "Where\u2019s \n\nUSB I threw out the box and now can\u2019t tell which of the 50 versions it is",
+              "score": 10,
+              "created_utc": 1736194217.0,
+              "replies": [
+                {
+                  "id": "m5w6yiz",
+                  "author": "alexanderpas",
+                  "body": "Certified cables have markings stating the data speed (Unmarked/5G/10G/20G/40G/80G) and/or charge speed (Unmarked/5A/100W/240W) on both ends for USB-C cables, or can be physically distinguished based on shape for cables with an USB-B plug.\n\nUSB-A to USB-B cables are always USB High Speed cables, unless they have the additional physical SuperSpeed expansion on the USB-B side.\n\nUnmarked cables featuring a USB-C port always support USB High Speed, as well as up to 60W (3A@20V) charging.",
+                  "score": 2,
+                  "created_utc": 1736267621.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5phukm",
+          "author": "Starfox-sf",
+          "body": "USB69",
+          "score": 10,
+          "created_utc": 1736177177.0,
+          "replies": [
+            {
+              "id": "m5pja32",
+              "author": "King_Tamino",
+              "body": "Nice",
+              "score": 2,
+              "created_utc": 1736177637.0,
+              "replies": [
+                {
+                  "id": "m5pk12g",
+                  "author": "Starfox-sf",
+                  "body": "USB-C already introduced safe mating practices. You don\u2019t need to flip the connector 3 times before it goes in.",
+                  "score": 10,
+                  "created_utc": 1736177878.0,
+                  "replies": [
+                    {
+                      "id": "m5podyn",
+                      "author": "King_Tamino",
+                      "body": "What?",
+                      "score": -6,
+                      "created_utc": 1736179243.0,
+                      "replies": [
+                        {
+                          "id": "m5ppezr",
+                          "author": "Starfox-sf",
+                          "body": "https://www.howtogeek.com/713525/the-usb-paradox-why-do-usb-connections-need-three-tries/",
+                          "score": -1,
+                          "created_utc": 1736179564.0,
+                          "replies": [
+                            {
+                              "id": "m5qoyk2",
+                              "author": "The_Chief_of_Whip",
+                              "body": "Why are you being upvoted when you clearly missed the joke?",
+                              "score": 2,
+                              "created_utc": 1736190207.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "m5pqh43",
+                              "author": "King_Tamino",
+                              "body": "Yeah but why are you writing me that?",
+                              "score": -5,
+                              "created_utc": 1736179892.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m5qxhqm",
+                  "author": "OneSkepticalOwl",
+                  "body": "NICE",
+                  "score": 1,
+                  "created_utc": 1736192700.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5qqwfs",
+          "author": "WillisnotFunny",
+          "body": "not to be confused with the Logic album Ultra85.",
+          "score": 2,
+          "created_utc": 1736190781.0,
+          "replies": [
+            {
+              "id": "m5rlbjc",
+              "author": "Megaman1981",
+              "body": "or the original name for the Nintendo 64, Ultra 64",
+              "score": 4,
+              "created_utc": 1736199540.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m5ro8d7",
+          "author": "garry4321",
+          "body": "USB Ultra96 3.5 2.0",
+          "score": 1,
+          "created_utc": 1736200390.0,
+          "replies": []
+        },
+        {
+          "id": "m5ru56q",
+          "author": "lunat1c_",
+          "body": "Usb version 9 gen 6 incoming",
+          "score": 1,
+          "created_utc": 1736202178.0,
+          "replies": []
+        },
+        {
+          "id": "m5rlstv",
+          "author": "cbrown146",
+          "body": "Why no Ultra69? Asking for a friend.",
+          "score": -1,
+          "created_utc": 1736199679.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5prs8o",
+      "author": "krectus",
+      "body": "Nice. I look forward to 10% of devices adopting this over the next 5 years and then finally more after that when 2.3 is released and this is obsolete.",
+      "score": 209,
+      "created_utc": 1736180292.0,
+      "replies": [
+        {
+          "id": "m5qkf5n",
+          "author": "DurtyKurty",
+          "body": "I can't wait to use it for all my Netflix 15mbps content!",
+          "score": 56,
+          "created_utc": 1736188701.0,
+          "replies": []
+        },
+        {
+          "id": "m5s0359",
+          "author": "thedoc90",
+          "body": "And no Linux support!",
+          "score": 5,
+          "created_utc": 1736204041.0,
+          "replies": []
+        },
+        {
+          "id": "m5swkyt",
+          "author": "Fredasa",
+          "body": "What I'm looking for is cable makers upholding the tradition of not marking anywhere on the cable what standard the thing supports.",
+          "score": 8,
+          "created_utc": 1736214776.0,
+          "replies": []
+        },
+        {
+          "id": "m5qsx2y",
+          "author": "Optimus_Prime_Day",
+          "body": "Nvidia shield hdmi 2.1 please...",
+          "score": 9,
+          "created_utc": 1736191367.0,
+          "replies": []
+        },
+        {
+          "id": "m5svasy",
+          "author": "North_Shore_Problem",
+          "body": "Don't forget having to carefully read through every TV spec to figure out which version its ports are",
+          "score": 3,
+          "created_utc": 1736214341.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5phjje",
+      "author": "thecist",
+      "body": "Which resolution/refresh pairs does 96gbps enable?",
+      "score": 49,
+      "created_utc": 1736177080.0,
+      "replies": [
+        {
+          "id": "m5pmqxy",
+          "author": "poohisface",
+          "body": "8K60 @ 10bpp comes in at a little over 71Gbps",
+          "score": 78,
+          "created_utc": 1736178734.0,
+          "replies": [
+            {
+              "id": "m5pnufh",
+              "author": "GMorristwn",
+              "body": "Assume the rest of the headroom is for audio?",
+              "score": 26,
+              "created_utc": 1736179076.0,
+              "replies": [
+                {
+                  "id": "m5ppyao",
+                  "author": "poohisface",
+                  "body": "Yeah it'll be for Atmos and multi-channel audio, and possibly ethernet to some extent as well. The 96Gbps bandwidth would also allow for 12-bit colour @ 8K60 at 83Gbps - but neither 120Hz or 16-bit colour is possible as that requires well over 100Gbps.",
+                  "score": 32,
+                  "created_utc": 1736179732.0,
+                  "replies": [
+                    {
+                      "id": "m5qapsg",
+                      "author": "gramathy",
+                      "body": "I'm still upset that ethernet injection isn't a thing for TVs to cut the cable count down to one",
+                      "score": 17,
+                      "created_utc": 1736185879.0,
+                      "replies": [
+                        {
+                          "id": "m5qx6o8",
+                          "author": "im_thatoneguy",
+                          "body": "[What Is A Hdmi Cable With Ethernet | Robots.net](https://robots.net/tech/what-is-a-hdmi-cable-with-ethernet/)\n\n>HDMI cables labeled as High-Speed HDMI (Category 2) do support Ethernet.\n\nIt's in the spec. But nobody used it.",
+                          "score": 12,
+                          "created_utc": 1736192612.0,
+                          "replies": [
+                            {
+                              "id": "m5ri0mu",
+                              "author": "gramathy",
+                              "body": "oh I know, I mean actual hardware that lets you do it\n\nyou'd have to support it on both ends since it would be active integration into the data stream , or have special boxes for it which would defeat the purpose",
+                              "score": 6,
+                              "created_utc": 1736198587.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m5qva0w",
+                          "author": "DaoFerret",
+                          "body": "I\u2019m happy it isn\u2019t a thing.  \n\nI don\u2019t want my TV on the internet and don\u2019t want my HDMI cable trying to hijack a network connection to get it online.  \n\n(Probably what WILL make that happen at some point)",
+                          "score": 9,
+                          "created_utc": 1736192054.0,
+                          "replies": [
+                            {
+                              "id": "m5ricw3",
+                              "author": "gramathy",
+                              "body": "I don't need my TV on the internet either but that's a DHCP reservation and a firewall rule, not necessarily needing to airgap it. I like being able to airplay to my TV and allowing specific services to pass through that I can dictate while blocking ads (I dns block ads via pihole and it works pretty well for general stuff). I'm more upset about things like miracast not being supported over wired networks.\n\nThe ethernet channel would need to be supported and active on both devices and wouldn't \"hijack\" anything",
+                              "score": 2,
+                              "created_utc": 1736198684.0,
+                              "replies": [
+                                {
+                                  "id": "m5sz8ib",
+                                  "author": "theforgottenluigi",
+                                  "body": "Except in this instance it will likely be single / triple Nat\u2019d so as long as something along the hdmi chain has LAN everything does",
+                                  "score": 1,
+                                  "created_utc": 1736215679.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m5q0bs0",
+                      "author": "towelheadass",
+                      "body": "what content is available at this resolution? We still don't even have everything on 4k UHD Blu Rays.",
+                      "score": 5,
+                      "created_utc": 1736182836.0,
+                      "replies": [
+                        {
+                          "id": "m5qyvx7",
+                          "author": "poohisface",
+                          "body": "Not much tbh, this is more for commercial and corporate environments than anything consumer",
+                          "score": 3,
+                          "created_utc": 1736193096.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m5qbkcm",
+                          "author": "gramathy",
+                          "body": "You can play games at 8k60 but it requires some serious horsepower\n\nalso useful for some professional applications but 60fps may not be necessary for those",
+                          "score": 4,
+                          "created_utc": 1736186123.0,
+                          "replies": [
+                            {
+                              "id": "m5qv107",
+                              "author": "Optimus_Prime_Day",
+                              "body": "Not yet, but maybe by PS7, or Xbox4000, when this standard is commonly available.",
+                              "score": 1,
+                              "created_utc": 1736191980.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m5qopwq",
+                      "author": "andycarson8",
+                      "body": "What about lower resolutions and higher refresh rates? Probably won\u2019t compete with hdmi or dp for gaming due to the usb controller latency but still neat.",
+                      "score": 3,
+                      "created_utc": 1736190135.0,
+                      "replies": [
+                        {
+                          "id": "m5r04d5",
+                          "author": "poohisface",
+                          "body": "This would allow for 4K240, which is pretty absurd. You can play around with the calculations here: https://www.kramerav.com/bandwidth-calculator/",
+                          "score": 4,
+                          "created_utc": 1736193446.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m5pppdv",
+                  "author": "None",
+                  "body": "There\u2019s +500hz monitors available now, so any extra bandwidth is good.\n\nI bought a ultrawide 1440p monitor that\u2019s 240hz and it basically requires the entire hdmi 2.1 bandwidth to run at 10 bit color @240hz without display stream compression.",
+                  "score": 5,
+                  "created_utc": 1736179656.0,
+                  "replies": [
+                    {
+                      "id": "m5qbnjl",
+                      "author": "gramathy",
+                      "body": "I'm still waiting for reasonable HDR support that doesnt fuck other things up",
+                      "score": 3,
+                      "created_utc": 1736186149.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m5pr4h5",
+                      "author": "get_homebrewed",
+                      "body": "but you don't really use HDMI on monitors...",
+                      "score": -9,
+                      "created_utc": 1736180091.0,
+                      "replies": [
+                        {
+                          "id": "m5prjbw",
+                          "author": "None",
+                          "body": "Well, people might have to start getting used to it. \n\nBecause the latest display port doesn\u2019t have enough bandwidth for higher refresh rates without DSC. And it\u2019s not like gpu\u2019s don\u2019t come with HDMI.",
+                          "score": 11,
+                          "created_utc": 1736180218.0,
+                          "replies": [
+                            {
+                              "id": "m5przj4",
+                              "author": "get_homebrewed",
+                              "body": "GPUs do come with HDMI, but it's usually just one, and not even 2.1 for most cards. The rest is displayport, as it should be. Plus this really doesn't matter, it's not like there won't be a displaport 2.2 that will do over 100gbps or something crazy, it's a never ending war.",
+                              "score": 2,
+                              "created_utc": 1736180354.0,
+                              "replies": [
+                                {
+                                  "id": "m5psvg5",
+                                  "author": "None",
+                                  "body": "\u2026\u2026but the higher refresh rates monitors are here now.\n\nDoesn\u2019t matter if display port gets their shit together 5 yrs from now. Gpu manufacturers will just start offering more hdmi ports eventually, when there\u2019s more hdmi 2.2 monitors on the market.\n\nThe Display port consortium got complacent and now they\u2019re 7 yrs behind.",
+                                  "score": 2,
+                                  "created_utc": 1736180623.0,
+                                  "replies": [
+                                    {
+                                      "id": "m5ptb1t",
+                                      "author": "get_homebrewed",
+                                      "body": "It doesn't matter if the higher refresh rate monitors are here now. None of them have HDMI 2.2, and none of the GPUs have HDMI 2.2\n\nDisplayport is not 7 years behind??? Just because they didn't jump the gun to report bigger number on the market? Especially since HDMI is already so incredibly flaky, this is probably even worse.",
+                                      "score": -3,
+                                      "created_utc": 1736180754.0,
+                                      "replies": [
+                                        {
+                                          "id": "m5puekm",
+                                          "author": "None",
+                                          "body": "Yes display port is 7 years behind. And will be 3-5 years more behind by the time they release a competitor to hdmi 2.2.\n\nAnd guess what, we\u2019ll probably see hdmi 2.2 compatible gpu\u2019s before the end of this year, with the RTX 5000 series, if the leaks are to be believed.\n\nHDMI is about as flakey as DP, none of them are analog. So they either work perfectly or not at all.",
+                                          "score": 1,
+                                          "created_utc": 1736181084.0,
+                                          "replies": [
+                                            {
+                                              "id": "m5pwuu6",
+                                              "author": "JMccovery",
+                                              "body": "DP 2.1b UHBR20 is pretty close to HDMI 2.2 (80gbps vs 96gbps), and apparently will be supported on upcoming GPUs.",
+                                              "score": 2,
+                                              "created_utc": 1736181814.0,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "m5r007x",
+                                              "author": "redkeyboard",
+                                              "body": "I was so disappointed that my 3090 only has one HDMI 2.1 port. Luckily splitters work well for my use case but it really seems like HDMI is the way to go now.",
+                                              "score": 1,
+                                              "created_utc": 1736193412.0,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "m5pv3lf",
+                                              "author": "get_homebrewed",
+                                              "body": "HDMI's signaling scheme is much flakier than displayport. I've seen HDMI cause snow and have other weird image issues, while displayport never has. And congrats to the 2.2 HDMI GPUs that we will see (not in the 50 series) but they will still mostly be displayport. Refer to my previous reply as to why",
+                                              "score": 1,
+                                              "created_utc": 1736181292.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m5q8562",
+                          "author": "nick4fake",
+                          "body": "What?",
+                          "score": 0,
+                          "created_utc": 1736185131.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m5swppg",
+              "author": "Fredasa",
+              "body": "That's frankly pathetic.  Maybe I'm eyeballing 8K, but I'm sure not going to give up 120+ Hz after being on it for years.  And that's not even some kind of prosumer standard\u2014every TV gives me that.",
+              "score": 1,
+              "created_utc": 1736214820.0,
+              "replies": [
+                {
+                  "id": "m5zlklq",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 2,
+                  "created_utc": 1736305238.0,
+                  "replies": [
+                    {
+                      "id": "m60fqje",
+                      "author": "Fredasa",
+                      "body": "You might imagine... but the reality is that I can already play games in 8K depending on the circumstances, that will become more of a reality as time progresses, and there are effectively zero movies or media in general in 8K, nor is that likely to change even when 8K starts to become more than a meme.\n\nBut what I'm really thinking about is productivity.  I use a 55 inch 4K TV as my monitor not only because gaming is uniquely visceral but also because the landscape of all that FOV makes day to day apps just an absolute joy to use.  I'll never go back.  I also won't drop down from 120Hz because I'm too used to the responsiveness and other conveniences tied to that refresh rate.  It's really kind of gobsmacking that HDMI's as-yet-unreleased standard can't give me the only step up from what I'm currently using that makes any sense.\n\nI feel like the folks behind display formats are leaning on compression the same way GPU makers (and thus game designers) are beginning to lean on frame generation and such.  Halfway measures whose artifacts 95% of folks are incapable of noticing, leaving us 5% out to dry.",
+                      "score": 0,
+                      "created_utc": 1736318395.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5phy35",
+          "author": "marcusbrothers",
+          "body": "1080p, 9million Hz",
+          "score": 27,
+          "created_utc": 1736177209.0,
+          "replies": [
+            {
+              "id": "m5qkbqo",
+              "author": "ChillAMinute",
+              "body": "lol. Exactly.",
+              "score": 1,
+              "created_utc": 1736188673.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m5r1gv3",
+          "author": "maccollo",
+          "body": "The theoretical max uncompressed refresh rate is  \nbitrate/(pixelCount \\* bitsPerPixel)\n\nPixel count is just the product of the vertical and horizontal resoltuion. Bits per pixel is 24 or 30 depending on if it's HDR or not. So the max refresh rate should be about 360 fps at 4k with HDR.",
+          "score": 2,
+          "created_utc": 1736193836.0,
+          "replies": []
+        },
+        {
+          "id": "m5s5886",
+          "author": "LeCrushinator",
+          "body": "Quite a few, but not many that would be common in 2024.\n\n4k @ 240hz for example would be possible but for video games there aren't many computers and games that would be able to reach that.\n\nOr 8k @ 60hz.",
+          "score": 2,
+          "created_utc": 1736205700.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5qx3mz",
+      "author": "BlastMyLoad",
+      "body": "And the cord is gonna be 1 foot long!",
+      "score": 15,
+      "created_utc": 1736192588.0,
+      "replies": []
+    },
+    {
+      "id": "m5rxnte",
+      "author": "Syrairc",
+      "body": "Can't wait to have one more HDMI standard indistinguishable from the rest so cheap manufacturers can sell knockoffs that barely comply with the original standard but are marketed as the latest.",
+      "score": 7,
+      "created_utc": 1736203277.0,
+      "replies": []
+    },
+    {
+      "id": "m5pi759",
+      "author": "okvrdz",
+      "body": "Still no support for connecting it in the right orientation on the first try. /s",
+      "score": 28,
+      "created_utc": 1736177290.0,
+      "replies": [
+        {
+          "id": "m5pkfbh",
+          "author": "toooni",
+          "body": "Sure there is! Always, ALWAYS switch before trying. It\u2019s always the other way around.",
+          "score": 5,
+          "created_utc": 1736178004.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5pkdyl",
+      "author": "Slightlydifficult",
+      "body": "I\u2019d rather TVs just get thunderbolt at this point.",
+      "score": 39,
+      "created_utc": 1736177992.0,
+      "replies": [
+        {
+          "id": "m5pmgub",
+          "author": "w1n5t0nM1k3y",
+          "body": "Personally I'd rather they just went straight to optical connectors. There's so many issues with copper cables where they don't actual provide the speeds they need to. USB is such a mess. You can never really be sure that you will get the speed you need. With the higher throughput cables, the distances that they actually work over are ridiculously short.  With the price of copper, optical cables are much more afforadable at this point.",
+          "score": 50,
+          "created_utc": 1736178645.0,
+          "replies": [
+            {
+              "id": "m5qatne",
+              "author": "popeter45",
+              "body": "I would dread trying to teach my mum how to clean single mode LC fibre but would be so nice especially for long runs",
+              "score": 5,
+              "created_utc": 1736185910.0,
+              "replies": [
+                {
+                  "id": "m5rmu9o",
+                  "author": "NotRonaldKoeman",
+                  "body": "click sticks and kim wipes abound",
+                  "score": 2,
+                  "created_utc": 1736199981.0,
+                  "replies": [
+                    {
+                      "id": "m5rouv5",
+                      "author": "popeter45",
+                      "body": "\"no mum you dont understand!, its for cleaning fiber optics!\"",
+                      "score": 5,
+                      "created_utc": 1736200573.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m5q2bv4",
+              "author": "celaconacr",
+              "body": "You can get active optical cables for both USB and thunderbolt. The original plan for thunderbolt (lightpeak at the time) was optical cables. They went with copper for a few reasons it was still a lot cheaper, you needed copper if you wanted to supply power, its more durable including turning tighter corners. \n\nThey did say at the time copper would reach its limits around 100Gbps and short cable lengths.",
+              "score": 6,
+              "created_utc": 1736183429.0,
+              "replies": [
+                {
+                  "id": "m5q31l8",
+                  "author": "w1n5t0nM1k3y",
+                  "body": "Sure, but then you have to get a media converter box for both ends. For a display you don't need power transmission. It would make a lot more sense to use optical cables for displays, especially stationary stuff like TVs  because  you don't really have tot worry that much about fragile cables if you aren't going to be moving them all the time.",
+                  "score": 8,
+                  "created_utc": 1736183640.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m5r09m2",
+              "author": "redkeyboard",
+              "body": "You can get fiber optic HDMI cables for cheap now. It's awesome having 100' cables connected to multiple TVs in my house",
+              "score": 1,
+              "created_utc": 1736193488.0,
+              "replies": [
+                {
+                  "id": "m5s44zp",
+                  "author": "mad_scrub",
+                  "body": "What's the use case for multiple TVs? You can run a gaming PC to multiple TVs? Any other special hardware required?",
+                  "score": 2,
+                  "created_utc": 1736205344.0,
+                  "replies": [
+                    {
+                      "id": "m5s5h3x",
+                      "author": "redkeyboard",
+                      "body": "I can play in my living room. I can play in my basement theater room. If I'm doing a board game type video game or watching football or something I can have it on my other basement tv and see it too. Nice when I'm working out in my gym or something. I also use Moonlight currently to get it on my garage or outside but one day that might get hardwired lol.\n\nIf your GPU has multiple HDMI ports you can just duplicate but i think it might break things like HDR. I use an HDMI 2.1 splitter and it works, 4k 120hz on my living room and basement, mine even downscales for the other TVs too (isn't always perfect but I like this feature)",
+                      "score": 2,
+                      "created_utc": 1736205780.0,
+                      "replies": [
+                        {
+                          "id": "m5s6zpm",
+                          "author": "mad_scrub",
+                          "body": "Interesting! Thanks.\n\nWhen I looked a couple of years ago, I couldn't find a decent HDMI 2.1 splitter.",
+                          "score": 1,
+                          "created_utc": 1736206284.0,
+                          "replies": [
+                            {
+                              "id": "m5sds4g",
+                              "author": "redkeyboard",
+                              "body": "Yeah I actually think I created a post a year or two ago asking for help lol. No one answered but I should post an update. I now use a splitter called OREI 8k splitter which has 4 output. You can find on amazon",
+                              "score": 3,
+                              "created_utc": 1736208537.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5pqqan",
+          "author": "None",
+          "body": "What? I don\u2019t think you know what thunderbolt is. What would a tv do with PCIe lanes?",
+          "score": 9,
+          "created_utc": 1736179970.0,
+          "replies": [
+            {
+              "id": "m5puh5a",
+              "author": "HabaneroEyedrops",
+              "body": "An apple fan that has bought into \"thunderbolt is better than USB\", I guess.",
+              "score": 16,
+              "created_utc": 1736181106.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5puvfp",
+      "author": "AbbeyRoad75",
+      "body": "BUT I JUST BOUGHT A HDMI 2.1 RECIEVER!!!! I mean I should update my cabinet CRT first, but I just bought new technology and I\u2019m already out of date.\n\n![gif](giphy|KeTVw7VjcTJok)",
+      "score": 8,
+      "created_utc": 1736181225.0,
+      "replies": [
+        {
+          "id": "m5qjw2q",
+          "author": "Pheonix1025",
+          "body": "Well, if it\u2019s anything like the HDMI 2.1 rollout, initial receivers will have like one 2.1 port and cost over 1,000$.",
+          "score": 9,
+          "created_utc": 1736188546.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5ppwj4",
+      "author": "Lunarcomplex",
+      "body": "Yo 4k420 let's goooo",
+      "score": 6,
+      "created_utc": 1736179717.0,
+      "replies": []
+    },
+    {
+      "id": "m5pmqpw",
+      "author": "splitfinity",
+      "body": "We don't really even have 2.1 yet.  So I'll get to see people botching about 2.2 support being missing for the next 4 years?",
+      "score": 6,
+      "created_utc": 1736178732.0,
+      "replies": [
+        {
+          "id": "m5qjjea",
+          "author": "Pheonix1025",
+          "body": "What do you mean? What is missing HDMI 2.1 that hasn\u2019t gotten it yet?",
+          "score": 5,
+          "created_utc": 1736188445.0,
+          "replies": [
+            {
+              "id": "m5qlirc",
+              "author": "physeK",
+              "body": "Open-source AMD graphics drivers on Linux, unfortunately\u2026",
+              "score": 8,
+              "created_utc": 1736189160.0,
+              "replies": [
+                {
+                  "id": "m5qmnx6",
+                  "author": "Pheonix1025",
+                  "body": "Ah, that is unfortunate. Thanks for the heads-up, I had no idea",
+                  "score": 7,
+                  "created_utc": 1736189526.0,
+                  "replies": [
+                    {
+                      "id": "m5qn3dk",
+                      "author": "physeK",
+                      "body": "Yep, really makes using TVs (like the LG C4, for instance) a pain. You can get a janky cable that kinda works to do DisplayPort to HDMI which kinda gets you 4K120 in the full 4:4:4 colorspace, but it\u2019s not without its faults. On Windows with the same GPU, TV, and HDMI cable, I can have 4K@144hz without any issues.",
+                      "score": 2,
+                      "created_utc": 1736189656.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5s4z8m",
+      "author": "fedexmess",
+      "body": "Is it not possible to reduce the diameter of the cables so I don't feel like a pipe fitter while doing cable management?? It would also reduce the stress on the delicate flower of a port since the cable wouldn't be putting as much leverage on it, should it be moved while plugged in.",
+      "score": 2,
+      "created_utc": 1736205619.0,
+      "replies": [
+        {
+          "id": "m5ur6pu",
+          "author": "Neo_Techni",
+          "body": "The one that came with the analogue pocket is very thin",
+          "score": 1,
+          "created_utc": 1736247365.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5tn1yf",
+      "author": "Riversntallbuildings",
+      "body": "Just make all the connections USB-C already.",
+      "score": 2,
+      "created_utc": 1736224339.0,
+      "replies": []
+    },
+    {
+      "id": "m5r8fok",
+      "author": "VerifiedPersonae",
+      "body": "We don't need this, we need a post scarcity economy with universal basic income",
+      "score": 2,
+      "created_utc": 1736195854.0,
+      "replies": []
+    },
+    {
+      "id": "m5ppofn",
+      "author": "junktrunk909",
+      "body": "What I find interesting and confusing is that home builders near me have apparently decided nobody uses HDMI or Ethernet anymore and don't even run lines in the walls, not even for access points.",
+      "score": 4,
+      "created_utc": 1736179647.0,
+      "replies": [
+        {
+          "id": "m5remri",
+          "author": "SirUseless1",
+          "body": "Why would you put an hdmi Port on the wall? What am i missing?",
+          "score": 3,
+          "created_utc": 1736197616.0,
+          "replies": [
+            {
+              "id": "m5rq05u",
+              "author": "JMGurgeh",
+              "body": "Sometimes people do it so you can hide all the equipment away in a utility room/closet, so you just need a power outlet and HDMI port for each display device in the house. Looks very clean, and with custom equipment/controllers it can work pretty well (for a generation, anyway, then there are inevitably incompatibilities and the built-in stuff either gets abandoned or you spend a fortune redoing it).",
+              "score": 2,
+              "created_utc": 1736200913.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m5r3qlc",
+          "author": "-Dixieflatline",
+          "body": "What I find interesting and confusing is that you're somehow getting downvoted for pointing out the dumbass home builders near you.",
+          "score": 5,
+          "created_utc": 1736194496.0,
+          "replies": []
+        },
+        {
+          "id": "m5q82q4",
+          "author": "NuPNua",
+          "body": "When have they ever put that stuff in walls of most domestic properties? You get a coaxial for digital TV and a phone line for the BT network at best.",
+          "score": 5,
+          "created_utc": 1736185111.0,
+          "replies": [
+            {
+              "id": "m5qdwz5",
+              "author": "junktrunk909",
+              "body": "Most new construction put Ethernet and cable in all the typical rooms. Agreed that HDMI wasn't commonly dropped by default though. But now they're not doing anything at all in some buildings, just the main connection coming from ISP. It's super weird to me.",
+              "score": 5,
+              "created_utc": 1736186807.0,
+              "replies": [
+                {
+                  "id": "m5r0h76",
+                  "author": "redkeyboard",
+                  "body": "Most people probably just use wireless and forget about it I'm guessing",
+                  "score": 1,
+                  "created_utc": 1736193548.0,
+                  "replies": []
+                },
+                {
+                  "id": "m5qe8iq",
+                  "author": "NuPNua",
+                  "body": "Must be happening elsewhere, I've never seen that in the UK outside of student halls.",
+                  "score": 1,
+                  "created_utc": 1736186902.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m5qn6mi",
+              "author": "SirPancakesIII",
+              "body": "I have network runs in various areas of my house. There is a patch panel in a closet that houses my router, and then routes to all of the various rooms so I can get wired connection in all of them.",
+              "score": 1,
+              "created_utc": 1736189684.0,
+              "replies": [
+                {
+                  "id": "m5qq212",
+                  "author": "NuPNua",
+                  "body": "Was it there when it was built or did you add it?",
+                  "score": 1,
+                  "created_utc": 1736190532.0,
+                  "replies": [
+                    {
+                      "id": "m5qu8vs",
+                      "author": "SirPancakesIII",
+                      "body": "Was all there originally",
+                      "score": 1,
+                      "created_utc": 1736191753.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5rtziq",
+      "author": "None",
+      "body": "I really wish they'd drop the crappy HDMI port for a USB-C port. There is no reason to have a massive port that that  only fits one way, especially on a device where the port's are generally difficult to see and/accessaccess in many scenarios.",
+      "score": 2,
+      "created_utc": 1736202129.0,
+      "replies": []
+    },
+    {
+      "id": "m5ro7l0",
+      "author": "None",
+      "body": "Damnit I JUST bought my first 2.1 cable yesterday",
+      "score": 1,
+      "created_utc": 1736200384.0,
+      "replies": []
+    },
+    {
+      "id": "m5roac4",
+      "author": "wicktus",
+      "body": "it's good for the future, won't be on GPUs/TVs before a while obviously.\n\nI think it will be adopted way faster than DP2.1, DP2.1 had, and still has, many issues, especially the many UHBR10-20 types, the short length of the cables that force them to spawn 2.1a and now 2.1b at record speed etc.\n\nSo..yes I think in few years PS6, Nvidia Rubin etc we may see HDMI 2.2 widely available",
+      "score": 1,
+      "created_utc": 1736200406.0,
+      "replies": []
+    },
+    {
+      "id": "m5roxn7",
+      "author": "Puncho666",
+      "body": "One cable to rule them all",
+      "score": 1,
+      "created_utc": 1736200597.0,
+      "replies": []
+    },
+    {
+      "id": "m5urfw0",
+      "author": "RZ_1911",
+      "body": "lol . Another standard that no one will use at least in the next 4 years .. \n\n\u201cFinal standard will be released to adopters in the late 2025 .. \u201c\n\nMeans all new cards like 5xxx GeForce series debuted today will be 2.1 .. and the next series of cards as well . Since their project development in paper is done . And no one will redesign them .",
+      "score": 1,
+      "created_utc": 1736247521.0,
+      "replies": []
+    },
+    {
+      "id": "m5qfwc5",
+      "author": "mthsn",
+      "body": "Is it better than dvi now?",
+      "score": 0,
+      "created_utc": 1736187385.0,
+      "replies": [
+        {
+          "id": "m5rq6em",
+          "author": "JMGurgeh",
+          "body": "Do you mean DisplayPort? I think the current version of DP goes to ~80 Gbps.",
+          "score": 3,
+          "created_utc": 1736200965.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m5sqwz2",
+      "author": "EnvironmentalArm6557",
+      "body": "But will the 2025 samsung s95f have hdmi 2.2 ?",
+      "score": 0,
+      "created_utc": 1736212887.0,
+      "replies": []
+    },
+    {
+      "id": "m5r4nse",
+      "author": "MrFIXXX",
+      "body": "Too bad I have a monitor from 2015 and the stupid device simply won't stop turning on as needed.\n\nWill have to stick to this old DisplayPort.",
+      "score": -1,
+      "created_utc": 1736194762.0,
+      "replies": []
+    },
+    {
+      "id": "m5r8kv4",
+      "author": "DeadScotty",
+      "body": "Great, another way to get consumers to upgrade their AVR\u2019s and buy all new HDMI cables for tech with little chance of ever being fully utilized.",
+      "score": -2,
+      "created_utc": 1736195895.0,
+      "replies": []
+    },
+    {
+      "id": "m5rlmr6",
+      "author": "ExplosiveDisassembly",
+      "body": "Now if only they could make HDMI not wobble and twist in the port. \n\nUntil that day arrives, display port is the only acceptable port.",
+      "score": -2,
+      "created_utc": 1736199630.0,
+      "replies": []
+    },
+    {
+      "id": "m5qu52k",
+      "author": "origanalsameasiwas",
+      "body": "I don\u2019t understand why for a hdmi cable that fast. Please explain. I do understand about the usb transfer rate. Common use for hdmi is for the tv. I do understand that speed counts for displays/ monitors but isn\u2019t it just too fast for monitors and displays.",
+      "score": -2,
+      "created_utc": 1736191722.0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+metric,value
+file,1kgzlf9.csv
+title,DJI Teases a New Drone With a Spinning Triple Camera System
+rows,16
+num_posts,1
+num_comments,15
+unique_authors,16
+max_depth,3
+avg_comment_words,42.53
+median_comment_words,33.0
+max_comment_words,90
+positive_count,1
+negative_count,14
+neutral_count,0
+positive_pct,6.667
+negative_pct,93.333
+neutral_pct,0.0
+topic_1_keywords,"another, elise, maga, trying, politician, take, suuuckkkss, overpriced"
+topic_1_label,elise maga tries to take a suuuckkkss
+topic_2_keywords,"around, anzu, robotics, use, promise, gets, company, sale"
+topic_2_label,robotics 's use promises'
+topic_3_keywords,"need, landscape, like, another, camera, drones, price, dji"
+topic_3_label,drones for landscape
+topic_4_keywords,"low, kidney, tariff, left, post, 10000, price, sucks"
+topic_4_label,sucks price for kidneys
+topic_5_keywords,"drones, camera, world, thing, style, used, way, days"
+topic_5_label,drones used in the world
+topic_6_keywords,"dji, us, drones, 3x, theres, lawsuit, years, see"
+topic_6_label,drones in the us see lawsuit
+top_ngram_1,doesnt matter (5)
+top_ngram_2,matter theyll (5)
+top_ngram_3,theyll banned (5)
+top_ngram_4,banned us (5)
+top_ngram_5,us soon (5)
+top_ngram_6,soon theres (5)
+top_ngram_7,theres lawsuit (5)
+top_ngram_8,lawsuit stating (5)
+top_ngram_9,stating dji (5)
+top_ngram_10,dji owned (5)
+ner_1,DJ|MISC|9
+ner_2,US|LOC|8
+ner_3,##I|ORG|7
+ner_4,DJI|ORG|6
+ner_5,US|MISC|5
+ner_6,Chinese|MISC|5
+ner_7,DJI|MISC|3
+ner_8,Anzu Robotics|ORG|2
+ner_9,USA|LOC|2
+ner_10,Elise Stefanik|PER|2

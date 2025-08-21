@@ -1,0 +1,49 @@
+metric,value
+file,1lo6drf.csv
+title,Apple will reportedly release as many as 7 headsets and glasses between now and 2028
+rows,22
+num_posts,1
+num_comments,21
+unique_authors,13
+max_depth,7
+avg_comment_words,255.29
+median_comment_words,215.0
+max_comment_words,921
+positive_count,0
+negative_count,0
+neutral_count,21
+positive_pct,0.0
+negative_pct,0.0
+neutral_pct,100.0
+topic_1_keywords,"dont, people, glasses, still, vr, see, ar, point"
+topic_1_label,"vr, vr, vr, vr, vr"
+topic_2_keywords,"would, people, glasses, ar, like, vr, think, dont"
+topic_2_label,vr thinks glasses are not good for people
+topic_3_keywords,"vr, ar, still, glasses, way, much, quality, people"
+topic_3_label,glasses of ar and glasses of glasses
+topic_4_keywords,"vr, ar, think, even, like, dont, see, make"
+topic_4_label,"vr, ar, think"
+topic_5_keywords,"vr, brain, photorealistic, realistic, interface, movement, people, without"
+topic_5_label,"vr, brain, interface, movement, people without vr"
+topic_6_keywords,"production, market, pieces, making, transparent, ill, youre, using"
+topic_6_label,ill is a transparent product in the market
+top_ngram_1,ar glasses (18)
+top_ngram_2,dont see (13)
+top_ngram_3,look like (9)
+top_ngram_4,form factor (9)
+top_ngram_5,dont think (9)
+top_ngram_6,battery life (8)
+top_ngram_7,cool gimmick (8)
+top_ngram_8,vr headset (8)
+top_ngram_9,really dont (7)
+top_ngram_10,gimmick years (7)
+ner_1,Apple|ORG|5
+ner_2,iPhone|MISC|4
+ner_3,Quest 3|MISC|4
+ner_4,##Rcha|ORG|3
+ner_5,##cha|ORG|2
+ner_6,AR|MISC|2
+ner_7,Orion|MISC|2
+ner_8,Apple Vision Pro|MISC|2
+ner_9,Vision Protype|MISC|2
+ner_10,Apple|MISC|1

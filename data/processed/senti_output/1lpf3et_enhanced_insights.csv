@@ -1,0 +1,49 @@
+metric,value
+file,1lpf3et.csv
+title,"Nintendo Switch 2 Surpasses 5 Million Units Sold in First Month, Marking Historic Launch"
+rows,478
+num_posts,1
+num_comments,477
+unique_authors,300
+max_depth,14
+avg_comment_words,66.14
+median_comment_words,53.0
+max_comment_words,287
+positive_count,88
+negative_count,389
+neutral_count,0
+positive_pct,18.449
+negative_pct,81.551
+neutral_pct,0.0
+topic_1_keywords,"switch, new, first, nintendo, screen, like, oled, point"
+topic_1_label,"nintendo oled, point"
+topic_2_keywords,"better, one, switch, year, day, new, model, launch"
+topic_2_label,new model and launch
+topic_3_keywords,"switch, games, nintendo, people, console, one, dont, im"
+topic_3_label,"Switch games, console, one"
+topic_4_keywords,"switch, console, games, like, ps5, japanese, lot, even"
+topic_4_label,"Switch, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation, PlayStation"
+topic_5_keywords,"nintendo, one, buy, im, got, people, hard, stock"
+topic_5_label,nintendo buys one
+topic_6_keywords,"nintendo, games, switch, dont, people, game, would, device"
+topic_6_label,Nintendo Switch doesn't work on devices
+top_ngram_1,mario kart (36)
+top_ngram_2,nintendo games (34)
+top_ngram_3,people buy (30)
+top_ngram_4,one exclusive (28)
+top_ngram_5,switch games (25)
+top_ngram_6,dont understand (24)
+top_ngram_7,exclusive game (24)
+top_ngram_8,one exclusive game (24)
+top_ngram_9,shouldnt hard (24)
+top_ngram_10,get one (23)
+ner_1,Nintendo|ORG|279
+ner_2,Switch|MISC|107
+ner_3,Switch 2|MISC|73
+ner_4,Switch 1|MISC|55
+ner_5,PS5|MISC|31
+ner_6,Wii U|MISC|29
+ner_7,Japan|LOC|27
+ner_8,Japanese|MISC|25
+ner_9,iPad|MISC|24
+ner_10,Mac|MISC|18

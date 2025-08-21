@@ -1,0 +1,49 @@
+metric,value
+file,1jjlset.csv
+title,"Another blow for gamers as Zotac hikes RTX 5090 prices and removes MSRP models | Following in the footsteps of Asus, MSI, and others"
+rows,189
+num_posts,1
+num_comments,188
+unique_authors,135
+max_depth,8
+avg_comment_words,41.93
+median_comment_words,30.0
+max_comment_words,254
+positive_count,34
+negative_count,154
+neutral_count,0
+positive_pct,18.085
+negative_pct,81.915
+neutral_pct,0.0
+topic_1_keywords,"upgrade, got, 4090, im, 1080ti, bit, worth, ill"
+topic_1_label,ill worth of ill upgrade
+topic_2_keywords,"9070xt, price, get, buy, like, performance, half, 5080"
+topic_2_label,"9070xt price, like, performance, half"
+topic_3_keywords,"msrp, people, buy, cards, gamers, dont, ignore, zotac"
+topic_3_label,msrp buys cards
+topic_4_keywords,"still, time, im, games, much, msrp, buy, 3060ti"
+topic_4_label,msrp buys 3060ti
+topic_5_keywords,"4k, thats, years, going, pc, strong, 3080, ti"
+topic_5_label,"4k, thats, years, going, pc, strong"
+topic_6_keywords,"prices, gaming, ai, new, market, make, cards, like"
+topic_6_label,ai cards make up the price of new ai cards
+top_ngram_1,pretty much (21)
+top_ngram_2,buy 9070xt (14)
+top_ngram_3,catch fire (14)
+top_ngram_4,raw performance (14)
+top_ngram_5,wont catch (13)
+top_ngram_6,wont catch fire (13)
+top_ngram_7,indiana jones (13)
+top_ngram_8,9070xt unless (12)
+top_ngram_9,unless absolutely (12)
+top_ngram_10,absolutely need (12)
+ner_1,Indiana Jones|MISC|10
+ner_2,Nvidia|ORG|10
+ner_3,50|MISC|6
+ner_4,EVGA|ORG|4
+ner_5,##V|ORG|3
+ner_6,Alan Wake 2|MISC|3
+ner_7,GTX|MISC|3
+ner_8,Best Buy|ORG|3
+ner_9,FFVII Rebirth|MISC|3
+ner_10,Zotac|ORG|3

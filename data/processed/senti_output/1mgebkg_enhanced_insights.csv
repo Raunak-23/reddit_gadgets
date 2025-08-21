@@ -1,0 +1,49 @@
+metric,value
+file,1mgebkg.csv
+title,This is Microsoft's canceled Windows-based Surface Duo — the dual-screen Windows Phone from 2018 that we never got
+rows,41
+num_posts,1
+num_comments,40
+unique_authors,36
+max_depth,4
+avg_comment_words,41.52
+median_comment_words,29.0
+max_comment_words,273
+positive_count,3
+negative_count,37
+neutral_count,0
+positive_pct,7.5
+negative_pct,92.5
+neutral_pct,0.0
+topic_1_keywords,"google, wrong, time, devices, make, device, seem, right"
+topic_1_label,Google wrongs device
+topic_2_keywords,"got, use, phone, still, windows, office, ms, microsoft"
+topic_2_label,microsoft 's microsoft office still uses phone stills
+topic_3_keywords,"miss, baconit, bloatware, windows, phones, black, slick, remember"
+topic_3_label,"slick bloatware, bloatware, phones"
+topic_4_keywords,"windows, phone, work, office, even, couldnt, products, like"
+topic_4_label,"Windows, phone, office, couldnt"
+topic_5_keywords,"duo, surface, devices, prototype, windows, android, people, os"
+topic_5_label,duo of the os
+topic_6_keywords,"windows, phone, x86, could, buy, two, point, good"
+topic_6_label,x86 phone could buy two points
+top_ngram_1,windows phone (13)
+top_ngram_2,miss baconit (10)
+top_ngram_3,seem make (7)
+top_ngram_4,make right (7)
+top_ngram_5,right device (7)
+top_ngram_6,device wrong (7)
+top_ngram_7,wrong time (7)
+top_ngram_8,seem make right (7)
+top_ngram_9,make right device (7)
+top_ngram_10,right device wrong (7)
+ner_1,Microsoft|ORG|12
+ner_2,Google|ORG|9
+ner_3,Windows|MISC|6
+ner_4,Nokia|ORG|5
+ner_5,Windows Phone|MISC|5
+ner_6,Duo 1|MISC|4
+ner_7,Android|MISC|3
+ner_8,Duo 2|MISC|2
+ner_9,2|MISC|2
+ner_10,Duo 2 Surface Andromeda|MISC|2

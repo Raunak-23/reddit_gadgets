@@ -1,0 +1,46 @@
+metric,value
+file,1k07f13.csv
+title,Multi-sensor stethoscope excels at detecting faulty heart valves | The device is sensitive and accurate enough that it can be used over clothing
+rows,26
+num_posts,1
+num_comments,25
+unique_authors,19
+max_depth,4
+avg_comment_words,62.68
+median_comment_words,58.0
+max_comment_words,140
+positive_count,9
+negative_count,16
+neutral_count,0
+positive_pct,36.0
+negative_pct,64.0
+neutral_pct,0.0
+topic_1_keywords,"massive, honestly, would, huge, diagnose, symptoms, disease, rates"
+topic_1_label,massive diagnosis of a disease
+topic_2_keywords,"stethoscope, aortic, echocardiogram, heart, great, valve, physical, caught"
+topic_2_label,"stethoscope, heart, great, heart"
+topic_3_keywords,"stethoscope, one, good, ive, something, recently, dont, electronic"
+topic_3_label,"stethoscope is good, but not electronic"
+topic_4_keywords,"telemedicine, huge, never, basic, long, thing, use, got"
+topic_4_label,telemedicine has never been used in the past
+topic_5_keywords,"happened, bunch, exams, questions, adult, fills, chair, hands"
+topic_5_label,a bunch of adults fills a chair
+topic_6_keywords,"use, theyre, effective, decades, like, stethoscopes, things, basically"
+topic_6_label,stethoscopes are basically a stethoscope
+top_ngram_1,aortic valve (6)
+top_ngram_2,one thing (5)
+top_ngram_3,actually one (4)
+top_ngram_4,honestly huge (3)
+top_ngram_5,huge socalled (3)
+top_ngram_6,socalled silent (3)
+top_ngram_7,silent cardiovascular (3)
+top_ngram_8,cardiovascular disease (3)
+top_ngram_9,disease massive (3)
+top_ngram_10,massive massive (3)
+ner_1,Littmann|MISC|3
+ner_2,Blue|MISC|2
+ner_3,Do|MISC|1
+ner_4,ER|LOC|1
+ner_5,Fingernails|MISC|1
+ner_6,Love Institute|ORG|1
+ner_7,POCUS|ORG|1

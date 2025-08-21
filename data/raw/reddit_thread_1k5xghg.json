@@ -1,0 +1,591 @@
+{
+  "post": {
+    "title": "Nvidia RTX 5000 cards show PCB hotspots that threaten longevity, says Igor's Lab | Cramped VRM layout, not GPU, blamed",
+    "author": "chrisdh79",
+    "id": "1k5xghg",
+    "score": 716,
+    "created_utc": 1745409926.0,
+    "selftext": "",
+    "num_comments": 71,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1k5xghg/nvidia_rtx_5000_cards_show_pcb_hotspots_that/"
+  },
+  "comments": [
+    {
+      "id": "molf9sf",
+      "author": "chrisdh79",
+      "body": "From the article: It's not like Nvidia's RTX 5000 series needs any more negative press, but here we are again. Igor Wallossek of Igor's Lab has discovered a problem that appears to be present in most Blackwell AIB partner cards: local hotspots at the rear of the PCBs. This could potentially lead to the cards being damaged over time due to heavy use.\n\nDuring a sustained \"torture loop\" on a PNY RTX 5070 OC and Palit RTX 5080 Gaming Pro OC, Wallossek recorded temperature spikes in the power delivery areas of the cards. The RTX 5070 reached 107 \u00b0C while the GPU core sat at a much cooler 70\u00b0C, and the RTX 5080 Gaming Pro OC peaked at 80.5\u00b0C.",
+      "score": 111,
+      "created_utc": 1745409998.0,
+      "replies": [
+        {
+          "id": "monzsoe",
+          "author": "bonesnaps",
+          "body": "I once had a card that had caps installed behind the fan vents. It was blowing hot air at them the entire time it was in use.\n\n\n\nSince the caps blew up almost exactly 2-3 months after the warranty ended, I suspect it was enshittification in the form of planned obscelence.\n\n\nI always look for those now when buying cards.",
+          "score": 42,
+          "created_utc": 1745438215.0,
+          "replies": [
+            {
+              "id": "moqzm43",
+              "author": "wektor420",
+              "body": "What brand did this?",
+              "score": 11,
+              "created_utc": 1745478217.0,
+              "replies": [
+                {
+                  "id": "mow5sog",
+                  "author": "_RADIANTSUN_",
+                  "body": "Personally I haven't seen that, that would be some egregiously bad design to pass off as accidental.",
+                  "score": 1,
+                  "created_utc": 1745543629.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mopu0g0",
+              "author": "PrepperBoi",
+              "body": "I wonder how long it will be before we get a new form factor case to accommodate even larger GPUs with the kickstand supports on them?",
+              "score": 4,
+              "created_utc": 1745459706.0,
+              "replies": []
+            },
+            {
+              "id": "morqyj4",
+              "author": "WheresThePenguin",
+              "body": "Stuff like this is why I'm a console peasant",
+              "score": 1,
+              "created_utc": 1745493984.0,
+              "replies": [
+                {
+                  "id": "mpa41g1",
+                  "author": "Christopher135MPS",
+                  "body": "I mean, if you\u2019re not paying 1000+ cards pushing the absolute edge of performance, you\u2019re fine owning a PC. It\u2019s these \u201cmust have the newest and best at any cost\u201d machines that have issues because they\u2019re pushing the tech to its limits. \n\nMy last four machines (purchased between 2009-2024, ~4 years per machine) all ran the concurrent games at top settings without any issues, and the only part that ever failed was a MOBO that cost $129 to replace. They were all a few hundred dollars more expensive than a console though (and one was 4-500 more because I splashed out). \n\nWhich was my really long winded way of saying PC\u2019s are usually as reliable as consoles, unless you buy stupid shit. \n\nAlthough my n64 and GameCube also still run without any problems, and my PC\u2019s from those era\u2019s are in a recycling yard, sooo\u2026..",
+                  "score": 2,
+                  "created_utc": 1745740685.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "molhsqw",
+      "author": "OFool_Ishallgomad",
+      "body": "Don't worry, Nvidia. I'm not planning a new PC build any time soon.",
+      "score": 165,
+      "created_utc": 1745411015.0,
+      "replies": [
+        {
+          "id": "moli0qr",
+          "author": "BitRunr",
+          "body": "It's surprising how long you can go on that sentiment.",
+          "score": 62,
+          "created_utc": 1745411102.0,
+          "replies": [
+            {
+              "id": "monc1od",
+              "author": "Hippobu2",
+              "body": "Tbh, not very long. \n\n\"I can't afford a new PC anytime soon\" though, that one has lasted me since before covid.",
+              "score": 27,
+              "created_utc": 1745431298.0,
+              "replies": [
+                {
+                  "id": "mopbaqh",
+                  "author": "Arthur-Wintersight",
+                  "body": "I had the same PC from 2012 to 2023, and gamed on it the entire time.\n\nHardware isn't improving as fast as it used to, half of the \"most popular games\" are 5 to 10 years old at this point (if not *older*), and the back catalogue is absolutely chonkers at this point.\n\nWe're at the point where you could go full boomer, decide to never upgrade your PC ever again, and you'd still be able to play a substantial percentage of the most popular titles even five years from now, because those older games are lasting longer and longer.",
+                  "score": 19,
+                  "created_utc": 1745453197.0,
+                  "replies": [
+                    {
+                      "id": "mopedcu",
+                      "author": "Teddy8709",
+                      "body": "My current PC is getting old and I can't be bothered to build a new one. It runs perfectly fine, just can't play the latest games anymore. So my fix for this was to just invest in a console, Xbox to be exact. It suits my needs, most games I want to play are on it and I pay for game pass ultimate and a handful of PC games I want to play I can do so using their cloud gaming, it works just fine for me. \nHard to justify dropping $2k,+ CAD on a PC to play a few games once in a while anymore.",
+                      "score": 5,
+                      "created_utc": 1745454259.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mpa4lnd",
+                      "author": "Christopher135MPS",
+                      "body": "The only reason I upgraded in 2018 is because my gfx card didn\u2019t support the newest version of directX. \n\nMy PC from then is still running games. Sure, not on full settings, but it managed 45-60fps on medium settings in CP2077. \n\n(I have bought a new machine since then, but that\u2019s because my wife wanted a PC, otherwise I\u2019d still be running that 5-6 year old machine)",
+                      "score": 1,
+                      "created_utc": 1745741026.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "molia5v",
+          "author": "scoob_ts",
+          "body": "They\u2019re not worried, all their money comes from data center hardware these days",
+          "score": 24,
+          "created_utc": 1745411207.0,
+          "replies": [
+            {
+              "id": "molinct",
+              "author": "zkareface",
+              "body": "Seems they have issues there also and big clients are stopping orders.",
+              "score": 20,
+              "created_utc": 1745411352.0,
+              "replies": []
+            },
+            {
+              "id": "molp4zu",
+              "author": "NuclearReactions",
+              "body": "People keep saying this while forgetting that their income driven by consumer GPUs don't shrink just because a different market has opened up.\n\nAs an investor I'd be pissed if they dropped the ball on a 2.9bln market. That would be nuts.",
+              "score": 18,
+              "created_utc": 1745413732.0,
+              "replies": [
+                {
+                  "id": "molpsog",
+                  "author": "ArseBurner",
+                  "body": "It does because they are supply constrained? There are only so many TSMC wafers to go around and right now the datacenter and gaming lines use the same node.\n\nThe obvious choice is to fulfill datacenter first and build less gaming cards.",
+                  "score": 18,
+                  "created_utc": 1745413963.0,
+                  "replies": []
+                },
+                {
+                  "id": "moojlh4",
+                  "author": "scoob_ts",
+                  "body": "As an investor I would be happy if they moved resources away from a billion dollar market and into a trillion dollar market.",
+                  "score": 1,
+                  "created_utc": 1745444030.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monqbl0",
+          "author": "sagevallant",
+          "body": "Hey, it's now or never. That's my attitude about everything as an American atm. It'll all cost double or more soon enough.",
+          "score": 4,
+          "created_utc": 1745435458.0,
+          "replies": [
+            {
+              "id": "moo3b0t",
+              "author": "3ggu",
+              "body": "I\u2019ll settle for never then",
+              "score": 3,
+              "created_utc": 1745439236.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "morshmr",
+          "author": "JackfruitCalm3513",
+          "body": "PC is becoming a rich man's game now due to the orange man. I feel my 3900x/3080 will be the last PC I own.and would take two years to save for a MSRP 9070xt",
+          "score": 2,
+          "created_utc": 1745494653.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "molplyy",
+      "author": "ThatGuyFromTheM0vie",
+      "body": "Guess I\u2019ll hop in during the 6000 series or the 7000 series lol",
+      "score": 16,
+      "created_utc": 1745413896.0,
+      "replies": [
+        {
+          "id": "mom74ov",
+          "author": "resil_update_bad",
+          "body": "They'll come with built in power supplies",
+          "score": 11,
+          "created_utc": 1745419496.0,
+          "replies": [
+            {
+              "id": "mongb3b",
+              "author": "CandyCrisis",
+              "body": "Maybe that'd be a better design, honestly.",
+              "score": 7,
+              "created_utc": 1745432536.0,
+              "replies": []
+            },
+            {
+              "id": "moocyr7",
+              "author": "BagFullOfMommy",
+              "body": "The PSU's need to change. They need to stop using 12v rails and start using 24v dedicated GPU rails.",
+              "score": 6,
+              "created_utc": 1745442025.0,
+              "replies": [
+                {
+                  "id": "mopbi9v",
+                  "author": "Arthur-Wintersight",
+                  "body": "12vhpwr is fine for a 200 watt card.\n\nIt's inadequate for a 600 watt monster though.",
+                  "score": 1,
+                  "created_utc": 1745453268.0,
+                  "replies": [
+                    {
+                      "id": "mos0wyd",
+                      "author": "Goose-tb",
+                      "body": "My 5090 is using 12vhpwr (on both ends). Should I be using the 3 PCIE - to 12vhpwr cable instead? Or are you saying the entire design is flawed for cards this powerful now?",
+                      "score": 1,
+                      "created_utc": 1745497991.0,
+                      "replies": [
+                        {
+                          "id": "movfiul",
+                          "author": "Arthur-Wintersight",
+                          "body": "The entire design is flawed for cards that powerful. Evidence seems to confirm that.",
+                          "score": 1,
+                          "created_utc": 1745534768.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mop23z4",
+              "author": "CosmicKelvin",
+              "body": "Built in CPU also.",
+              "score": 1,
+              "created_utc": 1745450090.0,
+              "replies": []
+            },
+            {
+              "id": "morj1hl",
+              "author": "User9705",
+              "body": "Window cooling fans required",
+              "score": 1,
+              "created_utc": 1745490153.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "molhmod",
+      "author": "petermadach",
+      "body": "thats what happens when you try to squeeze in more and more power to the same physical package, eventually physics comes to say hello. we either need to collectively say f\\*\\*k it, and let them do these 500-600W+ monsters with even bigger PCBs and coolers, or say a card can go like 350 tops and they should make the most out of it. but I guess as long as they literally fly off the selves with all these problems, at these prices, we can blame no one but ourselves.",
+      "score": 33,
+      "created_utc": 1745410949.0,
+      "replies": [
+        {
+          "id": "moljnc3",
+          "author": "DigitallyDetained",
+          "body": "Bro the PNY 5070 OC is like 250W\u2026",
+          "score": 21,
+          "created_utc": 1745411737.0,
+          "replies": [
+            {
+              "id": "molk12y",
+              "author": "petermadach",
+              "body": "just bad design then.",
+              "score": 17,
+              "created_utc": 1745411881.0,
+              "replies": [
+                {
+                  "id": "mom83ox",
+                  "author": "None",
+                  "body": "On par with the brand. Only if we still had EVGA around",
+                  "score": 5,
+                  "created_utc": 1745419784.0,
+                  "replies": [
+                    {
+                      "id": "montrey",
+                      "author": "TheGingaBread",
+                      "body": "I was just thinking about this the other day. Evga really took care of their customers and their products. They were the only gpu third party company I\u2019d buy from.",
+                      "score": 9,
+                      "created_utc": 1745436467.0,
+                      "replies": [
+                        {
+                          "id": "mooxil5",
+                          "author": "None",
+                          "body": "EVGA hands down was #1 taking care of us.",
+                          "score": 4,
+                          "created_utc": 1745448573.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "molntf7",
+                  "author": "DigitallyDetained",
+                  "body": "Seems that way, yeah.",
+                  "score": 1,
+                  "created_utc": 1745413261.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "molyfx3",
+          "author": "Quithelion",
+          "body": "The motherboard-daughterboard concept on GPU need a heavy re-design.\n\nLow- to mid-end GPUs, and other expansion cards are fine, but high-end GPUs are now being limited by physics.",
+          "score": 5,
+          "created_utc": 1745416860.0,
+          "replies": [
+            {
+              "id": "mom3imx",
+              "author": "DontPeek",
+              "body": "Exactly. The GPU and a cooler as a huge 4 slot pcie card  doesn't make sense. Unfortunately it seems like there isn't much motivation to move away from this standard.",
+              "score": 4,
+              "created_utc": 1745418425.0,
+              "replies": [
+                {
+                  "id": "momrdh9",
+                  "author": "NorysStorys",
+                  "body": "Because it would require new standards and no one company wants to be the one to pour money into developing a new standard. The inertia on case design, motherboard layout is incredibly hard to shake on top of that",
+                  "score": 7,
+                  "created_utc": 1745425412.0,
+                  "replies": []
+                },
+                {
+                  "id": "mopbrnn",
+                  "author": "Arthur-Wintersight",
+                  "body": "Offloading frame-gen and DLSS to another card could allow for vastly more performance, but that means either more PCIe lanes on consumer grade CPUs, or something akin to NVLink being brought back.",
+                  "score": 2,
+                  "created_utc": 1745453359.0,
+                  "replies": [
+                    {
+                      "id": "moq4t42",
+                      "author": "DontPeek",
+                      "body": "It's just splitting up the card into even smaller parts which means even more smaller higher rpm fans and less sensible airflow paths. Personally I think for the vast majority of people it makes more sense to have a single board with an integrated CPU and GPU. Less \"upgradeability\" but I would be very interested to see how many people are upgrading just their GPU on an existing system vs doing a complete build every few years.",
+                      "score": 1,
+                      "created_utc": 1745463611.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "moq0e5a",
+          "author": "firedrakes",
+          "body": "i see. you open you mouth before doing any research.\n\nnvidia makes 800 watt cards for hpc.",
+          "score": 1,
+          "created_utc": 1745461951.0,
+          "replies": [
+            {
+              "id": "mot3pn6",
+              "author": "petermadach",
+              "body": "youre comparing apples to oranges mate. I'm pretty sure they are optimized for the server environment with cooling and form factor.",
+              "score": 1,
+              "created_utc": 1745509993.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "molpuz4",
+      "author": "TrickOut",
+      "body": "Sticking with the 4080 super for now, these cards are too sketchy",
+      "score": 7,
+      "created_utc": 1745413984.0,
+      "replies": [
+        {
+          "id": "moqsets",
+          "author": "chadhindsley",
+          "body": "I got the Costco prebuilt with one for a steal. Pleased with it.",
+          "score": 2,
+          "created_utc": 1745474085.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mom4u8f",
+      "author": "JackfruitCalm3513",
+      "body": "Maybe they need to use people instead of AI to develop new cards....\ud83e\udd37",
+      "score": 9,
+      "created_utc": 1745418817.0,
+      "replies": []
+    },
+    {
+      "id": "moq7csj",
+      "author": "wanderingartist",
+      "body": "NVIDIA is like the Boeing of graphics cards.",
+      "score": 2,
+      "created_utc": 1745464608.0,
+      "replies": []
+    },
+    {
+      "id": "momo8sy",
+      "author": "Meatmyknight",
+      "body": "Don\u2019t worry they do it on purpose so you can get a new card and better card",
+      "score": 3,
+      "created_utc": 1745424491.0,
+      "replies": []
+    },
+    {
+      "id": "molhwu8",
+      "author": "GF12B",
+      "body": "Diddent they remove the hotspot sensor on the new cards. Was there an attempted cover up???",
+      "score": 5,
+      "created_utc": 1745411059.0,
+      "replies": [
+        {
+          "id": "mom8ttv",
+          "author": "terraphantm",
+          "body": "No, the hotspot sensor detects hotspots within the die.\u00a0",
+          "score": 10,
+          "created_utc": 1745419995.0,
+          "replies": []
+        },
+        {
+          "id": "moma4q1",
+          "author": "orangpelupa",
+          "body": "Hotspot sensor still there for the chip but Nvidia hides it from the official public API\u00a0",
+          "score": 6,
+          "created_utc": 1745420375.0,
+          "replies": []
+        },
+        {
+          "id": "mopp697",
+          "author": "definite_mayb",
+          "body": "Didn't *",
+          "score": 2,
+          "created_utc": 1745458022.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mom25kd",
+      "author": "OffbeatDrizzle",
+      "body": "My 9070 xt has been doing fine \ud83d\udc4d previously I had a 3060",
+      "score": 6,
+      "created_utc": 1745418021.0,
+      "replies": [
+        {
+          "id": "mom2ojp",
+          "author": "zidave0",
+          "body": "I, too, jumped ship. My 9070XT has been rock solid.",
+          "score": 4,
+          "created_utc": 1745418180.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mooa4da",
+      "author": "One-End1795",
+      "body": "This is not the source of the article. As noted in the title of this article, the source is Igor's Lab, and multiple other publications have already rewritten this story before TechSpot. This is just TechSpot retelling it for the 20th time, two days later. This post should be taken down.",
+      "score": 2,
+      "created_utc": 1745441202.0,
+      "replies": []
+    },
+    {
+      "id": "mon5gsk",
+      "author": "xxlordxx686",
+      "body": "Wow it's incredible how unattractive this gpu generation is for Nvidia cards, not to say that previous generations were an incredible deal either but this one is grim",
+      "score": 1,
+      "created_utc": 1745429444.0,
+      "replies": []
+    },
+    {
+      "id": "moxn74p",
+      "author": "Coreyahno30",
+      "body": "I am so hard out of PC building and upgrading my setup anytime in the foreseeable future. And I\u2019m not even mad about it or feel like I\u2019m missing out on anything. Was planning on doing an upgrade this year, but instead I got a PS5 Pro for a fraction of what these 5000 series cards cost and I\u2019m loving it. Kingdom Come Deliverance 2 is incredibly smooth and looks amazing on there.",
+      "score": 1,
+      "created_utc": 1745567229.0,
+      "replies": []
+    },
+    {
+      "id": "moy8uq8",
+      "author": "llBradll",
+      "body": "My understanding was that Nvidia makes the GPU while the board partner designs the PCB. If that's the case, is this an Nvidia issue? or a Palit/PNY issue?",
+      "score": 1,
+      "created_utc": 1745579809.0,
+      "replies": []
+    },
+    {
+      "id": "mpfv0gc",
+      "author": "Exghosted",
+      "body": "Does that include ALL GPU's from every manufacturer?! Was going for a 5070 ti.. now I'm wondering if I should go for a 9070 XT instead. Any advice? So far I haven't heard anything crazy about the amd ones, but some people do report artifacting.",
+      "score": 1,
+      "created_utc": 1745819721.0,
+      "replies": []
+    },
+    {
+      "id": "mompd1o",
+      "author": "Readiness11",
+      "body": "A total AMD noob here but what are their cards like compared to Nvidia cards? All of the recent news about Nvida has me thinking the next time I upgrade my PC I might go over to AMD instead.",
+      "score": 1,
+      "created_utc": 1745424818.0,
+      "replies": [
+        {
+          "id": "momt2ql",
+          "author": "thelazygamer",
+          "body": "In general AMD provides a better value for rasterization (true frames) with slightly worse ray tracing performance. I have found that I usually get more vram at similar price points which helps them age better. I swap brands every other upgrade based on what's available and price/performance for the games/resolution I am playing at. I've had good and bad drivers with both brands and don't see much of a difference between them. My last two cards were a 3070 and a 7900XT and I liked both. Just pick what seems like the better option for your budget/needs when you build your system.\u00a0",
+          "score": 2,
+          "created_utc": 1745425911.0,
+          "replies": []
+        },
+        {
+          "id": "moo1ew4",
+          "author": "Squirrel_Apocalypse2",
+          "body": "The 9070xt is a slightly worse 5070ti. They are similar in raster (game to game they beat each other) but the TI is better at Ray Tracing. AMD has vastly improved their upscaling and frame generation with FSR4 and the 9070XT can do Ray Tracing quite well though. Especially at 1440p.",
+          "score": 1,
+          "created_utc": 1745438679.0,
+          "replies": []
+        },
+        {
+          "id": "mong1zf",
+          "author": "JediMasterChron",
+          "body": "Dlss and frame gen, plus way better Ray tracing is why you go for nvidia. If you don't care about these things buy an amd. The newer low end nvidia are kind of lacking though. A 5080 will be a way better experience than anything amd has to offer.",
+          "score": 0,
+          "created_utc": 1745432462.0,
+          "replies": [
+            {
+              "id": "morlfle",
+              "author": "mister2forme",
+              "body": "\"Way better\" is a bit of a stretch. As someone who had a 4090 and now an OC 9070xt, it's not a huge difference between the 5080 and stock 9070xt beyond numbers on some bar graphs (13-20% according to TPU). If the 9070xt gets 80fps in a game, then the 5080 would average from 90-96 in the same game.  That's not really a \"way better\" experience.  I'm not sure most people would even the see the difference. *Shrug*\n\nDLSS and FSR4 are similar with a nod to 4 being marginally better than FSR4 and FSR4 marginally better than DLSS3 according to the comparison content recently published. At this level, I'm not sure you need it. These cards are powerful enough. Frame gen shouldn't be necessary either, and both are capable. I'm sensitive to the visual downgrade of upscaling and framegen, though, so there's that.\n\nRay tracing is sadly only good in a handful of games. HUB did a great video on this a few months back. Nvidia is better, but I'm not sure if spending almost double for a marginally faster 5080 is worth it for most... Just to have better RT in a few games.  And that's discounting the awful power design, driver issues, retailer scalping, and other issues plaguing the 50 series. But if someone is dead set on RT, then Nvidia is still better, but AMD is at least capable now.  Cheers!",
+              "score": 3,
+              "created_utc": 1745491399.0,
+              "replies": [
+                {
+                  "id": "morohq3",
+                  "author": "JediMasterChron",
+                  "body": "Raster is going out the door, nobody gives a shit about raster when more and more games are having Ray tracing  used as their normal lighting. You are right a 5080 is powerful enough in raster that it doesnt matter. Dlss 3 looks decent but transformer is much more clean and better than fsr 4. Combine with path tracing, hdr, and a 4k oled and you will have an image that is almost lifelike. And idk what you are talking about marginally better, dlss 4 solves a ton of issues from dlss 3. If you get a 5080 and aren't playing in 4k you are wasting your money. Frame gen will allow you to do 240hz 4k on all max setting so don't know why you are discounting that. Amd can't compete with these feature sets so if you have money the 5080 is the way to go.",
+                  "score": 1,
+                  "created_utc": 1745492870.0,
+                  "replies": [
+                    {
+                      "id": "mos2jbg",
+                      "author": "mister2forme",
+                      "body": "That's certainly one opinion. Enjoy your 5080.",
+                      "score": 1,
+                      "created_utc": 1745498585.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mopxqji",
+      "author": "Majorjim_ksp",
+      "body": "I wonder why Nvidia decided to not include a hotspot sensor\u2026",
+      "score": 0,
+      "created_utc": 1745461010.0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,1307 @@
+{
+  "post": {
+    "title": "Samsung admits Galaxy devices can leak passwords through clipboard wormhole",
+    "author": "chrisdh79",
+    "id": "1ka32je",
+    "score": 3122,
+    "created_utc": 1745865585.0,
+    "selftext": "",
+    "num_comments": 169,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ka32je/samsung_admits_galaxy_devices_can_leak_passwords/"
+  },
+  "comments": [
+    {
+      "id": "mpj0r8g",
+      "author": "akeean",
+      "body": "Clipboard access is a risk to anyone that copies & pastes sensitive data and multitasks. That's exactly why some browsers require you to give explicit permission for access to clipboard.",
+      "score": 840,
+      "created_utc": 1745865895.0,
+      "replies": [
+        {
+          "id": "mpjeien",
+          "author": "TechieBrew",
+          "body": "Everything is a \"risk\" nowadays. For instance I use password managers that I sometimes have to go into to copy-paste my password. But I only started using a password manager b/c typing out your password on the keyboard is a risk to anyone who does that b/c keylogging is a thing.",
+          "score": 312,
+          "created_utc": 1745870063.0,
+          "replies": [
+            {
+              "id": "mpjousy",
+              "author": "NorysStorys",
+              "body": "Genuinely the only \u2018secure\u2019 login method is 2 factor or token login because they either need access to two of your devices which is unlikely or physical access to a token (or the very unlikely means to cryptographically break the cypher) to get into anything. Hell Microsoft urges you to be passwordless and login via an authentication app now and boy golly the amount of attempts to get into my Microsoft account numbers in the hundreds a week but unless they have access to my phone and email, they cannot get in.",
+              "score": 153,
+              "created_utc": 1745873149.0,
+              "replies": [
+                {
+                  "id": "mpjube4",
+                  "author": "mug3n",
+                  "body": "If only yubikeys were more of a thing. So few services actually support it.",
+                  "score": 56,
+                  "created_utc": 1745874828.0,
+                  "replies": [
+                    {
+                      "id": "mpjwft3",
+                      "author": "Vexxt",
+                      "body": "There wasn't enough adoption, even in corporate.\nPasskeys are the next iteration of fido2, but through your phone. \nIt's becoming ubiquitous slowly.",
+                      "score": 39,
+                      "created_utc": 1745875501.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mpkaw4y",
+                      "author": "gargravarr2112",
+                      "body": "Yubikeys support FIDO and U2F, which are established standards. Major platforms like Google and GitHub support them. But you're right, smaller services either don't or charge extra to use it. Strong 2FA should not be a paid extra -\\_-",
+                      "score": 18,
+                      "created_utc": 1745880394.0,
+                      "replies": [
+                        {
+                          "id": "mpmbmf7",
+                          "author": "deSuspect",
+                          "body": "While I agree it should be standard if it costs a company to implement it why do you think it should be free? If its a big enough company they can eat up the costs but for smaller ones it might just be too expensive.",
+                          "score": 1,
+                          "created_utc": 1745909441.0,
+                          "replies": [
+                            {
+                              "id": "mpna5dy",
+                              "author": "306bobby",
+                              "body": "Counterpoint: if a company is unable to secure their users and their data, should they even be offering a service?",
+                              "score": 7,
+                              "created_utc": 1745928765.0,
+                              "replies": [
+                                {
+                                  "id": "mpndhj8",
+                                  "author": "HeatersandHandles",
+                                  "body": "In the modern world they should not imo",
+                                  "score": 3,
+                                  "created_utc": 1745930053.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mq0obrt",
+                                  "author": "deSuspect",
+                                  "body": "Some basic security sure,  but having too high of restrictions kills all small business.",
+                                  "score": 1,
+                                  "created_utc": 1746107457.0,
+                                  "replies": [
+                                    {
+                                      "id": "mq0qbof",
+                                      "author": "306bobby",
+                                      "body": "That's kinda part of it\n\nI can't use the excuse of being a small business if I accidentally burnt the customers house down, and I sure as shit would be held liable especially if I didn't have insurance\n\nThis is a different side of the same coin",
+                                      "score": 0,
+                                      "created_utc": 1746108092.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mqi8mnd",
+                              "author": "gargravarr2112",
+                              "body": "There's a cost of implementing and maintaining U2F, sure. But the cost of running it is no different to the common TOTP code currently in use, i.e. it's just the computational cost. So it could be factored into the broader implementation cost of 2FA.\n\nDon't get me wrong, I like that even free services commonly implement TOTP now. But it'd be nice if they didn't view Yubikeys and their equivalents as extras; after all, the customer has already paid for the key itself, so paying extra to *use* it is infuriating.",
+                              "score": 1,
+                              "created_utc": 1746347630.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mpk63f4",
+                      "author": "51Reid",
+                      "body": "As long as you secure your email and crypto exchange with yubikey, and use unique passwords, there's very little risk from data breaches.  Just don't save your debit card online or use it for personal expenses.  I think I've lost three or four computers to rats, and have been through dozens of data breaches, but nothing has ever come of it.",
+                      "score": 0,
+                      "created_utc": 1745878755.0,
+                      "replies": [
+                        {
+                          "id": "mpk7huo",
+                          "author": "HiiiTriiibe",
+                          "body": "Jokes on anyone stealing my identity, I\u2019m already starving to death",
+                          "score": 5,
+                          "created_utc": 1745879229.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mpjtdlj",
+                  "author": "Kodiak_POL",
+                  "body": "Well, 2FA is also not perfect because it may require unsecured SMS or your phone can also simply be hacked. Next step is of course 3FA, which is usually biometrics.",
+                  "score": 16,
+                  "created_utc": 1745874532.0,
+                  "replies": [
+                    {
+                      "id": "mpjwjxr",
+                      "author": "Vexxt",
+                      "body": "2fa doesn't have to include sms",
+                      "score": 11,
+                      "created_utc": 1745875538.0,
+                      "replies": [
+                        {
+                          "id": "mpkhb1a",
+                          "author": "Kodiak_POL",
+                          "body": "Hence the word \"may\"?\u00a0",
+                          "score": 3,
+                          "created_utc": 1745882594.0,
+                          "replies": [
+                            {
+                              "id": "mpmekqg",
+                              "author": "Vexxt",
+                              "body": "The implicit inclusion of sms as a function of 2fa is what it takes issue with. Sms as two factor isn't really two factor because it's not a possession factor, it's a just in time password delivered in plaintext.\nI take issue with 'may' as its no longer a good standard.",
+                              "score": 6,
+                              "created_utc": 1745911224.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mpjzn68",
+                      "author": "namerankserial",
+                      "body": "2FA using an authenticator app seems to be what we're settling on.  No SMS then.",
+                      "score": 6,
+                      "created_utc": 1745876530.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mpk9wm7",
+                      "author": "bert93",
+                      "body": "Not to mention many people (myself included) add the TOTP secret into their password manager.",
+                      "score": 1,
+                      "created_utc": 1745880058.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mplvf8b",
+                      "author": "NeuHundred",
+                      "body": "Or you could simply lose access to the second device.",
+                      "score": 1,
+                      "created_utc": 1745901011.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mpju4gh",
+                      "author": "sawbladex",
+                      "body": "doesn't biometrics run into the issue that you like, lose your fingerprint due to losing a finger?",
+                      "score": 1,
+                      "created_utc": 1745874766.0,
+                      "replies": [
+                        {
+                          "id": "mpjwo2j",
+                          "author": "shadowblade159",
+                          "body": "You generally can (and probably should) set up more than one finger as your fingerprint access for your phone or laptop. If you lose all of them, well... you've probably got bigger problems to worry about.",
+                          "score": 13,
+                          "created_utc": 1745875574.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mpjy89n",
+                          "author": "IchBinMalade",
+                          "body": "You can register more than one, on both hands, but most if not all devices with biometrics let you use a PIN/password, since you don't need to lose a finger for it not to work (wet hands, gloves).\n\nIf that's an issue though, then might as well worry about getting amnesia and forgetting your passwords. At some point you gotta ask yourself \"what's the likelihood that this will fail, and how much convenience am I willing to sacrifice for more security?\" And for the vast majority of people, the answer is not much, honestly. \n\nNobody is going after you specifically, so your main goal is to do what you need to do so that when a company inevitably fucks up and your data is leaked, the damage will be minimal. \n\n*(side note, I wanted to just respond to your fingerprint comment, the rest isn't addressing you specifically, I just went on a tangent).*",
+                          "score": 9,
+                          "created_utc": 1745876077.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mpjw0py",
+                          "author": "TurboBerries",
+                          "body": "Thats why you fingerprint your dick. If you lose your dick its all over anyway.",
+                          "score": 5,
+                          "created_utc": 1745875368.0,
+                          "replies": [
+                            {
+                              "id": "mpjxdcd",
+                              "author": "distorted_kiwi",
+                              "body": "Use the star. Everyone\u2019s star pattern is unique to them. And it\u2019s in the most secure place on your body.",
+                              "score": 3,
+                              "created_utc": 1745875799.0,
+                              "replies": [
+                                {
+                                  "id": "mpkyp7d",
+                                  "author": "websagacity",
+                                  "body": "Is it unique? Like a fingerprint?",
+                                  "score": 2,
+                                  "created_utc": 1745888639.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mpjzfni",
+                                  "author": "TurboBerries",
+                                  "body": "What if someone recreates a 3d imprint from pictures on the internet?",
+                                  "score": 3,
+                                  "created_utc": 1745876463.0,
+                                  "replies": [
+                                    {
+                                      "id": "mq6hx93",
+                                      "author": "alidan",
+                                      "body": "get a bad enough scar and your fingerprint is able to change enough to be unrecognizable, burn yourself bad enough and it may not grow in the same pattern. \n\ndon't think of how secure or insecure it is, imagine how much of a nightmare it is on the users side if something goes sideways. \n\nthis is why fingerprints are never supposed to be passwords, they are at best usernames.",
+                                      "score": 1,
+                                      "created_utc": 1746186205.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mpjz9sh",
+                          "author": "Biking_dude",
+                          "body": "No - from my understanding when you register your fingerprint with your phone, it saves the electrical signature your finger makes against the sensor. IE, it's not saving your fingerprint, it's creating a key based on the resistance. So, if you lose a finger, you can reregister a new print on your phone, and then the phone analyzes the input to determine if it's actually the person who registered it in the first place, if it passes that test it then passes along that passed test to the site requesting authentication.",
+                          "score": 1,
+                          "created_utc": 1745876411.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mply3vv",
+                      "author": "Throwaway021614",
+                      "body": "I can\u2019t reset my fingerprints or face :(",
+                      "score": 0,
+                      "created_utc": 1745902246.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mpkind1",
+                  "author": "CoeurdAssassin",
+                  "body": "I\u2019ve been adding authentication tokens when I can, but it seems like most services don\u2019t work with Microsoft Authenticator for some reason.",
+                  "score": 1,
+                  "created_utc": 1745883051.0,
+                  "replies": []
+                },
+                {
+                  "id": "mpm2163",
+                  "author": "TuringC0mplete",
+                  "body": "Please dear god do not use 2FA lol. Passwordless or passkeys (my favorite) are the way. I work for a security company that specializes in these and we\u2019re actively trying to move people off of our old 2FA product.",
+                  "score": 1,
+                  "created_utc": 1745904119.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mpl8c0p",
+              "author": "None",
+              "body": "[removed]",
+              "score": 3,
+              "created_utc": 1745892041.0,
+              "replies": []
+            },
+            {
+              "id": "mpjnury",
+              "author": "mnstorm",
+              "body": "Since we're on this topic, I'd like to ask anyone out there about how good or bad is the Apple brand password manager? vs. other managers, etc. \n\nThank you.",
+              "score": 3,
+              "created_utc": 1745872850.0,
+              "replies": [
+                {
+                  "id": "mpkj0ov",
+                  "author": "CoeurdAssassin",
+                  "body": "I\u2019m curious too since I just use apple\u2019s when I\u2019m on my phone",
+                  "score": 1,
+                  "created_utc": 1745883178.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mpnsl2l",
+              "author": "Turmfalke_",
+              "body": "I use password managers because I can't remember enough secure passwords and don't want to type them in by hand.\n\nFrom a programming perspective reading the clipboard content is easier than hijacking keyboard events.",
+              "score": 1,
+              "created_utc": 1745935211.0,
+              "replies": [
+                {
+                  "id": "mq6ijqz",
+                  "author": "alidan",
+                  "body": "the only things that get secure passwords are important things to me, everything else that demands I use a password and I could give a shit about/would never be hacked for nefarious reasons is 5-8 characters that I remember with a capital letter modifier if the side forces me to use one.",
+                  "score": 1,
+                  "created_utc": 1746186464.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mptcrgz",
+              "author": "curmudgeon69420",
+              "body": "password manager is more for the fact that people use the same password everywhere if they have to memorise it. the manager at least means that you have different passwords and one leak won't compromise all your accounts",
+              "score": 1,
+              "created_utc": 1746007892.0,
+              "replies": []
+            },
+            {
+              "id": "mpkv7vy",
+              "author": "None",
+              "body": "It\u2019s why I moved entirely to password manager of iOS or passkeys. No longer typing them passwords, but using face id.\n\nWhich is its own issue, but at least one that I find easier to see",
+              "score": 0,
+              "created_utc": 1745887416.0,
+              "replies": [
+                {
+                  "id": "mpl1pcm",
+                  "author": "LickMyTicker",
+                  "body": "Correct, like having the government just unlock your phone by pointing your phone at the face. I would feel safer with a 2 digit pin and a 99 try lockout.",
+                  "score": 5,
+                  "created_utc": 1745889706.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpkail5",
+          "author": "gargravarr2112",
+          "body": "And why LineageOS pops up a message saying '<Application X> pasted from your clipboard' - you should only ever see it when you're explicitly pasting the content. The clipboard is, by its very nature, insecure and un-securable, and why every password manager going has a browser extension/integrates with Android.",
+          "score": 11,
+          "created_utc": 1745880266.0,
+          "replies": [
+            {
+              "id": "mpxabvm",
+              "author": "QuadraticCowboy",
+              "body": "No",
+              "score": 1,
+              "created_utc": 1746053547.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mpjij01",
+          "author": "mostoriginalname2",
+          "body": "I had the Epicurious (cooking) app steal my credit card number out of my clipboard on IPhone.\n\nI got a notification that the app copied it, then a month or so later the card got used at an African cuisine restaurant a few states away.",
+          "score": 22,
+          "created_utc": 1745871270.0,
+          "replies": [
+            {
+              "id": "mpl4ffj",
+              "author": "humble_squid",
+              "body": "That's a bit of a leap to tie those two things together.  A legitimate app isn't going to siphon your credit card information to pay for some random person's dinner. I'm not familiar with the app, but presumably it needs access to the clipboard to import recipes or something.\n\nIt's more likely your card got skimmed or you got phished.",
+              "score": 10,
+              "created_utc": 1745890679.0,
+              "replies": [
+                {
+                  "id": "mplya7k",
+                  "author": "Throwaway021614",
+                  "body": "That\u2019s exactly what an epicurious agent would say! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+                  "score": 8,
+                  "created_utc": 1745902330.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mplvxg2",
+          "author": "Jacobaf20",
+          "body": "Exactly. We often forget how vulnerable clipboard data actually is. So many apps have clipboard access without us thinking twice about it. It's pretty wild that most operating systems don't have a feature to auto expire clipboard contents after like 30 seconds that would solve a lot of these issues. I appreciate browsers requiring explicit permission, but we need that same level of protection system-wide, especially on mobile devices where we're constantly copying sensitive info",
+          "score": 3,
+          "created_utc": 1745901241.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpj649z",
+      "author": "Niceguy955",
+      "body": "The Samsung clipboard leak has been known for years. It was reported to them several times, and they didn't care. Their clipboard retains everything - even if you use an alternative keyboard - and can't be disabled without jailbreaking. I find myself clearing it manually every time I use my password manager. This is the main reason why none of my next devices will ever be a Samsung.",
+      "score": 258,
+      "created_utc": 1745867503.0,
+      "replies": [
+        {
+          "id": "mpj99hd",
+          "author": "None",
+          "body": "[removed]",
+          "score": 57,
+          "created_utc": 1745868460.0,
+          "replies": [
+            {
+              "id": "mpkjb4e",
+              "author": "CatProgrammer",
+              "body": "Or Password Managers with secure keyboards that enter it for you.",
+              "score": 25,
+              "created_utc": 1745883277.0,
+              "replies": [
+                {
+                  "id": "mpnoz9i",
+                  "author": "sqrlmasta",
+                  "body": "Could you name a few that have this feature?",
+                  "score": 1,
+                  "created_utc": 1745934061.0,
+                  "replies": [
+                    {
+                      "id": "mpo20t4",
+                      "author": "vermiforme",
+                      "body": "I know Keepass2Android has that feature because it's the PM I use.",
+                      "score": 3,
+                      "created_utc": 1745938068.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mplf7n0",
+          "author": "asen23",
+          "body": "you can \"uninstall\" samsung keyboard without jailbreaking, you only need a pc and adb. The only downside i know is that you cant use password lock because it is hardcoded to use samsung keyboard",
+          "score": 6,
+          "created_utc": 1745894488.0,
+          "replies": [
+            {
+              "id": "mpm8nff",
+              "author": "Niceguy955",
+              "body": "It comes back after every reboot (according to what I read), or at the very least, after every upgrade. It\u2019s part of OneUI. At any rate \u201cyou only need a pc and adb\u201d probably helps only 1% of 1% of users \ud83d\ude01.",
+              "score": 2,
+              "created_utc": 1745907703.0,
+              "replies": [
+                {
+                  "id": "mpm8zbm",
+                  "author": "asen23",
+                  "body": "i did that 2 months ago and it never came back for me, i already rebooted multiple times and iirc i got atleast two security updates. If it came back after major oneui upgrade then its a hassle but not that much.",
+                  "score": 3,
+                  "created_utc": 1745907893.0,
+                  "replies": [
+                    {
+                      "id": "mprnx7m",
+                      "author": "free2ski",
+                      "body": "but you don't use a password lock I assume?",
+                      "score": 1,
+                      "created_utc": 1745977532.0,
+                      "replies": [
+                        {
+                          "id": "mprod97",
+                          "author": "asen23",
+                          "body": "yes, i use pin and fingerprint, too bad password are hardcoded to use samsung keyboard",
+                          "score": 1,
+                          "created_utc": 1745977683.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mqbrgcw",
+          "author": "None",
+          "body": "[removed]",
+          "score": 2,
+          "created_utc": 1746250002.0,
+          "replies": [
+            {
+              "id": "mqbyhgg",
+              "author": "Niceguy955",
+              "body": "I appreciate the info and hard work, but don't you agree this is something Samsung should/could have fixed long ago?",
+              "score": 2,
+              "created_utc": 1746254015.0,
+              "replies": [
+                {
+                  "id": "mqbyopg",
+                  "author": "Cowicidal",
+                  "body": "100% agree.  That's why Samsung Sucks\u2122 for this. ;)",
+                  "score": 2,
+                  "created_utc": 1746254135.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpoe64c",
+          "author": "chuloreddit",
+          "body": "How about their tablets?",
+          "score": 1,
+          "created_utc": 1745941580.0,
+          "replies": [
+            {
+              "id": "mporv2g",
+              "author": "Niceguy955",
+              "body": "I assume it's the same. They all use the same OneUI skin of Android.",
+              "score": 0,
+              "created_utc": 1745945603.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mpotm80",
+          "author": "notjordansime",
+          "body": "Wait so Samsungs just retain *everything* that\u2019s ever been copied to the keyboard..? :0",
+          "score": 1,
+          "created_utc": 1745946099.0,
+          "replies": [
+            {
+              "id": "mppj85z",
+              "author": "None",
+              "body": "[removed]",
+              "score": 2,
+              "created_utc": 1745953382.0,
+              "replies": [
+                {
+                  "id": "mpqdfnt",
+                  "author": "notjordansime",
+                  "body": "Can the user access it at all?",
+                  "score": 1,
+                  "created_utc": 1745962101.0,
+                  "replies": [
+                    {
+                      "id": "mpqifkw",
+                      "author": "Niceguy955",
+                      "body": "Yes",
+                      "score": 2,
+                      "created_utc": 1745963649.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpkrqdm",
+          "author": "puppymaster123",
+          "body": "Or android. If you love your parents don\u2019t give them Android phones. The side loading fiasco that has been running rampant for the last couple of years leading to scams says as much",
+          "score": -33,
+          "created_utc": 1745886194.0,
+          "replies": [
+            {
+              "id": "mpkxkk1",
+              "author": "Niceguy955",
+              "body": "I have to disagree there. Both my parents have Android, as does my entire family. I have Samsung a try after several happy OnePlus years. And surprisingly, I love the hardware. Battery life is great, camera good for my needs, snappy etc. A lot of Samsung bloatware that can't be removed, but so Apple phones have their share.\n\nAndroid is great. \n\nBut if you, as a company, decide to violate your users' security, and ignore their complaints for years, YEARS! (people have been complaining on this clipboard thing on Reddit and to Samsung since at least 2020), then you suck.\n\nI have absolutely no idea why they haven't fixed this. It's a simple fix. I didn't subscribe to conspiracy theories, so I'll just attribute this to massive stupidity.",
+              "score": 3,
+              "created_utc": 1745888239.0,
+              "replies": [
+                {
+                  "id": "mpl6oz6",
+                  "author": "Eccohawk",
+                  "body": "How do you feel about the autocorrect and keyboard layout? I moved from one plus to Samsung and it's just absolutely terrible. Hundreds of super common words it doesn't recognize, it will try to autocorrect to words that aren't actual words...just utterly abysmal.",
+                  "score": 1,
+                  "created_utc": 1745891469.0,
+                  "replies": [
+                    {
+                      "id": "mplfjxv",
+                      "author": "Niceguy955",
+                      "body": "Autocorrect now sucks on most keyboards. I'm using Google keyboard on my Samsung, and the suggestions are horrible. I have to check everything again before submitting anything. My personal guess is that they're all using \"AI\" now. Crap.",
+                      "score": 6,
+                      "created_utc": 1745894616.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mplybku",
+                      "author": "RealPutin",
+                      "body": "I just installed GBoard on my Samsung",
+                      "score": 2,
+                      "created_utc": 1745902348.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mple3zk",
+                      "author": "ConsciousCommunity43",
+                      "body": "Unlike on iPhone, you can use third party keyboards. SwiftKey is my favourite, highly customisable layout, no problem with dictionary",
+                      "score": 5,
+                      "created_utc": 1745894081.0,
+                      "replies": [
+                        {
+                          "id": "mpmcait",
+                          "author": "Elephant789",
+                          "body": "Yeah, I've been using SwiftKey even way before Microsoft bout them. It's great. I tried gboard a few times but just could get used to it. Not waying there's anything wrong with gboard, it might even be better, but it's probably just because of muscle memory.",
+                          "score": 2,
+                          "created_utc": 1745909837.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mplflsm",
+                          "author": "puppymaster123",
+                          "body": "Unlike on iPhone, you can use third party keylogger that tracks you on Android.\n\nhttps://joindeleteme.com/is-site-safe/is-swiftkey-safe/",
+                          "score": -5,
+                          "created_utc": 1745894635.0,
+                          "replies": [
+                            {
+                              "id": "mpm90lu",
+                              "author": "ConsciousCommunity43",
+                              "body": "\"only for 200 bucks a year we'll protect you from all this evil apps\" doesn't really contribute into the credibility of the site you've chosen to share, aside from this article using a single-line reddit comment as a resource.",
+                              "score": 3,
+                              "created_utc": 1745907914.0,
+                              "replies": [
+                                {
+                                  "id": "mpm9fr3",
+                                  "author": "puppymaster123",
+                                  "body": "All good. You can find it on the permission screen when you install swiftkey as well.",
+                                  "score": -2,
+                                  "created_utc": 1745908158.0,
+                                  "replies": [
+                                    {
+                                      "id": "mpmun4a",
+                                      "author": "IIlIIlIIlIlIIlIIlIIl",
+                                      "body": "You can deny access to things you don't want it accessing if you're so paranoid.",
+                                      "score": 3,
+                                      "created_utc": 1745921455.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mplnic9",
+              "author": "reggionh",
+              "body": "you don\u2019t deserve to be downvoted. this is not unreasonable to claim. if security is a priority, apple devices has an edge. \n\nhttps://nordvpn.com/blog/ios-vs-android-security/\n\nhttps://www.forbes.com/sites/zakdoffman/2024/06/01/google-android-warning-shows-why-apples-iphone-is-impossible-to-beat/",
+              "score": -8,
+              "created_utc": 1745897606.0,
+              "replies": [
+                {
+                  "id": "mplzsjb",
+                  "author": "puppymaster123",
+                  "body": "All good buddy. I could care less. I just want to give my parents something and forget about it. Don\u2019t have to worry about them clicking weird links. If you use iPhone, the only thing you have to worry about is that Israeli spy company jailbreaking your WhatsApp. Piece of mind doesn\u2019t come cheap so I am ok with the downvotes.",
+                  "score": -4,
+                  "created_utc": 1745903021.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpojcsv",
+          "author": "samehsameh",
+          "body": "You're scared of what exactly? Are your browsing and phone usage habbits so bad/risky that you think this is a genuine concern? Fear mongering for nothing.",
+          "score": -2,
+          "created_utc": 1745943124.0,
+          "replies": [
+            {
+              "id": "mporp5c",
+              "author": "None",
+              "body": "[removed]",
+              "score": 2,
+              "created_utc": 1745945557.0,
+              "replies": [
+                {
+                  "id": "mpou36y",
+                  "author": "samehsameh",
+                  "body": "Yeah i use them.\n\n> for everyone to see\n\nBut who exactly? What are you doing with your phone that makes you actually think that's a possibility?",
+                  "score": 1,
+                  "created_utc": 1745946235.0,
+                  "replies": [
+                    {
+                      "id": "mpp0psv",
+                      "author": "Niceguy955",
+                      "body": "Leave your phone around, get your phone stolen (which can turn into your bank account be emptied), cross a border where a crazy refund demands to review/copy the contents of your phone... Too many possibilities. \n\nIn fact, if I were a hacker, is bullied a beautiful few game that targets Samsung devices, and uploads that text file to my server, just to see if I can get user/pass pairs.",
+                      "score": 1,
+                      "created_utc": 1745948090.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpj61fo",
+      "author": "Warm-Spread-6960",
+      "body": "Reading this makes me a bit less annoyed at the fact that my iPhone asks every single damn time if I want to allow an app to paste from my clipboard",
+      "score": 68,
+      "created_utc": 1745867480.0,
+      "replies": [
+        {
+          "id": "mpjl4h2",
+          "author": "Kyrond",
+          "body": "It is always convenience vs security.",
+          "score": 41,
+          "created_utc": 1745872038.0,
+          "replies": []
+        },
+        {
+          "id": "mpjj0mm",
+          "author": "pelirodri",
+          "body": "Also, when copying passwords and shit, they don\u2019t last long in the clipboard, which can also be a bit annoying at times.",
+          "score": 11,
+          "created_utc": 1745871415.0,
+          "replies": [
+            {
+              "id": "mpjkx20",
+              "author": "TokyoJimu",
+              "body": "I\u2019ve always hated the way the clipboard seems to be zeroed out after a few minutes, but this post makes me understand why.",
+              "score": 13,
+              "created_utc": 1745871978.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mpj740n",
+          "author": "PbCuBiHgCd",
+          "body": "Go to settings>app>click on the app and there should be a toggle to always allow the app to access your clipboard when you press paste. Only do this for trusted apps though.",
+          "score": 9,
+          "created_utc": 1745867806.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpj1k25",
+      "author": "w1n5t0nM1k3y",
+      "body": "[This isn't new](https://www.reddit.com/r/samsunggalaxy/comments/mtakqq/how_to_disable_the_clipboard_history_this_is_a/)\n\nYou need to be careful when copying things to your keyboard.",
+      "score": 66,
+      "created_utc": 1745866134.0,
+      "replies": [
+        {
+          "id": "mpl1zy4",
+          "author": "Theringofice",
+          "body": "Bruh, time to update and clear those clipboards.",
+          "score": 1,
+          "created_utc": 1745889813.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpj6ted",
+      "author": "PbCuBiHgCd",
+      "body": "It is so annoying that I can't stop samsung keyboard from saving everything. I use a FOSS keyboard but still samsung just decides to copy every image and text (even passwords which are marked sensitive when copying, thus ignored by FOSS keyboard)",
+      "score": 31,
+      "created_utc": 1745867715.0,
+      "replies": [
+        {
+          "id": "mplfb6w",
+          "author": "asen23",
+          "body": "use adb to remove samsung keyboard",
+          "score": 2,
+          "created_utc": 1745894525.0,
+          "replies": [
+            {
+              "id": "mppbj0a",
+              "author": "PbCuBiHgCd",
+              "body": "Ohh this is actually a pretty good idea. Thank you!!",
+              "score": 1,
+              "created_utc": 1745951152.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpj2jml",
+      "author": "need4speedcabron",
+      "body": "I know some of those words",
+      "score": 38,
+      "created_utc": 1745866429.0,
+      "replies": [
+        {
+          "id": "mpj2wmm",
+          "author": "grenadesonfire2",
+          "body": "Is your profile pic a crack over the default?\n\nThats diabolical",
+          "score": 33,
+          "created_utc": 1745866536.0,
+          "replies": [
+            {
+              "id": "mpj2zp4",
+              "author": "need4speedcabron",
+              "body": "Maybe",
+              "score": 17,
+              "created_utc": 1745866562.0,
+              "replies": [
+                {
+                  "id": "mpj4y1x",
+                  "author": "ButterscotchNovel371",
+                  "body": "Nope, it\u2019s an eyelash on my screen",
+                  "score": 17,
+                  "created_utc": 1745867150.0,
+                  "replies": []
+                },
+                {
+                  "id": "mpj7pz2",
+                  "author": "ntwiles",
+                  "body": "God that\u2019s mean. I love it.",
+                  "score": 8,
+                  "created_utc": 1745867991.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mpj83or",
+          "author": "TangeloFew4048",
+          "body": "I was wondering if they are just making up headlines now",
+          "score": 4,
+          "created_utc": 1745868107.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpjfndk",
+      "author": "Melodic-Comb9076",
+      "body": "\u2026and there is prob no fix to it, hence the admission.",
+      "score": 8,
+      "created_utc": 1745870404.0,
+      "replies": []
+    },
+    {
+      "id": "mpk2kwd",
+      "author": "Jim_84",
+      "body": "So if someone is on my phone with the screen unlocked they might be able to get a password out of the clipboard, though they won't know for which site or which user name. Okay.",
+      "score": 6,
+      "created_utc": 1745877570.0,
+      "replies": []
+    },
+    {
+      "id": "mpj8fjr",
+      "author": "helphunting",
+      "body": "Shhhhhh....\n\nDon't tell my work, it's how I move info between \"Work\" profile and my BYOD.",
+      "score": 12,
+      "created_utc": 1745868206.0,
+      "replies": [
+        {
+          "id": "mpk0icr",
+          "author": "Nice_Marmot_7",
+          "body": "You work at the Pentagon, don\u2019t you?",
+          "score": 5,
+          "created_utc": 1745876840.0,
+          "replies": []
+        },
+        {
+          "id": "mpjewcx",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1745870179.0,
+          "replies": [
+            {
+              "id": "mpjk2r5",
+              "author": "helphunting",
+              "body": "LOL bitwarden on my side, no password manager allowed on their side!! Grrrr",
+              "score": 2,
+              "created_utc": 1745871731.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpj718m",
+      "author": "Thin_Dream2079",
+      "body": "Wormhole?\n\n![gif](giphy|g0gO1FuCfD27h7tkEr)",
+      "score": 4,
+      "created_utc": 1745867783.0,
+      "replies": [
+        {
+          "id": "mpsumtv",
+          "author": "B3eenthehedges",
+          "body": "Welcome the future, where articles purposely use the wrong words to drive engagement, but 99% don't even notice.",
+          "score": 2,
+          "created_utc": 1745996441.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpjr645",
+      "author": "TeaManManMan",
+      "body": "Seems like we need to manually delete the clipboard entries periodically",
+      "score": 5,
+      "created_utc": 1745873847.0,
+      "replies": []
+    },
+    {
+      "id": "mpmmenr",
+      "author": "itsblowy",
+      "body": "Samsung is the most dodgy business in the galaxy.",
+      "score": 3,
+      "created_utc": 1745916260.0,
+      "replies": []
+    },
+    {
+      "id": "mpkxxi9",
+      "author": "SamuraiMike81",
+      "body": "I mean, it is a galaxy. It might as well have wormholes!",
+      "score": 5,
+      "created_utc": 1745888365.0,
+      "replies": []
+    },
+    {
+      "id": "mpj4w3c",
+      "author": "Blueopus2",
+      "body": "Device name checks out",
+      "score": 5,
+      "created_utc": 1745867134.0,
+      "replies": [
+        {
+          "id": "mpj6jzo",
+          "author": "Nyoka_ya_Mpembe",
+          "body": "\ud83d\ude01",
+          "score": 2,
+          "created_utc": 1745867636.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpja24k",
+      "author": "twitch_delta_blues",
+      "body": "Cyberpunk sentence.",
+      "score": 2,
+      "created_utc": 1745868705.0,
+      "replies": []
+    },
+    {
+      "id": "mpmh02c",
+      "author": "deniszz",
+      "body": "Samsung's been focusing more on features than core security lately. Not a good trade-off.",
+      "score": 2,
+      "created_utc": 1745912754.0,
+      "replies": []
+    },
+    {
+      "id": "mpmjfts",
+      "author": "DelusiveProphet",
+      "body": "Sooooo Samsung has found a wormhole in their Galaxy\u2026",
+      "score": 2,
+      "created_utc": 1745914307.0,
+      "replies": []
+    },
+    {
+      "id": "mpr88fm",
+      "author": "Enough_Nature4508",
+      "body": "Read that way too fast and thought it said Samsung passwords were being leaked through a wormhole in the galaxy \ud83d\uddff\u00a0",
+      "score": 2,
+      "created_utc": 1745972201.0,
+      "replies": []
+    },
+    {
+      "id": "mpjbnh4",
+      "author": "sexaddic",
+      "body": "This and many other reasons are sadly why I can\u2019t do android anymore. I don\u2019t love my iphone compared to the features of android but it\u2019s without a doubt the safer and more secure platform.",
+      "score": 4,
+      "created_utc": 1745869197.0,
+      "replies": [
+        {
+          "id": "mpjhq6d",
+          "author": "GeneralCommand4459",
+          "body": "And it\u2019s only going to get worse unfortunately as AI gets more integrated and they need to review the data more often.",
+          "score": 6,
+          "created_utc": 1745871030.0,
+          "replies": []
+        },
+        {
+          "id": "mpk66yv",
+          "author": "noAnimalsWereHarmed",
+          "body": "Errmm, iOS has had some absolute catastrophes over the last few versions.  By all means use an iPhone (I do),  just don\u2019t fall for the lie that it\u2019s more secure than Android.  \n\nOh and privacy is also as bad as Android, main difference is Apple makes sure people have to pay them before they can access it.",
+          "score": 11,
+          "created_utc": 1745878789.0,
+          "replies": [
+            {
+              "id": "mpk6cno",
+              "author": "sexaddic",
+              "body": "Prove absolutely anything you\u2019ve said here.",
+              "score": -12,
+              "created_utc": 1745878842.0,
+              "replies": [
+                {
+                  "id": "mpk71ok",
+                  "author": "noAnimalsWereHarmed",
+                  "body": "Why?  Believing that iOS hasn\u2019t had major exploits is really stupid and thinking Apple don\u2019t sell your data isn\u2019t far behind.",
+                  "score": 10,
+                  "created_utc": 1745879077.0,
+                  "replies": [
+                    {
+                      "id": "mpk7c6u",
+                      "author": "sexaddic",
+                      "body": "If you won\u2019t backup your claims then they\u2019re absolutely useless.",
+                      "score": -11,
+                      "created_utc": 1745879176.0,
+                      "replies": [
+                        {
+                          "id": "mpkc7je",
+                          "author": "conglomitall",
+                          "body": "and your bickersome bot impression is totally vacuous and pitiful.. besides dont you have a trouser transistor to diddle? or did the state of florida terminate your access to mrkiddie4k-12chan.com until you get out of juvi?",
+                          "score": 1,
+                          "created_utc": 1745880842.0,
+                          "replies": [
+                            {
+                              "id": "mpkcja6",
+                              "author": "sexaddic",
+                              "body": "I\u2019m sorry were you making a joke?",
+                              "score": -1,
+                              "created_utc": 1745880953.0,
+                              "replies": [
+                                {
+                                  "id": "mpm1m1z",
+                                  "author": "conglomitall",
+                                  "body": "nah no joke..just suggesting a possible addition to the biographical info in your reddit profile..it's really only going to be funny to those who know you on a more personal level..",
+                                  "score": 0,
+                                  "created_utc": 1745903905.0,
+                                  "replies": [
+                                    {
+                                      "id": "mpneyv9",
+                                      "author": "sexaddic",
+                                      "body": "Yeah I have no idea what you\u2019re talking about kid.",
+                                      "score": 1,
+                                      "created_utc": 1745930603.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mpkbo1u",
+                          "author": "noAnimalsWereHarmed",
+                          "body": "If you think a Reddit post is more reliable than the many articles written about them, I have nothing else to say.  I learned not to try and cure stupid a long time ago.",
+                          "score": -2,
+                          "created_utc": 1745880659.0,
+                          "replies": [
+                            {
+                              "id": "mpkbrs3",
+                              "author": "sexaddic",
+                              "body": "Apparently I haven\u2019t \ud83d\ude01",
+                              "score": 2,
+                              "created_utc": 1745880694.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mplekic",
+                      "author": "re_carn",
+                      "body": "The presence of exploits has nothing to do with insecurity by design. And you need more than \u201ctrust me, dude\u201d to claim Apple is selling user data.",
+                      "score": -3,
+                      "created_utc": 1745894250.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpj3yi8",
+      "author": "Dan_Felder",
+      "body": "So that's where all my clipboards have been going...",
+      "score": 4,
+      "created_utc": 1745866851.0,
+      "replies": [
+        {
+          "id": "mpj509c",
+          "author": "Lordwigglesthe1st",
+          "body": "Mooom, I need another clipboard! It got stuck in the wormhole again",
+          "score": 3,
+          "created_utc": 1745867169.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpkk13t",
+      "author": "Thinkinbout8",
+      "body": "They used employee monitoring software which took screenshots on the employees phones...\n\nThe Big Brother software was the source of the leak NOT the clipboard app on Android\ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f",
+      "score": 2,
+      "created_utc": 1745883523.0,
+      "replies": [
+        {
+          "id": "mpkwp84",
+          "author": "WitchQween",
+          "body": "I think that's a separate article. The one linked just says that One UI (Galaxy devices) copies passwords in plaintext and doesn't have an autodelete function. The clipboard has no way of knowing that you're copying a password.\n\nThe article doesn't say anything about vulnerabilities in the clipboard. There's no \"wormhole\" mentioned.",
+          "score": 2,
+          "created_utc": 1745887934.0,
+          "replies": [
+            {
+              "id": "mpm1wya",
+              "author": "Lugey81",
+              "body": "I use a password manager. It has an auto clear feature when you copy a password. It doesn't, I messaged them and they said they can't do that on Samsung devices. That's a bit shit. Can't find a routine clear the clipboard either. \n\nI have my clipboard in that side bar that slides out, and I periodically open that to clean up the clipboard",
+              "score": 1,
+              "created_utc": 1745904059.0,
+              "replies": [
+                {
+                  "id": "mpm9bw8",
+                  "author": "empty-atom",
+                  "body": "How did you add the clipboard to edge panel?",
+                  "score": 1,
+                  "created_utc": 1745908094.0,
+                  "replies": [
+                    {
+                      "id": "mpmb7ml",
+                      "author": "Lugey81",
+                      "body": "Settings cog near bottom of edge panel, you can add it",
+                      "score": 1,
+                      "created_utc": 1745909195.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpl6xs6",
+      "author": "cyberspirit777",
+      "body": "Android/OneUI just needs to implement the clipboard access control that iOS has. Simple fix.",
+      "score": 2,
+      "created_utc": 1745891552.0,
+      "replies": []
+    },
+    {
+      "id": "mpnk2se",
+      "author": "mollyringwald420",
+      "body": "Android guys will still tell you how this is actually better than the iPhone",
+      "score": 2,
+      "created_utc": 1745932414.0,
+      "replies": []
+    },
+    {
+      "id": "mpjwvrm",
+      "author": "zerolink16",
+      "body": "Their Secure Folder also seems to be bugging out right now too, Google Messages seems to be able to load pictures from the secure folder while it's locked",
+      "score": 1,
+      "created_utc": 1745875643.0,
+      "replies": [
+        {
+          "id": "mpmentv",
+          "author": "stgiga",
+          "body": "That's not good",
+          "score": 1,
+          "created_utc": 1745911278.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpk00rh",
+      "author": "just4747",
+      "body": "Is this with the Samsung keyboard only or GBoard's clipboard too?",
+      "score": 1,
+      "created_utc": 1745876654.0,
+      "replies": []
+    },
+    {
+      "id": "mpku711",
+      "author": "Nervous_Contract_139",
+      "body": "Can it leak me through the wormhole, if Katy Perry gets to be an Astronaut, I want to be an intergalactic explorer.",
+      "score": 1,
+      "created_utc": 1745887056.0,
+      "replies": []
+    },
+    {
+      "id": "mpkuerl",
+      "author": "GentlemenHODL",
+      "body": "I don't get it, my galaxy s23 clears its clipboard within minutes, sometimes less? \n\nIt's constantly empty. It's even irritating because sometimes I will copy something and paste and then 30 seconds later it's gone.",
+      "score": 1,
+      "created_utc": 1745887131.0,
+      "replies": [
+        {
+          "id": "mpli2kp",
+          "author": "MonkeeFrog",
+          "body": "I guess that is the wormhole part\n\nI only know about wormholes from Star Trek though",
+          "score": 1,
+          "created_utc": 1745895545.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpmcv93",
+      "author": "DemoEvolved",
+      "body": "Android oopsie?",
+      "score": 1,
+      "created_utc": 1745910180.0,
+      "replies": []
+    },
+    {
+      "id": "mpmkmp0",
+      "author": "--Arete",
+      "body": "I wish more services supported passkeys. They are amazing with a service like 1password.",
+      "score": 1,
+      "created_utc": 1745915084.0,
+      "replies": []
+    },
+    {
+      "id": "mpq89jh",
+      "author": "specc-",
+      "body": "i'm so surprised",
+      "score": 1,
+      "created_utc": 1745960551.0,
+      "replies": []
+    },
+    {
+      "id": "mpj9n3m",
+      "author": "sussywanker",
+      "body": "With how polished graphene os has been and if you are a cash connoisseur like me. A pixel + graphene os + dumb phone for calls is Awesome.",
+      "score": 1,
+      "created_utc": 1745868575.0,
+      "replies": []
+    },
+    {
+      "id": "mpk8xle",
+      "author": "fungusfaced",
+      "body": "You can get around this security issue by using the specialized keyboard from an app like Keepass2Android. It types out your password in one button, never touching the clipboard.",
+      "score": 0,
+      "created_utc": 1745879725.0,
+      "replies": [
+        {
+          "id": "mplepk2",
+          "author": "reeeelllaaaayyy823",
+          "body": "Most of the time you don't even need the keyboard, it will use autofill.",
+          "score": 2,
+          "created_utc": 1745894302.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mpkdjtu",
+      "author": "Poopblaster8121",
+      "body": "Hegseth is sweating bullets rn",
+      "score": 0,
+      "created_utc": 1745881301.0,
+      "replies": []
+    },
+    {
+      "id": "mpkx09q",
+      "author": "ArtistNRG",
+      "body": "Ya n a lot if website don\u2019t show good on certain galaxies  because libraries don\u2019t update them so no Uber eats fir old operating systems",
+      "score": 0,
+      "created_utc": 1745888040.0,
+      "replies": []
+    }
+  ]
+}

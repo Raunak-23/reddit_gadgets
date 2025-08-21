@@ -1,0 +1,49 @@
+metric,value
+file,1jgg6y1.csv
+title,"Microsoft tells Windows 10 users to just trade in their PC for a newer one, because how hard can it be?"
+rows,1146
+num_posts,1
+num_comments,1145
+unique_authors,773
+max_depth,11
+avg_comment_words,57.69
+median_comment_words,43.0
+max_comment_words,690
+positive_count,140
+negative_count,941
+neutral_count,64
+positive_pct,12.227
+negative_pct,82.183
+neutral_pct,5.59
+topic_1_keywords,"old, computer, pc, windows, im, microsoft, 11, year"
+topic_1_label,"Windows, Microsoft, 11"
+topic_2_keywords,"people, windows, dont, like, 11, one, running, way"
+topic_2_label,"if you don't like windows, you'll be running"
+topic_3_keywords,"linux, old, hardware, new, pc, os, use, steam"
+topic_3_label,"linux, pc, os, use"
+topic_4_keywords,"windows, 11, linux, 10, dont, use, work, still"
+topic_4_label,Windows 11 Linux doesn't work
+topic_5_keywords,"windows, microsoft, tpm, 11, pc, im, linux, trade"
+topic_5_label,microsoft tpm 11 pc linux trade
+topic_6_keywords,"people, windows, new, updates, might, even, things, wont"
+topic_6_label,"windows, updates, might, even, things"
+top_ngram_1,windows 11 (263)
+top_ngram_2,windows 10 (185)
+top_ngram_3,old computer (79)
+top_ngram_4,year old (71)
+top_ngram_5,years old (53)
+top_ngram_6,buy new (52)
+top_ngram_7,dont know (51)
+top_ngram_8,upgrade windows (48)
+top_ngram_9,security updates (48)
+top_ngram_10,year old computer (47)
+ner_1,Linux|MISC|293
+ner_2,Microsoft|ORG|254
+ner_3,Windows 11|MISC|182
+ner_4,Windows|MISC|141
+ner_5,Windows 10|MISC|122
+ner_6,Mac|MISC|38
+ner_7,Adobe|ORG|36
+ner_8,Toyota|ORG|34
+ner_9,NZXT|ORG|28
+ner_10,MS|ORG|28

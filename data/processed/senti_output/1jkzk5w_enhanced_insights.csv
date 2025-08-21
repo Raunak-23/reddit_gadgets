@@ -1,0 +1,49 @@
+metric,value
+file,1jkzk5w.csv
+title,Fully functional crab-shaped PlayStation 1 uses movable claws as the controller
+rows,94
+num_posts,1
+num_comments,93
+unique_authors,78
+max_depth,5
+avg_comment_words,19.27
+median_comment_words,12.0
+max_comment_words,88
+positive_count,25
+negative_count,68
+neutral_count,0
+positive_pct,26.882
+negative_pct,73.118
+neutral_pct,0.0
+topic_1_keywords,"crab, back, giant, enemy, people, one, time, wireless"
+topic_1_label,"crab back, giant, enemy, people"
+topic_2_keywords,"article, got, pun, name, called, playing, creator, based"
+topic_2_label,The pun is called the play
+topic_3_keywords,"playstacean, like, bad, know, strikes, write, least, jippity"
+topic_3_label,jippity: a playtacean likes to know
+topic_4_keywords,"yes, guys, take, hell, old, bay, article, source"
+topic_4_label,'gods take' and 'gods' in the bay
+topic_5_keywords,"name, article, literally, design, even, damn, people, came"
+topic_5_label,a slam on the wall
+topic_6_keywords,"console, like, play, sitting, crab, time, front, claws"
+topic_6_label,"Console likes to play, sitting, crabs and a console"
+top_ngram_1,looks like (7)
+top_ngram_2,like latter (6)
+top_ngram_3,latter video (6)
+top_ngram_4,video person (6)
+top_ngram_5,person plays (6)
+top_ngram_6,plays sitting (6)
+top_ngram_7,sitting front (6)
+top_ngram_8,front console (6)
+top_ngram_9,console article (6)
+top_ngram_10,article also (6)
+ner_1,##dit|ORG|5
+ner_2,Red|MISC|5
+ner_3,PlayStacean|ORG|4
+ner_4,##cea|ORG|3
+ner_5,8BitDo|ORG|2
+ner_6,CrayStation|ORG|2
+ner_7,Old Bay|MISC|2
+ner_8,Maryland|LOC|2
+ner_9,Fight Crab|MISC|2
+ner_10,Bay|ORG|2

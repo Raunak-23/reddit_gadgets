@@ -1,0 +1,49 @@
+metric,value
+file,1jd1kof.csv
+title,Electronic dictionary market shrinking in Japan
+rows,65
+num_posts,1
+num_comments,64
+unique_authors,56
+max_depth,6
+avg_comment_words,41.31
+median_comment_words,31.5
+max_comment_words,204
+positive_count,9
+negative_count,55
+neutral_count,0
+positive_pct,14.062
+negative_pct,85.938
+neutral_pct,0.0
+topic_1_keywords,"japan, 2000, japanese, living, since, year, still, said"
+topic_1_label,"Japan, 2000, says living in Japan since the year 2000"
+topic_2_keywords,"really, one, surprising, much, use, news, used, students"
+topic_2_label,students use news to surprise
+topic_3_keywords,"one, still, theres, dumb, phone, japan, years, theyre"
+topic_3_label,theres a phone in japan
+topic_4_keywords,"phone, year, could, apps, exams, language, still, sure"
+topic_4_label,phone could still be able to use exams
+topic_5_keywords,"one, thing, device, still, buy, sell, waitthey, japanese"
+topic_5_label,"One, device, still, waitthey"
+topic_6_keywords,"joke, 60, people, try, 2001, y2k, hysteria, yet"
+topic_6_label,hysteria is a joke that has 60 people trying in 2001
+top_ngram_1,device one (12)
+top_ngram_2,one thing (12)
+top_ngram_3,device one thing (12)
+top_ngram_4,last year (6)
+top_ngram_5,waitthey still (6)
+top_ngram_6,still sell (6)
+top_ngram_7,sell device (6)
+top_ngram_8,thing buy (6)
+top_ngram_9,buy device (6)
+top_ngram_10,waitthey still sell (6)
+ner_1,Japan|LOC|19
+ner_2,Japanese|MISC|13
+ner_3,China|LOC|10
+ner_4,US|LOC|5
+ner_5,iPhone|MISC|4
+ner_6,Singapore|LOC|3
+ner_7,CDsD|MISC|2
+ner_8,Chromebooks|MISC|2
+ner_9,English|MISC|2
+ner_10,##I|ORG|2

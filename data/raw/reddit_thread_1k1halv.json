@@ -1,0 +1,2863 @@
+{
+  "post": {
+    "title": "Synology requires self-branded drives for some consumer NAS systems, drops full functionality and support for third-party HDDs",
+    "author": "diacewrb",
+    "id": "1k1halv",
+    "score": 1828,
+    "created_utc": 1744907863.0,
+    "selftext": "",
+    "num_comments": 343,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1k1halv/synology_requires_selfbranded_drives_for_some/"
+  },
+  "comments": [
+    {
+      "id": "mnm1b2l",
+      "author": "TheSpatulaOfLove",
+      "body": "Well that\u2019s certainly one way to alienate your customers\u2026",
+      "score": 1408,
+      "created_utc": 1744908173.0,
+      "replies": [
+        {
+          "id": "mnm55h5",
+          "author": "MrStrul3",
+          "body": "Was looking at them a few minutes ago and thought it would be nice to have one, well seems that DIY is the way to go.",
+          "score": 337,
+          "created_utc": 1744909277.0,
+          "replies": [
+            {
+              "id": "mnm6s59",
+              "author": "ann0yed",
+              "body": "I'd recommend unRAID. I built one using used parts 8 years ago and it's still running great.",
+              "score": 143,
+              "created_utc": 1744909747.0,
+              "replies": [
+                {
+                  "id": "mnmgxia",
+                  "author": "None",
+                  "body": "[removed]",
+                  "score": -11,
+                  "created_utc": 1744912618.0,
+                  "replies": [
+                    {
+                      "id": "mnnfwl5",
+                      "author": "epsilona01",
+                      "body": "Which you can do on unRAID, if you really want to.",
+                      "score": 9,
+                      "created_utc": 1744923016.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mnnazzy",
+                      "author": "wsippel",
+                      "body": "ZFS sounds amazing - if you get your knowledge from Youtube videos. Don't get me wrong, the tech is amazing. It's the \"billion dollar file system\", the most over-engineered piece of technology ever created, incredibly reliable and fast as fuck - and it was designed from the ground up for datacenter use. It's entirely pointless and makes no sense at all for home users.",
+                      "score": 13,
+                      "created_utc": 1744921585.0,
+                      "replies": [
+                        {
+                          "id": "mnnuwo4",
+                          "author": "ThorsdayBeer",
+                          "body": "Just lost a build server two weeks ago running ZFS. Was unable to recover the user space\u2026 was reminded in the forums that ZFS is still experimental. Use at your own risk\u2026",
+                          "score": 11,
+                          "created_utc": 1744927655.0,
+                          "replies": [
+                            {
+                              "id": "mnqowjh",
+                              "author": "bobs-yer-unkl",
+                              "body": "ZFS is not experimental... on Solaris.",
+                              "score": 0,
+                              "created_utc": 1744975227.0,
+                              "replies": [
+                                {
+                                  "id": "mnruakx",
+                                  "author": "neuromonkey",
+                                  "body": "I'm more of a SunOS 4.1.3 guy, myself. Don't want to jump into anything new too quickly. If that doesn't work out... welp, back to CP/M.",
+                                  "score": 1,
+                                  "created_utc": 1744989938.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mno2atn",
+                          "author": "n4te",
+                          "body": "This is nonsense. Among other things, snapshots are amazing for differential backups and copies.",
+                          "score": 2,
+                          "created_utc": 1744930172.0,
+                          "replies": [
+                            {
+                              "id": "mnphs0a",
+                              "author": "SupremeDictatorPaul",
+                              "body": "It depends on your use case. If you are a home user with a little NAS being used for your video library, and you can\u2019t afford real backups, then Unraid is probably a much better solution. With Unraid, you could have 4 drives die out of an 8 drive array, and you could still recover half of your files off of the 4 drives. That\u2019s a lot of time saved from downloading again. With ZFS, all of the data is gone, and you have to start from scratch. \n\nIt your running a high performance database, and you want snapshots and other features, the ZFS is a far better solution.",
+                              "score": 1,
+                              "created_utc": 1744950066.0,
+                              "replies": [
+                                {
+                                  "id": "mnsnsv0",
+                                  "author": "n4te",
+                                  "body": "You're right you can't (easily) do RAIDZ4 in ZFS, where losing any 4 disks out of 8 is OK, unless you do a 5+ way mirror. Neither is a real solution for backups, which should be separate, but ZFS snapshots facilitates fast backups.\n\nSnapshots aren't for high performance, they are for differential copying or marking the history of files so you can go back to that state at any time.\n\nEg you can snapshot, copy the files somewhere, then later snapshot and copy again -- only the changed files will be copied. The crucial thing is unlike usual differential backups, the filesystem already knows what changed. It doesn't need to compare anything, like rsync or others would. This makes it crazy fast, often < 1 second.\n\nYou can snapshot, update the OS (or install some software or anything else), then go back to the snapshot if the update was bad.\n\nMost home users can use a single 18TB or so drive. If you're doing more than that, you're likely already dorking around needlessly and shouldn't be discouraged from the cool things ZFS can do.",
+                                  "score": 1,
+                                  "created_utc": 1744998732.0,
+                                  "replies": [
+                                    {
+                                      "id": "mnux0ly",
+                                      "author": "SupremeDictatorPaul",
+                                      "body": "With Unraid, you can devote just one disk to parity in and 8 disk array, have 7 drives die, and still be able to recover 12% of your files. It allows you to maximize space efficiency and recoverability. The downside is lower performance, feature set, and closed ecosystem.",
+                                      "score": 1,
+                                      "created_utc": 1745026183.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mo0xjva",
+                          "author": "lkn240",
+                          "body": "I've been using it for like 10+ years now... it's honestly pretty amazing and shit like snapshots is pretty fucking awesome.\n\nHave you ever even used it?",
+                          "score": 1,
+                          "created_utc": 1745113936.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mnnhwhw",
+                          "author": "OMGItsCheezWTF",
+                          "body": "I mean, I've used it in production for multi-petabyte storage clusters, so I use it at home for half petabyte storage clusters. Seemed to make the most sense to me.",
+                          "score": -4,
+                          "created_utc": 1744923606.0,
+                          "replies": [
+                            {
+                              "id": "mnnk6zp",
+                              "author": "wsippel",
+                              "body": "Most normal people don't have a 500TB storage cluster at home. But sure, if you do, ZFS is probably the correct choice. \n\nMost home gamers have a few terabytes, and want to be able to extend capacity as needed, adding random drives to an existing pool as their storage needs grow. That's simply not a usecase ZFS was designed for.",
+                              "score": 9,
+                              "created_utc": 1744924305.0,
+                              "replies": [
+                                {
+                                  "id": "mnnmmcv",
+                                  "author": "OMGItsCheezWTF",
+                                  "body": "Sure, but this is a discussion about NAS systems with high scalability, that's synology's whole selling point, this is about mass data storage not gamers installing shit from steam.",
+                                  "score": -11,
+                                  "created_utc": 1744925052.0,
+                                  "replies": [
+                                    {
+                                      "id": "mnno4xw",
+                                      "author": "wsippel",
+                                      "body": "Synology is home gamer stuff. Folks use those things to store their photo, music and movie collections, with maybe two or three clients, one of which is a phone. Nobody is running petabyte clusters on Synology hardware. They mostly sell chassis with two to four drive bays.",
+                                      "score": 12,
+                                      "created_utc": 1744925517.0,
+                                      "replies": [
+                                        {
+                                          "id": "mnnoqhn",
+                                          "author": "OMGItsCheezWTF",
+                                          "body": "Huh, to me they are synonymous with whats now the DS1821+ - my first ever home storage server was a predecessor of it with a second expansion chassis. I wasn't even aware they played in the smaller space. Now I have an older AMD Epyc with 256gb of ECC ram and a set of LSI 9300 16i controller cards in a supermicro storage chassis. Entire server cost maybe ~\u00a31500 (second hand) - the storage drives were another 5k.",
+                                          "score": -7,
+                                          "created_utc": 1744925708.0,
+                                          "replies": [
+                                            {
+                                              "id": "mnnv9qi",
+                                              "author": "Habsburgy",
+                                              "body": "My guy I'm not sure who you're flexing to here, but Synology is very much DS218+ for the VAST majority of people, especially on /r/gadgets",
+                                              "score": 4,
+                                              "created_utc": 1744927775.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mnnvyob",
+                                                  "author": "OMGItsCheezWTF",
+                                                  "body": "Not really flexing, just explaining my start was with what I would consider mass storage and that's always been what synology is synonymous with to me. Flexing with an 8 year old second hand server is not exactly flexing lol.",
+                                                  "score": 0,
+                                                  "created_utc": 1744928004.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mnn5oc3",
+                      "author": "GolemancerVekk",
+                      "body": "Thanks but I'd rather smack my fingers with a hammer a couple of times instead.\n\nIt's over faster, cheaper, less pain, and leaves whatever you're using now for storage alone and working.",
+                      "score": 3,
+                      "created_utc": 1744920000.0,
+                      "replies": [
+                        {
+                          "id": "mnn8qf9",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": -4,
+                          "created_utc": 1744920917.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mnna9mn",
+                          "author": "rfc2549-withQOS",
+                          "body": "Syno abd qnap mostly use mdraid undwr the hood anyways",
+                          "score": -6,
+                          "created_utc": 1744921368.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mnm71vu",
+              "author": "thenerfviking",
+              "body": "If you\u2019re at all interested in running your own server the cost has literally never been lower. Unless you\u2019re personally running a several hundred person Minecraft server or building your own MMO out of your basement there\u2019s been shockingly little relevant progress in computers for like 5 to 10 years depending on what your goals are. Those hacked up Russian X99 boards coming out of China are insanely cheap. I\u2019m running my home server on a used 5 year old Threadripper I got with a mobo for like $250 and it\u2019s frankly overkill for what I do with it.",
+              "score": 32,
+              "created_utc": 1744909825.0,
+              "replies": [
+                {
+                  "id": "mnm9rx2",
+                  "author": "snajk138",
+                  "body": "Or, think about the power consumption and noise and get something a bit cooler?",
+                  "score": 46,
+                  "created_utc": 1744910599.0,
+                  "replies": [
+                    {
+                      "id": "mnmst5s",
+                      "author": "Brad1895",
+                      "body": "Ryzen pro APU's support ecc (unbuffered) and use a tiny amount of power. The 8 drives I used draw way more power.",
+                      "score": 14,
+                      "created_utc": 1744916140.0,
+                      "replies": [
+                        {
+                          "id": "mnos5wa",
+                          "author": "Dje4321",
+                          "body": "THIS. Hard drives can draw an insane amount of power. 10-20W each and have such a large amount of inertial mass that you have to stagger start them to avoid overloading the power supply.",
+                          "score": 12,
+                          "created_utc": 1744939452.0,
+                          "replies": [
+                            {
+                              "id": "mnqf464",
+                              "author": "darkstar541",
+                              "body": "What do you mean by staggering them?",
+                              "score": 2,
+                              "created_utc": 1744969881.0,
+                              "replies": [
+                                {
+                                  "id": "mnqgkwn",
+                                  "author": "Nasa_OK",
+                                  "body": "Don\u2019t start them all at the same time",
+                                  "score": 6,
+                                  "created_utc": 1744970764.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mnonayr",
+                          "author": "notfork",
+                          "body": "yup, I run mine on an odriod h4+ and with all my drives running my smart home assistant, foundry VTT server, image server, torrent clients, and around a dozen other things in addition to the nas part. I max out at 43 watts of power and have never hit a temp alarm on it.",
+                          "score": 1,
+                          "created_utc": 1744937646.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mnq1qwi",
+                          "author": "snajk138",
+                          "body": "Exactly. I'm thinking about going solid state, and passively cooled, to make a completely silent server. I live in an apartment and don't really have the space to keep a not-silent server running anywhere, and even a pretty quiet one is loud enough to be annoying.",
+                          "score": 1,
+                          "created_utc": 1744961446.0,
+                          "replies": [
+                            {
+                              "id": "mnrlwad",
+                              "author": "Brad1895",
+                              "body": "I find that after leaving the server room door open long enough, I just lose the ability to hear it anymore.\n\nNo more annoying noise!",
+                              "score": 1,
+                              "created_utc": 1744987427.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mnmncxc",
+                      "author": "Knut79",
+                      "body": "Just because a cpu CAN use a lot of power doesn't mean it have to. But when it needs to (trsnscoding, multi streams, wiring to hard drives running server etc) it has the reserve power to use it.\n\nYes, the cost is a little bit higher idlenpower than a RPi or similar, but it allows a lot more flexibility and future proofing.",
+                      "score": 7,
+                      "created_utc": 1744914506.0,
+                      "replies": [
+                        {
+                          "id": "mnq19cu",
+                          "author": "snajk138",
+                          "body": "Sure, but there are lower powered options that doesn't compromise much on performance nowadays.\u00a0\n\n\nI have a mini PC with a Ryzen 7 5700U for instance, 8C16T and never draws more than 30W, and that's while playing pretty demanding games, and it was available with a 5825U for even more performance. It only has room for one SATA and one m2 though, and it isn't exactly silent, but that's because it's a mini PC. But it is modern enough to be able to use the APU for hardware acceleration of encoding and stuff. That APU with passive cooling (and an external PSU) in a case with room for a few drives would be a great server/NAS. If using SSDs it would be completely silent, and it's definitely powerful enough for any home server duties.\u00a0\n\n\nI have used for testing the application I develop at work, it's a micro service app with 32 docker containers and two windows VMs for third party things. It's demanding enough that they had to upgrade our work machines to 64GB just to be able to run it in debug, but it runs better on my mini PC with 32 GB, though without debug.",
+                          "score": 1,
+                          "created_utc": 1744961140.0,
+                          "replies": [
+                            {
+                              "id": "mnq227x",
+                              "author": "Knut79",
+                              "body": "Trsnscoding multiple 4k streams is pretty intensive, afd in a download manager on top and personal cloud and maybe a Minecraft or some other game server. Or what about remote gaming on your iPhone or non gaming laptop.\n\nAlso a mikipc is terrible for a NAS as upu vant get a nice clean single case system, but need an external storage rack solution adding on costs.",
+                              "score": 1,
+                              "created_utc": 1744961645.0,
+                              "replies": [
+                                {
+                                  "id": "mnq53s9",
+                                  "author": "snajk138",
+                                  "body": "Yes, you can obviously find tasks that would tax any server if you want. But I have no need for transcoding multiple 4K streams or streaming multiple, or taxing, games at the same time. And I have a gaming PC, if I want to game I would use that, streaming or local, since that's what it's there for. My server is used for server things, running a bunch of containers for home automation, media streaming, git and other tasks, and as a NAS obviously. \n\nAnd I'm not saying that you should use that mini PC, just that the performance from that is really good, not just for the power consumption, and that it would probably be better at a lot of server tasks than a ten year old Xeon or something, and use a fraction of the power doing it. The downside is, as mentioned above, that it doesn't have room for many disks and that it's a bit loud, when pushed at least. \n\nBut there are barebones systems coming out now that basically is a mini PC with room for a bunch of 3.5'' drives. There are chassis for ITX, and barebones with a Celeron, Pentium or a low-powered Ryzen, with bays for 2-8 drives, that are much cheaper than a Synology NAS and likely cheaper than a used \"real\" server. Some support ECC if you need that, some have multiple NICs if you want it to be a router as well and so on. For instance: \n\n[K7](https://www.amazon.com/AUDHEID-Enclosures-Compatible-Micro-ATX-Motherboard/dp/B09QKMQ1B1?crid=3KNIUIAKWJ3IE&dib=eyJ2IjoiMSJ9.GUhb2Tlt5VucxszkI5b0_cK9yEzF4CkLpInTLKy0Xs4rhnv2Q58ZDnVpAa2d7gU89sgUnuFhw0x3w10auYqxuu3KFsttDpcLYKFKmLJmZz0LUpL5zfvrHJou8ySYn-58CG5pLOf2CI9vVaLDSsrtHm7P7VRIUSTGP5LwhvLJ1ULPQ0WQu3HjOhKttew3-GRhyjEqyGsrq8xjC8d9KKYWbhz7FdNFiK4JX2vbYVktC8Q.j6RD9U6GkF1exJVzlRd9so7R9arPRxBPtLGb1VfxFBU&dib_tag=se&keywords=barebones+nas&qid=1744962300&sprefix=barebones+na%2Caps%2C148&sr=8-4) ITX chassi with 8 hot-swap bays.  \n[NASync](https://www.amazon.com/UGREEN-DXP2800-Quad-core-Attached-Diskless/dp/B0D22HBFK1?crid=3KNIUIAKWJ3IE&dib=eyJ2IjoiMSJ9.GUhb2Tlt5VucxszkI5b0_cK9yEzF4CkLpInTLKy0Xs4rhnv2Q58ZDnVpAa2d7gU89sgUnuFhw0x3w10auYqxuu3KFsttDpcLYKFKmLJmZz0LUpL5zfvrHJou8ySYn-58CG5pLOf2CI9vVaLDSsrtHm7P7VRIUSTGP5LwhvLJ1ULPQ0WQu3HjOhKttew3-GRhyjEqyGsrq8xjC8d9KKYWbhz7FdNFiK4JX2vbYVktC8Q.j6RD9U6GkF1exJVzlRd9so7R9arPRxBPtLGb1VfxFBU&dib_tag=se&keywords=barebones+nas&qid=1744962300&sprefix=barebones+na%2Caps%2C148&sr=8-6) \"barebones NAS\" n100 with two 3.5'' bays and 2 m2 slots.   \n[Motherboard](https://www.amazon.com/HKUXZR-NAS-Motherboard-N5105-Appliance/dp/B0CNGYTYNJ?crid=3KNIUIAKWJ3IE&dib=eyJ2IjoiMSJ9.GUhb2Tlt5VucxszkI5b0_cK9yEzF4CkLpInTLKy0Xs4rhnv2Q58ZDnVpAa2d7gU89sgUnuFhw0x3w10auYqxuu3KFsttDpcLYKFKmLJmZz0LUpL5zfvrHJou8ySYn-58CG5pLOf2CI9vVaLDSsrtHm7P7VRIUSTGP5LwhvLJ1ULPQ0WQu3HjOhKttew3-GRhyjEqyGsrq8xjC8d9KKYWbhz7FdNFiK4JX2vbYVktC8Q.j6RD9U6GkF1exJVzlRd9so7R9arPRxBPtLGb1VfxFBU&dib_tag=se&keywords=barebones+nas&qid=1744962300&sprefix=barebones+na%2Caps%2C148&sr=8-10) ITX with n5105, 4 NICs, 6 SATA ports.",
+                                  "score": 1,
+                                  "created_utc": 1744963556.0,
+                                  "replies": [
+                                    {
+                                      "id": "mnq6wu5",
+                                      "author": "Knut79",
+                                      "body": "Ok. So YOU do not. How is your needs relevant to the person you replied to or anyone else?",
+                                      "score": 1,
+                                      "created_utc": 1744964718.0,
+                                      "replies": [
+                                        {
+                                          "id": "mnqtof0",
+                                          "author": "snajk138",
+                                          "body": "This is a discussion about NASes, and I responded to someone talking about the cost being so low, with X99 motherboards and five year old Threadrippers, pointing out that maybe something less power hungry could also cover most peoples needs for about the same money upfront and using much less power. \n\nTranscoding multiple 4K streams simultaneously is something I would consider to be an edge case, not something most people would have any need for, especially not someone considering an appliance like a Synology. Streaming modern AAA-games from my own server (and not my gaming PC) is even more in to enthusiast territory. \n\nCost wise you could get a modern computer with a powerful but low-powered CPU and a handful of disks for less than the cost of the electricity alone for a smaller regular server over a couple of years. \n\nI'm all for reusing old components and utilizing leftover parts, but that's because I like doing that sort of thing. Environmentally as well as financially it won't be that good of a choice though, even if you get the parts for free, and unless you have very specific needs you won't really get any benefits from the potentially higher performance you might get in some cases.",
+                                          "score": 1,
+                                          "created_utc": 1744977412.0,
+                                          "replies": [
+                                            {
+                                              "id": "mnrn9zd",
+                                              "author": "Knut79",
+                                              "body": "Dude. He literally said he used it as a server in addition. For home use a single purpose server makes no sense unless you're Linus, even then I'm not sure it really makes sense.\n\nTrsnscoding multiple streams is only an edge case for anyone that don't live alone. So no, it's absolutely not an edge case.\n\nAlso. Electricity isn't that expensive, and in many places it very very cheap.",
+                                              "score": 1,
+                                              "created_utc": 1744987847.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mnruin6",
+                                                  "author": "snajk138",
+                                                  "body": "Who said anything about single purpose? That tiny PC easily runs 30-40 containers and a few VM's. \n\nAnd I don't live alone, still transcoding isn't something my server does. Everything on my server is in 4K or 1080p and all devices we watch things on can handle that. I don't really stream much video outside my home though, but my phone can also handle 4K and 1080p. \n\nElectricity is also cheap here, but say 150W constantly for a whole year (and that's pretty low for a server) is still over 1300 kWh a year, for me that would cost about \u20ac200. My mini PC on the other hand, draws no more than 20W unless gaming on it, and I don't game on it, so that's about 175 kWh per year, or about \u20ac25.",
+                                                  "score": 1,
+                                                  "created_utc": 1744990005.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mnmbzk4",
+                      "author": "MrStrul3",
+                      "body": "Yeah thats overkill, I just only recently started getting into recording with an action camera so I was just looking for something quick like the Sinology which was an option because I thought why not get something good from the get go, well an external drive will be able to handle that amount of data for the time being.",
+                      "score": 2,
+                      "created_utc": 1744911226.0,
+                      "replies": [
+                        {
+                          "id": "mnns4ar",
+                          "author": "this_dudeagain",
+                          "body": "The current offerings aren't affected it is just the new 'Plus' lineup that's coming out. You can still use third party drives you just won't get support for them and certain health checkup features. What's dumb to me is these drives are just rebadged manufacturer drives with different firmware.",
+                          "score": 1,
+                          "created_utc": 1744926754.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mnmtze2",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 20,
+                  "created_utc": 1744916488.0,
+                  "replies": [
+                    {
+                      "id": "mnox1m9",
+                      "author": "ACTNWL",
+                      "body": "it's not even tariffs. Prices increased before Trump's trade war. Some refurb drives from reputable stores used to go for 80~90. Now, at 150~200.",
+                      "score": 7,
+                      "created_utc": 1744941277.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mnqyiyh",
+                  "author": "nerdshowandtell",
+                  "body": "\"Tell me you don't have PG&E as your power company, without telling me....\"",
+                  "score": 3,
+                  "created_utc": 1744979434.0,
+                  "replies": [
+                    {
+                      "id": "mnsuxjf",
+                      "author": "thenerfviking",
+                      "body": "Hey UPS prices are coming down too!",
+                      "score": 1,
+                      "created_utc": 1745000887.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mo32c3n",
+                  "author": "Stargate_1",
+                  "body": "I have an 8600K under my bed (my old pc) and it's amazing. Completely overkill for just hosting a minecraft server but at least it lets us mod a lot if we want to lol",
+                  "score": 1,
+                  "created_utc": 1745154333.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mno0wi9",
+              "author": "AnalTrajectory",
+              "body": "I had strongly considered buying one of their NASs after seeing so many good reviews about their software. Ultimately, the premium on their models was just too high for what you get. I built my own in a Jonsbo N2 with a low power i5 and 30GB of drives with far greater value.\n\nEdit: I meant 30TB. It's been a long day.\n\nMore info you don't care about, I'm running a TrueNAS vm on top of proxmox",
+              "score": 8,
+              "created_utc": 1744929693.0,
+              "replies": [
+                {
+                  "id": "mnoaly6",
+                  "author": "nonowords",
+                  "body": "> and 30GB of drives\n\nWhat is this, 1998?",
+                  "score": 12,
+                  "created_utc": 1744933050.0,
+                  "replies": [
+                    {
+                      "id": "mnpixhr",
+                      "author": "SupremeDictatorPaul",
+                      "body": "30TB? What is this, 2020?",
+                      "score": 1,
+                      "created_utc": 1744950640.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mnoa3vw",
+                  "author": "willun",
+                  "body": "30GB is not a lot of space.",
+                  "score": 7,
+                  "created_utc": 1744932874.0,
+                  "replies": [
+                    {
+                      "id": "mnoar4m",
+                      "author": "AnalTrajectory",
+                      "body": "Sorry, I meant 30TB. It's been a long day",
+                      "score": 4,
+                      "created_utc": 1744933098.0,
+                      "replies": [
+                        {
+                          "id": "mnob6rl",
+                          "author": "willun",
+                          "body": "It is ok. I figured you meant that.  I sometimes say MB when i mean GB and GB when i mean TB. It shows how fast things have moved over the past decades.",
+                          "score": 3,
+                          "created_utc": 1744933250.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mnnhox7",
+              "author": "Realtrain",
+              "body": "Thank god I kept procrastinating on getting a NAS.",
+              "score": 4,
+              "created_utc": 1744923543.0,
+              "replies": [
+                {
+                  "id": "mnpuy26",
+                  "author": "Plebius-Maximus",
+                  "body": "I just got a ugreen dxp4800+\n\nLoving it so far",
+                  "score": 1,
+                  "created_utc": 1744957275.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mnnrdf0",
+              "author": "this_dudeagain",
+              "body": "DIY is almost always better and often cheaper. Synology is good if you need tech support though if you're not savvy.",
+              "score": 3,
+              "created_utc": 1744926518.0,
+              "replies": [
+                {
+                  "id": "mnpirz9",
+                  "author": "SupremeDictatorPaul",
+                  "body": "I\u2019m savy, but I went with Synology on my most recent build because I was tired of troubleshooting weird issues, and dealing with drivers, firmware, broken upgrades, etc. with Synology, \u201cit just works\u201d, and I don\u2019t have to worry about it. Which is nice. \n\nIt definitely cost more money though. For my next build, I may build my own again, using something like Unraid and with 12 bays. It\u2019s hard to say, but I am still years out from that point, so anything is possible.",
+                  "score": 5,
+                  "created_utc": 1744950564.0,
+                  "replies": []
+                },
+                {
+                  "id": "mnue4h6",
+                  "author": "DadWagonDriver",
+                  "body": "But what about us dummies? I've been looking at buying a Synology because I haven't built a PC in 25 years, and I don't work in tech or have a legit tech background anymore. Every DIY guide I look at looks like it was written by and for network admins and engineers.",
+                  "score": 1,
+                  "created_utc": 1745019122.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mnonqf0",
+              "author": "SommeThing",
+              "body": "I'm waiting on the minisforum N5 or N5 pro, due out this year. Looks like a great option.",
+              "score": 1,
+              "created_utc": 1744937804.0,
+              "replies": []
+            },
+            {
+              "id": "mnplde9",
+              "author": "1Poochh",
+              "body": "This is me. I own 6 different Synology NAS devices for myself, in-laws, parents, etc. I won\u2019t be buying another one since it is clear the direction they are going.",
+              "score": 1,
+              "created_utc": 1744951881.0,
+              "replies": []
+            },
+            {
+              "id": "mnpxggm",
+              "author": "CosmicCreeperz",
+              "body": "I have an almost 15 year old Ike that is still going strong.  Was thinking of finally upgrading it.  Will not be upgrading to a new Synology.  Bummer since their software and hardware is awesome.",
+              "score": 1,
+              "created_utc": 1744958786.0,
+              "replies": []
+            },
+            {
+              "id": "mnq812b",
+              "author": "ThatPlasmaGuy",
+              "body": "Unraid ftw!",
+              "score": 1,
+              "created_utc": 1744965430.0,
+              "replies": []
+            },
+            {
+              "id": "mnqvz04",
+              "author": "JerkyChew",
+              "body": "I switched from Synology to QNAP because the 10Gb networking was cheaper. So far I'm pretty happy with it.",
+              "score": 1,
+              "created_utc": 1744978388.0,
+              "replies": []
+            },
+            {
+              "id": "mnn5xj2",
+              "author": "300mhz",
+              "body": "You can create your own Synology NAS by running XPEnology on a DIY build",
+              "score": 0,
+              "created_utc": 1744920076.0,
+              "replies": []
+            },
+            {
+              "id": "mnmiyqo",
+              "author": "Doggleganger",
+              "body": "I had Synology, but changed it out for QNAP.  It's far superior.  The software support and updates have been great.  It's rock-solid.  Synology would often go offline and have to be rebooted.  With QNAP, I forget about it for weeks (months) at a time, then when I go to look, it's still on the network.",
+              "score": -8,
+              "created_utc": 1744913208.0,
+              "replies": [
+                {
+                  "id": "mnmvase",
+                  "author": "TheAspiringFarmer",
+                  "body": "You might want to look at QNAP's track record on security vulnerabilities. Just saying.",
+                  "score": 21,
+                  "created_utc": 1744916889.0,
+                  "replies": [
+                    {
+                      "id": "mno5a0q",
+                      "author": "sodrrl",
+                      "body": "Good to know!\n\nI installed Win 11 on my QNAP, nice little file/plex/camera server and only 20W of power",
+                      "score": 1,
+                      "created_utc": 1744931202.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mnn1pzt",
+                  "author": "junktrunk909",
+                  "body": "I've had multiple Synology NAS running for like a decade and never had any issues. Weird to hear this. \n\nNevertheless I'm not buying another until they backtrack on this idiotic move.",
+                  "score": 13,
+                  "created_utc": 1744918832.0,
+                  "replies": [
+                    {
+                      "id": "mnop7ox",
+                      "author": "DaoFerret",
+                      "body": "I just finally replaced my dying 1815+ for an 1821+.\n\nIt isn\u2019t being replaced again unless they backtrack and if they don\u2019t then I\u2019ll start planning a migration when the inevitable time comes.",
+                      "score": 1,
+                      "created_utc": 1744938347.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mnmveml",
+                  "author": "Crunch-Figs",
+                  "body": "Which one would you recommend to a noob?",
+                  "score": 1,
+                  "created_utc": 1744916920.0,
+                  "replies": [
+                    {
+                      "id": "mnn2adi",
+                      "author": "Doggleganger",
+                      "body": "I can't remember the model name, because for me it's a set it and forget it machine.  I set it up, and it just works as a remote backup for Time Machine, and it automatically backs up to a Backblaze.  I have the one with 2 HDDs.",
+                      "score": 0,
+                      "created_utc": 1744919000.0,
+                      "replies": [
+                        {
+                          "id": "mno118k",
+                          "author": "r6throwaway",
+                          "body": "Definitely not a remote backup by any stretch of the word. But you know, you do you",
+                          "score": -2,
+                          "created_utc": 1744929739.0,
+                          "replies": [
+                            {
+                              "id": "mno1ptu",
+                              "author": "Doggleganger",
+                              "body": "So backing up to the cloud is no longer considered remote?  You want to store your data on the moon?  Sure, you do you.",
+                              "score": 1,
+                              "created_utc": 1744929973.0,
+                              "replies": [
+                                {
+                                  "id": "mno2suw",
+                                  "author": "r6throwaway",
+                                  "body": "A NAS in the same vicinity as your Mac is not remote. Backblaze is your remote backup. Sorry you don't know the correct terminology",
+                                  "score": -2,
+                                  "created_utc": 1744930346.0,
+                                  "replies": [
+                                    {
+                                      "id": "mno5x6h",
+                                      "author": "Doggleganger",
+                                      "body": "The NAS is what performs the backup to Backblaze.  But yes, you are very smart.  None of the rest of us understand what remote backup is.  Sure, we set up remote backup systems, but we don't know what it is.  We need you to tell us, because only you are very smart.  Thank you so much.",
+                                      "score": 1,
+                                      "created_utc": 1744931426.0,
+                                      "replies": [
+                                        {
+                                          "id": "mno9r8l",
+                                          "author": "r6throwaway",
+                                          "body": "Do you need someone to Google for you what a remote backup is?\n\nhttps://letmegooglethat.com/?q=remote+backup",
+                                          "score": -2,
+                                          "created_utc": 1744932752.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnmhqb3",
+          "author": "None",
+          "body": "Tom's is taking the piss.  The TFA that Tom's is citing says you can use either Synology branded drives or Synology certified drives.  Synology certifies all of your off the shelf Ironwolf/N300/Red Plus/Purple/Skyhawk that you should be using for your NAS anyways.  You can absolutely still pick up a set of ironwolf/red plus drives from your preferred retailer and combine it with one of these new devices.  \n\nWhat you can't do anymore is put in cheap SMR drives and have estimated hard drive health reports, volume-wide deduplication, lifespan analyses, and automatic firmware updates enabled.  Those functions probably don't work too well with crappy SMR consumer drives in the first place and might even cause data loss or soft brick it.\n\nAdmittedly this is still asshole behavior but not a \"Synology is forcing you to buy their relabled HDDs\" level of asshole behavior.",
+          "score": 106,
+          "created_utc": 1744912846.0,
+          "replies": [
+            {
+              "id": "mnmiain",
+              "author": "TheSpatulaOfLove",
+              "body": "I can understand some of the reasons why, but I view this as the middle step until they go full Enshittification.",
+              "score": 35,
+              "created_utc": 1744913010.0,
+              "replies": [
+                {
+                  "id": "mnmk42o",
+                  "author": "None",
+                  "body": "They're already there.  Latest models still have garbage teir celerons instead of moving to twin lake.",
+                  "score": 26,
+                  "created_utc": 1744913546.0,
+                  "replies": [
+                    {
+                      "id": "mnp1xb0",
+                      "author": "_makura",
+                      "body": "What are some good alternatives for plex streaming that also preferably don't use Intel CPUs?",
+                      "score": 0,
+                      "created_utc": 1744943166.0,
+                      "replies": [
+                        {
+                          "id": "mnpsc7y",
+                          "author": "BWCDD4",
+                          "body": "Assuming you\u2019re doing transcoding for the plex streaming there isn\u2019t really a good alternative to Intel unless you\u2019re willing to use a dedicated graphics card also, which should be preferably Nvidia or Intels Arc series.\n\nQuickSync is still king for Plex/Emby/Jellyfin transcoding and it\u2019s available on plenty of Intel CPUs which means no need for the extra hardware/power/cost.\n\nThe Arc series is a great way to get AV1 encoding quickly and cheaply though without having to replace the motherboard and CPU of a PC/Server.",
+                          "score": 1,
+                          "created_utc": 1744955728.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mno56wh",
+                  "author": "salsation",
+                  "body": "Synology has gotten less useful and imo are leveraging their good name now: lots of good solutions out there. Their beautiful DSM makes some things easy, but critical apps like Backup Station are  shoddy. I like mine fine but will DIY its successor when it acts up.",
+                  "score": 1,
+                  "created_utc": 1744931172.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mnog56r",
+              "author": "MachinaThatGoesBing",
+              "body": "It is as yet unclear what drives will be certified for new units.\n\nAnd Synology has been slow and/or negligent about \"certifying\" drives. When we were looking to upgrade storage a number of perfectly good current-model CMR WD Red Pro drives did not appear on the officially supported list for some of the NASes we own at work.\n\nSo I wouldn't count on this just being a quality-of-operation assurance thing with no impact on what you can buy.",
+              "score": 10,
+              "created_utc": 1744935004.0,
+              "replies": []
+            },
+            {
+              "id": "mnpjlo1",
+              "author": "SupremeDictatorPaul",
+              "body": "I haven\u2019t looked recently, but last time I had, Synology hadn\u2019t certified a new drive in years. I searched around for people saying they were successfully using the years old drive model I was considering in my model before I bought the drives. I wanted 20TB drives, and they didn\u2019t have any 3rd party drives that size certified. I paid like $280 per refurb drive, instead of whatever ridiculous price they wanted.",
+              "score": 4,
+              "created_utc": 1744950977.0,
+              "replies": [
+                {
+                  "id": "mnq7ws2",
+                  "author": "MachinaThatGoesBing",
+                  "body": "In fairness, we just bought 20TB drives for about 4 bay NAS at work a few months back, and the WD Red Pro drives were like $460 apiece. And so were competitive drives from other manufacturers.",
+                  "score": 1,
+                  "created_utc": 1744965356.0,
+                  "replies": [
+                    {
+                      "id": "mnrlxod",
+                      "author": "SupremeDictatorPaul",
+                      "body": "The Synology branded 20TB drive (HAT5310-20T) is $720 right now, while the WD Red Pro 20TB (WD202KFGX) is showing as $420 right now.  Seagate X20 and IronWolf Pro 20TB drives are both \\~$420.\n\nSynology has got a huge money grab going on, and I suspect it's not going to work out well in the long run. I paid $1000 for the Synology DS1821+ with 8-bays, with no drives and 4GB RAM. That's probably twice the cost of building my own, but paid that premium for a nice small box that I didn't have to futz about with most management aspects. Filling the NAS with Synology branded drives instead of some other vendor's new drives would have cost an extra $2400, and I would have been paying that premium for no reason I can think of.",
+                      "score": 1,
+                      "created_utc": 1744987439.0,
+                      "replies": [
+                        {
+                          "id": "mnsefu9",
+                          "author": "MachinaThatGoesBing",
+                          "body": "I had seen some other comments floating around the thread saying that their current prices were similar to other drives. And with a refurb price of $250, I never would have expected them to nearly treble that price for new.\n\nThanks for the info.",
+                          "score": 1,
+                          "created_utc": 1744995993.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mnq4sm3",
+              "author": "_Dreamer_Deceiver_",
+              "body": "You also get warning to say you're not using Synology drives. As in It shows up as an urgent alert.",
+              "score": 1,
+              "created_utc": 1744963358.0,
+              "replies": []
+            },
+            {
+              "id": "mtbcgvd",
+              "author": "linuxguy21042",
+              "body": "I don't see any drives other than Synology on their [compatibility](https://www.synology.com/en-global/) list",
+              "score": 1,
+              "created_utc": 1747756549.0,
+              "replies": []
+            },
+            {
+              "id": "mnojp3q",
+              "author": "ParaMagnetik",
+              "body": "You are correct. This is to stop people throwing WD greens in these things, and having their RAID have all kinds of problems.",
+              "score": 0,
+              "created_utc": 1744936313.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mno4tn4",
+          "author": "TEOsix",
+          "body": "Yeah. Bye bye.",
+          "score": 2,
+          "created_utc": 1744931042.0,
+          "replies": []
+        },
+        {
+          "id": "mnqoc9h",
+          "author": "RellyOhBoy",
+          "body": "Exactly why I built an Unraid box after my old DS212 stopped receiving regular updates.",
+          "score": 1,
+          "created_utc": 1744974953.0,
+          "replies": []
+        },
+        {
+          "id": "mnn3s43",
+          "author": "f8Negative",
+          "body": "Their drives are fast tho",
+          "score": -8,
+          "created_utc": 1744919438.0,
+          "replies": [
+            {
+              "id": "mnnsi8b",
+              "author": "this_dudeagain",
+              "body": "They're rebadged enterprise drives not made by Synology.",
+              "score": 7,
+              "created_utc": 1744926876.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm2kje",
+      "author": "yayitsdan",
+      "body": "I currently own a ds918+ and have recommended Synology to many people without hesitation. I was even planning on upgrading to a nas with more drive bays later on in the year, but after this news, I'll be researching a path off of Synology. I know that I can likely still upgrade by migrating my raid over to one of their new machines, but this is kind of a betrayl and makes me question the company as a whole going forward.",
+      "score": 341,
+      "created_utc": 1744908542.0,
+      "replies": [
+        {
+          "id": "mnm9hyi",
+          "author": "Prime-Omega",
+          "body": "I\u2019m in the same boat, I mean the hardware that they are still slinging nowadays really isn\u2019t up to par. You can\u2019t even transcode properly anymore on a recent Synology.\n\nYou\u2019re better off buying a Terramaster 424 Pro or Max and running Unraid/TrueNAS on it or either going full DYI.",
+          "score": 64,
+          "created_utc": 1744910521.0,
+          "replies": [
+            {
+              "id": "mnmqco5",
+              "author": "ElectronicMoo",
+              "body": "I did TrueNAS on an n100 with two mirrored 8tbs.  For my purposes, docs and pics from our phones, works great. Immich for the photos, BTW.",
+              "score": 11,
+              "created_utc": 1744915407.0,
+              "replies": []
+            },
+            {
+              "id": "mnptr7m",
+              "author": "Mondernborefare",
+              "body": "Plex has hardware transcoding that works just fine on the 920+ and above. True that they are underpowered but everything does just work and is very quiet.",
+              "score": 1,
+              "created_utc": 1744956565.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnmmetx",
+          "author": "h0dges",
+          "body": "That, and the hardware specs on the newer models are rather lackluster.",
+          "score": 5,
+          "created_utc": 1744914224.0,
+          "replies": []
+        },
+        {
+          "id": "mnpiwas",
+          "author": "smushkan",
+          "body": "Synology has been doing this for years, chances are your 918+ does it too.\n\nMedia have only just noticed, apparently.\n\n> The 2024 Synology models and older are not affected by this change.\n\nI don\u2019t know where the article got that from but it\u2019s false. I have multiple Synology devices in production older than 2024, and if you put an unsupported drive in them you get a warning and the features they list are unavailable for them.\n\nThere are ways around it, not sure if they\u2019ve patched those out.\n\nhttps://www.reddit.com/r/synology/s/fNjbEklgxR",
+          "score": 4,
+          "created_utc": 1744950623.0,
+          "replies": []
+        },
+        {
+          "id": "mnnufgj",
+          "author": "TheJesusGuy",
+          "body": "Synology have literally been doing this for years.",
+          "score": 3,
+          "created_utc": 1744927498.0,
+          "replies": []
+        },
+        {
+          "id": "mnmoedv",
+          "author": "Nalcomis",
+          "body": "Check out Asustor.  Same concept. I use mine for nakivo backups.",
+          "score": 1,
+          "created_utc": 1744914820.0,
+          "replies": [
+            {
+              "id": "mno9cod",
+              "author": "stevewmn",
+              "body": "I have one of their 2 HDD, 4 SSD servers. My long range goal is to run just SSDs but for now I'm running Openmediavault off a 512 Gb SSD and two refurbished 12 Tb server HDDs.",
+              "score": 1,
+              "created_utc": 1744932612.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm3r1y",
+      "author": "meistermichi",
+      "body": ">Nevertheless, there is still a way you can circumvent this hard drive requirement. If you\u2019re using an \u201cunsupported\u201d hard drive with an already existing Synology NAS system and migrate it to a new Plus model, you can continue using it without any restrictions. So, you can first set up a non-Synology hard drive in an older Synology NAS system (or ask someone with one to do it for you), and then you can \u201cmigrate\u201d the empty drive to your new one,...\n\nThis whole thing is so stupid...",
+      "score": 180,
+      "created_utc": 1744908879.0,
+      "replies": [
+        {
+          "id": "mnmh7sw",
+          "author": "SolaVitae",
+          "body": "There's also a much easier way to circumvent the requirements.",
+          "score": 61,
+          "created_utc": 1744912700.0,
+          "replies": [
+            {
+              "id": "mnmir2g",
+              "author": "87degreesinphoenix",
+              "body": "Don't buy it?",
+              "score": 75,
+              "created_utc": 1744913145.0,
+              "replies": [
+                {
+                  "id": "mnmjvp9",
+                  "author": "SolaVitae",
+                  "body": "Yep",
+                  "score": 61,
+                  "created_utc": 1744913477.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnmng4e",
+          "author": "NotAHost",
+          "body": "The synology branded drives will be the same price per gigabyte as commercial drives and not just be a relabeled drive for twice the price right? Right? \n\nI hope people vote with their wallets, and all credibility is lost forever.",
+          "score": 30,
+          "created_utc": 1744914532.0,
+          "replies": [
+            {
+              "id": "mnofoov",
+              "author": "BuGabriel",
+              "body": "I think it's double the price or at least almost",
+              "score": 7,
+              "created_utc": 1744934836.0,
+              "replies": []
+            },
+            {
+              "id": "mnq4umm",
+              "author": "_Dreamer_Deceiver_",
+              "body": "Na they will be double the price but they're definitely not the same",
+              "score": 0,
+              "created_utc": 1744963394.0,
+              "replies": [
+                {
+                  "id": "mnx1ww1",
+                  "author": "carsncode",
+                  "body": "What are the differences?",
+                  "score": 1,
+                  "created_utc": 1745066271.0,
+                  "replies": [
+                    {
+                      "id": "mnyfjev",
+                      "author": "_Dreamer_Deceiver_",
+                      "body": "Being sarcastic. They are basically the same. They might have a different firmware on it but it will probably be just a change in manufacturer name",
+                      "score": 1,
+                      "created_utc": 1745083072.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnnsa3z",
+          "author": "viperfan7",
+          "body": "It also shows that it's a purely anti-consumer policy, rather than some technical limitation",
+          "score": 4,
+          "created_utc": 1744926806.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnm3umg",
+      "author": "None",
+      "body": "Well, at least I know my current Synology NAS will be my last.",
+      "score": 190,
+      "created_utc": 1744908907.0,
+      "replies": []
+    },
+    {
+      "id": "mnm1he7",
+      "author": "iambiggzy",
+      "body": "Synology turning into the baddies",
+      "score": 167,
+      "created_utc": 1744908224.0,
+      "replies": [
+        {
+          "id": "mnmvipq",
+          "author": "TheAspiringFarmer",
+          "body": "Happens to all of them, if they get big enough, and rich enough.",
+          "score": 37,
+          "created_utc": 1744916954.0,
+          "replies": [
+            {
+              "id": "mnn3dsb",
+              "author": "radda",
+              "body": "Line must go up.\n\nIf you can't cut staff any further, and you can't charge any more, the only thing left to do is make the product worse to wring more money out of it.",
+              "score": 20,
+              "created_utc": 1744919322.0,
+              "replies": []
+            },
+            {
+              "id": "mnp53nz",
+              "author": "Infrah",
+              "body": "You either die a hero, or you live long enough to see yourself become the villain.",
+              "score": 3,
+              "created_utc": 1744944443.0,
+              "replies": []
+            },
+            {
+              "id": "mnzcw4y",
+              "author": "PiggypPiggyyYaya",
+              "body": "Once you go public, you're not working for consumers or your employees. You're working for your investors and get the most ROI as you can get. Shitification is real.",
+              "score": 2,
+              "created_utc": 1745093854.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnodlun",
+          "author": "stempoweredu",
+          "body": "They took a look a Broadcom and said 'Hold my beer.'",
+          "score": 1,
+          "created_utc": 1744934089.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnm68p7",
+      "author": "BlueProcess",
+      "body": "\"We are actively making our product worse so that we can make it more expensive.\"\n\nThank you for helping me eliminate you from consideration?",
+      "score": 41,
+      "created_utc": 1744909592.0,
+      "replies": []
+    },
+    {
+      "id": "mnmm9ch",
+      "author": "jert3",
+      "body": "Ok, I'll stop buying Synology then.",
+      "score": 36,
+      "created_utc": 1744914179.0,
+      "replies": []
+    },
+    {
+      "id": "mnmh345",
+      "author": "mxlun",
+      "body": "This is what happens when you put a bunch of idiot MBAs in a room together and tell them to make more money. \n\nThis company won't last another 2 years with this methodology. You can't sell storage mediums at a high level without a reputable brand.",
+      "score": 83,
+      "created_utc": 1744912663.0,
+      "replies": [
+        {
+          "id": "mnnt8lg",
+          "author": "this_dudeagain",
+          "body": "They'll be fine because of their enterprise business but why shit on the average consumer? If they just want to make a list of supported drives that would be okay because there are some really crappy SMR drives out there but forcing the average consumer using 2 to 4 drives is just dumb.",
+          "score": 8,
+          "created_utc": 1744927109.0,
+          "replies": []
+        },
+        {
+          "id": "mnrwmx9",
+          "author": "crazysoup23",
+          "body": "MBAs are mostly cancer to sociecty.",
+          "score": 1,
+          "created_utc": 1744990639.0,
+          "replies": []
+        },
+        {
+          "id": "mnuujao",
+          "author": "collapsedcake",
+          "body": "What on earth kind of market research did they conduct to find anything that would support this idea?",
+          "score": 1,
+          "created_utc": 1745025241.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnmwa7r",
+      "author": "Goat-of-Death",
+      "body": "Have a Synology NAS with 12 bays. I guess whenever it dies I will not be buying another one. Will not support enshitification.",
+      "score": 24,
+      "created_utc": 1744917186.0,
+      "replies": []
+    },
+    {
+      "id": "mno94t5",
+      "author": "ZyronZA",
+      "body": "Oh hello there, Enshittification.\u00a0",
+      "score": 21,
+      "created_utc": 1744932536.0,
+      "replies": []
+    },
+    {
+      "id": "mnm36nd",
+      "author": "CMS_3110",
+      "body": "You either die a hero or live long enough to see yourself become the villain.",
+      "score": 83,
+      "created_utc": 1744908718.0,
+      "replies": [
+        {
+          "id": "mnonvt3",
+          "author": "Crunktasticzor",
+          "body": "First step to enshittification is having an IPO\u2026 hopefully some privately owned companies can avoid this fate.",
+          "score": 7,
+          "created_utc": 1744937858.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnns4iz",
+      "author": "MrTestiggles",
+      "body": "What corporate mba stooge is responsible for this",
+      "score": 9,
+      "created_utc": 1744926756.0,
+      "replies": []
+    },
+    {
+      "id": "mnody4p",
+      "author": "guriboysf",
+      "body": "Just yesterday I was on their website searching for a replacement for my home server with DAS. I noticed that had their own branded drives, but I assumed they offered these as a convenience.\n\nSynology can fuck right off making these a requirement.",
+      "score": 7,
+      "created_utc": 1744934210.0,
+      "replies": []
+    },
+    {
+      "id": "mnnkdeu",
+      "author": "Feral_Nerd_22",
+      "body": "RIP Synology, I'm not sure what's worse, subscriptions or hard drive lockin.\n\nQNAPs business is going to go up",
+      "score": 7,
+      "created_utc": 1744924360.0,
+      "replies": []
+    },
+    {
+      "id": "mnm1wp6",
+      "author": "User9705",
+      "body": "Just buy a mini PC, slap r/unraid on it and get a QNAP DAS and all works. Add whatever drives you want. Don\u2019t understand why people love self inflicted pain. Basically they are the comcast and EA games of the NAS world.\n\nBetter yet the QNAP 8 bay DAS never drops, 3.2 USB C, sees the drives perfectly and serial numbers and auto reboots. Then get refurbished 28Tb drives from serverpartsdeal in the low $300s. Call it a day and enjoy.",
+      "score": 54,
+      "created_utc": 1744908349.0,
+      "replies": [
+        {
+          "id": "mnm3ybq",
+          "author": "None",
+          "body": "Until today, there was no pain. Synology makes a great device, too bad they decided to end their business.",
+          "score": 69,
+          "created_utc": 1744908936.0,
+          "replies": [
+            {
+              "id": "mnmro6n",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -21,
+              "created_utc": 1744915801.0,
+              "replies": [
+                {
+                  "id": "mnmw9g5",
+                  "author": "None",
+                  "body": "Cool story Nostradamus",
+                  "score": 16,
+                  "created_utc": 1744917180.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnp47ye",
+          "author": "None",
+          "body": "[removed]",
+          "score": 4,
+          "created_utc": 1744944085.0,
+          "replies": [
+            {
+              "id": "mnp9nh6",
+              "author": "User9705",
+              "body": "ya i agree, just love the flexability of unraid though. cost money, but they add lots of great features.",
+              "score": 1,
+              "created_utc": 1744946350.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnm5i8z",
+          "author": "FightOnForUsc",
+          "body": "Isn\u2019t there something equivalent to SHR1? That lets you combine drives of different sizes?",
+          "score": 4,
+          "created_utc": 1744909379.0,
+          "replies": [
+            {
+              "id": "mnmrxrb",
+              "author": "User9705",
+              "body": "I have no idea. I just know that standard drives can be used in unraid in any combo and size painlessly.",
+              "score": 1,
+              "created_utc": 1744915880.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnmgc62",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 3,
+          "created_utc": 1744912448.0,
+          "replies": [
+            {
+              "id": "mnmomsi",
+              "author": "NotAHost",
+              "body": "Depends on what you're trying to do. If you're transcoding 4k hdr, you want something with hdr tonemapping support which will NOT be a N100/N150. As such, I bought a mini pc with the 1220p (beelink eqi12) as the price was on the lower end (~$250). You can get better CPUs but the price jumps up a bit. Does have a fan though unlikely you'll notice it. \n\nThere is a mini pc subreddit. If you don't need hdr tonemapping for a plex server, the n100/150 is cheaper and about the same performance, and I think comes in fanless variations.",
+              "score": 5,
+              "created_utc": 1744914891.0,
+              "replies": [
+                {
+                  "id": "mnntk8k",
+                  "author": "this_dudeagain",
+                  "body": "Plex just hiked their lifetime license by a lot.",
+                  "score": 2,
+                  "created_utc": 1744927213.0,
+                  "replies": [
+                    {
+                      "id": "mnnvvn1",
+                      "author": "NotAHost",
+                      "body": "I mean, after 10+ years of not really adjusting it seems fine to me. That said, Plex is going through some changes lately as far as integrating free videos and stuff that might not appeal to everyone, I'm not super happy about it but I've gotten my value out of the lifetime plex pass over the last ~12 years. Having intro and credit skipping alone has made it worth it to me.\n\nPeople should always consider alternatives such as emby, jellyfin, etc, and it isn't impossible to run all of them at once. Also you can just do a simple file direct play server to a lot of devices, but it comes down to what your goals are with the software you choose.",
+                      "score": 3,
+                      "created_utc": 1744927975.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mnnyywh",
+                      "author": "mq2thez",
+                      "body": "And it\u2019s still a great one-time investment, but I sure am glad I got mine 10 years ago.",
+                      "score": 2,
+                      "created_utc": 1744929022.0,
+                      "replies": [
+                        {
+                          "id": "mno5iqq",
+                          "author": "this_dudeagain",
+                          "body": "Me too.",
+                          "score": 1,
+                          "created_utc": 1744931287.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mnmriby",
+                  "author": "User9705",
+                  "body": "yup, spot on!",
+                  "score": 0,
+                  "created_utc": 1744915753.0,
+                  "replies": []
+                },
+                {
+                  "id": "mnmxaxf",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 0,
+                  "created_utc": 1744917497.0,
+                  "replies": [
+                    {
+                      "id": "mnnv3bl",
+                      "author": "NotAHost",
+                      "body": "The QNAP ($590) costs twice as much and has a N5105 processor which is slower than either a N100 or N150, and three times slower in total processing power then the 1220P. It's also a 3 years older than the N150 or 1 year older than 1220P. The 1220P consumes more power at max throughput but all should idle within margin of error. The QNAP also only has 8GB of ram vs 24gb for the beelink. Your main advantage with the QNAP seems to be having 4 nvmes instead of 2, and dual 2.5gb ports instead of dual 1gb ports, and built in IR. \n\nIf you're streaming more than 2 gigabits per second and want 2 more nvme drives, that's the only edge case where I could see getting an qnap. For more than 2x the price I'd find a way to make the 3x faster processor (1220P) work with an external usb-c drive that would be much cheaper for bulk storage. I don't know the qnap software but I'm fine with linux and windows solutions, plenty of free or cheap options for either platform.",
+                      "score": 1,
+                      "created_utc": 1744927716.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mnmr6nx",
+              "author": "User9705",
+              "body": "if your doing limited stuff and very little transcoding, any N150 pc would be good; get one that has two nvme slots.   \n  \nI honestly have a machine build with an i5-14500 and 3 intel arc cards transcoding to AV1. I have two QNAP 8 bay DAS that have never dropped or bottlenecked over two years. I did test mini PCs prior and everything works fine, but i needed to encode to AV1 with intel arc cards and needed some more processing power for SAB. But for NAS, some VMs and dockers and limited media watching use, N150. Check out r/minipc",
+              "score": 1,
+              "created_utc": 1744915656.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnoob32",
+          "author": "Znuffie",
+          "body": "> Don\u2019t understand why people love self inflicted pain.\n\nBecause of DSM.\n\nDSM requires no knowledge of any underlying linux tech to work. It's friendly, it's easy to use.\n\nAlso, there's still no good alternative to Synology's ABB for small business that functions similarly.",
+          "score": 1,
+          "created_utc": 1744938014.0,
+          "replies": [
+            {
+              "id": "mnos12z",
+              "author": "User9705",
+              "body": "so that's where the extra money then comes into play and vendor lock-in.",
+              "score": 1,
+              "created_utc": 1744939403.0,
+              "replies": [
+                {
+                  "id": "mnqcx6i",
+                  "author": "GregLittlefield",
+                  "body": "This. It's all about the software and the ease of use. And Synology has the best in town, no question asked.",
+                  "score": 1,
+                  "created_utc": 1744968526.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnouzem",
+          "author": "jkaczor",
+          "body": "Back in the day, QNAP was my first NAS, after a update caused a data loss, I switched to Synology \u2026 now\u2026 a DIY?  Xpenology?  I don\u2019t know - I love the ease of config and admin, but I don\u2019t like vendor lock-in",
+          "score": 1,
+          "created_utc": 1744940508.0,
+          "replies": [
+            {
+              "id": "mnq3joa",
+              "author": "User9705",
+              "body": "Ya the QNAP DAS, you can use with anything. Doesn\u2019t lock me in.",
+              "score": 1,
+              "created_utc": 1744962574.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnm2irr",
+          "author": "cocoanips",
+          "body": "Yop",
+          "score": -1,
+          "created_utc": 1744908528.0,
+          "replies": [
+            {
+              "id": "mnmjv7x",
+              "author": "YMGenesis",
+              "body": "When I wake up in the mornin and I\u2019m still asleep I really don\u2019t want no toast",
+              "score": 2,
+              "created_utc": 1744913473.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnmmc7u",
+      "author": "Llee00",
+      "body": "anticompetitive monopolistic behavior",
+      "score": 13,
+      "created_utc": 1744914202.0,
+      "replies": [
+        {
+          "id": "mnn4uui",
+          "author": "Asgar06",
+          "body": "Even though they have really good competition",
+          "score": 3,
+          "created_utc": 1744919756.0,
+          "replies": []
+        },
+        {
+          "id": "mnx2ghc",
+          "author": "carsncode",
+          "body": "It's not though. There's no such thing as a monopoly over the 0.0001% of hard drives that end up in a Synology device, in the middle of a massive storage market with multiple viable alternatives in every segment.\n\nIt's not monopolistic, it's just stupid.",
+          "score": 1,
+          "created_utc": 1745066501.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnm46aa",
+      "author": "_Imposter_",
+      "body": "What a fucking brain dead move, can't wait to see Linus shame them for this during WAN show.",
+      "score": 24,
+      "created_utc": 1744909000.0,
+      "replies": [
+        {
+          "id": "mnmg8by",
+          "author": "agaloch2314",
+          "body": "Ugh Linus is as bad as Synology.",
+          "score": 10,
+          "created_utc": 1744912418.0,
+          "replies": [
+            {
+              "id": "mno5cke",
+              "author": "Opetyr",
+              "body": "Completely agree. He is just a c*** for so many big companies including his own. Still remember his competitions with JayzTwoCents which he cheated every time.",
+              "score": 0,
+              "created_utc": 1744931227.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm6kca",
+      "author": "First_Code_404",
+      "body": "Tom's hardware is crap reporting.\n\n\n>can no longer use non-Synology or non-certified hard drives and get the full feature set of their device. Instead, Synology customers will have to use the company's self-branded hard drives\n\nYou can still use certified drives. The statement, \"Synology customers will have to use the company's self-branded hard drives\" is an outright lie that is contradicted in the previous sentence.\n\nEdit:https://www.synology.com/en-us/compatibility",
+      "score": 22,
+      "created_utc": 1744909685.0,
+      "replies": [
+        {
+          "id": "mnmcr62",
+          "author": "cafk",
+          "body": "The compatibility list is also a bit weird.  \n  \nI upgraded my 918+ with 8TB drives that didn't show up as being supported, but were on the supported list for a 923+.  \nMy assumption is as 918+ is out of manufacturing they just haven't updated the list for it.",
+          "score": 8,
+          "created_utc": 1744911443.0,
+          "replies": []
+        },
+        {
+          "id": "mnmngry",
+          "author": "fmaz008",
+          "body": "The compatibility list is super outdated as they tale firever to add a compatible drive. Try to find any large capacity drive in there... nothing.",
+          "score": 5,
+          "created_utc": 1744914537.0,
+          "replies": [
+            {
+              "id": "mnmsxwm",
+              "author": "First_Code_404",
+              "body": "18TB isn't large capacity?",
+              "score": 3,
+              "created_utc": 1744916180.0,
+              "replies": [
+                {
+                  "id": "mnmtxb0",
+                  "author": "fmaz008",
+                  "body": "Not when 26tb are available. When I bought my 18tb wd red, which is not recently, they were not even on the list...\n\n18tb drive were released in 2020: almost 5 years ago...",
+                  "score": 5,
+                  "created_utc": 1744916471.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnmq9e9",
+          "author": "heepofsheep",
+          "body": "Isn\u2019t this pretty much nothing? Every NAS/SAN I\u2019ve worked with always came with a specific list of supported drives. I guess Synology is much more of a consumer brand so more people tend to yolo it with drives? I would wager they probably want to reduce the amount of support tickets when things go wrong due to people using unsupported drives\u2026",
+          "score": 12,
+          "created_utc": 1744915380.0,
+          "replies": [
+            {
+              "id": "mnnzpsu",
+              "author": "nybble41",
+              "body": "Not providing support for issues relating to non-certified third-party drives is one thing. That's only to be expected. However what they're talking about here is disabling built-in *features* if you use drives other than those they recommend, which is a step too far IMHO.",
+              "score": 8,
+              "created_utc": 1744929281.0,
+              "replies": [
+                {
+                  "id": "mno5pae",
+                  "author": "Opetyr",
+                  "body": "Exactly. They might then also state you voided your warranty/license agreement not using their drives.",
+                  "score": 3,
+                  "created_utc": 1744931349.0,
+                  "replies": [
+                    {
+                      "id": "mnond1g",
+                      "author": "nybble41",
+                      "body": "The warranty, yes. Though there are limits to what a company can void a warranty over, particularly for issues unrelated to the unapproved modifications. You shouldn't need to agree to any license merely to use the product you purchased, including any software which came pre-installed or which is required for the advertised features, and any software license certainly shouldn't be contingent on using specific add-on hardware.",
+                      "score": 0,
+                      "created_utc": 1744937668.0,
+                      "replies": [
+                        {
+                          "id": "mnpjbik",
+                          "author": "Eurynom0s",
+                          "body": "> Though there are limits to what a company can void a warranty over\n\nIf you're in the US, who's going to enforce that? Musk and Trump are currently busy deleting every single bit of meager consumer in the US.",
+                          "score": 2,
+                          "created_utc": 1744950835.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mnob9nk",
+                  "author": "heepofsheep",
+                  "body": "I mean I guess this might be synology trying to protect people from themselves? It\u2019s cheap shared storage from Taiwan that\u2019s primarily consumer grade\u2026. Then again I just wouldn\u2019t ever use unsupported drives to begin with so doesn\u2019t seem like a big deal from my perspective.",
+                  "score": 0,
+                  "created_utc": 1744933278.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mnms17o",
+              "author": "First_Code_404",
+              "body": "Yes, it's nothing. It's Tom's Hardware sensationalizing a nothing story for clicks",
+              "score": 2,
+              "created_utc": 1744915908.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnp0ur6",
+          "author": "semibiquitous",
+          "body": "Yea I came here to post this. Although I'm impacted by this I'm ok with buying certified drives , they don't have to be brand new. Although their current list of certified drives is pretty low and not many good drives there I hope they expand this list in the future if they want to keep good business. \n\nSynology suite is insane and people here talking about switching maybe bro using everything Synology has to offer.",
+          "score": 2,
+          "created_utc": 1744942746.0,
+          "replies": []
+        },
+        {
+          "id": "mnq5c47",
+          "author": "_Dreamer_Deceiver_",
+          "body": "If you use \"certified\" then you still get the little warning triangle on those drives to say they aren't Synology drives",
+          "score": 1,
+          "created_utc": 1744963706.0,
+          "replies": [
+            {
+              "id": "mnrcu1e",
+              "author": "First_Code_404",
+              "body": "And?",
+              "score": 1,
+              "created_utc": 1744984568.0,
+              "replies": [
+                {
+                  "id": "mnrxy2q",
+                  "author": "_Dreamer_Deceiver_",
+                  "body": "...and features that won't work...and that warning means you can't monitor those drives because it will always show an error. Is it a smart failure or just 3rd party drive...you won't know until you look",
+                  "score": 1,
+                  "created_utc": 1744991028.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm4tv7",
+      "author": "shadowtheimpure",
+      "body": "This kind of behavior is the reason I just built a server in a 4U case with a 24 drive backplane. No worries about proprietary bullshit and anti-competitive behavior.",
+      "score": 3,
+      "created_utc": 1744909186.0,
+      "replies": []
+    },
+    {
+      "id": "mnmfwgh",
+      "author": "None",
+      "body": "Damn glad I went with QNAP",
+      "score": 3,
+      "created_utc": 1744912325.0,
+      "replies": [
+        {
+          "id": "mnqz5k8",
+          "author": "Klopsbandit",
+          "body": "Bra just 3 weeks ago I was torn between Synology and Qnap NAS. Am I glad I went with Qnap.",
+          "score": 2,
+          "created_utc": 1744979681.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnng686",
+      "author": "GMNestor",
+      "body": "Qnap is having a field day :)",
+      "score": 3,
+      "created_utc": 1744923095.0,
+      "replies": []
+    },
+    {
+      "id": "mnnt2dw",
+      "author": "CarloGaudreault",
+      "body": "[unRAID](https://unraid.net/) ftw",
+      "score": 3,
+      "created_utc": 1744927054.0,
+      "replies": []
+    },
+    {
+      "id": "mnpp67d",
+      "author": "wingnuta72",
+      "body": "Cool. Now I know what brand not to buy.",
+      "score": 3,
+      "created_utc": 1744953927.0,
+      "replies": []
+    },
+    {
+      "id": "mnprysk",
+      "author": "nanonoise",
+      "body": "This is what is considered a dick move.",
+      "score": 3,
+      "created_utc": 1744955509.0,
+      "replies": []
+    },
+    {
+      "id": "mnsne7i",
+      "author": "Doogie2K",
+      "body": "Well, that's them scratched off my list for when I finally can afford a NAS.\n\nWhich is a shame, because I used one at my previous job and never had a problem.",
+      "score": 3,
+      "created_utc": 1744998611.0,
+      "replies": []
+    },
+    {
+      "id": "mnwkelz",
+      "author": "PiggypPiggyyYaya",
+      "body": "Welp Synology is cross out from NAS list",
+      "score": 3,
+      "created_utc": 1745057151.0,
+      "replies": []
+    },
+    {
+      "id": "mnm3kzw",
+      "author": "numsixof1",
+      "body": "I got an old synology for free and looked up how to upgrade the hard drives. The official answer from Synology was to buy a new NAS with bigger hard drives lol..\n\nI was able to jam new ones in there anyway but there's a process.",
+      "score": 9,
+      "created_utc": 1744908830.0,
+      "replies": [
+        {
+          "id": "mnnnhht",
+          "author": "samehaircutfucks",
+          "body": "what was the process, take the old ones out and put the new ones in?",
+          "score": 3,
+          "created_utc": 1744925316.0,
+          "replies": [
+            {
+              "id": "mnnzl96",
+              "author": "numsixof1",
+              "body": "Not quite. It's not super difficult but there's a process you can't just swap them and you can only replace 3 of the 4 otherwise it won't boot as the first holds the config. I assume when that dies so does the nas",
+              "score": 2,
+              "created_utc": 1744929238.0,
+              "replies": [
+                {
+                  "id": "mno5i4q",
+                  "author": "Opetyr",
+                  "body": "Couldn't you just clone that last drive and then replace it?",
+                  "score": 1,
+                  "created_utc": 1744931281.0,
+                  "replies": [
+                    {
+                      "id": "mno9u5j",
+                      "author": "numsixof1",
+                      "body": "I thought about that.. but it works and i'm just using it as a backup so I'm not overly concerned about it. When it dies I've got some newer models I also got for free I can spin up. I disabled the RAID so I can easily pull the 3 new drives and swap them when that happens.\n\nThe point being Synology obviously didn't want people upgrading these even on older models at least not easily.",
+                      "score": 2,
+                      "created_utc": 1744932781.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mnvymms",
+                  "author": "samehaircutfucks",
+                  "body": "can't you take a backup of the \"os config\" portion of the disk and just restore that to the new disks? If not then I'm glad I went with QNAP",
+                  "score": 1,
+                  "created_utc": 1745043459.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm2fn9",
+      "author": "cocoanips",
+      "body": "LMAO wowwww",
+      "score": 8,
+      "created_utc": 1744908502.0,
+      "replies": []
+    },
+    {
+      "id": "mnm5byg",
+      "author": "Transposer",
+      "body": "Is this for new models? Or is this a software update that will make non-proprietary drives cease to work in existing systems that people use?",
+      "score": 7,
+      "created_utc": 1744909328.0,
+      "replies": [
+        {
+          "id": "mnmr77x",
+          "author": "rube",
+          "body": "From the article:\n\nThe 2024 Synology models and older are not affected by this change.",
+          "score": 15,
+          "created_utc": 1744915660.0,
+          "replies": [
+            {
+              "id": "mnmu50t",
+              "author": "Transposer",
+              "body": "Ahh thank you.  I was really hoping to not have to click into that article.",
+              "score": 5,
+              "created_utc": 1744916536.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnn2hon",
+          "author": "junktrunk909",
+          "body": "It says in the article",
+          "score": -2,
+          "created_utc": 1744919060.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnnsx3e",
+      "author": "JeffCrossSF",
+      "body": "I\u2019m already a customer. I love these units and will never buy another one because of shit like this.\n\nI\u2019m alienated.",
+      "score": 5,
+      "created_utc": 1744927007.0,
+      "replies": []
+    },
+    {
+      "id": "mnm4zj0",
+      "author": "Blacklightrising",
+      "body": "Thank god, I didn't buy one, I was on the fence.",
+      "score": 2,
+      "created_utc": 1744909231.0,
+      "replies": []
+    },
+    {
+      "id": "mnm7y8f",
+      "author": "Mggn2510z",
+      "body": "I bought my first NAS last year, went with Synology because of being established and history. I already didn't like how they treated m.2 SSDs from third parties and it made me hesitate.\n\nI just built a totally new PC and sold the graphics card out of my old system. 100% am going to take the old build and turn it into a NAS now.",
+      "score": 2,
+      "created_utc": 1744910082.0,
+      "replies": []
+    },
+    {
+      "id": "mnmac64",
+      "author": "Placed-ByThe-Gideons",
+      "body": "Oh darn. I was telling myself i couldn't buy a flashstor because of the cost. \n\nNow I can justify it.\n\nTheir products and software are good, but not that good. \n\nThis will be good for unRAID, trunas, and hexos.",
+      "score": 2,
+      "created_utc": 1744910759.0,
+      "replies": []
+    },
+    {
+      "id": "mnmdrx7",
+      "author": "cyrus_mortis",
+      "body": "Oh, definitely decided for me whether or not to get a synology. Thanks Synology!",
+      "score": 2,
+      "created_utc": 1744911732.0,
+      "replies": []
+    },
+    {
+      "id": "mnmgpbr",
+      "author": "Orangesteel",
+      "body": "Goodbye. Farewell. Auf Weidersehen, adieu!\n\n![gif](giphy|f64fQ6pTEqvp9vEdgT|downsized)",
+      "score": 2,
+      "created_utc": 1744912553.0,
+      "replies": []
+    },
+    {
+      "id": "mnmwvdu",
+      "author": "Jfragz40",
+      "body": "Synology shooting themselves in the foot",
+      "score": 2,
+      "created_utc": 1744917365.0,
+      "replies": []
+    },
+    {
+      "id": "mnmyafx",
+      "author": "SolfenTheDragon",
+      "body": "Way to kill your fucking business lmao",
+      "score": 2,
+      "created_utc": 1744917795.0,
+      "replies": []
+    },
+    {
+      "id": "mnmympq",
+      "author": "Wakkit1988",
+      "body": "I did know their name had a silent HP in it!",
+      "score": 2,
+      "created_utc": 1744917900.0,
+      "replies": []
+    },
+    {
+      "id": "mnn4nug",
+      "author": "SmoothMarx",
+      "body": "Bye bye Synology! I hardly knew ye....",
+      "score": 2,
+      "created_utc": 1744919699.0,
+      "replies": []
+    },
+    {
+      "id": "mnn8eeq",
+      "author": "ptraugot",
+      "body": "I have a synology, and if it ever fails, Guess synology for my home is out. I will not be handcuffed.",
+      "score": 2,
+      "created_utc": 1744920819.0,
+      "replies": [
+        {
+          "id": "mnqqvi9",
+          "author": "itastesok",
+          "body": "If you're using SHR, you're already handcuffed. What if the device dies? How do you access those drives? Have to buy a whole new Synology branded device.\n\nAt least with any other file system, you can slap them into any other hardware to try and recover data.",
+          "score": 1,
+          "created_utc": 1744976164.0,
+          "replies": [
+            {
+              "id": "mnriiy5",
+              "author": "ptraugot",
+              "body": "Who in their right mind doesn\u2019t keep a rolling backup??",
+              "score": 1,
+              "created_utc": 1744986391.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnnhxtq",
+      "author": "AlphaTangoFoxtrt",
+      "body": "And just like that, I will never again purchase a Synology device. Consumer *OR* commercial.\n\nIf they make this change for consumer devices, there's nothing stopping them doing it for commercial ones too.\n\nShame, because we do have some for my company. They were nice, but when they come EOL we will be switching to a different company.",
+      "score": 2,
+      "created_utc": 1744923617.0,
+      "replies": []
+    },
+    {
+      "id": "mnnltbb",
+      "author": "Ctotheg",
+      "body": "They dint even manufacture their own drives! \u00a0They just rebrand Seagate or other manufacturers drives!\n\n\u201cNevertheless, there is still a way you can circumvent this hard drive requirement. If you\u2019re using an \u201cunsupported\u201d hard drive with an already existing Synology NAS system and migrate it to a new Plus model, you can continue using it without any restrictions. So, you can first set up a non-Synology hard drive in an older Synology NAS system (or ask someone with one to do it for you), and then you can \u201cmigrate\u201d the empty drive to your new one, thus saving you some money. However, that obviously isn't an option for the overwhelming majority of the company's customers.\u201d",
+      "score": 2,
+      "created_utc": 1744924803.0,
+      "replies": []
+    },
+    {
+      "id": "mnntb6z",
+      "author": "Kevin_Jim",
+      "body": "Come on, man. Corporate greed is so stupid. I had a synology and was about to upgrade to another synology because of how smooth it is.\n\nNow, I have to go down this stupid rabbit hole again\u2026",
+      "score": 2,
+      "created_utc": 1744927132.0,
+      "replies": []
+    },
+    {
+      "id": "mnnucf8",
+      "author": "ap0a",
+      "body": "Well. We are done here.",
+      "score": 2,
+      "created_utc": 1744927471.0,
+      "replies": []
+    },
+    {
+      "id": "mnnwbtu",
+      "author": "shawndotb",
+      "body": "Truenas is the only solution",
+      "score": 2,
+      "created_utc": 1744928126.0,
+      "replies": []
+    },
+    {
+      "id": "mno1e85",
+      "author": "fsfaith",
+      "body": "Let\u2019s see how long it takes for them to back track on this. Or we can watch it disappear into irrelevance.",
+      "score": 2,
+      "created_utc": 1744929862.0,
+      "replies": [
+        {
+          "id": "mnq7bgu",
+          "author": "_Dreamer_Deceiver_",
+          "body": "They won't. Why would they? Because 2 guys on Reddit have said \"let's see...\"\n\nThey'll get their money from the enterprise side where they will end up just using Synology drives",
+          "score": 1,
+          "created_utc": 1744964978.0,
+          "replies": []
+        },
+        {
+          "id": "mnqr2ui",
+          "author": "itastesok",
+          "body": "Too bad all the homelab people got enterprise people to buy them, so that's where the money is now. They don't give a shit about homelabs any more.",
+          "score": 1,
+          "created_utc": 1744976258.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mno61ma",
+      "author": "None",
+      "body": "This has been known to be coming for months, and it finally happened. I dodged a bullet not buying one when I was doing my research. Sucks though, they were the best. Now they\u2019re only for real businesses with $$$",
+      "score": 2,
+      "created_utc": 1744931468.0,
+      "replies": []
+    },
+    {
+      "id": "mnoi2va",
+      "author": "TedGetsSnickelfritz",
+      "body": "Fuck that",
+      "score": 2,
+      "created_utc": 1744935712.0,
+      "replies": []
+    },
+    {
+      "id": "mnougys",
+      "author": "emosn0tdead",
+      "body": "Goodbye Synology hello Ugreen.",
+      "score": 2,
+      "created_utc": 1744940318.0,
+      "replies": [
+        {
+          "id": "mnqr64g",
+          "author": "itastesok",
+          "body": "Same. Just got my 6 bay yesterday and have been setting it up. A lot to take in, but I'm already breahing sighs of relief over how \"open\" it feels over Synology.",
+          "score": 1,
+          "created_utc": 1744976300.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnp04yy",
+      "author": "eddie2hands99911",
+      "body": "I dropped them over a decade ago when they wouldn\u2019t sell me a replacement boot drive for a unit that was just out of warranty. It was a flash drive connected to a USB header and it wasn\u2019t being recognized by the bios, service center said it was borked, their words. No replacement available, so my $1000 unit was useless. Dropped them like third period French and never looked back\u2026",
+      "score": 2,
+      "created_utc": 1744942466.0,
+      "replies": []
+    },
+    {
+      "id": "mnp2y05",
+      "author": "godanglego",
+      "body": "This is disgusting I hate it.",
+      "score": 2,
+      "created_utc": 1744943572.0,
+      "replies": []
+    },
+    {
+      "id": "mnp5x9c",
+      "author": "98VoteForPedro",
+      "body": "Aw man i wanted to buy one of these",
+      "score": 2,
+      "created_utc": 1744944779.0,
+      "replies": []
+    },
+    {
+      "id": "mnp9uca",
+      "author": "goldaxis",
+      "body": "Line must go up.\n\nAnd nobody can figure out why China is eating our lunch.",
+      "score": 2,
+      "created_utc": 1744946433.0,
+      "replies": []
+    },
+    {
+      "id": "mnpp218",
+      "author": "Rauskal",
+      "body": "Die a hero, or live long enough to become a villian",
+      "score": 2,
+      "created_utc": 1744953864.0,
+      "replies": []
+    },
+    {
+      "id": "mnptg13",
+      "author": "Mondernborefare",
+      "body": "Saw that but they still support other drives as far as I can tell and I own two synology nas",
+      "score": 2,
+      "created_utc": 1744956380.0,
+      "replies": []
+    },
+    {
+      "id": "mnq0oqd",
+      "author": "SarcasticOptimist",
+      "body": "It's a shame. I enjoyed their stuff even though they took their sweet time getting decent network interfaces. I just got a 923+ and the ds216+II is still working well at my parents' house. Whenever I need a replacement (or the 216ii dies) then I guess I need to either build or look at alternatives like Qnap or ugreen and figure out how to do the remote backups.",
+      "score": 2,
+      "created_utc": 1744960782.0,
+      "replies": []
+    },
+    {
+      "id": "mnqc8lq",
+      "author": "Hakaisha89",
+      "body": "First, I did not even know Synology made drives.  \nThis means one of several things, but they are not the best on any measurable metric, thus irrelevant.  \nSecondly, remember to sell all your synology stock, cause someone handed them a shotgun, and dressed their feet up as a turkey, and thanksgiving is around the corner.",
+      "score": 2,
+      "created_utc": 1744968082.0,
+      "replies": [
+        {
+          "id": "mnrl29v",
+          "author": "FlaviusStilicho",
+          "body": "They don\u2019t make drives.\nThey make stickers to go on drives.",
+          "score": 2,
+          "created_utc": 1744987174.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnqcmeh",
+      "author": "bigkoi",
+      "body": "Glad I went with the Unifi NAS.",
+      "score": 2,
+      "created_utc": 1744968331.0,
+      "replies": []
+    },
+    {
+      "id": "mnqu5su",
+      "author": "skygatebg",
+      "body": "How to kill your business in one easy move. \n\nI have some news flash for Synology. Most people running NAS solutions at home have some level of technical knowledge, therefore they will choose something else for the next upgrade when their solution is locked down. \nAvrage consumers use cloud storage.",
+      "score": 2,
+      "created_utc": 1744977621.0,
+      "replies": []
+    },
+    {
+      "id": "mnr5ect",
+      "author": "tastyratz",
+      "body": "This isn't something new and there has been a solution for it:\nhttps://github.com/007revad/Synology_HDD_db\n\nYou can just... add your drive model to the supported drive database. It's a pain in the ass but there is a hack.",
+      "score": 2,
+      "created_utc": 1744982022.0,
+      "replies": []
+    },
+    {
+      "id": "mnm63al",
+      "author": "__-_-_--_--_-_---___",
+      "body": "Good thing I got a QNAP",
+      "score": 4,
+      "created_utc": 1744909549.0,
+      "replies": []
+    },
+    {
+      "id": "mnmh0hi",
+      "author": "PantherPL",
+      "body": "I was literally considering them two months ago, explicitly planning to get cheaper third-party drives cause it's just a hobby home server. Dodged a bullet alright sheesh",
+      "score": 2,
+      "created_utc": 1744912641.0,
+      "replies": []
+    },
+    {
+      "id": "mnnwfz7",
+      "author": "sulaymanf",
+      "body": "I own 2 Synologies. I\u2019m not at all happy and don\u2019t see myself buying another because of this.",
+      "score": 2,
+      "created_utc": 1744928164.0,
+      "replies": []
+    },
+    {
+      "id": "mnm6oam",
+      "author": "orebus",
+      "body": "Damn, thats stupid. I guess, when it comes to upgrade mine, I'll shop some other NAS",
+      "score": 1,
+      "created_utc": 1744909717.0,
+      "replies": []
+    },
+    {
+      "id": "mnm7m6l",
+      "author": "Webfarer",
+      "body": "I gave away my last Synology to a friend hoping to upgrade soon. Perhaps time for a custom setup.",
+      "score": 1,
+      "created_utc": 1744909986.0,
+      "replies": []
+    },
+    {
+      "id": "mnm7ypx",
+      "author": "-t-c-",
+      "body": "So basically they made them fully uninteresting for consumers\u00a0",
+      "score": 1,
+      "created_utc": 1744910086.0,
+      "replies": []
+    },
+    {
+      "id": "mnmaks9",
+      "author": "IntrinsicGiraffe",
+      "body": "Wow I was just looking into a decent NAS for home use as a way to dump my phone photo onto. Guess I'll have to look else where. Is there anything that would let my phone dump its photo automatically when connected to the same lan as the drive?",
+      "score": 1,
+      "created_utc": 1744910827.0,
+      "replies": [
+        {
+          "id": "mnrekav",
+          "author": "KrackSmellin",
+          "body": "Even 4-7 year old motherboards have multiple SATA plugs and enough cpu and can be upgraded to 16gb or more cheaply to make an open source NAS.  F synology for being like VMware/Broadcom and doing this sort of stupid shit\u2026 just lost my future business. I have like 3 old computers I can easily turn into a NAS on the cheap and it\u2019s more powerful than the chips the put in these systems.",
+          "score": 1,
+          "created_utc": 1744985135.0,
+          "replies": [
+            {
+              "id": "mntvmhx",
+              "author": "IntrinsicGiraffe",
+              "body": "I have an old am3+ PC lying unused so perhaps that'll work",
+              "score": 1,
+              "created_utc": 1745012558.0,
+              "replies": [
+                {
+                  "id": "mnu4ls0",
+                  "author": "KrackSmellin",
+                  "body": "It will\u2026",
+                  "score": 1,
+                  "created_utc": 1745015705.0,
+                  "replies": [
+                    {
+                      "id": "mnuli8m",
+                      "author": "IntrinsicGiraffe",
+                      "body": "Any recommended software/system? The main two im looking at now is OpenMedia and TrueNAS",
+                      "score": 1,
+                      "created_utc": 1745021815.0,
+                      "replies": [
+                        {
+                          "id": "mnxfbfq",
+                          "author": "KrackSmellin",
+                          "body": "I\u2019ve used TrueNAS myself\u2026. So can\u2019t speak beyond that.  But it \u201cjust works\u201d\u2026 as long as you can throw a few drives on the motherboard and have enough memory, you will be surprised what you can get going.  ZFS is the best option in case you lose a drive but it does require having a bit more memory to keep up with things.  Think 16gb as an absolute floor\u2026 given most DDR3 chips (if the MB is from then) are relatively cheaper than 4 or 5, you may be able to EBay some memory sticks to get you what you need.  8gb won\u2019t cut it if you want to use more/larger drives.",
+                          "score": 1,
+                          "created_utc": 1745071415.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnmerjl",
+      "author": "kasualanderson",
+      "body": "This is some HP type nonsense. You\u2019d think these companies would see the error of alienating their customers with spurious proprietary requirements. They don\u2019t even make drives!",
+      "score": 1,
+      "created_utc": 1744912008.0,
+      "replies": []
+    },
+    {
+      "id": "mnmfbw2",
+      "author": "RentalGore",
+      "body": "\u201c\u00a0there is still a way you can circumvent this hard drive requirement. If you\u2019re using an \u201cunsupported\u201d hard drive with an already existing Synology NAS system and migrate it to a new Plus model, you can continue using it without any restrictions\u201d\n\nLooks like my old DS will live on forever.",
+      "score": 1,
+      "created_utc": 1744912165.0,
+      "replies": []
+    },
+    {
+      "id": "mnmfo0g",
+      "author": "zimreapers",
+      "body": "https://i.imgflip.com/9r50ns.jpg",
+      "score": 1,
+      "created_utc": 1744912259.0,
+      "replies": []
+    },
+    {
+      "id": "mnmmr56",
+      "author": "jakgal04",
+      "body": "This is a VERY poor move on Synology's part. Mainly because there are quite literally dozens of competitors that popped up in the last few years with much better hardware specs at competing prices. \n\nI'm a Synology user, but they're making it extremely hard to justify every upgrading to another Synology product. I used to argue that its okay that Synology uses underpowered and several year old CPU's because their software is top notch. But once you start pulling tricks like this, then the only advantage they had is no longer an advantage.",
+      "score": 1,
+      "created_utc": 1744914325.0,
+      "replies": []
+    },
+    {
+      "id": "mnmnxvq",
+      "author": "fmaz008",
+      "body": "So moving away from Synogy, what are the turn key solutions with a good track record for safety and reliability?",
+      "score": 1,
+      "created_utc": 1744914682.0,
+      "replies": []
+    },
+    {
+      "id": "mnmojfs",
+      "author": "Nalcomis",
+      "body": "Asustor has entered the chat",
+      "score": 1,
+      "created_utc": 1744914862.0,
+      "replies": []
+    },
+    {
+      "id": "mnmpeet",
+      "author": "joetwone",
+      "body": "Seems like either this or some kind of subscription for \"value added\" services. This is just them wanting more profits while not providing any added value for what their products do. I would love to know the \"brain\" behind this management decision. *Synology's identity is now the same as HP when it comes to the next business decision at our work's environment.",
+      "score": 1,
+      "created_utc": 1744915121.0,
+      "replies": []
+    },
+    {
+      "id": "mnmpozs",
+      "author": "jorgren",
+      "body": "Well that's disappointing, I use Synology both at home and at work for our backups but will replace them with another brand when their time comes.",
+      "score": 1,
+      "created_utc": 1744915210.0,
+      "replies": []
+    },
+    {
+      "id": "mnmpwfe",
+      "author": "ThatGuyWhoKnocks",
+      "body": "Wow, this is terrible. I recently upgraded my DS418Play\u2019s storage and RAM. I would hate to be stuck with my only options being Synology hardware. I\u2019ll have to find another option for my next NAS.",
+      "score": 1,
+      "created_utc": 1744915273.0,
+      "replies": []
+    },
+    {
+      "id": "mnmq4qa",
+      "author": "Skeptouchos",
+      "body": "Synology is looking for every avenue to kill off the consumer NAS business. Been wanting to get their NAS for the longest time but it seems every decision they\u2019ve been making for the consumer sector is just terrible",
+      "score": 1,
+      "created_utc": 1744915341.0,
+      "replies": []
+    },
+    {
+      "id": "mnmr9jz",
+      "author": "Lowfat_cheese",
+      "body": "I was on the fence between this and a uGreen NAS and I guess I\u2019ll be going with uGreen",
+      "score": 1,
+      "created_utc": 1744915680.0,
+      "replies": []
+    },
+    {
+      "id": "mnmsuvm",
+      "author": "Noxious89123",
+      "body": "Lol.\n\nThe only people buying these are tech savvy folk, who know this is a bullshit move.\n\nI'd like a NAS, but I'm not being dictated to about what drives I can put in it.",
+      "score": 1,
+      "created_utc": 1744916155.0,
+      "replies": []
+    },
+    {
+      "id": "mnmt3zo",
+      "author": "BoringWozniak",
+      "body": "There always seems to be an inflection point where a company will go from helping the customer to hurting them",
+      "score": 1,
+      "created_utc": 1744916230.0,
+      "replies": []
+    },
+    {
+      "id": "mnmt68t",
+      "author": "Drama_Derp",
+      "body": "/r/unraid",
+      "score": 1,
+      "created_utc": 1744916248.0,
+      "replies": []
+    },
+    {
+      "id": "mnmu7xl",
+      "author": "-think",
+      "body": "Welp, I guess will begin my migration off synology",
+      "score": 1,
+      "created_utc": 1744916561.0,
+      "replies": []
+    },
+    {
+      "id": "mnmwfy8",
+      "author": "crappy_ninja",
+      "body": "With no prior experience I built my own nas server with 2 4tb ironwolf drives, plus the ability to add 8 more drives in the future, and can handle quick sync for Plex. And it cost less than a 4 bay Synology with no drives.\n\n\nIf they were worth it for the convenience before they definitely aren't now.",
+      "score": 1,
+      "created_utc": 1744917235.0,
+      "replies": []
+    },
+    {
+      "id": "mnn129e",
+      "author": "Mallev",
+      "body": "I just run headless Ubuntu. All these NAS boxes are just stripped down Linux anyway.",
+      "score": 1,
+      "created_utc": 1744918634.0,
+      "replies": []
+    },
+    {
+      "id": "mnnaqns",
+      "author": "StarsandMaple",
+      "body": "Ugh. Mines going strong and. I love it, I can setup my own \u2018Drive\u2019 and \u2018Office suite\u2019 using nexcloud and stuff but damn the synology system made going from Gdrive to my own stuff seamless.",
+      "score": 1,
+      "created_utc": 1744921508.0,
+      "replies": []
+    },
+    {
+      "id": "mnnbyo0",
+      "author": "philprimes",
+      "body": "As a so far happy customer of Synology who also recommended it to others, not sure if I\u2018ll keep doing it. Coming from a software development and infrastructure administrator background I wouldn\u2018t buy another product due to different personal requirements on a product, but I am not sure if I\u2018ll keep recommending it - mostly because it\u2018s not the product I know anymore.",
+      "score": 1,
+      "created_utc": 1744921866.0,
+      "replies": []
+    },
+    {
+      "id": "mnnezzl",
+      "author": "I_like_microwave",
+      "body": "F synology , hello Unraid!",
+      "score": 1,
+      "created_utc": 1744922752.0,
+      "replies": []
+    },
+    {
+      "id": "mnnjatr",
+      "author": "smiecis",
+      "body": "Only looking for solution surveillance station and then abandon ship asap with these loosy tactics.",
+      "score": 1,
+      "created_utc": 1744924029.0,
+      "replies": []
+    },
+    {
+      "id": "mnnkzqo",
+      "author": "SarahArabic2",
+      "body": "As someone who relies heavily on the Synology ecosystem I am beyond disappointed. I\u2019ve been expanding my 1821 for the last year with WD drives and had no issues whatsoever \u2026. No way am I going to rebuy 42 TB worth of HDD  to replicate what is already functioning (without issue).",
+      "score": 1,
+      "created_utc": 1744924555.0,
+      "replies": []
+    },
+    {
+      "id": "mnno5r4",
+      "author": "asdfredditusername",
+      "body": "Does anyone have any articles/exprience/videos about setting up a DIY DS918+ clone with hot swappable drives?",
+      "score": 1,
+      "created_utc": 1744925525.0,
+      "replies": []
+    },
+    {
+      "id": "mnnpt90",
+      "author": "this_dudeagain",
+      "body": "I bet they'll change their tune pretty quick but I guess we'll wait and see. This practice is common among large enterprise systems but not for home users or small business types. It only affects the newer systems coming out this year fortunately but seems like a really stupid move business wise. \n\n\"The 2024 Synology models and older are not affected by this change. Still, those upgrading to or purchasing the latest Plus Series device, set to be released this year, will have to buy their drives directly from Synology or its certified suppliers to maximize their system. Because of this, you won\u2019t be able to pick from the best hard drives if you get Synology\u2019s latest Plus Series NAS Systems.\"\n\nThe company told ComputerBase [machine translated] that it made using Synology-branded and Synology-certified drives compulsory because of the success it saw with its high-performance NAS systems, and that users of the upcoming Plus Series models would \u201cbenefit from higher performance, increased reliability, and more efficient support.\u201d Furthermore, Seagate, one of the bigger manufacturers in the storage industry, has recently been rocked by a fraudulent HDD scandal that affected its NAS drives. So, it\u2019s likely that Synology wants to ensure that its customers do not get affected by uncertainties such as this.\"",
+      "score": 1,
+      "created_utc": 1744926030.0,
+      "replies": []
+    },
+    {
+      "id": "mnnreit",
+      "author": "Doom-Trooper",
+      "body": "Makes me appreciate the guys over at r/unRAID  even more",
+      "score": 1,
+      "created_utc": 1744926528.0,
+      "replies": []
+    },
+    {
+      "id": "mnnxhez",
+      "author": "noseshimself",
+      "body": "https://aoostar.com/blogs/news/the-aoostar-wtr-max11bay-is-about-to-meet-you-all",
+      "score": 1,
+      "created_utc": 1744928518.0,
+      "replies": []
+    },
+    {
+      "id": "mnoh0xg",
+      "author": "TheMountainLife",
+      "body": "I got rid of my Keurig for this exact thing",
+      "score": 1,
+      "created_utc": 1744935323.0,
+      "replies": []
+    },
+    {
+      "id": "mnolbtb",
+      "author": "None",
+      "body": "WTF restricts storage pool sizes??!! Sorry you bought a 1TB WD Red, get fucked with just 128GB fucko",
+      "score": 1,
+      "created_utc": 1744936913.0,
+      "replies": []
+    },
+    {
+      "id": "mnoo1cv",
+      "author": "MrSquigglyPub3s",
+      "body": "Synology is getting further and further away from its fan.",
+      "score": 1,
+      "created_utc": 1744937914.0,
+      "replies": []
+    },
+    {
+      "id": "mnoojad",
+      "author": "Someone6060842",
+      "body": "No doubt it\u2019s the investors needing more payback and faster. Bummer, I have one and like it. This will open the market up for a direct synology competitor (let\u2019s hope)",
+      "score": 1,
+      "created_utc": 1744938098.0,
+      "replies": [
+        {
+          "id": "mnoy042",
+          "author": "YourBuddyMark",
+          "body": "Ugreen",
+          "score": 1,
+          "created_utc": 1744941637.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnp44hu",
+      "author": "Mr_Lumbergh",
+      "body": "Won\u2019t be looking at this brand any longer.",
+      "score": 1,
+      "created_utc": 1744944046.0,
+      "replies": []
+    },
+    {
+      "id": "mnp73wu",
+      "author": "SpanishBrowne",
+      "body": "welp. that justifies me moving to a mac mini and plugging in whatever storage i want. then doing whatever the heck i want.",
+      "score": 1,
+      "created_utc": 1744945270.0,
+      "replies": []
+    },
+    {
+      "id": "mnpccii",
+      "author": "Slipping-in-oil",
+      "body": "Just wait. Eventually there will be a subscription to use their hard drives and/or NAS software. It\u2019s coming. Book it.",
+      "score": 1,
+      "created_utc": 1744947541.0,
+      "replies": []
+    },
+    {
+      "id": "mnpcid5",
+      "author": "Digital-Exploration",
+      "body": "Lol, bye!",
+      "score": 1,
+      "created_utc": 1744947614.0,
+      "replies": []
+    },
+    {
+      "id": "mnpi6bc",
+      "author": "CarlosFCSP",
+      "body": "They saw that stick-in-wheel-cyclist meme and thought that's how we're gonna get rich(er)!",
+      "score": 1,
+      "created_utc": 1744950260.0,
+      "replies": []
+    },
+    {
+      "id": "mnpis6c",
+      "author": "heickelrrx",
+      "body": "Can I install true nas OS on these synology nas\n\nIn most cases they just x86 computer right?",
+      "score": 1,
+      "created_utc": 1744950566.0,
+      "replies": []
+    },
+    {
+      "id": "mnpnr4g",
+      "author": "FlightyFly",
+      "body": "Yeah. I am not the type to overreact to product \u201cenhancements\u201d and typically try to wait things out (despite all the enshittification). But the lowering of specs, and lock-in, and while I have been using photos for DS Photo \u2014> Memories \u2014> Synology photos and have been ok with most of the tradeoffs while the y figure out their stuff (but damn the AI/Facial Recognition features, and frankly sharing, seem to be really lagging behind the market. Plex has been moved off my DS, on to a cheap but more powerful MiniPC. Home Assistant also has been moved off to its own Beelink Device. At the experiences have definitely improved. So basically, other than the Synology Photos functionality (which I really appreciate just wish was more feature rich) my DS has just become a NAS as opposed to a more server like device. With slow uptake of 10G, and now hinted HDD lockin I think I will also be looking at not upgrading to any new Synology hard ware to replace my DS1018+ and DS718+ as the are completely fine for the current use case. I also utilize Surveillance but that will be transitioned to Unifi this summer. I\u2019ll hope they reevaluate course but learning to set up my own stuff is also a hobby a lot of us have so it\u2019s also an opportunity to learn something new.",
+      "score": 1,
+      "created_utc": 1744953154.0,
+      "replies": []
+    },
+    {
+      "id": "mnq508c",
+      "author": "secrav",
+      "body": "I have a 218+. Figured it was a good enough system to start me in the home server path as I dreaded having to do it and wanted a nice cushy, simple thing, and not have to toy too much with networking stuff (jokes on me, I did end up having to toy with too much networking stuff).\n\nFrankly I'm satisfied with it, but now that I see this I know I won't buy another one, and that I should try to build my home server myself.\n\nI just have a spare tower that's like 12 years old... I should keep it for this project probably. It'll be more powerful, but will also be probably less power efficient, noisy and bulky. Ah, gotta have to consider it.",
+      "score": 1,
+      "created_utc": 1744963492.0,
+      "replies": []
+    },
+    {
+      "id": "mnq6hm3",
+      "author": "RalphFTW",
+      "body": "Next it will be \u201csubscription\u201d required to access your own NAS.  The shit companies pull for profit and try to say they are \u201chelping\u201d Their customers.  GTFO.",
+      "score": 1,
+      "created_utc": 1744964449.0,
+      "replies": []
+    },
+    {
+      "id": "mnqeas9",
+      "author": "Ceph99",
+      "body": "I literally just bought an 8bay Synology and was so confused why my Seagate drives were \u201cunverified\u201d. Looked up which ones are verified and it\u2019s only Synology drives\u2026.fuck you. \n\nMy buddy in IT said he pulled one apart and they are exactly the same. It\u2019s some bullshit move for them to get around warranty issues. \n\nPretty scummy.",
+      "score": 1,
+      "created_utc": 1744969395.0,
+      "replies": []
+    },
+    {
+      "id": "mnqgfgt",
+      "author": "ViolentCrumble",
+      "body": "I have a synology nas and I love it however it\u2019s a bit of a pain to run docker and do certain things but it is pretty good.\n\nThough I just got a new pc which is a beast and now I wonder if my spare pc is good enough for a better nas.\n\nI mean I know theoretically it should be. But every time n have tried making my own nas in the past it\u2019s had issues. Though I don\u2019t think unraid existed then. \n\nIt\u2019s an 8700k with 64gb ddr3 and some Radeon graphics card and like 10tb storage",
+      "score": 1,
+      "created_utc": 1744970674.0,
+      "replies": []
+    },
+    {
+      "id": "mnqv92o",
+      "author": "ShitStainWilly",
+      "body": "Taking the Elon Musk approach to pissing off the people who buy your product? Yeah good luck with that.",
+      "score": 1,
+      "created_utc": 1744978087.0,
+      "replies": []
+    },
+    {
+      "id": "mnqwkf9",
+      "author": "TheRealSeeThruHead",
+      "body": "Do they understand no one will buy this",
+      "score": 1,
+      "created_utc": 1744978637.0,
+      "replies": []
+    },
+    {
+      "id": "mnqwsow",
+      "author": "ZaMelonZonFire",
+      "body": "Not sure if anyone cares, but I just went through this as I setup a consumer sized NAS unit at the school district I\u2019m in charge of.  We are a rural K12 school.  I had no knowledge of this unsupported drive shit and to this day I find it really really stupid.  \n\nThe article is correct, you lose the ability for health status.  But not access to firmware updates.  I setup a DS3622xs+ and one expansion bay.  Installed 24 iron wolf 20TB drives.  It is operating as a destination for Time Machine backup (Apple) for 200 teachers and about 180 other staff members.  Works great.\n\nI almost returned it when it arrived because of this \u201cdrive not supported\u201d business.  It also complains with a notification every time it starts.  But it\u2019s the cheapest way to do a backup on our limited budget.",
+      "score": 1,
+      "created_utc": 1744978732.0,
+      "replies": []
+    },
+    {
+      "id": "mnqwzp7",
+      "author": "Infinite-Process7994",
+      "body": "That\u2019s odd, Synology is usually known for a solid product that accepts any HDD.  I always place my old HDDs into my replacement Synology when I upgrade. Guess it won\u2019t be a Synology now.",
+      "score": 1,
+      "created_utc": 1744978812.0,
+      "replies": []
+    },
+    {
+      "id": "mnqyh6z",
+      "author": "Atomic_meatballs",
+      "body": "I am sorry synology, but you cannot be serious. What the actual fuck.",
+      "score": 1,
+      "created_utc": 1744979414.0,
+      "replies": []
+    },
+    {
+      "id": "mnqyztw",
+      "author": "Atomic_meatballs",
+      "body": "Synology has a [product feedback form](https://www.synology.com/en-us/form/inquiry/feature) which takes only a moment to fill out. Go ahead and let them know how you feel.",
+      "score": 1,
+      "created_utc": 1744979619.0,
+      "replies": []
+    },
+    {
+      "id": "mnqz8fm",
+      "author": "TraditionalBackspace",
+      "body": "I've used their NAS systems for over 15 years. Things have been getting worse over the past few years with several apps losing support or sucking horribly. If I have to buy their overpriced HDDs, I will change brands without hesitation.",
+      "score": 1,
+      "created_utc": 1744979712.0,
+      "replies": []
+    },
+    {
+      "id": "mnr90p9",
+      "author": "rushmc1",
+      "body": "Unconscionable.  Punish them, market.",
+      "score": 1,
+      "created_utc": 1744983293.0,
+      "replies": []
+    },
+    {
+      "id": "mnrbo8p",
+      "author": "cellularesc",
+      "body": "This simplifies my search for a NAS. \n\nFront runner is ugreen w/ unraid",
+      "score": 1,
+      "created_utc": 1744984190.0,
+      "replies": []
+    },
+    {
+      "id": "mnre2fd",
+      "author": "KrackSmellin",
+      "body": "This on top of the fact that when I looked at the prices of even a 4 drive Synology - guess I\u2019m never replacing my existing one and going with open source.  This way I can use any drives I want, have far better processing and memory and upgrade what I want to run jails and VMs alongside things without issue.  \n\nSucks when companies get too greedy and fuck up like this.",
+      "score": 1,
+      "created_utc": 1744984973.0,
+      "replies": []
+    },
+    {
+      "id": "mnrmeua",
+      "author": "Total-Addendum9327",
+      "body": "Yet another crappy thing to do.  What is going on with Synology?  They used to be a great value.",
+      "score": 1,
+      "created_utc": 1744987586.0,
+      "replies": []
+    },
+    {
+      "id": "mns61oc",
+      "author": "nariofthewind",
+      "body": "We, customers wrote today to the journal one word: bye.",
+      "score": 1,
+      "created_utc": 1744993487.0,
+      "replies": []
+    },
+    {
+      "id": "mnv353v",
+      "author": "dex206",
+      "body": "They are doing this bullshit again?",
+      "score": 1,
+      "created_utc": 1745028498.0,
+      "replies": []
+    },
+    {
+      "id": "mnvhwje",
+      "author": "Helftheuvel",
+      "body": "As someone with a DS920+, DX517 and a DS1821+ this is rather disappointing, will start looking into a better solution that doesn't include such bullshit.",
+      "score": 1,
+      "created_utc": 1745034733.0,
+      "replies": []
+    },
+    {
+      "id": "mnw4nk2",
+      "author": "boersc",
+      "body": "This strongly belongs in r/assholedesign.",
+      "score": 1,
+      "created_utc": 1745047104.0,
+      "replies": []
+    },
+    {
+      "id": "mnxpi79",
+      "author": "Jamato-sUn",
+      "body": "Could someone please recommend me a small HDD home NAS that would work with third party drives? Maybe an older Synology model? They are pretty expensive where I live. My current solution is a single external 2TB SSD which has... zero redundancy. And would probably die after 2 years of being unplugged. But it is pocketable.",
+      "score": 1,
+      "created_utc": 1745074810.0,
+      "replies": []
+    },
+    {
+      "id": "mobzv9q",
+      "author": "daryel_v",
+      "body": "They\u2019re taking a page from Hp and other inkjet printer companies that force you to buy their ink. They might as well just make the drives non removable like WD mybook.",
+      "score": 1,
+      "created_utc": 1745274182.0,
+      "replies": []
+    },
+    {
+      "id": "mnm2g1b",
+      "author": "w1n5t0nM1k3y",
+      "body": "Its pretty easy to just buy an old Dell Optiplex and build your own NAS. I never really got the allure of these purpose built boxes. Sure they are easier to set up, but they are much more expensive and are much more limited in what you can do with them.  People who want easy backups will probably be fine with a USB  Drive. Anybody who wants something more complicated should just build a NAS out of an actual computer.",
+      "score": 0,
+      "created_utc": 1744908505.0,
+      "replies": [
+        {
+          "id": "mnm3vkw",
+          "author": "arwinda",
+          "body": "Not everyone has the time to build a NAS. Just want something which works out of the box.",
+          "score": 17,
+          "created_utc": 1744908915.0,
+          "replies": [
+            {
+              "id": "mnm4ktb",
+              "author": "GoodGame2EZ",
+              "body": "It's also easier to pitch for small businesses. Go ahead and warranty your repurposed used Dell optiplex for them. I wouldn't.",
+              "score": 6,
+              "created_utc": 1744909114.0,
+              "replies": [
+                {
+                  "id": "mnnu3vo",
+                  "author": "this_dudeagain",
+                  "body": "You can buy a Dell NAS from Dell but you're going to run into the exact same thing Synology is trying to do now. All hardware has to come from them which is pretty standard in enterprise settings to get support.",
+                  "score": 1,
+                  "created_utc": 1744927393.0,
+                  "replies": []
+                },
+                {
+                  "id": "mnm5umm",
+                  "author": "w1n5t0nM1k3y",
+                  "body": "You don't have to go used like that if you are selling to a business. They have other options. For businesses you could buy all new parts to build a PC and use something like TrueNAS, Unraid, or HexOS to build something more resilient.  \n\nEven a basic 4 bay NAS from Synology costs $500+ before you even buy the drives. Something with 8 bays is $1000 or more.  You could buy a nice PC for those prices.",
+                  "score": -5,
+                  "created_utc": 1744909480.0,
+                  "replies": [
+                    {
+                      "id": "mnm744d",
+                      "author": "DaStompa",
+                      "body": "I bought one of their 4 bay nas's for \\~$300 last year\n\nif you have infinite time the value is always there for DIYers, A couple hours of setup and then figuring out web access/backend/access stuff really wasn't worth saving like a hundred bucks",
+                      "score": 3,
+                      "created_utc": 1744909844.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnm82kg",
+          "author": "None",
+          "body": "It's not easy for most people. Besides, that old optiplex isn't efficient as 45-60w idle is terrible, electricity prices vary a lot. \n\nYes, you can buy something better for the price but that's it.",
+          "score": 5,
+          "created_utc": 1744910117.0,
+          "replies": [
+            {
+              "id": "mnnunft",
+              "author": "this_dudeagain",
+              "body": "That's still pretty cheap power wise and you get way better performance if you run a media/game server. If you're using a lot of drives you're still going to be using a fair bit of power regardless.",
+              "score": 1,
+              "created_utc": 1744927571.0,
+              "replies": []
+            },
+            {
+              "id": "mnmas31",
+              "author": "w1n5t0nM1k3y",
+              "body": "There's more power efficient ways to do it. The Optiplex was just one example.  You could go with a mini PC and a USB RAID enclosure. Or even just get a few external drives and hook them up to USB. It would cost more, but you'd save on power.\n\nThe point is that there are various options you could explore. No one solution has to work for everyone.  I've tried a few different purpose built NAS boxes and I found that they often had issues. They didn't make things as plug-and-play as they should. If Synology is only going to allow their own drives, that's a major problem, because it means I likely can't just go pick up a drive  from the store when a drive dies. It's important to replace a drive as soon as it dies so you don't lose any data.",
+              "score": 1,
+              "created_utc": 1744910884.0,
+              "replies": [
+                {
+                  "id": "mnmdeem",
+                  "author": "None",
+                  "body": "I personally run a 4 stick nvme NAS board based on a Rockchip SoC, can't get more efficient than that. But most people are dumb and can't go beyond plug and play.\n\nYes, what Synology is doing is bullshit, but competition will catch up and mop them eventually, so I say let nature run its course.",
+                  "score": 2,
+                  "created_utc": 1744911626.0,
+                  "replies": [
+                    {
+                      "id": "mnnuta4",
+                      "author": "this_dudeagain",
+                      "body": "I need that intel for igpu streaming.",
+                      "score": 1,
+                      "created_utc": 1744927625.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mnmkscr",
+          "author": "thevillewrx",
+          "body": "SHR, aggregate ethernet",
+          "score": 1,
+          "created_utc": 1744913743.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnm96xc",
+      "author": "bakerzdosen",
+      "body": "I\u2019m not sure I get the backlash here.\n\nThis is only on their higher end line where this sort of thing is\u2026 common.\n\nSure, not many customers are going to be on the fence between a Netapp/Pure/HPE-3Par/Dell-EMC/[whatever] product and a Synology, but self-branded drives are expected for enterprise storage. The storage system vendor (eg Synology) won\u2019t really build or control the hardware, but they typically will have their own firmware on the drives.\n\nPersonally, I\u2019m not in the market for this type of storage, but if I was running a small(ish) business and wanted/needed robust enterprise-grade storage without paying for one of those other vendors\u2019 products (and public cloud offerings just didn\u2019t fit my needs) I don\u2019t see any reason why I wouldn\u2019t consider a Synology Plus system.\n\nThey have other (non-Plus) systems that haven\u2019t been affected by this change for home use.",
+      "score": 2,
+      "created_utc": 1744910434.0,
+      "replies": [
+        {
+          "id": "mnmqwu1",
+          "author": "heepofsheep",
+          "body": "Yeah every enterprise shared storage I\u2019ve used comes with an explicit list of supported drives\u2026 though it doesn\u2019t matter that much since replacement drives are typically covered under annual support.",
+          "score": 2,
+          "created_utc": 1744915574.0,
+          "replies": []
+        },
+        {
+          "id": "mnmi33v",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 4,
+          "created_utc": 1744912949.0,
+          "replies": [
+            {
+              "id": "mnn06lc",
+              "author": "bakerzdosen",
+              "body": "First paragraph in the article:\n\n\u201cSynology's new Plus Series NAS systems, designed for small and medium enterprises and advanced home users, can no longer use non-Synology or non-certified hard drives and get the full feature set of their device.\u201d",
+              "score": 2,
+              "created_utc": 1744918368.0,
+              "replies": []
+            },
+            {
+              "id": "mnmk8tb",
+              "author": "pdieten",
+              "body": "yeah but it's not exactly an everyday consumer that wants to rock even a DS224+. The DS223 is still out there, hell even the DS223J will share files no problem as long as you don't want to do any more than that with it. I still have my DS220j here, sharing and syncing files and streaming media no problem.",
+              "score": 3,
+              "created_utc": 1744913584.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnmxiul",
+      "author": "dfgdfgadf4444",
+      "body": "Never owned one, now, never will!",
+      "score": 1,
+      "created_utc": 1744917564.0,
+      "replies": []
+    },
+    {
+      "id": "mnn0dsi",
+      "author": "theo2112",
+      "body": "Did anyone read the short article?\n\n\u201cyou\u2019ll lose several critical functions, including estimated hard drive health reports, volume-wide deduplication, lifespan analyses, and automatic firmware updates. The company also restricts storage pools and provides limited or zero support for third-party drives.\u201d\n\nOther than whatever \u201crestricts storage pools\u201d everything else you \u201close\u201d is just a feature of the hard drive itself. The NAS will work exactly the same, but these perks that I\u2019m sure are difficult to maintain for a huge number of hard drive possibilities will just go away. In fact, I\u2019m pretty sure some of those things have always been unsupported by hard drives not from a major manufacturer. \n\nAll this looks like to me is Synology saying that if you want the experience you\u2019re used to, you need to have a certified/badged hard drive. If not, basically everything will still work, but it becomes a little more use at your own risk.\n\nAlso, it mentions that they\u2019ve already done this for enterprise hardware, saw how well it worked (by limiting edge cases I\u2019m sure) and are just rolling it out to the next hardware tier.",
+      "score": 0,
+      "created_utc": 1744918429.0,
+      "replies": [
+        {
+          "id": "mnn8ole",
+          "author": "ptraugot",
+          "body": "Any limitation of feature set in order to drive sales is a no go. Sorry. Almost as bad as making features only available through subscription.",
+          "score": 4,
+          "created_utc": 1744920903.0,
+          "replies": []
+        },
+        {
+          "id": "mno1olr",
+          "author": "nybble41",
+          "body": "The \"health reports\" and \"lifetime analyses\" are most likely just access to the SMART monitoring interface which is broadly supported across most drives. Volume-wide deduplication is a software function, as are firmware updates (for the NAS, not the drive) and storage pools. They're disabling features which would work with just about any drive in order to promote their own in-house and partner brands. \n\nWithholding *support* for any issue plausibly related to use of a non-certified third-party drive would be one thing, but preemptively disabling unrelated functionality is a step too far.",
+          "score": 1,
+          "created_utc": 1744929961.0,
+          "replies": [
+            {
+              "id": "mnp53ev",
+              "author": "theo2112",
+              "body": "Unless they\u2019ve seen that most of the issues users have are caused by drives that are not high quality, and this is a way to get ahead of that. \n\nMy take on this is that synology has crossed from something only nerds know about, to a more consumer friendly brand. But with a product like a NAS where users are 1) counting on it working and 2) responsible for buying and installing half of the system (the drives) there\u2019s a lot that could go wrong if the user buys cheap off brand hard drives. \n\nTo me this is almost about brand protection. Telling the user that feature XYZ will not be available is better than them thinking it is, and the the feature not working leading to lost data. \n\nIf you think your drives will self monitor and the system will alert you to issues, you can be careless about checking yourself. If the system says \u201chey, these drives are not compatible, you\u2019ll have to keep an eye on them\u201d at least the user is aware before it\u2019s possibly too late.",
+              "score": 1,
+              "created_utc": 1744944440.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm3w5s",
+      "author": "Shinagami091",
+      "body": "Honestly their NASs are mid compared to what you can build for the same price.",
+      "score": 0,
+      "created_utc": 1744908919.0,
+      "replies": [
+        {
+          "id": "mnm752v",
+          "author": "phoogkamer",
+          "body": "You\u2019re paying for ease of use. Too bad they are deciding to do this.",
+          "score": 15,
+          "created_utc": 1744909850.0,
+          "replies": [
+            {
+              "id": "mnmn4zc",
+              "author": "fmaz008",
+              "body": "And safety record. (Compared to, say, Qnap)",
+              "score": 3,
+              "created_utc": 1744914439.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mnmj0j8",
+          "author": "wsxedcrf",
+          "body": "You are paying for the form factor, the softwares, and the low power usage, I bet your build would not be running at 20W",
+          "score": 9,
+          "created_utc": 1744913223.0,
+          "replies": [
+            {
+              "id": "mnndoaj",
+              "author": "Glenda-of-Plan9",
+              "body": "Mines currently running a 3w\n\nRock 5B and drives are spundown on idle",
+              "score": 1,
+              "created_utc": 1744922371.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mnm6g58",
+      "author": "lVlouse_dota",
+      "body": "Well, guess I'll avoid anything synology makes. Anyway...",
+      "score": 0,
+      "created_utc": 1744909651.0,
+      "replies": []
+    },
+    {
+      "id": "mnnz6w5",
+      "author": "itsaride",
+      "body": "They can still use non-synology drives, they just lose some features, it also mainly applies to enterprise NAS systems. Good clickbait headline though.",
+      "score": -3,
+      "created_utc": 1744929098.0,
+      "replies": [
+        {
+          "id": "mnpelz0",
+          "author": "VVynn",
+          "body": "This article says it would affect home users of the Plus models. I just set one up a few months ago. I\u2019m grandfathered in, *for now* \u2026",
+          "score": 2,
+          "created_utc": 1744948562.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mnmt6fq",
+      "author": "a_cute_epic_axis",
+      "body": "If you're buying or have been buying any Synology stuff for home/diy/tech savvy small business (e.g. most people on this sub), vs rolling your own, you pretty much deserve to get rolled at this point.  These boxes have been over-priced and under-delivering for a long time.",
+      "score": -3,
+      "created_utc": 1744916250.0,
+      "replies": []
+    }
+  ]
+}

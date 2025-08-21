@@ -1,0 +1,49 @@
+metric,value
+file,1l4kcz7.csv
+title,Sony WF-C710N review: More than midrange
+rows,27
+num_posts,1
+num_comments,26
+unique_authors,22
+max_depth,5
+avg_comment_words,47.73
+median_comment_words,43.5
+max_comment_words,95
+positive_count,4
+negative_count,22
+neutral_count,0
+positive_pct,15.385
+negative_pct,84.615
+neutral_pct,0.0
+topic_1_keywords,"years, buds, last, sony, better, airpods, ear, ones"
+topic_1_label,bud and sony are best in the ear
+topic_2_keywords,"still, pros, airpod, well, noise, sony, cancellation, space"
+topic_2_label,"airpod, well, noise, sony, space"
+topic_3_keywords,"better, ive, fit, ears, good, years, stay, seal"
+topic_3_label,i have a better fit for years
+topic_4_keywords,"nice, take, conversation, sure, town, bees, knees, downvotes"
+topic_4_label,bees and knees downvotes in a town
+topic_5_keywords,"beats, apple, sony, quality, still, end, high, lot"
+topic_5_label,"apples, apples, and a lot of other sweets"
+topic_6_keywords,"better, doesnt, least, surprise, manufacturer, electronics, straight, still"
+topic_6_label,electronics manufacturer says it doesnt surprise
+top_ngram_1,noise cancellation (9)
+top_ngram_2,iphone integration (7)
+top_ngram_3,airpod pros (7)
+top_ngram_4,high end (6)
+top_ngram_5,take conversation (5)
+top_ngram_6,conversation nice (5)
+top_ngram_7,take conversation nice (5)
+top_ngram_8,airpods better (4)
+top_ngram_9,better iphone (4)
+top_ngram_10,integration sony (4)
+ner_1,Sony|ORG|22
+ner_2,iPhone|MISC|7
+ner_3,Apple|ORG|6
+ner_4,AirPods|MISC|6
+ner_5,WFC|MISC|4
+ner_6,Beats|ORG|3
+ner_7,Airpod Pro|MISC|3
+ner_8,Airpods|MISC|3
+ner_9,##L|MISC|3
+ner_10,C|MISC|3

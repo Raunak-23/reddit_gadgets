@@ -1,0 +1,49 @@
+metric,value
+file,1ll8pli.csv
+title,13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC
+rows,23
+num_posts,1
+num_comments,22
+unique_authors,15
+max_depth,7
+avg_comment_words,62.82
+median_comment_words,61.0
+max_comment_words,137
+positive_count,5
+negative_count,17
+neutral_count,0
+positive_pct,22.727
+negative_pct,77.273
+neutral_pct,0.0
+topic_1_keywords,"intel, im, want, thinking, 2018, mbp, today, moving"
+topic_1_label,mbp is moving today
+topic_2_keywords,"years, gb, battery, guys, make, apple, need, wallet"
+topic_2_label,"gb, battery, guys, need, wallet"
+topic_3_keywords,"im, surface, think, pro, apple, ever, work, intel"
+topic_3_label,i think pro on a tv
+topic_4_keywords,"arm, dont, id, pcs, older, sucks, need, use"
+topic_4_label,"id, pcs, sucks, need"
+topic_5_keywords,"arm, mac, pro, night, day, intel, work, m1"
+topic_5_label,m1 is a m1 for mac
+topic_6_keywords,"air, life, battery, laptop, downside, macbook, screen, surface"
+topic_6_label,"Air, life, battery, laptop, surface"
+top_ngram_1,battery life (10)
+top_ngram_2,arm mac (8)
+top_ngram_3,m1 air (6)
+top_ngram_4,years ago (5)
+top_ngram_5,night day (5)
+top_ngram_6,im 2018 (5)
+top_ngram_7,2018 mbp (5)
+top_ngram_8,mbp thinking (5)
+top_ngram_9,thinking moving (5)
+top_ngram_10,moving arm (5)
+ner_1,ARM PC|MISC|6
+ner_2,Intel|ORG|5
+ner_3,Apple|ORG|5
+ner_4,Mac|MISC|5
+ner_5,M1 Air|MISC|4
+ner_6,MacBook Air|MISC|4
+ner_7,Firefox|MISC|3
+ner_8,Mac|ORG|3
+ner_9,Microsoft Office|MISC|3
+ner_10,Intel Mac|MISC|3

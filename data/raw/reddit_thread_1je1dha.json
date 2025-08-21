@@ -1,0 +1,1051 @@
+{
+  "post": {
+    "title": "World's first long life sodium-ion power bank launched",
+    "author": "diacewrb",
+    "id": "1je1dha",
+    "score": 1425,
+    "created_utc": 1742291887.0,
+    "selftext": "",
+    "num_comments": 127,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1je1dha/worlds_first_long_life_sodiumion_power_bank/"
+  },
+  "comments": [
+    {
+      "id": "mieyx2z",
+      "author": "fmaz008",
+      "body": "TL;DR:\n\n- It's has a lower energy density (bigger and heavier compared to equal lithium ion capacity)\n\n- it does not use hard to find material like Lithium Ion (cobalt, etc). So it's better for the environment.\n\n- it has about 10x more lifecycle than a lithium ion battery (5000 charges vs 500-1000)\n\n- it can be shipped at 0V.",
+      "score": 749,
+      "created_utc": 1742294948.0,
+      "replies": [
+        {
+          "id": "mifo1eq",
+          "author": "Mr_Vulcanator",
+          "body": "Shipped at 0V is pretty cool. Lithium batteries have to be at around 50-80% charge to be shelf stable. \n\nEvery time I use my RC car I have to use the charger to get the batteries to 50% charge so they don\u2019t degrade in storage.",
+          "score": 326,
+          "created_utc": 1742305287.0,
+          "replies": [
+            {
+              "id": "mig3avf",
+              "author": "BeersTeddy",
+              "body": "From my very long term experience with powertools I learned that what kills lithium batteries fastest is zero charge.\n\nLeaving them fully charged is absolutely fine as fairly quickly they loose a bit of charge anyway.\n\nMain killer appears to be heat generated when fast charging or leaving them fully discharged. \n\nAlso a lot more of short charging cycles appears to be killing them much quicker, than zero - full charge or leaving indefinitely fully charged. \n\nAbout the same experience with smartphones.",
+              "score": 103,
+              "created_utc": 1742309984.0,
+              "replies": [
+                {
+                  "id": "mig6ytz",
+                  "author": "Asttarotina",
+                  "body": "> Also a lot more of short charging cycles appears to be killing them much quicker, than zero - full charge or leaving indefinitely fully charged. \n\nThat's generally wrong. If you discharge them to 0 every cycle, they will last 5-10x less cycles than if you discharge them to 50% every cycle. Attached is a chart for how many cycles LiFePO4 needs before losing 20% of total capacity. \n\nhttps://www.powertechsystems.eu/wp-content/uploads/sites/6/2025/03/CycleLife-LFP-Standard-vs-LFP-SolidState-1024x738.avif\n\nP.S. However, it still may be true for your specific battery/charger combo if the charger is designed poorly",
+                  "score": 55,
+                  "created_utc": 1742311069.0,
+                  "replies": [
+                    {
+                      "id": "mihwjmp",
+                      "author": "Agouti",
+                      "body": "There are several major problems with how you arrived at your end conclusion.\n\n1. The chart is Depth of Discharge against *cycle count*. The reason higher DoD causes more wear is because *each cycle is more watt hours*. DoD against cycle count is a bad metric, because 1000 cycles at 20% is literally twice the total throughout as 1000 cycles at 10%.\n It's like a chart with \"Trip length (miles) vs total number of trips\" for a car. What matters is Depth of Discharge vs *total watt hours* (or kJ or whatever your chosen measurement). That tells a very different story.\n\n2. The start end end charge states are ambiguous with DoD charts. 100-80-100% is 20% DoD, as is 60-40-60%. The latter is actually far more favourable for batteries, and manufacturers exploit this.\n\n3. Being held at elevated charge states for long periods of times causes significant wear, even with no charge cycling at all. This is not factored into charge cycle charts at all.\n\nIf you *really* want to learn the nits and bolts of lithium life preservation, you can't beat https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries\n\nIf you just tldr'd the above, think about this: why does every single EV and most phones let you limit the maximum charge state if it wasn't beneficial?\n\nEdit: I should also note that the 100% as a measurement of charge state is also very ambiguous - what really matters is the cell voltage. For example, the 100% charge state on a typical EV or UPS is typically 3.7V, while for a mobile phone it's often more like 4.2-4.4V, even though they are both similar chemistry (though constructed differently). The latter is chosen for maximum capacity while the former is chosen to favour overall lifespan, and if you take your phone and limit it to that same 3.7V maximum charge state (around 60%) you will see similar benefits.",
+                      "score": 13,
+                      "created_utc": 1742328433.0,
+                      "replies": [
+                        {
+                          "id": "mii1pln",
+                          "author": "Asttarotina",
+                          "body": "Thanks for the great response. I agree with most of what you said apart from #1. \n\nAs can we see in this chart, the relation between DoD and life expectancy is not linear at all, it'salmost exponential. For example, 100% DoD will give you twice the throughput per cycle than 50% DoD, but life expectancy will be 3k cycles versus 18k cycles. So the total throughput of the battery before losing 20% capacity is 3 times more in 50% DoD scenario.\n\nBut I totally agree that this report totally misses the high charge degradation aspect, which is likely to be much more significant contributor to the battery life than DoD.\n\nThanks for the link, will go educate myself.",
+                          "score": 4,
+                          "created_utc": 1742329897.0,
+                          "replies": [
+                            {
+                              "id": "mii9sck",
+                              "author": "Agouti",
+                              "body": "You are correct, higher DoD does cause more wear for the same watt hours - I gave the wrong impression there. What I was trying to get at was a chart of DoD against total watt hours was a much better measurement, and what is even better is *height of recharge* against the same. I left point 1 as before so people can see what you were responding to.\n\nI also amended it to note that EVs limit their maximum charge state to what is effectively around 60% charge state for your typical mobile phone exactly because height of recharge is so much more important than true depth of discharge, even at the cost of overall range.",
+                              "score": 6,
+                              "created_utc": 1742332198.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mijxaaa",
+                          "author": "GreenStrong",
+                          "body": "This is an excellent comment, it is just worth adding that LFP chemistry has much greater longevity than the LMC used in most consumer electronics.   It is not quite as energy dense, but it is denser than sodium based chemistry.  It is low fire hazard and uses no cobalt, which is a conflict mineral.",
+                          "score": 1,
+                          "created_utc": 1742351480.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "migicvx",
+                      "author": "BeersTeddy",
+                      "body": "I know the rule very well but I'm not so sure if this actually means zero charge as a very deep discharge.\n\nAll of the modern devices have battery discharge protection built in and never allow them to go below the danger point.",
+                      "score": 4,
+                      "created_utc": 1742314376.0,
+                      "replies": [
+                        {
+                          "id": "migmoqc",
+                          "author": "Asttarotina",
+                          "body": "Chart answers it all. 0 as in before any deep discharge protections kick in.\n\nEven discharging not more than to 40% will double battery life expectancy compared to discharging to 25",
+                          "score": 10,
+                          "created_utc": 1742315619.0,
+                          "replies": [
+                            {
+                              "id": "migtq3o",
+                              "author": "BeersTeddy",
+                              "body": "Yes, but what I mean is how it translates to real life usage.\n\nI mean how deeply powertools or smartphones are actually discharging batteries. 50%, 70%, 95%?",
+                              "score": 1,
+                              "created_utc": 1742317615.0,
+                              "replies": [
+                                {
+                                  "id": "migxlvu",
+                                  "author": "Asttarotina",
+                                  "body": "Low 10s at max. Otherwise 5Ah powerpack will give you 2.5Ah effective capacity, no one wants that.\n\nThey are incentivised to discharge to the absolute safe limit. Hours on one charge sells things; how long that battery will last doesn't (as far as it is > 1 year)\n\nMaybe you're getting this chart wrong. Discharging from 100% to 65% every time still doubles your batteries' life expectancy compared to discharging from 100% to 55% every time. It doesn't really matter where the cutoff is in the controller.\n\nWhat matters much more in small goods are bad chargers. Some companies spend huge amounts of money on RnD, charge controllers, battery chemistry, and cooling to achieve fast charge without destroying the battery (i.e. car companies). And some companies just brute force voltage into it, effectively cooking that battery. \n\nI don't see a reason why power tools companies would care about battery health. Their batteries are effectively disposable. And there's nothing they will love more than locking you into, effectively, subscription for ***their*** batteries (if we're talking about professional operation)\n\n\nP.S. There's one thing missing in my thinking, which is max charge. Everyone knows that charging lithium batteries to the brim is also bad for them, and the chart I attached doesn\u2019t focus on this at all. If you charge battery from 80% to 100% every day, it may indeed kill it significantly faster than if you charge from 20% to 100% every 4 days, just because you're keeping it above 80% all the time which hurts more than deep discharge. Need to find more data.",
+                                  "score": 3,
+                                  "created_utc": 1742318712.0,
+                                  "replies": [
+                                    {
+                                      "id": "mih6mdt",
+                                      "author": "BeersTeddy",
+                                      "body": "Can't comment on other brands, but bosch pro, which I was referring to, from the day one comes with a cooling fan built into charger. At the same time, bosch batteries are known to be the longest lasting amongst powertool brands (also simplest built, as there is zero electronic on it, everything in the tool or charger).\n\nAlso I've seen rumours that bosch have highest voltage for low discharge protection. Never really checked this",
+                                      "score": 1,
+                                      "created_utc": 1742321134.0,
+                                      "replies": [
+                                        {
+                                          "id": "mihcfjd",
+                                          "author": "Asttarotina",
+                                          "body": "If these charges had a switch to select maximum charge (80% / 90% / 100%), that would probably make all the difference. \n\nAlso, if there's a way to disassemble the battery, you could just swap cells themselves for cheap if you burn through them quickly. Most likely, they're some standard cell like 18650 or similar. Just don't short them, they can catch on fire",
+                                          "score": 1,
+                                          "created_utc": 1742322711.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mihlm1q",
+                  "author": "Yellow_Triangle",
+                  "body": "Another thing that kills tool batteries, is if there is a long while between you your them and you don't charge them before use. This is a problem for all batteries built with multiple cells inside.\n\nThe voltage of the individual battery cells will drift from each other, causing battery imbalance. This isn't good for battery life. You will basically overstress single battery cells in the battery and experience faster battery degradation. You might also run into a situation where a single cell will be drained beyond what it is designed to, because it bottoms out before the rest of the cells in the battery.\n\nThe way to combat this is to put the battery in the battery charger before you use your power tool, when you haven't used the tool for a while. Even if you stored your batteries at 100% charge and the charge indicator reports a full charge.\n\nPutting the battery in the charger makes the BMS module inside the battery balance out the cells, even if there is very little need to actually add energy (charge) the battery.\n\n[https://www.zitara.com/resources/demystifying-battery-balancing](https://www.zitara.com/resources/demystifying-battery-balancing) for some more reading on the topic.",
+                  "score": 3,
+                  "created_utc": 1742325339.0,
+                  "replies": [
+                    {
+                      "id": "miibee1",
+                      "author": "BeersTeddy",
+                      "body": "I'm very familiar with recommendations although found them very impractical so I stick with basic rules from NiMh days which to my surprise actually works.\n\nAt least my oldest batteries from 2013 are still fine amd not noticeably lost any power",
+                      "score": 1,
+                      "created_utc": 1742332668.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mj3o8kc",
+                  "author": "Hemagoblin",
+                  "body": "I read the very last word in your comment as \u201csaxophones\u201d and was *so fucking confused* lol",
+                  "score": 1,
+                  "created_utc": 1742620122.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "migtw5g",
+              "author": "That_red_guy",
+              "body": "Li-Po would like to have a chat,",
+              "score": 1,
+              "created_utc": 1742317665.0,
+              "replies": []
+            },
+            {
+              "id": "mighek7",
+              "author": "correctingStupid",
+              "body": "A cool feature for these packs would be an airplane made that discharges to zero for flights.",
+              "score": -1,
+              "created_utc": 1742314102.0,
+              "replies": [
+                {
+                  "id": "mihog4r",
+                  "author": "sump_daddy",
+                  "body": "If theres a significantly reduced thermal runaway risk (seems like there is) then it stands to reason that they would not be regulated the same way that lithium cells of various chemistry are.",
+                  "score": 2,
+                  "created_utc": 1742326149.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mifwa7f",
+          "author": "Gamebird8",
+          "body": "It's ideal for Grid Storage as density and weight aren't as important as being cheap, reliable, and scalable.",
+          "score": 55,
+          "created_utc": 1742307890.0,
+          "replies": [
+            {
+              "id": "mig40lc",
+              "author": "fmaz008",
+              "body": "I'm curious to know how it's doing with then cold. Salt usually don't freeze well",
+              "score": 7,
+              "created_utc": 1742310198.0,
+              "replies": [
+                {
+                  "id": "mig4d26",
+                  "author": "Gamebird8",
+                  "body": "Any grid scale storage facility would be warming the batteries anyways because the chemical reaction that stores and releases electrical energy are slower and less efficient in the cold",
+                  "score": 11,
+                  "created_utc": 1742310301.0,
+                  "replies": [
+                    {
+                      "id": "mih1ua1",
+                      "author": "fmaz008",
+                      "body": "I was thinking more about off grid applications...",
+                      "score": 2,
+                      "created_utc": 1742319908.0,
+                      "replies": [
+                        {
+                          "id": "mijkxpv",
+                          "author": "anapoe",
+                          "body": "Couldn't it just be buried? It got down to 0 deg F quite often this winter, but my unheated below grade basement only gets as low as 50 deg.",
+                          "score": 1,
+                          "created_utc": 1742347173.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mihps2j",
+                  "author": "sump_daddy",
+                  "body": "In chemistry terms, 'salt' is literally just 'something held together via ionic bond', their temperature properties have more to do with what theyre made of.",
+                  "score": 2,
+                  "created_utc": 1742326527.0,
+                  "replies": []
+                },
+                {
+                  "id": "mu347f6",
+                  "author": "jgainit",
+                  "body": "Very well. As in -40 degrees well",
+                  "score": 1,
+                  "created_utc": 1748128462.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mifummz",
+          "author": "wtfitscole",
+          "body": "Something like 330g vs 225g for a 9000mAh charger sodium vs lithium",
+          "score": 31,
+          "created_utc": 1742307382.0,
+          "replies": [
+            {
+              "id": "mig2k16",
+              "author": "firewire_9000",
+              "body": "It\u2019s not that bad.",
+              "score": 13,
+              "created_utc": 1742309765.0,
+              "replies": []
+            },
+            {
+              "id": "migrdb3",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 10,
+              "created_utc": 1742316948.0,
+              "replies": [
+                {
+                  "id": "mik2b5o",
+                  "author": "fluteofski-",
+                  "body": "Or a no brainer especially in areas where weight is insignificant like home/grid batteries.",
+                  "score": 5,
+                  "created_utc": 1742353353.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mifj36k",
+          "author": "xGHOSTRAGEx",
+          "body": "It is also not dangerous as fuck",
+          "score": 82,
+          "created_utc": 1742303591.0,
+          "replies": [
+            {
+              "id": "mig4z9t",
+              "author": "GoneSuddenly",
+              "body": "Sodium don't burn like lithium?",
+              "score": 11,
+              "created_utc": 1742310485.0,
+              "replies": [
+                {
+                  "id": "mig6i5a",
+                  "author": "StateChemist",
+                  "body": "Sodium metal is hella dangerous.\n\nSodium ions are table salt.",
+                  "score": 37,
+                  "created_utc": 1742310934.0,
+                  "replies": [
+                    {
+                      "id": "mihd27x",
+                      "author": "Eddie-Monsoon",
+                      "body": "Sodium ions are not table salt. Table salt is NaCl, it's an ionic compound of sodium and chloride. Sodium ions are just sodium atoms with a +ve charge.",
+                      "score": 4,
+                      "created_utc": 1742322893.0,
+                      "replies": [
+                        {
+                          "id": "mihqgfg",
+                          "author": "StateChemist",
+                          "body": "Sodium metal is highly reactive, sodium ions readily form ionic bonds with many other elements like Cl or K to make a salt in a solid state.\n\nSodium ions in water just float around maybe be a bit corrosive to metals?\n\nThere is very little dangerous about sodium ions.\n\nThere is a good bit of dangerous with sodium atoms.\n\nMy comment was intended to be a clear indicator that they are not just the same thing and their chemistry is explosively different.",
+                          "score": 3,
+                          "created_utc": 1742326717.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "miikum6",
+                      "author": "GoneSuddenly",
+                      "body": "Sodium ion is not table salt",
+                      "score": 2,
+                      "created_utc": 1742335464.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mig7783",
+              "author": "pholan",
+              "body": "Evidently they still typically use a flammable electrolyte and metallic sodium still reacts vigorously to water, including simple humidity. I\u2019d expect them to be safer to ship if they can be shipped fully discharged but they\u2019re still going to burn vigorously and be rather hard to extinguish if physically damaged.",
+              "score": 4,
+              "created_utc": 1742311137.0,
+              "replies": [
+                {
+                  "id": "migdfnx",
+                  "author": "Knut79",
+                  "body": "The issue is if they generate gas and bloat and explode if overcharged or overheated.\n\nSo they even have high c ratings so they can be used in high power devices.",
+                  "score": 2,
+                  "created_utc": 1742312957.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "migajgu",
+              "author": "lilgeo85",
+              "body": "Sodium just hit the car audio industry a few months back. Doesn\u2019t look promising of your statement but we\u2019ll find out when it hits the market",
+              "score": 1,
+              "created_utc": 1742312114.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mig2nly",
+          "author": "firewire_9000",
+          "body": "Wow 5000 charges is a LOT. I think I\u2019ve never used a product that much to achieve that many charges.",
+          "score": 11,
+          "created_utc": 1742309794.0,
+          "replies": []
+        },
+        {
+          "id": "mihasx8",
+          "author": "Ohjay1982",
+          "body": "Another big factor is the temperature range at which they safely operate.  -34 to 50 Celsius.  As someone who lives in a cold climate can attest to,  normal batteries kind of suck in cold weather.  When I\u2019m wearing my go-pro for downhill skiing the battery lasts less than half the time vs when I use it in the summer. \n\nThat said,  it\u2019s possible that being \u201csafe to operate\u201d doesn\u2019t mean the charge would last any longer in cold weather compared to lithium ion batteries.  Just that it\u2019s safer.",
+          "score": 6,
+          "created_utc": 1742322239.0,
+          "replies": [
+            {
+              "id": "mihbycv",
+              "author": "fmaz008",
+              "body": "Big deal for off grid systems too, where size and weight won't matter but cold temperature (ie: crawl space) might be a huge benefit.",
+              "score": 2,
+              "created_utc": 1742322572.0,
+              "replies": [
+                {
+                  "id": "mijysv4",
+                  "author": "Ohjay1982",
+                  "body": "Oh yeah good point",
+                  "score": 2,
+                  "created_utc": 1742352031.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mifxt93",
+          "author": "KyberKrystalParty",
+          "body": "Curious if energy density significantly affects charging times with all other factors remaining same.",
+          "score": 5,
+          "created_utc": 1742308351.0,
+          "replies": []
+        },
+        {
+          "id": "mij78zl",
+          "author": "King7up",
+          "body": "Aka good thing.",
+          "score": 2,
+          "created_utc": 1742342508.0,
+          "replies": []
+        },
+        {
+          "id": "mifk7xi",
+          "author": "Tupperwarfare",
+          "body": "Wonder how it compares to LSD Nimh (Eneloop)?",
+          "score": 2,
+          "created_utc": 1742303990.0,
+          "replies": []
+        },
+        {
+          "id": "migcvrd",
+          "author": "Knut79",
+          "body": "Samsung and others shortly after had LiIon laptop batteries with 3000 then 4000 and eventually more several years ago.",
+          "score": 1,
+          "created_utc": 1742312797.0,
+          "replies": []
+        },
+        {
+          "id": "migid36",
+          "author": "proscriptus",
+          "body": "It sounds pretty similar to LiFePo4? I guess without the lithium.",
+          "score": 1,
+          "created_utc": 1742314378.0,
+          "replies": [
+            {
+              "id": "mj05woo",
+              "author": "nickisaboss",
+              "body": "What would truly be nice is if they would remove the fluoride salts from the electrolyte mix so that they would no longer produce HF gas when burned.",
+              "score": 1,
+              "created_utc": 1742576804.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mif0w74",
+          "author": "ACanadianNoob",
+          "body": "That's not that much better than a LiFePO4 battery which can do 3000-4000+ cycles before degrading to 50%.\n\nThey need to make this sodium battery tech have much more longevity.",
+          "score": -9,
+          "created_utc": 1742295962.0,
+          "replies": [
+            {
+              "id": "mif1cat",
+              "author": "fmaz008",
+              "body": "It's a first version. It will improve :) good to see it's at worst, a little better.",
+              "score": 58,
+              "created_utc": 1742296188.0,
+              "replies": [
+                {
+                  "id": "mig6vog",
+                  "author": "neilm-cfc",
+                  "body": ">It's a first version. It will improve :) good to see it's at worst, a little better.\n\nExcept it's been in development since the 1970s, according to the article, so it's hard to imagine what is left to improve after all that time...",
+                  "score": 2,
+                  "created_utc": 1742311043.0,
+                  "replies": [
+                    {
+                      "id": "mih0wa6",
+                      "author": "fmaz008",
+                      "body": "Sometime once a product hit market and generates revenue, the R&D budget gets bigger as it's easier to find investors when the product is proven to be real.",
+                      "score": 8,
+                      "created_utc": 1742319643.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mifakcj",
+              "author": "funkysax",
+              "body": "Id say the big headline here is that it doesn\u2019t need rare earth metals that are mined by slaves in Africa\u2026",
+              "score": 44,
+              "created_utc": 1742300344.0,
+              "replies": [
+                {
+                  "id": "miff7jy",
+                  "author": "ShivaSkunk777",
+                  "body": "Seriously.",
+                  "score": 5,
+                  "created_utc": 1742302165.0,
+                  "replies": [
+                    {
+                      "id": "migw8gq",
+                      "author": "KillingSelf666",
+                      "body": "Earning money off them will surely increase research and development. Monetary incentives go far",
+                      "score": 1,
+                      "created_utc": 1742318324.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mifivos",
+                  "author": "fullload93",
+                  "body": "And by slaves, it means both adult and CHILD slaves. So fucked up. \n\nhttps://youtu.be/JcJ8me22NVs?si=Ohf5cROzhsB8FZfU",
+                  "score": 9,
+                  "created_utc": 1742303517.0,
+                  "replies": []
+                },
+                {
+                  "id": "mifgwj4",
+                  "author": "googler_ooeric",
+                  "body": "I mean, it's not a direct benefit for the consumer though, and it probably costs more because of that, at least for now",
+                  "score": -19,
+                  "created_utc": 1742302796.0,
+                  "replies": [
+                    {
+                      "id": "mifhysw",
+                      "author": "funkysax",
+                      "body": "It\u2019s a direct benefit for humanity. Seriously, you wouldn\u2019t be interested as a consumer to cut SLAVERY out of the equation for a fucking charger box?",
+                      "score": 23,
+                      "created_utc": 1742303189.0,
+                      "replies": [
+                        {
+                          "id": "migmc8v",
+                          "author": "a_cute_epic_axis",
+                          "body": "historically, as a whole, no humanity would not be ok with charging more to end slavery or shitty worker conditions.\n\nSee also the current market for clothing, diamonds, electronics, and all sorts of other goods where this is an issue.\n\nUnfortunate reality of the world.",
+                          "score": 2,
+                          "created_utc": 1742315519.0,
+                          "replies": [
+                            {
+                              "id": "mih1rkd",
+                              "author": "funkysax",
+                              "body": "Yea, I agree. But, if this new technology takes off there will be less demand for lithium batteries which require rare earth metals mined by slaves.",
+                              "score": 1,
+                              "created_utc": 1742319887.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mifsdq5",
+                      "author": "Gangstastick",
+                      "body": "I went through a whole range of emotions after reading this. \n\nThis comment is just ... wrong/evil/nauseous/vile/despicable/incorrect...",
+                      "score": 8,
+                      "created_utc": 1742306679.0,
+                      "replies": [
+                        {
+                          "id": "mifu0v2",
+                          "author": "funkysax",
+                          "body": "Yep, one of the most smooth brained comments I\u2019ve seen in a while.",
+                          "score": 6,
+                          "created_utc": 1742307193.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "migcfcm",
+                          "author": "googler_ooeric",
+                          "body": "I only really care about whether the battery lasts more than a day",
+                          "score": -1,
+                          "created_utc": 1742312664.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mif9n9x",
+      "author": "Gangstastick",
+      "body": "If these things can be made price-competitive to lead acid batteries, they'll be a no brainee to replace ICE start up batteries as well as home solar installation batteries.\u00a0\nHuge potential!",
+      "score": 157,
+      "created_utc": 1742299961.0,
+      "replies": [
+        {
+          "id": "mifiinx",
+          "author": "BeforeLifer",
+          "body": "Seems like overkill for a ICE engine though unless the cost is lower, you can already get 5-7 years out of a lead acid/AGM battery. Solar installations would be nice as the size is less of a concern there.",
+          "score": 40,
+          "created_utc": 1742303387.0,
+          "replies": [
+            {
+              "id": "mifqir0",
+              "author": "Gangstastick",
+              "body": "You are focusing on just one feature of sodium ion batteries (SIB), other ways an ICE vehicle could benefit from SIBs over LAB include\n\n1. Size. Due to better gravimetric and volumetric densities. While weight might not necessarily be an issue in cars, vehicle engine bays are getting tighter. Installing a new battery in a recent gen Ford Escape is not trivial. Smaller sized batteries for the same capacity would be very helpful for car manufacturers. And if those batteries only need to be replaced after 10 to 15 years, then its even better.\n\n2. Cycling stability: Minimal self discharge for SIBs means you can leave your car unattended for months and not worry about the battery being flat when you return. Plus I read somewhere SIBs are more tolerant of deep discharges, meaning if they do run down, you can recharge it again without much loss of capacity.\n\n3. The environment: While there are strict regulations in western countries for how used LAB should be disposed, it isn't necessarily the case in the developing world. If we can use fewer batteries that do not contain toxic materials, the earth will be better off for it.",
+              "score": 46,
+              "created_utc": 1742306088.0,
+              "replies": [
+                {
+                  "id": "migoubo",
+                  "author": "googang619",
+                  "body": "Sibs currently lack in volumetric densities, current anodes are thicker than the current Li-ion batteries so currently can't compete in EV applications. The current idea ( or at least where I work) is to hit static storage applications where space/volume constraints aren't much of an issue. If we can make them lower cost than the lithium counterpart thats what would get the ball rolling.",
+                  "score": 8,
+                  "created_utc": 1742316230.0,
+                  "replies": [
+                    {
+                      "id": "mihcubj",
+                      "author": "Gangstastick",
+                      "body": "I have used LAB deep cycle batteries for home storage in the past. As long as the densities for SIBs are better than LABs, and price is competitive, SIBs should see a huge uptake in the home energy storage world. I think your company is on the right track.\u00a0\nDo you mind sharing what some of the road blocks are towards hitting price parity in the immediate future?",
+                      "score": 3,
+                      "created_utc": 1742322830.0,
+                      "replies": [
+                        {
+                          "id": "miheib2",
+                          "author": "googang619",
+                          "body": "Due to the anode, SIBS are struggling to match LIBS in a volumetric density way, they're competitive from gravimetric stand part. again it'll just be a storage space issue but should be cheaper due to not using loads of Copper as current collectors, Na being cheaper and ideally the reduction in rare earth elements (Cu,Co,Ni) \n\nIm more research than the industrial side but its interesting to say the least",
+                          "score": 3,
+                          "created_utc": 1742323309.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mihewp3",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 2,
+                      "created_utc": 1742323424.0,
+                      "replies": [
+                        {
+                          "id": "mihgewz",
+                          "author": "googang619",
+                          "body": "Sorry, yeah I get the poster is talking about LAB\n\nI was talking more generally that\u2019s on me",
+                          "score": 2,
+                          "created_utc": 1742323853.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "miheq3u",
+                  "author": "Narf234",
+                  "body": "1. Stick it in the trunk. No one said batteries need to go in the engine bay.",
+                  "score": 2,
+                  "created_utc": 1742323370.0,
+                  "replies": [
+                    {
+                      "id": "mihg51v",
+                      "author": "Gangstastick",
+                      "body": "Oh you can stick batteries in the trunk, and I've owned a Benz that had one in the trunk. However there is a good reason batteries have always stayed in the engine bay, large amounts of current are drawn from the battery during start up. A longer wire, means that current needs to travel a longer distance.This leads to a voltage drop and thus even more current and an increased heat generation and increased fire risk and...\nIt's best for batteries to stay close to the engine.\u00a0",
+                      "score": 1,
+                      "created_utc": 1742323774.0,
+                      "replies": [
+                        {
+                          "id": "mihgu7n",
+                          "author": "Narf234",
+                          "body": "How many battery related problems did you have due to the placement in the trunk?",
+                          "score": 0,
+                          "created_utc": 1742323975.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "migjh3s",
+                  "author": "Jdonn82",
+                  "body": "Question - is shape also a possibility when it comes to ICE batteries?",
+                  "score": 1,
+                  "created_utc": 1742314698.0,
+                  "replies": [
+                    {
+                      "id": "mihbvyd",
+                      "author": "Gangstastick",
+                      "body": "I would expect it is. When the tech matures, I expect there'll be opportunities for different form factors, including a flat/wide shape that can slide in and out easily.\u00a0",
+                      "score": 2,
+                      "created_utc": 1742322553.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "migb3a9",
+              "author": "decoy_man",
+              "body": "modern lead acid batteries at places like Napa auto parts are only guaranteed for 2 years now for their top battery. Lead acid battery quality has dipped significantly in recent years and 3-5 is about all you can expect. I can speak to personal experience. My $200 truck battery died this year about 4 weeks after the warranty. It was not well maintained though.",
+              "score": 11,
+              "created_utc": 1742312273.0,
+              "replies": [
+                {
+                  "id": "mihtwdb",
+                  "author": "None",
+                  "body": "beneficial tease quicksand pocket governor nutty hat straight steer smile\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                  "score": 2,
+                  "created_utc": 1742327685.0,
+                  "replies": [
+                    {
+                      "id": "miirlai",
+                      "author": "decoy_man",
+                      "body": "Well that was the people at Napa and I agree. One data point is nothing. They had hundreds. Also the same battery last time it was replaced was a 7 year warranty. There is a reason for that change.",
+                      "score": 1,
+                      "created_utc": 1742337569.0,
+                      "replies": [
+                        {
+                          "id": "mij2upn",
+                          "author": "None",
+                          "body": "slap memorize treatment desert expansion lock march boat attempt normal\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                          "score": 1,
+                          "created_utc": 1742341086.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mih0zow",
+                  "author": "drunkbusdriver",
+                  "body": "Eh idk that they have all declined over all. Usually if your better is dying more quickly than it should, there is an issue elsewhere in your electrical system. Dying alternator, something drawing power that shouldn\u2019t etc.. \n\n5 years has been pretty average for awhile and you shouldn\u2019t expect a battery last much longer than that.",
+                  "score": 1,
+                  "created_utc": 1742319670.0,
+                  "replies": [
+                    {
+                      "id": "mih6mfp",
+                      "author": "nitrobskt",
+                      "body": "As someone working in the automotive industry, battery life has absolutely gotten shorter. Not because of the batteries themselves mind you, but because of the cars. The same battery will last significantly longer in a 2005 vs a 2025. There are simply more electronics in newer vehicles, and even the parts that existed back then have gotten more power hungry over time.",
+                      "score": 2,
+                      "created_utc": 1742321134.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mig4qtz",
+              "author": "rtb001",
+              "body": "I just replaced the original AGM battery out of a BMW 328i that I bought in November 2012, which my battery evaluation tool obviously said \"replace\", but was actually still working well, zero issues starting the car and everything.\n\nI don't know if it is a really good battery, the fact that the BMW actually changes the way it charges/uses the 12V over time to compensate for battery degradation, or my father's religious use of a tender when not driving the car since he doesn't drive it that often  the past few years, or probably a combination of all three, but in any case the fact it survived for more than 12 years is crazy.",
+              "score": 4,
+              "created_utc": 1742310415.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mijn4lp",
+          "author": "OozeNAahz",
+          "body": "I see what you did there.",
+          "score": 1,
+          "created_utc": 1742347932.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mif4enk",
+      "author": "Maleficent-Might-275",
+      "body": "What\u2019s the fire/explosion risk with sodium-ion batteries? Comparable to lithium?",
+      "score": 46,
+      "created_utc": 1742297655.0,
+      "replies": [
+        {
+          "id": "mif5svq",
+          "author": "NefariousnessTop8716",
+          "body": "Supposedly safer. Sodium is less reactive with air and water so thermal runaway is less likely but still possible.",
+          "score": 49,
+          "created_utc": 1742298295.0,
+          "replies": [
+            {
+              "id": "mifd7lf",
+              "author": "bensonf",
+              "body": "My only interaction to sodium, outside of table salt, is in high school when they put a piece of sodium in water and see it explode. So...",
+              "score": 16,
+              "created_utc": 1742301402.0,
+              "replies": [
+                {
+                  "id": "mife8x4",
+                  "author": "KroneckerAlpha",
+                  "body": "A piece of lithium would react more or less the same, just more explodey.",
+                  "score": 43,
+                  "created_utc": 1742301799.0,
+                  "replies": []
+                },
+                {
+                  "id": "mifegm9",
+                  "author": "NefariousnessTop8716",
+                  "body": "Here is [lithium and water](https://youtube.com/shorts/JcltisXS82g?si=RCCynHKu81nn66G7)",
+                  "score": 17,
+                  "created_utc": 1742301881.0,
+                  "replies": [
+                    {
+                      "id": "mifelqg",
+                      "author": "bensonf",
+                      "body": "That's pretty cool",
+                      "score": 8,
+                      "created_utc": 1742301935.0,
+                      "replies": [
+                        {
+                          "id": "miffrf5",
+                          "author": "NefariousnessTop8716",
+                          "body": "It is! Also worth noting that lithium is about 1.1 part per million of the earths chemicals but sodium is 1800ppm so much more abundant. So in theory easier and cheaper to source.",
+                          "score": 21,
+                          "created_utc": 1742302372.0,
+                          "replies": [
+                            {
+                              "id": "mifybiq",
+                              "author": "DJKGinHD",
+                              "body": "To add to point 2: which means it's less likely to depend on LITERAL SLAVE LABOR to mine it.",
+                              "score": 14,
+                              "created_utc": 1742308503.0,
+                              "replies": [
+                                {
+                                  "id": "migxr9x",
+                                  "author": "stellvia2016",
+                                  "body": "When there's a will there's a way if a billionaire thinks they can save a buck /s",
+                                  "score": 3,
+                                  "created_utc": 1742318754.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mig8ur3",
+                  "author": "StateChemist",
+                  "body": "Sodium metal, highly reactive\n\nSodium ion is half of salt.\n\nIncidentally all batteries are \u2018chemically stored energy\u2019\n\nLots of energy comes with risks.\n\nPart of why battery technology is not trivial is you want lots of energy storage and a slow controlled release of energy.\n\nA fast release of lots of chemically stored energy is either a capacitor, a fire, or a bomb.",
+                  "score": 6,
+                  "created_utc": 1742311620.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mifkkmj",
+          "author": "cadcamm99",
+          "body": "Visit natron.energy. They have some info on sodium ion batteries",
+          "score": 1,
+          "created_utc": 1742304111.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "miezya6",
+      "author": "_Username_Optional_",
+      "body": "This but for house solar please",
+      "score": 44,
+      "created_utc": 1742295481.0,
+      "replies": []
+    },
+    {
+      "id": "mieyybm",
+      "author": "fmaz008",
+      "body": "Now do UPS!",
+      "score": 34,
+      "created_utc": 1742294966.0,
+      "replies": [
+        {
+          "id": "mifairf",
+          "author": "cactusplants",
+          "body": "I wonder how big you'd need to have a bank to power the average UK house. Though most UK new houses don't have the space for this stuff, thus opt for smaller batteries in the attic for solar or in the garage",
+          "score": 14,
+          "created_utc": 1742300325.0,
+          "replies": [
+            {
+              "id": "mig1nuo",
+              "author": "LordRocky",
+              "body": "Even just a small one for a computer or single appliance would be awesome. Weight isn\u2019t much of a concern when it never moves.",
+              "score": 11,
+              "created_utc": 1742309504.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mig20ub",
+      "author": "Underwater_Karma",
+      "body": "Sodium batteries are one of those technologies that are perpetually \"just 5 years away\".  this sudden jump to a shipping product is incredible...and color me a little skeptical.\n\nI'm cautiously optimistic, but I want to see some real world data.",
+      "score": 35,
+      "created_utc": 1742309609.0,
+      "replies": [
+        {
+          "id": "mig5xe4",
+          "author": "rtb001",
+          "body": "I mean a slightly larger sodium ion [\"power bank\"](https://cnevpost.com/2024/07/02/world-largest-sodium-battery-energy-storage-project-in-operation/) has been in operation for nearly a year now.\n\nIn fact I wonder who makes the sodium ion battery in this device. As far as I am aware Chinese battery makers are the only ones who have been able to mass produce sodium ion batteries at scale.",
+          "score": 20,
+          "created_utc": 1742310764.0,
+          "replies": [
+            {
+              "id": "migpg14",
+              "author": "googang619",
+              "body": "Faradion which is uk based did have some static storage applications in AUS.\n\n  \nThere's lots of good research in this space (uk) but im unsure why nobody seems to be making the leap to a commercial product. Agratas are looking at building a plant but a lot of other companies have had issues/buy outs - even though the technology is pretty good",
+              "score": 3,
+              "created_utc": 1742316401.0,
+              "replies": [
+                {
+                  "id": "mii3ze7",
+                  "author": "rtb001",
+                  "body": "Well coming up with something that works in a lab is very far from being able to mass produce that same thing in a commercially viable manner. The Chinese are now quite dominant on that half of the process for to all the various manufacturing knowhow and experience they've accumulated over the years.",
+                  "score": 1,
+                  "created_utc": 1742330539.0,
+                  "replies": [
+                    {
+                      "id": "miicows",
+                      "author": "googang619",
+                      "body": "Tell me about it, we have a scale up centre just so we can attempt pouch cells",
+                      "score": 1,
+                      "created_utc": 1742333046.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mifkh84",
+      "author": "OrganicKeynesianBean",
+      "body": "Spent 10 minutes translating to English and clicking through a dozen links to see that it\u2019s OOS and they don\u2019t ship to the US.\n\n10/10 article, thanks.",
+      "score": 20,
+      "created_utc": 1742304078.0,
+      "replies": [
+        {
+          "id": "mig0ayh",
+          "author": "Trapezoidoid",
+          "body": "Yeah sounds about right. I did a quick search and didn\u2019t turn anything up when I tried, but I figured it would probably be out of stock anyway. \n\nAfter hearing for basically my entire life that new battery tech was on the way it has always ended up being vaporware. Now that it\u2019s here I want to support it\u2026 but can\u2019t. Great.",
+          "score": 6,
+          "created_utc": 1742309100.0,
+          "replies": []
+        },
+        {
+          "id": "mifwcs6",
+          "author": "100YearsRicknMorty",
+          "body": "\ud83d\ude02",
+          "score": 2,
+          "created_utc": 1742307912.0,
+          "replies": []
+        },
+        {
+          "id": "migj5l2",
+          "author": "proscriptus",
+          "body": "I would guess by the end of the year the market will be full of them.",
+          "score": 2,
+          "created_utc": 1742314606.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mikqoew",
+      "author": "UnAaiHeurtErbaai",
+      "body": "Prices will drop once these come in to mass production. \n\nIn solar panel abundant western Europe, where the national power grid reaches its maximum capacity on a sunny (and windy) day, big home-based sodium batteries can provide a great power backup for household application and charging your EV at night.",
+      "score": 2,
+      "created_utc": 1742365240.0,
+      "replies": []
+    },
+    {
+      "id": "mikrvoy",
+      "author": "Roaddog113",
+      "body": "That looks like low earth orbit. Nice launch \ud83d\ude1d",
+      "score": 2,
+      "created_utc": 1742365975.0,
+      "replies": []
+    },
+    {
+      "id": "mikw1kk",
+      "author": "GagOnMacaque",
+      "body": "Omg, please work.",
+      "score": 1,
+      "created_utc": 1742368591.0,
+      "replies": []
+    },
+    {
+      "id": "miqfwg0",
+      "author": "fakeuserbot9000",
+      "body": "it has a great lower operating temp, but does anyone know what happens at 122\u02daF? anything left in the sun (say\u2026 inside a car) could easily get to that temperature.",
+      "score": 1,
+      "created_utc": 1742438764.0,
+      "replies": []
+    },
+    {
+      "id": "mieu4k6",
+      "author": "diagrammatiks",
+      "body": "This is like...the least useful place to rollout this tech.",
+      "score": -31,
+      "created_utc": 1742292277.0,
+      "replies": [
+        {
+          "id": "miexdsk",
+          "author": "OperatorJo_",
+          "body": "It's the PERFECT place to start rolling out this tech because it's still so new in-market and the battery has to be larger than a regular lithium one. \n\nIt's that fat and only 9,000 mah. A power bank is the least-cared daily object it can be in where people don't gripe that much about thickness.\n\nFor comparison just by the photo of the device in-hand charging the go-pro, that is 2/3 of my 20,000mah Redmi powerbank in size for less than half the rating.\n\nThe needed thickness to achieve similar results to lithium is also why these are being more marketed towards E.V. Batteries instead of things like smartphones.",
+          "score": 15,
+          "created_utc": 1742294126.0,
+          "replies": [
+            {
+              "id": "miez1ai",
+              "author": "Way2trivial",
+              "body": "What?   Not ev.  Fixed placement.",
+              "score": -1,
+              "created_utc": 1742295009.0,
+              "replies": [
+                {
+                  "id": "mif3yow",
+                  "author": "OperatorJo_",
+                  "body": "Yes EV as well because of the reduced fire hazard risks. \n\nRight now EV fires are kind of a problem since they take up so much water to douse and extra equipment, materials and cleanup.\n\nAlso the car can handle the increased weight from a larger sodium cell.",
+                  "score": 3,
+                  "created_utc": 1742297449.0,
+                  "replies": [
+                    {
+                      "id": "mifgug8",
+                      "author": "Way2trivial",
+                      "body": "well, it's disclaimed in the article (and multiple elsewheres in the citeable world) as too big and too heavy-  from the linked story-\n\n \"It's one of the limitations holding sodium-ion from being widely adopted in EVs, though some low-range vehicles are expected to use this tech in the near future\"",
+                      "score": 0,
+                      "created_utc": 1742302775.0,
+                      "replies": [
+                        {
+                          "id": "mifs3p0",
+                          "author": "OperatorJo_",
+                          "body": "That doesn't mean it's not being researched further as the safer alternative, it only means that -at this period in time- it's a limiting factor for LONG-RANGE electric vehicles (250+ miles as standard EV sedans go). \n\nDidn't say the tech would be bolted onto EV's tomorrow. That's still a decade away. \n\nHell it's been over 50 years of research and just now we're getting a consumer product with it. This being 9000mah that large, if they focus start focusing on more efficient but just-as-strong electric motors I could  see e-bikes, scooters or electric motorcycles start using it sooner as-is.",
+                          "score": 1,
+                          "created_utc": 1742306588.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mieufom",
+          "author": "Hydraulic_IT_Guy",
+          "body": "The passenger jet that burnt on the runway in January disagrees.",
+          "score": 5,
+          "created_utc": 1742292456.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

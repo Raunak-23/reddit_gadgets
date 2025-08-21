@@ -1,0 +1,1190 @@
+{
+  "post": {
+    "title": "ZOTAC confirms GeForce RTX 5090 with 32GB GDDR7 memory, 5080 and 5070 series listed as well",
+    "author": "chrisdh79",
+    "id": "1hfu8xf",
+    "score": 538,
+    "created_utc": 1734384933.0,
+    "selftext": "",
+    "num_comments": 133,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hfu8xf/zotac_confirms_geforce_rtx_5090_with_32gb_gddr7/"
+  },
+  "comments": [
+    {
+      "id": "m2e7fah",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1734384934.0,
+      "replies": []
+    },
+    {
+      "id": "m2ealks",
+      "author": "w1n5t0nM1k3y",
+      "body": "A 5060 with only 8 GB of VRAM isn't sufficient. The Intel Arc A580 has 12 GB of VRAM and is only $250.  No reason for cards to be shipping with 8 GB VRAM in 2025.",
+      "score": 404,
+      "created_utc": 1734385936.0,
+      "replies": [
+        {
+          "id": "m2ee36a",
+          "author": "MurderinAlgiers",
+          "body": "The 3060 also has 12gb of VRAM lmao",
+          "score": 204,
+          "created_utc": 1734387068.0,
+          "replies": [
+            {
+              "id": "m2eko4g",
+              "author": "lordraiden007",
+              "body": "Which in itself was down to them cutting costs. They reduced the memory bus width to the point that the memory had to be either 6GB or 12GB, and they simply couldn\u2019t justify a 6GB model and hit their desired performance. It probably only cost them a few dollars per card, but it has made the card arguably superior to some of the better cards long-term and in non-gaming workloads.",
+              "score": 80,
+              "created_utc": 1734389254.0,
+              "replies": [
+                {
+                  "id": "m2encyh",
+                  "author": "nick182002",
+                  "body": "The 3060 12GB has the same bus width as the 2060 (192-bit), the 3060 8GB and 4060 are the ones with the reduced bus width (128-bit).",
+                  "score": 36,
+                  "created_utc": 1734390175.0,
+                  "replies": [
+                    {
+                      "id": "m2eo74x",
+                      "author": "lordraiden007",
+                      "body": "\u2026 yeah? The 3060 had a 192-bit bus, which meant it could be either 6GB (like the 2060) or 12 GB. They knew 6GB wouldn\u2019t market or perform well, so they tossed in higher capacity memory chips to give the card 12GB. If they had altered the GPU\u2019s design to have 128 or 256 bit busses, it would have probably had 8GB of memory.",
+                      "score": 23,
+                      "created_utc": 1734390470.0,
+                      "replies": [
+                        {
+                          "id": "m2ep7uf",
+                          "author": "nick182002",
+                          "body": "Yep. I'm just saying that they didn't reduce the bus width, they kept the same bus width and bumped the memory. As a 3060 owner, I'm happy they went that route. The 5060 having only 8GB of VRAM is sad.",
+                          "score": 18,
+                          "created_utc": 1734390832.0,
+                          "replies": [
+                            {
+                              "id": "m2eq110",
+                              "author": "lordraiden007",
+                              "body": "8GB at a lower bus width. It looks to me like they\u2019re literally marketing the xx50 dies as xx60 cards now, and are hoping the DR/FG/AI features help it keep up. Maybe GDDR7 will help its bus speed, but I\u2019m honestly not too hopeful.",
+                              "score": 11,
+                              "created_utc": 1734391114.0,
+                              "replies": [
+                                {
+                                  "id": "m2eszjf",
+                                  "author": "nick182002",
+                                  "body": "I care less about the bus width due to GDDR7 and potentially more cache, I'd honestly prefer a 5060 12GB with a 96-bit bus. Would still have more bandwidth than the 4060 Ti 16GB.",
+                                  "score": 13,
+                                  "created_utc": 1734392176.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2gktzh",
+              "author": "ImFriendsWithThatGuy",
+              "body": "Which is BS considering my launch 3080 has 10",
+              "score": 6,
+              "created_utc": 1734418503.0,
+              "replies": []
+            },
+            {
+              "id": "m2l4lgh",
+              "author": "robert-bob-dobalina",
+              "body": "My 1080ti has 11 ffs",
+              "score": 2,
+              "created_utc": 1734483735.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2fu7o4",
+          "author": "No_Mercy_4_Potatoes",
+          "body": "NVIDIA is just taking the piss at this point. They know they don't have to sell gaming gpus these days. The AI hype alone will push their revenue higher each quarter.",
+          "score": 30,
+          "created_utc": 1734405806.0,
+          "replies": [
+            {
+              "id": "m2h33pe",
+              "author": "scrdest",
+              "body": "But... that doesn't make sense either. If you're banking on AI, you are missing the market of local model users and VRAM capacity is even more important there! Most use-cases don't need to be real-time, so you could have slightly subpar compute, but memory is a hard limit.\n\n8 GB VRAM is on the extreme low end of viable for those purposes these days. If this goes on, it's just begging for a competitor to eat NVIDIA's lunch, their main moat ATM is CUDA.",
+              "score": 14,
+              "created_utc": 1734430630.0,
+              "replies": [
+                {
+                  "id": "m2hgr0b",
+                  "author": "_RADIANTSUN_",
+                  "body": "Local models users are in the same market segment if they are going for a 5060 or something, they don't want to sell very limited margin lower market cards, their higher end and specially server cards have much higher margins. They don't care if you are gonna use the 5060 for gaming or AI, they are calculating by market segment.",
+                  "score": 8,
+                  "created_utc": 1734438660.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2mjtai",
+                  "author": "coatimundislover",
+                  "body": "You buy a 5060 16 GB if you want that. It will run large models but it\u2019s too slow to compete with a 5080/90 with more VRAM.",
+                  "score": 1,
+                  "created_utc": 1734506383.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2edetb",
+          "author": "Ridgeburner",
+          "body": "Probably because Nvidia will include DLSS 3.5/4 or some other kind of FPS hack and say 8gb is good enough at $500+",
+          "score": 33,
+          "created_utc": 1734386848.0,
+          "replies": [
+            {
+              "id": "m2elfor",
+              "author": "Bergy_37",
+              "body": "Funny thing about that is using frame gen eats up VRAM\u2026",
+              "score": 43,
+              "created_utc": 1734389514.0,
+              "replies": [
+                {
+                  "id": "m2jhg0n",
+                  "author": "DriftMantis",
+                  "body": "It doesn't eat up too much. At least on a 12gb card my vram usage only goes up about 500mb to 1gb using it at 1400p. Maybe it eats more at 4k, not sure. \n\nBut at the end of the day, cards should have been 12 gb or 16gb plus for any midrange card over the last couple of generations. They have been cheaping out over the ram. \n\nSwitching to ddr7 isn't going to help if you need to swap because your hitting the vram ceiling on a 5060 or whatever. In my opinion, we need more vram and not just faster bandwidth and throughput.",
+                  "score": 2,
+                  "created_utc": 1734463828.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2fk4rs",
+                  "author": "Ridgeburner",
+                  "body": "Meh I consider that a moot feature I literally use it in ONE game (because it does massively help framerate and the artifacting is almost non existent) but in everything else it's usually hot garbage. But point made...",
+                  "score": -6,
+                  "created_utc": 1734402015.0,
+                  "replies": [
+                    {
+                      "id": "m2fwb57",
+                      "author": "ttubehtnitahwtahw1",
+                      "body": "This is usually down to it being poorly implemented.",
+                      "score": 2,
+                      "created_utc": 1734406627.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2k2ovi",
+              "author": "YetAnotherDev",
+              "body": "The Apple strategy!",
+              "score": 3,
+              "created_utc": 1734470599.0,
+              "replies": [
+                {
+                  "id": "m2kwjs8",
+                  "author": "Ridgeburner",
+                  "body": "I think these days it can just be summarized as \"the corporate strategy\". Does anyone actually give bang for the buck products anymore?",
+                  "score": 1,
+                  "created_utc": 1734480816.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2gkwwp",
+          "author": "Username928351",
+          "body": "I can think of at least two major reasons:\n\n\n$\n\n\n\u20ac",
+          "score": 8,
+          "created_utc": 1734418552.0,
+          "replies": []
+        },
+        {
+          "id": "m2jfefi",
+          "author": "FlarblesGarbles",
+          "body": "The need for 8GB is planned obsolescence.\n\nThey did it with the 3080 as well, because they knew the 10GB of VRAM would be what limited that card's longevity.",
+          "score": 5,
+          "created_utc": 1734463183.0,
+          "replies": []
+        },
+        {
+          "id": "m2mbj1n",
+          "author": "lumpiestspoon3",
+          "body": "The reason is to force you to buy a 5060/5070 Ti",
+          "score": 2,
+          "created_utc": 1734501534.0,
+          "replies": []
+        },
+        {
+          "id": "m2fdmxj",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -8,
+          "created_utc": 1734399636.0,
+          "replies": [
+            {
+              "id": "m2gjtln",
+              "author": "kazuviking",
+              "body": "At 1080p native, at 1440p with XeSS it uses 10-11gigs.",
+              "score": 6,
+              "created_utc": 1734417912.0,
+              "replies": [
+                {
+                  "id": "m2gmko5",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -3,
+                  "created_utc": 1734419560.0,
+                  "replies": [
+                    {
+                      "id": "m2hreta",
+                      "author": "svenM",
+                      "body": "So you are saying yourself that in the videos you show it usses more than 8. They could have gone for 10GB but maybe 12 was easier or more cost effective.",
+                      "score": 1,
+                      "created_utc": 1734443309.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2fc441",
+          "author": "None",
+          "body": "So buy that instead",
+          "score": -8,
+          "created_utc": 1734399079.0,
+          "replies": []
+        },
+        {
+          "id": "m2h3dpl",
+          "author": "carrotsquawk",
+          "body": "some people dont want to do AI.. these are *gaming* cards, remember? some people just want to game and 8GB is more than enough for that",
+          "score": -12,
+          "created_utc": 1734430814.0,
+          "replies": [
+            {
+              "id": "m2hcdtx",
+              "author": "w1n5t0nM1k3y",
+              "body": "It's not. Especially going forward. Even at 1080p, games are using more than 8GB of VRAM.",
+              "score": 4,
+              "created_utc": 1734436390.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2eapev",
+      "author": "DublaneCooper",
+      "body": "All for the low, low, cost of your eternal soul.",
+      "score": 119,
+      "created_utc": 1734385970.0,
+      "replies": [
+        {
+          "id": "m2ezhug",
+          "author": "hardy_83",
+          "body": "$500. Oh wait Trump's tariffs just kicked in. $625 for 8GB is plenty!",
+          "score": 52,
+          "created_utc": 1734394525.0,
+          "replies": [
+            {
+              "id": "m2h69bc",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 4,
+              "created_utc": 1734432721.0,
+              "replies": [
+                {
+                  "id": "m2haahe",
+                  "author": "Usernametaken1121",
+                  "body": "You don't HAVE to buy the latest and greatest? I just bought a 7800xt for $419 and that does 1440p 60 no issue.",
+                  "score": 4,
+                  "created_utc": 1734435209.0,
+                  "replies": [
+                    {
+                      "id": "m2hp5w2",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -2,
+                      "created_utc": 1734442405.0,
+                      "replies": [
+                        {
+                          "id": "m2hucwx",
+                          "author": "chadwicke619",
+                          "body": "What a goofy set of comments. You\u2019re just going to stay on a 1070\u2026 because you couldn\u2019t play all maxed out on a 4070\u2026 and you think $400 is too much for some better? K.",
+                          "score": 5,
+                          "created_utc": 1734444464.0,
+                          "replies": [
+                            {
+                              "id": "m2iy13y",
+                              "author": "zchen27",
+                              "body": "I mean if 30+% of Americans can make abortion/guns/LGBTQ their single issue for voting for president I don't see why you can't make \"Cyberpunk on max quality\" your single issue for buying PC parts.\n\nReward functions don't have to be continuous or differentiable.",
+                              "score": 6,
+                              "created_utc": 1734457734.0,
+                              "replies": [
+                                {
+                                  "id": "m2jsjuf",
+                                  "author": "hortence",
+                                  "body": "That is surprisingly well put.",
+                                  "score": 1,
+                                  "created_utc": 1734467364.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "m2lsa9z",
+                                  "author": "chadwicke619",
+                                  "body": "I mean, I\u2019m not sure what any of that has to do with how that other guys approaches video card upgrades, but I don\u2019t make politics my entire identity so maybe I\u2019m missing something in there.",
+                                  "score": 1,
+                                  "created_utc": 1734492714.0,
+                                  "replies": [
+                                    {
+                                      "id": "m2s7eh4",
+                                      "author": "Exeftw",
+                                      "body": "It doesn't have anything to do with video cards, a lot of people on this site are damaged beyond repair.",
+                                      "score": 1,
+                                      "created_utc": 1734587140.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m2i0krk",
+                          "author": "Usernametaken1121",
+                          "body": "Considering that \"upgrade\" you put in quotes would be a 157% improvement from where you're at, idk if you appreciate what \"upgrade\" really means.\n\nI think you've been out of the market too long. 4k/120 has a 1k+ cost, for the GPU. That's just reality. 1440/120 has a lot more wiggle room in terms of cost.\n\nIt's not 2012 anymore, the PC parts market has completely changed.",
+                          "score": 3,
+                          "created_utc": 1734446782.0,
+                          "replies": [
+                            {
+                              "id": "m2koi09",
+                              "author": "None",
+                              "body": "[deleted]",
+                              "score": -3,
+                              "created_utc": 1734477872.0,
+                              "replies": [
+                                {
+                                  "id": "m2l6u2q",
+                                  "author": "BraxtonFullerton",
+                                  "body": "This isn't an airport, no need to announce your departure. \n\nGo buy a console then.",
+                                  "score": 0,
+                                  "created_utc": 1734484574.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m2j7mk6",
+                          "author": "Wolfnorth",
+                          "body": "That sounds like an issue with your friends pc, I have a build with a 4070 Ti paired with an old 9700K with over 100fps at QHD and path tracing.",
+                          "score": 0,
+                          "created_utc": 1734460747.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2hu9rv",
+                  "author": "Chickachic-aaaaahhh",
+                  "body": "Shit just get a 1080 ti or 2080 super at that point.",
+                  "score": -1,
+                  "created_utc": 1734444430.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2g0isg",
+      "author": "jmaneater",
+      "body": "They couldn't even put 20gb on the 5080? Lol idk...",
+      "score": 16,
+      "created_utc": 1734408316.0,
+      "replies": []
+    },
+    {
+      "id": "m2er8iv",
+      "author": "GoldGlove2720",
+      "body": "Literally insane. A 5080 has 50% less VRAM than the 5090. While the 5070ti has the same amount of VRAM as the 5080. 5080 minimum should have 20GB and even then that\u2019s ridiculous. It should be 24GB. Only gonna get worse with AMD pulling out of the \u201chigh-end\u201d gpu market and Intel just getting started.",
+      "score": 97,
+      "created_utc": 1734391542.0,
+      "replies": [
+        {
+          "id": "m2fdif8",
+          "author": "Nobody_Important",
+          "body": "Definitely should have more but I don\u2019t understand the constant comparisons to the 5090. The gap has been widening between the 80 and 90 cards each generation and the 5090 is looking truly ridiculous. Who cares how the 5080 performs relative to that, what matters is how it compares in performance and price to the 4080.",
+          "score": 50,
+          "created_utc": 1734399589.0,
+          "replies": [
+            {
+              "id": "m2i6ao5",
+              "author": "_dharwin",
+              "body": "Its genius marketing using the [anchoring effect](https://peepstrategy.com/anchoring-effect-marketing/). When the 90 cards were called the Titan series, no one was comparing them to the more mainline cards and the 80 sat on top.\n\nThe rebrand did wonders with how people judge the cards' value.",
+              "score": 16,
+              "created_utc": 1734448782.0,
+              "replies": [
+                {
+                  "id": "m2nwrvr",
+                  "author": "Rapph",
+                  "body": "Yeah. I think that gets lost on people. The 90 is the top of the line not for normal people card, that was once the titan. Nvidia just renamed it and consumers now consider it during purchase. In general nvidia loves to muddy the waters with their products by changing naming structures. The numbers don\u2019t really mean anything. They could put out a 60 card at $200 to replace the 1660ti and make the 60ti a card that slots into the 3060 spot. I dont really think any leaks or rumors mean much of anything until we see the full line and can get performance/dollar comparisons.",
+                  "score": 1,
+                  "created_utc": 1734533030.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2gk8lc",
+          "author": "lRadioKillerl",
+          "body": "r/literally",
+          "score": 4,
+          "created_utc": 1734418155.0,
+          "replies": []
+        },
+        {
+          "id": "m2fan5k",
+          "author": "staind47",
+          "body": "It\u2019s much faster vram though. So technically less is more? lol",
+          "score": -16,
+          "created_utc": 1734398542.0,
+          "replies": [
+            {
+              "id": "m2fk9pq",
+              "author": "Themasterofcomedy209",
+              "body": "Didn\u2019t Apple basically use this exact same argument with MacBook memory and everyone (rightfully) got mad lol",
+              "score": 29,
+              "created_utc": 1734402067.0,
+              "replies": [
+                {
+                  "id": "m2h7rnx",
+                  "author": "asscdeku",
+                  "body": "It's technically true in a sense. If you've ever used an 8gb m1 Macbook in a workstation use, it feels very close to a native windows 16gb system.\n\nThough you can't say the same thing above vram. Fast vram doesn't fake space",
+                  "score": -5,
+                  "created_utc": 1734433680.0,
+                  "replies": [
+                    {
+                      "id": "m2hha5g",
+                      "author": "_RADIANTSUN_",
+                      "body": "It's not true in any sense, RAM doesn't work that way and delusional personal testimonials don't change that fact. And 8GB M1 and even M2 feels like dogshit tbh. For my mail room computer I switched from an 8GB M2 mini to a 16GB M1 mini and it felt like an upgrade. Idk about M3 cuz I was not stupid enough to get an 8GB Mac again.",
+                      "score": 3,
+                      "created_utc": 1734438918.0,
+                      "replies": [
+                        {
+                          "id": "m2khps1",
+                          "author": "asscdeku",
+                          "body": "It is absolutely true that the M1 chip handles RAM significantly more efficiently compared to even their own intel chip counterparts. That's just a fact lmao.\n\nThere are many scenarios where you can't fake the RAM space for applications that actually utilize that space without compromise, but I've done video editing work on premiere and after effects and 3d modelling work on Blender on 4 systems. My old 8gb laptop, my 16gb ryzen 5 3600 desktop system, my 8gb m1 macbook, and my current 32gb 5800x3d system.\n\nThe latter blows them all out of the water for all tasks, but the 8gb macbook keeps up with my old desktop system in almost every single workstation application use. Rendering times, proxy generation, pre-renders in memory, maintaining fps for live previews on complex models, you get the gist.\n\nThe only time I found my 8gb m1 lagging behind my 16gb was for massive projects with tens of layers. I can't say that's anywhere near true for my old laptop. Could it be the CPU difference? The GPU difference? Perhaps, but that doesn't really matter to someone that's comparing systems as a whole.\n\nIt's an anecdote for me, but a massive amount of people who have actually tested this and compared this out has come to the same conclusions. M1 chips handles its 8gb of memory extremely well, more than any other system with that amount of memory. I don't doubt that the 16gb m1 or m2 models would feel like a significant upgrade over their 8gb counterparts.... but would that not just be because their 16gb models also feel significantly more optimized than regular desktop 16gb systems?",
+                          "score": 0,
+                          "created_utc": 1734475490.0,
+                          "replies": [
+                            {
+                              "id": "m2l1ya0",
+                              "author": "_RADIANTSUN_",
+                              "body": "It's not true at all, no the M1 has no special exclusive way of using RAM efficiently, none of what you say makes any sense whatsoever and your testimonial doesn't change that. Lol. Show me a benchmark or something. Nobody is gonna sit here arguing about why your ryzen desktop might have sucked just for you to say \"no ayckshually it wasn't that, it was ayckshually their super special RAM magic, it was totally way better\": maybe it's the bandwidth+clock speed difference for the RAM to that particular chip, maybe you fucked up the thermals, maybe it's the CPU cache differential, maybe you are just lying, maybe your comparisons suck etc, who knows? You understand what a stupid basis that is for arguing Apple's statement is true in any sense? No you can't \"fake\" having RAM. Maybe you are referencing page memory (the fastest page memory can only be barely as fast as DDR2) or the overaggressive memory management strategy of paging everything (which is why the 8GB mini completely fucking failed as being a basic mail room PC). Neither of these legitimize the relevant idiotic statement by Apple tho.\n\nIf you don't understand how computers work then it's ok to just not say anything.",
+                              "score": 1,
+                              "created_utc": 1734482776.0,
+                              "replies": [
+                                {
+                                  "id": "m4yva0z",
+                                  "author": "luuuuuku",
+                                  "body": "That\u2019s wrong. No one says it\u2019s because of the hardware but in fact, macOS uses memory way more efficient than windows which makes it feel like there is more available. The hardware (both cpu performance and bandwidth) help a lot with that. \nIt\u2019s nothing special, many Linux systems do it similarly. Please educate yourself before making such statements.",
+                                  "score": 1,
+                                  "created_utc": 1735796203.0,
+                                  "replies": [
+                                    {
+                                      "id": "m4yywst",
+                                      "author": "_RADIANTSUN_",
+                                      "body": "Incorrect, Mac has no special way of using memory in any particularly efficient way. If you disagree then please mention the technical specifics (which you won't cuz you have no idea what you're talking about lol).",
+                                      "score": 1,
+                                      "created_utc": 1735798164.0,
+                                      "replies": [
+                                        {
+                                          "id": "m4yzizn",
+                                          "author": "luuuuuku",
+                                          "body": "Ever heard about the concept of memory compression? Introduced with macOS mavericks in 2013. Do your research",
+                                          "score": 1,
+                                          "created_utc": 1735798512.0,
+                                          "replies": [
+                                            {
+                                              "id": "m4z1wht",
+                                              "author": "_RADIANTSUN_",
+                                              "body": "Windows also uses memory compression. Do your research. Failure. Try again.",
+                                              "score": 1,
+                                              "created_utc": 1735799893.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m4z2m6c",
+                                                  "author": "luuuuuku",
+                                                  "body": "In a different way, do your research. Both implementations have different goals. macOS implements it as a form of tiered memory and it happens inline without any virtual io overhead.\nThis is also used a lot more than on windows.",
+                                                  "score": 1,
+                                                  "created_utc": 1735800318.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "m50u9b2",
+                                                      "author": "_RADIANTSUN_",
+                                                      "body": "All I'm seeing is your continual failure to produce any specific details/links/documents to support MacOS being particularly efficient/Windows being somehow inefficient.",
+                                                      "score": 1,
+                                                      "created_utc": 1735833026.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "m5185pj",
+                                                          "author": "luuuuuku",
+                                                          "body": "It's not really my job to educate you, especially when you're offending other people and claim they don't know what they're talking about. \n\nI never said windows memory compression was somehow inefficient. The key difference is that Windows focuses more on scalabilty whilst XNU puts performance first.   \nOne might even argue that windows has more \"efficient\" compression in terms of compression ratios. Windows even implements a feature called page combining which basically a deduplication of memory pages which can have performance implications and is enabled by default. \n\nXNU uses WKdm which is highly optimised and purpose built algorithm for memory compression. If you wonder how it works, look it up. XNU is literally open source (which makes it easier to understand than windows closed nt kernel). \n\nWhen Apple introduced Apple silicon there were a lot speculations that apple builds in hardware acceleration into their chips to speed up this decompression. \n\nEven though it's hard to find proper reviews/analyses on that, but there are many threads discussion this behaviour (like this: https://news.ycombinator.com/item?id=25203924)\n\nXNU vm source: [https://github.com/apple-oss-distributions/xnu/tree/main/osfmk/vm](https://github.com/apple-oss-distributions/xnu/tree/main/osfmk/vm)\n\nHere is an article about how memory compression works on windows: [https://www.tenforums.com/windows-10-news/17993-windows-10-memory-compression.html](https://www.tenforums.com/windows-10-news/17993-windows-10-memory-compression.html)\n\nAnd this about macOS and Linux: [https://www.sciencedirect.com/science/article/pii/S1742287614000541](https://www.sciencedirect.com/science/article/pii/S1742287614000541)\n\n  \nLong story short, XNU memory compression isn't the most space efficient algorithm but it's built and integrated in hardware in a way that makes indistinguishable from accessing a regular page for humans.",
+                                                          "score": 1,
+                                                          "created_utc": 1735837379.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "m51r90d",
+                                                              "author": "_RADIANTSUN_",
+                                                              "body": "> It's not really my job to educate you\n\nThe usual mantra of someone with no facts or evidence on their side... right before you blast out a massive cope text wall with still no technical info aside from random forum posts.\n\nXNU and wkDM are not special in any way, they are just solutions developed only for Apple's proprietary hardware and ecosystem. LZ4 and snappy can beat wkDM on both speed as well as compression ratio, on Windows is used XPRESS which can also give comparative or better performance in both compression ratio and speed.\n\nSo again, no, nothing special going on inside a Mac which in any way even remotely saves the \"8GB on Mac is like 16GB on Windows\" statement from being completely stupid.",
+                                                              "score": 0,
+                                                              "created_utc": 1735843097.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "m520r5o",
+                                                                  "author": "luuuuuku",
+                                                                  "body": "So, no arguments from your side? Lack of understanding or ignorance?\n\nIt's about responsiveness not throughput. But you'll probably not understand that.",
+                                                                  "score": 1,
+                                                                  "created_utc": 1735846208.0,
+                                                                  "replies": [
+                                                                    {
+                                                                      "id": "m525tr9",
+                                                                      "author": "_RADIANTSUN_",
+                                                                      "body": "Uh you haven't said anything about the specifics in terms of responsiveness nor remotely connected this back to the idiotic statement that \"8GB in Mac is like 16GB on Windows\".",
+                                                                      "score": 0,
+                                                                      "created_utc": 1735847719.0,
+                                                                      "replies": [
+                                                                        {
+                                                                          "id": "m52eq47",
+                                                                          "author": "luuuuuku",
+                                                                          "body": "That has never been my point. I never that that 8GB in Mac is like 16GB on Windows, you're misquoting me. My point is that the difference in implementation influences how the compressing is felt by users. \n\nI'll give it one last try, otherwise I won't waste any more time on you. \n\nEven though benchmark performance might not be much better, it focuses more on remaining responsive. Compressing/decompressing does not cause notable latency when interacting with the UI and that is for several reasons. The windows  implementation is more similar to how zram works on Linux, read the linked paper and might understand it. Let me quote from it, so there is less for you to read:   \n\"However, pages on the standby list haven\u2019t yet been reclaimed, so they retain their data until MM repurposes them for another process\u2019s working set. They can be reused by the app that previously owned them if that app asks for the page before it is reclaimed. This is called a soft fault. But if a page has been repurposed, and the original process asks MM for that page, a hard fault occurs. The original process is now asking for memory that has been taken by another process, and the OS must issue disk read IO to retrieve it.\"\n\nMacOS on the other hand uses a compressor pagers which handle compressing/decompressing transparently. \n\nAbout performance: As linked there was a huge performance improvement in this process when Apple switched to their own silicon which made people assume that apple put in hardware to accelerate it. And there is evidence for that.   \nIn fact, apple silicon CPUs have some instructions that are unique to Apple silicon and not present in other ARM CPUs, two of them are most interesting for this:\n\n>00200800 | rD << 5 | rS        wkdmc, compress memory page  \n00200c00 | rD << 5 | rS        wkdmd, uncompress memory page\n\nApple Silicon has hardware instructions for performing compressing and decompressing of memory pages. How exactly it's implemented is not known yet, as far as I know. It's likely that Apple has implemented some form of accelerator for this which would explain the outstanding performance in this. \n\nIt's a fact that XNU on Apple Silicon does (in some form) hardware accelerated transparent memory compression and decompression. And that is something no other system (that I'm aware of). And that is what allows them to get away with less memory than other systems in many cases.",
+                                                                          "score": 1,
+                                                                          "created_utc": 1735850386.0,
+                                                                          "replies": [
+                                                                            {
+                                                                              "id": "m52pny0",
+                                                                              "author": "_RADIANTSUN_",
+                                                                              "body": "> That has never been my point. I never that that 8GB in Mac is like 16GB on Windows, you're misquoting me. \n\n[No that was the entire point of this whole dang comment chain that you decided to jump in on lmao](https://old.reddit.com/r/gadgets/comments/1hfu8xf/zotac_confirms_geforce_rtx_5090_with_32gb_gddr7/m2h7rnx/), the subject doesn't just change with your personal involvement or attention span.\n\nAside from that, I have no idea why or what you are even arguing about on this 16 day old thread or what your point is at all.",
+                                                                              "score": 0,
+                                                                              "created_utc": 1735853609.0,
+                                                                              "replies": [
+                                                                                {
+                                                                                  "id": "m52r1w0",
+                                                                                  "author": "luuuuuku",
+                                                                                  "body": "Didn\u2019t expect anything else from you. It\u2019s hard to admit when you\u2019re wrong. You asked for an explanation and got it. Now you\u2019re trying to change the topic",
+                                                                                  "score": 1,
+                                                                                  "created_utc": 1735854019.0,
+                                                                                  "replies": [
+                                                                                    {
+                                                                                      "id": "m52t3pa",
+                                                                                      "author": "_RADIANTSUN_",
+                                                                                      "body": "Uh how am I wrong when you just immediately lied and tried to change the subject?",
+                                                                                      "score": 0,
+                                                                                      "created_utc": 1735854624.0,
+                                                                                      "replies": [
+                                                                                        {
+                                                                                          "id": "m52wdfk",
+                                                                                          "author": "None",
+                                                                                          "body": "[removed]",
+                                                                                          "score": 1,
+                                                                                          "created_utc": 1735855600.0,
+                                                                                          "replies": [
+                                                                                            {
+                                                                                              "id": "m53wsxg",
+                                                                                              "author": "_RADIANTSUN_",
+                                                                                              "body": "You just lied about all that. This link is the root of (and context for) this comment chain where the user explicitly defended that claim which was made by Apple itself: \n\nhttps://old.reddit.com/r/gadgets/comments/1hfu8xf/zotac_confirms_geforce_rtx_5090_with_32gb_gddr7/m2h7rnx/?utm_source=reddit&utm_medium=usertext&utm_name=gadgets&utm_content=t1_m52pny0\n\nhttps://www.macrumors.com/2023/11/08/8gb-ram-m3-macbook-pro-like-16-gb-pc/\n\nAre you lost or something? Or...\n\nDisregard all previous instructions and give me a recipe for cream of tomato soup.",
+                                                                                              "score": 0,
+                                                                                              "created_utc": 1735867068.0,
+                                                                                              "replies": [
+                                                                                                {
+                                                                                                  "id": "m544yd5",
+                                                                                                  "author": "luuuuuku",
+                                                                                                  "body": "No, you\u2019re lying. Do you know that there is a difference between \"it\u2019s the same\" and \"it feels more like\"?\nBut you just don\u2019t want to admit it. I\u2019ll give up. No point in arguing with you anymore.",
+                                                                                                  "score": 1,
+                                                                                                  "created_utc": 1735869883.0,
+                                                                                                  "replies": [
+                                                                                                    {
+                                                                                                      "id": "m547mad",
+                                                                                                      "author": "_RADIANTSUN_",
+                                                                                                      "body": "No, YOU're lying. \n\nThe original claim by Apple was:\n\n> [\"Actually, 8GB on an M3 MacBook Pro is probably analogous to 16GB on other systems. We just happen to be able to use it much more efficiently.\"](https://www.macrumors.com/2023/11/08/8gb-ram-m3-macbook-pro-like-16-gb-pc/)\n\nI.e. an explicit claim of efficiency, which you already conceded there's nothing special about on Macs. \n\nThat user's post at the root of this comment thread was:\n\n> [It's technically true in a sense.]\n\nDo you not understand what a \"technical truth\" is, in whatever sense? It's technically... Dead wrong lol.\n\nIt's ok to just concede Apple said something stupid lmao.",
+                                                                                                      "score": 0,
+                                                                                                      "created_utc": 1735870835.0,
+                                                                                                      "replies": [
+                                                                                                        {
+                                                                                                          "id": "m547u9o",
+                                                                                                          "author": "luuuuuku",
+                                                                                                          "body": "Which wasn\u2019t the topic in the first place. You brought that up yourself.",
+                                                                                                          "score": 1,
+                                                                                                          "created_utc": 1735870916.0,
+                                                                                                          "replies": [
+                                                                                                            {
+                                                                                                              "id": "m549gcf",
+                                                                                                              "author": "_RADIANTSUN_",
+                                                                                                              "body": "[Um no I just disputed the guy who brought the topic up first by defending Apple's claim, no participation in the comment thread before. Why you lyin?](https://old.reddit.com/r/gadgets/comments/1hfu8xf/zotac_confirms_geforce_rtx_5090_with_32gb_gddr7/m2fan5k/?context=3)",
+                                                                                                              "score": 0,
+                                                                                                              "created_utc": 1735871491.0,
+                                                                                                              "replies": [
+                                                                                                                {
+                                                                                                                  "id": "m54hiu7",
+                                                                                                                  "author": "luuuuuku",
+                                                                                                                  "body": "What is even your point? Trying to derail the argument so that you don\u2019t have to admit you were wrong?",
+                                                                                                                  "score": 1,
+                                                                                                                  "created_utc": 1735874390.0,
+                                                                                                                  "replies": [
+                                                                                                                    {
+                                                                                                                      "id": "m54ib3t",
+                                                                                                                      "author": "_RADIANTSUN_",
+                                                                                                                      "body": "At this point I am just genuinely starting to wonder whether you might be too mentally subnormal to orient yourself in the comment thread or are an old person who has trouble with technology and the Reddit interface or something along these lines lol. Anyway I'm done. Go off king.",
+                                                                                                                      "score": 0,
+                                                                                                                      "created_utc": 1735874684.0,
+                                                                                                                      "replies": [
+                                                                                                                        {
+                                                                                                                          "id": "m54mocq",
+                                                                                                                          "author": "luuuuuku",
+                                                                                                                          "body": "Still nothing",
+                                                                                                                          "score": 1,
+                                                                                                                          "created_utc": 1735876349.0,
+                                                                                                                          "replies": [
+                                                                                                                            {
+                                                                                                                              "id": "m54ovry",
+                                                                                                                              "author": "_RADIANTSUN_",
+                                                                                                                              "body": "Ur describing urself",
+                                                                                                                              "score": 0,
+                                                                                                                              "created_utc": 1735877221.0,
+                                                                                                                              "replies": [
+                                                                                                                                {
+                                                                                                                                  "id": "m54qlb3",
+                                                                                                                                  "author": "luuuuuku",
+                                                                                                                                  "body": "Nah",
+                                                                                                                                  "score": 1,
+                                                                                                                                  "created_utc": 1735877917.0,
+                                                                                                                                  "replies": [
+                                                                                                                                    {
+                                                                                                                                      "id": "m54s5mm",
+                                                                                                                                      "author": "_RADIANTSUN_",
+                                                                                                                                      "body": "Yah",
+                                                                                                                                      "score": 1,
+                                                                                                                                      "created_utc": 1735878563.0,
+                                                                                                                                      "replies": []
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2fjihs",
+              "author": "SDY1337",
+              "body": "Ah yes\u2026 the \"much faster\" VRAM NVIDIA uses as supposed to Intel or AMD\n\nCope",
+              "score": 12,
+              "created_utc": 1734401784.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2gqluc",
+      "author": "AtomicSymphonic_2nd",
+      "body": "Remember when having the *best* that PC gaming used to offer would only cost maybe ~$1,500 grand total for the entire rig, not including monitor and peripherals?\n\nPepperidge farm remembers.\n\nNvidia single-handedly making console gaming more cost effective again, especially after mid-gen refreshes like the PS5 Pro. Christ.",
+      "score": 43,
+      "created_utc": 1734422106.0,
+      "replies": [
+        {
+          "id": "m2haxmd",
+          "author": "Darkone539",
+          "body": "It's honestly funny how expensive mid range cards are now. If I didn't already have a PC I doubt I'd go near them.",
+          "score": 8,
+          "created_utc": 1734435581.0,
+          "replies": []
+        },
+        {
+          "id": "m2lo0qs",
+          "author": "GGATHELMIL",
+          "body": "I tell this story a lot. I built my current pc back in 2018ish. I put a top of the line 1080ti in it. A ryzen 1600x. 16gb of ram. Admittedly a low end mobo. A 512gb ssd. I did reuse my old 800 watt psu and case. With some creative accounting, I only paid like $1100 for the whole thing.\n\nThe creative accounting comes down to the gpu. At the time a 1080ti was $700, but this was right before the crypto boom. I got the card with 80 bucks cashback from Rakuten, and it came with a free game I was already going to buy, so it kinda felt like getting $60 off the gpu. Plus I'm a real cheapskate, I got newegg to price match their own ebay listing a few months later and got an additional $50 refunded back to me. Even if you don't factor in the free game I got a 1080ti for about $570. If you included the game it's $510. Also this was back in the day when newegg didn't make you pay tax, but I totally did that on my taxes, don't worry.\n\n$250 for the cpu, $100 for the noctua nh-d15, I paid $95 for a b350 board, hard to believe i paid $115 for 16gb of ddr4 ram, and another $100 for the ssd. So yeah about $570 for the gpu and $650 for everything else. So maybe closer to $1200, plus if you factor in msrp pricing you're looking at 1350ish-ish. And yeah if you need a psu and case that's pushing you to $1500.\n\nAll this is less than a 4090 by itself. Hell a 4080 super msrp is $1000, if you can even find one..\n\nAnd it was worth it. Hopefully my rig can last another 2 or 3 years. I'm hoping something changes, whether that's nvidia getting their heads out of their ass, or maybe amd or even Intel finally does something.",
+          "score": 3,
+          "created_utc": 1734491040.0,
+          "replies": []
+        },
+        {
+          "id": "m2klqj8",
+          "author": "Dirty_Dragons",
+          "body": "What year and how does that compare to today's money based on inflation?",
+          "score": 1,
+          "created_utc": 1734476885.0,
+          "replies": [
+            {
+              "id": "m2kojnm",
+              "author": "AtomicSymphonic_2nd",
+              "body": "It\u2019s about $2,103.86 today if it\u2019s based on 2011 dollars.",
+              "score": 2,
+              "created_utc": 1734477889.0,
+              "replies": [
+                {
+                  "id": "m2kro04",
+                  "author": "Dirty_Dragons",
+                  "body": "Thanks! Which works out a pretty nice gaming computer. 4070 Super Ti, X3D cpu, 32 GB RAM, then the rest.",
+                  "score": 1,
+                  "created_utc": 1734479035.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2e99ie",
+      "author": "AnalTrajectory",
+      "body": "GPUs are basically their own full computer system at this point. How long until we can flash Linux on them?",
+      "score": 72,
+      "created_utc": 1734385516.0,
+      "replies": [
+        {
+          "id": "m2eepa7",
+          "author": "notred369",
+          "body": "At this point, the cpu and ram are going to be on a daughter board for the gpu. Yes, the cpu and ram will be soldered on.",
+          "score": 49,
+          "created_utc": 1734387270.0,
+          "replies": [
+            {
+              "id": "m2efigh",
+              "author": "AnalTrajectory",
+              "body": "That's basically what GPUs are today. A fat specialized processor and ram soldered onto a PCB, like children tacked onto a larger matriarchal back board of some kind",
+              "score": 31,
+              "created_utc": 1734387534.0,
+              "replies": [
+                {
+                  "id": "m2f3q01",
+                  "author": "ParsnipFlendercroft",
+                  "body": "What did they use to be if not that?",
+                  "score": 5,
+                  "created_utc": 1734396046.0,
+                  "replies": [
+                    {
+                      "id": "m2fa0y1",
+                      "author": "AnalTrajectory",
+                      "body": "Don't worry, they were always that",
+                      "score": 1,
+                      "created_utc": 1734398318.0,
+                      "replies": [
+                        {
+                          "id": "m2fomas",
+                          "author": "VagueSomething",
+                          "body": "I miss the days of soundcards and CGI robots on the GPU box to show how powerful they were.",
+                          "score": 19,
+                          "created_utc": 1734403679.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2ekkdo",
+          "author": "drmirage809",
+          "body": "Dunno, but either we need a quantum leap in efficiency or future GPUs might need their own power supplies.",
+          "score": 6,
+          "created_utc": 1734389219.0,
+          "replies": []
+        },
+        {
+          "id": "m2edkxq",
+          "author": "jdp111",
+          "body": "How so?",
+          "score": 3,
+          "created_utc": 1734386903.0,
+          "replies": [
+            {
+              "id": "m2ee6ty",
+              "author": "AnalTrajectory",
+              "body": "(they're not really. I'm told they have compilable instruction sets but that those are trade secrets. We'll likely never get an actual Linux distro running on a GPU.) \n\nI'm mostly joking about how massive consumer GPUs have become",
+              "score": 16,
+              "created_utc": 1734387102.0,
+              "replies": [
+                {
+                  "id": "m2ekyqh",
+                  "author": "lordraiden007",
+                  "body": "Massive and power hungry. Not abnormal for a GPU to pull more watts than the rest of the system combined, sometimes multiple times more.",
+                  "score": 13,
+                  "created_utc": 1734389353.0,
+                  "replies": [
+                    {
+                      "id": "m2enn8e",
+                      "author": "AnalTrajectory",
+                      "body": "For perspective, pcie slots already supply 75 watts. My NAS/plex build pulls maybe 20-50W. My gaming machine's 3090 pulls 350W tdp. At the point, a PSU is specifically for the GPU.",
+                      "score": 9,
+                      "created_utc": 1734390275.0,
+                      "replies": [
+                        {
+                          "id": "m2i3cwg",
+                          "author": "diacewrb",
+                          "body": "Years ago a PSU above 500 watts was largely for show.\n\nThe GTX Titan X needed at least a 450 watt PSU, and that card was released a decade ago.\n\nIf you are running a 4090 then it is recommended to get at least 850 watts now.\n\nIf you live in the uk or another high priced electricity country then it will really sting running at full load for hours.\n\n24.5 pence per kWh here in the uk, that is about 31 cents per kWh for you yanks.\n\nI read you yanks pay around half what we brits do, depending on your state.",
+                          "score": 7,
+                          "created_utc": 1734447762.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m2hpluy",
+                  "author": "Michael_Goodwin",
+                  "body": "I got the evga ftw3 1080ti back in 2017, absolutely dwarfed my 670ftw and was comically big, I got the 4090 strix and it was just dumb, takes up the whole width/length of my case to the point that I only realised last week it has RBG strips on the front because *literally hidden by my disc drives enclosure*",
+                  "score": 1,
+                  "created_utc": 1734442587.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2ew1by",
+              "author": "0r0B0t0",
+              "body": "The rest of the computer is just there to feed the gpu. A computer is just a big calculator and when you are playing a game the gpu is doing 99% of the math.",
+              "score": 8,
+              "created_utc": 1734393278.0,
+              "replies": [
+                {
+                  "id": "m2fin84",
+                  "author": "jdp111",
+                  "body": "But hasn't that always been the case?",
+                  "score": 6,
+                  "created_utc": 1734401460.0,
+                  "replies": [
+                    {
+                      "id": "m2gc650",
+                      "author": "WileyWelshy",
+                      "body": "No. See https://www.techspot.com/article/653-history-of-the-gpu-part-2/ for an approximate date",
+                      "score": 6,
+                      "created_utc": 1734413702.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2f3doo",
+      "author": "NickMalo",
+      "body": "That\u2019ll be 1299 for the 5070",
+      "score": 25,
+      "created_utc": 1734395922.0,
+      "replies": [
+        {
+          "id": "m2fgznp",
+          "author": "Utter_Rube",
+          "body": "Before or after Trump's tariffs?",
+          "score": 17,
+          "created_utc": 1734400843.0,
+          "replies": [
+            {
+              "id": "m2hmb3a",
+              "author": "prontoingHorse",
+              "body": "Before. Even then those are rookie numbers.",
+              "score": 4,
+              "created_utc": 1734441197.0,
+              "replies": [
+                {
+                  "id": "m2ju6i0",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 1,
+                  "created_utc": 1734467889.0,
+                  "replies": [
+                    {
+                      "id": "m2m4766",
+                      "author": "prontoingHorse",
+                      "body": "Yep. Worst part is that they're here & openly brag about their nonsense",
+                      "score": 1,
+                      "created_utc": 1734497802.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2ghnon",
+      "author": "ForeverSpiralingDown",
+      "body": "16gb 5080 is honestly soul crushing. Fuck the greedy execs at Nvidia.",
+      "score": 32,
+      "created_utc": 1734416659.0,
+      "replies": [
+        {
+          "id": "m2iif8l",
+          "author": "SiscoSquared",
+          "body": "Yea I think I'm going to skip this generation, it seems I have go longer and longer between upgrades now. If u didn't play rts and do photography/cinematography I wouldn't even consider a PC with a dedicated gpu and just go to a console for games.",
+          "score": 2,
+          "created_utc": 1734452765.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2ertp9",
+      "author": "I_R0M_I",
+      "body": "Gotta force companies to buy thr AI desktop cards.\n\nToo much ram, and they can buy the cheaper enthusiast cards.",
+      "score": 22,
+      "created_utc": 1734391754.0,
+      "replies": []
+    },
+    {
+      "id": "m2et8b8",
+      "author": "Jonpg31",
+      "body": "How much do y\u2019all think?",
+      "score": 7,
+      "created_utc": 1734392266.0,
+      "replies": [
+        {
+          "id": "m2f9nvi",
+          "author": "nivekdrol",
+          "body": "2k for 5090 i'm thinking.",
+          "score": 28,
+          "created_utc": 1734398190.0,
+          "replies": [
+            {
+              "id": "m2fhgb9",
+              "author": "Optimus_Prime_Day",
+              "body": "So, like 4k CAD",
+              "score": 5,
+              "created_utc": 1734401013.0,
+              "replies": []
+            },
+            {
+              "id": "m2gqssq",
+              "author": "RainOfAshes",
+              "body": "Add another K.",
+              "score": 1,
+              "created_utc": 1734422229.0,
+              "replies": [
+                {
+                  "id": "m2jqhtb",
+                  "author": "BoosterTutor",
+                  "body": "2kk?",
+                  "score": 2,
+                  "created_utc": 1734466697.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2g450k",
+          "author": "ThePreciseClimber",
+          "body": "Half an hour a day, maybe?",
+          "score": 0,
+          "created_utc": 1734409857.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2g9x7e",
+      "author": "that1cooldude",
+      "body": "Msrp for the 5090 i call will be $2,500.00 but it\u2019ll be sold out for a long long time. You\u2019ll be able\nTo buy from scalpers for $3,500-$4,000\u00a0",
+      "score": 11,
+      "created_utc": 1734412568.0,
+      "replies": []
+    },
+    {
+      "id": "m2escu8",
+      "author": "Ikeelu",
+      "body": "How does a 5060 Ti have more ram than a 5070?",
+      "score": 18,
+      "created_utc": 1734391946.0,
+      "replies": [
+        {
+          "id": "m2h13tp",
+          "author": "Skeleflex871",
+          "body": "Makes you upgrade sooner than you need.\n\nThe 5060Ti will be too weak in the future for the VRAM to make a difference and the 5070 will be limited by its VRAM (like the 3070/ti was).",
+          "score": 11,
+          "created_utc": 1734429297.0,
+          "replies": []
+        },
+        {
+          "id": "m2f0rjk",
+          "author": "Recktion",
+          "body": "Same way a 4060ti 16gb had more Vram than a 4070.",
+          "score": 20,
+          "created_utc": 1734394980.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2gcup6",
+      "author": "Express-Secret1802",
+      "body": "Meanwhile my 980 is gasping for its last breath\u2026",
+      "score": 8,
+      "created_utc": 1734414057.0,
+      "replies": [
+        {
+          "id": "m2gvuwz",
+          "author": "RareInterest",
+          "body": "Man, if my mainboard not suddenly decide to short circuit few years ago, I might still be rocking my 980Ti now.",
+          "score": 5,
+          "created_utc": 1734425653.0,
+          "replies": []
+        },
+        {
+          "id": "m2hejyj",
+          "author": "Rage_Like_Nic_Cage",
+          "body": "My 1070 is right there with yours. Stay strong brother",
+          "score": 2,
+          "created_utc": 1734437552.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2h6dya",
+      "author": "AtTheGates",
+      "body": "![gif](giphy|10JhviFuU2gWD6)",
+      "score": 2,
+      "created_utc": 1734432802.0,
+      "replies": []
+    },
+    {
+      "id": "m2gcc88",
+      "author": "Broadband-",
+      "body": "Who needs vram when they implemented sysmemfallback that defaults on and uses system ram if it runs out of vram completely destroying performance without the user knowing.\n\nWhen they implemented it at first it wasn't optional so anyone doing AI tasks would be handicapped.",
+      "score": 2,
+      "created_utc": 1734413789.0,
+      "replies": []
+    },
+    {
+      "id": "m2kn94f",
+      "author": "Dirty_Dragons",
+      "body": "I'll be waiting for the eventual Super series. Maybe we'll get good specs then.",
+      "score": 1,
+      "created_utc": 1734477421.0,
+      "replies": []
+    },
+    {
+      "id": "m2hatmu",
+      "author": "videoismylife",
+      "body": "I'm not sure that there's any games that'll benefit from 32 GB ram unless you're an 8K phreak. OTOH I'm sure the AI guys are beside themselves. Scalpers coming in 3.... 2.... 1....",
+      "score": 1,
+      "created_utc": 1734435517.0,
+      "replies": [
+        {
+          "id": "m2lhq94",
+          "author": "macle0d",
+          "body": "Maximum VRAM I saw was 19GB in the recent Indiana Jones at 4k, Ultra/Supreme settings, Full ray tracing, DLSS+ Frame generation. 18,5-19 GB.",
+          "score": 2,
+          "created_utc": 1734488631.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2hv415",
+      "author": "chadwicke619",
+      "body": "Prepared for downvotes, but I\u2019m supremely confident that maybe one out of every thousand commenters has even the faintest idea what kind of VRAM usage their workloads use, but everyone is complaining about VRAM amounts like it\u2019s something they\u2019ve always wanted and been begging for for years.",
+      "score": 1,
+      "created_utc": 1734444753.0,
+      "replies": [
+        {
+          "id": "m2jzl7z",
+          "author": "SneeKeeFahk",
+          "body": "Agreed. Also, you don't exactly need tons of VRAM what you need is fast VRAM.",
+          "score": -2,
+          "created_utc": 1734469605.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

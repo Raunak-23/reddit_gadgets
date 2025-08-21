@@ -1,0 +1,49 @@
+metric,value
+file,1lyhrx3.csv
+title,"The Commodore 64 Ultimate computer is the company's first hardware release in over 30 years | No software emulation, this 'faithful recreation of the original motherboard' runs on an AMD Artix 7 FPGA."
+rows,256
+num_posts,1
+num_comments,255
+unique_authors,162
+max_depth,10
+avg_comment_words,49.62
+median_comment_words,30.0
+max_comment_words,355
+positive_count,60
+negative_count,195
+neutral_count,0
+positive_pct,23.529
+negative_pct,76.471
+neutral_pct,0.0
+topic_1_keywords,"c64, people, new, drive, like, hardware, original, disk"
+topic_1_label,c64 people like new and original disks
+topic_2_keywords,"get, commodore, 64, games, one, going, c64, cant"
+topic_2_label,commodore 64 games go on c64
+topic_3_keywords,"youd, 40, old, years, drive, hard, one, box"
+topic_3_label,A box of 40 years old drives hard
+topic_4_keywords,"games, amiga, still, game, maniac, commodore, remember, long"
+topic_4_label,commodore remembers long game
+topic_5_keywords,"commodore, new, computer, hardware, simpson, corporation, drive, peri"
+topic_5_label,"commodore, new, commodore, peri"
+topic_6_keywords,"c64, old, one, need, going, computer, games, ever"
+topic_6_label,c64 is a computer that needs to go to the store
+top_ngram_1,commodore 64 (31)
+top_ngram_2,new hardware (24)
+top_ngram_3,disk drive (21)
+top_ngram_4,commodore corporation (21)
+top_ngram_5,people play (20)
+top_ngram_6,peri fractic (15)
+top_ngram_7,retro recipes (13)
+top_ngram_8,recipes techtuber (13)
+top_ngram_9,techtuber christian (13)
+top_ngram_10,christian peri (13)
+ner_1,C64|MISC|84
+ner_2,Commodore Corporation|ORG|31
+ner_3,Commodore|ORG|26
+ner_4,Commodore 64|MISC|21
+ner_5,Amiga|MISC|15
+ner_6,Simpson|PER|14
+ner_7,US|LOC|13
+ner_8,##SIC|MISC|9
+ner_9,##P|MISC|9
+ner_10,Christian|MISC|8

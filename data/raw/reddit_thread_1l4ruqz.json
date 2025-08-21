@@ -1,0 +1,1620 @@
+{
+  "post": {
+    "title": "Nintendo Switch 2 is already running custom graphics through exploit one day after launch",
+    "author": "None",
+    "id": "1l4ruqz",
+    "score": 4224,
+    "created_utc": 1749214940.0,
+    "selftext": "",
+    "num_comments": 193,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1l4ruqz/nintendo_switch_2_is_already_running_custom/"
+  },
+  "comments": [
+    {
+      "id": "mwb9s9j",
+      "author": "Tarsurion",
+      "body": "*Nintendo staring angrily over the fence*",
+      "score": 2193,
+      "created_utc": 1749216306.0,
+      "replies": [
+        {
+          "id": "mwc4yw2",
+          "author": "PCgaming4ever",
+          "body": "Just wait till they realized they shipped someone out a switch with factory test firmware on it\n\nhttps://www.reddit.com/r/NintendoSwitch/s/WJi67iLITm\n\nhttps://imgur.com/a/JD5tnW5",
+          "score": 1019,
+          "created_utc": 1749225591.0,
+          "replies": [
+            {
+              "id": "mwc74ay",
+              "author": "ronn188",
+              "body": "I think they already took the post down.",
+              "score": 284,
+              "created_utc": 1749226219.0,
+              "replies": [
+                {
+                  "id": "mwc871r",
+                  "author": "aburizalfitry",
+                  "body": "Damn late to see what is look like",
+                  "score": 148,
+                  "created_utc": 1749226531.0,
+                  "replies": [
+                    {
+                      "id": "mwceatk",
+                      "author": "PCgaming4ever",
+                      "body": "It's still showing for me here is a screenshot \n\nhttps://imgur.com/a/JD5tnW5",
+                      "score": 184,
+                      "created_utc": 1749228309.0,
+                      "replies": [
+                        {
+                          "id": "mwcqbl7",
+                          "author": "KAKYBAC",
+                          "body": "What would launchagingtest mean?",
+                          "score": 58,
+                          "created_utc": 1749231729.0,
+                          "replies": [
+                            {
+                              "id": "mwcw2hz",
+                              "author": "Albert_Caboose",
+                              "body": "How long can the device run without a reboot without impacting its performance.",
+                              "score": 91,
+                              "created_utc": 1749233372.0,
+                              "replies": [
+                                {
+                                  "id": "mwerzcn",
+                                  "author": "Firepal64",
+                                  "body": "cc u/KAKYBAC\n\nThe GBA, DS and 3DS had aging tests too, [AGS Aging](https://youtu.be/GmP3lOFcLkU), [NTRAging](https://youtu.be/dVhMcVRPooc) and [CTRAging](https://youtu.be/_RVO466hwNc). \n\nOn those systems, it was a fancy graphical and audio test. 3DS one is fanciest imo. Wonder what Switch 2 aging test looks like!",
+                                  "score": 40,
+                                  "created_utc": 1749255324.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mwfwlq9",
+                              "author": "WankerBott",
+                              "body": "its a hardware stress test to run on 1 out of 100 or 1000 for QA reasons. You basically pull one, run aging and set it to run until it dies, look at logs...",
+                              "score": 20,
+                              "created_utc": 1749271756.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwcq05r",
+                          "author": "ronn188",
+                          "body": "... Again \ud83d\ude05",
+                          "score": -12,
+                          "created_utc": 1749231638.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwdpt1f",
+                  "author": "Vectorman1989",
+                  "body": "Yeah, because they don't want the Pinkertons kicking their door down",
+                  "score": 17,
+                  "created_utc": 1749242364.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwczqq0",
+              "author": "itsaride",
+              "body": "Reddit based mirror : https://i.redd.it/asc0pxz1oc5f1.jpeg",
+              "score": 28,
+              "created_utc": 1749234468.0,
+              "replies": []
+            },
+            {
+              "id": "mwgz6kg",
+              "author": "ohhyyeaahh",
+              "body": "Oh Nintendo had to be BIG MAD about that! Lmfao",
+              "score": 3,
+              "created_utc": 1749294165.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwduxwn",
+          "author": "THEE_HAMMER_",
+          "body": "![gif](giphy|evVKsrjZEqVVWvE2VR)",
+          "score": 26,
+          "created_utc": 1749243947.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwbmhrs",
+      "author": "pogisanpolo",
+      "body": "The exploit doesn't help them escape the jail, so it's mostly a curiosity for the particular app that was exploited, so a full system takeover exploit may take a while.",
+      "score": 625,
+      "created_utc": 1749220281.0,
+      "replies": [
+        {
+          "id": "mwce52i",
+          "author": "shalol",
+          "body": "On that note, probably want to disable auto software updates if at all possible so they don\u2019t patch any current software issues that might allow jailbreaking.  \nAlso makes it more valuable for resale market if jailbreaks do eventually pop up.",
+          "score": 228,
+          "created_utc": 1749228263.0,
+          "replies": [
+            {
+              "id": "mwcegio",
+              "author": "pogisanpolo",
+              "body": "I do a lot of pokemon trading and pokemon home, so I don't really have much of a choice in the matter, since they hard require the latest firmware.",
+              "score": 70,
+              "created_utc": 1749228355.0,
+              "replies": []
+            },
+            {
+              "id": "mwd2a2h",
+              "author": "M4st3rsl4y3r",
+              "body": "I'm assuming it's ok to download the day one patch though right? I'm buying one tomorrow from someone",
+              "score": 16,
+              "created_utc": 1749235229.0,
+              "replies": [
+                {
+                  "id": "mwd8rhr",
+                  "author": "LeVoyantU",
+                  "body": "If you're wanting to actually use it normally, update it. \n\nIf you want to mod it - you should literally not open it. Even inserting a cartridge will update the firmware.",
+                  "score": 50,
+                  "created_utc": 1749237177.0,
+                  "replies": [
+                    {
+                      "id": "mwd8vdj",
+                      "author": "M4st3rsl4y3r",
+                      "body": "Ok I want to mod so this is what I needed to know.",
+                      "score": 17,
+                      "created_utc": 1749237209.0,
+                      "replies": [
+                        {
+                          "id": "mwd9ab9",
+                          "author": "LeVoyantU",
+                          "body": "You may already know, but just in case, you might be waiting years before you can use it.",
+                          "score": 40,
+                          "created_utc": 1749237336.0,
+                          "replies": [
+                            {
+                              "id": "mwdijyh",
+                              "author": "M4st3rsl4y3r",
+                              "body": "That's fine I'm in no hurry lol",
+                              "score": 15,
+                              "created_utc": 1749240160.0,
+                              "replies": [
+                                {
+                                  "id": "mwed1gu",
+                                  "author": "TaffySebastian",
+                                  "body": "Lmao I also put it under my bed, just checked the console and controls were inside and sealed it again. Let's hope it doesn't take more than 6 months.",
+                                  "score": 9,
+                                  "created_utc": 1749250025.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwefart",
+                                      "author": "M4st3rsl4y3r",
+                                      "body": "Honestly that's my projected time frame. I've never seen a community so dedicated to sticking it to Nintendo lmao. They really hate their consumers.",
+                                      "score": 27,
+                                      "created_utc": 1749250812.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mwg7igw",
+                                  "author": "triffid_boy",
+                                  "body": "Why not just buy a steam deck or something?\u00a0",
+                                  "score": 7,
+                                  "created_utc": 1749277622.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwgx256",
+                                      "author": "M4st3rsl4y3r",
+                                      "body": "I already have one lol.",
+                                      "score": 5,
+                                      "created_utc": 1749293021.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwd7lwi",
+                  "author": "TotoCocoAndBeaks",
+                  "body": "Yes normal people should patch. Loads of games will force you to anyway",
+                  "score": 28,
+                  "created_utc": 1749236825.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwelbnc",
+          "author": "DanTheMan827",
+          "body": "But it should allow homebrew",
+          "score": 5,
+          "created_utc": 1749252918.0,
+          "replies": [
+            {
+              "id": "mwshfyz",
+              "author": "treboR-",
+              "body": "Probably not. It\u2019s using a ROP exploit. All pointers are encrypted using PAC, memory is randomized on each boot.",
+              "score": 1,
+              "created_utc": 1749452475.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwc31vq",
+      "author": "dsffff22",
+      "body": "This article is ridden with absolute non-sense quotes. The 'exploit' won\u2019t get patched anytime soon, as the dev behind It most likely made sure there's no internet connection. The switch 2 runs switch 1 games and also exposes a Browser via the Wi-Fi login portal pages. It's nice to see the Dev adapted the ROP Chain quickly to the Switch 2. But since the Switch 2 allows save game transfers and old Switch 1 titles, there are plenty of entry points. It's more interesting If the those entry points can reveal more info, like the PS5 utilizes Execute-Only memory for their kernel which makes It difficult to dump the kernel code memory for example.",
+      "score": 172,
+      "created_utc": 1749225040.0,
+      "replies": [
+        {
+          "id": "mwdg74y",
+          "author": "peoplejustwannalove",
+          "body": "Can\u2019t wait to see if we get an exploit via shovelware, a la 3ds.",
+          "score": 32,
+          "created_utc": 1749239446.0,
+          "replies": [
+            {
+              "id": "mweuvfu",
+              "author": "Some_Photograph5315",
+              "body": "Good point, some little indie game could leave a door open for hacking, maybe the hackers themselves posing as a game studio, I mean the possibilities are endless right now. Jailbreaking this apparent fortress would be huge.",
+              "score": 14,
+              "created_utc": 1749256416.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwewoeh",
+          "author": "saintpetejackboy",
+          "body": "Best post of the thread I read yet!",
+          "score": 8,
+          "created_utc": 1749257089.0,
+          "replies": []
+        },
+        {
+          "id": "mwdk347",
+          "author": "punIn10ded",
+          "body": "Wow that reads like it's trash level AI generated.",
+          "score": -31,
+          "created_utc": 1749240628.0,
+          "replies": [
+            {
+              "id": "mwdrzj4",
+              "author": "dsffff22",
+              "body": "Sounds like someone who struggles to find the escape key on their keyboard.",
+              "score": 16,
+              "created_utc": 1749243031.0,
+              "replies": []
+            },
+            {
+              "id": "mwdtb3l",
+              "author": "fairlyoblivious",
+              "body": "Only if you're ignorant.",
+              "score": 13,
+              "created_utc": 1749243436.0,
+              "replies": [
+                {
+                  "id": "mwdxmw2",
+                  "author": "punIn10ded",
+                  "body": "I'm happy to be considered ignorant if that rambling mess is what passes for intelligence.",
+                  "score": -15,
+                  "created_utc": 1749244818.0,
+                  "replies": [
+                    {
+                      "id": "mwelkqu",
+                      "author": "camdenairjedi96",
+                      "body": "Stay happy little guy. I'd hate to hear you yapping when you're upset.",
+                      "score": 5,
+                      "created_utc": 1749253007.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwhf1kd",
+                      "author": "AWonderingWizard",
+                      "body": "Better to remain silent and thought a fool than to speak and remove all doubt.",
+                      "score": 3,
+                      "created_utc": 1749301351.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwewqg4",
+                      "author": "saintpetejackboy",
+                      "body": "Everything seems incoherent if you can't comprehend it.",
+                      "score": 3,
+                      "created_utc": 1749257111.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwbdayn",
+      "author": "cpufreak101",
+      "body": "I think it's safe to say this was expected, Nintendo changed the terms and conditions to give them the right to remotely brick consoles for a reason after all.",
+      "score": 196,
+      "created_utc": 1749217456.0,
+      "replies": [
+        {
+          "id": "mwbgnxe",
+          "author": "senortipton",
+          "body": "They may be able to brick for now, but if someone is able to mod it one of the first things to go will be that little bit of code enabling the bricking.",
+          "score": 178,
+          "created_utc": 1749218518.0,
+          "replies": [
+            {
+              "id": "mwc0y27",
+              "author": "qa3rfqwef",
+              "body": "Well, if I recall correctly, whenever you updated the firmware on a Switch 1, it would physically burn fuses to prevent you from going back to an older version.\n\nI could see them doing something similar to brick a console. I imagine a lot of care will need to be taken to avoid accidentally triggering such a mechanism, which could have all sorts of checks in the code to confirm that you haven\u2019t modified your Switch 2.\n\nThat is to say, I don't think it will be as simple as removing some line somewhere that enables bricking specifically.",
+              "score": 42,
+              "created_utc": 1749224440.0,
+              "replies": [
+                {
+                  "id": "mwckgqx",
+                  "author": "SerRaziel",
+                  "body": "Cfw removed burning fuses pretty much from the start.",
+                  "score": 25,
+                  "created_utc": 1749230069.0,
+                  "replies": [
+                    {
+                      "id": "mwclwxs",
+                      "author": "qa3rfqwef",
+                      "body": "I know, I'm just saying there's a lot Nintendo could have done to implement a method of bricking that might trip up a lot of people trying to modify their console. It goes beyond just a line of code saying `if\n(X != Y) { console.brick(); }`\n\nI\u2019ve got little doubt modders will prevail here and come up with workarounds and safeguards to prevent it from happening once it\u2019s fully understood.",
+                      "score": 6,
+                      "created_utc": 1749230480.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwce94b",
+                  "author": "BuckZero",
+                  "body": "Wait actually???",
+                  "score": 16,
+                  "created_utc": 1749228295.0,
+                  "replies": [
+                    {
+                      "id": "mwcfyix",
+                      "author": "qa3rfqwef",
+                      "body": "Yeah, it ultimately wasn\u2019t much of an issue in the Switch 1\u2019s implementation, since you could get around the fuse burning by running custom firmware through a custom OS and using the right tools.\n\nIf you were smart about it, you could theoretically keep a path open to roll back to the original firmware you were on when you first modded the console.\n\nNot much reason to do it, outside of specific hacks a modder might want to mess with though.",
+                      "score": 36,
+                      "created_utc": 1749228785.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwchbuo",
+                      "author": "Ess2s2",
+                      "body": "Yup, Xbox has also used \"eFuses\" to prevent downgrading firmware updates.",
+                      "score": 19,
+                      "created_utc": 1749229173.0,
+                      "replies": [
+                        {
+                          "id": "mwqs2ig",
+                          "author": "The_Shryk",
+                          "body": "I think that\u2019s what was used to prevent going back to the \u201cblades\u201d dashboard on the 360.",
+                          "score": 4,
+                          "created_utc": 1749426385.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwm20q7",
+                      "author": "Astray",
+                      "body": "Very common in the electronics industry for awhile now.",
+                      "score": 5,
+                      "created_utc": 1749361487.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwfokzc",
+                      "author": "Ok-Amoeba-7249",
+                      "body": "No but he\u2019s fucking trolling. Akshthally? Yes fool.",
+                      "score": -7,
+                      "created_utc": 1749268052.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwbeqnd",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 49,
+          "created_utc": 1749217915.0,
+          "replies": [
+            {
+              "id": "mwbf2po",
+              "author": "cpufreak101",
+              "body": "From what I understand, it's global, but potentially unenforceable in the EU/if Nintendo did so, the customer would have legal standing to sue for compensation.",
+              "score": 50,
+              "created_utc": 1749218020.0,
+              "replies": [
+                {
+                  "id": "mwbglox",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 82,
+                  "created_utc": 1749218499.0,
+                  "replies": [
+                    {
+                      "id": "mwbhc5d",
+                      "author": "cpufreak101",
+                      "body": "It's also not helped that the vagueness of it leaves open a lot of possibilities until Nintendo actually does it, theories range from just removing the consoles ability to run official content (which may technically not be illegal) to straight up making it a paperweight. It'll remain to be seen what happens.",
+                      "score": 13,
+                      "created_utc": 1749218731.0,
+                      "replies": [
+                        {
+                          "id": "mwbi1f1",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 6,
+                          "created_utc": 1749218949.0,
+                          "replies": [
+                            {
+                              "id": "mwbildz",
+                              "author": "cpufreak101",
+                              "body": "You say that, but consider how many blatant GDPR violations continue to happen just because of people unaware of something actually being illegal. It's often just seen as the cost of doing business to large companies.",
+                              "score": 6,
+                              "created_utc": 1749219118.0,
+                              "replies": [
+                                {
+                                  "id": "mwbjxpq",
+                                  "author": "None",
+                                  "body": "[deleted]",
+                                  "score": 3,
+                                  "created_utc": 1749219524.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwbm8r5",
+                                      "author": "funguyshroom",
+                                      "body": "Tesla can, and had in the past, disabled their cars remotely. Last I checked cars cost a wee bit more than 500 EUR.",
+                                      "score": 4,
+                                      "created_utc": 1749220206.0,
+                                      "replies": [
+                                        {
+                                          "id": "mwbmsiv",
+                                          "author": "None",
+                                          "body": "[deleted]",
+                                          "score": 6,
+                                          "created_utc": 1749220370.0,
+                                          "replies": [
+                                            {
+                                              "id": "mwbt8lv",
+                                              "author": "funguyshroom",
+                                              "body": "After a quick google there are a few examples, but they're outside of EU. I'm not sure whether it's because there are actual EU laws that forbid this, or only because it's so rare.",
+                                              "score": 1,
+                                              "created_utc": 1749222227.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "mwbqb2c",
+                                          "author": "No-Problem49",
+                                          "body": "If Tesla can brick your car remotely then it could listen to what you say, and drive you into a wall if you say the wrong things.",
+                                          "score": 6,
+                                          "created_utc": 1749221385.0,
+                                          "replies": [
+                                            {
+                                              "id": "mwc1vj1",
+                                              "author": "muffinChicken",
+                                              "body": "This has happened to me several times",
+                                              "score": 1,
+                                              "created_utc": 1749224705.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "mwc1r54",
+                                      "author": "muffinChicken",
+                                      "body": "Elon musk bricked my toaster",
+                                      "score": 0,
+                                      "created_utc": 1749224672.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mwhbton",
+                                  "author": "Kanhir",
+                                  "body": "The fine for GDPR violations goes up to \u20ac20m, or 4% of global annual turnover if it's higher than that. That's a prohibitively high cost for doing business.",
+                                  "score": 1,
+                                  "created_utc": 1749300074.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwhql62",
+                                      "author": "cpufreak101",
+                                      "body": "Yup, doesn't stop em though. Soon as you point out it's illegal they magically comply immediately to avoid a lawsuit.\n\nFriend of mine in Mexico (they have a similar law regarding data privacy for people under 18) had their discord account suspended due to a false report of being underage, and they asked for ID verification to reinstate their account, despite this being illegal, and the fine for such ranging up to a nationwide ban. Soon as my friend pointed this out, they dropped the whole issue and reinstated her account.\n\nIt's been effectively a similar situation in Europe, company blatantly violates it, people either don't know it's illegal or comply, or if they do, the company *very* quickly complies before lawsuits get filed.",
+                                      "score": 1,
+                                      "created_utc": 1749305576.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwdc0ru",
+                          "author": "amperor",
+                          "body": "Mig switch bricks switch 2s.",
+                          "score": 1,
+                          "created_utc": 1749238165.0,
+                          "replies": [
+                            {
+                              "id": "mweme0p",
+                              "author": "cpufreak101",
+                              "body": "[that is misinformation ](https://www.youtube.com/watch?v=XxxdkevxjG4)",
+                              "score": 2,
+                              "created_utc": 1749253293.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwbhbli",
+                  "author": "radikalkarrot",
+                  "body": "Doesn\u2019t appear on the EU one so not global, also if they brick a single console in the EU they would be in deep trouble",
+                  "score": 12,
+                  "created_utc": 1749218726.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwbq1fe",
+                  "author": "guswang",
+                  "body": "It isnt global because nintendos contracts doesnt supersede laws, at least not in my country, the consumer protection agency (government) already notified nintendo in Brazil.",
+                  "score": 6,
+                  "created_utc": 1749221308.0,
+                  "replies": [
+                    {
+                      "id": "mwbx9jt",
+                      "author": "cpufreak101",
+                      "body": "Reminder that technically should have also kept Ryuninx Emulator safe, but Nintendo managed to get it killed under a deal never made public following a physical visit from Nintendo lawyers to the creator of the project.",
+                      "score": 1,
+                      "created_utc": 1749223396.0,
+                      "replies": [
+                        {
+                          "id": "mwcffhy",
+                          "author": "Scuoll",
+                          "body": "My understanding is that they just paid the ryujinx team a lot of money to voluntarily shut it down",
+                          "score": 5,
+                          "created_utc": 1749228634.0,
+                          "replies": [
+                            {
+                              "id": "mwcgbnf",
+                              "author": "cpufreak101",
+                              "body": "From the former team members I talked to, they didn't get anything, it was a deal exclusively between Nintendo and GDKChan, with a PC Gamer report even indicating a financial incentive was unlikely.\n\nThere was a theory he was offered a Job at Nintendo in exchange for shutting it all down, but I've been told he wouldn't be the type of person to take this deal. Since it was a Nintendo of America lawyer that showed up though, it's entirely possible there was a threat of extradition to be tried in a US court, which despite having questionable legality, could also be a big enough threat to scare them off.",
+                              "score": -1,
+                              "created_utc": 1749228888.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mwl632j",
+                          "author": "Pierre-Quica",
+                          "body": "Brazilian law still protected him. Nintendo had to resort to some alternative methods because they couldn't pursue legal action. It works for taking down a few people, but you're not gonna control millions of peoples devices with 'alternative' methods. Also you didn't speak to the devs, Isaac publicly confirmed this visit a long time ago lol.",
+                          "score": 0,
+                          "created_utc": 1749347338.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwbpj1h",
+          "author": "Spazzdude",
+          "body": "I expected it was going to be rather fast when they started going so hard after Switch 1 emulators and card dumpers so late in its lifecycle. Gave the vibe that they didn't think the Switch 2 would be robust enough to hold out for at least a year.",
+          "score": 6,
+          "created_utc": 1749221160.0,
+          "replies": []
+        },
+        {
+          "id": "mwbl6id",
+          "author": "ListenBeforeSpeaking",
+          "body": "The scary thing would be if a nefarious 3rd party figured out how to do this and then bricked everyone\u2019s consoles\u2026",
+          "score": 6,
+          "created_utc": 1749219893.0,
+          "replies": [
+            {
+              "id": "mwbnn5l",
+              "author": "talldangry",
+              "body": "I mean... Would suck for people with a Switch 2, but the historic amount of egg on Nintendo's face would be kind of worth it.",
+              "score": 18,
+              "created_utc": 1749220618.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwf32w5",
+          "author": "DomLite",
+          "body": "Thing is, that's only possible if you connect to the Nintendo network. If you install custom firmware/homebrew and have no intent of playing online then it's a non-issue. Personally, I don't play Switch games online. I don't care enough about Pokemon to battle online with people, and someone made a homebrew that replicated the effects of Pokemon Home plus enhancements, so if I wanted to use something like that, it was available. The only other game I'd possibly play online was Mario Kart, but even then I'd be more likely to play in-person with friends than online. I simply never needed to ever connect to the Nintendo Network on my Switch.\n\nI know this is my personal experience, and others might feel differently, but I highly doubt that Switch 2 is going to offer anything that I can't live without online play for. If it's online only, I can do without. If you've got custom firmware installed then going online to play games in the first place is kind of a boneheaded move. If they get CFW running on Switch 2 soon, I'd be more than happy to never go online with it ever in exchange for all the extra functions that enables. Can't brick me if you never have access to me.",
+          "score": 2,
+          "created_utc": 1749259470.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwbajwa",
+      "author": "NarutoDragon732",
+      "body": "I can't take Nintendo's console swe department seriously, they're either incredibly incompetent or their head managers are. The eShop is living proof of that.",
+      "score": 397,
+      "created_utc": 1749216556.0,
+      "replies": [
+        {
+          "id": "mwbggw8",
+          "author": "bruh-iunno",
+          "body": "I'm pretty sure there were no big firmware exploits over the entire lifecycle of the Switch 1, it's basically the recovery method left in by Nvidia or a mod chip to run meaningful stuff\n\nthis exploit can't run any native code or anything either",
+          "score": 243,
+          "created_utc": 1749218457.0,
+          "replies": [
+            {
+              "id": "mwbsn3v",
+              "author": "shutupandfeedmecake",
+              "body": "There\u2019s little reason to hunt for such additional exploits when such an easy backdoor exists.\nWhen there\u2019s a will there\u2019s a way. Pirates, hobbyist hackers, Homebrew devs and security researchers all have motive enough to go looking, given enough skill and patience, the chance of the Switch 2 being hacked is not zero. Though it\u2019s unlikely to be as quick as it was for the OG.",
+              "score": 93,
+              "created_utc": 1749222056.0,
+              "replies": [
+                {
+                  "id": "mwbvb6j",
+                  "author": "phoenixmatrix",
+                  "body": "Sony has been pretty good at it with their last console(s) though. I think it was the PS4 that took forever to be truly hacked? It did eventually, but it took a while.",
+                  "score": 24,
+                  "created_utc": 1749222831.0,
+                  "replies": [
+                    {
+                      "id": "mwby0yw",
+                      "author": "evo_moment_37",
+                      "body": "Sony pays bug bounty. Pirates still defeat them by not updating their console. It\u2019s all a matter of patience. \n\nPS4 is wide open at this point. PS5 is a few firmware behind.",
+                      "score": 42,
+                      "created_utc": 1749223614.0,
+                      "replies": [
+                        {
+                          "id": "mwc0aax",
+                          "author": "phoenixmatrix",
+                          "body": "Yeah, PS4 is wide open but from the info I can find and from my (poor) memory, it took 3 years for the first exploit that allowed jailbreaking to come out.\n\nIn term of avoiding piracy, 3 years is -really- good in this industry.",
+                          "score": 26,
+                          "created_utc": 1749224254.0,
+                          "replies": [
+                            {
+                              "id": "mwdp44g",
+                              "author": "CompletelyRandy",
+                              "body": "On the other side of the fence, the PS3 was hacked wide open, but since the Xbox 360, I don't believe any of the Xbox consoles have been hacked.\n\nPretty impressive how they both have managed to keep their security tight over the recent years.",
+                              "score": 6,
+                              "created_utc": 1749242153.0,
+                              "replies": [
+                                {
+                                  "id": "mwe8lts",
+                                  "author": "Kiwithegaylord",
+                                  "body": "We\u2019re just now starting to crack 360s without a modchip, after the original Xbox Microsoft doesn\u2019t fuck around",
+                                  "score": 9,
+                                  "created_utc": 1749248482.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "mwed669",
+                                  "author": "error521",
+                                  "body": "The Xbox One and Series do have (or did) exploits but not really in a manner that's very useful for anyone that doesn't know what they're doing. Enough to dump games and even get a translation layer working, though.",
+                                  "score": 2,
+                                  "created_utc": 1749250070.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mwfnvtt",
+                              "author": "Kalean",
+                              "body": "Remember though that once Sony pulled the bait and switch with PS3s and Linux, the PS3 was busted open inside a week, and the private key was literally \"4\".",
+                              "score": 5,
+                              "created_utc": 1749267742.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwc29nm",
+                  "author": "francescomagn02",
+                  "body": "There was and still is a very big need for a mariko switch exploit, literally everyone one the scene agrees that the switch's software is flawless",
+                  "score": 12,
+                  "created_utc": 1749224818.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwdjzhq",
+                  "author": "todayiwillthrowitawa",
+                  "body": "There is a lot of reasons to look for Switch 1 exploits, and it wasn\u2019t like no one was trying. The vast, vast majority of Switches have no software exploits possible.",
+                  "score": 2,
+                  "created_utc": 1749240597.0,
+                  "replies": [
+                    {
+                      "id": "mwdp95x",
+                      "author": "Born2Rune",
+                      "body": "That has been disclosed. Some wait for EoL.\u00a0",
+                      "score": 2,
+                      "created_utc": 1749242196.0,
+                      "replies": [
+                        {
+                          "id": "mwdstwi",
+                          "author": "todayiwillthrowitawa",
+                          "body": "Sure, hypothetically. The vast majority of consoles have their exploits published during the console\u2019s lives.",
+                          "score": 1,
+                          "created_utc": 1749243288.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwcx1y9",
+                  "author": "CompromisedToolchain",
+                  "body": "I have the capability but not the time. I suspect lots of folks are in this bucket with me.",
+                  "score": -5,
+                  "created_utc": 1749233660.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwblqnm",
+              "author": "Zetra3",
+              "body": "AHAHAHAHAAH. Oh boy, there was a back door into the switch 1. It\u2019s why we have such a comprehensive switch emulation scene e",
+              "score": -62,
+              "created_utc": 1749220057.0,
+              "replies": [
+                {
+                  "id": "mwbm6bj",
+                  "author": "bruh-iunno",
+                  "body": "can you enlighten me on what firmware exploits there are, the two main methods to get into a switch are the rcm method and modchipping, not firmware/OS, it's pretty robust",
+                  "score": 16,
+                  "created_utc": 1749220186.0,
+                  "replies": []
+                },
+                {
+                  "id": "mwbmc1k",
+                  "author": "REDOREDDIT23",
+                  "body": "Yes but it wasn\u2019t a firmware exploit, it was a shortcoming on Nvidia\u2019s part because it was a Tegra X1 exploit. I don\u2019t think it makes sense to laugh at someone who clearly knows more than you do.",
+                  "score": 70,
+                  "created_utc": 1749220233.0,
+                  "replies": [
+                    {
+                      "id": "mwbn2rt",
+                      "author": "shadowtheimpure",
+                      "body": "Very this. The Switch firmware itself was pretty robust...but the hardware was a sieve.",
+                      "score": 29,
+                      "created_utc": 1749220454.0,
+                      "replies": [
+                        {
+                          "id": "mwbnbe2",
+                          "author": "REDOREDDIT23",
+                          "body": "Not even the hardware tbh. Only one hardmod without a modchip discovered in 8 years. That\u2019s pretty robust.",
+                          "score": 22,
+                          "created_utc": 1749220524.0,
+                          "replies": [
+                            {
+                              "id": "mwbnr0x",
+                              "author": "shadowtheimpure",
+                              "body": "There wasn't a lot of room for hardmods, and they weren't really needed when you can bypass every element of the console's security with a paperclip.",
+                              "score": 11,
+                              "created_utc": 1749220649.0,
+                              "replies": [
+                                {
+                                  "id": "mwbnw0k",
+                                  "author": "REDOREDDIT23",
+                                  "body": "My point is\u2026 what makes you think \u201cthe hardware was a sieve\u201d?",
+                                  "score": 0,
+                                  "created_utc": 1749220688.0,
+                                  "replies": [
+                                    {
+                                      "id": "mwbof1n",
+                                      "author": "shadowtheimpure",
+                                      "body": "See comment about bypassing every element of the console's security with a ***paperclip***.\n\nThe hardware was a sieve, nothing stood in the way of people doing pretty much whatever they wanted with it. The only reasons we didn't see much in the way of hardware mods is physical constraints (Switch is ***crowded*** inside) and the fact that the ever litigious Nintendo would have nuked any such attempts from low Earth orbit.",
+                                      "score": 8,
+                                      "created_utc": 1749220841.0,
+                                      "replies": [
+                                        {
+                                          "id": "mwbp1am",
+                                          "author": "REDOREDDIT23",
+                                          "body": "So the Switch hardware is \u201ca sieve\u201d because the first revision had one hardmod without a modchip? Even though the later revisions had none? And the reason it didn\u2019t have more hardmods is because Nintendo would\u2019ve gone after the people creating them even though you can buy one of the many modchips on Alibaba right now for $5?\n\nThis is why I almost never enjoy responding to debates on reddit. What do you even say to this lack of critical thinking?",
+                                          "score": -6,
+                                          "created_utc": 1749221019.0,
+                                          "replies": [
+                                            {
+                                              "id": "mwbpym4",
+                                              "author": "DeviantStrain",
+                                              "body": "I think they're saying it's a sieve because of how simple it was to get through (literal paperclip) not that there were tons and tons of exploits, which matches the mental image of a sieve better.",
+                                              "score": 6,
+                                              "created_utc": 1749221285.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mwbq4dg",
+                                                  "author": "REDOREDDIT23",
+                                                  "body": "Ah that *somewhat* makes sense. The other justification about Nintendo litigiousness still makes no sense \ud83d\udc80",
+                                                  "score": -5,
+                                                  "created_utc": 1749221332.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "mwbqj5j",
+                                              "author": "shadowtheimpure",
+                                              "body": "Was condescension ***really*** necessary. That truly says more about *you* than it does about *me* mate. I never went with condescension or personal attacks, you are the one who degraded our friendly debate to that level. \n\nI will not be engaging with you any further. Good day, sir.",
+                                              "score": 1,
+                                              "created_utc": 1749221449.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mwbyaf8",
+                                                  "author": "REDOREDDIT23",
+                                                  "body": "Yeah, it was",
+                                                  "score": -5,
+                                                  "created_utc": 1749223687.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwbk5bz",
+          "author": "slothson",
+          "body": "H shop",
+          "score": 9,
+          "created_utc": 1749219587.0,
+          "replies": []
+        },
+        {
+          "id": "mwbcvpn",
+          "author": "thesk8rguitarist",
+          "body": "The eShop on Switch 2 is SOOOOOO much better.",
+          "score": 68,
+          "created_utc": 1749217320.0,
+          "replies": [
+            {
+              "id": "mwbdg2p",
+              "author": "NarutoDragon732",
+              "body": "Glad to see they moved on from the Aztec era",
+              "score": 52,
+              "created_utc": 1749217502.0,
+              "replies": [
+                {
+                  "id": "mwedaqx",
+                  "author": "Fortwaba",
+                  "body": "Still rocking Friend Codes in 2025, though...",
+                  "score": 6,
+                  "created_utc": 1749250114.0,
+                  "replies": [
+                    {
+                      "id": "mwf354k",
+                      "author": "MetalGearSlayer",
+                      "body": "Don\u2019t forget advertising integrated voice chat like it\u2019s a new thing.",
+                      "score": 5,
+                      "created_utc": 1749259493.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mwbhba7",
+                  "author": "lewd_bingo",
+                  "body": "What is the aztec era?",
+                  "score": -16,
+                  "created_utc": 1749218724.0,
+                  "replies": [
+                    {
+                      "id": "mwbk2yg",
+                      "author": "zblanda",
+                      "body": "Hyperbole",
+                      "score": 17,
+                      "created_utc": 1749219567.0,
+                      "replies": [
+                        {
+                          "id": "mwbm7qm",
+                          "author": "total_bullwhip",
+                          "body": "Is that one up from a Ultrabole?",
+                          "score": 5,
+                          "created_utc": 1749220198.0,
+                          "replies": [
+                            {
+                              "id": "mwbmiqn",
+                              "author": "grantishanul",
+                              "body": "Im sure the bole is not hyper at all.",
+                              "score": 2,
+                              "created_utc": 1749220289.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwc84ff",
+                      "author": "ban_Anna_split",
+                      "body": "Ritual sacrifice required for faster download speeds",
+                      "score": 2,
+                      "created_utc": 1749226510.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwbqnzq",
+              "author": "CarlosFer2201",
+              "body": "For now. The other one kept getting worse and worse",
+              "score": 11,
+              "created_utc": 1749221488.0,
+              "replies": [
+                {
+                  "id": "mwd7u0d",
+                  "author": "TotoCocoAndBeaks",
+                  "body": "Nah the main issue with the old one was it felt like browsing a slow website even on the day the switch launched.\n\nThe issue with shovelware is secondary to that\n\nThis time the UI and store are great. It wont take as long to shovel theough shovelware any more at very least",
+                  "score": 5,
+                  "created_utc": 1749236893.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwbnqjb",
+              "author": "IsamuAlvaDyson",
+              "body": "It's only better because the hardware is better making everything so much snappier\n\nJust navigating the OS and store was so bad especially when you get a Switch 2",
+              "score": 3,
+              "created_utc": 1749220645.0,
+              "replies": [
+                {
+                  "id": "mwbrikd",
+                  "author": "Unoriginal1deas",
+                  "body": "I\u2019m fairly sure that\u2019s completely wrong. I remember watching a video a while back that explained the Eshop on switch 1 is literally just a web browser (no surprise it\u2019s fairly standard), but the way they built that browser is just bad on a technical level. \n\nNo idea how old you are but if you remember when Google chrome was new and it was really snappy and fast to load but if you used\u2026.. lets say internet explorer, a video or a webpage would take like 4 times longer to load. It\u2019s not because the hardware is bad it\u2019s because the browsers were bad. The switch Eshop is the same thing.",
+                  "score": 15,
+                  "created_utc": 1749221731.0,
+                  "replies": [
+                    {
+                      "id": "mwfxb35",
+                      "author": "FUTURE10S",
+                      "body": "> but the way they built that browser is just bad on a technical level\n\nDid you know that some GameCube demo discs actually use a web browser? And even back then, just some static images, performed like absolute ass.\n\neShop has no reason to perform as badly as it does, make it like the Wii Shop Channel if you have to, stop the videos and just have static JPEGs.",
+                      "score": 1,
+                      "created_utc": 1749272104.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mwccq1m",
+                      "author": "CandyCrisis",
+                      "body": "Not sure how any of that excuses it. It's painfully slow. Nintendo controls the whole eShop, beginning to end, and wrote all the software involved. If it uses a slow browser engine, that's still Nintendo's fault.",
+                      "score": 0,
+                      "created_utc": 1749227851.0,
+                      "replies": [
+                        {
+                          "id": "mwcev88",
+                          "author": "Unoriginal1deas",
+                          "body": "Well yeah no duh, I never said it was okay I said the guy was wrong for saying the hardware was the issue. I have no doubt Nintendo would\u2019ve re-done the entire infrastructure for the switch2 eshop after it become a running joke how bad the switch eshop was otherwise it would still run bad regardless of what hardware it was on.",
+                          "score": 5,
+                          "created_utc": 1749228474.0,
+                          "replies": [
+                            {
+                              "id": "mwe6pyj",
+                              "author": "snaphat",
+                              "body": "Imagine claiming it how it's a hardware issue when it came out in 2017 and basic online stores like it have existed for more than two decades and ran fine on much much much worse hardware\u00a0",
+                              "score": 3,
+                              "created_utc": 1749247831.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mwcmwxl",
+                      "author": "thesk8rguitarist",
+                      "body": "Every single version of the eShop has performed like hot garbage until now. \n\nNow if we could just let Nintendo pick and choose what goes on the eShop.",
+                      "score": -1,
+                      "created_utc": 1749230762.0,
+                      "replies": [
+                        {
+                          "id": "mwcxfaw",
+                          "author": "dbclass",
+                          "body": "Wii U/3DS eshop did not lag",
+                          "score": 3,
+                          "created_utc": 1749233770.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mwclkhq",
+                  "author": "gjon89",
+                  "body": "Especially when you don't have music to jive to.",
+                  "score": 2,
+                  "created_utc": 1749230381.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwcbi2z",
+              "author": "kingrikk",
+              "body": "Except for the auto playing trailers. \n\n\u201cSnap\u201d",
+              "score": 1,
+              "created_utc": 1749227494.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwf12nj",
+          "author": "DomLite",
+          "body": "As someone who's been around the custom firmware scene for literally decades? There's no such thing as an unhackable device. There will *always* be someone able to figure it out. Switch was cracked very early on, and considering Switch 2 is running pretty similar firmware, I doubt it takes long at all for it to be running full CFW and homebrew. I don't expect it overnight, but I wouldn't be surprised if it was before the end of the year.\n\nNo matter what you do to prevent software/firmware/hardware exploits, someone will figure out a way to use *something* and get past it all.",
+          "score": 5,
+          "created_utc": 1749258716.0,
+          "replies": []
+        },
+        {
+          "id": "mwcl728",
+          "author": "zushiba",
+          "body": "This is what happens when cost down economics hits a corporation. People with titles that don\u2019t match their qualifications only there because of politics and laying off of skilled workers in favor of profits and you get ever increasing scales of incompetence.",
+          "score": 6,
+          "created_utc": 1749230278.0,
+          "replies": []
+        },
+        {
+          "id": "mwchlx4",
+          "author": "JSA790",
+          "body": "Well the switch was never properly jailbreaked like the 3ds was.",
+          "score": 2,
+          "created_utc": 1749229252.0,
+          "replies": []
+        },
+        {
+          "id": "mwd914y",
+          "author": "skunkwalnut",
+          "body": "doesn\u2019t matter how good of a swe you are, there is always someone better than you",
+          "score": 1,
+          "created_utc": 1749237258.0,
+          "replies": []
+        },
+        {
+          "id": "mwduima",
+          "author": "Special-Rough-3946",
+          "body": "Everyone on Reddit is such an expert I\u2019m in awe",
+          "score": 0,
+          "created_utc": 1749243812.0,
+          "replies": [
+            {
+              "id": "mwdvgo5",
+              "author": "NarutoDragon732",
+              "body": "While I'm not a swe I am a data analyst so i do work with code from swe. Not like I haven't done swe entirely before either, I hope I'd know something.",
+              "score": 1,
+              "created_utc": 1749244114.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwbc6fj",
+      "author": "piratecheese13",
+      "body": "So you\u2019re telling me it can run doom?",
+      "score": 44,
+      "created_utc": 1749217091.0,
+      "replies": [
+        {
+          "id": "mwbrjrn",
+          "author": "WillAdams",
+          "body": "https://www.nintendo.com/us/store/products/doom-switch/",
+          "score": 31,
+          "created_utc": 1749221741.0,
+          "replies": [
+            {
+              "id": "mwbru4w",
+              "author": "piratecheese13",
+              "body": "Is it reverse compatibility and can run on switch 2?\n\nAlso meant doom 1993",
+              "score": -9,
+              "created_utc": 1749221823.0,
+              "replies": [
+                {
+                  "id": "mwbx2d7",
+                  "author": "WillAdams",
+                  "body": "Not yet.\n\nhttps://www.nintendolife.com/news/2025/05/nintendo-updates-switch-2-backwards-compatibility-list\n\n>compatibility is \"Planned to be resolved via an update.\"\n\nI know, I was trying for a reverse joke, which obviously didn't land.",
+                  "score": 9,
+                  "created_utc": 1749223337.0,
+                  "replies": [
+                    {
+                      "id": "mwcb5tm",
+                      "author": "rafikiknowsdeway1",
+                      "body": "Huh, I just ran this yesterday and it was fine\n\nEdit: oh I was talking about doom 1",
+                      "score": 3,
+                      "created_utc": 1749227394.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mwc1amj",
+          "author": "TeopEvol",
+          "body": "I'm saying that when it's ready, it won't have to.",
+          "score": 5,
+          "created_utc": 1749224540.0,
+          "replies": []
+        },
+        {
+          "id": "mwc5me2",
+          "author": "AmNoSuperSand52",
+          "body": "Switch 1 already could run Doom. Switch 2 can run it really well",
+          "score": 4,
+          "created_utc": 1749225780.0,
+          "replies": [
+            {
+              "id": "mwda2lo",
+              "author": "Doktor_Vem",
+              "body": "r/ItRunsDoom",
+              "score": 3,
+              "created_utc": 1749237576.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwd3tvm",
+      "author": "blackdynomitesnewbag",
+      "body": "![gif](giphy|6nWhy3ulBL7GSCvKw6)",
+      "score": 6,
+      "created_utc": 1749235694.0,
+      "replies": []
+    },
+    {
+      "id": "mwf1lu6",
+      "author": "Neunix",
+      "body": "They tried so hard to lock it down that it challenged the modders.\n\nDont challenge the modders because they are uo to the fucking task \ud83d\ude02",
+      "score": 10,
+      "created_utc": 1749258912.0,
+      "replies": []
+    },
+    {
+      "id": "mwbnnm7",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 31,
+      "created_utc": 1749220622.0,
+      "replies": [
+        {
+          "id": "mwbog8w",
+          "author": "metal079",
+          "body": "It runs an arm chip, I don't know if there's Linux/windows versions of apples rosseta 2 but I imagine performance would be pretty awful",
+          "score": 34,
+          "created_utc": 1749220851.0,
+          "replies": [
+            {
+              "id": "mwbrbdl",
+              "author": "protectresist",
+              "body": "SteamOS is working on ARM support and actually just released an experimental system for it!",
+              "score": 18,
+              "created_utc": 1749221674.0,
+              "replies": [
+                {
+                  "id": "mwbu4nu",
+                  "author": "green_link",
+                  "body": "Yeah but SteamOS is just an operating system tho, what about Proton? Does it run on ARM? Without proton there's no reason to run steam os on an arm processor",
+                  "score": 15,
+                  "created_utc": 1749222486.0,
+                  "replies": [
+                    {
+                      "id": "mwcsycc",
+                      "author": "killermojo",
+                      "body": "Why would valve develop SteamOS for arm without a proton layer?",
+                      "score": 4,
+                      "created_utc": 1749232470.0,
+                      "replies": [
+                        {
+                          "id": "mwcvdz4",
+                          "author": "green_link",
+                          "body": "that all depends on how far along in development they are. they can't develop an ARM based proton layer without having an ARM based operating system. when protectresist said steamOS that could imply just the base OS not everything else that comes with it",
+                          "score": 1,
+                          "created_utc": 1749233173.0,
+                          "replies": [
+                            {
+                              "id": "mwdp74z",
+                              "author": "BenRandomNameHere",
+                              "body": "Raspberry Pi has entered the chat.\n\nARM64 CPU with BOX64, Wine, and WOWBOX64 can install Steam, and Steam games. Proton can be enabled, per game.\n\nBack before the 64bit jump, the Pi could run **many** PC titles at playable performance.\n\nStill working on the 64bit extensions though.",
+                              "score": 4,
+                              "created_utc": 1749242179.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwdoebm",
+              "author": "GregoryfromtheHood",
+              "body": "There is via Linux. Plenty of steam games run pretty decently on Switch 1",
+              "score": 3,
+              "created_utc": 1749241933.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwfnegx",
+          "author": "Zaynom",
+          "body": "while they\u2019re at it they might as well mod it to run Linux and windows as well. And well we need a cursor so let\u2019s add a track pad as well. And now that I think about it, what\u2019s the point of detaching joycons we\u2019lol just glue em on there. It would be just one big rectangle. a deck of sorts if you will.",
+          "score": 1,
+          "created_utc": 1749267529.0,
+          "replies": []
+        },
+        {
+          "id": "mwdo780",
+          "author": "GregoryfromtheHood",
+          "body": "The Switch 1 already does, so only a matter of time",
+          "score": 0,
+          "created_utc": 1749241874.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwg25bf",
+      "author": "jerryeight",
+      "body": "Hackers should figure out how to block remote bricking  feature.",
+      "score": 4,
+      "created_utc": 1749274609.0,
+      "replies": [
+        {
+          "id": "mwg775t",
+          "author": "Some_Photograph5315",
+          "body": "That would be impossible because this console has built in measures to go brick if the servers detect suspicious activity. Most modern consoles have issues when connecting to official servers if they're running mods. Would be pointless anyway because a jail broken console let's you play all content via backups/roms.",
+          "score": 4,
+          "created_utc": 1749277442.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwgup1g",
+      "author": "IMplyingSC2",
+      "body": "Why the fuck does this article link a tweet that links to the bluesky post of the guy who did it, instead of linking that post directly?",
+      "score": 3,
+      "created_utc": 1749291658.0,
+      "replies": [
+        {
+          "id": "mwhizub",
+          "author": "KingZakyu",
+          "body": "Maybe this is the guy who did it and wants attention? Idk why they wouldn't say that, but it is possible I suppose.",
+          "score": 1,
+          "created_utc": 1749302867.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwgqrd2",
+      "author": "Fredasa",
+      "body": "It warms my heart to know that the industrious folks in the hacking community are going to take this challenge seriously.  They have a year or whatever before the next From Software game hits.  I'll be impressed but not at all surprised if by then the ball is already rolling on both device unlocking and emulation.",
+      "score": 2,
+      "created_utc": 1749289311.0,
+      "replies": []
+    },
+    {
+      "id": "mwhku5c",
+      "author": "Just-An0ther-Lurker",
+      "body": "Will somebody get working on getting it to run Better xCloud? Would be ideal if I could play Xbox games using it (as well as the Nintendo classics)",
+      "score": 2,
+      "created_utc": 1749303547.0,
+      "replies": []
+    },
+    {
+      "id": "mwj8ea1",
+      "author": "TheModeratorWrangler",
+      "body": "Hahahahahahahahahahahahahahahahaha",
+      "score": 2,
+      "created_utc": 1749322653.0,
+      "replies": []
+    },
+    {
+      "id": "mwdvay0",
+      "author": "Some_Photograph5315",
+      "body": "Hackers should focus on Nintendo's servers this time, I think the way to jailbreak Switch 1 and 2 via software is something similar to Wii hacking where you have to connect to a custom server to do the hack.",
+      "score": 7,
+      "created_utc": 1749244064.0,
+      "replies": [
+        {
+          "id": "mwedduw",
+          "author": "Hugehead123",
+          "body": "Internet security has gotten much better since the Wii's time. I don't know how the Wii eshop worked specifically, but nowadays everyone uses security certificates that verify the server you're connecting to is legitimate. If the certificate doesn't match what the Switch expects it will just drop the connection without going any further. \n\nIt's possible that the certificates could be leaked, but I'd expect they're using ones with fairly short (30 or 90 day) lifespans. It's also possible, but much less likely, that the root certificate they're generating them from could leak. Then you could generate valid certificates for any time, but that happens very rarely.",
+          "score": 9,
+          "created_utc": 1749250144.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwckko7",
+      "author": "beat-sweats",
+      "body": "Good. I hope this thing gets cracked wide open, it\u2019s always morally correct to pirate Nintendo games.",
+      "score": 11,
+      "created_utc": 1749230101.0,
+      "replies": []
+    },
+    {
+      "id": "mwcc5ji",
+      "author": "Beaker_Biker69",
+      "body": "Could someone translate for a layperson \u2026 \u201cOn June 5, developer and security researcher David Buchanan (@retr0_id on Bluesky) shared footage of a successful framebuffer graphics demo running on the console through a userland Return-Oriented Programming (ROP) exploit. For reference, it's a technique that doesn't involve native code execution, but still manages to draw graphics directly to the screen. In this context, \"userland\" (or \"user space\") refers to code that runs outside the kernel, meaning it doesn\u2019t have full system privileges or direct hardware access.\u201d",
+      "score": 3,
+      "created_utc": 1749227685.0,
+      "replies": [
+        {
+          "id": "mwcgkbq",
+          "author": "AlexHimself",
+          "body": "It's just like your phone where there's a protected section of the system (kernel) that requires root privileges to do anything and then a user section, where your game, save files, personalization, etc. are all stored. I'm using loose terms here for laypeople btw, if somebody is going to harshly critique this.\n\nIt's a firewall where all the protected system activities/functions are behind and they expose secure APIs to the rest of the system so the two sides can interact together.\n\nThe user-side sometimes has *MORE* abilities than it should or the APIs aren't secure enough and you can shoehorn actions that shouldn't be possible.\n\nRegarding the **ROP exploit**, think back to those graphic APIs...imagine an API has a control flow like this (*completely made up example, btw*):\n\n1. Game starts and prompts you for your preferred name with a 40-char limit, \"JoeHacker\", and it then saves it to the user section on disk `username.json`. \n2. Game (user space) calls API using secure key that only the game has, direct from Nintendo during development, so it can receive an auth token to enable sending graphics to the screen. This secure key is the keys to the kingdom but rarely exploited. Instead, they leverage the key to get other things.\n3. Game then retrieves your avatar and name from #1 and sends it to the kernel to display.\n4. **\"Hacker\"** is able to gain access to `username.json` in the less secure user space...perhaps it's saved on a removable SD Card. He puts it in his computer and replaces the content in that file with `40-chars + an exploit immediately after`.\n5. The kernel receives an auth token permitting the content and the \"username\", which is expected to be 40-chars but in reality, is 1000's and is exploit code.\n6. Everything from 41-char+ gets put in memory and is a buffer overrun and inadvertently gets executed.\n\nThey've managed to bypass the security that way.\n\nAgain, this is extremely simplified and I used a bunch of random semi-technical terms.",
+          "score": 12,
+          "created_utc": 1749228957.0,
+          "replies": [
+            {
+              "id": "mwcnhav",
+              "author": "Beaker_Biker69",
+              "body": "This is what I needed!  Appreciate the effort very much.",
+              "score": 1,
+              "created_utc": 1749230923.0,
+              "replies": []
+            },
+            {
+              "id": "mwdaor9",
+              "author": "gramathy",
+              "body": "if this was really exploited with a buffer overflow, that's an embarassing level of code security on the part of nintendo",
+              "score": 1,
+              "created_utc": 1749237764.0,
+              "replies": [
+                {
+                  "id": "mwdcz6a",
+                  "author": "AlexHimself",
+                  "body": "To be clear, **no clue the actual method**. I just used buffer overflow as the most common example with ROP exploits.",
+                  "score": 3,
+                  "created_utc": 1749238459.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwdok6b",
+              "author": "Elk-tron",
+              "body": "This is roughly correct, but I would also add that in this case since browsers are commonly attacked there is an extra layer of protection there. The attack is still stuck in that extra layer of browser specific protection and hasn't even touched most of the user section.",
+              "score": 0,
+              "created_utc": 1749241983.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mwcge3i",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -2,
+          "created_utc": 1749228907.0,
+          "replies": [
+            {
+              "id": "mwcpgi0",
+              "author": "Skyb",
+              "body": "You are quite wrong as stated in the quote of the comment you've replied to",
+              "score": 3,
+              "created_utc": 1749231483.0,
+              "replies": [
+                {
+                  "id": "mwctucy",
+                  "author": "None",
+                  "body": "Dev: I managed to run a video in a browser but can't access root or system or do anything.  \n\nReddit: omg the switch 2 is hacked *pops champagne*",
+                  "score": 6,
+                  "created_utc": 1749232725.0,
+                  "replies": [
+                    {
+                      "id": "mwdqrag",
+                      "author": "Alarmed-Shopping1592",
+                      "body": "How dare you? I've read whole 3 Reddit post titles to come to that conclusion",
+                      "score": 3,
+                      "created_utc": 1749242654.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mwd03eb",
+              "author": "itsaride",
+              "body": "Nah, but there's clearly holes in their security.",
+              "score": 1,
+              "created_utc": 1749234573.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwctfaq",
+      "author": "brownc6830",
+      "body": "![gif](giphy|DPT5nw3cuigOk)",
+      "score": 5,
+      "created_utc": 1749232605.0,
+      "replies": []
+    },
+    {
+      "id": "mweorj3",
+      "author": "Delvinx",
+      "body": "Imagine being so restrictive that you develop a device that will brick at that drop of a hat. And you ship out a dev unit \ud83d\ude02",
+      "score": 2,
+      "created_utc": 1749254133.0,
+      "replies": []
+    },
+    {
+      "id": "mwvcx0f",
+      "author": "Hopeful_Minimum95",
+      "body": "wow",
+      "score": 1,
+      "created_utc": 1749491836.0,
+      "replies": []
+    },
+    {
+      "id": "mwf5hnc",
+      "author": "zilvia891",
+      "body": "Plays TOTK on Yuzu, switch 2? what\u2019s that..",
+      "score": 1,
+      "created_utc": 1749260395.0,
+      "replies": []
+    },
+    {
+      "id": "mwk3d0p",
+      "author": "CookiesOrChaos",
+      "body": "I won a switch 2.  Opened the box .. has two in the box   I wanna sell one",
+      "score": 1,
+      "created_utc": 1749332901.0,
+      "replies": [
+        {
+          "id": "mwks79s",
+          "author": "hindusoul",
+          "body": "I\u2019ll I\u2019ve you tree fifty",
+          "score": 2,
+          "created_utc": 1749341888.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mwfd1ph",
+      "author": "vc6vWHzrHvb2PY2LyP6b",
+      "body": "That's honestly my favorite thing about Nintendo- emulation has always been so easy compared to other platforms.\n\nUntil last week, my Steam Deck could flawlessly emulate essentially every Nintendo game ever made.",
+      "score": -4,
+      "created_utc": 1749263275.0,
+      "replies": [
+        {
+          "id": "mwh48uz",
+          "author": "mynameistc",
+          "body": "No it fucking cant. I have a steam deck and an rog ally. Go ahead and play xenoblade or the multitude of games that either crash or run like shit (on yuzu and ryujinx doesn\u2019t matter, go for it). Get your hyperbolic bullshit out of here.",
+          "score": -1,
+          "created_utc": 1749296720.0,
+          "replies": [
+            {
+              "id": "mwiej79",
+              "author": "vc6vWHzrHvb2PY2LyP6b",
+              "body": "I've played Mario Wonder, BoTW, Animal Crossing, and ToTK. I haven't tried EVERY game, but I haven't had any issues.",
+              "score": 2,
+              "created_utc": 1749313256.0,
+              "replies": [
+                {
+                  "id": "mwietn4",
+                  "author": "mynameistc",
+                  "body": "You\u2019ve just proven my point. Stop being hyperbolic.",
+                  "score": -2,
+                  "created_utc": 1749313349.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mwhelai",
+              "author": "do0rkn0b",
+              "body": "Skill issue",
+              "score": 1,
+              "created_utc": 1749301177.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwcv7hv",
+      "author": "Big_Daddy_Dusty",
+      "body": "Why wouldn\u2019t Nintendo throttle it back then? What\u2019s the advantage to not letting the system run with a higher level graphics?",
+      "score": -6,
+      "created_utc": 1749233120.0,
+      "replies": [
+        {
+          "id": "mwd27v4",
+          "author": "SuicidalChair",
+          "body": "Wut? I don't understand how your post has anything to do with the article",
+          "score": 5,
+          "created_utc": 1749235211.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

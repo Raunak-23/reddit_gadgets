@@ -1,0 +1,44 @@
+metric,value
+file,1go9zlb.csv
+title,Sony's Airpeak Drone Failed Because It Couldn't Get the Basics Right
+rows,16
+num_posts,1
+num_comments,15
+unique_authors,12
+max_depth,5
+avg_comment_words,25.33
+median_comment_words,20.0
+max_comment_words,65
+positive_count,1
+negative_count,14
+neutral_count,0
+positive_pct,6.667
+negative_pct,93.333
+neutral_pct,0.0
+topic_1_keywords,"lol, zero, sense, super, sounds, spot, people, makes"
+topic_1_label,ludicrous ludicrous ludicrous ludicrous
+topic_2_keywords,"sony, drone, launches, hope, use, mainstream, a7r4, terrible"
+topic_2_label,drones launch in the mainstream
+topic_3_keywords,"drone, review, click, bait, failed, title, reruns, reviewed"
+topic_3_label,drone review failed to review
+topic_4_keywords,"like, sony, failed, 9000, click, bait, drone, story"
+topic_4_label,drones fail 9000
+topic_5_keywords,"failed, like, lol, old, multi, og, release, block"
+topic_5_label,og og og og og og og og og o
+topic_6_keywords,"9000, failed, like, sony, click, bait, drone, story"
+topic_6_label,"9000 failed, like, drone"
+top_ngram_1,click bait (4)
+top_ngram_2,hope sony (3)
+top_ngram_3,sony launches (3)
+top_ngram_4,drone use (3)
+top_ngram_5,hope sony launches (3)
+top_ngram_6,review drone (3)
+top_ngram_7,drone lol (3)
+top_ngram_8,lol clickbait (3)
+top_ngram_9,clickbait title (3)
+top_ngram_10,title actually (3)
+ner_1,Sony|ORG|7
+ner_2,Boeing|ORG|1
+ner_3,C|MISC|1
+ner_4,PlayStation|MISC|1
+ner_5,Walkman|MISC|1

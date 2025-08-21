@@ -1,0 +1,49 @@
+metric,value
+file,1lk91nd.csv
+title,"HDMI 2.2 standard finalized: doubles bandwidth to 96 Gbps, 16K resolution support"
+rows,118
+num_posts,1
+num_comments,117
+unique_authors,84
+max_depth,7
+avg_comment_words,60.39
+median_comment_words,38.0
+max_comment_words,320
+positive_count,12
+negative_count,105
+neutral_count,0
+positive_pct,10.256
+negative_pct,89.744
+neutral_pct,0.0
+topic_1_keywords,"hdmi, cable, displayport, people, 1x, monitor, tv, see"
+topic_1_label,"hdmi, cable, displayport, people, 1x, tv"
+topic_2_keywords,"hdmi, lip, cost, 22, systems, especially, devices, cable"
+topic_2_label,hdmi costs 22 mm of lip
+topic_3_keywords,"power, usbc, media, capable, connector, much, connectors, pd"
+topic_3_label,"Power, USB, Media, Pd, Power connectors"
+topic_4_keywords,"cable, cables, hdmi, make, 4k, like, shit, locking"
+topic_4_label,hdmi likes to lock cables
+topic_5_keywords,"21, hdmi, like, standard, forum, label, megapixels, cables"
+topic_5_label,hdmi likes a standard pixel
+topic_6_keywords,"like, use, allow, get, hdmi, doesnt, shipping, wait"
+topic_6_label,hdmi doesnt allow shipping
+top_ngram_1,hdmi forum (12)
+top_ngram_2,open source (12)
+top_ngram_3,hdmi 22 (10)
+top_ngram_4,hdmi cable (10)
+top_ngram_5,though results (9)
+top_ngram_6,21 released (8)
+top_ngram_7,video card (8)
+top_ngram_8,cable makers (7)
+top_ngram_9,makers love (7)
+top_ngram_10,love confusion (7)
+ner_1,HDMI|MISC|45
+ner_2,HD|MISC|27
+ner_3,HDMI Forum|ORG|11
+ner_4,USB|MISC|9
+ner_5,DisplayPort|ORG|8
+ner_6,A|MISC|4
+ner_7,AMD|ORG|4
+ner_8,21|ORG|4
+ner_9,USBC|MISC|4
+ner_10,GP|MISC|3

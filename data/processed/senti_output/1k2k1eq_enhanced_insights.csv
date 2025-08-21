@@ -1,0 +1,49 @@
+metric,value
+file,1k2k1eq.csv
+title,"Synology confirms that higher-end NAS products will require its branded drives | Firm will later add ""curated drive compatibility"" lists after testing."
+rows,168
+num_posts,1
+num_comments,167
+unique_authors,139
+max_depth,5
+avg_comment_words,46.57
+median_comment_words,28.0
+max_comment_words,404
+positive_count,17
+negative_count,118
+neutral_count,32
+positive_pct,10.18
+negative_pct,70.659
+neutral_pct,19.162
+topic_1_keywords,"drives, synology, years, warranty, drive, brand, thats, nvme"
+topic_1_label,nvme drives for sale
+topic_2_keywords,"synology, going, nas, qnap, buy, go, market, everything"
+topic_2_label,nas buys everything in the market
+topic_3_keywords,"one, truenas, really, nas, make, like, get, use"
+topic_3_label,nas make nas
+topic_4_keywords,"nas, zfs, cloud, wd, data, brand, products, requires"
+topic_4_label,"nas zfs, cloud, wd, data"
+topic_5_keywords,"nas, im, going, synology, minipc, drives, use, das"
+topic_5_label,nas i am going to use a minipc drive
+topic_6_keywords,"reliability, disks, raid, less, reliable, inexpensive, synology, buy"
+topic_6_label,syology buys cheap disks
+top_ngram_1,nas products (11)
+top_ngram_2,nvme drives (9)
+top_ngram_3,internet connection (9)
+top_ngram_4,much worse (9)
+top_ngram_5,wd entire (8)
+top_ngram_6,entire line (8)
+top_ngram_7,line nas (8)
+top_ngram_8,products work (8)
+top_ngram_9,work active (8)
+top_ngram_10,active internet (8)
+ner_1,Synology|ORG|42
+ner_2,NAS|ORG|39
+ner_3,WD|ORG|10
+ner_4,S|MISC|10
+ner_5,TrueNAS|ORG|9
+ner_6,ZFS|MISC|8
+ner_7,Lenovo|ORG|7
+ner_8,Z|MISC|6
+ner_9,N|MISC|5
+ner_10,##ynology|ORG|4

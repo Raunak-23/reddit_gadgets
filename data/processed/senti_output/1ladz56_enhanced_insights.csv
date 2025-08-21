@@ -1,0 +1,49 @@
+metric,value
+file,1ladz56.csv
+title,"Engineer creates first custom motherboard for 1990s PlayStation console | New ""nsOne"" board can save a dying 1990s PlayStation 1 by transplanting original chips."
+rows,112
+num_posts,1
+num_comments,111
+unique_authors,76
+max_depth,10
+avg_comment_words,55.32
+median_comment_words,37.0
+max_comment_words,220
+positive_count,21
+negative_count,90
+neutral_count,0
+positive_pct,18.919
+negative_pct,81.081
+neutral_pct,0.0
+topic_1_keywords,"motherboard, like, original, im, gbc, mask, black, gameboy"
+topic_1_label,"gbc, gbc, black, gameboy"
+topic_2_keywords,"make, need, gates, seems, like, console, know, logic"
+topic_2_label,logic
+topic_3_keywords,"years, 22, im, ago, 25, dont, make, least"
+topic_3_label,i dont make a lot of money
+topic_4_keywords,"one, console, however, fpga, holy, age, died, people"
+topic_4_label,fpga is a console but not a fpga
+topic_5_keywords,"chips, even, motherboard, one, much, new, anyone, isnt"
+topic_5_label,"chips, even, motherboard, one"
+topic_6_keywords,"hardware, fpga, real, buy, like, ps1, level, original"
+topic_6_label,ps1 is the original hardware of ps1
+top_ngram_1,im 22 (13)
+top_ngram_2,25 years (10)
+top_ngram_3,seems like (10)
+top_ngram_4,years experience (9)
+top_ngram_5,years ago (8)
+top_ngram_6,next years (7)
+top_ngram_7,25 years ago (7)
+top_ngram_8,1300 fpga (6)
+top_ngram_9,original motherboard (6)
+top_ngram_10,desolder chips (6)
+ner_1,PS1|MISC|19
+ner_2,FP|MISC|11
+ner_3,##P|MISC|7
+ner_4,FPGA|MISC|6
+ner_5,NES|MISC|6
+ner_6,Gameboy|MISC|5
+ner_7,uLorentioB|ORG|4
+ner_8,##1|MISC|4
+ner_9,PlayStation|MISC|4
+ner_10,PSX|MISC|4

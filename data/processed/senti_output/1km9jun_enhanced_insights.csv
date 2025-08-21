@@ -1,0 +1,49 @@
+metric,value
+file,1km9jun.csv
+title,US Senators Introduce Bill Mandating Geotracking for High End GPUs
+rows,63
+num_posts,1
+num_comments,62
+unique_authors,54
+max_depth,6
+avg_comment_words,45.66
+median_comment_words,31.0
+max_comment_words,170
+positive_count,7
+negative_count,55
+neutral_count,0
+positive_pct,11.29
+negative_pct,88.71
+neutral_pct,0.0
+topic_1_keywords,"tech, people, regulation, dont, government, joys, continuing, attempted"
+topic_1_label,tech is trying to stop people from trying to do what they want
+topic_2_keywords,"ceo, know, thats, need, cotton, tom, hes, tell"
+topic_2_label,hes a ceo
+topic_3_keywords,"cards, card, nvidia, chip, also, government, target, shit"
+topic_3_label,"nvidia cards, chip, shit"
+topic_4_keywords,"card, would, like, tracking, encryption, way, work, phone"
+topic_4_label,encryption of a phone
+topic_5_keywords,"gps, building, say, even, regulations, terrible, one, work"
+topic_5_label,gps work in building
+topic_6_keywords,"product, code, would, card, one, sold, change, us"
+topic_6_label,card and one sold in us
+top_ngram_1,tracking chip (8)
+top_ngram_2,tech people (7)
+top_ngram_3,phone home (7)
+top_ngram_4,ah continuing (6)
+top_ngram_5,continuing joys (6)
+top_ngram_6,joys attempted (6)
+top_ngram_7,attempted regulation (6)
+top_ngram_8,regulation tech (6)
+top_ngram_9,people dont (6)
+top_ngram_10,dont understand (6)
+ner_1,US|LOC|7
+ner_2,Nvidia|ORG|7
+ner_3,China|LOC|5
+ner_4,Ether|MISC|4
+ner_5,Tom Cotton|PER|4
+ner_6,ALSO|ORG|3
+ner_7,Americans|MISC|3
+ner_8,CCP|ORG|3
+ner_9,##vid|ORG|3
+ner_10,C|ORG|2

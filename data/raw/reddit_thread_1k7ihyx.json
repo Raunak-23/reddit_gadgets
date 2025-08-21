@@ -1,0 +1,907 @@
+{
+  "post": {
+    "title": "Intel's AI PC chips aren't selling well \u2014 instead, old Raptor Lake chips boom",
+    "author": "One-End1795",
+    "id": "1k7ihyx",
+    "score": 977,
+    "created_utc": 1745580190.0,
+    "selftext": "",
+    "num_comments": 109,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1k7ihyx/intels_ai_pc_chips_arent_selling_well_instead_old/"
+  },
+  "comments": [
+    {
+      "id": "moye24z",
+      "author": "PM_ME_UR_SO",
+      "body": "The general public doesn\u2019t care about AI as much as hype bros want you to think",
+      "score": 502,
+      "created_utc": 1745582076.0,
+      "replies": [
+        {
+          "id": "moykfzy",
+          "author": "Dry-Record-3543",
+          "body": "Also, even if i\u2019m crazy about AI, I don\u2019t need an \u201cai chip\u201d to use AI",
+          "score": 170,
+          "created_utc": 1745584580.0,
+          "replies": [
+            {
+              "id": "moyr8j0",
+              "author": "JukePlz",
+              "body": "Because for the home/office user they're gonna be using some cloud-based service when they use AI. Unlikely to be running their own instance locally, at least at this point in time.",
+              "score": 62,
+              "created_utc": 1745586972.0,
+              "replies": [
+                {
+                  "id": "moyukly",
+                  "author": "Pikeman212a6c",
+                  "body": "The AI of Things coming Fall 2027.",
+                  "score": 24,
+                  "created_utc": 1745588100.0,
+                  "replies": [
+                    {
+                      "id": "moz94pe",
+                      "author": "Less_Party",
+                      "body": "Finally I can ask my fridge for advice on good bulking foods and have it tell me to eat concrete as it\u2019s rich in fiber and has great calorie density.",
+                      "score": 29,
+                      "created_utc": 1745592573.0,
+                      "replies": [
+                        {
+                          "id": "mp3lybg",
+                          "author": "blamenixon",
+                          "body": "Not to mention a great shelf life!",
+                          "score": 5,
+                          "created_utc": 1745644703.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mp6u867",
+                      "author": "Esc777",
+                      "body": "Me walking into the Sea coming winter 2027",
+                      "score": 2,
+                      "created_utc": 1745693315.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mp0qbvv",
+                  "author": "RealPutin",
+                  "body": "Honestly that specifically is *why* a lot of tech companies want local hardware that can run basic AI features. They're bleeding money on cloud-based AI systems right now. Basically in their mind they have evidence that consumers *are* using AI - but they also know they can't bankroll that forever, and there's a lot of research into lightweight AI systems. \n\nI do remain unconvinced however that in the next few years we'll see a big uptick of NNs that need dedicated Neural processing units (and can't just run on CPUs), but aren't too big to run locally on consumer-grade devices. That's sort of the bet that these companies are making and I haven't seen tons of evidence to substantiate it in the near-term outside of maybe computer vision applications",
+                  "score": 15,
+                  "created_utc": 1745608026.0,
+                  "replies": [
+                    {
+                      "id": "mp0zee1",
+                      "author": "Loud_Ninja2362",
+                      "body": "We're already building that for tons of applications. It's an incredibly active area of research and development in a ton of industries. Check out Executorch, Apache TVM, etc. it's being applied to more than just basic computer vision tasks, even LLMs or other transformer architectures are being run on edge hardware.",
+                      "score": 3,
+                      "created_utc": 1745610794.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mp0zp9r",
+                      "author": "Tired8281",
+                      "body": "Isn't there some sort of middle ground, where it does some sort of preprocessing or tokenization locally, that reduces the burden on the remote server?",
+                      "score": 2,
+                      "created_utc": 1745610885.0,
+                      "replies": [
+                        {
+                          "id": "mp1r03l",
+                          "author": "TooStrangeForWeird",
+                          "body": "I've never heard of this before, and I generally keep up pretty well, but it's a decent idea! The only thing is that I don't see a ton of savings on the cloud side. Sure your local device has the tokens, but the main processing power is running the main model. \n\nHowever, with the sheer number of people using it, it could actually add up a lot. Just moving voice recognition alone to edge devices reduces a lot of load, for both compute and bandwidth. \n\nYou may be onto something.",
+                          "score": 6,
+                          "created_utc": 1745619446.0,
+                          "replies": [
+                            {
+                              "id": "mp2svpc",
+                              "author": "Tired8281",
+                              "body": "Out of the mouths of children.  I don't actually know what I am talking about, I just always thought it would be cool if we could share compute resources between the cloud and whatever devices I have on me.  Sometimes I just have my potato phone on me, but other times my laptop is idling in my backpack.",
+                              "score": 2,
+                              "created_utc": 1745632663.0,
+                              "replies": [
+                                {
+                                  "id": "mp7u7rb",
+                                  "author": "TooStrangeForWeird",
+                                  "body": "Cluster networks are a thing, and as far as phone -> laptop that's kind of a thing with remote gaming. I have my gaming PC upstairs but normally just pop my phone into a controller and play games in my living room while using my PC to actually run the game. So I can hang out with my wife while she crafts or watches a movie. \n\nThere's no reason phones couldn't do that sort of thing to a laptop in your bag, it's just kind of niche. Plus battery life issues of course.",
+                                  "score": 2,
+                                  "created_utc": 1745705177.0,
+                                  "replies": [
+                                    {
+                                      "id": "mp7wo2c",
+                                      "author": "Tired8281",
+                                      "body": "I was thinking of it more as a paradigm.  We're increasingly surrounded by compute resources, nearly all not optimally used for the benefit of everyone.  It'd be cool if we had less friction involved in sharing between them.  It could be useful for everything from offloading usage to edge devices to not having to worry what type of video stream I need to send to a stranger's TV.",
+                                      "score": 1,
+                                      "created_utc": 1745706020.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mpkxlnt",
+                      "author": "AkirIkasu",
+                      "body": "I don't think that's why they're trying to make less computationally expensive AI systems. I think that these companies are more than happy to run those queries for you because it means that they will never run the risk of anyone getting their hands on their stuff and reverse-engineering it or pirating it. They just want them to be less resource heavy to make more money.",
+                      "score": 0,
+                      "created_utc": 1745888249.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mpmghoa",
+                  "author": "barfplanet",
+                  "body": "AI companies are very interested in shifting some of the compute onto customer machines. I don't think these chips are going to be running open source local models nearly as much as handling the easy Copilot tasks so Microsoft can save on their power bill.",
+                  "score": 1,
+                  "created_utc": 1745912435.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mozmlkj",
+              "author": "zushiba",
+              "body": "Besides for AI to be of any real use it has to be cloud hosted. Local AI is good for a very few select operations and none of those are consumer facing. \n\nCompanies don\u2019t know how to market AI. They see it as the next big ad platform instead of the tool it should be. \n\nIt\u2019s like Windows Search only they skipped the part where it was once good.",
+              "score": 13,
+              "created_utc": 1745596476.0,
+              "replies": [
+                {
+                  "id": "mp1rwym",
+                  "author": "housefly888",
+                  "body": "Google used to actually bring up lots of good info on searches. Now it\u2019s useless",
+                  "score": 10,
+                  "created_utc": 1745619757.0,
+                  "replies": []
+                },
+                {
+                  "id": "mp07c8f",
+                  "author": "hyperforms9988",
+                  "body": "> Companies don\u2019t know how to market AI. They see it as the next big ad platform instead of the tool it should be.\n\nAnd that's the root of the problem funnily enough.  The problem is the marketing itself.  They're marketing something with no real function... so, uh, don't?  The only thing that makes sense here is that they were banking on people running out with the blinders on and getting this stuff without being able to answer the question \"why?\" in any other way than \"i dunno\".  That happens sometimes.  Something catches on and suddenly everybody wants one but nobody really knows why beyond the marketing blitz and hype.",
+                  "score": 3,
+                  "created_utc": 1745602469.0,
+                  "replies": [
+                    {
+                      "id": "mp3ksoi",
+                      "author": "DorianGre",
+                      "body": "I still have an installer for Google desktop. Works great.",
+                      "score": 1,
+                      "created_utc": 1745644097.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mp0cg3x",
+                  "author": "CocodaMonkey",
+                  "body": "> It\u2019s like Windows Search only they skipped the part where it was once good.\n\nI can't give you this one. Windows search has always been bad. In fact it's one thing in windows that has seen very slow but steady improvement. No previous Windows versions had a better search than the Windows 11 search function of today. Although it's still poor enough that many people use 3rd party programs.",
+                  "score": -3,
+                  "created_utc": 1745603917.0,
+                  "replies": [
+                    {
+                      "id": "mp0nojh",
+                      "author": "Bamstradamus",
+                      "body": "Win 7 if you started typing in a file name it would give you the root folder, the .EXE and any file that had that name in it.  Now it might give you a .EXE and then 9 different autofill search results to search in a browser instead of anything local.",
+                      "score": 13,
+                      "created_utc": 1745607235.0,
+                      "replies": [
+                        {
+                          "id": "mp114he",
+                          "author": "surecameraman",
+                          "body": "Use Everything. It\u2019s far superior",
+                          "score": 6,
+                          "created_utc": 1745611323.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mp0r06x",
+                          "author": "CocodaMonkey",
+                          "body": "Personally I just turn off all internet search options in Windows itself. I do agree that tying web searches to some local search boxes is annoying but the way you searched for files in Windows 7 and the way you can search for files in Windows 11 without using internet search is the same and will yield the same results. You had do it it from file explorer in Windows 7 and it still works the same in Windows 11.",
+                          "score": 3,
+                          "created_utc": 1745608234.0,
+                          "replies": [
+                            {
+                              "id": "mp0s0ug",
+                              "author": "Bamstradamus",
+                              "body": "IDK about you, but iv deactivated automatic updates 5 times, and yet it does it by itself which also resets some settings, like turning off internet search.",
+                              "score": 5,
+                              "created_utc": 1745608544.0,
+                              "replies": [
+                                {
+                                  "id": "mp0sgkk",
+                                  "author": "CocodaMonkey",
+                                  "body": "I turned off internet search years ago via registry edit in Windows 10. I've upgraded that straight through to the current version of Windows 11 and internet searches have never been re-enabled for me.\n\nI've had issues with other features being flipped back on but not with internet search. Although it's kinda moot for this discussion as internet search isn't part of file explorer so it's still feature parity with Windows 7 as far as searching for files.",
+                                  "score": 0,
+                                  "created_utc": 1745608676.0,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mp1rg36",
+                              "author": "TooStrangeForWeird",
+                              "body": ">Personally I just turn off all internet search options in Windows itself.\n\nAnd this is why it's better. You had to modify it. Sure, it's just a settings change, but it's NOT the default Windows Search. The default, that almost everyone uses, is *horrid.*\n\n>You had do it it from file explorer in Windows 7 and it still works the same in Windows 11.\n\nNo you did not. It was included in the start menu. You could just click Start and type something.",
+                              "score": 2,
+                              "created_utc": 1745619596.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mpa2s63",
+                      "author": "Freedomoffunk",
+                      "body": "DosShell on MS DOS in 1993 would like a word with you my friend. Found all files, instantly, on my 25Mhz, 2mb RAM PS/1. There is no excuse for 2indows being this bad at such a simple task in 2025.\u00a0",
+                      "score": 1,
+                      "created_utc": 1745739920.0,
+                      "replies": [
+                        {
+                          "id": "mpil4wi",
+                          "author": "CocodaMonkey",
+                          "body": "This is just getting even sillier. MS DOS didn't even have a way to search for files at all. You could print a list of all files and then parse it manually. In fact the exact same search method is still possible today with the only change being it's much faster then it was back in 1993.",
+                          "score": 2,
+                          "created_utc": 1745861306.0,
+                          "replies": [
+                            {
+                              "id": "mpinudc",
+                              "author": "Freedomoffunk",
+                              "body": "Fair point. You are correct my friend. That is just my memories playing up with age it seems. God though, I really don't remember earlier windows versions search being so inconsistent.\u00a0",
+                              "score": 1,
+                              "created_utc": 1745862087.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mp20mhy",
+              "author": "Ashamed-Status-9668",
+              "body": "You will want one it\u2019s just super early. The NPU\u2019s will be multiple times stronger in 5 years.",
+              "score": -1,
+              "created_utc": 1745622757.0,
+              "replies": [
+                {
+                  "id": "mp3khsp",
+                  "author": "Dry-Record-3543",
+                  "body": "nope",
+                  "score": 2,
+                  "created_utc": 1745643941.0,
+                  "replies": [
+                    {
+                      "id": "mp4r6ux",
+                      "author": "Ashamed-Status-9668",
+                      "body": "Well software will start to run like trash without it at some point.",
+                      "score": -1,
+                      "created_utc": 1745668236.0,
+                      "replies": [
+                        {
+                          "id": "mp5c83c",
+                          "author": "Dry-Record-3543",
+                          "body": "Have you heard of cloud computing",
+                          "score": 2,
+                          "created_utc": 1745676420.0,
+                          "replies": [
+                            {
+                              "id": "mp6fg8f",
+                              "author": "Ashamed-Status-9668",
+                              "body": "Client side inference will never be cloud based. Sorry but what you think you don\u2019t want is based on ignorance of the software solutions. All the software is going to be doing local inference. Even games are looking at doing this for NPC\u2019s.",
+                              "score": 0,
+                              "created_utc": 1745688791.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mp3hz12",
+          "author": "CallMeDrLuv",
+          "body": "This is the correct answer. \n\nJust because your marketing \"gurus\" are telling you it's all about the AI, doesn't mean it's true. \n\nMost people don't give 2 shits about AI.",
+          "score": 3,
+          "created_utc": 1745642707.0,
+          "replies": []
+        },
+        {
+          "id": "mpawokd",
+          "author": "Jacksoncant",
+          "body": "i\u2019m still not entirely sure it does anything",
+          "score": 1,
+          "created_utc": 1745756973.0,
+          "replies": []
+        },
+        {
+          "id": "mpfsh3r",
+          "author": "dmk_aus",
+          "body": "AI: Mild efficiency gains and quality losses. What is not tonbe excited about!",
+          "score": 1,
+          "created_utc": 1745818310.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "moyfhim",
+      "author": "CMDR_omnicognate",
+      "body": "Is that because people don\u2019t want ai or because intel\u2019s cpus suck ass compared to AMD ones at the moment?",
+      "score": 316,
+      "created_utc": 1745582659.0,
+      "replies": [
+        {
+          "id": "moygrjr",
+          "author": "ChaZcaTriX",
+          "body": "The latter.\n\nNew mobile AMD chips feature AI in marketing, but they are very tempting because of a powerful iGPU.",
+          "score": 146,
+          "created_utc": 1745583163.0,
+          "replies": [
+            {
+              "id": "moyuvz3",
+              "author": "UnsorryCanadian",
+              "body": "Halo Strix ran Cyberpunk on Ultra entirely on the iGPU, right?",
+              "score": 29,
+              "created_utc": 1745588205.0,
+              "replies": [
+                {
+                  "id": "moyzkom",
+                  "author": "ChaZcaTriX",
+                  "body": "Not sure about that one. My eye was on handhelds with HX370 running Monster Hunter Wilds pretty much flawlessly.",
+                  "score": 23,
+                  "created_utc": 1745589705.0,
+                  "replies": [
+                    {
+                      "id": "moz1khf",
+                      "author": "kenpachi-dono",
+                      "body": "Link? Something i need",
+                      "score": 8,
+                      "created_utc": 1745590326.0,
+                      "replies": [
+                        {
+                          "id": "moz8vln",
+                          "author": "ChaZcaTriX",
+                          "body": "Multiple brands have them, my handheld is Onexplayer. Because I live near China I ordered from the official Aliexpress store, but be warned that Westerners can't always see these listings (make sure to switch to the HX370 version):\n\n[https://aliexpress.com/item/1005008140086819.html](https://aliexpress.com/item/1005008140086819.html)\n\nThe store will also sell spare parts if you need to repair something like joysticks or battery.\n\nHere's a vid of the same thing in a laptop case running MH Wilds:\n\n[https://www.youtube.com/watch?v=QqOoSexnRBU](https://www.youtube.com/watch?v=QqOoSexnRBU)",
+                          "score": 4,
+                          "created_utc": 1745592500.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mp55798",
+                          "author": "ACanadianNoob",
+                          "body": "At the end of the year, we will get products with the Z2 Extreme processor. It's essentially an HX 370 without AI cores, so it will be priced a little cheaper. Still has the Radeon 890M though.\n\nMy recommendation though is to just pick up a used ROG Ally with the Z1 Extreme for under $400 if you can find it either locally on FB Marketplace or shipped on eBay and add a 74Wh battery mod. The 890M is only about 8-15% faster than the 780M in that. You can also mod in a full size M.2 2280 SSD if the SD card slot is broken on the used Ally and you need a storage upgrade, and still spend much less than buying a new handheld right now.\n\nI got an Ally X because I had someone gifting it to me, but for anyone being budget conscious that's what I would recommend.\n\nAlso heads up sometimes the thumbsticks on the Ally and Ally X get wobbly and you have to add Teflon tape under the caps to get them to fit firmly again. But otherwise it's a great handheld.",
+                          "score": 3,
+                          "created_utc": 1745673928.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mozac9f",
+                      "author": "UnsorryCanadian",
+                      "body": "This was apparently a Ryzen AI 395 MAX, so I guess it checks out",
+                      "score": 6,
+                      "created_utc": 1745592927.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "moz61fw",
+                  "author": "MediumTempTake",
+                  "body": "I don\u2019t believe this (not that I\u2019m calling you a liar this just sounds crazy) do you have any links? Even have the performance you are talking about is giving me dirty ideas. Cyberpunk arcade machine anyone?",
+                  "score": 3,
+                  "created_utc": 1745591666.0,
+                  "replies": [
+                    {
+                      "id": "moz9un5",
+                      "author": "UnsorryCanadian",
+                      "body": "I read about it in an article, it mentioned a youtuber named ETA Prime, but no specific video was mentioned. I think it's the \"Ryzen AI Max 395 Mini PCs offer BIG iGPU performance\" video",
+                      "score": 6,
+                      "created_utc": 1745592784.0,
+                      "replies": [
+                        {
+                          "id": "mpzmjvi",
+                          "author": "MediumTempTake",
+                          "body": "Thanks",
+                          "score": 1,
+                          "created_utc": 1746090427.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mp1lldp",
+                      "author": "Valance23322",
+                      "body": "The new iGPU is like 40 Compute units of RDNA 4, it's basically a full GPU just on the same chip as the CPU. Similar to what Apple has been doing with Apple Silicon.",
+                      "score": 7,
+                      "created_utc": 1745617655.0,
+                      "replies": [
+                        {
+                          "id": "mp4ahom",
+                          "author": "danielv123",
+                          "body": "And quad channel memory, something that has been reserved for thread ripper and servers",
+                          "score": 1,
+                          "created_utc": 1745658890.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mpaajd6",
+                  "author": "r31ya",
+                  "body": "apparently its abit more powerful than 4060,\n\nbut it need a specialized unified-RAM so its not gonna feature user-changable ram.\n\nunfortunately the next gen Halo Strix still gonna use RDNA 3.5, so they might not feature AMD newer FRS4 or better ray tracing.",
+                  "score": 1,
+                  "created_utc": 1745744767.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mp0riv9",
+              "author": "QuantumQuantonium",
+              "body": "\"Hey theres this new CPU from AMD, with a good igpu and an amazing npu processor for all the AI generation you could ever need\"\n\n\"Oh near its performance is good and the igpu is great, I can't wait to be able to run my games at higher graphics settings\"\n\n\"Yes but what about the power of the AI tools, you can automat-\"\n\n\"Does thr CPU overclock well? Wait what's this NPU, how can I disable it?\"\n\nI recently got a framework 16, great CPU and I got the dedicated GPU module for my needs. NPU is just an empty box in task manager. But hey, AMD isnt marketing their products for only AI (unlike nvidia)",
+              "score": 8,
+              "created_utc": 1745608390.0,
+              "replies": [
+                {
+                  "id": "mp1q74n",
+                  "author": "TooStrangeForWeird",
+                  "body": "I wish they would let you power down the NPU completely. I know it's probably not feasible to do without some sort of tradeoff they're not willing to accept (like an extra delay when using it because it has to pass a physical on/off gate, or multiple) but it would be cool. \n\nLiterally and figuratively cool, since even at idle a core gives off some heat if it's powered on. So it would cool it down! And figuratively cool because it would be neat :)\n\nI wish they'd just fucking knock it off already tbh, stop wasting die space on bullshit hardly anyone uses. Sure go ahead and research it, make it available even! But shoving it into EVERY processor is just a waste of everyone's money.",
+                  "score": 5,
+                  "created_utc": 1745619171.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mp0emhz",
+              "author": "chainard",
+              "body": "This is untrue though. Lunar Lake chips have good CPU performance and ARC iGPUs are as good as AMD's offerings, battery life is also better on Lunar Lake thanks to iGPU cache and 3nm TSMC node. It all comes down to having a halo product, AMD took the performance crown with X3D chips and people just assume they also offer the best products on other segments and ignore the alternatives, similarly 4060 sells well despite being a mediocre GPU.",
+              "score": 14,
+              "created_utc": 1745604551.0,
+              "replies": [
+                {
+                  "id": "mp3n1ra",
+                  "author": "blamenixon",
+                  "body": "I love it when people provide well phrased factual arguments instead of conjecture. Thank you.",
+                  "score": 1,
+                  "created_utc": 1745645290.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mozo7m0",
+          "author": "zushiba",
+          "body": "Neither and both. Consumers have no need for AI. It\u2019s currently marketed as a product that can help you translate meetings in other languages at real time or look at a photo and figure out where to buy the shoes the actor is wearing. \n\nNone of this is shit real consumers give a shit about. 99.9% of people are not having regular business meetings with Chinese investors and every other use for AI is either trinkets bullshit like generating cheesy emojis, writing stupid ass snarky remarks in the form of a Shakespeare play, or its about selling you shit. \n\nAs an informed consumer myself. I couldn\u2019t give less of a shit if I tried. And I *am interested in AI* so I wouldn\u2019t want a lesser product from Intel when a better one exists. \n\nNow apply the above to a non techy consumer and they couldn\u2019t give less of a shit which product is better for AI. \n\nThe only people AI centered products appeal to are people who are using it for real world applications and they *aren\u2019t doin that on consumer grade products*.",
+          "score": 44,
+          "created_utc": 1745596950.0,
+          "replies": [
+            {
+              "id": "mp1ofk0",
+              "author": "Znuffie",
+              "body": "> look at a photo and figure out where to buy the shoes the actor is wearing.\n\n> None of this is shit real consumers give a shit about.\n\nIronically, I wanted to see where I could buy a shirt I saw in a movie. I took a picture, I gave it to the AI and it refused to find it because there was a face in there and Google doesn't really want to search for people...",
+              "score": 3,
+              "created_utc": 1745618576.0,
+              "replies": [
+                {
+                  "id": "mp1qdnd",
+                  "author": "TooStrangeForWeird",
+                  "body": "Crop the picture and try again. No problem.",
+                  "score": 3,
+                  "created_utc": 1745619233.0,
+                  "replies": [
+                    {
+                      "id": "mp1uo4f",
+                      "author": "Znuffie",
+                      "body": "It was a scene where if I cut the head, it would not show enough of the shirt :)",
+                      "score": 1,
+                      "created_utc": 1745620709.0,
+                      "replies": [
+                        {
+                          "id": "mp2uheu",
+                          "author": "_RADIANTSUN_",
+                          "body": "Scribble out the face with the phone's default image editing tools... There's so many options bro. Post the screenshot.",
+                          "score": 1,
+                          "created_utc": 1745633235.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mp0tjjs",
+          "author": "Kionera",
+          "body": "I suspect this is more likely due to the general consumer not being able to recognize Intel's new naming scheme rather than either of those reasons.\n\nMy parents sure don't know what the heck is a Core Ultra. They simply want the i7 with the biggest number.",
+          "score": 9,
+          "created_utc": 1745609003.0,
+          "replies": [
+            {
+              "id": "mp0yi40",
+              "author": "kc5ods",
+              "body": "it's been very simple for 15 years. I5-5xx i5-25xx i5-35xx but NOW lets call it \"ultra\" which is fucking meaningless. i didn't think Intel could fuck up shit worse than they have",
+              "score": 8,
+              "created_utc": 1745610521.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mp0yzre",
+          "author": "ToMorrowsEnd",
+          "body": "Yep.  Current Gen i9 is just dogshit compared to the latest Ryzen 9 and anyone that actually uses multi core utterly hates the stupid E cores that intel shovels down everyone's throat.  if I launch 15 threads  to do work all the P cores end up finishing and waiting for E cores to finish.  slowing the whole mess down.    On an AMD we get full expected performance.   When Intel is asked about this problem their answer is \"reprogram your software to avoid E cores\"   Uh,  no  stop making shit processors with asymmetrical cores.\n\nWe now tell customers to avoid any non Xeon intel or any intel newer than 10th gen, and recommend AMD processors for best performance.",
+          "score": 8,
+          "created_utc": 1745610670.0,
+          "replies": [
+            {
+              "id": "mp2wfbp",
+              "author": "laffer1",
+              "body": "It\u2019s terrible for open source devs too. I have to write a thread director port and a new scheduler just because they made a crap e core? \n\nA 3950x and a 7900 (no x) smoke a 14700k on compiler workloads if you don\u2019t have thread director support. 6 minutes for the 7900, around 10 for the 3950x, 16 for the 14700k.  It\u2019s sad",
+              "score": 5,
+              "created_utc": 1745633943.0,
+              "replies": []
+            },
+            {
+              "id": "mp1dwpk",
+              "author": "i_suckatjavascript",
+              "body": "The AMD CPUs are efficient with power too. Paying for electricity in the Bay Area sucks ass when you got the local electric company constantly fucking you here.",
+              "score": 7,
+              "created_utc": 1745615206.0,
+              "replies": [
+                {
+                  "id": "mp2urif",
+                  "author": "ipwn3r456",
+                  "body": "Ah yes, you can always count on PG&E on bending you over everytime...",
+                  "score": 1,
+                  "created_utc": 1745633337.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moyokd3",
+      "author": "S1DC",
+      "body": "I never once wished my computer would AI better.",
+      "score": 83,
+      "created_utc": 1745586051.0,
+      "replies": [
+        {
+          "id": "mp0yf67",
+          "author": "CucumberError",
+          "body": "But the CoPilot button!",
+          "score": 14,
+          "created_utc": 1745610495.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "moz7w88",
+      "author": "GeneralLeeCurious",
+      "body": "1. Raptor Lake processor reputation was shot by the over voltage issue. The fix is in, but the reputations damage is done. That damage has finally resulted in massive price cuts and people are buying based on the cuts and fixes. \n\n2. Less than 1% of computer buyers give the slightest shit about running AI applications on their own PCs. They don\u2019t understand it. They don\u2019t want it. They don\u2019t trust it. Many don\u2019t like it.",
+      "score": 53,
+      "created_utc": 1745592212.0,
+      "replies": [
+        {
+          "id": "mp10ei1",
+          "author": "ABetterKamahl1234",
+          "body": "> Less than 1% of computer buyers give the slightest shit about running AI applications on their own PCs. They don\u2019t understand it. They don\u2019t want it. They don\u2019t trust it. Many don\u2019t like it.\n\nHonestly no. They don't understand it, they don't know why one would want it. Ultimately they don't *care*, unless they see a benefit directly to them.\n\nTons of people are skeptical and are critical of AI things, but damned if it's not going to be *the* everyday thing for people maybe even a decade from now where people ask \"why the fuck didn't we have this sooner\" like hyperthreading and multi-core became. \n\nIt's incredibly useful, wildly so. It's just not used very well as people try to figure it out. For example, frame gen is incredibly impressive for its age. Like goddamn it's impressive. It's not crazy amazing and accurate, but tons of tech is like that early on. \n\nI know this because so many tech improvements that became standard had tons of critics kicking and screaming about how awful it is/was. \n\nAI type things are in more than people even realize in their day to day.",
+          "score": -10,
+          "created_utc": 1745611102.0,
+          "replies": [
+            {
+              "id": "mp146db",
+              "author": "stemfish",
+              "body": "AI started three years ago. All the marketing tells me how generative AI will help every consumer transaction and usher in the future of commerce. Let's see where that ends up.\n\nEight years (late 2010s) ago everything was blockchain. How the ledger would help every consumer transaction and usher in the future of commerce. I mean, memecoins exist? \n\nAround 13 years (~early 2010s) ago everything was Big Data (and to an extent 3d printing, but that wasn't as hyped up). How collection of consumer habits and spending would help every consumer transaction and usher in the future of commerce. Our data got taken, but we get 2 day prime shipping.\n\n18 years ago (~late 2000s) everything was Social Media. How enabling users to directly interact would help every consumer transaction and usher in the future of commerce. We got facebook and X.\n\n23 years ago was (~early 2000s) in the crater of the dot com bust, Web 2.0 was going to put the power of the internet into all users, enabling everyone to set up their own online business, helping every customer transaction and usher in the future of commerce. Now the internet lives on a dozen sites.\n\n~28 years ago (late 1990s) the dot com craze actually transformed the future of commerce, and set in motion the desire to be in at the start of the wave that next takes the world and users in a new era. \n\nThe tech hype cycle has been in force since 1997. Every 5~ish years we get a new technology that blows the old cycle away and promises to upend and remake our world. AI has been around for a long while and was been integrated into systems long before OpenAI gave everyone access to text and image generators. Will AI manage to justify itself as a long term feature like the internet, or will it be subsumed by the next tech hype cycle in two to three years? Currently nobody can figure out how to make money off of generative AI and it sucks in money, power, and data to keep going. Not every company can continue that forever, just like how all the major companies moved on from blockchain tech to AI, and moved to blockchain from 'big data' and 3D-printing.",
+              "score": 15,
+              "created_utc": 1745612265.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moyijcg",
+      "author": "Edward_TH",
+      "body": "What big tech CEOs REALLY don't want to understand is that most \"AI\" tasks are divided in two categories: menial stuff and hardcore stuff. The former is what most end users do with AI, the latter is experimental stuff, research, training and server end model running.\n\n\nHardcore stuff requires expensive, very powerful dedicated hardware that's generally tailored to such uses and that's what AI data centers uses. They do not benefit our even care in the slightest if a consumer piece of hardware has some parts optimized to run a bunch of AI related algorithm because the do not use them. So an AI core on a desktop CPU doesn't sell to them.\n\n\nMenial stuff can be either computationally not that intense and can run on general purpose hardware or computationally intense and so is mostly done remotely on the servers mentioned before (which is what most people do). So to them they present the choice of a cheaper CPU that's powerful for everything or a more expensive CPU that's marginally more efficient at something the user almost never does and less powerful across the board.\n\n\nIntegrated AI cores on desktop CPUs are useless marketing garbage. Wanna justify the cost of development of those cores with a broader market? Develop a PCIe daughter board or similar dedicated to such tasks for those that asks for it. Oh wait, those already exists: it's called ASICs. Or GPUs, if you wanna spend a bit less (arguably) and have something with a broader use.",
+      "score": 41,
+      "created_utc": 1745583855.0,
+      "replies": [
+        {
+          "id": "moym3f7",
+          "author": "time-lord",
+          "body": "Aaaaaand we've just come full circle to math coprocessors.",
+          "score": 27,
+          "created_utc": 1745585186.0,
+          "replies": [
+            {
+              "id": "moys3zi",
+              "author": "t4thfavor",
+              "body": "Except math co-processors were and are still useful (are still because every cpu now has at least one built in).",
+              "score": 12,
+              "created_utc": 1745587270.0,
+              "replies": []
+            },
+            {
+              "id": "mozvtly",
+              "author": "CompromisedToolchain",
+              "body": "That\u2019s what the GPU has always been.",
+              "score": 3,
+              "created_utc": 1745599189.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "moynu9n",
+          "author": "Got2Bfree",
+          "body": "It completely depends on the software which combines with the local hardware.\n\nI'd love to have a LLM which has knowledge of my private files which I don't want to transfer to giga cooperations to be used as training data.\n\nFor coding it would also be awesome.\nI'm afraid a ASIC will be severely underpowered for that usecase.",
+          "score": 9,
+          "created_utc": 1745585799.0,
+          "replies": [
+            {
+              "id": "moytkb1",
+              "author": "Edward_TH",
+              "body": "That's my point: either you want to do easy crap (and you can easily do that on regular cores) or your want to do hard shit (and in this case no amount of desktop AI-optimized cores would fall in the \"consumer grade and price\" range).\n\n\nThese \"AI cores\" are built kinda like ASICs and, as you see, in the consumer market they're either affordable but borderline useless (CPU integrated cores) or very expensive and still pretty underpowered for actually demanding algorithms (for example nVidia Tensor Cores).\n\n\nRight now if you want to run your AI you either do it locally on regular but very high end hardware with super limited capabilities and long and tedious training for the models, do it locally on \"cheap CPU AI Cores\" with basically useless capabilities using super trimmed models that you didn't train anyway... or you use a cloud model that you didn't train and have almost 0 knowledge of your local data but it's capable and run on the proper hardware.",
+              "score": 9,
+              "created_utc": 1745587760.0,
+              "replies": [
+                {
+                  "id": "moz1oce",
+                  "author": "m0rogfar",
+                  "body": "While you aren\u2019t going to be running anything like ChatGPT on them, the built-in NPUs aren\u2019t useless due to a lack of use-cases. There\u2019s been plenty of use-cases for small purpose-built models on phones, and some of them also make sense on the desktop, as seen on macOS.\n\nThe big issue that makes them worthless on a PC is that the PC software ecosystem (excluding macOS) has nothing that uses them, because they\u2019ve never been there before, and most PC software isn\u2019t brand new projects that target only the latest hardware. I am somewhat sympathetic to the idea that you have to put new technologies into the chip before people use them to break the chicken-and-egg cycle though.",
+                  "score": 2,
+                  "created_utc": 1745590359.0,
+                  "replies": [
+                    {
+                      "id": "mp1sn1j",
+                      "author": "TooStrangeForWeird",
+                      "body": ">like ChatGPT\n\nhttps://www.reddit.com/r/selfhosted/s/6oZ6Mzb1aS",
+                      "score": 1,
+                      "created_utc": 1745620005.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "moywp25",
+                  "author": "Got2Bfree",
+                  "body": "There has to be a usecase for these cores.\n\nI can't imagine that nobody at Intel thought this through...",
+                  "score": 1,
+                  "created_utc": 1745588794.0,
+                  "replies": [
+                    {
+                      "id": "moz9xew",
+                      "author": "Edward_TH",
+                      "body": "There is a usecase, which is running certain type of algorithms. Those that techbros vaguely call \"AI\".\n\n\nThose algorithms are actually pretty simple so a processor can be made to be able to run ONLY those calculations pretty efficiently and a fair bit faster by stripping a regular core structure of anything that is not used for them and reinforcing the parts that get stressed more (I'm over simplifying). So why are those AI Cores so garbage in real world usage that people avoid them like the plague?\n\n\nBecause AI is much, MUCH more than the simple set of base instructions. What these cores lacks are DATA and TIME: the algorithms are not static code but it's code that takes data and a goal and tweak itself to achieve said goal by looking at the data it has. This is called training and for these algorithms to be able to do what YOU want, they need to be fed by you.\n\n\nAnd this training is an iterative process: every time you run it with new data it gets a little better at achieving the goal assigned, but to reach a point where it at least gets close enough to the goal you need to run it over and over again because the tweaks are basically changing a variable a bit and trying again. So you either run it sequentially or in parallel: sequentially you're limited by the time needed to actually run it and in parallel you're limited by how many cores you can run at the same time, so it's both.\n\n\nThese consumer cores aren't plentyful (since they need to fit into consumer hardware) enough to do the job alone, so 99.9% of the work is done on data center hardware anyway. And that would be acceptable, but the more you want your model to be fluid and accurate the more variable it needs to take into consideration when it runs.\n\n\nThat usually is done by the algorithm itself by creating new layers on its own to more precisely tweak itself (like, you get a car to learn to drive. At first you only have a switch as an accelerator so you either sit still or floor it, so you put in a second 4 ways switch and next time you try your car, you can sit still or go with the first and with the second tweak to 25/50/75/100 power so you have a bit more control. Next time, you add a third switch that can halve the actual power so you have now 3 layer with even finer control. AI training works roughly like that) but the more tweaks you have, the longer it takes to complete a single run, so these cores rely on trained model that have most of their granular control taken away to be able to run in a reasonable time.\n\n\nThese cores have use cases, but right now they're sparse, super low capabilities cores that can't run ACTUALLY useful model on their own because they are vastly too demanding for them. So they run models that are vastly overshadowed by cloud ones so people uses cloud ones because they work MUCH better. And people that try and run those same botched models but on general purpose cores or on GPUs found that they run basically identically with only a minimal hit to efficiency. So these cores serve no practical application as they stands.\n\n\n\nCPU AI Cores will be useful once they either will able to run models way too complex for general purposes cores efficiently or be VASTLY faster and more efficient with current botched ones than GP cores are. Once an AI core can run better with models that are 100-200 times than what GP can run, we can talk. Right now, they're a waste of space and a detrimental marketing gimmick.",
+                      "score": 5,
+                      "created_utc": 1745592807.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "moz2z4b",
+          "author": "Vargrr",
+          "body": "They aren't completely useless. Apparently if you get one, Windows Recall gets enabled. What's there not to like? /s",
+          "score": 3,
+          "created_utc": 1745590754.0,
+          "replies": []
+        },
+        {
+          "id": "mp1rtgl",
+          "author": "TooStrangeForWeird",
+          "body": ">the latter is experimental stuff, research, training and server end model running.\n\nThis is almost always machine learning and should not be confused with image generators or LLMs. All AI is machine learning, not all machine learning is AI.",
+          "score": 1,
+          "created_utc": 1745619723.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "moyvxsc",
+      "author": "leon27607",
+      "body": "On a personal level, I don\u2019t give a shit if it\u2019s AI or not, I just don\u2019t want it to either catch fire or fail within the first couple years because they make the chip degrade.",
+      "score": 5,
+      "created_utc": 1745588550.0,
+      "replies": []
+    },
+    {
+      "id": "mp3w7b6",
+      "author": "tommyk1210",
+      "body": "What intel doesn\u2019t seem to understand is that 99% of consumers actually don\u2019t give a shit about AI",
+      "score": 3,
+      "created_utc": 1745650348.0,
+      "replies": []
+    },
+    {
+      "id": "moyei1a",
+      "author": "iwonttolerateyou2",
+      "body": "But raptor also has a small npu or ai.",
+      "score": 6,
+      "created_utc": 1745582255.0,
+      "replies": []
+    },
+    {
+      "id": "mp5y94q",
+      "author": "eXodiquas",
+      "body": "AI is only widely used because the users don't have to pay the price to make it sustainable. As soon as customers have to pay the full price they think twice about how important and innovating AI is for their daily life.",
+      "score": 2,
+      "created_utc": 1745683457.0,
+      "replies": []
+    },
+    {
+      "id": "moyd9zn",
+      "author": "TJPII-2",
+      "body": "Just ordered a new computer and made damn secure it did not have an AI processor.",
+      "score": 10,
+      "created_utc": 1745581757.0,
+      "replies": [
+        {
+          "id": "moz2n69",
+          "author": "badabummbadabing",
+          "body": "Highly parallelized matrix multiplication is of the devil.",
+          "score": 10,
+          "created_utc": 1745590654.0,
+          "replies": []
+        },
+        {
+          "id": "moygbu7",
+          "author": "PresumedSapient",
+          "body": "> made damn secure\n\n\nThat's not a typo.",
+          "score": 8,
+          "created_utc": 1745582992.0,
+          "replies": [
+            {
+              "id": "moyit6m",
+              "author": "TJPII-2",
+              "body": "Lol. I\u2019ll leave it as is. Shouldn\u2019t be posting without my glasses.",
+              "score": 3,
+              "created_utc": 1745583960.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moydz71",
+      "author": "jacksonRR",
+      "body": "I just gave my old DDR4 machine its (probably) last update:\ni5 14600K for 200\u20ac, plus decent Mainboard for 100\u20ac.",
+      "score": 2,
+      "created_utc": 1745582043.0,
+      "replies": []
+    },
+    {
+      "id": "moyphr1",
+      "author": "orangpelupa",
+      "body": "So... Good news? As the article mentioned, raptor lake still being made by Intel fabs\n\u00a0Whole the new Ai intel chips were made by TSMC fabs",
+      "score": 2,
+      "created_utc": 1745586373.0,
+      "replies": []
+    },
+    {
+      "id": "moyvv7e",
+      "author": "FUTURE10S",
+      "body": "Has anyone even seen Intel's new chips in stock? I thought it was a paper launch.",
+      "score": 1,
+      "created_utc": 1745588526.0,
+      "replies": [
+        {
+          "id": "mp1zdos",
+          "author": "cjax2",
+          "body": "I've only seen the Ultra Core 7 256V and 258V(Lunar Lake) laptops in stock.",
+          "score": 1,
+          "created_utc": 1745622335.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mp1wpnh",
+      "author": "Tesla_V25",
+      "body": "lol it\u2019s like the CapSim simulator I did for my bachelors. They make the el cheapo chips now",
+      "score": 1,
+      "created_utc": 1745621416.0,
+      "replies": []
+    },
+    {
+      "id": "mp3icd6",
+      "author": "ShubhamDeshmukh",
+      "body": "Intel is limiting its losses by vastly limiting production of Meteor, Lunar, Arrow Lake because these are costly on TSMC. They are still driving volumes on Alder / Raptor because they are flooding the manufacturers with those low cost options for volume. Intel 7 (former Intel 10nm) began with 9th & 10th Gen CPUs, hence selling since 2019!\n\nBasically, Intel's volume production cycle of latest node/arch is now vastly skewed compared to old times. They marketed these new node/arch only to save their reputation in face of competition while this still being low volume & very high prices. Manufacturers hence are forced to sell older Raptor Lake due to the price difference. Also Intel brands' preference among public.\n\nIt's not that they cannot sell well.  And it has nothing to do with AI, that is coincidental.",
+      "score": 1,
+      "created_utc": 1745642885.0,
+      "replies": []
+    },
+    {
+      "id": "mp3p2g3",
+      "author": "Kellic",
+      "body": "Good.  The only people who give a crap about AI are folks who are all in on it, geek over it and like to play with it. (That is me.) or C-Suite a-holes who think if they scream AI enough times to inventors their stock price will go up.  Exhibit A:  [https://www.youtube.com/watch?v=-qbylbEek-M](https://www.youtube.com/watch?v=-qbylbEek-M)",
+      "score": 1,
+      "created_utc": 1745646398.0,
+      "replies": []
+    },
+    {
+      "id": "mp5t0m6",
+      "author": "Riversntallbuildings",
+      "body": "\u201cCloud & SAAS\u201d have essentially made most clients \u201cdumb terminals\u201d. Unless you\u2019re gaming, or doing high end video/photography or engineering work on a PC then the performance needs keep going down. \n\nI pay more for a \u201cclean OS\u201d and no adware/bloatware before paying more for a premium CPU.",
+      "score": 1,
+      "created_utc": 1745681815.0,
+      "replies": []
+    },
+    {
+      "id": "mp6um5v",
+      "author": "lerrigatto",
+      "body": "My laptop has an AI chip and I don't have any clue what to do with that. Nor I ever seen it used.",
+      "score": 1,
+      "created_utc": 1745693439.0,
+      "replies": []
+    },
+    {
+      "id": "mppojko",
+      "author": "jakgal04",
+      "body": "Oh you mean the chip that costs more to power Copilot, which costs $20/month? \n\nGee, who could have predicted that.",
+      "score": 1,
+      "created_utc": 1745954928.0,
+      "replies": []
+    },
+    {
+      "id": "moywcnh",
+      "author": "colonelc4",
+      "body": "There is no AI as you think of it, this is just the current hype, these LLM's are not thinking by themselves, we're not there yet and we won't unless we make sense of quantum computing to support the infinit power necessary to mimik a brain.",
+      "score": -2,
+      "created_utc": 1745588684.0,
+      "replies": []
+    },
+    {
+      "id": "moymhk5",
+      "author": "darkandark",
+      "body": "at some point in the future needing some kind of NPU it\u2019s just gonna be the default and absolutely necessary on any SoC or compute cluster for end users. Simple AI tasks will need to be run locally for security and speed. We don\u2019t see it now since the application part of AI is fairly limited and not widespread. But we will definitely get there.",
+      "score": -3,
+      "created_utc": 1745585326.0,
+      "replies": [
+        {
+          "id": "moyseo0",
+          "author": "t4thfavor",
+          "body": "\"Simple AI tasks will need to be run locally so that the results can be curated and shared with Intel, Meta, Microsoft, and Elon Musk\"",
+          "score": 5,
+          "created_utc": 1745587371.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

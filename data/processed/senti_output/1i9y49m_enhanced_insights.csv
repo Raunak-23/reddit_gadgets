@@ -1,0 +1,49 @@
+metric,value
+file,1i9y49m.csv
+title,"Apple Watch alert saves skier after falling 1,000 feet near Stevens Pass"
+rows,48
+num_posts,1
+num_comments,47
+unique_authors,38
+max_depth,4
+avg_comment_words,28.74
+median_comment_words,19.0
+max_comment_words,245
+positive_count,13
+negative_count,34
+neutral_count,0
+positive_pct,27.66
+negative_pct,72.34
+neutral_pct,0.0
+topic_1_keywords,"watch, snow, cell, one, like, apple, soft, drop"
+topic_1_label,apple and a drop of snow
+topic_2_keywords,"feet, broken, leg, 1000, falls, hmmm, suffers, people"
+topic_2_label,hmmm suffers from broken leg
+topic_3_keywords,"survived, slow, without, landing, falling, snow, feet, make"
+topic_3_label,a landing without landing and falling snow
+topic_4_keywords,"friend, yep, hood, mine, died, good, hear, air"
+topic_4_label,hood of mine died
+topic_5_keywords,"news, ad, thats, car, could, insurance, geico, save"
+topic_5_label,news ad for geico
+topic_6_keywords,"hood, mt, rescue, always, dude, real, meadows, sacrifices"
+topic_6_label,"hood, mt, rescue, always, dude, real, meadows"
+top_ngram_1,broken leg (11)
+top_ngram_2,mt hood (9)
+top_ngram_3,1000 feet (8)
+top_ngram_4,falls 1000 (7)
+top_ngram_5,feet suffers (7)
+top_ngram_6,suffers broken (7)
+top_ngram_7,leg hmmm (7)
+top_ngram_8,falls 1000 feet (7)
+top_ngram_9,1000 feet suffers (7)
+top_ngram_10,feet suffers broken (7)
+ner_1,Geico|ORG|4
+ner_2,Hood|ORG|3
+ner_3,Mt Hood|ORG|2
+ner_4,Cascade|ORG|2
+ner_5,##s|LOC|2
+ner_6,Washington|LOC|2
+ner_7,WW2|MISC|2
+ner_8,iBag Air|ORG|2
+ner_9,Mt Hood Meadows|ORG|2
+ner_10,Victoria Cillers|PER|2

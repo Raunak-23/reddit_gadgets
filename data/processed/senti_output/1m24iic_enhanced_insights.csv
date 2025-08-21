@@ -1,0 +1,49 @@
+metric,value
+file,1m24iic.csv
+title,"Apple's first foldable iPhone tipped to feature 7.8-inch display, A20 Pro chip, and 48MP cameras | iPhone Fold expected in 2026 at a near- 2,000USD price"
+rows,614
+num_posts,1
+num_comments,613
+unique_authors,404
+max_depth,9
+avg_comment_words,49.35
+median_comment_words,33.0
+max_comment_words,672
+positive_count,87
+negative_count,462
+neutral_count,64
+positive_pct,14.192
+negative_pct,75.367
+neutral_pct,10.44
+topic_1_keywords,"people, sub, screen, foldable, one, like, even, phone"
+topic_1_label,People like a screen and a screen
+topic_2_keywords,"iphone, im, apple, ipad, fold, like, ifold, really"
+topic_2_label,ifold ipad folds in ifold
+topic_3_keywords,"phone, phones, like, want, fold, dont, screen, iphone"
+topic_3_label,"like, dont, fold, don"
+topic_4_keywords,"im, one, apple, phone, phones, iphone, like, would"
+topic_4_label,I like one of my phone's
+topic_5_keywords,"fold, apple, phone, like, price, thats, something, iphone"
+topic_5_label,Apple likes to fold on a phone
+topic_6_keywords,"apple, one, foldable, innovation, iphone, first, thing, never"
+topic_6_label,Apple is not a foldable device
+top_ngram_1,foldable phones (35)
+top_ngram_2,pro max (25)
+top_ngram_3,2k nah (21)
+top_ngram_4,iphone fold (20)
+top_ngram_5,dont think (20)
+top_ngram_6,wants pay (19)
+top_ngram_7,sub called (19)
+top_ngram_8,one wants (18)
+top_ngram_9,one asked (17)
+top_ngram_10,ah yes (17)
+ner_1,Apple|ORG|179
+ner_2,iPhone|MISC|125
+ner_3,Samsung|ORG|72
+ner_4,iPad|MISC|48
+ner_5,i|MISC|25
+ner_6,F|MISC|20
+ner_7,Apple|MISC|18
+ner_8,iPhone Fold|MISC|11
+ner_9,Android|MISC|10
+ner_10,SE|MISC|10

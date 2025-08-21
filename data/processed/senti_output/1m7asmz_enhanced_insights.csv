@@ -1,0 +1,49 @@
+metric,value
+file,1m7asmz.csv
+title,The Nintendo Switch 2 Is the Fastest-Selling Gaming Hardware in U.S. History
+rows,935
+num_posts,1
+num_comments,934
+unique_authors,512
+max_depth,29
+avg_comment_words,72.69
+median_comment_words,54.0
+max_comment_words,853
+positive_count,167
+negative_count,671
+neutral_count,96
+positive_pct,17.88
+negative_pct,71.842
+neutral_pct,10.278
+topic_1_keywords,"nintendo, people, switch, dont, like, buy, would, company"
+topic_1_label,nintendo people don t like to buy a company
+topic_2_keywords,"games, play, one, ps5, dont, switch, get, ps4"
+topic_2_label,ps4 game is not a switch
+topic_3_keywords,"games, like, dont, switch, thats, still, would, im"
+topic_3_label,i would switch thats still
+topic_4_keywords,"like, console, im, would, dont, games, flop, nintendo"
+topic_4_label,flops in nintendo
+topic_5_keywords,"games, console, switch, people, nintendo, buy, like, one"
+topic_5_label,Switching to a console is a way to buy a game
+topic_6_keywords,"one, ps5, nintendo, stock, im, thats, find, first"
+topic_6_label,ps5 nintendo stock find first
+top_ngram_1,mario kart (71)
+top_ngram_2,impressive considering (44)
+top_ngram_3,considering titles (43)
+top_ngram_4,titles buy (43)
+top_ngram_5,buy right (43)
+top_ngram_6,impressive considering titles (43)
+top_ngram_7,considering titles buy (43)
+top_ngram_8,titles buy right (43)
+top_ngram_9,steam deck (37)
+top_ngram_10,assured would (35)
+ner_1,Nintendo|ORG|488
+ner_2,PS5|MISC|149
+ner_3,Switch 2|MISC|131
+ner_4,Switch|MISC|83
+ner_5,PC|MISC|47
+ner_6,PS4|MISC|44
+ner_7,PS|ORG|38
+ner_8,PS3|MISC|34
+ner_9,Reddit|ORG|33
+ner_10,Switch 1|MISC|33

@@ -1,0 +1,49 @@
+metric,value
+file,1mercz4.csv
+title,"As of June 30, 2025, Nintendo has sold 5.83 million Switch 2 units, and 153 million Nintendo Switch"
+rows,291
+num_posts,1
+num_comments,290
+unique_authors,141
+max_depth,15
+avg_comment_words,75.03
+median_comment_words,42.0
+max_comment_words,880
+positive_count,35
+negative_count,191
+neutral_count,64
+positive_pct,12.069
+negative_pct,65.862
+neutral_pct,22.069
+topic_1_keywords,"games, switch, people, nintendo, play, console, much, like"
+topic_1_label,Switching to a console is a great way to switch people
+topic_2_keywords,"cost, million, costs, distribution, game, inflation, sold, even"
+topic_2_label,"cost, million, game, inflation"
+topic_3_keywords,"switch, one, people, seen, know, like, time, buy"
+topic_3_label,i like to buy a switch
+topic_4_keywords,"games, switch, miserable, nintendo, make, money, video, would"
+topic_4_label,Switching to video games would make money
+topic_5_keywords,"game, games, nintendo, dont, think, im, buy, console"
+topic_5_label,nintendo dont buy a console
+topic_6_keywords,"like, games, nintendo, dont, money, get, market, people"
+topic_6_label,nintendo don't get money
+top_ngram_1,make money (30)
+top_ngram_2,video games (28)
+top_ngram_3,oled model (25)
+top_ngram_4,switch sold (24)
+top_ngram_5,buy switch (21)
+top_ngram_6,console games (21)
+top_ngram_7,dont know (20)
+top_ngram_8,switch cant (19)
+top_ngram_9,wont buy (17)
+top_ngram_10,wont buy switch (17)
+ner_1,Nintendo|ORG|107
+ner_2,Switch 2|MISC|61
+ner_3,Switch|MISC|59
+ner_4,Switch 1|MISC|20
+ner_5,US|LOC|18
+ner_6,N64|MISC|12
+ner_7,S|MISC|12
+ner_8,O|MISC|10
+ner_9,Mario 64|MISC|9
+ner_10,Mario|MISC|8

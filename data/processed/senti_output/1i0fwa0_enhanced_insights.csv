@@ -1,0 +1,49 @@
+metric,value
+file,1i0fwa0.csv
+title,Biden proposes new export controls on GPUs targeting China
+rows,42
+num_posts,1
+num_comments,41
+unique_authors,31
+max_depth,9
+avg_comment_words,75.95
+median_comment_words,56.0
+max_comment_words,262
+positive_count,9
+negative_count,32
+neutral_count,0
+positive_pct,21.951
+negative_pct,78.049
+neutral_pct,0.0
+topic_1_keywords,"tier, ai, us, gpus, china, companies, would, first"
+topic_1_label,gpuss first tier in china
+topic_2_keywords,"china, much, us, books, remember, semiconductors, hard, getting"
+topic_2_label,"China, many, hard to get"
+topic_3_keywords,"biden, administration, seeks, americas, control, jeopardy, right, restrict"
+topic_3_label,biden seeks americas to restrict the right to a right to a right to a right to a right to
+topic_4_keywords,"policy, really, nations, evil, idea, voting, unlikely, nature"
+topic_4_label,politics is not a political idea
+topic_5_keywords,"right, government, people, chips, world, rest, anyway, proposed"
+topic_5_label,a government is a party to the right of people to rest in the world
+topic_6_keywords,"china, us, hong, annex, taiwan, kong, lets, also"
+topic_6_label,"annex to china, taiwan, let"
+top_ngram_1,biden administration (9)
+top_ngram_2,hong kong (8)
+top_ngram_3,first tier (7)
+top_ngram_4,ai diffusion (6)
+top_ngram_5,diffusion rule (6)
+top_ngram_6,ai diffusion rule (6)
+top_ngram_7,administration seeks (6)
+top_ngram_8,biden administration seeks (6)
+top_ngram_9,many details (5)
+top_ngram_10,us china (5)
+ner_1,China|LOC|39
+ner_2,US|LOC|33
+ner_3,Taiwan|LOC|11
+ner_4,Hong Kong|LOC|8
+ner_5,Canada|LOC|6
+ner_6,US|MISC|6
+ner_7,Biden|PER|6
+ner_8,Americas|LOC|6
+ner_9,Biden Administration|ORG|6
+ner_10,Hong King|MISC|4

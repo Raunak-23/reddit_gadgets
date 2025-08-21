@@ -1,0 +1,389 @@
+{
+  "post": {
+    "title": "Biden proposes new export controls on GPUs targeting China",
+    "author": "a_Ninja_b0y",
+    "id": "1i0fwa0",
+    "score": 849,
+    "created_utc": 1736780566.0,
+    "selftext": "",
+    "num_comments": 49,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i0fwa0/biden_proposes_new_export_controls_on_gpus/"
+  },
+  "comments": [
+    {
+      "id": "m6xfo28",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1736780567.0,
+      "replies": []
+    },
+    {
+      "id": "m6ykdt2",
+      "author": "dr_magic_fingers",
+      "body": "From the link:  \"The Biden administration has unveiled its \u201cAI diffusion rule,\u201d which aims to restrict the export of GPUs that are most coveted for AI applications. Although it does not mention the nation by name, it's broadly viewed as a means to prevent China from outpacing the US in AI development.\n\nThe rule proposes three licensing tiers. The first tier is unrestricted and includes the domestic market as well as 18 strategic allies. The majority of countries fall into a second tier, which will have caps on how much compute power they can import via top GPUs from the US. The third tier includes China, Russia, Iran and North Korea, and effectively bars US companies from selling their most powerful GPUs there.\n\nUS-based companies would also be prevented from sharing many details of their AI software models with countries outside that first tier, and would need to ask permission from the federal government before building large data centers in any tier two nation.\"",
+      "score": 43,
+      "created_utc": 1736792722.0,
+      "replies": [
+        {
+          "id": "m702ghs",
+          "author": "sold_snek",
+          "body": "Too bad the US doesn't try as hard to boost education to keep us ahead as it does to limit access to anything.",
+          "score": 74,
+          "created_utc": 1736808614.0,
+          "replies": [
+            {
+              "id": "m70vlvz",
+              "author": "Reddit_Censorshipped",
+              "body": "Remember when Trump\u2019s edu pick was a pay-to-play scandal and was included in several books from people who left his own cabinet talking about how much of a threat he was to the country while refusing to testify to congress because telling them the contents of their books would hurt sales of said books?\n\nNo? Too much shit to remember each and every scandal? That\u2019s his plan.",
+              "score": 22,
+              "created_utc": 1736818280.0,
+              "replies": [
+                {
+                  "id": "m70wusv",
+                  "author": "Freya_gleamingstar",
+                  "body": "Steve Bannon said it best: \"flood the zone with bullshit to bury the story.\"",
+                  "score": 9,
+                  "created_utc": 1736818688.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m77lugn",
+              "author": "AgentOfSPYRAL",
+              "body": "Can\u2019t fix education through exec action, and we are a stupid nation who votes against our own interests when it comes to who controls the purse strings, so here we are I guess.",
+              "score": 1,
+              "created_utc": 1736909507.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m70pje5",
+          "author": "thefpspower",
+          "body": "This will backfire hard in the long run, China's SMIC used to suck balls at semiconductors, now they are getting heavy investment and getting closer much faster. \n\nJust like China mastered making cars and batteries after everyone sent manufacturing there, they will master semiconductors and become independent of the US.",
+          "score": 11,
+          "created_utc": 1736816286.0,
+          "replies": [
+            {
+              "id": "m72t550",
+              "author": "yuje",
+              "body": "Because China sees falling behind in technology as an existential threat. The last time they fell behind resulted in the Opium Wars and the Century of Humiliation. China is treating their domestic semiconductor industry as their Manhattan Project and throwing correspondingly vast resources and sums of money at it.",
+              "score": 12,
+              "created_utc": 1736850889.0,
+              "replies": []
+            },
+            {
+              "id": "m72r8eh",
+              "author": "HawkinsT",
+              "body": "Leading-edge logic chip manufacturing is far too specialised and globalised for China to be able to compete in any sort of near term. No country can manufacture these chips completely in-house (including the US), and what US sanctions do - more than preventing direct sales - is freeze China out of the global supply chain.\n\nEven with China pouring the required billions into this annually (at a time where the Chinese economy is slowing), they still can't produce the ultra-pure silicone, EUV lithography machines, EDA tools, or numerous other critical components. Each one of these might take a decade of investment to get to where we are now, by which point their global rivals have a decade more experience working with these chips, no longer have the overheads associated with a newly refitted fab, and will already be rolling out their newer, faster nodes.\n\nChip War by Chris Miller is a good, well researched book on this.",
+              "score": 8,
+              "created_utc": 1736849683.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m70djxk",
+      "author": "adt",
+      "body": "Really poor reporting.\n\nEngadet said: 'US-based companies would also be prevented from sharing **many details** of their AI software models with countries outside that first tier...'\n\nUS Gov actually said: '**Restricting the transfer to non-trusted actors of the model weights for advanced closed-weight models.**'\n\nSummary: AI labs can still publish papers with many details (all details). Microsoft just can't deploy GPT-5 servers in China.",
+      "score": 16,
+      "created_utc": 1736812286.0,
+      "replies": []
+    },
+    {
+      "id": "m6zjex8",
+      "author": "Onceforlife",
+      "body": "So this means more chips for the rest of the world and cheaper prices due to higher supply, right? right??",
+      "score": 51,
+      "created_utc": 1736802902.0,
+      "replies": [
+        {
+          "id": "m71nvvk",
+          "author": "red_simplex",
+          "body": "Only if by the rest of the world you mean like 2-3 corporations in states.",
+          "score": 10,
+          "created_utc": 1736827782.0,
+          "replies": []
+        },
+        {
+          "id": "m724ofh",
+          "author": "ChaZcaTriX",
+          "body": "Nah. Just server cards like H100 and B100 you wouldn't be able to buy anyway.",
+          "score": 3,
+          "created_utc": 1736835529.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m71p6p4",
+      "author": "MrCrunchies",
+      "body": "I myself welcome actual competition from chinese companies. Need someone to topple nvidia and stop the excessive pricing for consumer stuff",
+      "score": 5,
+      "created_utc": 1736828283.0,
+      "replies": []
+    },
+    {
+      "id": "m6znvvv",
+      "author": "Useful44723",
+      "body": "Nvidias official statement here:\n\nhttps://blogs.nvidia.com/blog/ai-policy/\n\n>That global progress is now in jeopardy. The Biden Administration now seeks to restrict access to mainstream computing applications with its unprecedented and misguided \u201cAI Diffusion\u201d rule, which threatens to derail innovation and economic growth worldwide.\n\n\n>In its last days in office, the Biden Administration seeks to undermine America\u2019s leadership with a 200+ page regulatory morass, drafted in secret and without proper legislative review. This sweeping overreach would impose bureaucratic control over how America\u2019s leading semiconductors, computers, systems and even software are designed and marketed globally.",
+      "score": 8,
+      "created_utc": 1736804203.0,
+      "replies": [
+        {
+          "id": "m6zoumx",
+          "author": "hardy_83",
+          "body": "When a giant company says something is on jeopardy, whatever it is they said, they really mean their profits and control.\n\nThey don't actually care if the consumer suffers. I mean it's Nvidia, they clearly don't already with their pricing models.",
+          "score": 41,
+          "created_utc": 1736804486.0,
+          "replies": []
+        },
+        {
+          "id": "m70g1su",
+          "author": "sometipsygnostalgic",
+          "body": "Man fuck nvidia for thinking they have a right to say what is the right choice for a government to make",
+          "score": 2,
+          "created_utc": 1736813126.0,
+          "replies": [
+            {
+              "id": "m71qm4p",
+              "author": "re_carn",
+              "body": "And who has the right?",
+              "score": 6,
+              "created_utc": 1736828853.0,
+              "replies": [
+                {
+                  "id": "m722jcb",
+                  "author": "Omegalazarus",
+                  "body": "The people, through government...",
+                  "score": -1,
+                  "created_utc": 1736834390.0,
+                  "replies": [
+                    {
+                      "id": "m724wzg",
+                      "author": "re_carn",
+                      "body": "Uh-huh, tell me that law was proposed by the people in question.",
+                      "score": 3,
+                      "created_utc": 1736835659.0,
+                      "replies": [
+                        {
+                          "id": "m76b6l2",
+                          "author": "Omegalazarus",
+                          "body": "It was, through government. \n\nIt's the people through government all the way down\n\n\nI mean you know it wasn't proposed by the business interest lobbyists because they're freaking the fuck out so who else is left?",
+                          "score": 1,
+                          "created_utc": 1736893777.0,
+                          "replies": [
+                            {
+                              "id": "m77e2cn",
+                              "author": "re_carn",
+                              "body": "Indeed, the most urgent topic for the common man: who cares about social medicine, for example - let's ban the export of neural networks and GPU!",
+                              "score": 5,
+                              "created_utc": 1736906755.0,
+                              "replies": [
+                                {
+                                  "id": "m77uk6i",
+                                  "author": "Omegalazarus",
+                                  "body": "Some of us believe so strongly in the international balance of power and the evil nature of some nations that we volunteered to put our life on the line at our physical prime, is the idea of voting to support a policy really that unlikely?",
+                                  "score": 1,
+                                  "created_utc": 1736912740.0,
+                                  "replies": [
+                                    {
+                                      "id": "m78u0rf",
+                                      "author": "re_carn",
+                                      "body": ">and the evil nature of some nations\n\nI hope you always have a pocket craniometer with you.\n\n>is the idea of voting to support a policy really that unlikely?\n\nNo, it's fine. Then you totally deserve your medical system.",
+                                      "score": 2,
+                                      "created_utc": 1736931385.0,
+                                      "replies": [
+                                        {
+                                          "id": "m79ufb0",
+                                          "author": "Omegalazarus",
+                                          "body": "If you are talking about the VA then hell yeah it is the greatest medical system. Totally free health care, They are very into preventative maintenance and they are not shy about performing surgeries if that is what is needed. I love it and I appreciate that you agree that I deserve it based on my military service.",
+                                          "score": 2,
+                                          "created_utc": 1736950095.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m72bin6",
+      "author": "MommersHeart",
+      "body": "China hasn\u2019t threatened to annex Canada or Greenland or Panama. It hasn\u2019t threatened to cripple Canada and Mexico with 25% across-the-board tariffs. \n\nWhy should the US continue to enjoy the goodwill support of the western world to control those chips when it is showing itself to be a bad faith actor?",
+      "score": 13,
+      "created_utc": 1736839475.0,
+      "replies": [
+        {
+          "id": "m73h6ym",
+          "author": "None",
+          "body": "Didn\u2019t China just take over Hong Kong against their will? Don\u2019t they want to annex Taiwan also against their will? Let\u2019s not talk like the US is the devil and everyone else in the world is all sunshine and rainbows.",
+          "score": -6,
+          "created_utc": 1736862455.0,
+          "replies": [
+            {
+              "id": "m73k6te",
+              "author": "MommersHeart",
+              "body": "I\u2019m Canadian so until China threatens to annex my country, I\u2019m no longer willing to look at the US as preferable. \n\nThe US is now just as nefarious as China and is the more imminent threat to my country.\n\nAlso Hong King was always agreed to revert back to Chinese control - British leased Hong King for 99 years in 1898. Last time I checked, Canada wasn\u2019t \u2019leased\u2019 from the US and China has not yet declared it will annex Taiwan.\n\nSo let\u2019s not pretend the US is not acting as a dangerous belligerent just because China is also a bad actor.",
+              "score": 7,
+              "created_utc": 1736863567.0,
+              "replies": [
+                {
+                  "id": "m73re3d",
+                  "author": "None",
+                  "body": "Im disregarding your first part because your feelings are irrelevant. \n\nWhile Hong Kong was a lease, China agreed to uphold a guarantee of \u201cone country two systems\u201d meaning that Hong Kong would retain its freedoms and the right to self govern. Spoiler Alert, China hasn\u2019t upheld that guarantee (plenty of articles for you research on this topic on the whats happening right now in Hong Kong).\nMaybe a few minutes of googling will  also help you understand how much danger Taiwan is right now. Your overly simple statement of \u201cChina not declaring Taiwan annexed yet\u201d reveals to me how you are missing the forest for the trees. \n\nEquating the US to China is equally ignorant, even though both of them have faults, only one  of them has an active concentration camp, China. Uyghur muslims being the target of their re-education centers. So let\u2019s not pretend that China with its active on going atrocities is equivalent morally to the US, in anyway.",
+                  "score": -9,
+                  "created_utc": 1736866106.0,
+                  "replies": [
+                    {
+                      "id": "m74fsrb",
+                      "author": "MommersHeart",
+                      "body": "You are making the argument China bad therefore America good. \n\nAmerica is threatening to use military force on allies, and annex its neighbours. \n\nPointing to China\u2019s use of prison camps is especially rich, given America has the 13th amendment, legalizing slavery with an incarceration rate many times higher than even China. \n\nAmerica once was a force for relative good in the world. Today, you wear the shame of rogue nations - threatening to invade and annex your peaceful neighbours and allies.",
+                      "score": 3,
+                      "created_utc": 1736873613.0,
+                      "replies": [
+                        {
+                          "id": "m74xiyg",
+                          "author": "None",
+                          "body": "[removed]",
+                          "score": -8,
+                          "created_utc": 1736878754.0,
+                          "replies": [
+                            {
+                              "id": "m7dd1u0",
+                              "author": "None",
+                              "body": "Tell me whens the last time China threatened to annex Canada?",
+                              "score": 1,
+                              "created_utc": 1736988154.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "m7enqy2",
+                              "author": "Light01",
+                              "body": "Someone is smelling his own farts.",
+                              "score": 1,
+                              "created_utc": 1737005828.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m72vi4a",
+      "author": "immersive-matthew",
+      "body": "Is this like the war on drugs?  You know where you work very hard to restrict supply, yet the demand seems to always find a way.",
+      "score": 1,
+      "created_utc": 1736852318.0,
+      "replies": []
+    },
+    {
+      "id": "m786hic",
+      "author": "TheCh0rt",
+      "body": "merciful summer governor plate heavy society snails voracious disarm selective\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+      "score": 1,
+      "created_utc": 1736917779.0,
+      "replies": []
+    },
+    {
+      "id": "m6z4pix",
+      "author": "fusionsofwonder",
+      "body": "Won't those countries be importing from Taiwan anyway?",
+      "score": 0,
+      "created_utc": 1736798612.0,
+      "replies": [
+        {
+          "id": "m70buvg",
+          "author": "SacredWoobie",
+          "body": "Nvidia is headquartered in California and therefore subject to US export controls",
+          "score": 12,
+          "created_utc": 1736811712.0,
+          "replies": []
+        },
+        {
+          "id": "m70b1x7",
+          "author": "jjayzx",
+          "body": "The chips are fabbed there and they don't own it, they provide a service. It goes by who owns it and where they are based from.",
+          "score": 2,
+          "created_utc": 1736811439.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m77kpni",
+      "author": "gamingsincepong",
+      "body": "Biden didn\u2019t do a damn thing. \n\nIsn\u2019t it funny how after Kamala Harris lost the race all of a sudden Biden is back in the news and on television.",
+      "score": 1,
+      "created_utc": 1736909103.0,
+      "replies": []
+    },
+    {
+      "id": "m71co01",
+      "author": "iEnj0y",
+      "body": "Jesus what is it 1 more week of this guy.",
+      "score": -6,
+      "created_utc": 1736823760.0,
+      "replies": []
+    },
+    {
+      "id": "m789w0j",
+      "author": "war-and-peace",
+      "body": "This move is essentially just handicapping nvidia. It has the effect of stifling profits to fund r&d that keeps american tech company's ahead of china's. It also provides a market for chinese semiconductors to fill in the gap as countries that aren't in lockstep with us foreign policy diversify due to risks.",
+      "score": 0,
+      "created_utc": 1736919441.0,
+      "replies": []
+    },
+    {
+      "id": "m79hlep",
+      "author": "timeforknowledge",
+      "body": "It's a short term solution that hits China in the short-term but forces them to adapt to increase their R&D and production of their own.\n\nIn the future they'll just dominate that market",
+      "score": 0,
+      "created_utc": 1736945072.0,
+      "replies": []
+    },
+    {
+      "id": "m6zzfbo",
+      "author": "heickelrrx",
+      "body": "So much the so called democratic system \ud83e\udee2\ud83e\udee2\ud83e\udee2",
+      "score": -18,
+      "created_utc": 1736807665.0,
+      "replies": [
+        {
+          "id": "m71qqvs",
+          "author": "re_carn",
+          "body": "Biden apparently decided to remember his youth and export control of encryption algorithms.",
+          "score": 3,
+          "created_utc": 1736828907.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

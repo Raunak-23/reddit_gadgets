@@ -1,0 +1,49 @@
+metric,value
+file,1hvvngn.csv
+title,"Good news, bad news: Pixel 4a getting an update, but it’s reduced battery life"
+rows,34
+num_posts,1
+num_comments,33
+unique_authors,23
+max_depth,7
+avg_comment_words,63.67
+median_comment_words,56.0
+max_comment_words,193
+positive_count,1
+negative_count,32
+neutral_count,0
+positive_pct,3.03
+negative_pct,96.97
+neutral_pct,0.0
+topic_1_keywords,"battery, phone, years, old, like, batteries, get, least"
+topic_1_label,"battery, phone, old, old, battery"
+topic_2_keywords,"years, apple, updates, pixel, get, three, planned, obsolescence"
+topic_2_label,Apple updates pixel and obsolescence
+topic_3_keywords,"battery, replacement, phones, new, dont, get, read, shortens"
+topic_3_label,battery replacement for phones
+topic_4_keywords,"post, right, android, supported, major, huh, ios, longest"
+topic_4_label,ios is the longest ios in the world
+topic_5_keywords,"thing, apple, literally, basically, got, evil, slapped, lawsuit"
+topic_5_label,Apples slapped in a lawsuit
+topic_6_keywords,"batteries, replace, battery, shit, year, 50, google, status"
+topic_6_label,Google replaces battery in shit year
+top_ngram_1,three years (9)
+top_ngram_2,battery replacement (8)
+top_ngram_3,planned obsolescence (7)
+top_ngram_4,battery life (6)
+top_ngram_5,free battery (6)
+top_ngram_6,years old (6)
+top_ngram_7,free battery replacement (6)
+top_ngram_8,basically literally (6)
+top_ngram_9,phone least (5)
+top_ngram_10,least three (5)
+ner_1,Apple|ORG|11
+ner_2,Google|ORG|8
+ner_3,Pixe|MISC|5
+ner_4,Android|MISC|3
+ner_5,Apple|MISC|2
+ner_6,Samsung|ORG|2
+ner_7,Slickdeals|ORG|2
+ner_8,iOS|MISC|2
+ner_9,Pixel 4a|MISC|2
+ner_10,Pixel|MISC|2

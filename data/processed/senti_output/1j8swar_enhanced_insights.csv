@@ -1,0 +1,49 @@
+metric,value
+file,1j8swar.csv
+title,"Asus introduces monitors with built-in air purifiers, because why not?"
+rows,129
+num_posts,1
+num_comments,128
+unique_authors,106
+max_depth,6
+avg_comment_words,40.8
+median_comment_words,29.5
+max_comment_words,287
+positive_count,18
+negative_count,110
+neutral_count,0
+positive_pct,14.062
+negative_pct,85.938
+neutral_pct,0.0
+topic_1_keywords,"time, around, air, one, purifier, website, sure, read"
+topic_1_label,a website that reads air purifiers
+topic_2_keywords,"like, makes, high, one, science, worry, cool, whine"
+topic_2_label,a science that makes a whine
+topic_3_keywords,"asus, air, small, monitor, monitors, gamers, says, dust"
+topic_3_label,A.S. monitors say dust
+topic_4_keywords,"air, filters, purifier, kind, anything, monitor, would, doesnt"
+topic_4_label,filtering a monitor
+topic_5_keywords,"filters, power, would, old, monitor, ones, ionic, need"
+topic_5_label,ionic filter needs power
+topic_6_keywords,"air, purifier, monitor, better, good, monitors, idea, much"
+topic_6_label,good monitors for a lot of air
+top_ngram_1,air purifier (23)
+top_ngram_2,requiring filters (12)
+top_ngram_3,monitors requiring (7)
+top_ngram_4,filters crazy (7)
+top_ngram_5,crazy kind (7)
+top_ngram_6,kind air (7)
+top_ngram_7,purifier worth (7)
+top_ngram_8,worth damn (7)
+top_ngram_9,damn doesnt (7)
+top_ngram_10,doesnt replaceable (7)
+ner_1,Asus|ORG|15
+ner_2,CC|ORG|5
+ner_3,California|LOC|3
+ner_4,ASUS|ORG|2
+ner_5,Air Ionizer|MISC|2
+ner_6,EU|ORG|2
+ner_7,##U|ORG|2
+ner_8,Tesla|MISC|2
+ner_9,An|MISC|1
+ner_10,##yson|ORG|1

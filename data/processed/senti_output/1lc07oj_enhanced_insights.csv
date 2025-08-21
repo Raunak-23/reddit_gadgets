@@ -1,0 +1,49 @@
+metric,value
+file,1lc07oj.csv
+title,Brain implant breakthrough helps ALS man talk – and sing – again
+rows,60
+num_posts,1
+num_comments,59
+unique_authors,55
+max_depth,4
+avg_comment_words,25.8
+median_comment_words,18.0
+max_comment_words,174
+positive_count,23
+negative_count,36
+neutral_count,0
+positive_pct,38.983
+negative_pct,61.017
+neutral_pct,0.0
+topic_1_keywords,"cyborg, thats, cant, say, talk, theres, default, nothing"
+topic_1_label,cyborg cant say anything
+topic_2_keywords,"cyborg, pacemaker, implants, double, cochlea, dad, als, basically"
+topic_2_label,"cyborg, cyborg, double, cochlea, dad"
+topic_3_keywords,"talk, sing, dont, im, get, people, cyborg, work"
+topic_3_label,cyborg 's talk about im and dont im
+topic_4_keywords,"als, thats, horrible, great, disease, people, locked, could"
+topic_4_label,a horrible disease can be a bad thing
+topic_5_keywords,"video, yeah, like, imagine, running, stop, guy, singer"
+topic_5_label,i think i'm running a video
+topic_6_keywords,"cyborg, dentures, artificial, question, become, one, point, maybe"
+topic_6_label,cyborg dentures become one point
+top_ngram_1,talk talk (8)
+top_ngram_2,maybe stupid (6)
+top_ngram_3,stupid question (6)
+top_ngram_4,question point (6)
+top_ngram_5,point one (6)
+top_ngram_6,one become (6)
+top_ngram_7,become cyborg (6)
+top_ngram_8,maybe stupid question (6)
+top_ngram_9,stupid question point (6)
+top_ngram_10,question point one (6)
+ner_1,ALS|MISC|5
+ner_2,AL|MISC|2
+ner_3,ALS|ORG|2
+ner_4,Windows|MISC|2
+ner_5,Justice League|ORG|2
+ner_6,AL|ORG|1
+ner_7,Arch|ORG|1
+ner_8,BlackRock Investments LLC|ORG|1
+ner_9,Black Mirror|ORG|1
+ner_10,Cyborg|MISC|1

@@ -1,0 +1,49 @@
+metric,value
+file,1mcb4a5.csv
+title,"Xbox is rolling out age verification in the UK with some social features blocked for young users, and no, you can't use Death Stranding to get around this one"
+rows,230
+num_posts,1
+num_comments,229
+unique_authors,162
+max_depth,8
+avg_comment_words,56.06
+median_comment_words,38.0
+max_comment_words,418
+positive_count,25
+negative_count,204
+neutral_count,0
+positive_pct,10.917
+negative_pct,89.083
+neutral_pct,0.0
+topic_1_keywords,"people, game, good, politicians, like, gamers, access, kids"
+topic_1_label,games and kids like to play
+topic_2_keywords,"kids, online, games, cant, dont, death, stranding, would"
+topic_2_label,stranding stranded in a secluded area
+topic_3_keywords,"already, people, one, something, xbox, uk, thing, verification"
+topic_3_label,xbox 's verification code is not valid
+topic_4_keywords,"age, nothing, children, bait, rage, ms, protecting, death"
+topic_4_label,"rage, rage, death"
+topic_5_keywords,"games, cod, gta, amount, going, reduce, isnt, customers"
+topic_5_label,gta 's gta 's gta 's gta 's
+topic_6_keywords,"uk, online, petitions, dont, xbox, games, age, live"
+topic_6_label,uk petitions don't play games online
+top_ngram_1,death stranding (28)
+top_ngram_2,isnt going (21)
+top_ngram_3,going dramatically (21)
+top_ngram_4,dramatically reduce (21)
+top_ngram_5,reduce amount (21)
+top_ngram_6,amount customers (21)
+top_ngram_7,customers games (21)
+top_ngram_8,games gta (21)
+top_ngram_9,gta cod (21)
+top_ngram_10,isnt going dramatically (21)
+ner_1,UK|LOC|71
+ner_2,Xbox|ORG|31
+ner_3,US|LOC|27
+ner_4,GTA|MISC|26
+ner_5,Sony|ORG|20
+ner_6,Microsoft|ORG|18
+ner_7,EU|ORG|16
+ner_8,CoD|MISC|12
+ner_9,Nintendo|ORG|8
+ner_10,Red|MISC|8

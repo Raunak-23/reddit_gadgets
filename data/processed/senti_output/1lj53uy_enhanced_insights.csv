@@ -1,0 +1,49 @@
+metric,value
+file,1lj53uy.csv
+title,Fairphone 6 is switching to a new design that's even more sustainable
+rows,28
+num_posts,1
+num_comments,27
+unique_authors,24
+max_depth,3
+avg_comment_words,50.04
+median_comment_words,36.0
+max_comment_words,140
+positive_count,2
+negative_count,25
+neutral_count,0
+positive_pct,7.407
+negative_pct,92.593
+neutral_pct,0.0
+topic_1_keywords,"headphone, jack, like, selling, overpriced, started, headphones, removed"
+topic_1_label,jacks are sold overpriced
+topic_2_keywords,"phone, would, really, like, solution, whole, problem, issues"
+topic_2_label,phone would really like a solution to problems
+topic_3_keywords,"switched, also, saying, selling, would, project, concept, know"
+topic_3_label,a switch on a concept
+topic_4_keywords,"jack, sd, know, slot, thus, mony, least, interest"
+topic_4_label,"jack sd , sd , mony"
+topic_5_keywords,"really, bios, takes, hope, concept, mention, issues, glad"
+topic_5_label,idk idk idk idk idk idk idk
+topic_6_keywords,"issues, software, hardware, support, bios, framework, im, phone"
+topic_6_label,"software issues, hardware, support, phone"
+top_ngram_1,headphone jack (5)
+top_ngram_2,like coincidentally (4)
+top_ngram_3,coincidentally started (4)
+top_ngram_4,started selling (4)
+top_ngram_5,selling overpriced (4)
+top_ngram_6,overpriced wireless (4)
+top_ngram_7,wireless headphones (4)
+top_ngram_8,headphones removed (4)
+top_ngram_9,removed headphone (4)
+top_ngram_10,like coincidentally started (4)
+ner_1,Fairphone 4|MISC|5
+ner_2,Framework|ORG|4
+ner_3,Framework|MISC|2
+ner_4,Fairphone 5|MISC|2
+ner_5,Google|ORG|2
+ner_6,America|LOC|1
+ner_7,AMD|ORG|1
+ner_8,##lus|ORG|1
+ner_9,Ara|ORG|1
+ner_10,FP5|MISC|1

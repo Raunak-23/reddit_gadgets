@@ -1,0 +1,49 @@
+metric,value
+file,1m16w9j.csv
+title,Huawei Tops China Smartphone Market for First Time in Years
+rows,45
+num_posts,1
+num_comments,44
+unique_authors,34
+max_depth,4
+avg_comment_words,61.09
+median_comment_words,52.5
+max_comment_words,242
+positive_count,2
+negative_count,42
+neutral_count,0
+positive_pct,4.545
+negative_pct,95.455
+neutral_pct,0.0
+topic_1_keywords,"huawei, increasingly, removed, company, found, device, phone, nothing"
+topic_1_label,huawei removed from company
+topic_2_keywords,"us, people, calling, nationalism, china, also, represents, even"
+topic_2_label,China is also a country that represents nationalism
+topic_3_keywords,"country, fanatic, nationalist, brand, also, fuck, compete, represents"
+topic_3_label,country fucks nationalist brand
+topic_4_keywords,"banned, market, chinese, 100, also, enter, time, countries"
+topic_4_label,China banned in market
+topic_5_keywords,"phone, even, ive, great, point, really, honestly, trifold"
+topic_5_label,i think i'm a trifold
+topic_6_keywords,"use, phone, better, caught, videos, dont, great, ratio"
+topic_6_label,video video with better phone and better camera
+top_ngram_1,ive tried (12)
+top_ngram_2,tried trifold (12)
+top_ngram_3,trifold phone (12)
+top_ngram_4,phone really (12)
+top_ngram_5,really thin (12)
+top_ngram_6,thin feels (12)
+top_ngram_7,feels great (12)
+top_ngram_8,great hand (12)
+top_ngram_9,hand honestly (12)
+top_ngram_10,honestly idea (12)
+ner_1,China|LOC|12
+ner_2,US|LOC|10
+ner_3,Apple|ORG|6
+ner_4,Chinese|MISC|5
+ner_5,Huawei|ORG|3
+ner_6,CCP|ORG|3
+ner_7,Americans|MISC|3
+ner_8,chinese|MISC|3
+ner_9,American|MISC|3
+ner_10,##ei|ORG|2

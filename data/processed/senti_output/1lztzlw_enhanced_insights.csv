@@ -1,0 +1,49 @@
+metric,value
+file,1lztzlw.csv
+title,"Leaked pricing suggests the ROG Xbox Ally X might be the most expensive Xbox console yet, €599 for ROG Ally and €899 for ROG Ally X"
+rows,249
+num_posts,1
+num_comments,248
+unique_authors,151
+max_depth,12
+avg_comment_words,61.95
+median_comment_words,52.0
+max_comment_words,474
+positive_count,24
+negative_count,224
+neutral_count,0
+positive_pct,9.677
+negative_pct,90.323
+neutral_pct,0.0
+topic_1_keywords,"console, xbox, handheld, microsoft, isnt, expensive, pc, lol"
+topic_1_label,"microsoft xbox, microsoft pc, isnt, pc"
+topic_2_keywords,"xbox, games, play, pc, microsoft, people, cant, going"
+topic_2_label,"xbox games, games, pc, microsoft"
+topic_3_keywords,"xbox, games, branding, think, like, make, people, money"
+topic_3_label,"xbox games, branding, like"
+topic_4_keywords,"steam, deck, us, windows, handheld, prices, much, line"
+topic_4_label,"Steam, deck, windows, handheld, prices, much"
+topic_5_keywords,"handheld, xbox, console, pc, price, pricing, gaming, laptop"
+topic_5_label,"Xbox, xbox, console, pc, price, gaming, laptop"
+topic_6_keywords,"games, xbox, literally, quest, think, used, doesnt, cpugpu"
+topic_6_label,xbox games : cpugpu
+top_ngram_1,xbox games (62)
+top_ngram_2,play xbox (46)
+top_ngram_3,xbox console (35)
+top_ngram_4,handheld pc (35)
+top_ngram_5,play xbox games (33)
+top_ngram_6,steam deck (28)
+top_ngram_7,gaming laptop (21)
+top_ngram_8,isnt xbox (21)
+top_ngram_9,xbox name (18)
+top_ngram_10,handheld supposed (17)
+ner_1,Xbox|MISC|224
+ner_2,Xbox|ORG|133
+ner_3,Microsoft|ORG|55
+ner_4,Nintendo|ORG|27
+ner_5,PC|MISC|22
+ner_6,Windows|MISC|20
+ner_7,Asus|ORG|17
+ner_8,Switch 2|MISC|15
+ner_9,Steam Deck|ORG|12
+ner_10,US|LOC|11

@@ -1,0 +1,49 @@
+metric,value
+file,1hh0wr7.csv
+title,"After decades of talk, Seagate seems ready to actually drop the HAMR hard drives | At least one gigantic cloud provider has signed off on the drives' viability."
+rows,80
+num_posts,1
+num_comments,79
+unique_authors,56
+max_depth,7
+avg_comment_words,92.29
+median_comment_words,52.0
+max_comment_words,380
+positive_count,7
+negative_count,72
+neutral_count,0
+positive_pct,8.861
+negative_pct,91.139
+neutral_pct,0.0
+topic_1_keywords,"mc, confused, thats, name, burrell, stanley, kirk, else"
+topic_1_label,mc confused with stanley kirk
+topic_2_keywords,"cloud, lost, data, arrays, large, matter, provider, drives"
+topic_2_label,data lost in cloud
+topic_3_keywords,"see, also, would, one, could, time, use, used"
+topic_3_label,could be used in a time
+topic_4_keywords,"drive, drop, key, data, costs, like, sorts, deletion"
+topic_4_label,data and data : data and data deletion
+topic_5_keywords,"drive, hamr, seagate, magnetic, customers, soon, data, drives"
+topic_5_label,Seagate drives data and drive data
+topic_6_keywords,"drive, drives, data, even, time, massive, wipe, rates"
+topic_6_label,data and rates wipe data
+top_ngram_1,cloud provider (20)
+top_ngram_2,cloud matter (18)
+top_ngram_3,file system (14)
+top_ngram_4,data centers (13)
+top_ngram_5,stanley kirk (11)
+top_ngram_6,kirk burrell (11)
+top_ngram_7,stanley kirk burrell (11)
+top_ngram_8,replace nothing (11)
+top_ngram_9,major cloud (11)
+top_ngram_10,major cloud provider (11)
+ner_1,Seagate|ORG|24
+ner_2,Mozaic 3|MISC|10
+ner_3,##ell|ORG|5
+ner_4,Amazon Web Services Google Cloud|ORG|5
+ner_5,Stanley Kirk Burr|PER|5
+ner_6,MC Hammer|ORG|5
+ner_7,Stanley Kirk Burrell|PER|4
+ner_8,MAMR|MISC|3
+ner_9,MDisc|ORG|3
+ner_10,Google|ORG|3

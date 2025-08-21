@@ -1,0 +1,49 @@
+metric,value
+file,1llt1im.csv
+title,OnePlus Watch 3 Gets Smaller Size Because Not Everybody Has Hulk Wrists
+rows,52
+num_posts,1
+num_comments,51
+unique_authors,42
+max_depth,4
+avg_comment_words,44.84
+median_comment_words,40.0
+max_comment_words,137
+positive_count,13
+negative_count,38
+neutral_count,0
+positive_pct,25.49
+negative_pct,74.51
+neutral_pct,0.0
+topic_1_keywords,"price, catch, solar, garmin, like, cheaper, thats, sale"
+topic_1_label,i like to catch a solar powered car
+topic_2_keywords,"rate, heart, back, one, bring, makes, set, feature"
+topic_2_label,"heart rate, back, one, set"
+topic_3_keywords,"oh, battery, weather, notifications, health, well, smaller, lasts"
+topic_3_label,battery life for oh
+topic_4_keywords,"watch, garmin, like, one, lasts, watches, dont, days"
+topic_4_label,watch garmin watches in the days
+topic_5_keywords,"thick, thats, 118, mm, ultra, wear, yeah, smallest"
+topic_5_label,smallest ultra sleeve in the world
+topic_6_keywords,"huge, faces, large, 43mm, people, thats, wrists, smart"
+topic_6_label,big faces and wrists
+top_ngram_1,battery life (10)
+top_ngram_2,strapped wrist (8)
+top_ngram_3,special like (7)
+top_ngram_4,like garmin (7)
+top_ngram_5,garmin several (7)
+top_ngram_6,several watches (7)
+top_ngram_7,watches similar (7)
+top_ngram_8,similar specs (7)
+top_ngram_9,specs battery (7)
+top_ngram_10,life pricing (7)
+ner_1,##arm|ORG|11
+ner_2,##armin|ORG|8
+ner_3,##in 5S|MISC|4
+ner_4,Temu|ORG|4
+ner_5,G|MISC|4
+ner_6,We|MISC|3
+ner_7,One|MISC|3
+ner_8,One Plus|MISC|3
+ner_9,Smart Watches|MISC|2
+ner_10,##ar|ORG|2

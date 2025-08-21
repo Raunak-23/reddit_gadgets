@@ -1,0 +1,49 @@
+metric,value
+file,1lpw0w3.csv
+title,"Synology starts selling overpriced 1.6 TB SSDs for $535 — self-branded, archaic PCIe 3.0 SSDs the only option to meet 'certified' criteria"
+rows,47
+num_posts,1
+num_comments,46
+unique_authors,44
+max_depth,4
+avg_comment_words,43.85
+median_comment_words,31.5
+max_comment_words,167
+positive_count,8
+negative_count,38
+neutral_count,0
+positive_pct,17.391
+negative_pct,82.609
+neutral_pct,0.0
+topic_1_keywords,"storage, direct, computer, enclosures, hdds, attach, mini, mac"
+topic_1_label,hdds attach mini to computer
+topic_2_keywords,"synology, im, drive, 100, markup, would, time, run"
+topic_2_label,synology drives 100 miles a day
+topic_3_keywords,"nas, hardware, get, never, bought, money, synology, price"
+topic_3_label,nas hardware gets no money
+topic_4_keywords,"enterprise, gear, pro, theyre, value, well, didnt, fine"
+topic_4_label,enterprise gear and pro theyre value
+topic_5_keywords,"pcie, cost, ago, around, decade, remember, drive, storage"
+topic_5_label,pcie cost a decade and remembers drive
+topic_6_keywords,"nas, synology, go, stuff, getting, thinking, coming, leaning"
+topic_6_label,nas & nas & nas & nas & nas
+top_ngram_1,go instead (6)
+top_ngram_2,instead ive (6)
+top_ngram_3,ive thinking (6)
+top_ngram_4,thinking getting (6)
+top_ngram_5,getting nas (6)
+top_ngram_6,nas setup (6)
+top_ngram_7,setup going (6)
+top_ngram_8,going leaning (6)
+top_ngram_9,leaning towards (6)
+top_ngram_10,towards synology (6)
+ner_1,NAS|ORG|13
+ner_2,Synology|ORG|4
+ner_3,TrueNAS|ORG|4
+ner_4,##dit|ORG|2
+ner_5,Unraid|ORG|2
+ner_6,USB|MISC|2
+ner_7,Red Pro|MISC|2
+ner_8,WD|ORG|2
+ner_9,Seagate|ORG|2
+ner_10,S|MISC|2

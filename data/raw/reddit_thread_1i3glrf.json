@@ -1,0 +1,526 @@
+{
+  "post": {
+    "title": "Apple Watch saves man after upside down car crash into pool",
+    "author": "chrisdh79",
+    "id": "1i3glrf",
+    "score": 720,
+    "created_utc": 1737121351.0,
+    "selftext": "",
+    "num_comments": 64,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i3glrf/apple_watch_saves_man_after_upside_down_car_crash/"
+  },
+  "comments": [
+    {
+      "id": "m7mjufx",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1737121351.0,
+      "replies": []
+    },
+    {
+      "id": "m7molgi",
+      "author": "chrisdh79",
+      "body": "From the article: The Apple Watch has been credited with saving another life, with a man crediting the device for summoning help after his car crashed, leaving him submerged upside down in a pool.\n\nOn December 16, Brent Hill of Easthampton, MA was driving his car home but felt nauseous behind the wheel. While he doesn't remember what happened next due to blacking out, his Apple Watch stepped in to help in the following moments.\n\nCamera footage from a neighbor shows Hill's car accelerating into their garage and into the neighbor's swimming pool, landing upside down, [reports](https://www.westernmassnews.com/2025/01/16/easthampton-man-credits-apple-watch-helping-save-his-life/) WesternMassNews.\n\nIt is assumed that Hill's weight shifted after he blacked out, placing more weight on the accelerator.\n\n\"I didn't know any of this was going on,\" Hill admits.\n\n\"When I saw the footage of my car careening down the street and crashing, I was shocked because of how fast I was going.\"\n\nThe next memory Hill has of the misadventure is regaining consciousness thanks to a small voice speaking to him. Apple Watch Crash Detection called emergency services automatically, and an operator was trying to speak to him.\n\n\"If emergency services had not contacted me through that watch and just coached me through that, there's no way I would've got out of there,\" he adds.\n\nWithin minutes, responders arrived to rescue him. He could barely hear any of the people outside the car, but the Apple Watch voice helped him.",
+      "score": 174,
+      "created_utc": 1737123028.0,
+      "replies": [
+        {
+          "id": "m7nl7c8",
+          "author": "KyberKrystalParty",
+          "body": "Thank you for this comment. I\u2019ll piggyback here and just ask if anyone can explain how the watch works to do all of this? I couldn\u2019t imagine the battery would last long enough to even be there for me at the end of a work day.",
+          "score": 44,
+          "created_utc": 1737132943.0,
+          "replies": [
+            {
+              "id": "m7nol2r",
+              "author": "lolhi1122",
+              "body": "Battery life is like 18-20 hours with normal use, cellular watch so it can work independently of a phone, it can detect when your driving and go into an extreme slowdown so likely a crash, it will first prompt you if you need 911 if you don't respond it will auto dial, they did have an issue with people on roller coasters were causing it to trigger the 911 call I believe they made a fix for that",
+              "score": 72,
+              "created_utc": 1737133921.0,
+              "replies": [
+                {
+                  "id": "m7nox18",
+                  "author": "KyberKrystalParty",
+                  "body": "Nice! There must be some crazy gyroscope and G-force type of sensors in there. All very interesting stuff.",
+                  "score": 28,
+                  "created_utc": 1737134018.0,
+                  "replies": [
+                    {
+                      "id": "m7nyk1x",
+                      "author": "unakron",
+                      "body": "6 axis gyro and acceleromators cost about 4 bucks for you and i to buy and interact with diy hobby arduino projects easily.",
+                      "score": 37,
+                      "created_utc": 1737136785.0,
+                      "replies": [
+                        {
+                          "id": "m7qzhwx",
+                          "author": "SpicyRice99",
+                          "body": "The power of MEMS and mass production!",
+                          "score": 6,
+                          "created_utc": 1737172415.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m7po7yl",
+                      "author": "TheDeadTyrant",
+                      "body": "When my (now wife) and I were just starting out dating, she had her watch or phone on top of a table on the pontoon boat we took out on the river. Wild blew it over, and unbeknownst to us, texted her emergency contacts her location and that she might be in trouble. \n\nThe location showed the middle of a river. Needless to see when she checked her phone a few hours later with some very worried text messages. Fun way to tell your family you\u2019re dating someone haha.",
+                      "score": 5,
+                      "created_utc": 1737155266.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m7qt4pf",
+                      "author": "Forte69",
+                      "body": "I believe it looks for sudden changes to heart rate and other vitals too.",
+                      "score": 5,
+                      "created_utc": 1737169864.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m7p2ddm",
+                      "author": "djk29a_",
+                      "body": "For a while people riding roller coasters were accidentally calling 911. I believe emergency services get some sort of contextual data when notified via an Apple Watch so they know what to look for. I\u2019m sure there\u2019s been software improvements to check for known coasters and other thrill rides where this kind of rapid movement and jerking around is expected",
+                      "score": 5,
+                      "created_utc": 1737148451.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m7qr28d",
+                  "author": "Dfiggsmeister",
+                  "body": "It also notifies your emergency contact list and sends out an alert that something is wrong with you. I learned that one the hard way.",
+                  "score": 7,
+                  "created_utc": 1737169064.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7qgmyt",
+                  "author": "None",
+                  "body": "It detects impacts, too. She ran over her phone after leaving it on top of her car, and it texted me that she was in an accident.",
+                  "score": 4,
+                  "created_utc": 1737165158.0,
+                  "replies": []
+                },
+                {
+                  "id": "m7q9pcu",
+                  "author": "Hushwater",
+                  "body": "Let's hope nobody has an accident on a rollercoaster.",
+                  "score": 3,
+                  "created_utc": 1737162653.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7npnhk",
+              "author": "TheTrueReligon",
+              "body": "From my understanding the watches and some iPhones have an accelerometer that detects when there\u2019s been a sudden stop in motion, such as someone falling or crashing their car, and pops up a notification that a fall or crash has been detected. For crashes I believe it differentiates that from falling based on GPS movement. If you don\u2019t clear the notification letting it know you\u2019re all good then it will automatically call emergency services.",
+              "score": 13,
+              "created_utc": 1737134235.0,
+              "replies": [
+                {
+                  "id": "m7onu1e",
+                  "author": "Candle1ight",
+                  "body": "Android has a similar feature, also will give your emergency contacts info like where you are or if you've called 911.\n\nSince gravity is a constant it should be pretty easy for them to differentiate a drop, basically see if the sudden stop was after a constant acceleration of 9.8m/s or not.",
+                  "score": 3,
+                  "created_utc": 1737144101.0,
+                  "replies": [
+                    {
+                      "id": "m7qt95y",
+                      "author": "Forte69",
+                      "body": "But if you fall over and hit your head, you\u2019re still falling at 9.8m/s",
+                      "score": 1,
+                      "created_utc": 1737169912.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m7sitjc",
+                  "author": "BlahBlahBlackCheap",
+                  "body": "Interesting, I have had it fall detect for me after taking a spill off a step ladder, but not when I dropped the watch and it bounced off the coffee table. I guess it knows or takes into account it it\u2019s being worn or not.",
+                  "score": 1,
+                  "created_utc": 1737203214.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7o22i2",
+              "author": "reddit455",
+              "body": "almost no battery is required to \"listen to\" accelerometers.\n\n\n\n**Manage Fall Detection on Apple\u00a0Watch**\n\n[https://support.apple.com/guide/watch/manage-fall-detection-apd34c409704/watchos](https://support.apple.com/guide/watch/manage-fall-detection-apd34c409704/watchos)\n\n\n\n**Turn Crash Detection on or off**\n\n[https://support.apple.com/guide/watch/manage-crash-detection-apd3a60b5576/watchos](https://support.apple.com/guide/watch/manage-crash-detection-apd3a60b5576/watchos)\n\n  \n**bike helmets can give your location in the event of a crash....** \n\n[https://www.abus.com/usa/Products/Blogs/Smart-tech/Smart-bike-helmets](https://www.abus.com/usa/Products/Blogs/Smart-tech/Smart-bike-helmets)\n\n\n\n**Your Pixel Watch 2 is ready to help when you crash your bike or wreck your car**\n\n[https://www.androidpolice.com/google-pixel-watch-2-bike-car-crash-detection-june-feature-drop/](https://www.androidpolice.com/google-pixel-watch-2-bike-car-crash-detection-june-feature-drop/)",
+              "score": 6,
+              "created_utc": 1737137795.0,
+              "replies": []
+            },
+            {
+              "id": "m7ntion",
+              "author": "itsalongwalkhome",
+              "body": "The watches have the ability to underclock (or possibly switch to a low power processor) themselves when not in use so that only very basic functionality is running, sensor events, time, waiting for signal from phone. When it detects an event it takes up and actually does the processing it needs to.",
+              "score": 3,
+              "created_utc": 1737135351.0,
+              "replies": []
+            },
+            {
+              "id": "m7ob69u",
+              "author": "DarkFate13",
+              "body": "I use an Apple Watch Ultra 2 this battery goes 24 hours+",
+              "score": 3,
+              "created_utc": 1737140399.0,
+              "replies": []
+            },
+            {
+              "id": "m7qvfkk",
+              "author": "PrivateUseBadger",
+              "body": "My 1+ year old Applewatch Ultra lasts 1.5-2 days without needing charged, depending on my activity level at work. I tend to have 50% or higher battery when I end my day. That\u2019s with GPS and cellular capabilities and having the face automatically turn on with wrist up motion.",
+              "score": 2,
+              "created_utc": 1737170766.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m7rdbha",
+          "author": "fallensoap1",
+          "body": "Sold I\u2019m definitely getting one soon",
+          "score": 2,
+          "created_utc": 1737178674.0,
+          "replies": [
+            {
+              "id": "m7zp8no",
+              "author": "None",
+              "body": "I like the fitness tracking, heart rate monitor, and it shows you your texts. \nI love my watch, oh and sitting on the toilet and it rings. Lol",
+              "score": 2,
+              "created_utc": 1737299826.0,
+              "replies": [
+                {
+                  "id": "m89ykwh",
+                  "author": "fallensoap1",
+                  "body": "Oh tracking heart rate is cool. Definitely getting it for that too and I\u2019ll be obsessed with that feature",
+                  "score": 1,
+                  "created_utc": 1737424970.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8qx8pj",
+          "author": "koolaidismything",
+          "body": "\u2026what about the guys house and pool that got driven through?",
+          "score": 1,
+          "created_utc": 1737650034.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7myc68",
+      "author": "one-two-ten",
+      "body": "Ok, but why was he driving an upside down car near a pool?",
+      "score": 62,
+      "created_utc": 1737126230.0,
+      "replies": [
+        {
+          "id": "m7mzafd",
+          "author": "jrgkgb",
+          "body": "He was in the car-pool lane, obviously.",
+          "score": 76,
+          "created_utc": 1737126524.0,
+          "replies": [
+            {
+              "id": "m7nwc8r",
+              "author": "FauxReal",
+              "body": "Still shouldn't have been driving an Australian car in the United States.",
+              "score": 8,
+              "created_utc": 1737136159.0,
+              "replies": []
+            },
+            {
+              "id": "m7pm8m8",
+              "author": "sf-keto",
+              "body": "I see what you did there. Have my r/angryupvote",
+              "score": 2,
+              "created_utc": 1737154603.0,
+              "replies": []
+            },
+            {
+              "id": "m7nlgkx",
+              "author": "Seven_bushes",
+              "body": "You win Reddit for the day. Well done!",
+              "score": 4,
+              "created_utc": 1737133015.0,
+              "replies": [
+                {
+                  "id": "m7olnzb",
+                  "author": "rosen380",
+                  "body": "Back in my day you won the whole internet... but I suppose the internet is bigger now, so some \"regional\" winners makes sense :)",
+                  "score": 2,
+                  "created_utc": 1737143468.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7nkw0y",
+              "author": "thatsnotyourtaco",
+              "body": "Fantastic",
+              "score": 3,
+              "created_utc": 1737132855.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7od17u",
+      "author": "BeckyLouBob",
+      "body": "I took a hard fall and was briefly knocked out. When I came to a voice on my Apple Watch said \u201cthis is EMS, do need assistance?\u201d. I answered that I fell and was bleeding. An ambulance showed up a few minutes later. My location was known. While the EMS guy was putting a compression bandage on my forehead he said \u201cyour watch is talking to you \u201c. My Watch contacted my husband and he was patched thru. I told him what happened and I was carted off to the ER. Apparently I set him up as my emergency contact when I got the watch. I was really grateful I had this watch on. The only downside is if I bump my arm on something hard it will vibrate and ask if I need 911. It gives a certain amount of time before it calls 911, so you have to press the I\u2019m OK prompt.",
+      "score": 28,
+      "created_utc": 1737140942.0,
+      "replies": []
+    },
+    {
+      "id": "m7qd9ux",
+      "author": "FD4L",
+      "body": "This is good technology, but as a career firefighter who's stationed near a highway, we get false reports all the time from iphones that slide off dashboards and bounce off the floors of cars.\n\nSo if you have an iPhone, please secure it while it's in your car, or if it does go flying and bounce off something, try to cancel the crash report if it's possible and safe to do so.",
+      "score": 15,
+      "created_utc": 1737163936.0,
+      "replies": [
+        {
+          "id": "m7suxu2",
+          "author": "CaramelCraftYT",
+          "body": "Getting false reports is worth it though if it means saving even one life.",
+          "score": 9,
+          "created_utc": 1737208378.0,
+          "replies": [
+            {
+              "id": "m7yt0oc",
+              "author": "pizza_whistle",
+              "body": "Not if you already have an overloaded emergency line. Calling 911 in my city often ends up with you being put on hold for 15 min before can even talk to someone... which is crazy to me.",
+              "score": 6,
+              "created_utc": 1737286541.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7mx8yc",
+      "author": "Scared_of_zombies",
+      "body": "Calling that a \u201cmisadventure\u201d is hilariously dumb.",
+      "score": 23,
+      "created_utc": 1737125889.0,
+      "replies": [
+        {
+          "id": "m7qnz0o",
+          "author": "ghostly_shark",
+          "body": "It is stupidly humorous",
+          "score": 2,
+          "created_utc": 1737167905.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7nkyny",
+      "author": "thatsnotyourtaco",
+      "body": "I thought cars only landed in swimming pools in movies",
+      "score": 3,
+      "created_utc": 1737132872.0,
+      "replies": []
+    },
+    {
+      "id": "m7puktn",
+      "author": "rerunderwear",
+      "body": "Siri never works when I need her",
+      "score": 2,
+      "created_utc": 1737157413.0,
+      "replies": []
+    },
+    {
+      "id": "m7okcb0",
+      "author": "Zestyclose-Ad5556",
+      "body": "Did he watch the myth busters video on it while it sunk as a refresher on how to survive it?",
+      "score": 1,
+      "created_utc": 1737143081.0,
+      "replies": []
+    },
+    {
+      "id": "m7zo8eu",
+      "author": "None",
+      "body": "My watch called my son when I fell and couldn\u2019t get up. They are great.\nYou can set it up on who to message.",
+      "score": 1,
+      "created_utc": 1737299515.0,
+      "replies": []
+    },
+    {
+      "id": "m7mujqp",
+      "author": "SnagglepussJoke",
+      "body": "Holy Moses, Brent how many root beer nips you sneak\u2019n",
+      "score": 1,
+      "created_utc": 1737125028.0,
+      "replies": []
+    },
+    {
+      "id": "m7ml5l3",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -1,
+      "created_utc": 1737121821.0,
+      "replies": [
+        {
+          "id": "m7mmc4l",
+          "author": "Nacho_Dan677",
+          "body": "You literally missed the part anyone will care about.\n\n\n\"The next memory Hill has of the misadventure is regaining consciousness thanks to a small voice speaking to him. Apple Watch Crash Detection called emergency services automatically, and an operator was trying to speak to him.\"\n\n\nSo the watch detected the crash and Emergency services were contacted by the watch.\n\n\nEdit: changed word from dedicated to detected",
+          "score": 13,
+          "created_utc": 1737122240.0,
+          "replies": [
+            {
+              "id": "m7mn4vo",
+              "author": "MoreWaqar-",
+              "body": "I assume you meant detected the crash.",
+              "score": 4,
+              "created_utc": 1737122521.0,
+              "replies": [
+                {
+                  "id": "m7mo3ju",
+                  "author": "Nacho_Dan677",
+                  "body": "Thanks for the catch, fixed it",
+                  "score": 1,
+                  "created_utc": 1737122856.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m7mniol",
+              "author": "drmirage809",
+              "body": "That crash and fall detection stuff is really handy and it\u2019s great to see it doing what it\u2019s designed to do.",
+              "score": 3,
+              "created_utc": 1737122656.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7nehdd",
+      "author": "SchighSchagh",
+      "body": "Oh good another thinly veiled Apple advertisement. Guess what my Garmin watch can do the same thing. How come nobody is spamming articles on Garmins saving people's lives?",
+      "score": -15,
+      "created_utc": 1737131031.0,
+      "replies": [
+        {
+          "id": "m7nh6xo",
+          "author": "Pineapple_Assrape",
+          "body": "Yeah can it? Does it detect a crash and call local emergency services and patch through the voice? Or is it only SOS stuff for hiking? I googled and I couldn't readily find any occurrences. Garmin itself has a \"saved by garmin\" page where there's a couple of articles but it all sounds like SOS calls from people lost in the outdoors which isn't really the same thing at all.",
+          "score": 15,
+          "created_utc": 1737131802.0,
+          "replies": []
+        },
+        {
+          "id": "m7sv1f3",
+          "author": "CaramelCraftYT",
+          "body": "This isn\u2019t an advertisement\u2026 It\u2019s a story about an Apple Watch saving someone\u2019s life.",
+          "score": 3,
+          "created_utc": 1737208415.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m7w8q0m",
+      "author": "LebronBackinCLE",
+      "body": "\u201cI\u2019m sorry, I can do that here\u201d  -Siri",
+      "score": 0,
+      "created_utc": 1737246687.0,
+      "replies": []
+    },
+    {
+      "id": "m7mtfe5",
+      "author": "Th3SkinMan",
+      "body": "Holy fuck, 100,000,000 911 calls and 1 life saved! Better make all fire departments everywhere respond to apples new \"life-saving technology.\"",
+      "score": -36,
+      "created_utc": 1737124662.0,
+      "replies": [
+        {
+          "id": "m7mwnrf",
+          "author": "dclxvi616",
+          "body": "Fire departments already do respond to this technology of calling 911, and I assure you, 100,000,000 911 calls leads to at least a little more than one life saved.",
+          "score": 13,
+          "created_utc": 1737125704.0,
+          "replies": [
+            {
+              "id": "m7n39ls",
+              "author": "Th3SkinMan",
+              "body": "Im speaking from experience. My gripe is that Apple is selling a new amazing service that already exists from the wallet of the taxpayers.",
+              "score": -20,
+              "created_utc": 1737127736.0,
+              "replies": [
+                {
+                  "id": "m7n495n",
+                  "author": "dclxvi616",
+                  "body": "Please identify what service you are referring to because I\u2019m pretty sure the rest of us have no clue what you\u2019re talking about. Apple\u2019s crash detection isn\u2019t a service, it\u2019s a feature of some of their products that calls 911 in specific circumstances. Apple doesn\u2019t sell cell service, they don\u2019t sell 911 service, they don\u2019t sell a crash detection service, etc.",
+                  "score": 13,
+                  "created_utc": 1737128037.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m7n5346",
+          "author": "golfhotdogs",
+          "body": "Dude right? Please, please for the love whatever god, disable the drop/fall feature on your iPhone. Hundreds of responses and not single person who ever fell needing assistance. Phone fell off the seat in your car? Great now we have a response for a fall in the middle of a freeway, or agg field, or somewhere stupid with no one to be seen. I hate these features.",
+          "score": 2,
+          "created_utc": 1737128287.0,
+          "replies": []
+        },
+        {
+          "id": "m7n20hd",
+          "author": "BlueDotCosmonaut",
+          "body": "Source for this? \n\nBecause it\u2019s **definitely more than one**.",
+          "score": 2,
+          "created_utc": 1737127357.0,
+          "replies": [
+            {
+              "id": "m7n3cq3",
+              "author": "Th3SkinMan",
+              "body": "Sarcasm.",
+              "score": -15,
+              "created_utc": 1737127762.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m7rw7bt",
+      "author": "Crono_",
+      "body": "All hail Siri",
+      "score": -1,
+      "created_utc": 1737189750.0,
+      "replies": []
+    },
+    {
+      "id": "m7nl7a8",
+      "author": "Willlll",
+      "body": "What's the over/under on him screwing with the watch making him drive into the pool in the first place?",
+      "score": -7,
+      "created_utc": 1737132943.0,
+      "replies": []
+    }
+  ]
+}

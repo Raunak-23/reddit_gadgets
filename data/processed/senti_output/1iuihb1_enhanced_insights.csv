@@ -1,0 +1,49 @@
+metric,value
+file,1iuihb1.csv
+title,"Apple, Lenovo lead losers in laptop repairability analysis"
+rows,144
+num_posts,1
+num_comments,143
+unique_authors,98
+max_depth,9
+avg_comment_words,105.64
+median_comment_words,93.0
+max_comment_words,387
+positive_count,10
+negative_count,133
+neutral_count,0
+positive_pct,6.993
+negative_pct,93.007
+neutral_pct,0.0
+topic_1_keywords,"parts, take, dell, get, warranty, lenovo, far, minutes"
+topic_1_label,a new lollipop for the lollipop
+topic_2_keywords,"apple, battery, bad, us, get, need, replace, lot"
+topic_2_label,Apple battery is bad in us
+topic_3_keywords,"business, consumer, lenovo, devices, got, years, laptop, would"
+topic_3_label,Lenovo gets a laptop in years
+topic_4_keywords,"laptop, never, ram, price, palm, ssd, apple, rest"
+topic_4_label,"ram, ram, ssd, apple, ssd"
+topic_5_keywords,"dell, parts, laptops, still, serial, like, system, number"
+topic_5_label,a serial number for a laptop
+topic_6_keywords,"parts, dont, different, send, like, back, replace, thinkpads"
+topic_6_label,i don t like back and back
+top_ngram_1,get parts (51)
+top_ngram_2,system boards (30)
+top_ngram_3,take apart (29)
+top_ngram_4,easy take (28)
+top_ngram_5,back together (28)
+top_ngram_6,easy take apart (28)
+top_ngram_7,find lenovo (27)
+top_ngram_8,warranty claims (27)
+top_ngram_9,fuck dell (27)
+top_ngram_10,extremely easy (26)
+ner_1,Dell|ORG|87
+ner_2,Apple|ORG|69
+ner_3,Lenovo|ORG|69
+ner_4,HP|ORG|31
+ner_5,ThinkPad|MISC|15
+ner_6,Lenovo Legion Pro 7i Gen 8|MISC|8
+ner_7,Dell|MISC|7
+ner_8,MacBook|MISC|6
+ner_9,Framework|ORG|5
+ner_10,Mac|MISC|4

@@ -1,0 +1,49 @@
+metric,value
+file,1hcnc38.csv
+title,"MacBook Air M4 leaked in macOS 15.2 Sequoia, may feature new ultrawide camera | Expected to launch in spring 2025"
+rows,42
+num_posts,1
+num_comments,41
+unique_authors,27
+max_depth,5
+avg_comment_words,37.34
+median_comment_words,38.0
+max_comment_words,87
+positive_count,15
+negative_count,26
+neutral_count,0
+positive_pct,36.585
+negative_pct,63.415
+neutral_pct,0.0
+topic_1_keywords,"take, cant, mean, already, compared, m3, really, vs"
+topic_1_label,compared to m3 vs
+topic_2_keywords,"macbook, air, 12, love, inch, would, something, chipset"
+topic_2_label,i love the air of a macbook
+topic_3_keywords,"11, keyboard, still, yeah, shit, power, dual, displays"
+topic_3_label,'7' keyboard still shit
+topic_4_keywords,"would, camera, def, 13, pro, really, air, inch"
+topic_4_label,idx camera 's air is really air
+topic_5_keywords,"view, air, ipad, desk, thing, id, back, come"
+topic_5_label,"ipad, ipad, ipad, ipad, ipad"
+topic_6_keywords,"kitchen, everybody, see, ideas, run, zoom, sure, im"
+topic_6_label,i am a big fan of the kitchen
+top_ngram_1,12 inch (13)
+top_ngram_2,inch macbook (13)
+top_ngram_3,know minority (11)
+top_ngram_4,minority would (11)
+top_ngram_5,would love (11)
+top_ngram_6,love 12 (11)
+top_ngram_7,macbook sequel (11)
+top_ngram_8,sequel m4 (11)
+top_ngram_9,m4 chipset (11)
+top_ngram_10,chipset something (11)
+ner_1,MacBook|MISC|16
+ner_2,Air|MISC|14
+ner_3,##4|MISC|10
+ner_4,iPad|MISC|7
+ner_5,Apple|ORG|5
+ner_6,Mac|MISC|5
+ner_7,MacBook Air|MISC|4
+ner_8,##be|MISC|2
+ner_9,MacBook Pro|MISC|2
+ner_10,iPad Pro 13|MISC|2

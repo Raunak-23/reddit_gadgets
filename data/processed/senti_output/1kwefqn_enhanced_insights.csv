@@ -1,0 +1,49 @@
+metric,value
+file,1kwefqn.csv
+title,Samsung Galaxy S25 Edge review: More than just super thin
+rows,100
+num_posts,1
+num_comments,99
+unique_authors,74
+max_depth,5
+avg_comment_words,65.35
+median_comment_words,51.0
+max_comment_words,362
+positive_count,13
+negative_count,86
+neutral_count,0
+positive_pct,13.131
+negative_pct,86.869
+neutral_pct,0.0
+topic_1_keywords,"phones, give, us, dont, phone, every, instead, stop"
+topic_1_label,"if you don t stop, stop your phone"
+topic_2_keywords,"phones, thin, maps, light, google, battery, super, even"
+topic_2_label,Google maps and super
+topic_3_keywords,"battery, phones, phone, thin, would, super, life, asked"
+topic_3_label,a phone would be a super
+topic_4_keywords,"phone, battery, dont, phones, screen, people, huge, buy"
+topic_4_label,battery doesn't work on phones
+topic_5_keywords,"battery, day, using, last, ultra, im, used, ive"
+topic_5_label,battery used in iii
+topic_6_keywords,"phone, s25, phones, like, edge, im, storage, used"
+topic_6_label,"phone, s25, phone, im, storage"
+top_ngram_1,battery life (28)
+top_ngram_2,super thin (20)
+top_ngram_3,thin light (14)
+top_ngram_4,noone asked (13)
+top_ngram_5,beefy battery (13)
+top_ngram_6,s23 ultra (13)
+top_ngram_7,yeah super (12)
+top_ngram_8,thin also (12)
+top_ngram_9,also galaxy (12)
+top_ngram_10,galaxy phone (12)
+ner_1,S|MISC|12
+ner_2,iPhone|MISC|9
+ner_3,Samsung|ORG|8
+ner_4,Ultra|MISC|6
+ner_5,16|MISC|5
+ner_6,S25|MISC|5
+ner_7,##Mobile|ORG|4
+ner_8,S10|MISC|4
+ner_9,S23|MISC|4
+ner_10,What|MISC|4

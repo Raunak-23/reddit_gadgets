@@ -1,0 +1,1728 @@
+{
+  "post": {
+    "title": "Framework\u2019s first desktop is a strange\u2014but unique\u2014mini ITX gaming PC.",
+    "author": "RenegadeUK",
+    "id": "1iyjucm",
+    "score": 1110,
+    "created_utc": 1740562745.0,
+    "selftext": "",
+    "num_comments": 203,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1iyjucm/frameworks_first_desktop_is_a_strangebut/"
+  },
+  "comments": [
+    {
+      "id": "mev29as",
+      "author": "MultiMarcus",
+      "body": "I\u2019m curious about the cost compared to a comparable PC. I also wonder if the AMD APU will support FSR 4. If it does and the price is comparable to a standard desktop PC with similar performance, I genuinely think this could be a great product. For instance, I might consider it for my dad. He\u2019d love to play Windows games, but we can play most of them with him on his Mac Studio. He wouldn\u2019t want a large desktop but would be happy with a mini PC.",
+      "score": 204,
+      "created_utc": 1740564694.0,
+      "replies": [
+        {
+          "id": "mev5xis",
+          "author": "_sharpmars",
+          "body": "It\u2019s based on RDNA 3.5, so no FSR 4, unfortunately.",
+          "score": 108,
+          "created_utc": 1740566850.0,
+          "replies": [
+            {
+              "id": "mev62e3",
+              "author": "MultiMarcus",
+              "body": "Aren\u2019t they trying to back port it to older RDNA hardware? If they\u2019re able to get FSR4 on them then that would be incredible. Without it I don\u2019t feel like I could recommend it as wholeheartedly.",
+              "score": 40,
+              "created_utc": 1740566929.0,
+              "replies": [
+                {
+                  "id": "mev6afk",
+                  "author": "_sharpmars",
+                  "body": "FSR 4 uses RDNA 4 specific hardware acceleration for machine learning, it won\u2019t be compatible with the previous architectures.",
+                  "score": 43,
+                  "created_utc": 1740567055.0,
+                  "replies": [
+                    {
+                      "id": "mev6l7q",
+                      "author": "MultiMarcus",
+                      "body": "Oof, then I can\u2019t really recommend this mini PC to anyone for gaming then. Other than I guess the people who are really aggressive about playing at native resolutions and don\u2019t mind low end performance. I\u2019m sure that this will be great especially for more work related use cases the hard gaming but there really is space for a good mini gaming PC on the market right now. Hopefully AMD will be able to do something with FSR4 on their next generation of APUs.",
+                      "score": 14,
+                      "created_utc": 1740567227.0,
+                      "replies": [
+                        {
+                          "id": "mew0i5f",
+                          "author": "Relevant-Doctor187",
+                          "body": "Its performance is comparable to a 4060. It\u2019s more powerful than a PS5 Pro.  It\u2019s fine for the majority of games at 1440P. The vast majority of PC gamers are playing with something less powerful according to steam HW surveys.",
+                          "score": 36,
+                          "created_utc": 1740579714.0,
+                          "replies": [
+                            {
+                              "id": "mew16zf",
+                              "author": "MultiMarcus",
+                              "body": "Of course, that\u2019s my point. You\u2019re spending double the amount on this mini PC compared to a PS5. I understand that PC gaming is often less value for money than comparable consoles, but unless you\u2019re particularly drawn to the mini PC concept, I don\u2019t see much reason to buy it. You could either get a PS5 and get comparable performance for half the price in a larger package, or you could buy a regular desktop PC for roughly the same amount and get better performance. If you\u2019re on the Nvidia side, you\u2019ll get upscaling that\u2019s more competent, and if you\u2019re on the AMD or Intel side, you\u2019ll get a much better deal. Well at least I think so, or how much would it cost to build a comparable desktop PC to how much one of these costs?",
+                              "score": 2,
+                              "created_utc": 1740579941.0,
+                              "replies": [
+                                {
+                                  "id": "mew3rgn",
+                                  "author": "Relevant-Doctor187",
+                                  "body": "Cheapest is 799 if you toss in your own case and PSU. A comparable mini pc can\u2019t be built for cheaper and the gaming NUC is more expensive. It\u2019s priced pretty good compared to options on the market.  Just built a mITX pc for one of my kids and it was comparable to this base configuration.  Pretty sure it cost me more. Today it def costs more because 4060\u2019s are stupidly priced.",
+                                  "score": 8,
+                                  "created_utc": 1740580785.0,
+                                  "replies": [
+                                    {
+                                      "id": "mew4kfo",
+                                      "author": "MultiMarcus",
+                                      "body": "It\u2019s quite ridiculous how expensive PC hardware has become. I\u2019ve found that recommending consoles to people who want to get into gaming is more practical. Unless they\u2019re willing to spend around xx70 card money, it\u2019s not worth it unless they want to play specific PC games. Even then I think a PS5 Pro might be more reasonable. And once you get into the xx80 and xx90 cards prices are so insane that there\u2019s not really any reason other than being really into PC gaming, that can justify it.",
+                                      "score": 1,
+                                      "created_utc": 1740581039.0,
+                                      "replies": [
+                                        {
+                                          "id": "meyn7nc",
+                                          "author": "Hendlton",
+                                          "body": "Yeah, it's insane. Us PC gamers used to laugh at console gamers and build \"Console killers\" from new parts. Now you can't even build a console killer from used parts.",
+                                          "score": 8,
+                                          "created_utc": 1740606469.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "mew8k3f",
+                                          "author": "cman674",
+                                          "body": "*laughs in AMD*",
+                                          "score": 2,
+                                          "created_utc": 1740582287.0,
+                                          "replies": [
+                                            {
+                                              "id": "mez3fi0",
+                                              "author": "alman12345",
+                                              "body": "*cries in $50 cheaper comparable performance from the 9070 XT*",
+                                              "score": 3,
+                                              "created_utc": 1740611217.0,
+                                              "replies": []
+                                            },
+                                            {
+                                              "id": "mew94g4",
+                                              "author": "MultiMarcus",
+                                              "body": "The company that left the high end entirely and whose most popular graphics card is less popular than a 4090? AMD is alright on a budget level, but not great since they follow NVIDIA\u2019s pricing strategy so closely.",
+                                              "score": 3,
+                                              "created_utc": 1740582462.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mewajw3",
+                                                  "author": "cman674",
+                                                  "body": "I think you\u2019re forgetting the fact that most players aren\u2019t worried about playing at 4k/120hz.",
+                                                  "score": 0,
+                                                  "created_utc": 1740582900.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mewbzmd",
+                                                      "author": "MultiMarcus",
+                                                      "body": "No, so they will be buying a PS5 or PS5 Pro. AMD has been rolling out these numbers saying that 60% of gamers spend have $300 graphics cards\u201d and \u201c85% of gamers have less than $700 graphics cards\u201d and still haven\u2019t managed to move the needle on AMD GPUs. Targeting a group of people that consoles also target just doesn\u2019t make a whole lot of sense and since they have such bad mindshare that the non-enthusiast non-casual group they are targeting barely know AMD GPUs exist. They make a good product, but need to be more aggressive on pricing and catching up on the technology front and not being a step behind NVIDIA. I love these small APU devices, but they aren\u2019t viable desktop or console alternatives at their current price points.",
+                                                      "score": 2,
+                                                      "created_utc": 1740583330.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "mf8x7tm",
+                                          "author": "Fackcelery",
+                                          "body": "I agree up until you said you need xx70 money. Its a massive lie. I paid ~300 dollars for my rx7600 and I can play modern games at 1440p 60+fps without issue in most cases. Some games like Tarkov will go under 60 fps but for the vast majority of modern titles it does the job, and still gives higher framerates than console.",
+                                          "score": 1,
+                                          "created_utc": 1740749249.0,
+                                          "replies": [
+                                            {
+                                              "id": "mf8y7ev",
+                                              "author": "MultiMarcus",
+                                              "body": "That sounds fairly comparable to a console in performance from what I can tell. I don\u2019t think you\u2019re matching a PS5 pro with that GPU. I don\u2019t necessarily know what you define as a modern game, but when you\u2019re using Tarkov as an example that feels kind of odd since it\u2019s like nine years old. When I\u2019m talking about modern games, I\u2019m talking about games that are from this console generation and aren\u2019t cross generation.",
+                                              "score": 1,
+                                              "created_utc": 1740749607.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mf8z0p8",
+                                                  "author": "Fackcelery",
+                                                  "body": "Yeah fair point talking about tarkov, but its a well known optimization nightmare that requires higher specs than most modern games today so I figured it was a decent example. I dont really play AAA titles at this point but I HIGHLY doubt a PS5 pro could run tarkov at 60fps assuming an identical port",
+                                                  "score": 1,
+                                                  "created_utc": 1740749894.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "mez35qa",
+                                      "author": "alman12345",
+                                      "body": "That one\u2019s the one with 32CUs vs 40CUs so it should be somewhat slower than the 395 SKU.",
+                                      "score": 0,
+                                      "created_utc": 1740611132.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mf1go5b",
+                                  "author": "BytchYouThought",
+                                  "body": "I assumed it was, because not everyone buys a PC for gaming or they already need a PC anyway and like FF ans prebuilt nature of it.",
+                                  "score": 1,
+                                  "created_utc": 1740645547.0,
+                                  "replies": [
+                                    {
+                                      "id": "mf1h007",
+                                      "author": "MultiMarcus",
+                                      "body": "Sure, I\u2019m only discussing the gaming part of the title where they label it a gaming PC. I think it\u2019s probably a great thing for other workloads and people have already mentioned that it might be a good option for AI, so I\u2019m sure that there are a lot of use cases there but I was specifically referring to the gaming aspect",
+                                      "score": 1,
+                                      "created_utc": 1740645754.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mgd90jk",
+                                  "author": "spaceminions",
+                                  "body": "The better question is not gaming pc vs console, it's gaming pc vs regular pc plus console. A brand new decent quality laptop or desktop is already expensive enough that adding a console to the price gets the total into a more viable range than you might think.",
+                                  "score": 1,
+                                  "created_utc": 1741284186.0,
+                                  "replies": [
+                                    {
+                                      "id": "mgdawv0",
+                                      "author": "MultiMarcus",
+                                      "body": "Sure, and you are paying for that flexibility, but most people probably need a laptop anyway. I cannot talk about anyone else but I couldn\u2019t do my daily tasks without a laptop which means that you\u2019re probably going to need a laptop plus a desktop or you\u2019re buying a gaming laptop which generally isn\u2019t cheaper than buying a normal laptop and a gaming console. Don\u2019t get me wrong there are a lot of cases where a device like this is perfect, but I do think most people probably need to have a laptop and then they\u2019ll be looking at a separate device that they can do gaming on and that would be something like this or a console. For the people that want a laptop and are fine with paying the extra for a desktop like me, we probably don\u2019t need a portable desktop anyway. \n\nThat being said this is going to be an incredible device for some people and it\u2019s going to be great for people doing AI work loads who also might want to play some games on the side that\u2019s an incredible usecase, it just probably doesn\u2019t have a lot of general appeal.",
+                                      "score": 1,
+                                      "created_utc": 1741284720.0,
+                                      "replies": [
+                                        {
+                                          "id": "mgdsu9o",
+                                          "author": "spaceminions",
+                                          "body": "Yeah i can agree with that to a greater extent; a random person would have to spend more to get the laptop to be comparable performance. \nHowever it's not as huge of a price difference when you figure that a laptop and console add up to over 1k together if you're buying new. \n\nAnd yeah if you need a laptop this ain't it. Very cool though. Compared to small form factor office workstations for example, great. Or maybe as a shared device, it's not a server in other important ways but one of the things servers get vs desktops is more memory bandwidth and it does have that. Also some people prefer a basic light laptop or tablet plus a \"real\" pc so maybe that'll be a few sales too.",
+                                          "score": 1,
+                                          "created_utc": 1741289760.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mevl2dy",
+                          "author": "yearningforlearning7",
+                          "body": "I\u2019m thinking light CAD applications and RPG Games would be pretty well suited, but also I\u2019m taking this information from MyButthole.org so let me know if I\u2019m wrong.",
+                          "score": 0,
+                          "created_utc": 1740574164.0,
+                          "replies": [
+                            {
+                              "id": "mevm8s1",
+                              "author": "MultiMarcus",
+                              "body": "Well it seems like the performance is around that of a 4060 GPU which is certainly not bad but it\u2019s definitely in the low end of the current generation of GPUs and that generation is only current for probably a few months more when the 5060 gpu is released by NVIDIA. It\u2019s going to depend a lot on how expensive that GPU is and how interested people actually are in this sort of mini PC concept.\n\nAs for the games that can run, probably most games as the 4060 is capable of running a vast majority of titles that have come out recently. I just think that we rely a lot on upscaling for these lower end GPUs and if you\u2019re forced to use the basic FSR 3 upscaler from AMD over something like DLSS 4 from Nvidia you\u2019re going to have less visual fidelity than comparable NVIDIA powered PCs.",
+                              "score": 1,
+                              "created_utc": 1740574630.0,
+                              "replies": [
+                                {
+                                  "id": "mevqiqm",
+                                  "author": "yearningforlearning7",
+                                  "body": "Ok that makes a lot more sense I think? So it\u2019s on the middle or mildly competitive in current generation GPUs. But considering we\u2019re due for a new one, the main question is its compatibility with software and how you run it? Not going to be \u201ctop of the line\u201d per se but if the functionality is there you can make it work? I genuinely have a hard time understanding computers but this looks pretty neat",
+                                  "score": 1,
+                                  "created_utc": 1740576254.0,
+                                  "replies": [
+                                    {
+                                      "id": "meyo2w3",
+                                      "author": "Hendlton",
+                                      "body": "If it truly is as capable as a 4060, it'll play basically anything released so far at descent settings and framerates. Yeah, it won't do 4k 60 FPS, but it's good enough for the vast majority of people. One huge advantage is that you can apparently give it an insane amount of VRAM. The iGPU allows for up to 110 GB of VRAM, so it'll be great for certain people.\n\nEDIT: It seems that the 4060 comparison is to a *Mobile* 4060, so nowhere near as powerful as I thought. It can still play a lot of games though.",
+                                      "score": -1,
+                                      "created_utc": 1740606710.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mezswm6",
+                                  "author": "Jon_TWR",
+                                  "body": "Sure, but based on the cards released so far, the 5060 is unlikely to be more than 5-15% faster than the 4060.\n\nThe upscaling is a very valid point, though. DLSS is *miles* better than FSR. FSR and XESS are better than nothing, though...and will allow for what would be otherwise unplayable games to be playable.",
+                                  "score": 1,
+                                  "created_utc": 1740619513.0,
+                                  "replies": [
+                                    {
+                                      "id": "mf0ujr0",
+                                      "author": "MultiMarcus",
+                                      "body": "Especially if it\u2019s stuck with the old FSR versus Nvidia new DLSS transformer model. The new FSR, though we haven\u2019t really seen it in many games, seems comparable to the old CNN model from Nvidia the perhaps slightly worse than the later iterations of that CNN model, but the old FSR is just not good.",
+                                      "score": 1,
+                                      "created_utc": 1740633397.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mez2vfm",
+                  "author": "alman12345",
+                  "body": "[Frank Azor](https://www.yahoo.com/tech/amd-says-fsr-4-might-160348985.html) of AMD himself was contradictory on whether it could be ported back during an interview in early January and people skimmed a driver recently discovering that (while some form of hardware upscaling may be possible on RX 7000/RDNA 3) the upscaling used will be [significantly less precise.](https://www.yahoo.com/tech/looking-bleak-amds-older-gpus-163933204.html)",
+                  "score": 1,
+                  "created_utc": 1740611040.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mez23xs",
+              "author": "alman12345",
+              "body": "That\u2019s a huge oversight to me\u2026",
+              "score": 1,
+              "created_utc": 1740610802.0,
+              "replies": []
+            },
+            {
+              "id": "mf2mlso",
+              "author": "Bluedot55",
+              "body": "That said, it has a pretty large dedicated npu on die, right? I wonder if that could be used in place or the typical AI accelerators that are built into the GPU.",
+              "score": 1,
+              "created_utc": 1740665844.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mevk7k8",
+          "author": "Funksultan",
+          "body": "These tiny form factor PCs come out every few years.  They always tend to be victims of economies of scale.\n\nBecause they aren't going to sell a lot of these, they will have to have a comparably higher price tag so they don't lose money.  I'd bet when these hit the market, you'll be able to buy a midrange gaming laptop with the same or better specs for LESS.\n\nThat includes a screen, portability and (some) upgradability.\n\nIt's a shame, I like these small form factors, but unless they can bring them to market for $250 to undercut 2 gen old laptops, they are gonna have to just be a very niche item.",
+          "score": 32,
+          "created_utc": 1740573821.0,
+          "replies": [
+            {
+              "id": "mevlyou",
+              "author": "MultiMarcus",
+              "body": "To be fair, gaming laptops have their own issues, particularly with thermals. However, if this mini PC can offer more upgradability and doesn\u2019t suffer from performance problems, I can totally see it being a viable option. This is especially true if you already have a decent screen. My dad probably wouldn\u2019t be playing games above 60 FPS anyway, so 60Hz is more than enough for him. He also has a fairly nice 5K Mac Studio Display.",
+              "score": 9,
+              "created_utc": 1740574522.0,
+              "replies": [
+                {
+                  "id": "mevzup6",
+                  "author": "Funksultan",
+                  "body": "That's true... but remember, this mini factor is less upgradable than any common laptop.\n\nThe other point being if your dad isn't playing hardcore games, the laptop thermals wont be an issue.  It's a shame I like these, they just don't make sense at the (historic) price point.",
+                  "score": 6,
+                  "created_utc": 1740579497.0,
+                  "replies": [
+                    {
+                      "id": "mexea97",
+                      "author": "ICC-u",
+                      "body": ">this mini factor is less upgradable than any common laptop.\n\nIs it? The Ram isn't upgradeable but it does have a PCI-E slot. Kinda surprised that Framework would make a machine with such low upgradability options though",
+                      "score": 2,
+                      "created_utc": 1740594174.0,
+                      "replies": [
+                        {
+                          "id": "mey16ai",
+                          "author": "Funksultan",
+                          "body": "There's only room to swap out the SSD.... everything else is soldered to the board.   :(",
+                          "score": 4,
+                          "created_utc": 1740600504.0,
+                          "replies": [
+                            {
+                              "id": "mey1r0w",
+                              "author": "ICC-u",
+                              "body": "Yeah, why they didn't make it an AM5 socket and a PCI-E GPU who knows. It's basically a Mac mini I guess.",
+                              "score": 1,
+                              "created_utc": 1740600661.0,
+                              "replies": [
+                                {
+                                  "id": "mfyodr3",
+                                  "author": "grumble11",
+                                  "body": "They want to sell it to the AI crowd, since Strix Halo can allocate a ton of RAM to the GPU.  It's the cheapest option to do it right now.  It suffers from too-low memory bandwidth for the absolute best infererence, but it's great for a home AI toolkit.",
+                                  "score": 1,
+                                  "created_utc": 1741097746.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mf1jcyb",
+                          "author": "iligal_odin",
+                          "body": "From a video on linus tech tips(one of the major stakeholders of framework)\n\nThe upgrade ability of the ram is on amds side which said  hot swappable is something they are lookjng at by one of their top engeneers.\n\nSo it seems that the willingness is there but just not ready",
+                          "score": 1,
+                          "created_utc": 1740647261.0,
+                          "replies": [
+                            {
+                              "id": "mf1jn4e",
+                              "author": "ICC-u",
+                              "body": "Guessing it's LPDDR5 which requires soldering iirc.\n\nBut here's the thing. Mini ITX exists. AM5 exists. DDR5 exists.\n\nFramework chose to put laptop components into a desktop, which seems completely against their core mission of upgradable, repairable equipment, and more in line with their actual business plan of selling parts in a closed ecosystem.",
+                              "score": 2,
+                              "created_utc": 1740647441.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mevwehl",
+                  "author": "Eruannster",
+                  "body": "That Studio Display might pose a problem since it's a Thunderbolt-only screen. I don't think it works over only USB-C, which is what the Framework computer has :/",
+                  "score": 1,
+                  "created_utc": 1740578330.0,
+                  "replies": [
+                    {
+                      "id": "mewcxxz",
+                      "author": "FriedStingray",
+                      "body": "It works over usb-c, I can even connect my steam deck.",
+                      "score": 3,
+                      "created_utc": 1740583615.0,
+                      "replies": [
+                        {
+                          "id": "mewmuid",
+                          "author": "Eruannster",
+                          "body": "Oh. Wait. Maybe I\u2019m thinking of the other big Apple display? I seem to remember it required Thunderbolt, but maybe I\u2019m mixing them up!",
+                          "score": 1,
+                          "created_utc": 1740586497.0,
+                          "replies": [
+                            {
+                              "id": "mezhw3v",
+                              "author": "RRR3000",
+                              "body": "It's the other way, not every USB-C supports outputting video. Especially on motherboards/PCs usually not since it isn't always connected to the GPU for it.",
+                              "score": 1,
+                              "created_utc": 1740615938.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mewdbmk",
+                      "author": "sciolycaptain",
+                      "body": "The laptops seem to run the Studio Display with their USB c ports without issues.",
+                      "score": 3,
+                      "created_utc": 1740583726.0,
+                      "replies": [
+                        {
+                          "id": "mewn31w",
+                          "author": "Eruannster",
+                          "body": "Oh wait, maybe I\u2019m thinking of the 6K display? I seem to remember it required Thunderbolt, maybe I have them mixed up.",
+                          "score": 1,
+                          "created_utc": 1740586565.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mf2fwjw",
+              "author": "rmusic10891",
+              "body": "Framework is already on the 4th or 5th batch of preorder shipments for every configuration of this desktop.",
+              "score": 1,
+              "created_utc": 1740663496.0,
+              "replies": [
+                {
+                  "id": "mf2jziw",
+                  "author": "Funksultan",
+                  "body": "I know, so.... .0001% of the number of similarly powered laptop sales in the same period?\n\nI'm not saying these are bad, or unpopular.  I'm saying it's a niche market.  Has been for 30 years, will always be until someone brings the price point down to compete with whatever form factor is dominating that market.\n\nPreorders for the Ouya dwarfed this, and it had some fans.  #memberberries",
+                  "score": 0,
+                  "created_utc": 1740664937.0,
+                  "replies": [
+                    {
+                      "id": "mf2xsy2",
+                      "author": "Dt2_0",
+                      "body": "There is 1. 1 Similarly powered laptop on the market at this time, and it's not even a laptop, its a Windows tablet. And for a somewhat parity config, you are looking at a $700 more costly product. Since these Ryzen AI Max chips pull so much power you are also looking at a system which will be louder and will likely not turbo anywhere near as long due to cooling constraints in the tablet formfactor, vs having an actual full sized heat sink and 120mm fan.\n\nThe only other comparable computer on the market is the Mac Studio, which for a somewhat comparable config you need to shell out nearly $5000 for.\n\nYou are completely missing the point of this system. Not your fault, so is the article. This is not a gaming PC (it can game, but it's not a gaming PC). This is an Productivity, and AI machine through an through. It's a hell of a video editing system for $2000 at the top config. I am not super into AI, but the people who are running and training their own models seem to be crazy into these.\n\nI personally work in a business where we need very good portable video editing systems, and we are looking to hire new editors some time in the next year. We have several of these desktops on preorder right now (batch 2).",
+                      "score": 1,
+                      "created_utc": 1740669435.0,
+                      "replies": [
+                        {
+                          "id": "mf43w2p",
+                          "author": "Funksultan",
+                          "body": "I don't know what to tell you.  A $300 cheaper laptop will roast this.  We're not even talking current gen.\n\nYou are wanting a portable computer, so you're planning to move this around.... along with a monitor, mouse, keyboard... dude, there is so much wrong with everything you wrote.\n\nOk, you like it.  Great, awesome for you.  Buy some, buy them all.  But just say that you like it, and don't bring math or specs into the discussion.  They are not your friend in this instance.\n\n($700 more costly is putting you into Ryzen9 and 9 Pro territory, and $5k for Mac?  I can't even begin to point out the ridiculousness of that)\n\nThe most strenuous video editing is child's play now... reasonable AI boxes are looking for real GPUs and not trying to brute force with 50/50s).",
+                          "score": -1,
+                          "created_utc": 1740681434.0,
+                          "replies": [
+                            {
+                              "id": "mf4arqy",
+                              "author": "Dt2_0",
+                              "body": "Name a single $1300 (The $1600 SKU comes with the top end processor) laptop that has a 16 core 32 thread chip with a 120 watt TDP that boost to 5.1 ghz and has a full 120mm cooler to keep it at those boost clocks. Lets forget about the RAM, lets forget about anything else. Just the raw CPU horsepower.\n\nYou keep saying things about a laptop that will smoke this, and no, they don't exist. At least not without a major markup. Trust me, I handle procurement for this type of stuff, and I have tried. We have been waiting for a top TDP AI MAX system since the announcement of those chips because they offer unmatched performance.\n\nNow add in a GPU somewhere in the mobile 4060/4070 class and the lowest latency RAM possible on the entire x86 architecture at the moment.\n\nI encourage you to check out AMD's spec sheet for the AI MAX+ 395. This is no ordinary laptop processor mini-pc. This processor is more akin to a Detuned Desktop 9950X than it is to any laptop chip.\n\nhttps://www.amd.com/en/products/processors/laptop/ryzen/ai-300-series/amd-ryzen-ai-max-plus-395.html\n\nAnd no, handling and rendering 8K video on a mobile system is not child's play. At least, not if you want it done in a reasonable amount of time in a system that isn't thermal throttling. Yes. I could easily build a PC that, while slightly larger will out perform it for similar money. But warranty is a huge deal, and going through a single company is WAY better than dealing with many.\n\nFWIW, we were about to buy the HP system with similar specs when those became available. This let us order first, so we took a risk. I don't own a Framework device, nor own any stock in the company. They are simply the first to the market with a full TDP AI MAX system.",
+                              "score": 1,
+                              "created_utc": 1740683378.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mewuuag",
+              "author": "LucyFerAdvocate",
+              "body": "It's priced incredibly well for AI so they're likely to sell out immediately, if you can get them outside of that this one is somewhat price comparable with a similarly specced prebuilt desktop - but way less configurable/upgradable. So you're stuck at mid-low end hardware with the only option being more ram.",
+              "score": 0,
+              "created_utc": 1740588740.0,
+              "replies": [
+                {
+                  "id": "mexwo9c",
+                  "author": "Dt2_0",
+                  "body": "RAM is not upgradable on these. Not Framework's call. They reportedly worked directly with AMD on getting CAM or SODIMM to work, and it just could not for these processors (which need super low memory latency).",
+                  "score": 3,
+                  "created_utc": 1740599269.0,
+                  "replies": [
+                    {
+                      "id": "mf2awau",
+                      "author": "LucyFerAdvocate",
+                      "body": "As in, you can buy configurations with various RAM amounts. It's not upgradable after you buy it.",
+                      "score": 2,
+                      "created_utc": 1740661610.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mew46bu",
+              "author": "Swastik496",
+              "body": "This is priced extremely well. Best price/performance for AI work on the market. You will see startups companies buying 10x mainboards and networking them together all the time. \n\nIt\u2019s priced so aggressively I doubt there will be stock for a long time.",
+              "score": -1,
+              "created_utc": 1740580915.0,
+              "replies": []
+            },
+            {
+              "id": "mf0irkb",
+              "author": "littlePosh_",
+              "body": "There\u2019s a ton of miniPCs and associated communities out there right now. There is huge support and demand for them literally at this moment.",
+              "score": 0,
+              "created_utc": 1740628498.0,
+              "replies": [
+                {
+                  "id": "mf1xd9b",
+                  "author": "Funksultan",
+                  "body": "Not sure what your point is.  There is kind of a huge support and demand for laptops too.\n\nI was drawing a comparison between the laptop market and this \"huge demand\" for miniPCs.  They have been around a long time, and are still a niche item.",
+                  "score": 1,
+                  "created_utc": 1740655595.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mewkf2s",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 21,
+          "created_utc": 1740585796.0,
+          "replies": [
+            {
+              "id": "mewkvgn",
+              "author": "MultiMarcus",
+              "body": "Sure, I am only really talking about gaming. I don\u2019t have the technical knowledge of what makes a good PC for other use cases including AI workloads. I love the form factor, but until they have less compromises compared to a desktop PC for a higher price then it isn\u2019t for me. The article labeled it a \u201cgaming PC\u201d which is what I was discussing.",
+              "score": 1,
+              "created_utc": 1740585927.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mf0xi6n",
+          "author": "_RADIANTSUN_",
+          "body": ">  and the price is comparable to a standard desktop PC with similar performance,\n\nObviously it won't be",
+          "score": 3,
+          "created_utc": 1740634774.0,
+          "replies": []
+        },
+        {
+          "id": "mf33wrk",
+          "author": "CognitiveFogMachine",
+          "body": "~~I think (and hope) that it will run most titles perfectly fine at 1080p@60hz without FSR. But if you want 1440p@240Hz, you'll _most likely_ going to need an eGPU regardless which FSR version it can support.~~\n\n~~The built-in Radeon 890M is around the Nvidia GTX 1650 laptop GPU territory.~~\n\n\nEDIT: hold on, I was wrong. It doesn't come with a Radeon 890M. It has a Radeon 8050S/8060S, which is equivalent to an RTX4070!!!!!!",
+          "score": 2,
+          "created_utc": 1740671243.0,
+          "replies": []
+        },
+        {
+          "id": "mey55bk",
+          "author": "punIn10ded",
+          "body": "Asus makes an uglier version that may do what you want. Asus Rog NUC I think it's called.",
+          "score": 1,
+          "created_utc": 1740601572.0,
+          "replies": []
+        },
+        {
+          "id": "mf0jw4y",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1740628934.0,
+          "replies": [
+            {
+              "id": "mf0uuql",
+              "author": "MultiMarcus",
+              "body": "Yeah, I think for any non-gaming purposes it seems like a cool device. Some have mentioned that it\u2019s good for AI, which makes a lot of sense. Your type of light gaming is probably going to work incredibly well.",
+              "score": 1,
+              "created_utc": 1740633537.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mf1geqs",
+          "author": "BytchYouThought",
+          "body": ">play most games on a Mac\n\n? Maybe I'm put the loop, but always thought macs didn't have much for gaming.",
+          "score": 1,
+          "created_utc": 1740645383.0,
+          "replies": [
+            {
+              "id": "mf1gv72",
+              "author": "MultiMarcus",
+              "body": "To be clear we only really play a fairly short list of games together all of which are strategy games because we are both big strategy game fans and he introduced me to start as a kid and since then have been playing strategy games together. So it\u2019s mostly the Paradox games and Civilisation franchise. He also has an M2 Max Mac Studio which is sufficiently powerful for lighter gaming. He did play on PC for a while mostly we played a couple of windows exclusive games like sea of thieves that we weren\u2019t massively interested in that since it wasn\u2019t a strategy game so we can get by very well on his Mac.",
+              "score": 1,
+              "created_utc": 1740645669.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mew3xb4",
+          "author": "hardy_83",
+          "body": "I mean for the price of any highend mini PC or tiny form factor you can get a regular desktop that blows it out of the water.\n\nI went on their website and the lowest config is \\~1900 USD, their middle is around $2600, I think it's in US anyways.\n\nFor that price you could go to a place like Microcenter and get a premade PC with a 9800x3d and 5070 ti.\n\nThese devices are never good if you want best bang for your buck as a general user. It's either good for enthusiasts or a good price if you want to do something very specific like run AI models or something.",
+          "score": 1,
+          "created_utc": 1740580835.0,
+          "replies": [
+            {
+              "id": "mewp6qz",
+              "author": "Aleashed",
+              "body": "You can get Minisforum or Beelink miniPCs at $600-1000 that are decently high end.\n\nGiven everything Framework has a premium, I don\u2019t see how they can compete on a saturated market.",
+              "score": 2,
+              "created_utc": 1740587157.0,
+              "replies": [
+                {
+                  "id": "mexkm6o",
+                  "author": "IsaacM42",
+                  "body": "Those dont have unified memory. framework's product can have up to 110 gb of memory for running ai stuff. There is no equivalent unless amd or nvidia come out with a cheap 100 gb vram GPU.",
+                  "score": 6,
+                  "created_utc": 1740595925.0,
+                  "replies": [
+                    {
+                      "id": "mf64njl",
+                      "author": "Shorties",
+                      "body": "The DGTS",
+                      "score": 0,
+                      "created_utc": 1740703169.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mf0iy3q",
+          "author": "BuffDrBoom",
+          "body": "The preorder is a thousand dollars for the base version, I paid about the same for my beefed up full fledged gaming PC",
+          "score": 0,
+          "created_utc": 1740628566.0,
+          "replies": [
+            {
+              "id": "mf8sqej",
+              "author": "Space_Lux",
+              "body": "beefed up? thats the price of a not even high end GPU alone nowadays lol",
+              "score": 1,
+              "created_utc": 1740747551.0,
+              "replies": [
+                {
+                  "id": "mf9q45k",
+                  "author": "BuffDrBoom",
+                  "body": "Not every PC needs a RTX 4090 lol, I got my RX 6750 XT for $300 and I have rarely encountered a game I can't play on max settings. I don't think it needs to be able to play edge cases like Cyberpunk maxed out to be considered beefed up",
+                  "score": 1,
+                  "created_utc": 1740758495.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mevjppj",
+      "author": "grumble11",
+      "body": "This is a cheap AI machine. Tons of RAM available to the GPU.",
+      "score": 81,
+      "created_utc": 1740573617.0,
+      "replies": [
+        {
+          "id": "mexs1ni",
+          "author": "sluuuurp",
+          "body": "Only good for running especially large AI models (probably fairly slowly). If you\u2019re training anything or running smaller models, any GPU would be a much better choice.",
+          "score": 19,
+          "created_utc": 1740597982.0,
+          "replies": [
+            {
+              "id": "mextcqe",
+              "author": "grumble11",
+              "body": "I agree, it's basically for inference of somewhat large models but you can run it locally, so it's the cheapest way of accessing it.  The highest end mac for like 5k USD is the typical alternative, or you wait for the NVidia Digits arm-based solution that'll be maybe 3-5k but likely better.\n\nThis isn't a perfect solution, you need more cores and you need more memory bandwidth for it to be truly zippy, but it's an option if you're in that niche which is an underserved market at the moment.",
+              "score": 10,
+              "created_utc": 1740598346.0,
+              "replies": []
+            },
+            {
+              "id": "mf2aypn",
+              "author": "ToMorrowsEnd",
+              "body": "Buy an old ASUS server with 256gb ram, and install 4 used tesla cards in it and get more AI power and still have enough money to buy another 3 of them outfit the exact same way.\n\nIt's benefit is power consumption.   My solution for the same price would consume about 4800watts/hour and have massive parallel processing capabilities and be faster, but  this thing is less than a tenth of that.   If someone is space limited and live where power is expensive, it is a good choice.",
+              "score": 2,
+              "created_utc": 1740661637.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mf0qaok",
+          "author": "UsernameIn3and20",
+          "body": "I see it more as an expensive Minecraft home server with all that ram lol. But true to that, cheap AI machine if someone wants to tinker with shit themselves.",
+          "score": 1,
+          "created_utc": 1740631549.0,
+          "replies": []
+        },
+        {
+          "id": "mevkvkf",
+          "author": "OSRSgamerkid",
+          "body": "Only iGPU is available from what I can tell.",
+          "score": -7,
+          "created_utc": 1740574088.0,
+          "replies": [
+            {
+              "id": "mevlwdl",
+              "author": "grumble11",
+              "body": "Yes, but they use the Strix Halo machine with a direct connection to the system RAM, so the iGPU is actually decent and the amount of RAM it has available (which is key to AI) is huge.  In some workloads it'll crush a 5090.",
+              "score": 24,
+              "created_utc": 1740574495.0,
+              "replies": [
+                {
+                  "id": "mexnbzc",
+                  "author": "OSRSgamerkid",
+                  "body": "I misinterpreted the graphics on this machine as integrated CPU grsphics.",
+                  "score": -1,
+                  "created_utc": 1740596673.0,
+                  "replies": [
+                    {
+                      "id": "mexvoan",
+                      "author": "fvck_u_spez",
+                      "body": "They are. The difference here is that the GPU that is integrated into the CPU is massive. Like PS5 GPU, but newer architecture massive",
+                      "score": 6,
+                      "created_utc": 1740598993.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mews1vg",
+              "author": "Kiseido",
+              "body": "It has a pci-e 4x slot on the motherboard, allowing any add-on cards to be installed, like a gpu. Though if you want an add-on gpu to be used with it, you'll likely need a new power supply and case, rather than the one that framework sells with this.",
+              "score": 4,
+              "created_utc": 1740587962.0,
+              "replies": [
+                {
+                  "id": "mexngbq",
+                  "author": "OSRSgamerkid",
+                  "body": "You'd also be paying for a GPU twice.",
+                  "score": 1,
+                  "created_utc": 1740596706.0,
+                  "replies": [
+                    {
+                      "id": "mexubfk",
+                      "author": "Kiseido",
+                      "body": "Yea, but for a full ML-oriented build, people will likely want to use a CUDA-capable gpu for things that do not yet support ROCM acceleration. There is *alot* of stuff that is still CUDA exclusive simply because that's what the original devs had on hand or were taught.",
+                      "score": 2,
+                      "created_utc": 1740598617.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mf5d73l",
+              "author": "pandaSmore",
+              "body": "The most powerful integrated GPU on the market with performance comparable between a GeForce RTX 4060 and 4070.",
+              "score": 1,
+              "created_utc": 1740694318.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mevb0fw",
+      "author": "Paddy3118",
+      "body": "I would buy it for my coding needs. I like the idea of:\n\n1. 128G ram on 16 cores for multiprocessing  \n2. Large vram splits for AI models and bigdata processing.\n\nI wonder if other companies will do similar small desktop builds of that processor?",
+      "score": 103,
+      "created_utc": 1740569633.0,
+      "replies": [
+        {
+          "id": "mevrmkr",
+          "author": "damodread",
+          "body": "HP has announced one in their pro workstation lineup.\n\nEDIT: It's the Z2 Mini G1a.\n\nThere was a leak about a future NUC by ASUS coming soon as well.",
+          "score": 24,
+          "created_utc": 1740576656.0,
+          "replies": [
+            {
+              "id": "mevzq7c",
+              "author": "Paddy3118",
+              "body": "Ah, thank you: https://www.hp.com/us-en/workstations/z2-mini-a.html",
+              "score": 6,
+              "created_utc": 1740579456.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mevcfmp",
+          "author": "gymbeaux5",
+          "body": "A lot of people are obsessed with the idea of being able to run models on APUs because \u201cthe VRAM is actually the RAM\u201d but this thing already starts just north of a grand. Like it makes sense if you live in a van or RV but that\u2019s really it.",
+          "score": 20,
+          "created_utc": 1740570345.0,
+          "replies": [
+            {
+              "id": "mevmx6g",
+              "author": "isugimpy",
+              "body": "Or if you're looking to experiment with a large model on a budget.  96GB of VRAM (more like 110GB on Linux) is extremely hard to achieve in a cost-effective way.  That's 4 3090 or 4090 GPUs.  If your concern isn't speed, but rather total cost of ownership, a \\~$2500 device that draws 120W vs $5200 for just the 4 3090s and the 1000W to run it all before you consider the rest of the parts looks extremely appealing.  Just north of a grand is really expensive for a lot of people, but it's far less than other hardware that's capable of the same task.",
+              "score": 54,
+              "created_utc": 1740574898.0,
+              "replies": [
+                {
+                  "id": "mez2nvj",
+                  "author": "KidsSeeRainbows",
+                  "body": "But won\u2019t it be slower? It\u2019s good that there is a large amount of ram\u2026 I just don\u2019t understand how the speed will be impacted if we\u2019re still using high bandwidth ram instead of vram",
+                  "score": 1,
+                  "created_utc": 1740610974.0,
+                  "replies": [
+                    {
+                      "id": "mez85p5",
+                      "author": "ABetterKamahl1234",
+                      "body": "> if we\u2019re still using high bandwidth ram instead of vram\n\nIsn't vram just high bandwidth ram?",
+                      "score": 3,
+                      "created_utc": 1740612740.0,
+                      "replies": [
+                        {
+                          "id": "mez9b6l",
+                          "author": "goodnames679",
+                          "body": "VRAM is *extremely* high bandwidth RAM. \n\nGDDR7 memory can achieve a bandwidth of 1.5 Terabytes per second. The most extraordinarily fast DDR5 I can find on the market is less than 9% of that speed",
+                          "score": 6,
+                          "created_utc": 1740613118.0,
+                          "replies": [
+                            {
+                              "id": "mf04rr6",
+                              "author": "suicidaleggroll",
+                              "body": "This device uses a 256-bit DDR5 bus at 8 GT/s, that's no 1.5 TB/s, but it's about double your listed max.",
+                              "score": 3,
+                              "created_utc": 1740623483.0,
+                              "replies": [
+                                {
+                                  "id": "mf51pct",
+                                  "author": "goodnames679",
+                                  "body": "Yep, that\u2019s why soldering the RAM was necessary. It makes it possible to hit much higher speeds than the loose sticks you can buy from the parts store. \n\nIt\u2019s still very very slow compared to actual high speed VRAM, which will definitely have an impact, but it\u2019s impressive nonetheless.",
+                                  "score": 1,
+                                  "created_utc": 1740691013.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mez8rj9",
+                          "author": "KidsSeeRainbows",
+                          "body": "Honestly speaking I don\u2019t know. I think so? I think the special aspect of it is how nvidia worked to increase its speed. \n\nI think combining that speed with the speed of the gpu cores gives it the speed necessary. But that\u2019s exactly my question, which is \u201cis this amd AI cpu going to be a valid choice?\u201d\n\nI think it makes more sense for me to pay by the month to accomplish my projects now, which will realistically be probably 6 months to a year\u2026 and that\u2019ll tally up to about 175 dollars not including tax. \n\nI think it makes sense for me to wait, use the subscription models, and wait until things mature. \n\nThere\u2019s gotta be some crazy breakthrough in the next 5 years that makes running ai models a piece of cake. Once we hit that point, and it\u2019s not a 2000 dollar pc, maybe I\u2019ll consider it.",
+                          "score": 1,
+                          "created_utc": 1740612940.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mf0ebpv",
+                      "author": "leastlol",
+                      "body": "Sure, but you don't have 96GB on any consumer graphics cards and certainly not for that price. The only thing comparable to it is m-series max/ultra chips from Apple, which is quite a bit more expensive, though I'm interested to see how these fare against an m4 max with 128gb of RAM.\n\nYou can parallelize the models so you can use the VRAM on multiple GPUs, but you will still not get anywhere close to 96GB available VRAM for anything close to the price of one of these.\n\nThere is a performance penalty of using nvlink but I'd expect 4x 4090s or 3-4X 5090s to easily outperform these when running large models locally... but you're spending at least $10k on the GPUs alone.",
+                      "score": 2,
+                      "created_utc": 1740626841.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mew0khq",
+                  "author": "gymbeaux5",
+                  "body": "I guess I don't understand the market... \"People who can't or don't want to spend $4000 on GPUs, don't want to train anything, just want to run certain high-VRAM LLMs- and don't mind that inference speed is ass?\" As long as the model fits in memory?\n\nI don't think we have official memory bandwidth figures for this device, but... I'm not optimistic. \n\nTo me this product from Framework/AMD is a response to NVIDIA's Digits computer, and both I suspect are an attempt to continue to capitalize on the AI hype as both are probably experiencing a \"slump\" in demand since, you know, demand for $5,000 GPUs is *finite*. \n\nThis is the Apple equivalent of trying to peddle a Mac Mini with 8GB of RAM in 2023. Is it better than nothing? I guess so. Is it going to be a lousy experience? Yes.",
+                  "score": -5,
+                  "created_utc": 1740579735.0,
+                  "replies": [
+                    {
+                      "id": "mex8mjq",
+                      "author": "ChrisSlicks",
+                      "body": "The token rate on this is 2x faster than a 4090 if the model is such that it doesn't completely fit in the 4090 VRAM.  So if you are playing with 40GB models this is a very cost effective approach if you don't need breakneck speed.  Next best option is going to be a 48GB A6000 which is a $5K card (until the Blackwell workstation GPU's release).",
+                      "score": 7,
+                      "created_utc": 1740592597.0,
+                      "replies": [
+                        {
+                          "id": "mez92wm",
+                          "author": "gymbeaux5",
+                          "body": "Yeah again it comes down to how fast the thing can actually inference. I\u2019d rather not run an LLM at all than only get say 1 token/s. \n\nI don\u2019t understand your first sentence. Token rate is 2x faster than a $1500 4090?\u2026 if the 4090 can\u2019t fit the model in its VRAM? I mean yeah\u2026",
+                          "score": 1,
+                          "created_utc": 1740613043.0,
+                          "replies": [
+                            {
+                              "id": "mf0fow1",
+                              "author": "leastlol",
+                              "body": "It's very cost effective and maybe more importantly, available (at least in something like the m4 max chip from Apple). It might be miserable if you need low latency responses, but not all workloads require that.",
+                              "score": 2,
+                              "created_utc": 1740627345.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mezmh91",
+                          "author": "smulfragPL",
+                          "body": "Breakneck speeds is not a good way to describe it. Chatgpt speed is considered standard, this would be sub standard. Breakneck speed is Le chat and i dont think any GPU can achieve that",
+                          "score": 1,
+                          "created_utc": 1740617417.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mewr3bj",
+                      "author": "Kiseido",
+                      "body": "As far as I know, the AI HX cpus come in up to quad-channel configurations, which should put the bandwidth ballpark at around 166GB/s at ddr5-5200 speeds, up to around 200GB/s at ddr5-6000 speeds.\n\nDual channel configurations would half that.\n\nTypical high end GPUs these days have VRAM bandwidth between 500GB/s and 1.7TB/s.\n\nSo the bandwidth would be somewhere between 12x and 2x lower than on a high end card.\n\nBut also, ddr ram is much lower latency than gddr vram, and some workloads will benefit greatly from that reduced latency.",
+                      "score": 7,
+                      "created_utc": 1740587692.0,
+                      "replies": [
+                        {
+                          "id": "mez8l5v",
+                          "author": "gymbeaux5",
+                          "body": "Right, it\u2019s much slower than an RTX 3090 (around 1TB/s memory bandwidth). \n\nLook I get it, $1000 for a machine that can effectively run an LLM would be huge. It\u2019s an 8GB Mac Mini. You get what you pay for. You can\u2019t get around paying the GPU tax if you want a realistic tokens/s figure.",
+                          "score": 1,
+                          "created_utc": 1740612882.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mewd1vh",
+                  "author": "gymbeaux5",
+                  "body": "I\u2019ll say too, there are much cheaper ways to get 96GB of VRAM. Older Quadro and Instinct cards from NVIDIA and AMD respectively will get you lots and lots of VRAM for\u2026 if memory serves you can get 96GB for around half a grand. They ride the line between \u201cold\u201d and \u201cstill supported by libraries and drivers\u201d, and obviously inference speed wouldn\u2019t be great either, but you\u2019d also have the flexibility to train (not sure what if any ROCm support is coming to this Framework AMD AI contraption).",
+                  "score": -4,
+                  "created_utc": 1740583647.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mewded8",
+          "author": "YertletheeTurtle",
+          "body": "Also, it's one of the only desktops with a decent NPU until late 2025/early 2026.",
+          "score": 5,
+          "created_utc": 1740583749.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mew78j8",
+      "author": "scene_missing",
+      "body": "To nitpick the title, I don\u2019t see this as a \u201cgaming desktop\u201d and not every system doesn\u2019t have to be. ITX gaming systems with SFF cases that include 1 slot for a dedicated card are a market. This is a mini productivity system, which is a perfectly reasonable use case.",
+      "score": 28,
+      "created_utc": 1740581880.0,
+      "replies": [
+        {
+          "id": "mexrawt",
+          "author": "None",
+          "body": "I agree I think marketing it as a gaming-forward PC is kind of underselling it. A PC like this is great for people tinkering with AI and video editing in a SFF case. To me those seem like more unique angles to market than \"oh look, another new gaming desktop but this time it's even smaller\"",
+          "score": 11,
+          "created_utc": 1740597777.0,
+          "replies": [
+            {
+              "id": "mey0r0j",
+              "author": "Dt2_0",
+              "body": "Yea, I am looking at these for a business use case. It's hard to put together competent video editing rigs with this sort of horsepower for similar money. The fact that it can be thrown in a backpack, connected to our portable SSD server with 5GB LAN and be used on the go is awesome. Plus it's off the shelf with a warranty. At 120W it can run off car inverters, isn't going to make shitty hotel AC struggle.\n\nAnd honestly, it's fast enough that with our planned editor hire late this year, I will seriously be considering purchasing these as main editing rigs. Having a single hardware configuration to support from a single manufacturer is a big deal that makes my life easier. I love custom building hardware. I do all our servers and stuff. But this just makes way more sense for the run of the mill employee to have at their desk with a low onboard storage config, just pulling what is needed off the server. I was honestly considering Mac Minis and shelling out for Adobe licenses, but now, these on Windows with the DaVinci suite (which we already use cause it came with our cameras) has totally thrown that plan upside down.",
+              "score": 6,
+              "created_utc": 1740600387.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mevhsmu",
+      "author": "Jamie00003",
+      "body": "Would\u2019ve been nice if this was the first steamOS desktop",
+      "score": 26,
+      "created_utc": 1740572808.0,
+      "replies": [
+        {
+          "id": "mexiugm",
+          "author": "Weak_Abbreviations22",
+          "body": "I\u2019m waiting for that steam os desktop too. I just want something small to connect to my TV that\u2019s capable of modern gaming.",
+          "score": 11,
+          "created_utc": 1740595438.0,
+          "replies": []
+        },
+        {
+          "id": "mez1cms",
+          "author": "Bloated_Plaid",
+          "body": "They called Bazzite out as one of the OSs that can be used on it.",
+          "score": 2,
+          "created_utc": 1740610569.0,
+          "replies": []
+        },
+        {
+          "id": "mf147rb",
+          "author": "PM_artsy_fartsy_nude",
+          "body": "First? Let's go back to [2014](https://www.ign.com/articles/2013/11/04/valve-will-announce-steam-machine-partners-at-ces-2014).",
+          "score": 1,
+          "created_utc": 1740638194.0,
+          "replies": [
+            {
+              "id": "mf159h1",
+              "author": "Jamie00003",
+              "body": "I\u2019m aware of this? lol",
+              "score": 0,
+              "created_utc": 1740638761.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mewlnn7",
+      "author": "Teamore",
+      "body": "Maybe I'll buy it when it's 50% off",
+      "score": 7,
+      "created_utc": 1740586155.0,
+      "replies": []
+    },
+    {
+      "id": "mev6gad",
+      "author": "None",
+      "body": "It's not a bad product, but it makes no sense for their philosophy and the soldered RAM is insult to injury. I watched the livestream and it seemed more focused on AMD than on Framework, I wonder if it\u2019s a requirement for an investment.\n\nThere are valid reasons why this particular CPU uses soldered RAM, but why build a desktop with this CPU in particular, seems nonsensical.",
+      "score": 54,
+      "created_utc": 1740567148.0,
+      "replies": [
+        {
+          "id": "mev97tc",
+          "author": "danny12beje",
+          "body": "They literally explained that AMD stopped them from using any other RAM. \n\nThis CPU was probably chosen with a mix of performance and costs.",
+          "score": 86,
+          "created_utc": 1740568685.0,
+          "replies": [
+            {
+              "id": "mevhgwt",
+              "author": "None",
+              "body": "Read my comment more carefully, I said that are valid reasons for why the CPU needs soldered RAM. Still no reason to use this particular CPU, or even for them to build a desktop at all.\n\nIt's Framework, they have delivered so far and deserve the benefit of the doubt, but it was unexpected.",
+              "score": 5,
+              "created_utc": 1740572669.0,
+              "replies": [
+                {
+                  "id": "mezbgki",
+                  "author": "Kiseido",
+                  "body": "According to the guy, they *wanted* to built it into a laptop, but it was too big of an endeavour, so they took a less complex route and built an ITX board & soc instead, and the rest of a small computer to go around it. \n\nThis may well be a stepping stone to having it in a laptop in the future, but that is speculation on my part.",
+                  "score": 2,
+                  "created_utc": 1740613826.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mevi8pi",
+              "author": "VenkHeerman",
+              "body": "While yes, that makes sense, I feel this goes against the entire brand that Framework has built with their modular laptops. A basic desktop is more modular than this mini pc is. It has its place surely, but I feel this kind of goes against the grain with respect to brand identity.",
+              "score": 1,
+              "created_utc": 1740572999.0,
+              "replies": [
+                {
+                  "id": "mexslek",
+                  "author": "SoapyMacNCheese",
+                  "body": "They found a niche that needed filling and applied there brand values to it as best they can. In Linus Tech Tips' video, the head of Framework explains that socketed RAM is the first thing they asked AMD about, and AMD tested and found it wasn't possible due to signal integrity. The RAM runs at 8000 MT/s across a 256-bit bus.\n\nThis thing isn't going to be great value or great in terms of modularity compared to most desktops or even many miniPCs. But it fills a niche that many people playing with AI want, a GPU with access to tons of VRAM, and it fills that niche while being as modular as Framework could make it. There are no other consumer Strix Halo Mini PCs available as far as I know.",
+                  "score": 4,
+                  "created_utc": 1740598134.0,
+                  "replies": [
+                    {
+                      "id": "meywraa",
+                      "author": "Hendlton",
+                      "body": "> applied there brand values to it \n\nExactly. They used their brand to boost something, which in turn tarnishes their reputation, at least in my eyes. This alone wouldn't stop me from buying one of their laptops, but as someone who has been keeping an eye on them and planning on buying one of their laptops eventually, it has me wondering wtf they're doing with this.",
+                      "score": -2,
+                      "created_utc": 1740609186.0,
+                      "replies": [
+                        {
+                          "id": "mez6hru",
+                          "author": "SoapyMacNCheese",
+                          "body": "Would you rather they just make a basic MiniITX PC then? If they used socketed RAM, significantly hurting the speed and defeating the point of going with Strix Halo, they might as well go all the way and use a socketed AM5 processor as well right, to not \"tarnish their reputation\"? But then all Framework is doing is making a prebuilt MiniITX PC with standard parts with their own custom case and motherboard. What would be the point of that as a product? There would be zero repairability advantage over a standard MiniITX machine and they wouldn't even be cheaper compared to going DIY or buying from their larger competitors.\n\nSomething like this is the only way a Desktop Framework PC makes sense really, creating a device which would sell regardless of who made it, but make it as repairable and upgradeable as they can. Other brands would put this in a non-standard miniPC motherboard form factor, Framework made it so you can just buy the board standalone and throw it into virtually any PC case, with all the header and connectors following standard practice.\n\nOf course we would all prefer the RAM to be modular, but this product could not exist without the RAM being Soldered. Just like we would love our Laptop CPUs to be socketed, but the whole Framework lineup wouldn't exist if we insisted on that.",
+                          "score": 3,
+                          "created_utc": 1740612203.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mezcu45",
+                  "author": "im_thatoneguy",
+                  "body": "The framework dGPU module has soldered memory. It\u2019s just a compromise GPUs have to make. Was it compromising their mission to sell a GPU module?\n\nI\u2019m sure AMD would love to sell a PCIe workstation GPU with 512GB of RAM for a fraction of the cost of an Nvidia GPU but it\u2019s not possible to stuff a GPU with off the shelf DDR5.\n\nThere are technological and financial limits to repairability. Like you could make every capacitor a screw on capacitor and the laptop would be 30lbs and 9\u201d thick. You have to balance where to make something user serviceable.",
+                  "score": 1,
+                  "created_utc": 1740614284.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mevg2y7",
+              "author": "mrheosuper",
+              "body": "Then dont do it, wait for the tech mature ?, or developing your own tech ?, or just make a normal ITX motherboard, with replaceable CPU and RAM, like everyone else. \n\nWhy go against your mission ? For profit ?",
+              "score": -2,
+              "created_utc": 1740572059.0,
+              "replies": [
+                {
+                  "id": "mevvt5j",
+                  "author": "karlzhao314",
+                  "body": ">Why go against your mission ? For profit ?\n\nTo sell a mini PC with Strix Halo, which people have been asking for.\n\nWhat value does it add to the market if you just make another desktop ITX board with a socketed retail Intel/AMD CPU? You already have a dozen manufacturers making them.\n\nNobody else is making consumer-oriented ITX boards/machines with Strix Halo yet.",
+                  "score": 41,
+                  "created_utc": 1740578127.0,
+                  "replies": [
+                    {
+                      "id": "mevywq1",
+                      "author": "mrheosuper",
+                      "body": "People have been asking for many things and they choose one, very specfic thing to do, even if it gonna make them gonna go against their past mission.\n\nI doubt their customer - People who care about repairbility and upgradebility, ever wish \"I wish Framework make an ITX motherboard with non-upgradeable CPU, GPU and RAM\". \n\nStrix Halo is a new CPU, even on laptop there is less than handful model come with it. But still, people buy framework machine not because of cutting-edge technology, but because they are easy to repair and upgrade. That itx motherboard has nothing like that.\n\nYou said \"If they just make a new normal itx motherboard, it will add nothing to market\". Then dont make it, simple as that. Focus on what you do best, not what everyone else is doing.",
+                      "score": -14,
+                      "created_utc": 1740579182.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mevgtuv",
+                  "author": "danny12beje",
+                  "body": "Ah yes it's totally acceptable to wait for a laptop/pc manufacturer to manufacture their own chips and RAM.\n\nAgain. They picked a CPU and they can't use replaceable RAM because AMD said so.\n\nIt's not \"about profit\" if it's not their choice. That's the best CPU they could use and they have to make sacrifices for it.",
+                  "score": 27,
+                  "created_utc": 1740572390.0,
+                  "replies": [
+                    {
+                      "id": "mevoxyk",
+                      "author": "Ecmelt",
+                      "body": "It's not just amd said so. Linus video they mention amd worked with them to see if they could do it but all simulations failed the necessary tests.",
+                      "score": 30,
+                      "created_utc": 1740575674.0,
+                      "replies": [
+                        {
+                          "id": "mez5cx2",
+                          "author": "haarschmuck",
+                          "body": "The guy is an investor in the company so he\u2019s not unbiased.",
+                          "score": -6,
+                          "created_utc": 1740611836.0,
+                          "replies": [
+                            {
+                              "id": "mez6sd9",
+                              "author": "Ecmelt",
+                              "body": "I said Linus video *they* mentioned, not Linus. He is biased but i doubt Nirav Patel would make false / lie statements just because he is on a LTT video.\n\nDid you check the video / statement? If not, do that first.",
+                              "score": 7,
+                              "created_utc": 1740612296.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mevhm72",
+                      "author": "mrheosuper",
+                      "body": "Like i said, no one force them to make an ITX motherboard with that CPU so that they have to use soldered ram. So tell me why do they make it ?",
+                      "score": -14,
+                      "created_utc": 1740572732.0,
+                      "replies": [
+                        {
+                          "id": "mevia93",
+                          "author": "skiing123",
+                          "body": "Because it's a brand new competitor in this space that not many people are entering. The space I mean is going against the Mac mini and Studio which people are using in aggregate for local AI models.",
+                          "score": 15,
+                          "created_utc": 1740573017.0,
+                          "replies": [
+                            {
+                              "id": "mevjib4",
+                              "author": "mrheosuper",
+                              "body": "So now framework is all about shiny tech instead of \"repairable and upgradeable\" tech ?",
+                              "score": -10,
+                              "created_utc": 1740573533.0,
+                              "replies": [
+                                {
+                                  "id": "mew2xhd",
+                                  "author": "UboaNoticedYou",
+                                  "body": "Well if you bothered to look at the rest of their new offerings you'd see a new 12\" convertible laptop that is also fully repairable and upgradeable...",
+                                  "score": 10,
+                                  "created_utc": 1740580514.0,
+                                  "replies": [
+                                    {
+                                      "id": "mf1y97t",
+                                      "author": "Devatator_",
+                                      "body": "I swear to those people companies don't have the right to look in another direction even if they're still doing what they do best",
+                                      "score": 2,
+                                      "created_utc": 1740656060.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mezegvk",
+                  "author": "im_thatoneguy",
+                  "body": "The dGPU already had soldered memory. So they\u2019ve somehow managed to compromise their mission from just about day 1 by your \u201clogic\u201d.",
+                  "score": 1,
+                  "created_utc": 1740614828.0,
+                  "replies": [
+                    {
+                      "id": "mf01h9p",
+                      "author": "mrheosuper",
+                      "body": "No. By making dgpu replaceable and upgradeable by normal user, it's already better than average industry.\n\nBut this motherboard is not. Even desktop x86 motherboard that use mobile CPU has replaceable DRAM module(like the one from minisforum, or countless one from China).\n\nThis is below average",
+                      "score": 0,
+                      "created_utc": 1740622364.0,
+                      "replies": [
+                        {
+                          "id": "mf0u2cn",
+                          "author": "im_thatoneguy",
+                          "body": "Except to get the performance needed they required a dGPU layout aka memory soldered closer to the processors. So it\u2019s exactly the same as the dGPU module.",
+                          "score": 1,
+                          "created_utc": 1740633181.0,
+                          "replies": [
+                            {
+                              "id": "mf0vmky",
+                              "author": "mrheosuper",
+                              "body": "You did not even read my first comment ?\n\nI clearly said if the tech does not allow the device to be repairable/upgradeable, you can either wait for the tech to mature, or not engaging/making it at all. Has ever framework all about highest performance ? In term of raw performance and p/p, framework laptop is very bad, but it's ok, because we want repairable machine.",
+                              "score": 0,
+                              "created_utc": 1740633893.0,
+                              "replies": [
+                                {
+                                  "id": "mf0z98m",
+                                  "author": "im_thatoneguy",
+                                  "body": "Did you not read my comment that you can\u2019t repair a dGPU. You\u2019re just arbitrarily defining what features have to be replaceable. View it as a 128GB dGPU module with a non interchangeable cpu.  Which again we don\u2019t expect a dGPU processor to be interchangeable.",
+                                  "score": 1,
+                                  "created_utc": 1740635617.0,
+                                  "replies": [
+                                    {
+                                      "id": "mf0zg5l",
+                                      "author": "mrheosuper",
+                                      "body": "I expect ITX motherboard has a slot to upgrade GPU, like every other ITX motherboard ? It was you that expect dgpu on itx mb to not be replaceable.",
+                                      "score": 1,
+                                      "created_utc": 1740635713.0,
+                                      "replies": [
+                                        {
+                                          "id": "mf109k7",
+                                          "author": "im_thatoneguy",
+                                          "body": "What do \u201cexpectations\u201d have to do with anything? Once upon a time you didn\u2019t expect to need a fan and a heat sink was enough. As of like yesterday you didn\u2019t expect to be able to buy a GPU with 128GB of ram for less than $50,000.  You wouldn\u2019t expect a CPU to have WiFi built in but cellphone SOCs packaged it all onto one chip. \n\nTechnology changes and in this instance there is a one less thing that is possible to separate from something else.",
+                                          "score": 1,
+                                          "created_utc": 1740636121.0,
+                                          "replies": [
+                                            {
+                                              "id": "mf10q17",
+                                              "author": "mrheosuper",
+                                              "body": "If framework was like every other company like Asus, msi, gigabyte, yeah, they can pull this and i dont care, because they were never claiming their mission is making device more user-friendly, repairable and upgradeable.\n\nMy expectation is nothing unreasonable: Make a device that has better repairability than competitor. Not allowing changing ram/gpu is the opposite of that.",
+                                              "score": 1,
+                                              "created_utc": 1740636354.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mf2ayru",
+              "author": "SandKeeper",
+              "body": "In the LTT video it was explained that AMD didn\u2019t say no. They really tried to get swappable ram to work but it was halving performance. The technology just isn\u2019t there yet for this high speed VRAM",
+              "score": 1,
+              "created_utc": 1740661638.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mez26tq",
+          "author": "fmaz008",
+          "body": "This is not your regular ddr5 ram. Comparing this to a PC RAM is not really fair.",
+          "score": 2,
+          "created_utc": 1740610826.0,
+          "replies": []
+        },
+        {
+          "id": "mexykea",
+          "author": "fvck_u_spez",
+          "body": "I mean, it works for me. I have been very interested in Strix Halo for a desktop Linux workstation/semi portable gaming machine, and the prices on this are much more reasonable than the only other desktop version of this announced so far from HP. This also has a PCI x4 lane, which I doubt the HP has, can use multiple coolers, has 2x M.2 slots. Plus, I can choose my own front IO. Or a completely different ITX case if I want. Point is, nobody was going to make an ITX version of this for somebody to use for any use case (I saw they had some rack mount set ups for these), and now Framework does, and from what I have seen, many people are quite excited about it.",
+          "score": 1,
+          "created_utc": 1740599787.0,
+          "replies": []
+        },
+        {
+          "id": "mezcbu3",
+          "author": "im_thatoneguy",
+          "body": "If you want a fast GPU you need fast memory. (Even then it\u2019s pretty slow memory by GPU standards).\n\nNobody complains that Franework\u2019s VRAM is soldered to their dGPU module. It\u2019s not out of spite, it\u2019s just goes with the territory of selling a GPU.",
+          "score": 1,
+          "created_utc": 1740614116.0,
+          "replies": []
+        },
+        {
+          "id": "mev992t",
+          "author": "danny12beje",
+          "body": "They literally explained that AMD stopped them from using any other RAM. \n\nThis CPU was probably chosen with a mix of performance and costs.",
+          "score": 1,
+          "created_utc": 1740568703.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mevl7ky",
+      "author": "OSRSgamerkid",
+      "body": "The whole soldering thing is a deal breaker for me, just from a practicality standpoint. The morals behind it, I think it goes against what Framework said it would do. Any sort of size or performance compromise should have been made in order to allow the hardware to be upgraded.\n\nIf this was an impossible thing to do, for whatever reason, they should have just scrapped the whole idea then.",
+      "score": 19,
+      "created_utc": 1740574222.0,
+      "replies": [
+        {
+          "id": "mevupxq",
+          "author": "karlzhao314",
+          "body": "Framework's CEO talked about this when he appeared on LTT, apparently the very first thing he asked AMD about was whether they could make the RAM upgradeable. AMD actually assigned an engineer to try to work with them and they still ended up coming to the conclusion that it was impossible.\n\nIt's entirely understandable, too - it's a 256-bit bus running at 8000 MT/s. The signaling requirements are astronomical. Soldering is likely the only feasible way to make it work right now.\n\n>If this was an impossible thing to do, for whatever reason, they should have just scrapped the whole idea then.\n\nThat I don't agree with at all. Right now, there don't appear to be any other consumer-oriented mini PCs with Strix Halo, which there is *definitely* a market for. Just because Framework is known for making repairable and upgradeable laptops doesn't mean they shouldn't capitalize on a new market that is slightly *less* repairable and upgradeable out of necessity.\n\nAnd they've still tried to make it as modular as they could, with upgradeable storage (*ahem* Mac Mini) and also by even selling it as a bare ITX board for anyone to use in their own PC.",
+          "score": 57,
+          "created_utc": 1740577750.0,
+          "replies": [
+            {
+              "id": "mevxxbh",
+              "author": "Hazel-Rah",
+              "body": "> It's entirely understandable, too - it's a 256-bit bus running at 8000 MT/s. The signaling requirements are astronomical. Soldering is likely the only feasible way to make it work right now.\n\nIt sucks, but I feel like socketed ram will start going away with DDR6 and 7. There's just only so much you can do to manage signal quality at those speeds, the shorter the distance the better, and needing a socket, pins, pads, and the geometry of the sticks, there's only so far you can go.\n\nI'm guessing there will be some DDR6 motherboards with soldered ram marketed as premium gaming boards for maximum transfer speeds, but I doubt DDR7 will even work with the current stick based form factor of ram. Maybe a flat panel that plugs in on the back of the motherboard directly behind the CPU. Soldered CPUs might also start showing up for the same reason",
+              "score": 17,
+              "created_utc": 1740578850.0,
+              "replies": [
+                {
+                  "id": "meyyvwg",
+                  "author": "Hendlton",
+                  "body": "How heat sensitive is RAM? I honestly wouldn't mind if they just left empty spots on the board and sold RAM chips by themselves so you can solder them on yourself. As long as it can be done with a heat gun and doesn't require a board preheater, that's totally doable.",
+                  "score": 1,
+                  "created_utc": 1740609819.0,
+                  "replies": [
+                    {
+                      "id": "mez9kjp",
+                      "author": "ABetterKamahl1234",
+                      "body": "That's like, niche of niche markets there man. \n\nThere's a lot of tech nerds out there. There's a fraction of that interested enough to enjoy tinkering/part replacement.\n\nAnd a fraction of them still have the skills and tools for soldering chips. As that's starting to up the prices, both in tool costs but also fuckups in learning.\n\nEven janky reflow is a pretty niche thing.",
+                      "score": 2,
+                      "created_utc": 1740613203.0,
+                      "replies": [
+                        {
+                          "id": "mf1rnmo",
+                          "author": "Hendlton",
+                          "body": "Think of it like modern cars. Repairing your own car is niche these days, but manufacturers still sell components. Why wouldn't PC manufacturers do the same? Yeah, most people won't learn how to do it, but it'd be nice if you could take it to a service instead of being stuck with e-waste when you need an upgrade.\n\nI have an old laptop that I use as an internet browsing machine, and the only reason it's still around is because I put more RAM in it. Otherwise it would just be scrap. Are computers like the one in the article still going to be usable in 10+ years? Well, the answer is \"Probably.\" But I still think about that when I buy electronics. I'm not someone who can afford to spend thousands of dollars ever 4-5 years.",
+                          "score": 1,
+                          "created_utc": 1740652359.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mexn8su",
+              "author": "OSRSgamerkid",
+              "body": "My statement on them scraping the idea, of course, is highly opinionated and just that, my opinion. So, I won't repeat and spark a debate on that or anything \n\n> slightly less repairable and upgradeable\n\nThis however, I think your usage of the words \"slightly less\" is a wild stretch, respectfully of course. Having not only the CPU soldered, but the GPU **AND** RAM. I mean, you can't get much more un-upgradable than that. Comparing it to Apple is, a bit unfair as far as this goes. In my opinion, obviously.\n\nWould have been nice to see them go a more mainstream market approach, with standard sockets and GPUs in this form factor. Would have really sparked my interest at least, especially if they let you pick and choose which components you wanted with the case itself.\n\nHopefully it'll come in the future, but clearly non-repairable proprietary components *is* where the money is at based on the rest of the market, and they are a business after all. So I won't get my hopes up.\n\nLastly, you got a link to that Linus video?",
+              "score": 1,
+              "created_utc": 1740596648.0,
+              "replies": [
+                {
+                  "id": "mexr059",
+                  "author": "karlzhao314",
+                  "body": ">This however, I think your usage of the words \"slightly less\" is a wild stretch, respectfully of course.\n\nI don't agree. Most of Framework's other products - namely, their laptop mainboards - already have soldered CPUs and GPUs, because, well, that's the package that laptop CPUs and GPUs already come in. All things considered, I don't consider soldering the RAM as well to be a major departure from the level of upgradeability of their other products.\n\nIf the point of comparison was other, full-sized desktops with standard socketed CPUs, then sure - the Framework desktop is *much* less upgradeable. But if that level of modularity is your requirement, then you wouldn't be looking at a Framework in the first place, regardless of whether it's a laptop or a desktop.\n\n>Would have been nice to see them go a more mainstream market approach, with standard sockets and GPUs in this form factor. Would have really sparked my interest at least, especially if they let you pick and choose which components you wanted with the case itself.\n\nI don't see how they'd set themselves apart from any of the dozen ITX motherboard makers already on the market, and they don't have the scale to be price-competitive.\n\nI'm going to sound like a broken record here, but the thing that it seems like a lot of people fail to understand (not saying you specifically, of course, just in general) is that this Framework desktop is not notable simply because \"Framework is making a desktop\". It's notable because it's based on *Strix Halo*. If you go back to all the various threads regarding product launches of Strix Halo handhelds and laptops, they're filled with people asking for it to be in a mini PC. That's the market Framework is choosing to capitalize on, not simply general use office or gaming PCs. \n\nThat SOC does not and most likely *cannot* exist in anything except soldered BGA form with soldered RAM. As a result, if Framework wants to cater to the Strix Halo mini PC niche market, then modularity is by necessity going to be more limited than ordinary desktops - which I'm pretty sure most of the prospective customers in that market understand.\n\nIf Strix Halo didn't exist, Framework almost certainly would not have entered the desktop market either.\n\n>Lastly, you got a link to that Linus video?\n\nSure, here you go.\n\n[My Framework Investment Should NOT Have Worked Out](https://www.youtube.com/watch?v=-lErGZZgUbY)\n\nThe part where they discuss upgradeable RAM starts at 7:25.",
+                  "score": 7,
+                  "created_utc": 1740597695.0,
+                  "replies": []
+                },
+                {
+                  "id": "mexw57k",
+                  "author": "SoapyMacNCheese",
+                  "body": "> Would have been nice to see them go a more mainstream market approach, with standard sockets and GPUs in this form factor. Would have really sparked my interest at least, especially if they let you pick and choose which components you wanted with the case itself.\n\nBut what would be the point of that? You can already build a Mini-ITX machine in this form factor with whatever parts you want. You'll probably be able to buy this exact case from them at some point and stick your own Mini-ITX machine in it.\n\nThey built a mini-PC that filled a niche in the market (strix halo in a desktop with a bunch of RAM is valuable for machine learning), and made it as user friendly and repairable as they could. They made the motherboard fit a Mini-ITX footprint, meaning you can put different hardware in the case or transfer the board to an off the shelf option. They kept the storage and wireless card socketed, used industry standard connectors, headers, and components where possible, so you can use a standard PC power supply with the board, use standard fans, etc. They even exposed a 4x PCIe slot on the board, even though there is no room of an expansion card in the compact case.",
+                  "score": 4,
+                  "created_utc": 1740599121.0,
+                  "replies": []
+                },
+                {
+                  "id": "mez9zx9",
+                  "author": "ABetterKamahl1234",
+                  "body": "> Would have been nice to see them go a more mainstream market approach, with standard sockets and GPUs in this form factor. Would have really sparked my interest at least, especially if they let you pick and choose which components you wanted with the case itself.\n\nI get the sentiment but what would that bring that other SFF companies aren't doing?\n\n\n>but clearly non-repairable proprietary components is where the money is at based on the rest of the market\n\nNot just the market, physics. Or at least our current ability to deal with the physics. It's why so many of these soldered systems that are starting to hit markets are giving absolutely nuts performance compared to traditional systems.\n\nDon't get me wrong, I love repairability and the ability to upgrade over full replacement, but as we keep wanting more performance year over year in new tech, I'm not seeing how we can keep pumping the numbers without hitting the same hurdles we've seen over decades with simple data rates and existing connection designs.",
+                  "score": 1,
+                  "created_utc": 1740613343.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mevy6zn",
+              "author": "boxofredflags",
+              "body": "Did they mention if they tried using the new lpcamm2 form factor? That would\u2019ve been so on brand for framework.\n\nBut yeah even though soldered RAM is the only option, it\u2019s also a dealbreaker for me as well",
+              "score": -2,
+              "created_utc": 1740578940.0,
+              "replies": [
+                {
+                  "id": "mew30z9",
+                  "author": "karlzhao314",
+                  "body": "Yep, they tried with LPCAMM2. Linus specifically asked about that as well.\n\nAFAIK LPCAMM2 is currently only validated up to 7500MT/s, and to my knowledge it's not really designed to be run with two modules since each module is 128-bit - the same width as 2 DDR5 channels.",
+                  "score": 12,
+                  "created_utc": 1740580546.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mewn2wu",
+          "author": "ZellZoy",
+          "body": "Soldered ram is a deal breaker for me on a laptop. No way am I getting a desktop with it.",
+          "score": -3,
+          "created_utc": 1740586563.0,
+          "replies": [
+            {
+              "id": "mezae0x",
+              "author": "ABetterKamahl1234",
+              "body": "I get what you mean, but at the same time, to get the speeds we're seeing now hitting the markets, it might not be possible to avoid soldered ram.",
+              "score": 1,
+              "created_utc": 1740613471.0,
+              "replies": [
+                {
+                  "id": "mezgjd6",
+                  "author": "ZellZoy",
+                  "body": "If we can get non soldered GPUs which have ddr7 why can't we get non soldered ddr5? Might require a change in interface but its not an insurmountable problem.",
+                  "score": -6,
+                  "created_utc": 1740615499.0,
+                  "replies": [
+                    {
+                      "id": "mf03las",
+                      "author": "PM_YOUR_BOOBS_PLS_",
+                      "body": ">If we can get non soldered GPUs which have ddr7\n\n...  ...  wut?\n\nYou do realize GPU VRAM is, in fact, soldered to the GPU, right?  A CPU doesn't talk to VRAM.  The GPU does.  And that VRAM is soldered to the GPU...",
+                      "score": 4,
+                      "created_utc": 1740623083.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mf0jtxr",
+                      "author": "0gopog0",
+                      "body": "Gpu GDDR memory is not the same as general DDR memory. One prioritizes bandwidth, the other latency. \n\nGDDR on GPU's is also soldered memory.",
+                      "score": 2,
+                      "created_utc": 1740628911.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mewy72q",
+      "author": "Gnash_",
+      "body": "Looks like an upside-down FormD T1. I really like it.\n\nSFFPC are, sadly, a niche. But if you are in the market for that, I think this will be an enjoyable product.",
+      "score": 2,
+      "created_utc": 1740589686.0,
+      "replies": []
+    },
+    {
+      "id": "mf2agde",
+      "author": "ToMorrowsEnd",
+      "body": "It's also holy hell expensive.",
+      "score": 2,
+      "created_utc": 1740661437.0,
+      "replies": [
+        {
+          "id": "mfb920n",
+          "author": "Flat_reddituser",
+          "body": "It's a niche product. Having 128gb of ram available to the GPU would let you load huge LLMs locally, bigger than you could even with a pair of 4090s. It probably isn't intended to be a gaming box, really.",
+          "score": 1,
+          "created_utc": 1740774017.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mey91wt",
+      "author": "sleepcurse",
+      "body": "I have a 4060 laptop we connect to the tv to play couch co op steam games. It runs amazing. This would be a pretty cool replacement and gives me hope one day we may see a good steambox",
+      "score": 1,
+      "created_utc": 1740602637.0,
+      "replies": []
+    },
+    {
+      "id": "mez43vo",
+      "author": "NukeTheWhales91",
+      "body": "I would love this for the right price. I use my old mITX gaming rig as an HTPC but the 10 year old GPU is finally starting to kick it. I think this would look nice in a home theater set up. Could double as a karaoke/light gaming box for game nights. \n\nWorking with mITX was such a pain I would pay a premium not to have to do it again...",
+      "score": 1,
+      "created_utc": 1740611434.0,
+      "replies": []
+    },
+    {
+      "id": "mf0xbsy",
+      "author": "_RADIANTSUN_",
+      "body": "LPCAMM2 please",
+      "score": 1,
+      "created_utc": 1740634687.0,
+      "replies": [
+        {
+          "id": "mf1ywov",
+          "author": "Devatator_",
+          "body": "Not possible according to AMD",
+          "score": 2,
+          "created_utc": 1740656399.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mf6zut3",
+      "author": "None",
+      "body": "price for base unit is decent, considering many ai hx-370 mini pc are ~900-1000",
+      "score": 1,
+      "created_utc": 1740714139.0,
+      "replies": []
+    },
+    {
+      "id": "mf88r76",
+      "author": "GreggAlan",
+      "body": "Framework could take over the ExpressCard format and update it to Version 4.0. (Skip 3.0 that never happened.)\n\nExpressCard 1.0 is essentially a single lane PCIe 1.0 lane plus USB 2.0. ExpressCard 2.0 bumped up USB to 3.0 but made the PCIe 2.0 upgrade \\*optional\\* so the few devices using the new standard might only have PCIe 1.0.\n\nExpressCard 4.0 should utilize the full 54mm width with all the extra used for PCIe lanes, at least version 3.0. It should also be backwards compatible with all ExpressCard 2.0 and 1.0 cards. Make the connector with a step and guide rails so old narrow cards will be guided to the right spot, and old 54mm cards will plug right in as they do in previous slots. A PCIe x4 3.0 connection is faster than USB C.\n\nFramework's laptop modules aren't revolutionary. They're just USB C devices or adapters inna small box.",
+      "score": 1,
+      "created_utc": 1740737474.0,
+      "replies": []
+    },
+    {
+      "id": "meyty6f",
+      "author": "BaldMidgetPutin",
+      "body": "Pass. The mainboard on my FW laptop crapped out after roughy 2 years of light use and supports response after sending a ton of photos and working through troubleshooting was to send me a link to purchase a new mainboard. No offer to send in for repair. Was like a slap in the face and against the alleged mission of reducing waste.",
+      "score": 1,
+      "created_utc": 1740608366.0,
+      "replies": [
+        {
+          "id": "mf1q3a3",
+          "author": "RenegadeUK",
+          "body": "Which laptop are you using now ?",
+          "score": 1,
+          "created_utc": 1740651425.0,
+          "replies": [
+            {
+              "id": "mf54lf0",
+              "author": "BaldMidgetPutin",
+              "body": "Back to using the MacBook I\u2019ve had since 2015",
+              "score": 2,
+              "created_utc": 1740691827.0,
+              "replies": [
+                {
+                  "id": "mf5li4j",
+                  "author": "RenegadeUK",
+                  "body": "My Macbook is from 2010. Oneday i'll buy a Framework 16 :)",
+                  "score": 1,
+                  "created_utc": 1740696870.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mew8lzc",
+      "author": "Jarvdoge",
+      "body": "Why?\n\nThe issue with laptops is that some are incredibly hard to open up and or replace parts when they break or become outdated. This literally isn't an issue with desktops as you can either fork out a little extra for somebody else to build one for you or build your own and know exactly what is in there and how to replace parts if and when needed.\n\nThere's no need for Framework to release something like this to me, especially a product where certain parts which you'd normally be able to swap out are fixed. This seems utterly stupid and out of touch with their customer base.",
+      "score": -1,
+      "created_utc": 1740582303.0,
+      "replies": [
+        {
+          "id": "mex8rf7",
+          "author": "karlzhao314",
+          "body": "Strix Halo, that's why.\n\nIf Strix Halo didn't exist, I highly doubt Framework would have tried making a desktop.",
+          "score": 6,
+          "created_utc": 1740592635.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mevelz9",
+      "author": "Drone30389",
+      "body": "> strange - but unique",
+      "score": -2,
+      "created_utc": 1740571391.0,
+      "replies": []
+    },
+    {
+      "id": "mewa969",
+      "author": "radda",
+      "body": "$1000 for an iGPU, no PCIe slot, and soldered RAM?\n\nFuck *all* the way off, thanks.",
+      "score": -8,
+      "created_utc": 1740582810.0,
+      "replies": [
+        {
+          "id": "mewmai2",
+          "author": "TheCorruptedBit",
+          "body": "It's got a x4 PCIe slot right there on the bottom edge",
+          "score": 10,
+          "created_utc": 1740586338.0,
+          "replies": []
+        },
+        {
+          "id": "mey13ub",
+          "author": "fvck_u_spez",
+          "body": "I mean it's not really just a whatever iGPU, this is the biggest GPU, by far, that AMD has ever put into an APU system. It is a PS5 tier GPU, with CPU cores, memory, and memory bandwidth that are much, much better. These are, depending on the config, 32 or 40 RDNA 3.5 Cores, whereas the PS5 has 36 RDNA 2 cores.",
+          "score": 4,
+          "created_utc": 1740600486.0,
+          "replies": []
+        },
+        {
+          "id": "mezbtnw",
+          "author": "ABetterKamahl1234",
+          "body": "> an iGPU\n\nAn iGPU that performs akin to that of only the previous generation desktop class GPUs?\n\nI have a 3080, from what I can see, this iGPU system beats my desktops performance *outright.*",
+          "score": 1,
+          "created_utc": 1740613946.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mex0mwp",
+      "author": "UnTides",
+      "body": "Their laptops were unique.  But for desktops they are trying to fix a problem that isn't there.  Mini-ITX niche PC rigs have been a thing for over a decade.",
+      "score": -3,
+      "created_utc": 1740590374.0,
+      "replies": [
+        {
+          "id": "mezbce2",
+          "author": "ABetterKamahl1234",
+          "body": ">  But for desktops they are trying to fix a problem that isn't there.\n\nAvailability of the AI MAX?\n\nIt stands to be the most powerful mini PC out there. \n\nShit, performance alone it outperforms my PC by a surprising margin. Enough so that if I had the funds, I'd consider it as an upgrade for my partner who doesn't need more than a \"it just works\" gaming PC and doesn't have much space in their layout.",
+          "score": 4,
+          "created_utc": 1740613787.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mf0hcte",
+      "author": "mycall",
+      "body": "Disappointing no Oculink.",
+      "score": 0,
+      "created_utc": 1740627968.0,
+      "replies": []
+    },
+    {
+      "id": "mf12g6e",
+      "author": "Sa404",
+      "body": "Interesting how their first pc is the opposite of modularity. Still it looks cool I\u2019ll wait until the benchmarks come out",
+      "score": 0,
+      "created_utc": 1740637251.0,
+      "replies": []
+    },
+    {
+      "id": "mf1f8kk",
+      "author": "moxyte",
+      "body": "It's not a gaming PC and Bazzite isn't based on SteamOS. Ars is so bad these days.",
+      "score": 0,
+      "created_utc": 1740644641.0,
+      "replies": [
+        {
+          "id": "mf5oftf",
+          "author": "Neo_Techni",
+          "body": "*Arse",
+          "score": 2,
+          "created_utc": 1740697810.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mev1c4b",
+      "author": "267aa37673a9fa659490",
+      "body": "Feels like biting off more than they can chew.\n\n\nTheir laptops are still quite primitive in terms of customization options and availability and they're already thinking of moving onto desktop.",
+      "score": -29,
+      "created_utc": 1740564137.0,
+      "replies": [
+        {
+          "id": "mev3alz",
+          "author": "Tuny",
+          "body": "in what way are they primitive in customization in comparison to any other laptop on the market?",
+          "score": 27,
+          "created_utc": 1740565312.0,
+          "replies": [
+            {
+              "id": "mev90az",
+              "author": "zkareface",
+              "body": "Can only imagine they mean CPU/GPU SKUs.\n\nI think there is only 5 CPU options? 6 with the RISC-V one?\n\nAlso no rugged ones, which is super common in many companies.",
+              "score": 9,
+              "created_utc": 1740568575.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mexg8lo",
+      "author": "Urc0mp",
+      "body": "I\u2019m surprised they still exist.",
+      "score": -5,
+      "created_utc": 1740594713.0,
+      "replies": []
+    },
+    {
+      "id": "meytv0r",
+      "author": "Isolasjon",
+      "body": "\u201cWe built a framework inside your framework, so you can buy a new framework to put in your old framework, when the new framework comes out, knowwhatimsayin\u201d",
+      "score": -1,
+      "created_utc": 1740608342.0,
+      "replies": []
+    }
+  ]
+}

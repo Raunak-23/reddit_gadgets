@@ -1,0 +1,49 @@
+metric,value
+file,1m80ypv.csv
+title,3D printed racing toy with miniature cars and steering wheel revives days of arcade games
+rows,15
+num_posts,1
+num_comments,14
+unique_authors,14
+max_depth,2
+avg_comment_words,35.43
+median_comment_words,29.5
+max_comment_words,131
+positive_count,0
+negative_count,14
+neutral_count,0
+positive_pct,0.0
+negative_pct,100.0
+neutral_pct,0.0
+topic_1_keywords,"racing, thats, turbo, rehash, tomy, toy, article, motor"
+topic_1_label,"rehash, toy, toy, toy"
+topic_2_keywords,"hit, toy, remember, looks, better, loop, dont, cello"
+topic_2_label,a toy that remembers a hit and a loop
+topic_3_keywords,"sure, article, racing, motor, kit, build, 3d, toy"
+topic_3_label,ad ad ad ad ad ad ad ad ad a
+topic_4_keywords,"3d, build, motor, kit, toy, want, got, printer"
+topic_4_label,3D printers want to build 3d motors
+topic_5_keywords,"arcade, games, days, creator, really, specific, nostalgia, reviving"
+topic_5_label,nostalgia reviving games
+topic_6_keywords,"driving, arcade, games, car, another, days, yeah, havent"
+topic_6_label,arcade games and games
+top_ngram_1,arcade games (4)
+top_ngram_2,really reviving (3)
+top_ngram_3,reviving days (3)
+top_ngram_4,days arcade (3)
+top_ngram_5,games recreating (3)
+top_ngram_6,recreating specific (3)
+top_ngram_7,specific toy (3)
+top_ngram_8,toy creator (3)
+top_ngram_9,creator nostalgia (3)
+top_ngram_10,really reviving days (3)
+ner_1,##dgets|ORG|1
+ner_2,##gecomposetor|ORG|1
+ner_3,##mes|ORG|1
+ner_4,Bambu|ORG|1
+ner_5,Bambu Store|ORG|1
+ner_6,Digital Derby|MISC|1
+ner_7,Google|ORG|1
+ner_8,Kit|MISC|1
+ner_9,Luckeep X1|MISC|1
+ner_10,Tomy Racing Turbo|MISC|1

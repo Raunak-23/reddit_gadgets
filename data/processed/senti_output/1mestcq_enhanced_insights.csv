@@ -1,0 +1,49 @@
+metric,value
+file,1mestcq.csv
+title,Sony's Triple-Layer Image Sensor Promises Huge Performance Gains
+rows,19
+num_posts,1
+num_comments,18
+unique_authors,15
+max_depth,4
+avg_comment_words,57.5
+median_comment_words,35.0
+max_comment_words,153
+positive_count,3
+negative_count,15
+neutral_count,0
+positive_pct,16.667
+negative_pct,83.333
+neutral_pct,0.0
+topic_1_keywords,"logic, power, ect, layer, like, self, gain, sensors"
+topic_1_label,"Logic, power, ect, self, gain"
+topic_2_keywords,"power, around, cameras, chips, sony, start, draw, efficient"
+topic_2_label,"power, chips, sony, camera, chips"
+topic_3_keywords,"good, article, see, interested, theyll, read, increased, referenced"
+topic_3_label,Articles and reads increase in reference
+topic_4_keywords,"film, old, quality, camera, terms, year, point, obliterated"
+topic_4_label,film obliterated by old camera
+topic_5_keywords,"power, around, chips, sony, cameras, start, much, movie"
+topic_5_label,a movie starts with chips and sony
+topic_6_keywords,"sensor, image, extra, foveon, used, photodiodes, quality, processing"
+topic_6_label,photodiodes used for photodiodes
+top_ngram_1,power draw (7)
+top_ngram_2,chips pull (6)
+top_ngram_3,pull around (6)
+top_ngram_4,movie cameras (6)
+top_ngram_5,chips pull around (6)
+top_ngram_6,image quality (4)
+top_ngram_7,still absolutely (3)
+top_ngram_8,absolutely obliterated (3)
+top_ngram_9,obliterated terms (3)
+top_ngram_10,terms image (3)
+ner_1,Sony|ORG|8
+ner_2,Venice|LOC|3
+ner_3,Foveon|ORG|2
+ner_4,Bay|MISC|2
+ner_5,##er|ORG|2
+ner_6,##dgets|ORG|1
+ner_7,##PA|ORG|1
+ner_8,##RI|ORG|1
+ner_9,##as|MISC|1
+ner_10,##GMM|MISC|1

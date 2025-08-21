@@ -1,0 +1,49 @@
+metric,value
+file,1iib5hi.csv
+title,"This miniature machine may look like an old distillery, but it's actually an RTX 4090-powered PC | It's water- and copper-cooled"
+rows,48
+num_posts,1
+num_comments,47
+unique_authors,43
+max_depth,6
+avg_comment_words,41.98
+median_comment_words,13.0
+max_comment_words,248
+positive_count,8
+negative_count,39
+neutral_count,0
+positive_pct,17.021
+negative_pct,82.979
+neutral_pct,0.0
+topic_1_keywords,"copper, also, much, water, worry, getting, glue, pipe"
+topic_1_label,Copper is a very important material for a pipe
+topic_2_keywords,"run, trail, oregon, doom, least, 4090, bought, need"
+topic_2_label,Dooms are not needed for running in Oregon
+topic_3_keywords,"ltt, billet, wanted, labs, also, back, problems, sell"
+topic_3_label,"ltt wanted, labs, back problems"
+topic_4_keywords,"case, like, make, since, could, build, would, basically"
+topic_4_label,a case like a case
+topic_5_keywords,"like, steam, review, sell, permission, without, basically, runs"
+topic_5_label,"Steam, like, review, sell, permission"
+topic_6_keywords,"left, dad, right, cool, get, cant, joke, opportunity"
+topic_6_label,dad cools off with jokes
+top_ngram_1,12mm od (8)
+top_ngram_2,something similar (6)
+top_ngram_3,review sell (6)
+top_ngram_4,run 4090 (5)
+top_ngram_5,4090 full (5)
+top_ngram_6,full speed (5)
+top_ngram_7,speed days (5)
+top_ngram_8,days worry (5)
+top_ngram_9,worry water (5)
+top_ngram_10,water getting (5)
+ner_1,LTT|ORG|7
+ner_2,Alambic|MISC|3
+ner_3,Hennessy|ORG|3
+ner_4,Billet|ORG|2
+ner_5,Oregon Trail|MISC|2
+ner_6,Al|ORG|1
+ner_7,##TT|ORG|1
+ner_8,##bic|ORG|1
+ner_9,Dwemer GPU|ORG|1
+ner_10,Lin|PER|1

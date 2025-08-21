@@ -1,0 +1,49 @@
+metric,value
+file,1gml4de.csv
+title,TSMC will stop making 7 nm chips for Chinese customers
+rows,101
+num_posts,1
+num_comments,100
+unique_authors,57
+max_depth,19
+avg_comment_words,81.03
+median_comment_words,74.0
+max_comment_words,223
+positive_count,6
+negative_count,94
+neutral_count,0
+positive_pct,6.0
+negative_pct,94.0
+neutral_pct,0.0
+topic_1_keywords,"china, asml, long, fabs, us, like, make, wont"
+topic_1_label,fabs in china like to make a fab
+topic_2_keywords,"china, chips, make, chinese, models, bigger, machine, us"
+topic_2_label,Chips make machines in china
+topic_3_keywords,"china, advanced, us, asml, fabs, tech, selling, billions"
+topic_3_label,"China, asml, fabs, technology, selling billions"
+topic_4_keywords,"7nm, waymo, achievable, lowest, duv, chips, get, china"
+topic_4_label,China's waymo is a low-budget chip
+topic_5_keywords,"chips, models, 7nm, problem, produce, model, 10nm, smaller"
+topic_5_label,"Chips, models, chips, problems, model, 10nm"
+topic_6_keywords,"usa, us, asml, company, allow, china, would, chinese"
+topic_6_label,acl. chinese company allows acl.
+top_ngram_1,advanced fabs (19)
+top_ngram_2,bigger models (16)
+top_ngram_3,make 7nm (14)
+top_ngram_4,china gets (13)
+top_ngram_5,wont allow (11)
+top_ngram_6,high end (11)
+top_ngram_7,sink billions (11)
+top_ngram_8,billions upon (11)
+top_ngram_9,upon billions (11)
+top_ngram_10,billions dollars (11)
+ner_1,China|LOC|121
+ner_2,ASML|ORG|67
+ner_3,US|LOC|50
+ner_4,USA|LOC|24
+ner_5,Chinese|MISC|22
+ner_6,Waymo|ORG|14
+ner_7,EU|ORG|11
+ner_8,Tesla|ORG|9
+ner_9,US|MISC|8
+ner_10,EU|MISC|7

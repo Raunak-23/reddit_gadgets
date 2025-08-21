@@ -1,0 +1,49 @@
+metric,value
+file,1m78bh6.csv
+title,Maingear’s Retro95 combines ’90s-era PC design with modern specs | A prebuilt sleeper PC for those who miss CRTs and swapping out disks in the middle of games.
+rows,17
+num_posts,1
+num_comments,16
+unique_authors,14
+max_depth,4
+avg_comment_words,51.19
+median_comment_words,39.5
+max_comment_words,218
+positive_count,0
+negative_count,16
+neutral_count,0
+positive_pct,0.0
+negative_pct,100.0
+neutral_pct,0.0
+topic_1_keywords,"crt, like, put, get, newer, think, thats, would"
+topic_1_label,crt likes to put
+topic_2_keywords,"machine, giveaway, floppy, looks, well, look, modern, sure"
+topic_2_label,floppy floppy looks modern
+topic_3_keywords,"drive, floppy, serial, parallel, hard, put, also, really"
+topic_3_label,Serial floppy drives a lot of hard drives
+topic_4_keywords,"case, think, crt, people, cool, id, real, one"
+topic_4_label,id and real name of case
+topic_5_keywords,"crt, least, assume, want, could, neither, new, buy"
+topic_5_label,ct is not a new buy
+topic_6_keywords,"crt, come, cool, case, drive, floppy, youre, make"
+topic_6_label,floppy drive comes to you
+top_ngram_1,floppy parallel (4)
+top_ngram_2,parallel serial (4)
+top_ngram_3,hard drive (4)
+top_ngram_4,floppy parallel serial (4)
+top_ngram_5,come crt (3)
+top_ngram_6,ridiculous want (3)
+top_ngram_7,want design (3)
+top_ngram_8,design machine (3)
+top_ngram_9,machine put (3)
+top_ngram_10,put real (3)
+ner_1,##dgets|ORG|1
+ner_2,##gecomposetor|ORG|1
+ner_3,##mes|ORG|1
+ner_4,90s|MISC|1
+ner_5,Luckeep X1|MISC|1
+ner_6,RGB|MISC|1
+ner_7,Silverstone|MISC|1
+ner_8,Silverstone|ORG|1
+ner_9,i|MISC|1
+ner_10,iPad|MISC|1

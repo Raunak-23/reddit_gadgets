@@ -1,0 +1,2740 @@
+{
+  "post": {
+    "title": "Backdoor found in two healthcare patient monitors, linked to IP in China",
+    "author": "UnusualSoup",
+    "id": "1ie5mhe",
+    "score": 6133,
+    "created_utc": 1738293879.0,
+    "selftext": "",
+    "num_comments": 324,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ie5mhe/backdoor_found_in_two_healthcare_patient_monitors/"
+  },
+  "comments": [
+    {
+      "id": "ma4wvlp",
+      "author": "mattlaslo",
+      "body": "Strange new digital world\u2026of surveillance everywhere by seemingly everyone\u2026",
+      "score": 1042,
+      "created_utc": 1738294343.0,
+      "replies": [
+        {
+          "id": "ma50u4z",
+          "author": "Lucifer420PitaBread",
+          "body": "Who hasn\u2019t done a little hackin and spyin, you know?",
+          "score": 170,
+          "created_utc": 1738295798.0,
+          "replies": [
+            {
+              "id": "ma6icz9",
+              "author": "SirWEM",
+              "body": "Changing grades in middle school and selling exam answer keys? In my middle school some of the teachers kept tests and other things on student computers. Ended up getting caught, and banned from using a computer in my school. Parents had a field day over the whole thing with the school board.",
+              "score": 54,
+              "created_utc": 1738324190.0,
+              "replies": [
+                {
+                  "id": "ma7fn0c",
+                  "author": "None",
+                  "body": "I installed an emulator on the school network decades ago, it honestly took way longer for them to catch on than it should've, but I remember I got busted during keyboarding class because no one was doing work, we were all just playing multiplayer Bomberman. I think they just assumed it had to be me and I was a kid so I caved. They were talking about the mountains of different trouble I was in, how I'd never touch a computer in the district once they removed it, blah blah blah...\n\nThen I told them they'd never be able to. They were like wut. And I explained that it was actually all over the network, hidden files in other hidden files in case I got caught and because different computers had different permissions, and they'd never find all of the redundancies even if they tried.\n\nThey let me remove it all, I got in zero trouble, and was never banned from the computers",
+                  "score": 21,
+                  "created_utc": 1738336533.0,
+                  "replies": [
+                    {
+                      "id": "ma9g09m",
+                      "author": "Bassman233",
+                      "body": "When our 'business' classroom/computer lab got networked Windows PCs, they setup logins for the whole student body and faculty that were on default passwords that followed a pattern (like last name first initial or something else generic, IDK it was 30years ago).  Everyone was told to change their passwords when they logged in, but several of us realized that a bunch of people would rarely/never be in there, so we logged in as various teachers and other students and immediately changed *their* passwords, then logged off and got on our own accounts.  When any of us finished an assignment, we'd log off our own account and explore this new 'internet' thing on someone else's account.  Sooner or later someone managed to break the network with something they downloaded, but as far as I know they never figured out who.  This would have been Windows 3.1 or maybe NT, so *network security* was a pretty unknown thing for most people back then.",
+                      "score": 10,
+                      "created_utc": 1738356975.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "ma7kae9",
+                      "author": "Weird_Expert_1999",
+                      "body": "How old were you when this happened? A few kids at my school and I all used the unrestricted network drives too for project64, quake, some game boy emulators - our desktops were ultra restricted, but you could use internet explorer as a file manager, so pretty sure the share drive was found by going down the alphabet past e: seeing if anything pops, and then word started spreading during early release / study hall, we\u2019d all go to a football coaches class that had computers and spend the day in there - eventually we filled up all the drive space and it locked. Our school IT had screenshots printed of basic file properties showing what account created the files etc and we all got in trouble - I\u2019m wondering what year or how non existent your IT guys knowledge was to think you withholding file locations would be any kind of threat, unless you had permissions to alter logs or did some actual hacker man shit? It\u2019s hard to believe a school with functioning computers would stoop to that kind of appeasement to a student threatening their expensive computer system- like I\u2019m surprised they didn\u2019t threaten to expel and sue you if you tried to big dick them like that",
+                      "score": 7,
+                      "created_utc": 1738337919.0,
+                      "replies": [
+                        {
+                          "id": "ma9siae",
+                          "author": "PearlClaw",
+                          "body": "> a school with functioning computers\n\nThis is key, IT is, shall we say, not a priority, for many districts and it's totally plausible a kid bluffed some ignorant folks.",
+                          "score": 3,
+                          "created_utc": 1738360547.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "ma9uprb",
+                          "author": "SirWEM",
+                          "body": "I was in 7th grade (1992ish). Just was playing wolfenstien 3D, and stumbled on a directory that said exams. It was all the exams for my social studies teacher and the math exams. I got caught because someone ratted me out.",
+                          "score": 3,
+                          "created_utc": 1738361190.0,
+                          "replies": [
+                            {
+                              "id": "ma9wnc0",
+                              "author": "Weird_Expert_1999",
+                              "body": "Oh I believe you sirwem! was trying to call out the guy under you that said he threatened the staff to not punish him when he got caught haha - damn 92 huh, I feel like typing classes fell out of style late 2000s early 2010s bc of touchscreens- what OS were y\u2019all on? Windows 98 was the first os I remember",
+                              "score": 1,
+                              "created_utc": 1738361763.0,
+                              "replies": [
+                                {
+                                  "id": "ma9zc5x",
+                                  "author": "SirWEM",
+                                  "body": "I want to say win 3.11. In high school we had win 95 i think. It was mostly ms-dos that we were using. AOL was still giving out free 50hours CD\u2019s. Lol",
+                                  "score": 3,
+                                  "created_utc": 1738362561.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ma8dx3i",
+                          "author": "Vivian_Stringer_Bell",
+                          "body": "No, you don't understand. He has hidden files all over the network and redundancies. He made the IT staff walk around the hallways with their pants around their ankles before he let them back in the systems.",
+                          "score": 7,
+                          "created_utc": 1738346219.0,
+                          "replies": [
+                            {
+                              "id": "ma8ufp1",
+                              "author": "Datalock",
+                              "body": "All while doing it behind seven proxies",
+                              "score": 3,
+                              "created_utc": 1738350847.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "maakfbs",
+                          "author": "None",
+                          "body": "You guys are making it way more than anything I said lol. Read words don't make your own version lol. I didn't threaten them at all. I also said I don't know how they caught me, I caved as soon as they confronted me. Just said they weren't going to find all the files without me, and asking the other kids wouldn't help because they didn't know shit. I'm sure that's when my keyboarding teacher, also the admin, realized they were going to look dumb af if not be in some shit themselves if it had to get any bigger, that's all. I wasn't parading or beating my chest, it was like mutual defeat. No more Bomberman, but no trouble. None of this would have been that hard to do then, I got caught, it's the single dumbest thing I did on computers like this isn't a small story in a million of my hackerman escapades, everyone's disbelief is kinda funny to me. It's really not hard to make files look like other files. And everyone saying you couldn't do this now while saying keyboarding classes fell out decades ago, *exactly*",
+                          "score": 2,
+                          "created_utc": 1738369237.0,
+                          "replies": [
+                            {
+                              "id": "maaofjl",
+                              "author": "Weird_Expert_1999",
+                              "body": "your og post takes a sudden twist into how you out smarted admin - sounds way more believable told the way you just did with admin being your teacher - makes sense imo, not tryna argue was just like lol I gotta ask",
+                              "score": 1,
+                              "created_utc": 1738370557.0,
+                              "replies": [
+                                {
+                                  "id": "maaok55",
+                                  "author": "None",
+                                  "body": "Well, brevity is more interesting in writing. Wasn't to misrepresent sorry. Pretty sure I was in a mountain of shit, they just realized they were in it with me too. Not that they couldn't surmount the work of a nerdy kid, but then they'd have to acknowledge it. And yea somewhere with decent network security even then, not possible, but it was Florida. Some of my classrooms were trailers, that's all I have to say I think lol\n\nEdit for more explaination. Timeframe, this was before everyone learned html for Myspace. Emulators suckkked then, Bomberman chugged. The redundancies weren't like a death note poison pill in case I got caught lol, it's so I could play in different areas of the school with different access, it just worked out that way. I expected them to find it, but not catch me. And I wanted no interuptions in my Bomberman. There's a shit ton of files in an emulator, and they all scream gaming if they have intelligible file names or icons. So I'd modify them all so that it wasn't sticking out. Then I'd make them hidden, stick them all over the place individually, etc. as long as you don't break where the programs are pulling the files from, nbd. If I found that a directory or folder of games or whatever had been deleted, it was probably in two or three more accessible places to me to replace it.",
+                                  "score": 1,
+                                  "created_utc": 1738370599.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ma9w22o",
+                          "author": "SirWEM",
+                          "body": "At that point it wasn\u2019t a LAN in our school. The \u201cIT\u201d person was a 70 year old woman who taught keyboarding and a few other things iirc. It wasn\u2019t till high school when we had a legit IT/computer teacher. I can\u2019t remember the guys name but he was retired cyber security with the USAF. \n\nI don\u2019t think anyone was able to do anything not on the up and up. I remember getting detention for telling a classmate to fuck off in a email in high school.",
+                          "score": 1,
+                          "created_utc": 1738361587.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mac2s4s",
+                      "author": "Altruistic_Koala_122",
+                      "body": "I'm surprised they didn't ghost the computers",
+                      "score": 1,
+                      "created_utc": 1738390092.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "ma80izf",
+                      "author": "ToSeeAgainAgainAgain",
+                      "body": "Jesus, calm down Mr. Alderson",
+                      "score": 1,
+                      "created_utc": 1738342504.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma71ctz",
+                  "author": "SirWEM",
+                  "body": "We had IBM PC\u2019s i think they were the 286. Long time ago for sure.",
+                  "score": 6,
+                  "created_utc": 1738331898.0,
+                  "replies": [
+                    {
+                      "id": "ma75oxe",
+                      "author": "BeltDangerous6917",
+                      "body": "I remember \u201ctyping class\u201d on IBM Selectrics\u2019",
+                      "score": 19,
+                      "created_utc": 1738333371.0,
+                      "replies": [
+                        {
+                          "id": "ma886zc",
+                          "author": "peypey1003",
+                          "body": "I remember when we were graded in computer class by our typing speed lol.",
+                          "score": 9,
+                          "created_utc": 1738344628.0,
+                          "replies": [
+                            {
+                              "id": "magahtl",
+                              "author": "cammoses003",
+                              "body": "I never had that but kinda wish I did. Learning to properly touch type after years of hunt & peck was hard",
+                              "score": 1,
+                              "created_utc": 1738449104.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mag6svl",
+                      "author": "mrdevil413",
+                      "body": "\u201cWant to play a game\u201d",
+                      "score": 3,
+                      "created_utc": 1738447933.0,
+                      "replies": [
+                        {
+                          "id": "mag7g14",
+                          "author": "SirWEM",
+                          "body": "Lol great movie! God i haven\u2019t watched \u201cWar Games\u201d in at least 30years.",
+                          "score": 1,
+                          "created_utc": 1738448135.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ma6w74e",
+                  "author": "Tb182kaci",
+                  "body": "Didn\u2019t have the problem when I went to school, long before computers came to be.",
+                  "score": 1,
+                  "created_utc": 1738330062.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma7ou7z",
+              "author": "BrakkeBama",
+              "body": "I keep sayin' it: \"Smart\" homes are for dumb people.",
+              "score": 5,
+              "created_utc": 1738339223.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma5dwo3",
+          "author": "Steamstash",
+          "body": "Everything everywhere surveillanced all at once",
+          "score": 43,
+          "created_utc": 1738301170.0,
+          "replies": [
+            {
+              "id": "ma68mk7",
+              "author": "JackDeaniels",
+              "body": "Surveilled, sorry",
+              "score": 3,
+              "created_utc": 1738318716.0,
+              "replies": [
+                {
+                  "id": "ma6vuaq",
+                  "author": "Steamstash",
+                  "body": "Don\u2019t be!  I knew there was a proper word but my brain couldn\u2019t figure it out. You have helped me today, friend.",
+                  "score": 5,
+                  "created_utc": 1738329930.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma5i405",
+              "author": "Text-Great",
+              "body": "Yep. I also assume everyone is carrying a gun at all times too",
+              "score": 5,
+              "created_utc": 1738303162.0,
+              "replies": [
+                {
+                  "id": "ma634qv",
+                  "author": "mattlaslo",
+                  "body": "There are now more guns than humans in America\u2026.",
+                  "score": 1,
+                  "created_utc": 1738315270.0,
+                  "replies": [
+                    {
+                      "id": "ma6lmx6",
+                      "author": "rdyoung",
+                      "body": "Pretty sure thats been true for some time. Plenty of people have multiple guns for each person in their household and more than enough to arm their entire neighborhood.\n\nI think some people underestimate the unhealthy obsession some people have with guns.",
+                      "score": 3,
+                      "created_utc": 1738325757.0,
+                      "replies": [
+                        {
+                          "id": "ma6yyla",
+                          "author": "Xylus1985",
+                          "body": "And yet they are still afraid to stand up against their government in the face of clear injustice",
+                          "score": -3,
+                          "created_utc": 1738331064.0,
+                          "replies": [
+                            {
+                              "id": "ma71k9b",
+                              "author": "rdyoung",
+                              "body": "The people I'm talking about voted for this administration who will be attempting to gut social services, veterans administration, etc, all things they are more likely to rely on. They let themselves be blinded by false rage enough to vote against their own interests because they wanted to \"own the libs\". They basically shot themselves in the foot because they were told that would hurt someone else even more than it hurts them.",
+                              "score": 1,
+                              "created_utc": 1738331970.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ma6jkd0",
+                      "author": "00xjOCMD",
+                      "body": "As it's always been in America.",
+                      "score": -1,
+                      "created_utc": 1738324777.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ma8qdqp",
+              "author": "alidan",
+              "body": "as of now, its not to much of an issue because they dont know how to effectively parse the info, once they can, then its a major problem.",
+              "score": 1,
+              "created_utc": 1738349704.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma50sso",
+          "author": "None",
+          "body": "Everything connected to internet and made in China has data going back. Specifically your IOT products at home and your WiFi info those products are connected to.",
+          "score": 69,
+          "created_utc": 1738295783.0,
+          "replies": [
+            {
+              "id": "ma6hrtc",
+              "author": "ToMorrowsEnd",
+              "body": "This is why you either learn and hack your low end IOT or you buy the actual good ones and not the cheap ones.    Basically if it requires an account and a cloud connection,  it's the crap that is spying on you.\n\nthose not afraid of learning can hack a lot of the cheaper stuff with Tasmota firmware. and fully take control and ownership.",
+              "score": 5,
+              "created_utc": 1738323896.0,
+              "replies": []
+            },
+            {
+              "id": "ma5snsj",
+              "author": "Hithaeglir",
+              "body": "> Everything connected to internet and made in China has data going back. Specifically your IOT products at home and your WiFi info those products are connected to.\n\nThe same goes for the U.S. products too... I guess it depends your threat model what you consider as risk. \n\nhttps://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer/",
+              "score": 31,
+              "created_utc": 1738308859.0,
+              "replies": [
+                {
+                  "id": "ma7s2wq",
+                  "author": "LotKnowledge0994",
+                  "body": "There are no US products anymore....All supply chains run through china.\n\nAlso it so difficult for foreigners to extract data out of china anymore. No reciprocity, very strict policies have been put in place in china to stop foreign data transfers and it doesn't get talked about.",
+                  "score": 16,
+                  "created_utc": 1738340151.0,
+                  "replies": [
+                    {
+                      "id": "ma88mow",
+                      "author": "ChangeVivid2964",
+                      "body": "And yet every single time we try to talk about this, the comments sections are bombarded with people saying \"actually America is just as bad\" and \"China never hurt me\" and \"manufacturing consent\".  As they are in here.  \n\nThe internet is compromised.  We can no longer assume the opinions we read on the internet are real.\n\nChina and Russia are bombarding us with propaganda designed to make us thing democracy is a sham, and legitimize their dictator leadership, so Putin and Xi can cling to power.  \n\nThe only way to win this game is to get off the internet.\n\nOr lock it down like China and Russia have.  Unfortunately, bad neighbours make us build tall fences, and China and Russia are bad neighbours.",
+                      "score": 8,
+                      "created_utc": 1738344749.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "ma8hg5r",
+                      "author": "Hithaeglir",
+                      "body": "> very strict policies have been put in place in china to stop foreign data transfers and it doesn't get talked about.\n\n..like EU?",
+                      "score": 2,
+                      "created_utc": 1738347208.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma6u480",
+                  "author": "ChangeVivid2964",
+                  "body": "> The same goes for the U.S. products too...\n\nNo  it doesn't.  There are no backdoors in patient health monitors leading to IPs in America.",
+                  "score": -5,
+                  "created_utc": 1738329278.0,
+                  "replies": [
+                    {
+                      "id": "ma6wazc",
+                      "author": "SmartAssUsername",
+                      "body": "That we know of.",
+                      "score": 2,
+                      "created_utc": 1738330101.0,
+                      "replies": [
+                        {
+                          "id": "ma9e8c9",
+                          "author": "rgjsdksnkyg",
+                          "body": "Aight. Look, then. Why are we continuously here, finding backdoors in Chinese products, never hearing or seeing signs of the same in US products?",
+                          "score": 3,
+                          "created_utc": 1738356470.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "ma771v7",
+                          "author": "ChangeVivid2964",
+                          "body": "It's a misdirection attempt, to make people let their guard down about China's cyberwar against the West.",
+                          "score": 1,
+                          "created_utc": 1738333822.0,
+                          "replies": [
+                            {
+                              "id": "ma78n1u",
+                              "author": "powercow",
+                              "body": "saying there are more than one threat isnt diluting any threat.\n\nif you and I come to a fork in the road and you say you know there are gunmen east.. and i say i know there are swords men to the west, so according to your logic, im down playing the gun men and encouraging us to go in that direction.",
+                              "score": 0,
+                              "created_utc": 1738334343.0,
+                              "replies": [
+                                {
+                                  "id": "ma78x8j",
+                                  "author": "ChangeVivid2964",
+                                  "body": "> if you and I come to a fork in the road and you say you know there are gunmen east.. and i say i know there are swords men to the west, so according to your logic, im down playing the gun men and encouraging us to go in that direction.\n\nIt's more like I'm saying there's an army of soldiers marching towards us, and you're saying there was a gang shooting in New York the other day.",
+                                  "score": 3,
+                                  "created_utc": 1738334435.0,
+                                  "replies": [
+                                    {
+                                      "id": "ma9snj8",
+                                      "author": "powercow",
+                                      "body": "so you are denying that the US gov spies today.. it was all yesterday. GOT IT. lol",
+                                      "score": -1,
+                                      "created_utc": 1738360588.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ma74i3r",
+                          "author": "moopsi5c",
+                          "body": "yet.",
+                          "score": 1,
+                          "created_utc": 1738332977.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ma5ja55",
+              "author": "Fredasa",
+              "body": "But people still pretend to scratch their heads over Tiktok's ban.",
+              "score": 44,
+              "created_utc": 1738303748.0,
+              "replies": [
+                {
+                  "id": "ma5ozns",
+                  "author": "EmpZurg_",
+                  "body": "That\u2019s because a true need for concern wouldn\u2019t have an arbitrary \u201csell by\u201d date attached.  If something constitutes a monumental _data_ security risk, you just shut it down. This points to TikTok being a propaganda risk more than whatever breach of consumer data could develop.",
+                  "score": 36,
+                  "created_utc": 1738306774.0,
+                  "replies": [
+                    {
+                      "id": "ma6u8cl",
+                      "author": "ChangeVivid2964",
+                      "body": "It's absolutely a propaganda risk.  Russia and China are bombarding America with propaganda, trying to divide the west and destroy democracy.  They're part of what helped get Trump elected.  That's why he's trying to stop the ban.",
+                      "score": 18,
+                      "created_utc": 1738329322.0,
+                      "replies": [
+                        {
+                          "id": "ma863hn",
+                          "author": "RikiWardOG",
+                          "body": "OK Meta, X, OUR OWN PRESIDENT? put real consumer protections in place and stop making it political theater",
+                          "score": 2,
+                          "created_utc": 1738344050.0,
+                          "replies": [
+                            {
+                              "id": "ma88015",
+                              "author": "ChangeVivid2964",
+                              "body": "Yes, Meta, X, America's own president are all on the same side as Russia and China. Let's start with Russia and China to stop him.",
+                              "score": 2,
+                              "created_utc": 1738344574.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "magip45",
+                          "author": "None",
+                          "body": "They can just send the propaganda through other social media. The senate had a report on that exact problem years ago.",
+                          "score": 1,
+                          "created_utc": 1738451740.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ma6n375",
+                      "author": "Bigwhtdckn8",
+                      "body": "It also tested the waters on the government being able to ban other platforms it disagrees with. \n\nVPNs in Florida to get round the PornHub ban? Expect those to be next.\n\nThis is censorship dressed up as national security,  which is straight out of the totalitarian playbook.\n\nI have no interest in tiktok,  quite happy to see it go, but the reasons given for it are utterly false.",
+                      "score": 3,
+                      "created_utc": 1738326404.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "ma5qilm",
+                      "author": "randomaccount178",
+                      "body": "I believe there are different legal principles involved if you flat out just shut the company down. I believe just forcing it to shut down could be considered a government taking in a way that forcing them to sell would not be.",
+                      "score": -8,
+                      "created_utc": 1738307617.0,
+                      "replies": [
+                        {
+                          "id": "ma6fzij",
+                          "author": "NoBrainCells420",
+                          "body": "That\u2019s why they could have flat out ban tik tok right away. But that didn\u2019t happen",
+                          "score": 2,
+                          "created_utc": 1738322962.0,
+                          "replies": [
+                            {
+                              "id": "ma6hz6z",
+                              "author": "ToMorrowsEnd",
+                              "body": "and the \"ban\" was supposedly only the app install, not an actual security ban and blackhole all their traffic at all the internet routers effectively making the company and it's entire presence on the internet not exist to the country.",
+                              "score": 1,
+                              "created_utc": 1738323998.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ma85x2g",
+                  "author": "RikiWardOG",
+                  "body": "because it's not the correct way to go about this. Just put proper consumer protections in place regardless of country. Fucking facebook and goole do the same shit. Get a grip.",
+                  "score": 3,
+                  "created_utc": 1738344001.0,
+                  "replies": [
+                    {
+                      "id": "mawa6r7",
+                      "author": "I_DRINK_URINE",
+                      "body": "It would be impossible to enforce those protections against a Chinese company.",
+                      "score": 1,
+                      "created_utc": 1738661403.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma6gcrt",
+                  "author": "lasodamos",
+                  "body": "\"ban\", lol it was pure extort tactic and since it didn't work they pretended it never happened.",
+                  "score": 0,
+                  "created_utc": 1738323157.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma5uh4z",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 3,
+              "created_utc": 1738309931.0,
+              "replies": [
+                {
+                  "id": "ma5xk6i",
+                  "author": "talktotheak47",
+                  "body": "An American company that\u2026 sources basically all materials used from China? Sounds like every American company.",
+                  "score": 24,
+                  "created_utc": 1738311780.0,
+                  "replies": []
+                },
+                {
+                  "id": "ma73azm",
+                  "author": "identifytarget",
+                  "body": "How do you get alerted that network traffic is routing to China?",
+                  "score": 1,
+                  "created_utc": 1738332570.0,
+                  "replies": [
+                    {
+                      "id": "ma73q9x",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 3,
+                      "created_utc": 1738332713.0,
+                      "replies": [
+                        {
+                          "id": "ma8u1e0",
+                          "author": "Xumayar",
+                          "body": "Why yes I would like to know more.",
+                          "score": 1,
+                          "created_utc": 1738350733.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ma9f2dy",
+              "author": "Doctor4000",
+              "body": "IOT is so stupid. Your fridge does not need a fucking twitter account.",
+              "score": 1,
+              "created_utc": 1738356710.0,
+              "replies": []
+            },
+            {
+              "id": "ma7abp9",
+              "author": "654456",
+              "body": "Well sure if you are using wifi devices and are firewalling them. \n\nWhy i stick to zigbee/zwave where i can and firewall the rest.",
+              "score": 0,
+              "created_utc": 1738334881.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma6user",
+          "author": "ChangeVivid2964",
+          "body": ">  by seemingly everyone\u2026\n\nMostly by China.  \n\nThis thread and the ones like it are constantly bombarded by comments saying \"everyone does it\" and \"America spies just as much\", and it's all flat out lies.  China has launched a cyberwar against the West and nobody is doing anything about it.  \n\nI wish the CIA were on the internet as much as they say they were, but America isn't even fighting back.",
+          "score": 7,
+          "created_utc": 1738329534.0,
+          "replies": [
+            {
+              "id": "maclujt",
+              "author": "tillybowman",
+              "body": "and this is also not only about spying. china is actively implementing kill switches in as many digital devices as possible. \n\nthey do this so they can, if they ever need to, wrack havoc in any country they like. \n\nother countries don\u2019t do this to this extend.",
+              "score": 3,
+              "created_utc": 1738400786.0,
+              "replies": []
+            },
+            {
+              "id": "ma7qele",
+              "author": "Subject_Roof3318",
+              "body": "People keep saying this, but where is the one sided cyberwar? America has the NSA, we\u2019re under CONSTANT surveillance. We also have Meta and X and all the other shit that makes its money data mining and selling your information. I\u2019m not allowed to own my personal info anyway, as soon as it\u2019s in the ether it\u2019s grabbed and sold, and I\u2019m not getting anything out of it. So why should I care if China makes my life easier, cheaper and better and all they do is grab the SAME shit that everyone else is already grabbing? Why is it ok and encouraged for our dear corporations to do it to American citizens, but it\u2019s not ok for China? We can\u2019t have Chinese electric cars, we can\u2019t have cool Chinese huwai or ZTE phones. Not because of data theft, but because Apple and Samsung can\u2019t compete. Tesla and Rivian can\u2019t compete. It\u2019s about money, not about our protection at all.",
+              "score": 0,
+              "created_utc": 1738339673.0,
+              "replies": [
+                {
+                  "id": "ma84ruh",
+                  "author": "stellvia2016",
+                  "body": "I see the connection logs every single day. Nothing hammers my network like the IPs out of CN and RU. The volume isn't even close.",
+                  "score": 8,
+                  "created_utc": 1738343682.0,
+                  "replies": []
+                },
+                {
+                  "id": "maagrcp",
+                  "author": "TeutonJon78",
+                  "body": "Huawei is banned and ZTE was banned (they aren't anymore) because of their infrastructure side selling cellular equipment to Iran against US trade sanctions.\n\nThe phones being banned was just collateral damage.",
+                  "score": 3,
+                  "created_utc": 1738368037.0,
+                  "replies": []
+                },
+                {
+                  "id": "ma8fmy5",
+                  "author": "None",
+                  "body": "Wow. You are so uninformed. WTF. And this is what\u2019s voting folks!",
+                  "score": 6,
+                  "created_utc": 1738346700.0,
+                  "replies": [
+                    {
+                      "id": "ma93vae",
+                      "author": "Toiun",
+                      "body": "Nise argument mate.",
+                      "score": -2,
+                      "created_utc": 1738353512.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma7sru7",
+                  "author": "ChangeVivid2964",
+                  "body": "> People keep saying this, but where is the one sided cyberwar? \n\nOn the internet.\n\n>America has the NSA, we\u2019re under CONSTANT surveillance.\n\nI'm not American.  Most people aren't.  America isn't trying to destroy western democracy.\n\n>We also have Meta and X and all the other shit that makes its money data mining and selling your information.\n\nYes, and China are bombarding Meta and X with propaganda, targeting us.\n\n> So why should I care if China makes my life easier,\n\nThey're not making your life easier, they're making it worse.\n\n>and all they do is grab the SAME shit that everyone else is already grabbing\n\nThey don't.  They're attacking way, way more than anyone else is.\n\n>Why is it ok and encouraged for our dear corporations to do it to American citizens, but it\u2019s not ok for China?\n\nBecause corporations aren't trying to destroy us.\n\n>We can\u2019t have Chinese electric cars, we can\u2019t have cool Chinese huwai or ZTE phones. Not because of data theft, but because Apple and Samsung can\u2019t compete. Tesla and Rivian can\u2019t compete. It\u2019s about money, not about our protection at all.\n\nI have no idea what trade tariffs have to do with hacking, data theft or cyberwar.  China tariffs things too, you know.\n\nWhy did you go so hard to bat for China right now?  Is it because you are Chinese?",
+                  "score": 4,
+                  "created_utc": 1738340347.0,
+                  "replies": []
+                },
+                {
+                  "id": "ma7stv3",
+                  "author": "LotKnowledge0994",
+                  "body": "Fake news. The US is not a surveillance state by any means and there is a lot of propaganda out there trying to convince people we are. Every country has their own version of the NSA dude and just because the nsa CAN spy on you doesn't mean it does and it would be the FBI who would spy on americans btw because the NSA is more focused on foreign spying.",
+                  "score": -3,
+                  "created_utc": 1738340363.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mah5xq5",
+          "author": "None",
+          "body": "New?",
+          "score": 1,
+          "created_utc": 1738459334.0,
+          "replies": []
+        },
+        {
+          "id": "ma7sws2",
+          "author": "SavannahInChicago",
+          "body": "See, they don\u2019t need TikTok to spy on us. I hate it here.",
+          "score": 1,
+          "created_utc": 1738340385.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma4xetu",
+      "author": "MrRoboto12345",
+      "body": "And I'm sure nothing will come of it and it's not a big deal /s",
+      "score": 223,
+      "created_utc": 1738294539.0,
+      "replies": [
+        {
+          "id": "ma5xk69",
+          "author": "spookmann",
+          "body": "https://i.imgflip.com/9iknz6.jpg",
+          "score": 48,
+          "created_utc": 1738311780.0,
+          "replies": []
+        },
+        {
+          "id": "ma7f2sf",
+          "author": "throwawaybrowsing888",
+          "body": "I\u2019m saying this despite the /s:\n\nI\u2019m kind of more likely to die by the hands of my own government sooner than by anything that *could* come of this. \n\n(Edit #2: this is rhetorical \u2014\u2014>) The fuck are they gonna do with that data? Mess with a healthcare monitoring device that the oligarchs running my country won\u2019t even allow me to access??? Bfd. (<\u2014\u2014 this is rhetorical)\n\n\nEdit:\n\nJfc. Where\u2019s yall\u2019s reading comprehension skills?Why do you guys think that I don\u2019t think it\u2019ll be bad??\n\nall I\u2019m saying is that \u201cshit is so fucked up already that I\u2019m probably going to DIE before I see the worst of it BECAUSE OUR HEALTHCARE STSTEM IS ALREADY REALLY FUCKING BAD that it\u2019s killing off disabled and medically vulnerable people\u201d",
+          "score": 39,
+          "created_utc": 1738336362.0,
+          "replies": [
+            {
+              "id": "ma8ckp5",
+              "author": "None",
+              "body": "Its not about the data.   The article outlines how this is perfectly designed to allow code to be implemented that would hijack the patient monitoring system.\n\nThey could falsify readings that interfere with care or simply lock down the patient monitoring system completely.\n\nThis is groundwork for a large scale cyber attack on our healthcare system",
+              "score": 8,
+              "created_utc": 1738345846.0,
+              "replies": [
+                {
+                  "id": "ma8i10a",
+                  "author": "throwawaybrowsing888",
+                  "body": "Yeah dude. And what good does it do for me to worry about it? \n\nWe pass along the info to people who need to be aware of it, especially to those can actually do something about it. \n\nThat\u2019s sometimes all we can do. And if we\u2019re going to get through this without burning out, we\u2019re going to need to grapple with the fact that we\u2019re limited and powerless in some ways. \n\nWe gotta empower who we can when we can, hold them accountable if/when they fail us, look out for those most affected by these issues, and keep ourselves sane so we don\u2019t get emotionally dragged down by every horrific news story that will inevitably pop up in our feed.",
+                  "score": 2,
+                  "created_utc": 1738347373.0,
+                  "replies": [
+                    {
+                      "id": "magodun",
+                      "author": "benyahweh",
+                      "body": "It might be time for you to take a break from the news. You\u2019re right, it doesn\u2019t do you or anyone else any good to worry about things while feeling limited and powerless.\n\nThe utility of journalism and discussions about current issues is not to cause worry but to inform society so that we can make informed decisions, hold people accountable, expose corruption, and so on.\n\nIn truth we aren\u2019t powerless. We\u2019ve been made to feel powerless. We aren\u2019t limited either. But we have been made to feel like there\u2019s nothing we can do. Everyone has got to look out for their stress and mental health and occasionally take a step back, get some fresh air or whatever else it may be that grounds you.",
+                      "score": 3,
+                      "created_utc": 1738453618.0,
+                      "replies": [
+                        {
+                          "id": "maibhw2",
+                          "author": "throwawaybrowsing888",
+                          "body": "I don\u2019t feel powerless though? I\u2019m not worried about the current situation. I\u2019m extremely aware of how bad things can get, and I\u2019m not getting overwhelmed at all. For each new piece of horrific news, I can\u2019t help but react like \u201cyep. Ok. Well. Got a mental note of that. Moving on.\u201d\n\nThis shit is all too familiar to me. I grew up with abusive family members who would be physically violent if I were to try to stand up to them or escape in the \u201cwrong way.\u201d I only escaped because I learned their patterns and adapted to them. It\u2019s the same patterns I\u2019m seeing now.\n\nWe\u2019re still living at the mercy of the people \u201cin charge\u201d and although we are not completely powerless, we have to reckon with the fact that these people will - without a doubt in my mind - try to erode our sense of autonomy. \n\nAnd with the ways that these attempts are going to inevitably traumatize our peers and allies, we\u2019re also going to have to learn how to distinguish between \u201clearned helplessness\u201d and \u201cself awareness of our own limitations\u201d.",
+                          "score": 1,
+                          "created_utc": 1738474542.0,
+                          "replies": [
+                            {
+                              "id": "malu4qh",
+                              "author": "benyahweh",
+                              "body": "Okay my friend, that\u2019s my bad then. I\u2019m glad to hear you\u2019re not overly stressed about the ongoing situation happening in this country. I\u2019m sure many are feeling that way, as I myself feel the effects of this stress on top of the pressures of regular daily life, and have at times had to take a step back. So maybe I\u2019m projecting that a bit, my apologies for that.\n\nI\u2019m sorry for what you had to endure growing up. Everyone deserves to be loved and supported, but unfortunately that ideal is not the reality for far too many children still today. \n\nI completely agree with the parallels you\u2019ve described between abusive power dynamics and the authoritarian regime we\u2019re currently under. \n\nI know I sound naive but I feel that we must come together and find our strength in numbers. I don\u2019t know what it will take for Americans to organize and unite against this, but that is our power, as everyone well knows.",
+                              "score": 2,
+                              "created_utc": 1738524798.0,
+                              "replies": [
+                                {
+                                  "id": "manbv9w",
+                                  "author": "throwawaybrowsing888",
+                                  "body": "No worries, I get it. The self reflection is much appreciated, and rarely encountered, so thank you. \n\nI don\u2019t think it\u2019s naive to feel that we must come together in large numbers. That\u2019s exactly what we have to do. But we have to do it in certain ways that I don\u2019t know if we\u2019re prepared for.\n\nWe\u2019re all so spread out in the country, and so little can be done to organize on such as massive scale. That\u2019s part of why this has become such a stressful situation for many - it\u2019s easy to feel powerless when we\u2019re so far removed from any opportunities to make wide scale change. \n\nBut the key is to try to find the things that we *can* change in positive ways, and to empower others to do the same.\n\nWe can still influence each others in the little nooks and crannies of our everyday lives. It\u2019s in those small moments that we will be able to retain our hope and sanity. We might be able to only make small changes and we will definitely not see the impacts for a long time, if ever.\n\nBut our alternative is acquiescence to the pressure of hopelessness that we\u2019re being crushed under. \n\nIt\u2019s far too easy (but also understandable) to throw up our hands and say \u201cthere is no way I can change anything on a grand scale, so I won\u2019t try.\u201d\n\nWhat we need is for everyone to learn how to accept (edit: but not excuse) the things that are out of their hands (despite how unfair and unjust it is), then roll up their sleeves and get to work on the things they *can* do. But that is way easier said than done :(",
+                                  "score": 2,
+                                  "created_utc": 1738540890.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "maamyjz",
+              "author": "might_be_magic",
+              "body": "I completely agree with you lol",
+              "score": 2,
+              "created_utc": 1738370068.0,
+              "replies": []
+            },
+            {
+              "id": "ma7ngzm",
+              "author": "StrayStep",
+              "body": "So many things we haven't even thought of. \n\nSell your medical status to the highest bidder to take advantage of your current situation. \n\nAnalyze what US demographics are being affected by large health epidemics. It's a free medical testing platform to retrieve results of any foreign espionage. IE. Covid-19 \n\nI'm not saying Covid-19 was intentionally released. But if it was they have the knowledge now to study impacts.",
+              "score": 6,
+              "created_utc": 1738338834.0,
+              "replies": [
+                {
+                  "id": "ma7rk3v",
+                  "author": "Subject_Roof3318",
+                  "body": "All this is already happening. It\u2019s just US corporations and our government trying to point the finger and wag. Like it\u2019s cool if THEY rob our data, but not cool if someone else does it. They\u2019re just trying to protect their livestock, can\u2019t have someone else makin money off their gravy train. but since I\u2019m not seeing any of this money or benefits coming from MY Information , why would I remotely care?",
+                  "score": 6,
+                  "created_utc": 1738340003.0,
+                  "replies": [
+                    {
+                      "id": "ma7yxdc",
+                      "author": "StrayStep",
+                      "body": "I do not doubt it for one second. \n\nIt's the amount of resources & justification that was required to achieve this. No matter what gov, private or malicious crime.",
+                      "score": 1,
+                      "created_utc": 1738342061.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma9unay",
+                  "author": "skillywilly56",
+                  "body": "Might I point out that the server it is transmitting to is apparently at a university.\n\nAnd that this tech is probably used in China and that the software was probably designed to transmit Chinese medical data to\u2026a Chinese university to monitor the health of Chinese people and they just didn\u2019t think to take it out in the models sold to the USA or just didn\u2019t care.\n\nWith a significantly larger population their data needs would exceed the USA health system and is probably like a little corner box in their server.\n\nProbably some researcher is having a great time comparing USA medical vs China medical and having a good laugh.\n\n\u201cThey\u2019re never gonna make it to a billion like us the way they are going, they\u2019re too fat to fight, we invade now Xi! Commence bombing with high fructose corn syrup!\u201d",
+                  "score": 1,
+                  "created_utc": 1738361170.0,
+                  "replies": []
+                },
+                {
+                  "id": "maa13y1",
+                  "author": "MGiQue",
+                  "body": "False read, post med administration\u2026 improper response to intervene\u2026 death. \n\nTargeted and remote executions, from a *bastion* of safety and care: the US healthcare system.\n\n[ good thing faith in the system is at an all-time high !! /s ]",
+                  "score": 1,
+                  "created_utc": 1738363095.0,
+                  "replies": []
+                },
+                {
+                  "id": "ma7s4wr",
+                  "author": "throwawaybrowsing888",
+                  "body": "My sibling in Cthulhu, i literally just implied that I would not even be able to even use the medical devices because I\u2019d more likely be killed than get access to the healthcare that I need.\n\nIt\u2019s really not that deep. My country just hates disabled people. It\u2019s the able-bodied people who can afford the devices that need to be concerned lmao",
+                  "score": 1,
+                  "created_utc": 1738340166.0,
+                  "replies": [
+                    {
+                      "id": "ma7xhvi",
+                      "author": "StrayStep",
+                      "body": "Totally understand my friend. I'm in US and can barely afford medical care.  I'm most fearful of any government that dedicated this much time & money. \n\nBecause somewhere someone justified the effort of setting up data servers, redundancy and everything in between. \n\nWe are all human",
+                      "score": 3,
+                      "created_utc": 1738341668.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ma8gcxx",
+              "author": "cmdr_suds",
+              "body": "Somebody is playing the long game.  Think pagers in Lebanon or Stuxnet.",
+              "score": 4,
+              "created_utc": 1738346903.0,
+              "replies": [
+                {
+                  "id": "ma8jbpn",
+                  "author": "throwawaybrowsing888",
+                  "body": "It was a rhetorical question, buddy",
+                  "score": -1,
+                  "created_utc": 1738347737.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma8rc1z",
+              "author": "alidan",
+              "body": "well if they can get a big data set and get info out of it, they could potentially find casual links to illnesses, and then make sure things that cause it get used in export, enough plausible deniability that they didn't know or intend, move on to the next new thing. \n\nkeep in mind, we ship meat to them that's not popular here and would go to waste, and they ship meat not popular there that would go to waste. they could introduce a chemical in during the butchering or cleaning process or they could introduce it into their feed and just toss the stuff that may be eaten domestically out.\n\nwe should never let people have more data than they already have regardless of source.",
+              "score": 4,
+              "created_utc": 1738349968.0,
+              "replies": [
+                {
+                  "id": "ma91mkj",
+                  "author": "throwawaybrowsing888",
+                  "body": "Ok. it was a rhetorical question.",
+                  "score": -2,
+                  "created_utc": 1738352880.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma7jdmf",
+              "author": "varitok",
+              "body": "Lol you guys are unbelievable.",
+              "score": 4,
+              "created_utc": 1738337651.0,
+              "replies": [
+                {
+                  "id": "ma7ri47",
+                  "author": "FrozenLogger",
+                  "body": "Are you not paying attention? If the machine takes their heart rate data and sends it to china, they might not care as much as the collapse of any health care system to actually pay for it. \n\nWhen the cost of a visit to get their heart checked goes from $150 to $800 (real numbers here. not even making it up) and insurance denies the claim so they don't eat for a week, THAT becomes a lot more important.\n\nI will say this: why the fuck are health monitors on the internet at all? Companies should have a firewall for everything they put on line internally anyways. \n\nOh but they don't. Because their ONLY concern is profits.\n\nThe mounting of a remote NFS share is an interesting tactic though. I am pretty sure that would not work in my home network (at least automatically and without any permissions) how the hell is this working on a corporate network?",
+                  "score": 3,
+                  "created_utc": 1738339987.0,
+                  "replies": []
+                },
+                {
+                  "id": "ma7o6s6",
+                  "author": "throwawaybrowsing888",
+                  "body": "Ikr? Shit sucks.",
+                  "score": 2,
+                  "created_utc": 1738339039.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma83ewg",
+              "author": "EnormousMonsterBaby",
+              "body": "I\u2019m going to heavily disagree - this is very concerning. ERs, ICUs, and ORs are literally built around these monitoring systems - they let us closely monitor our patient\u2019s vitals, heart rhythms, and a ton of other measurements so we can keep people alive; and they alarm for concerning measurements so we can quickly intervene. These systems are some of the most important pieces of equipment in modern hospitals. From the article, it sounds like this flaw would allow outsiders to impact the actual functionality of these monitors, which is *terrifying*. Dude, so many people could die. Also, there have been hospitals that have had their electronic medical records systems hacked and held for ransom for months - that\u2019s already terrifying and has probably resulted in a few patient deaths\u2026 but the internal monitoring systems?! That\u2019s a literal nightmare.",
+              "score": 1,
+              "created_utc": 1738343305.0,
+              "replies": [
+                {
+                  "id": "ma85svo",
+                  "author": "throwawaybrowsing888",
+                  "body": "Yeah dude. That genuinely sounds rough. \n\nIt does not affect me because I can already barely access healthcare to begin with. That doesn\u2019t mean I don\u2019t care. I do. *I can barely access healthcare as it is, so of course I don\u2019t want to lose the meager access I have left*\n\nAll I was saying was that I\u2019m probably going to die before that point lmao",
+                  "score": 5,
+                  "created_utc": 1738343969.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma8a8a0",
+              "author": "ChangeVivid2964",
+              "body": "> I\u2019m kind of more likely to die by the hands of my own government sooner than by anything that could come of this.\n\nYou seem so confident that WW3 isn't about to kick off.\n\n>The fuck are they gonna do with that data? \n\nBombard people with propaganda to get them to elect Trump.\n\n> the oligarchs \n\n<guy holding up 3 fingers meme>",
+              "score": 1,
+              "created_utc": 1738345194.0,
+              "replies": [
+                {
+                  "id": "ma8gl8f",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 1,
+                  "created_utc": 1738346968.0,
+                  "replies": [
+                    {
+                      "id": "ma8jh32",
+                      "author": "ChangeVivid2964",
+                      "body": "Why do you think medical abuse/eugenics is a greater or more imminent threat than WW3?\n\nYou understand a lot of the propaganda supporting that medical abuse and eugenics is coming from Russia and China, right?",
+                      "score": 1,
+                      "created_utc": 1738347780.0,
+                      "replies": [
+                        {
+                          "id": "ma8k0yx",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 1,
+                          "created_utc": 1738347932.0,
+                          "replies": [
+                            {
+                              "id": "ma8k9v1",
+                              "author": "None",
+                              "body": "[removed]",
+                              "score": 1,
+                              "created_utc": 1738348001.0,
+                              "replies": [
+                                {
+                                  "id": "ma8kide",
+                                  "author": "None",
+                                  "body": "[deleted]",
+                                  "score": 1,
+                                  "created_utc": 1738348067.0,
+                                  "replies": [
+                                    {
+                                      "id": "ma8kof3",
+                                      "author": "ChangeVivid2964",
+                                      "body": "You think I'm a bot?  Who do you suspect I work for?",
+                                      "score": 1,
+                                      "created_utc": 1738348114.0,
+                                      "replies": [
+                                        {
+                                          "id": "ma8kuh3",
+                                          "author": "None",
+                                          "body": "[deleted]",
+                                          "score": 1,
+                                          "created_utc": 1738348161.0,
+                                          "replies": [
+                                            {
+                                              "id": "ma8l7uv",
+                                              "author": "ChangeVivid2964",
+                                              "body": "You shouldn't be so quick to dismiss the threat that Russia and China pose.  They're the reason Trump got elected.",
+                                              "score": 1,
+                                              "created_utc": 1738348264.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mao2wcz",
+          "author": "naptown-hooly",
+          "body": "I work in healthcare IT and security is a big deal and if used these devices they would be locked down until they could be replaced.",
+          "score": 1,
+          "created_utc": 1738549658.0,
+          "replies": [
+            {
+              "id": "mao3uko",
+              "author": "MrRoboto12345",
+              "body": "Not a thing will be done about it with the current administration lmao",
+              "score": 1,
+              "created_utc": 1738549970.0,
+              "replies": [
+                {
+                  "id": "mao837t",
+                  "author": "naptown-hooly",
+                  "body": "Why would the government be involved?",
+                  "score": 1,
+                  "created_utc": 1738551371.0,
+                  "replies": [
+                    {
+                      "id": "mao9maq",
+                      "author": "MrRoboto12345",
+                      "body": "Oh I was considering back doors and things. Security in hospitals isn't as reliable as one would hope",
+                      "score": 1,
+                      "created_utc": 1738551883.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma4ww05",
+      "author": "theonion513",
+      "body": "I just block all traffic to/from China on my network.",
+      "score": 278,
+      "created_utc": 1738294347.0,
+      "replies": [
+        {
+          "id": "ma56eye",
+          "author": "Cool_Cheetah658",
+          "body": "I know a certain US state I used to work for does this. Their daily numbers of blocked traffic attempts, when I worked there, were over 3 billion attempts each day from China against the state servers. That was over a decade ago.",
+          "score": 264,
+          "created_utc": 1738297995.0,
+          "replies": [
+            {
+              "id": "ma5qcj3",
+              "author": "stellvia2016",
+              "body": "Yeah, I still marvel at how calmly we basically go through the day due to firewalls, when you look at the logs and it's like the enemy is literally at the gates 24/7. Tons of traffic from CN and RU IPs constantly probing.",
+              "score": 174,
+              "created_utc": 1738307522.0,
+              "replies": [
+                {
+                  "id": "ma6krfq",
+                  "author": "rgaya",
+                  "body": "Random question: How can I block them from visiting my website? \n\nEdit: Found blocky by effective apps for WIX. Gonna try this.",
+                  "score": 40,
+                  "created_utc": 1738325353.0,
+                  "replies": [
+                    {
+                      "id": "ma90yzg",
+                      "author": "sercankd",
+                      "body": "Cloudflare Firewall settings have Geoblocking",
+                      "score": 8,
+                      "created_utc": 1738352695.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma7zis9",
+                  "author": "PDXSCARGuy",
+                  "body": "I've added Pakistan after recent malware/phishing attempts originating there.",
+                  "score": 10,
+                  "created_utc": 1738342226.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma6uinl",
+              "author": "ChangeVivid2964",
+              "body": "My home router gets 1000 attempts from Chinese IP addresses per hour.\n\nWhy don't they try to hide it?  Use VPNs, pretend they're from another country?",
+              "score": 33,
+              "created_utc": 1738329431.0,
+              "replies": [
+                {
+                  "id": "ma6xo4r",
+                  "author": "None",
+                  "body": "They don\u2019t care. Or, could be other countries going through China to hide their tracks as China is so easy to dismiss as just another attempt.\n\nIf you think other countries, even allies, don\u2019t hack then that proves it\u2019s working. It would be political nightmare if say Israel were caught trying to hack American systems.",
+                  "score": 36,
+                  "created_utc": 1738330602.0,
+                  "replies": [
+                    {
+                      "id": "ma963a1",
+                      "author": "GoneSuddenly",
+                      "body": "Israel don't need to hack american server. They're the admins.",
+                      "score": 10,
+                      "created_utc": 1738354147.0,
+                      "replies": [
+                        {
+                          "id": "ma9fv66",
+                          "author": "None",
+                          "body": "Good point. Lobbying is enough. Should have used North Korea, or Russia\u2026then again, Russia, lol",
+                          "score": 8,
+                          "created_utc": 1738356934.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ma77ac7",
+                      "author": "ChangeVivid2964",
+                      "body": "> Or, could be other countries going through China\n\nAuthoritarian dictatorship with the strongest firewall in the world makes that unlikely.  \n\n>If you think other countries, even allies, don\u2019t hack\n\nOh I do, just nowhere near at the massive scale that China is doing it.\n\nRussia comes in a close second, I get abot 250 attempts per hour from them.",
+                      "score": -1,
+                      "created_utc": 1738333901.0,
+                      "replies": [
+                        {
+                          "id": "ma7n6x5",
+                          "author": "None",
+                          "body": "That so called firewall isn\u2019t as impressive as most people think it is.\n\nIt\u2019s mostly for the general population to gate them against western media. \u201cGeneral\u201d refers to the older and less educated populace. The younger generation, or more well travelled Chinese know everything, arguably more than western people, which is why the Chinese government general looks away regarding VPN.\n\nAlso, if you travel to China with an international mobile package, say from ATT, even piggybacking off the Chinese telecom network, nothing is censored or firewalled. It\u2019s part of international agreements between telecoms.  Therefore, very easy for foreigners to hack from China, and hide their tracks.",
+                          "score": 5,
+                          "created_utc": 1738338755.0,
+                          "replies": [
+                            {
+                              "id": "ma7wxce",
+                              "author": "Shadow647",
+                              "body": "> It\u2019s part of international agreements between telecoms.\n\nNo, it's because when you're roaming, your phone estabilishes a IPsec ESP tunnel to your home cellular carrier's SEGs (for LTE) / SEPPs (for 5G).\n\nAlso, for the same reason, your external IP address will be from your home carrier, not from the carrier in whose network you're roaming.",
+                              "score": 1,
+                              "created_utc": 1738341508.0,
+                              "replies": [
+                                {
+                                  "id": "ma833y1",
+                                  "author": "None",
+                                  "body": "You\u2019re being pedantic, as without agreements, those connections wouldn\u2019t be permitted.\n\nBut that\u2019s beside the point, which is that you are not censored as a foreigner as most people seem to think.",
+                                  "score": 3,
+                                  "created_utc": 1738343220.0,
+                                  "replies": [
+                                    {
+                                      "id": "ma9a0yd",
+                                      "author": "Shadow647",
+                                      "body": "> You\u2019re being pedantic, as without agreements, those connections wouldn\u2019t be permitted.\n\nYes, and tourism to China would be significantly lower, because who wants to go to a country without roaming - so far those are North Korea, Turkmenistan, Cuba, Iran, Syria, Afghanistan and Sudan. They're not exactly flowing with tourists.\n\n> But that\u2019s beside the point, which is that you are not censored as a foreigner as most people seem to think.\n\nIt is literally technically impossible to censor a phone that's roaming from outside network.",
+                                      "score": 2,
+                                      "created_utc": 1738355271.0,
+                                      "replies": [
+                                        {
+                                          "id": "ma9g9lo",
+                                          "author": "None",
+                                          "body": "You were pedantic, was called out for being pedantic while missing the point. Yet, you still doubled down because you couldn\u2019t admit you were being an annoying pedant, and still proved me right again.\n\nThis was amusing. Thanks.",
+                                          "score": -2,
+                                          "created_utc": 1738357048.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "ma87oev",
+                                      "author": "ChangeVivid2964",
+                                      "body": "How do you know this, are you from China?",
+                                      "score": 0,
+                                      "created_utc": 1738344486.0,
+                                      "replies": [
+                                        {
+                                          "id": "ma8d6iz",
+                                          "author": "None",
+                                          "body": "[removed]",
+                                          "score": -1,
+                                          "created_utc": 1738346014.0,
+                                          "replies": [
+                                            {
+                                              "id": "ma8kj8d",
+                                              "author": "ChangeVivid2964",
+                                              "body": "I'm also Canadian.  I doubt you are, most people here don't resort to petty name-calling when they don't have an argumentative leg to stand on.\n\nAnd when we do, we're certainly more well-read than to use the word \"pathetic\" twice in a row.  We have thesauruses up here.",
+                                              "score": 5,
+                                              "created_utc": 1738348074.0,
+                                              "replies": [
+                                                {
+                                                  "id": "ma8nqvz",
+                                                  "author": "None",
+                                                  "body": "If you\u2019re also Canadian, then it\u2019s so easy to guess what type you are.\n\nI\u2019ll copy and paste the same response in case you didn\u2019t hear enough:\n\nYou\u2019re triggered and projecting.\n\nLet me make some guesses.\n\nButthurt Taiwanese, Falun Gong cultist, corrupt rich Chinese that ran away from China, or first/second generation Hong Kong that left for Canada decades ago and think China is some backwards mainlander still?\n\nYou\u2019re the type that stay on social media 24/hrs spreading cHinA bAd even on a post about pandas because China hurt your feelings.",
+                                                  "score": -1,
+                                                  "created_utc": 1738348969.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "ma8osbq",
+                                                      "author": "None",
+                                                      "body": "[removed]",
+                                                      "score": 4,
+                                                      "created_utc": 1738349261.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "ma9fnqr",
+                                                          "author": "None",
+                                                          "body": "You\u2019re triggered, I guessed right lmao.",
+                                                          "score": -1,
+                                                          "created_utc": 1738356876.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "ma9fuzn",
+                                                              "author": "ChangeVivid2964",
+                                                              "body": "Oh yeah I'm super triggered.  Reading people excuse the attacks from China trigger me into correcting them and exposing the truth.\n\nWhy did your family move to Canada from China?",
+                                                              "score": 2,
+                                                              "created_utc": 1738356933.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "maat1km",
+                                                                  "author": "None",
+                                                                  "body": "You\u2019re projecting your insecurities. Lmao",
+                                                                  "score": 1,
+                                                                  "created_utc": 1738372105.0,
+                                                                  "replies": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "ma7vf6m",
+                              "author": "ChangeVivid2964",
+                              "body": "> That so called firewall isn\u2019t as impressive as most people think it is.\n\nIt still makes the \"actually all those China bots trying to hack into your network 1000x/hr could be a CIA false flag attack\" not worth mentioning unless you have evidence to back it up.\n\nLike do you go into every murder trial and say \"actually it is possible they could have been framed\" as well?\n\n>It\u2019s mostly for the general population to gate them against western media.\n\nLike you?",
+                              "score": 1,
+                              "created_utc": 1738341087.0,
+                              "replies": [
+                                {
+                                  "id": "ma82t8l",
+                                  "author": "None",
+                                  "body": "Oh, you\u2019re one of those. Can\u2019t argue with facts, and already projecting your biases and insecurities?\n\nWhat a boring lemming.\n\nhttps://www.securityweek.com/north-korea-deploying-fake-it-workers-in-china-russia-other-countries/amp/\n\nHacking attribution is very important.\n\nLots of hacking is coming from China. But to blindly believe all hacking from China, is actually from China, is manufacturing consent succeeded.\n\nhttps://www.techtarget.com/searchsecurity/definition/cyber-attribution",
+                                  "score": 5,
+                                  "created_utc": 1738343138.0,
+                                  "replies": [
+                                    {
+                                      "id": "ma87hk3",
+                                      "author": "ChangeVivid2964",
+                                      "body": "> Oh, you\u2019re one of those. Can\u2019t argue with facts, \n\nYou've yet to present any facts.\n\n>and already projecting your biases and insecurities?\n\nWhich biases and insecurities are those?  You think I'm actually a state-sponsored hacker myself?\n\n>https://www.securityweek.com/north-korea-deploying-fake-it-workers-in-china-russia-other-countries/amp/\n\n>Hacking attribution is very important.\n\nThat's an article about people in North Korea pretending to be workers in China by stealing people's identity. \n\nIt also repeatedly links to itself as a source, making it not a very reliable source of information.\n\nMedia literacy, and reading articles before you link them is important, too.\n\n>But to blindly believe all hacking from China, is actually from China, is manufacturing consent succeeded.\n\n\"Manufacturing consent\" for what, exactly?   I take it by that phrase you are Chinese, yes?  I routinely hear that phrase from Chinese people that think that every single accusation against their country is actually a secret ploy for drumming up support for a nuclear war with China, ala-Iraq and WMDs.  It's because it's a Chinese state propaganda line.\n\nhttps://www.techtarget.com/searchsecurity/definition/cyber-attribution\n\nThis is an article about cyber attribution.  \n\nNext time you want to post a link to some \"facts\", cite the relevant paragraph.",
+                                      "score": 1,
+                                      "created_utc": 1738344434.0,
+                                      "replies": [
+                                        {
+                                          "id": "ma8cpby",
+                                          "author": "None",
+                                          "body": "More projection huh? Canadian here.\n\nI presume you\u2019re American evidenced by so much trip wired jingoism in your responses. \n\nYou\u2019re a typical parrot regurgitating the same tired Reddit rhetoric. Polly want a cracker?",
+                                          "score": 1,
+                                          "created_utc": 1738345882.0,
+                                          "replies": [
+                                            {
+                                              "id": "ma8jxup",
+                                              "author": "ChangeVivid2964",
+                                              "body": "I'm Canadian too.\n\nThe only people I've ever met in Canada that went this hard to defend China and repeat their propaganda lines were people from China living in Canada.\n\nWhy did you resort to childish insults instead of addressing or responding to any of my arguments?  Could your arguments not stand on their own merit?",
+                                              "score": 2,
+                                              "created_utc": 1738347908.0,
+                                              "replies": [
+                                                {
+                                                  "id": "ma8nh7w",
+                                                  "author": "None",
+                                                  "body": "You\u2019re triggered and projecting.\n\nLet me make some guesses.\n\nButthurt Taiwanese, Falun Gong cultist, corrupt rich Chinese that ran away from China, or first/second generation Hong Kong that left for Canada decades ago and think China is some backwards mainlander still?\n\nYou\u2019re the type that stay on social media 24/hrs spreading cHinA bAd even on a post about pandas because China hurt your feelings.",
+                                                  "score": 0,
+                                                  "created_utc": 1738348893.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "ma8oao0",
+                                                      "author": "None",
+                                                      "body": "[removed]",
+                                                      "score": 3,
+                                                      "created_utc": 1738349124.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "ma9fhsu",
+                                                          "author": "None",
+                                                          "body": "Yeah, you\u2019re triggered af. I guessed right.",
+                                                          "score": 1,
+                                                          "created_utc": 1738356830.0,
+                                                          "replies": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ma8p5ru",
+                  "author": "Glowing-Strelok-1986",
+                  "body": "I would assume they do that as well.",
+                  "score": 0,
+                  "created_utc": 1738349365.0,
+                  "replies": [
+                    {
+                      "id": "ma8pjuk",
+                      "author": "ChangeVivid2964",
+                      "body": "There's no other IPs.  Just China and Russia.\n\nDon't take my word for it, check for yourself.  Check your router's logs.",
+                      "score": 2,
+                      "created_utc": 1738349474.0,
+                      "replies": [
+                        {
+                          "id": "mad53dz",
+                          "author": "Glowing-Strelok-1986",
+                          "body": "Maybe it's another country deflecting blame to China? IDK",
+                          "score": 0,
+                          "created_utc": 1738412050.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ma5mkwg",
+          "author": "sargonas",
+          "body": "Same. I have a unifi dream machine Pro and it black holes all traffic to and from both China and Russia and the amount of random poking and prodding that hits my firewall from the Internet dropped dramatically.\n\nI also have all of my IoT devices on a separate VLan where they are only allowed to talk to my Home Assistant controller, they are not allowed to talk to each other, any other device on the other network vlans, and only ones that absolutely require it for cloud services (which I avoid at all cars behind unless it\u2019s unavoidable) can talk to the Internet itself. (Also they have their own wireless SS ID as well)",
+          "score": 21,
+          "created_utc": 1738305473.0,
+          "replies": [
+            {
+              "id": "ma7mnfs",
+              "author": "feidxeno",
+              "body": "How do you handle cameras ?",
+              "score": 2,
+              "created_utc": 1738338601.0,
+              "replies": []
+            },
+            {
+              "id": "ma5sgpy",
+              "author": "nimble7126",
+              "body": "It must be draining to care that much.",
+              "score": -32,
+              "created_utc": 1738308744.0,
+              "replies": [
+                {
+                  "id": "ma5t62y",
+                  "author": "sargonas",
+                  "body": "Not at all. Took 15 minutes to set up and I haven\u2019t had to think about it in three years since other than a periodic check to make sure none of it got turned off",
+                  "score": 24,
+                  "created_utc": 1738309157.0,
+                  "replies": [
+                    {
+                      "id": "ma6s8oh",
+                      "author": "IsthianOS",
+                      "body": "Any guides or resources you recommend?",
+                      "score": 12,
+                      "created_utc": 1738328545.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma66m2h",
+                  "author": "CommanderOfReddit",
+                  "body": "Is thinking difficult for you?",
+                  "score": 17,
+                  "created_utc": 1738317456.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ma52b7y",
+          "author": "kolby4078",
+          "body": "It will just get routed through another country",
+          "score": 69,
+          "created_utc": 1738296362.0,
+          "replies": [
+            {
+              "id": "ma530cp",
+              "author": "theonion513",
+              "body": "Very true, but it\u2019s at least a first line of defense for the most unsophisticated data mining operations.",
+              "score": 80,
+              "created_utc": 1738296634.0,
+              "replies": []
+            },
+            {
+              "id": "ma5irpg",
+              "author": "sussywanker",
+              "body": "Very true! \n\nCompanies under the BBK group which makes smartphones already does this. Oppo, Realme, Vivo and One Plus all route their data to Singapore and then to China. \n\nThey use the heytap service to get your data, its in their PP",
+              "score": 14,
+              "created_utc": 1738303490.0,
+              "replies": [
+                {
+                  "id": "ma5kz9t",
+                  "author": "According_Win_5983",
+                  "body": "I\u2019ll show them my PP",
+                  "score": 24,
+                  "created_utc": 1738304620.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma5dobu",
+              "author": "gold_rush_doom",
+              "body": "But we can talk to that other country, and that country might respect the law and seize the domain and/or machine.",
+              "score": 16,
+              "created_utc": 1738301066.0,
+              "replies": [
+                {
+                  "id": "ma5fiql",
+                  "author": "theonion513",
+                  "body": "Post facto. Would rather not have to deal with it. Geo blocking is a useful layer in the Swiss cheese sandwich.\u00a0",
+                  "score": 19,
+                  "created_utc": 1738301912.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma5oa9v",
+              "author": "thabc",
+              "body": "This backdoor is very unsophisticated and uses a hard-coded IP address. That's easy to block and they're not able to change it at that point. More sophisticated malware will use a domain generation algorithm (DGA) to evade blocking.",
+              "score": 5,
+              "created_utc": 1738306395.0,
+              "replies": []
+            },
+            {
+              "id": "ma5tfho",
+              "author": "nicuramar",
+              "body": "This backdoor is pretty crude. It just contacts a hard coded IP endpoint.\u00a0",
+              "score": 1,
+              "created_utc": 1738309312.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma70cj2",
+          "author": "GiantSteps1",
+          "body": "Is this something a layperson can do? My network is just a modem/router I rent from Comcast.",
+          "score": 7,
+          "created_utc": 1738331548.0,
+          "replies": []
+        },
+        {
+          "id": "ma4xf6y",
+          "author": "HalcyonDias",
+          "body": "Hard to do?",
+          "score": 6,
+          "created_utc": 1738294542.0,
+          "replies": [
+            {
+              "id": "ma4ynzk",
+              "author": "DarkSoulsExplorer",
+              "body": "Not in certain Firewalls.  The SonicWall firewalls that we use, make it easy to setup Geo-IP Filtering.",
+              "score": 11,
+              "created_utc": 1738294992.0,
+              "replies": [
+                {
+                  "id": "ma4zqkm",
+                  "author": "Carrera_996",
+                  "body": "I love SonicWall. Errbody gotta pay 20x the price for some route based bullshit that caches the IP for lookups, and then the IP changes and shit breaks. Looking at you, Palo Alto.",
+                  "score": 6,
+                  "created_utc": 1738295384.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma52uhw",
+              "author": "theonion513",
+              "body": "I use Ubiquiti. They have a country blocking section in the Security tab. Easy to limit connections. My IOT devices are constantly slamming IPs in China. Mostly NTP servers but still, they don\u2019t need to know about me.",
+              "score": 4,
+              "created_utc": 1738296570.0,
+              "replies": []
+            },
+            {
+              "id": "ma4y1qe",
+              "author": "BitRunr",
+              "body": "https://lite.ip2location.com/china-ip-address-ranges",
+              "score": 1,
+              "created_utc": 1738294768.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma55k8s",
+          "author": "Apples_Two_Oranges",
+          "body": "How you do that",
+          "score": 10,
+          "created_utc": 1738297649.0,
+          "replies": [
+            {
+              "id": "ma5h66y",
+              "author": "Neo_Techni",
+              "body": "Block a bunch of IPs at the firewall, or even the ports.",
+              "score": 7,
+              "created_utc": 1738302703.0,
+              "replies": []
+            },
+            {
+              "id": "ma5czsi",
+              "author": "mynameistc",
+              "body": "Probably using something like a pihole - a raspberry pi that you can use to manage internet traffic.",
+              "score": -6,
+              "created_utc": 1738300759.0,
+              "replies": [
+                {
+                  "id": "ma5l0wp",
+                  "author": "surreal3561",
+                  "body": "pihole acts as a DNS server, it doesn\u2019t manage internet traffic. To block incoming and outgoing traffic to specific IP ranges you need a firewall.",
+                  "score": 16,
+                  "created_utc": 1738304644.0,
+                  "replies": [
+                    {
+                      "id": "ma6ul32",
+                      "author": "other_usernames_gone",
+                      "body": "Yeah but most routers have one anyway. It's already configured to block certain traffic. \n\nYou just need configure the blacklist for your router.",
+                      "score": 2,
+                      "created_utc": 1738329456.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ma70d6q",
+          "author": "Lastsoldier115",
+          "body": "Yep, same with our hospital system. In fact, any traffic outside the country has to be added to a whitelist.",
+          "score": 3,
+          "created_utc": 1738331555.0,
+          "replies": []
+        },
+        {
+          "id": "ma63knt",
+          "author": "blazze_eternal",
+          "body": "Yeah, and there's a few more by default.",
+          "score": 1,
+          "created_utc": 1738315550.0,
+          "replies": []
+        },
+        {
+          "id": "ma6fwr1",
+          "author": "jonathanrdt",
+          "body": "Or maybe we shouldn't trust our healthcare to devices made under an aggressive regime.",
+          "score": 1,
+          "created_utc": 1738322921.0,
+          "replies": []
+        },
+        {
+          "id": "ma6mpiq",
+          "author": "iSeize",
+          "body": "What if it goes somewhere else first",
+          "score": 1,
+          "created_utc": 1738326234.0,
+          "replies": [
+            {
+              "id": "ma82rni",
+              "author": "brinmb",
+              "body": "can't block everything, but this gets rid of a large part of unnecessary traffic",
+              "score": 1,
+              "created_utc": 1738343125.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma73gns",
+          "author": "identifytarget",
+          "body": "how do you do that?",
+          "score": 1,
+          "created_utc": 1738332623.0,
+          "replies": []
+        },
+        {
+          "id": "ma8gaxe",
+          "author": "Tatu2",
+          "body": "same. most countries actually.",
+          "score": 1,
+          "created_utc": 1738346888.0,
+          "replies": []
+        },
+        {
+          "id": "ma8iqzz",
+          "author": "swirleyy",
+          "body": "How do you do this on your personal laptop and phone etc? I am interested in doing the same but I\u2019m not too tech savvy",
+          "score": 1,
+          "created_utc": 1738347577.0,
+          "replies": []
+        },
+        {
+          "id": "ma8p0u2",
+          "author": "Glowing-Strelok-1986",
+          "body": "Couldn't they just use an IP in one of their foreign embassies or any other foreign network under their control?",
+          "score": 1,
+          "created_utc": 1738349326.0,
+          "replies": [
+            {
+              "id": "ma8yng1",
+              "author": "theonion513",
+              "body": "Of course. Geoblocking is a layer, not the entire system. But as you can see from the article, Geo blocking would indeed be beneficial in this particular instance.",
+              "score": 1,
+              "created_utc": 1738352041.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma5you0",
+          "author": "Automatic-Prompt-450",
+          "body": "Teach us your secrets. Is it something that can be done in pi hole for example",
+          "score": 1,
+          "created_utc": 1738312469.0,
+          "replies": []
+        },
+        {
+          "id": "ma61gry",
+          "author": "--Arete",
+          "body": "How?",
+          "score": -1,
+          "created_utc": 1738314216.0,
+          "replies": []
+        },
+        {
+          "id": "ma65yrj",
+          "author": "ChamberofSarcasm",
+          "body": "How does one do this?",
+          "score": -1,
+          "created_utc": 1738317052.0,
+          "replies": []
+        },
+        {
+          "id": "maav8ao",
+          "author": "rpd9803",
+          "body": "Hopefully they haven\u2019t caught on to VPNs.",
+          "score": 0,
+          "created_utc": 1738372852.0,
+          "replies": [
+            {
+              "id": "mabupqn",
+              "author": "theonion513",
+              "body": "I mean, the people who programmed the back door in the article haven\u2019t\u2026",
+              "score": 1,
+              "created_utc": 1738386242.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma64vxc",
+          "author": "aqan",
+          "body": "How do you do that? Is there a MAC/IP range that can be blocked?",
+          "score": -1,
+          "created_utc": 1738316380.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma5g5xg",
+      "author": "None",
+      "body": "We\u2019re gonna need to inspect every component of every microchip just to be safe\n\n![gif](giphy|3ogwFYJ79T43JQ07mM)",
+      "score": 57,
+      "created_utc": 1738302216.0,
+      "replies": [
+        {
+          "id": "ma6t3tt",
+          "author": "mbergman42",
+          "body": "There is work underway to ensure components in products are known and safe.\n\nThe challenge is \u201cprovenance\u201d. Who designed this chip, who fabbed it, who sourced it, who put it on the board, who programmed it, whose hands did it pass through?\n\nOne effort is to add a cryptographically secure digital \u201cfingerprint\u201d to chips, with a way to read it when it\u2019s soldered to a board. The Global Semiconductor Alliance is working this concept through their IoT Security Interest Group.\n\nThere is also a new effort to create interoperable hardware bills-of-material (HBOMs) to carry the provenance information from supplier to manufacturer to distributor to user. NEMA is launching a group to standardize a format, possibly starting with the HBOM framework from DHS CISA in the U.S.\n\nThese efforts will take time, but there are regulatory pressures in the U.S., EU and elsewhere  pushing things along, especially in telecoms.",
+          "score": 10,
+          "created_utc": 1738328882.0,
+          "replies": []
+        },
+        {
+          "id": "ma61ygj",
+          "author": "_RADIANTSUN_",
+          "body": "Yea the reason this makes me concerned is that for this one thing that got caught there are probably 20 that didn't, and tomorrow they will just learn from this one... Maybe the devices don't ping any IP address until at least 6 months after being turned on and then only do it randomly of something, or maybe not at all as they await some condition to be met, etc. \n\nStuff like this which is basically caught by \"1st line of defence\" methods, is probably the least sophisticated of what is on offer.",
+          "score": 16,
+          "created_utc": 1738314529.0,
+          "replies": [
+            {
+              "id": "ma6myjc",
+              "author": "pupilsOMG",
+              "body": "Exactly. Medical devices are expensive and designed for long life. Just because this one is unsophisticated doesn't mean there aren't a raft of \"better\" designed backdoors being installed every day.",
+              "score": 0,
+              "created_utc": 1738326347.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma6sy1p",
+          "author": "None",
+          "body": "[removed]",
+          "score": 1,
+          "created_utc": 1738328820.0,
+          "replies": [
+            {
+              "id": "ma6sy51",
+              "author": "AutoModerator",
+              "body": "Your comment has been automatically removed.\n\nSocial media and social networking links are not allowed in /r/gadgets, as they almost always contain personal information and therefore break the [rules of reddit](http://reddit.com/rules).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+              "score": 1,
+              "created_utc": 1738328821.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "maadq8k",
+          "author": "TheWastelandWizard",
+          "body": "I actually started talking to a friend about making a bespoke PCB company specifically because this concern is very real. The logistics are staggering, which is one of the main reasons we didn't look further into it, but the right people with the right resources are going to make a hell of a lot of money.",
+          "score": 1,
+          "created_utc": 1738367056.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma61dlh",
+      "author": "--Arete",
+      "body": "This is extremely serious. Although a device like this  is not the only way to monitor a patient the risk is that the monitor displays the wrong data. We tend to rely on the data we have available. The worst case scenario is not that the monitor is shut down or stops working. The real danger is if someone manipulates the data making it seem like the patient is in a different state. This could potentially lead to the wrong treatment and ultimately death or severe injury or illnesses.",
+      "score": 52,
+      "created_utc": 1738314159.0,
+      "replies": [
+        {
+          "id": "ma80hw4",
+          "author": "nodtomod",
+          "body": "Whilst you're right, I'm not really sure that's of particular interest to China.\n\nI think the bigger risk is that in a war scenario, China has direct access to a hospital network which they could hit with an attack to disable or significantly cripple this hospital and potentially many others. It's this kind of widespread chaos across many industries which would do significant damage to the country and affect national response.",
+          "score": 15,
+          "created_utc": 1738342496.0,
+          "replies": [
+            {
+              "id": "maga64a",
+              "author": "xAdakis",
+              "body": "You would be surprised how even seemingly worthless information can be extremely useful to intelligence agencies. \n\nWill that information be used maliciously, maybe not, but it could.",
+              "score": 4,
+              "created_utc": 1738448999.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma84esi",
+          "author": "EnormousMonsterBaby",
+          "body": "This is exactly my thought. If the monitors totally shut down, that\u2019d be dangerous and horrible, but at least I would *know* that I would have to get manual vitals and certain equipment couldn\u2019t be used. But if someone hacked the monitors to display inaccurate vitals\u2026 or turned off the alarms\u2026 oh my god. I feel sick to my stomach just thinking about it.",
+          "score": 0,
+          "created_utc": 1738343581.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma5gh6i",
+      "author": "MoistureManagerGuy",
+      "body": "Im ignorant to all this stuff, but I gotta ask. What good does them having that information do for them?",
+      "score": 27,
+      "created_utc": 1738302366.0,
+      "replies": [
+        {
+          "id": "ma5w51z",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 43,
+          "created_utc": 1738310922.0,
+          "replies": [
+            {
+              "id": "ma5zps8",
+              "author": "RedHal",
+              "body": "Indeed. Nurse pops head in, vitals look fine, patient resting. Reality: patient dead from overdose of drug provided by similarly compromised IV pump.",
+              "score": 45,
+              "created_utc": 1738313111.0,
+              "replies": [
+                {
+                  "id": "ma7381d",
+                  "author": "None",
+                  "body": "There\u2019s a pretty big rule in the medical community; \n\nTreat the patient, not the monitor. \n\nYour monitor may say blood pressure \u201c120/80\u201d but if you\u2019re gasping for air or you\u2019re appearing confused at all, that \u201c120/80\u201d ain\u2019t very real and you should get a manual blood pressure.",
+                  "score": 10,
+                  "created_utc": 1738332541.0,
+                  "replies": [
+                    {
+                      "id": "ma8dwzb",
+                      "author": "EnormousMonsterBaby",
+                      "body": "True\u2026 but the areas that would be most at risk for this event would be the ICUs, ORs, and ERs, and that rule wouldn\u2019t apply to a lot of those patients (ex: intubated and sedated). Also, I can\u2019t measure things like my patient\u2019s intracranial pressures manually. Lol",
+                      "score": 4,
+                      "created_utc": 1738346218.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ma6inrl",
+                  "author": "vapenutz",
+                  "body": "Cyberpunk wasn't a fucking blueprint, Jesus",
+                  "score": 17,
+                  "created_utc": 1738324337.0,
+                  "replies": [
+                    {
+                      "id": "ma6ohjt",
+                      "author": "showyerbewbs",
+                      "body": "Stuxnet was though",
+                      "score": 8,
+                      "created_utc": 1738327006.0,
+                      "replies": [
+                        {
+                          "id": "ma72s6q",
+                          "author": "vapenutz",
+                          "body": "I hate hospital stuxnet but here we are, totally possible now",
+                          "score": 2,
+                          "created_utc": 1738332391.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ma5tvvv",
+          "author": "cuacuacuac",
+          "body": "Anything, from good intencions to terrible intentions. You could use the data to do research or train medical AIs, and you'd be doing it with access to a dataset no one has access to (and without permission of course...) \n\nYou could also use the backdoor to disable all of the enemy's medical equipment in the case of a global conflict, so that you cause chaos and confusion.",
+          "score": 8,
+          "created_utc": 1738309583.0,
+          "replies": []
+        },
+        {
+          "id": "ma5jxn0",
+          "author": "FluffySmiles",
+          "body": "For when it is useful and can be used to cripple or exploit (eg botnet) or spoof or whatever the hell they can figure out a use for. Could be mass confusion. Could be targeted attacks. Who knows. But there is value in the knowledge of what\u2019s running where.",
+          "score": 11,
+          "created_utc": 1738304080.0,
+          "replies": [
+            {
+              "id": "ma662vx",
+              "author": "CarpeMofo",
+              "body": " In theory you could murder like a President with it. He needs surgery, they take over the monitors give the anesthesiologist the wrong information and he dies.",
+              "score": 5,
+              "created_utc": 1738317122.0,
+              "replies": []
+            },
+            {
+              "id": "ma5zijh",
+              "author": "72kdieuwjwbfuei626",
+              "body": "If you don\u2019t know, you can just not answer.",
+              "score": -2,
+              "created_utc": 1738312987.0,
+              "replies": [
+                {
+                  "id": "ma5zq1o",
+                  "author": "FluffySmiles",
+                  "body": "Deep.",
+                  "score": 0,
+                  "created_utc": 1738313116.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mag0xa4",
+          "author": "keiranlovett",
+          "body": "Here\u2019s a great example\n\nhttps://youtu.be/WyBlh8Tq6_Q?si=WsdzAhiepMz44XWW",
+          "score": 2,
+          "created_utc": 1738446091.0,
+          "replies": []
+        },
+        {
+          "id": "ma85j1a",
+          "author": "EnormousMonsterBaby",
+          "body": "First two things that come to mind: \n\n1) Similar to how hackers have started holding hospital electronic medical record systems hostage for ransom (already terrifying), they could theoretically do a similar thing with these devices. \n\n2) Anyone that hates the US could kill a ton of innocent people (either targeted or at random) by manipulating these monitors.",
+          "score": 1,
+          "created_utc": 1738343893.0,
+          "replies": []
+        },
+        {
+          "id": "ma5kfec",
+          "author": "ok-commuter",
+          "body": "Speculating: feed everything into an AI that can then be weaponized at some point if needed. One scenario, is manipulating beliefs and behaviours of people on mass via various media. This can be incredibly personalized and effective *if* you have enough data on the targets.",
+          "score": 0,
+          "created_utc": 1738304333.0,
+          "replies": [
+            {
+              "id": "ma5poi1",
+              "author": "WorkingWorkerWork",
+              "body": "lol the U.S. corporations and Twitter bots are already doing what people want us to fear China for . People from all over the world hack our shit, not just China . Media likes to confuse you asses into believing other countries hacking our people is more harmful to us then our own government letting the billionaires do it to us.",
+              "score": 4,
+              "created_utc": 1738307153.0,
+              "replies": [
+                {
+                  "id": "ma5z2ce",
+                  "author": "Raisenbran_baiter",
+                  "body": "Preach",
+                  "score": -1,
+                  "created_utc": 1738312705.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ma6k8df",
+          "author": "questionname",
+          "body": "Use it for scams. If you combine this info with leaked name/ssn/phone number, you can tell the patient to pay for hospital bill.",
+          "score": 0,
+          "created_utc": 1738325098.0,
+          "replies": []
+        },
+        {
+          "id": "ma6qry5",
+          "author": "double-you",
+          "body": "If there was a war between China and western nations, the worrying part of backdoors is sabotage of items. Say your car is Chinese. What if they can just turn it off, forever? Maybe the heart monitors stop working. Perhaps the x-ray machine starts to output x-rays at way more dangerous levels. Everybody's home router is turned off forever and you no longer can get on the Internet to actually get any information. Perhaps your phone is Chinese too and it no longer does anything.",
+          "score": 0,
+          "created_utc": 1738327960.0,
+          "replies": [
+            {
+              "id": "ma81umh",
+              "author": "Octogenarian",
+              "body": "Perhaps your electrical grid, municipal water supply, nearby nuclear power plant \"stop working.\"",
+              "score": 1,
+              "created_utc": 1738342868.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma6wrhe",
+          "author": "sknmstr",
+          "body": "Wouldn\u2019t this then be give the chance to access the network that these devices are connected to? That would give the possibility to access the entire hospitals network.",
+          "score": 0,
+          "created_utc": 1738330269.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma7tzbo",
+      "author": "Oolongteabagger2233",
+      "body": "Glad someone is watching the monitors - the staffing is so bad at my place the nurses can't.\u00a0",
+      "score": 5,
+      "created_utc": 1738340685.0,
+      "replies": []
+    },
+    {
+      "id": "ma5a5zr",
+      "author": "BipedalWurm",
+      "body": "Pikachu isn't shocked, he dead",
+      "score": 11,
+      "created_utc": 1738299540.0,
+      "replies": []
+    },
+    {
+      "id": "ma6gw8c",
+      "author": "Rambus_Jarbus",
+      "body": "It wasn\u2019t long ago that Australia got rid of all their Chinese manufactured security cameras for reasons like this.",
+      "score": 5,
+      "created_utc": 1738323442.0,
+      "replies": []
+    },
+    {
+      "id": "ma7jfee",
+      "author": "BedAdministrative727",
+      "body": "This is a wake-up call for anyone still underestimating the risks of relying on foreign tech in critical sectors. It's not just about surveillance; it's about control over life-saving devices. The implications could be catastrophic if this goes unchecked.",
+      "score": 4,
+      "created_utc": 1738337665.0,
+      "replies": []
+    },
+    {
+      "id": "macu7in",
+      "author": "Creoda",
+      "body": "Has no one learnt from Battlestar Galactica, if you don't want the Cylons to hack your systems stop making them connect to the internet. Local network only.",
+      "score": 5,
+      "created_utc": 1738405822.0,
+      "replies": []
+    },
+    {
+      "id": "maifwa6",
+      "author": "antiMATTer724",
+      "body": "I'm chimed in, haven't you people ever heard of closing the goddamn door?!",
+      "score": 4,
+      "created_utc": 1738476437.0,
+      "replies": []
+    },
+    {
+      "id": "ma57h6b",
+      "author": "VoughtHunter",
+      "body": "30% of those patients are getting denied healthcare by US companies",
+      "score": 28,
+      "created_utc": 1738298431.0,
+      "replies": [
+        {
+          "id": "ma60w6s",
+          "author": "KingApologist",
+          "body": "Seems like that's the bigger danger to the patients here",
+          "score": 13,
+          "created_utc": 1738313855.0,
+          "replies": [
+            {
+              "id": "ma61vut",
+              "author": "VoughtHunter",
+              "body": "100%",
+              "score": 0,
+              "created_utc": 1738314483.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma62zcp",
+      "author": "doshult",
+      "body": "Everything slightly high tech that\u2019s made in China has a backdoor.",
+      "score": 12,
+      "created_utc": 1738315176.0,
+      "replies": []
+    },
+    {
+      "id": "ma7hw0n",
+      "author": "LoundnessWar",
+      "body": "This is the sort of thing people need to consider before they use, for example, DeepSeek. Anything from China is suspect and should be avoided.",
+      "score": 3,
+      "created_utc": 1738337210.0,
+      "replies": []
+    },
+    {
+      "id": "ma89q9m",
+      "author": "hanimal16",
+      "body": "Genuine question: what is the purpose of this? What is the benefit to looking at patient monitors?    \n\nE: my question was answered in [this comment](https://www.reddit.com/r/gadgets/s/EF7VfJhP30)",
+      "score": 3,
+      "created_utc": 1738345055.0,
+      "replies": []
+    },
+    {
+      "id": "ma5ctep",
+      "author": "iknewaguytwice",
+      "body": "That\u2019s not a backdoor. That\u2019s just how it was made. That is like blatantly obvious. They didn\u2019t even try to obfuscate it?\n\nSounds like someone needs to save a bunch of images of tankman to /opt/bin",
+      "score": 15,
+      "created_utc": 1738300680.0,
+      "replies": [
+        {
+          "id": "ma5tmnw",
+          "author": "nicuramar",
+          "body": "How is it not a backdoor? It is by definition, except maybe if it is a legit update mechanism, which doesn\u2019t seem likely.\u00a0",
+          "score": 5,
+          "created_utc": 1738309430.0,
+          "replies": [
+            {
+              "id": "ma6qzfn",
+              "author": "iknewaguytwice",
+              "body": "Back doors are typically not in plain sight. \nThis is a front door.",
+              "score": 9,
+              "created_utc": 1738328043.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "macs9nx",
+          "author": "uNki23",
+          "body": "Right? Exactly my thoughts. If understand it correctly it\u2019s an executable called \u201emonitor\u201c that \u201edoes this stuff\u201c. The article doesn\u2019t state that this executable is even executed when the device boots.\n\nMy gut feeling is, that the developers use it during development / testing, have just been sloppy and left it there. Now the internet makes a \u201echina wants to control us all and turn off / tinker with our medical devices\u201c",
+          "score": 1,
+          "created_utc": 1738404636.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma5zeq8",
+      "author": "RedHal",
+      "body": "Thanks for the heads up. Time to check the logs.",
+      "score": 2,
+      "created_utc": 1738312921.0,
+      "replies": []
+    },
+    {
+      "id": "ma6aqxg",
+      "author": "CrashnServers",
+      "body": "Not unexpected really.",
+      "score": 2,
+      "created_utc": 1738319999.0,
+      "replies": []
+    },
+    {
+      "id": "ma77a4l",
+      "author": "The_Great_Dadvid",
+      "body": "The Chinese government has back door access and surveillance on pretty much every digital/electronic device made. From PC\u2019s to routers to cellular communications everything is compromised. The crypto crash will be caused by them.",
+      "score": 2,
+      "created_utc": 1738333899.0,
+      "replies": []
+    },
+    {
+      "id": "ma78iqr",
+      "author": "None",
+      "body": "Surveillance does not worry me.  Their ability to remotely shut down the device scares me to death.",
+      "score": 2,
+      "created_utc": 1738334304.0,
+      "replies": []
+    },
+    {
+      "id": "ma82t1i",
+      "author": "neuromonkey",
+      "body": "This just in: countries spy on each other.",
+      "score": 2,
+      "created_utc": 1738343136.0,
+      "replies": []
+    },
+    {
+      "id": "ma936mo",
+      "author": "johnryan433",
+      "body": "The only way to completely trust your tech is air gaps these days, unless all you tech is open source.",
+      "score": 2,
+      "created_utc": 1738353319.0,
+      "replies": []
+    },
+    {
+      "id": "ma98ptj",
+      "author": "HSCTigersharks4EVA",
+      "body": "Keep buying chinese products...",
+      "score": 2,
+      "created_utc": 1738354897.0,
+      "replies": []
+    },
+    {
+      "id": "macd0bo",
+      "author": "TRKlausss",
+      "body": "Open Source is so valuable here, since it at least gives you a chance to find such thing\u2019s without being obfuscated or hidden away\u2026",
+      "score": 2,
+      "created_utc": 1738395624.0,
+      "replies": []
+    },
+    {
+      "id": "mad77wc",
+      "author": "Baybutt99",
+      "body": "I feel bad for the teams working the weekend scrambling to get these out of environments trying to save their CTO\u2019s ass",
+      "score": 2,
+      "created_utc": 1738413112.0,
+      "replies": []
+    },
+    {
+      "id": "mag364s",
+      "author": "None",
+      "body": "I just assume everything is. Including neurolink.",
+      "score": 2,
+      "created_utc": 1738446791.0,
+      "replies": []
+    },
+    {
+      "id": "ma6hi81",
+      "author": "ToMorrowsEnd",
+      "body": "Honestly 100% of all medical gear source code should be forced to be open source and heavily reviewed regularly.     It's time to punch these  device makers in the nuts and force them to pay attention.",
+      "score": 3,
+      "created_utc": 1738323759.0,
+      "replies": [
+        {
+          "id": "maa0mzv",
+          "author": "worthwhilewrongdoing",
+          "body": "I hear you, but a lot of times the backdoors are inside the chip firmware itself - open sourcing the software is only going to get you so far if you don't know what the little computer inside is doing, you know?",
+          "score": 2,
+          "created_utc": 1738362952.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma7v63g",
+      "author": "Living_Ear_8088",
+      "body": "Meanwhile I've had my data leaked five times last year, once by the largest health insurance company in the country and once by my state's own DMV. Congress did nothing. Absolute silence. Also, Zuckerberg is free to SELL our data to whomever he pleases.\n\nPeople REALLY need to tell me why I should give a fuck about a back door to China. The call is coming from inside the home.\n\nData security will ALWAYS be a political Boogeyman until real financial and criminal penalties are put in place. Until jail time is a real possibility, and the fine imposed on companies to data leaks will be more than the cost to upgrade their IT infrastructure to prevent the leaks, our data will never be secure.",
+      "score": 3,
+      "created_utc": 1738341016.0,
+      "replies": [
+        {
+          "id": "ma89hil",
+          "author": "EnormousMonsterBaby",
+          "body": "You should actually care about this because this one isn\u2019t just about privacy, it\u2019s literally a life or death situation. This is fucking terrifying. These types of monitoring systems are literally the thing that ERs, ICUs, and ORs are built around - they are what allow us to continuously monitor things like vital signs, heart rhythms, and a ton of other measurements. If someone gains access to these monitors to either shut them down or manipulate their function at all, a loooot of people will die.",
+          "score": 2,
+          "created_utc": 1738344988.0,
+          "replies": [
+            {
+              "id": "ma8c55t",
+              "author": "Living_Ear_8088",
+              "body": "Great. So surely Congress will pass a comprehensive data security bill, right? \n\n...Right?",
+              "score": 4,
+              "created_utc": 1738345726.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma88i6c",
+          "author": "Underwater_Karma",
+          "body": "I've had free credit monitoring for years because data keeps getting linked and the company sends me a letter that says \"here's some free credit monitoring, go fuck yourself\"\n\nSo I get \"alerts\" all the time that my data has been \"discovered\" on teh dark web.  phone number, address, SSN, it's all been compromised by companies right here in the USA.",
+          "score": 1,
+          "created_utc": 1738344714.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma9qox1",
+      "author": "VagueSomething",
+      "body": "But but but remember Tiktok is magically safe because Tiktok told people it is.",
+      "score": 3,
+      "created_utc": 1738360023.0,
+      "replies": []
+    },
+    {
+      "id": "ma5pxpt",
+      "author": "Easyd26",
+      "body": "This is the type of stuff Snowden raised the alarm on. He was focused on US tech but if we were doing it you know damn well every one else was also",
+      "score": 5,
+      "created_utc": 1738307295.0,
+      "replies": [
+        {
+          "id": "ma5zphz",
+          "author": "72kdieuwjwbfuei626",
+          "body": "There isn\u2019t a single instance of manufacturer-placed backdoors in any of the documents Snowden leaked. That hasn\u2019t stopped the people who have always claimed those are everywhere to pretend otherwise, because why would they suddenly care about evidence, but it\u2019s glaring how there isn\u2019t any mention of it.\n\nAccording to the Snowden documents, the US has two ways to get data: 1. They install malware on individual devices. 2. They ask.\n\nAnd that\u2019s it. Pre-installed backdoors in mass-manufactured US tech are a myth.",
+          "score": 2,
+          "created_utc": 1738313106.0,
+          "replies": [
+            {
+              "id": "ma6j18o",
+              "author": "Kronocide",
+              "body": "Well that's kinda normal: Almost nothing is manufactured in the US",
+              "score": 1,
+              "created_utc": 1738324520.0,
+              "replies": [
+                {
+                  "id": "ma6vhds",
+                  "author": "None",
+                  "body": "To be more specific - hardware technology received from China, with US-authored firmware.",
+                  "score": 1,
+                  "created_utc": 1738329797.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma6j3hn",
+      "author": "AtariXL",
+      "body": "Yo, Xzibit!  Can you help monitor the monitors who are monitoring patient moitors?",
+      "score": 2,
+      "created_utc": 1738324550.0,
+      "replies": []
+    },
+    {
+      "id": "ma8hblm",
+      "author": "FringHalfhead",
+      "body": "The bigger picture is that each medical device is now potentially a vector for a government-sponsored cyber attack, and everything that comes with it (ransomware, records stealing, etc.)\n\nTrump's crusade against TikTok was silly because TikTok wasn't doing anything that Facebook, Linked In, Instagram, etc. don't already do.\n\nBut this is quite serious.  It's a vulnerability of our critical infrastructure.",
+      "score": 2,
+      "created_utc": 1738347173.0,
+      "replies": [
+        {
+          "id": "macc82h",
+          "author": "silent_fungus",
+          "body": "If we ever go to war with China, we are cooked.",
+          "score": 0,
+          "created_utc": 1738395178.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma6fhzz",
+      "author": "JeruldForward",
+      "body": "They\u2019re spying on us to figure out how to create the worst healthcare system in the developed world",
+      "score": 3,
+      "created_utc": 1738322702.0,
+      "replies": []
+    },
+    {
+      "id": "ma72hxc",
+      "author": "HandsPHD",
+      "body": "Yikes. This would be kind of scary",
+      "score": 1,
+      "created_utc": 1738332292.0,
+      "replies": []
+    },
+    {
+      "id": "ma7kgli",
+      "author": "AyyyyLeMeow",
+      "body": "> allowing for remote execution and the complete takeover of the patient monitors\n\nthis is some cyberpunk shit or bad wording lmao\n\nI choose to read it wrong.",
+      "score": 1,
+      "created_utc": 1738337969.0,
+      "replies": []
+    },
+    {
+      "id": "ma8l08k",
+      "author": "Calkaya",
+      "body": "That's to learn about live data and make the next generation of monitors even better. \n\nThat's also to give to the people that need this and go do whatever (malicious) reasons they have. \n\nIt's a double edged sword.",
+      "score": 1,
+      "created_utc": 1738348205.0,
+      "replies": []
+    },
+    {
+      "id": "ma9njl8",
+      "author": "Deep-Ad-5571",
+      "body": "Yay?",
+      "score": 1,
+      "created_utc": 1738359122.0,
+      "replies": []
+    },
+    {
+      "id": "maa3dw5",
+      "author": "_purple_sector_",
+      "body": "Of course",
+      "score": 1,
+      "created_utc": 1738363783.0,
+      "replies": []
+    },
+    {
+      "id": "maa6ko7",
+      "author": "Alternative_Tear_425",
+      "body": "Black market organ harvesting!?",
+      "score": 1,
+      "created_utc": 1738364766.0,
+      "replies": []
+    },
+    {
+      "id": "maliy9k",
+      "author": "TheBlackSands",
+      "body": "Wait till you find out how many have a backdoor to Tel Aviv.",
+      "score": 1,
+      "created_utc": 1738521740.0,
+      "replies": []
+    },
+    {
+      "id": "maml0wd",
+      "author": "DLiltsadwj",
+      "body": " No fuckin\u2019 way!",
+      "score": 1,
+      "created_utc": 1738532567.0,
+      "replies": []
+    },
+    {
+      "id": "ma6m578",
+      "author": "perfectdownside",
+      "body": "Believe who fucking cares our own government is currently doing the worst things we could possibly imagine stop trying to make us scared of Chinese ghost when our own government is stripping away our rights right before our own eyes",
+      "score": 1,
+      "created_utc": 1738325986.0,
+      "replies": []
+    },
+    {
+      "id": "maa39vk",
+      "author": "Dense_Ideal_4621",
+      "body": "This is bad. Actions against other nations are bad. China's government is corrupt. Their tech sector complies with orders at times, making them corrupt. But _China_ is not bad. China is a massive nation full of great people.\n\nFelt necessary to remind everyone considering this is clearly a push to invoke fear over DeepSeek and reinstantiate USA's tech oligarchs as the leaders in global AI. Open weights, open source, stealing the data from openai, all good things.",
+      "score": 1,
+      "created_utc": 1738363750.0,
+      "replies": []
+    },
+    {
+      "id": "mag976p",
+      "author": "KrackSmellin",
+      "body": "I\u2019m sorry\u2026 the reason ANY of this gear - including any and all other medical equipment has internet access is why again?\n\nThis is the lazy BS that hospitals should be fined for doing wrong\u2026 there is ZERO reason anything medical equipment wise needs direct access to the internet.  If anything it should be something that whatever results these machines have is stored in whatever servers (like Epic) and then doctors and patients can decide what needs to be shared.",
+      "score": 1,
+      "created_utc": 1738448690.0,
+      "replies": [
+        {
+          "id": "mak08nt",
+          "author": "deadra_axilea",
+          "body": "My BiPAP has a cellular connection and uploads data to the cloud so my physician can monitor that remotely.  It's not all, OMG they're stealing our data.\n\nSo, an unconscious person in intensive care needs to give authorization for nurses and doctors to remotely monitor them from a central location, too?  That's not going to make their care any better.",
+          "score": 1,
+          "created_utc": 1738505703.0,
+          "replies": [
+            {
+              "id": "mako2kn",
+              "author": "KrackSmellin",
+              "body": "You\u2019re sadly mistaken and part of the problem to not see why this is relevant.  I\u2019ve seen way to many companies - and I\u2019ll throw medical providers into the mix - have it that a compromised system can wreak absolute havoc and cause a data breach by exploiting a single system and spread from there.\n\nBut let\u2019s ignore that for now and talk about the ICU device monitoring my vitals.  Given it needs to be smarter than just a beeping machine, they typically are tied to a patient and have information about the patient\u2026 name, ID, access to post the data somewhere, etc.  So the data is no longer just anonymous data being sent but potentially all your info now as well.  \n\nSo why care?  Well let\u2019s say data gets out there and/or is a breach of the company that\u2019s collecting it that isn\u2019t HIPPA certified because it\u2019s being hosted unknowingly in a location that isn\u2019t as secure (seen this more times than you can imagine).  Now additional data about you is being exposed without your consent or knowledge and who knows how much of that data is now exposed, or what.  \n\nThe whole hiding by obscurity because of all our data being out there isn\u2019t as obscure as you realize.  So now my patient info is out there - maybe the last 4 of my social, a patient ID, DOB, the doctor I see, etc.  nothing stopping someone from contacting a healthcare provider to get even more information about me from the provider given I\u2019ll have most the info to reach out.  Maybe even get access to online systems with the questions they would ask to sign up.  \n\nBut let\u2019s just be ignorant and figure we are good because we don\u2019t understand the implications\u2026 and as a result figure if we don\u2019t see or hear about things - it won\u2019t impact you.",
+              "score": 1,
+              "created_utc": 1738513236.0,
+              "replies": [
+                {
+                  "id": "makz5pa",
+                  "author": "deadra_axilea",
+                  "body": "This is the world we live in now.  Unplug or deal with it.  The fact that you expect privacy for anything these is kind of delusional.  How else are billionaires going to sell advertising tailored to you!  If you think the government is here to protect you and not the ultra rich, you're sorely mistaken.\n\nDo you want that to change?  When you and a few billion of your friends leave every major application and website.\n\nUntil then, Sieg Musk, Zuck, China, the US government, and everyone else will gobble your shit up like the parasites they are.",
+                  "score": 2,
+                  "created_utc": 1738516392.0,
+                  "replies": [
+                    {
+                      "id": "mal4l00",
+                      "author": "KrackSmellin",
+                      "body": "But again that\u2019s NOT how Medical industry is geared given HIPPA\u2026 this has nothing to do with social media or what I\u2019m EXPECTING is a company protecting my data.  \n\n\nGDPR is an amazing thing for those in Europe\u2026 because they can slap the ever loving hell out of a company with fines, which makes them realize they now need to do better and protect their systems even more or pay an EXORBITANT price in fees and fines.",
+                      "score": 1,
+                      "created_utc": 1738517898.0,
+                      "replies": [
+                        {
+                          "id": "malezxe",
+                          "author": "deadra_axilea",
+                          "body": "But the US government won't do that.  The rich literally built a system of divided government that can not and will not actually govern.",
+                          "score": 1,
+                          "created_utc": 1738520677.0,
+                          "replies": [
+                            {
+                              "id": "mamft21",
+                              "author": "KrackSmellin",
+                              "body": "Huh?  Conspiracy theorist much?  2 weeks?",
+                              "score": 0,
+                              "created_utc": 1738531040.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mahytng",
+      "author": "Lisshopops",
+      "body": "Yeaa Elons selling backdoors to other countries",
+      "score": 1,
+      "created_utc": 1738469311.0,
+      "replies": []
+    },
+    {
+      "id": "ma5mmb7",
+      "author": "Positive_Chip6198",
+      "body": "Stop buying chinese, people.",
+      "score": -2,
+      "created_utc": 1738305494.0,
+      "replies": [
+        {
+          "id": "ma5z2c8",
+          "author": "GalcticPepsi",
+          "body": "Between China and the US spying on me I'd rather it be china. They have a lot less influence here than the US",
+          "score": -7,
+          "created_utc": 1738312705.0,
+          "replies": [
+            {
+              "id": "ma6hunx",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 5,
+              "created_utc": 1738323935.0,
+              "replies": [
+                {
+                  "id": "ma6v4pu",
+                  "author": "Enisswift",
+                  "body": "Your whole comment is based on assumption that all of reddit is american , if you bothered to check his profile you would see he frequents australia wich would mean hes probably from australia.\n\nIn that case its 100% true what he said , america has way way more authority and influence on austalia. The odds of him facing repurcussion for going against us interest is much higher compared to him going against chinese interest. \n\nJust like you are afraid of chinese so is the rest of the non-chinese world but they are also afraid or sometimes even more afraid by other powerful countries like US,Russia , EU etc..",
+                  "score": 1,
+                  "created_utc": 1738329665.0,
+                  "replies": [
+                    {
+                      "id": "ma6x3h9",
+                      "author": "bigsoftee84",
+                      "body": "What exactly do you believe the US is doing with its influence in Australia? What exactly do you believe the repercussions are for 'going against' US interests by posting on your personal social media? How many attacks by the US government are being used in technology like you're seeing from Chinese interests?",
+                      "score": -1,
+                      "created_utc": 1738330394.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ma6vkzr",
+              "author": "None",
+              "body": "Please never ever ever let this person work in critical systems",
+              "score": 0,
+              "created_utc": 1738329834.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ma5sve1",
+          "author": "IsoRhytmic",
+          "body": "Why? If they have the best price/quality, Im going to buy it",
+          "score": -5,
+          "created_utc": 1738308982.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ma7shsu",
+      "author": "beleidigtewurst",
+      "body": "But DeepSeek sending scheisse to Chinese servers is totally fine people.\n\n#NothingToSeeHere",
+      "score": 0,
+      "created_utc": 1738340268.0,
+      "replies": []
+    },
+    {
+      "id": "ma91f24",
+      "author": "DingleTheDongle",
+      "body": "Better ban healthcare then.",
+      "score": 0,
+      "created_utc": 1738352821.0,
+      "replies": []
+    },
+    {
+      "id": "maa82op",
+      "author": "HappyBananaHandler",
+      "body": "Why go to all the trouble to steal my heart rate info while I\u2019m in the ER?",
+      "score": 0,
+      "created_utc": 1738365242.0,
+      "replies": []
+    },
+    {
+      "id": "maeieui",
+      "author": "wtyl",
+      "body": "Oh noes! china might want to give you commie healthcare!",
+      "score": 0,
+      "created_utc": 1738429592.0,
+      "replies": []
+    },
+    {
+      "id": "ma6k5x9",
+      "author": "boulevardpaleale",
+      "body": "not really new\u2026  huawei got busted doing this to military gear some 10 years ago.  there was a report on it in either popular mechanics or popular science.  really good read and it should have been a wake up call then.  \n\nnow, it\u2019s kinda waaay too late.",
+      "score": -2,
+      "created_utc": 1738325066.0,
+      "replies": []
+    },
+    {
+      "id": "ma6suia",
+      "author": "Previous_Park_1009",
+      "body": "DEI? Must be right lol",
+      "score": -3,
+      "created_utc": 1738328782.0,
+      "replies": []
+    },
+    {
+      "id": "ma5she3",
+      "author": "nuthins_goodman",
+      "body": "Everyone spies on everyone. I thought this was pretty well accepted when the snowden leaks happened?",
+      "score": -6,
+      "created_utc": 1738308755.0,
+      "replies": []
+    },
+    {
+      "id": "ma5znyl",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -3,
+      "created_utc": 1738313080.0,
+      "replies": [
+        {
+          "id": "ma6woer",
+          "author": "None",
+          "body": "  \nIt is sending HIPAA protected data - such as the patient's name, the doctor's name, etc.  \n  \nCan you imagine no scenario where high profile targets (such as POTUS, VPOTUS, members of Congress, high ranking members of the military, etc) are in the hospital for something as simple as a routine surgery while tensions are high with China? What might China be able to do during this time that might give them an upper hand? You could carry this as far as mass-casualties during an escalating confrontation.\n\nIt would be very easy to rapidly deploy an \"update\" to alter the display to show \"normal\" signals/metrics during administration of anesthesia, let's say. This could result in death.\n\nThat's a pretty damn handy weapon to have at your disposal.",
+          "score": -1,
+          "created_utc": 1738330237.0,
+          "replies": [
+            {
+              "id": "ma6xim4",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 0,
+              "created_utc": 1738330547.0,
+              "replies": [
+                {
+                  "id": "ma6yivn",
+                  "author": "None",
+                  "body": "It\u2019s not random. It\u2019s sending this data back for every patient. This data would then be dumped into a datastore. Then there would likely be triggers for certain individuals of interest when their name comes across.\n\nAdditionally it would be very easy to just push this altered behavior to every device to cause a mass casualty event across pretty much every hospital in the country.\n\nYou should probably sit this one out because you clearly don\u2019t have any experience with medical technology",
+                  "score": 0,
+                  "created_utc": 1738330910.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma7ikp4",
+      "author": "ScaredyCatUK",
+      "body": "Presumably they've got egress firewall rules so it's not actually a problem. \n\nIf not, the backdoor isn't thier biggest problem",
+      "score": -1,
+      "created_utc": 1738337413.0,
+      "replies": []
+    },
+    {
+      "id": "ma6e96l",
+      "author": "jackliquidcourage",
+      "body": "Oh no, china's gonna pull the plug on your grandma's heart monitor. Like wtf even is this story?",
+      "score": -12,
+      "created_utc": 1738322020.0,
+      "replies": [
+        {
+          "id": "ma6mc4v",
+          "author": "SoraUsagi",
+          "body": "The potential for a foreign actor to display false data on a high value target is kinda a big deal, don't you think?",
+          "score": 3,
+          "created_utc": 1738326070.0,
+          "replies": [
+            {
+              "id": "ma6qatb",
+              "author": "fotomoose",
+              "body": "They could launch a coordinated attack and cripple hospitals. The people just shrugging this off are scarily ignorant.",
+              "score": 5,
+              "created_utc": 1738327766.0,
+              "replies": [
+                {
+                  "id": "ma6wyms",
+                  "author": "None",
+                  "body": "My conspiracy theory: they are slowly being indoctrinated to have positive views of China, and negative views of America. Perhaps via tiktok.",
+                  "score": 4,
+                  "created_utc": 1738330343.0,
+                  "replies": [
+                    {
+                      "id": "ma9apwe",
+                      "author": "jackliquidcourage",
+                      "body": "Literal boomer take lol.",
+                      "score": 1,
+                      "created_utc": 1738355469.0,
+                      "replies": [
+                        {
+                          "id": "ma9kikd",
+                          "author": "None",
+                          "body": "I have experience in IT security. Social engineering is a thing.",
+                          "score": 1,
+                          "created_utc": 1738358261.0,
+                          "replies": [
+                            {
+                              "id": "maagsmh",
+                              "author": "jackliquidcourage",
+                              "body": "Then you should understand how literally any game with anti cheat has kernel level access and all the good ones are chinese owned. Give me a fucking break.",
+                              "score": 1,
+                              "created_utc": 1738368049.0,
+                              "replies": [
+                                {
+                                  "id": "maavv80",
+                                  "author": "None",
+                                  "body": "Which is why I don\u2019t play them. Have fun little sheep",
+                                  "score": 1,
+                                  "created_utc": 1738373070.0,
+                                  "replies": [
+                                    {
+                                      "id": "maaw0qu",
+                                      "author": "jackliquidcourage",
+                                      "body": "Enjoy your paranoia, nerd.",
+                                      "score": 1,
+                                      "created_utc": 1738373124.0,
+                                      "replies": [
+                                        {
+                                          "id": "maaw6fm",
+                                          "author": "None",
+                                          "body": "Yes, a nerd I am",
+                                          "score": 1,
+                                          "created_utc": 1738373177.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "maa31u3",
+                              "author": "lostnthestars117",
+                              "body": "Just go taking a fucking trip there and see for yourself ffs and stop smoking the ganja.",
+                              "score": 0,
+                              "created_utc": 1738363681.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ma9b2qf",
+                  "author": "jackliquidcourage",
+                  "body": "China's not israel so id be surprised if they did that.",
+                  "score": 1,
+                  "created_utc": 1738355571.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ma97o0x",
+              "author": "jackliquidcourage",
+              "body": "No dawg. This is some alarmist bullshit. Its simple as fuck to deal with if you know a little IT, and the entire premise is xenophobia against the chinese. If you wanna talk about crippling the healthcare industry, talk about giving nurses too many patients in the name of cost cutting. Not some random heart monitor with an internet connection when genshin impact is on a million phones.",
+              "score": 1,
+              "created_utc": 1738354595.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ma6gnql",
+      "author": "ErickB4President",
+      "body": "Out of all the goddamn countries in the world why is China and Russia so obsessed with the US.",
+      "score": -3,
+      "created_utc": 1738323318.0,
+      "replies": []
+    }
+  ]
+}

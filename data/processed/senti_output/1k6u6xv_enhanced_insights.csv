@@ -1,0 +1,49 @@
+metric,value
+file,1k6u6xv.csv
+title,"Driverless trucks are rolling in Texas, ushering in new era"
+rows,397
+num_posts,1
+num_comments,396
+unique_authors,283
+max_depth,10
+avg_comment_words,63.95
+median_comment_words,36.0
+max_comment_words,596
+positive_count,55
+negative_count,309
+neutral_count,32
+positive_pct,13.889
+negative_pct,78.03
+neutral_pct,8.081
+topic_1_keywords,"driving, truck, speed, driver, trucks, would, self, vehicles"
+topic_1_label,driver would drive truck
+topic_2_keywords,"dont, texas, money, could, im, truckers, road, like"
+topic_2_label,texas id like to see truckers im
+topic_3_keywords,"study, one, company, seems, analysis, goes, see, like"
+topic_3_label,study goes to see one company
+topic_4_keywords,"people, human, cars, drivers, driving, self, life, dont"
+topic_4_label,human and human driving
+topic_5_keywords,"would, could, even, way, one, keep, going, rail"
+topic_5_label,rails keep going
+topic_6_keywords,"dont, make, data, people, like, going, would, need"
+topic_6_label,"if you want to make something, you need to make it"
+top_ngram_1,could even (61)
+top_ngram_2,self driving (47)
+top_ngram_3,driverless cars (41)
+top_ngram_4,guiding rail (35)
+top_ngram_5,considering mistakes (33)
+top_ngram_6,cars make (33)
+top_ngram_7,make regularly (33)
+top_ngram_8,regularly idea (33)
+top_ngram_9,one person (33)
+top_ngram_10,driverless cars make (33)
+ner_1,Semi|MISC|32
+ner_2,Waymo|ORG|27
+ner_3,Texas|LOC|21
+ner_4,US|LOC|10
+ner_5,American|MISC|8
+ner_6,NJ|LOC|8
+ner_7,ASME|ORG|7
+ner_8,Rams|ORG|6
+ner_9,Houston|LOC|6
+ner_10,Logan|PER|5

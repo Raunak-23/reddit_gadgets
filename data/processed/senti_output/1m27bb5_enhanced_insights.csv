@@ -1,0 +1,49 @@
+metric,value
+file,1m27bb5.csv
+title,Samsung Galaxy Z Fold 7 Review: Foldable Perfection That's Tempting Me to Leave My iPhone
+rows,26
+num_posts,1
+num_comments,25
+unique_authors,15
+max_depth,4
+avg_comment_words,73.08
+median_comment_words,52.0
+max_comment_words,202
+positive_count,6
+negative_count,19
+neutral_count,0
+positive_pct,24.0
+negative_pct,76.0
+neutral_pct,0.0
+topic_1_keywords,"years, samsung, security, privacy, ecosystem, except, etc, dedicated"
+topic_1_label,"samsung samsung security, privacy, ecosystem"
+topic_2_keywords,"paid, sounds, bought, sure, much, better, look, fold"
+topic_2_label,folds for paid
+topic_3_keywords,"watch, apple, macbook, iphone, android, ive, airpods, well"
+topic_3_label,Apple Watches Apple Apple Watches Apple Watches Apple Watches Apple Watches Apple Watches Apple Watches
+topic_4_keywords,"phone, dont, still, year, cant, would, one, apple"
+topic_4_label,apple doesn't have a phone
+topic_5_keywords,"free, email, custom, find, domain, one, storage, cloud"
+topic_5_label,free email custom domains
+topic_6_keywords,"even, icloud, features, email, phone, would, get, switching"
+topic_6_label,icloud features feature and icloud features
+top_ngram_1,custom domain (11)
+top_ngram_2,cloud storage (9)
+top_ngram_3,domain email (8)
+top_ngram_4,custom domain email (8)
+top_ngram_5,dont want (7)
+top_ngram_6,password manager (7)
+top_ngram_7,manager 2fa (7)
+top_ngram_8,2fa tokens (7)
+top_ngram_9,disposable email (7)
+top_ngram_10,email addresses (7)
+ner_1,iPhone|MISC|10
+ner_2,Samsung|ORG|8
+ner_3,Mac|MISC|7
+ner_4,Google Workspace|ORG|6
+ner_5,Air|MISC|5
+ner_6,Apple|ORG|4
+ner_7,Apple Watch|MISC|3
+ner_8,Garmin|ORG|3
+ner_9,iPhone 13|MISC|3
+ner_10,iCloud|ORG|3

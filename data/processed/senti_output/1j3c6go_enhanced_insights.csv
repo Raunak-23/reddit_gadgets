@@ -1,0 +1,49 @@
+metric,value
+file,1j3c6go.csv
+title,Best Buy CEO warns price increases are 'highly likely' after Trump tariffs
+rows,1047
+num_posts,1
+num_comments,1046
+unique_authors,780
+max_depth,13
+avg_comment_words,40.03
+median_comment_words,28.0
+max_comment_words,427
+positive_count,160
+negative_count,886
+neutral_count,0
+positive_pct,15.296
+negative_pct,84.704
+neutral_pct,0.0
+topic_1_keywords,"tariffs, new, domestic, get, trump, place, think, still"
+topic_1_label,tariffs and new domestic tariffs
+topic_2_keywords,"tariffs, games, people, tv, even, gonna, expensive, playing"
+topic_2_label,"tariffs, games, people, tv, even, gonna, playing"
+topic_3_keywords,"cant, pay, afford, start, wait, see, would, us"
+topic_3_label,"if you pay for something you can afford, you can afford it"
+topic_4_keywords,"buy, best, still, dont, go, prices, tariffs, going"
+topic_4_label,"if you want to buy a new car, you can buy it"
+topic_5_keywords,"end, tarrifs, back, go, prices, dont, get, people"
+topic_5_label,"tarrifs, back, go, prices"
+topic_6_keywords,"prices, tariffs, buy, price, go, best, going, increase"
+topic_6_label,price rises in buying and buying
+top_ngram_1,best buy (219)
+top_ngram_2,lot people (59)
+top_ngram_3,tarrifs end (56)
+top_ngram_4,go back (55)
+top_ngram_5,watching tv (55)
+top_ngram_6,pretty soon (54)
+top_ngram_7,soon gonna (54)
+top_ngram_8,gonna expensive (54)
+top_ngram_9,expensive even (54)
+top_ngram_10,even escapism (54)
+ner_1,Best Buy|ORG|129
+ner_2,Canada|LOC|67
+ner_3,Trump|PER|59
+ner_4,US|LOC|57
+ner_5,Mexico|LOC|30
+ner_6,American|MISC|28
+ner_7,Americans|MISC|25
+ner_8,MAGA|ORG|25
+ner_9,China|LOC|23
+ner_10,Democrats|MISC|23

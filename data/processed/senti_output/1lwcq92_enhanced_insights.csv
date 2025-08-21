@@ -1,0 +1,49 @@
+metric,value
+file,1lwcq92.csv
+title,Samsung Kills S Pen Support for the New Galaxy Z Fold 7
+rows,115
+num_posts,1
+num_comments,114
+unique_authors,79
+max_depth,8
+avg_comment_words,62.64
+median_comment_words,44.0
+max_comment_words,247
+positive_count,17
+negative_count,97
+neutral_count,0
+positive_pct,14.912
+negative_pct,85.088
+neutral_pct,0.0
+topic_1_keywords,"phone, use, pen, im, need, never, think, something"
+topic_1_label,"phone, pen, im, need"
+topic_2_keywords,"pen, used, think, never, phone, use, year, people"
+topic_2_label,pen used in pen year
+topic_3_keywords,"screen, ultra, pen, fold, one, samsung, reason, previous"
+topic_3_label,samsung samsung samsung samsung samsung sams
+topic_4_keywords,"like, pen, use, phone, one, want, feature, notes"
+topic_4_label,pen and note feature
+topic_5_keywords,"pen, never, im, apple, buy, samsung, iphone, also"
+topic_5_label,Apple buys a pen in samsung
+topic_6_keywords,"fold, stylus, spen, like, use, bulky, samsung, phone"
+topic_6_label,"spen, stylus, spen, use"
+top_ngram_1,many people (20)
+top_ngram_2,used pen (19)
+top_ngram_3,im sure (13)
+top_ngram_4,use pen (12)
+top_ngram_5,next year (11)
+top_ngram_6,pen really (11)
+top_ngram_7,genuinely wonder (9)
+top_ngram_8,wonder many (9)
+top_ngram_9,people used (9)
+top_ngram_10,pen regularly (9)
+ner_1,Samsung|ORG|31
+ner_2,S|MISC|26
+ner_3,S Pen|MISC|19
+ner_4,F|MISC|10
+ner_5,Apple|ORG|9
+ner_6,iPhone|MISC|7
+ner_7,##acom|ORG|6
+ner_8,W|MISC|6
+ner_9,Fold 7|MISC|5
+ner_10,S25 Ultra|MISC|5

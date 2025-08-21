@@ -1,0 +1,49 @@
+metric,value
+file,1h12vzt.csv
+title,"This new Steam Controller 2 picture leak suggests Valve is making big changes | SteamVR data mining strikes gold, with this leak showing a low resolution thumbnail render of the new Valve PC controller for gaming."
+rows,46
+num_posts,1
+num_comments,45
+unique_authors,27
+max_depth,5
+avg_comment_words,82.16
+median_comment_words,55.0
+max_comment_words,345
+positive_count,5
+negative_count,40
+neutral_count,0
+positive_pct,11.111
+negative_pct,88.889
+neutral_pct,0.0
+topic_1_keywords,"release, general, os, 30, anything, doesnt, like, solid"
+topic_1_label,os releases os
+topic_2_keywords,"touchpad, steam, using, right, deck, og, one, small"
+topic_2_label,Steam on deck with touchpad
+topic_3_keywords,"controller, steam, deck, really, isnt, called, going, even"
+topic_3_label,Steam controller isnt called and goes even
+topic_4_keywords,"steam, controller, deck, pc, want, mouse, hardware, like"
+topic_4_label,"Steam controller, PC, mouse, hardware"
+topic_5_keywords,"like, controller, steam, pc, games, trackpads, one, deck"
+topic_5_label,Steam controllers like trackpads
+topic_6_keywords,"og, controller, stick, trackpads, made, remind, xboxs, duke"
+topic_6_label,"xboxes og, controller, stick, xboxes"
+top_ngram_1,steam deck (42)
+top_ngram_2,steam controller (41)
+top_ngram_3,deck controller (13)
+top_ngram_4,steam deck controller (11)
+top_ngram_5,isnt really (9)
+top_ngram_6,pc controller (9)
+top_ngram_7,controller deck (9)
+top_ngram_8,og steam (8)
+top_ngram_9,og steam controller (8)
+top_ngram_10,controller steam (8)
+ner_1,Steam Controller|MISC|16
+ner_2,TouchPad|MISC|14
+ner_3,Valve|ORG|14
+ner_4,Steam Deck|MISC|11
+ner_5,Steam|ORG|7
+ner_6,OG Steam Controller|MISC|7
+ner_7,Steam Deck Controller|MISC|7
+ner_8,Steam Controller 2|MISC|7
+ner_9,PC|MISC|6
+ner_10,PC Controller|MISC|5

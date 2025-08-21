@@ -1,0 +1,1280 @@
+{
+  "post": {
+    "title": "The Dream of Spotify Car Thing Is Being Kept Alive by Devoted Tinkerers | Why let a good thing die just because the company who made it declared it dead?",
+    "author": "chrisdh79",
+    "id": "1hbrqpv",
+    "score": 1855,
+    "created_utc": 1733917802.0,
+    "selftext": "",
+    "num_comments": 124,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hbrqpv/the_dream_of_spotify_car_thing_is_being_kept/"
+  },
+  "comments": [
+    {
+      "id": "m1itdml",
+      "author": "4ha1",
+      "body": "There should be a law explicitly stating that companies should open source the firmware if they ever went to abandon stuff like this.",
+      "score": 627,
+      "created_utc": 1733924559.0,
+      "replies": [
+        {
+          "id": "m1jukq2",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 341,
+          "created_utc": 1733937116.0,
+          "replies": [
+            {
+              "id": "m1kbgnc",
+              "author": "dumb_and_idjit",
+              "body": "Come here to say this, this article is click bait or they just don't did a good search, I got this information some time ago even without searching for it.",
+              "score": 104,
+              "created_utc": 1733942183.0,
+              "replies": [
+                {
+                  "id": "m1la4ga",
+                  "author": "DefiantLemur",
+                  "body": "Didn't do enough research or realized how the article is currently worded would get more clicks?",
+                  "score": 21,
+                  "created_utc": 1733952426.0,
+                  "replies": [
+                    {
+                      "id": "m1lstuv",
+                      "author": "dumb_and_idjit",
+                      "body": "Can't argue with that but if people are like me they didn't click the link.",
+                      "score": 4,
+                      "created_utc": 1733958364.0,
+                      "replies": [
+                        {
+                          "id": "m1lwvl9",
+                          "author": "DefiantLemur",
+                          "body": "That's fair I rarely read the articles. I'm mainly here for the discussions.",
+                          "score": 3,
+                          "created_utc": 1733959773.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1n082h",
+                  "author": "Drempallo",
+                  "body": "It's not really, the \"tinkerers\" as the article calls them are still doing the actual work. The repo doesn't have much and won't give you an actual functioning car thing.",
+                  "score": 7,
+                  "created_utc": 1733974223.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1ml3nx",
+              "author": "AbjectAppointment",
+              "body": "They have held back some of the important bits. Mainly the code to use a phone as the host. \n\nhttps://github.com/usenocturne/nocturne-image\n\nIs the best so far, but needs an rpi to run as host.",
+              "score": 22,
+              "created_utc": 1733968512.0,
+              "replies": [
+                {
+                  "id": "m1ny3oe",
+                  "author": "pelrun",
+                  "body": "Often when that sort of thing happens it's because they've licensed that code from a third party, don't actually own it, and so can't legally release it.",
+                  "score": 14,
+                  "created_utc": 1733992089.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1mzsp8",
+              "author": "Drempallo",
+              "body": "Hey I checked out this repo, it doesn't have what you think it has. It seems they have given the tools to load an OS onto the device. But not the complete OS with all the functionality that the original car thing has.    \n\nYou can't use this repo to get your car thing to the original state because in reality this repo doesn't really have much in terms of the actually useful stuff.",
+              "score": 14,
+              "created_utc": 1733974049.0,
+              "replies": [
+                {
+                  "id": "m1wixkc",
+                  "author": "PancAshAsh",
+                  "body": "For what it's worth I actually think this is a reasonable compromise. It allows for owners to retain the ability to develop and use the hardware they purchased without giving away too much of the original IP of the original product.\n\nIP owners should not be obligated to give away all of their IP rights just because they are no longer selling that particular IP.",
+                  "score": 2,
+                  "created_utc": 1734117146.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1nqa1x",
+              "author": "PocketNicks",
+              "body": "That's awesome, there still should be a law against abandonware.",
+              "score": 4,
+              "created_utc": 1733987030.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1jnb4e",
+          "author": "Mama_Skip",
+          "body": "Absolutely. I work in product design and it's so incredibly wasteful and greedy to not do this. \n\nMy pet peeve is smaller brand products that discontinue or go belly up, leaving their product inoperable because it needs a phone app.",
+          "score": 8,
+          "created_utc": 1733934870.0,
+          "replies": []
+        },
+        {
+          "id": "m1iv6zy",
+          "author": "Irregular_Person",
+          "body": "I agree with this in principle, but that isn't always a viable/legal option. If they outsourced development of all or some of the product firmware/software, they might not have the authority to opensource everything required to keep the device working. Maybe a future legislation could force companies to keep that avenue open during the initial development, but trying to enforce that after the fact could be very difficult.",
+          "score": 64,
+          "created_utc": 1733925275.0,
+          "replies": [
+            {
+              "id": "m1iz8w3",
+              "author": "mikka1",
+              "body": "> that isn't always a viable/legal option\n\nThat's fine, in this case they should be mandated to issue a full refund once they kill the device, regardless of how old it is   /s",
+              "score": 67,
+              "created_utc": 1733926829.0,
+              "replies": [
+                {
+                  "id": "m1jab7e",
+                  "author": "KampongFish",
+                  "body": "No, but really. They either\n\n1) Stop support but don't kill it\n\n2) open source the firmware\n\n3) kill it and atleast offer partial refund\n\nI hate that PHYSICAL hardware can be killed like this.",
+                  "score": 76,
+                  "created_utc": 1733930710.0,
+                  "replies": [
+                    {
+                      "id": "m1k9ygm",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -8,
+                      "created_utc": 1733941740.0,
+                      "replies": [
+                        {
+                          "id": "m1kaywz",
+                          "author": "DeviousPath",
+                          "body": "....you can still use a PS3 for it's intended purpose, to play games. While some features are not there, it still works.",
+                          "score": 27,
+                          "created_utc": 1733942037.0,
+                          "replies": [
+                            {
+                              "id": "m1kcf7y",
+                              "author": "None",
+                              "body": "[deleted]",
+                              "score": -15,
+                              "created_utc": 1733942464.0,
+                              "replies": [
+                                {
+                                  "id": "m1kga92",
+                                  "author": "HeadCrusher135",
+                                  "body": "He drew a line, you\u2019re too entitled to see it though.\n\nThe PS3 CAN STILL currently play games, the Spotify thing can\u2019t doesn\u2019t even operate. Not to mention the years of use you got from the PS3, that still functions.",
+                                  "score": 21,
+                                  "created_utc": 1733943589.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1kgxl0",
+                                      "author": "None",
+                                      "body": "[deleted]",
+                                      "score": -20,
+                                      "created_utc": 1733943781.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1kk0ye",
+                                          "author": "mateushkush",
+                                          "body": "The second to last paragraph is really dumb. Car Thing is two years old, and would completely stop working if not for \u201etinkering\u201d. PS3 is around 12 to 15 years old. How do you even compare the price and expectations. If I would, reimbursing for Car Thing still makes way more sense, no comparison. I would assume a 2 year old music player should still do the job.",
+                                          "score": 6,
+                                          "created_utc": 1733944696.0,
+                                          "replies": [
+                                            {
+                                              "id": "m1kkn7p",
+                                              "author": "None",
+                                              "body": "[deleted]",
+                                              "score": -2,
+                                              "created_utc": 1733944879.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m1klf1u",
+                                                  "author": "mateushkush",
+                                                  "body": "No, you can\u2019t use it after updating, that\u2019s the entire point of the article you\u2019re commenting\u2026 the update bricks it.",
+                                                  "score": 3,
+                                                  "created_utc": 1733945108.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "m1kltoq",
+                                                      "author": "None",
+                                                      "body": "[deleted]",
+                                                      "score": -1,
+                                                      "created_utc": 1733945226.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "m1koxul",
+                                                          "author": "mateushkush",
+                                                          "body": "Yes, through avoiding the update by various means - the opposite of what you said in your comment.",
+                                                          "score": 3,
+                                                          "created_utc": 1733946139.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "m1kryql",
+                                                              "author": "None",
+                                                              "body": "[deleted]",
+                                                              "score": -1,
+                                                              "created_utc": 1733947033.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "m1loy7x",
+                                                                  "author": "mateushkush",
+                                                                  "body": "Are you serious? \u201eSince the expiration date, some Car Thing devices have been rendered unusable, forcing users to a splash screen with a long goodbye. There are a few ways to get beyond the splash screen or avoid it altogether to keep the dying device on life support. It all depends on how much you\u2019re willing to work to resuscitate it.\u201d",
+                                                                  "score": 1,
+                                                                  "created_utc": 1733957066.0,
+                                                                  "replies": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "m1kpa78",
+                                          "author": "HeadCrusher135",
+                                          "body": "You literally asked where to draw the line. And you keep combating it because you want a full refund on a 14 year old product that to my knowledge still currently plays games just fine. Where as the car thing doesn\u2019t even do the car thing and it\u2019s two years old. \n\nYou invested in the ps3, and got fair value out of it if not for use then in terms of life span. I got fair value for mine for both use and life span since I was still playing it from release up until this past March.",
+                                          "score": 8,
+                                          "created_utc": 1733946240.0,
+                                          "replies": [
+                                            {
+                                              "id": "m1ksspw",
+                                              "author": "None",
+                                              "body": "[deleted]",
+                                              "score": 0,
+                                              "created_utc": 1733947278.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m1kufi1",
+                                                  "author": "HeadCrusher135",
+                                                  "body": "Oh, so this is about YOUR ps3? Oh, okay. Well I invalidate your argument because MY ps3 still works.",
+                                                  "score": 2,
+                                                  "created_utc": 1733947772.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "m1kusj4",
+                                                      "author": "None",
+                                                      "body": "[deleted]",
+                                                      "score": 0,
+                                                      "created_utc": 1733947879.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "m1kv9nt",
+                                                          "author": "HeadCrusher135",
+                                                          "body": "Cool, so now you\u2019ve made two pointless arguments using your own cherry picked experience. Good try though. It was almost relevant.",
+                                                          "score": 2,
+                                                          "created_utc": 1733948022.0,
+                                                          "replies": [
+                                                            {
+                                                              "id": "m1kvx5x",
+                                                              "author": "None",
+                                                              "body": "[deleted]",
+                                                              "score": 1,
+                                                              "created_utc": 1733948219.0,
+                                                              "replies": [
+                                                                {
+                                                                  "id": "m1kwhn0",
+                                                                  "author": "HeadCrusher135",
+                                                                  "body": "Yea that\u2019s why I\u2019m laughing at you having to cherry pick your own experience to convince yourself that you have an argument. DM me, I\u2019ll give you my PS3 for free\u2026 since it works fine, and you\u2019ll have it in possession, all your argument today will be invalid. It\u2019s a lose there, but you gain a functional item just like everyone else has currently.",
+                                                                  "score": 2,
+                                                                  "created_utc": 1733948388.0,
+                                                                  "replies": [
+                                                                    {
+                                                                      "id": "m1kwp0a",
+                                                                      "author": "None",
+                                                                      "body": "[deleted]",
+                                                                      "score": 1,
+                                                                      "created_utc": 1733948448.0,
+                                                                      "replies": [
+                                                                        {
+                                                                          "id": "m1kwzt5",
+                                                                          "author": "HeadCrusher135",
+                                                                          "body": ">one day you\u2019ll have an original thought \n\nIf I cherry picked as much as you do, all my thoughts would be original.",
+                                                                          "score": 3,
+                                                                          "created_utc": 1733948538.0,
+                                                                          "replies": [
+                                                                            {
+                                                                              "id": "m1kxcxi",
+                                                                              "author": "None",
+                                                                              "body": "[deleted]",
+                                                                              "score": 1,
+                                                                              "created_utc": 1733948648.0,
+                                                                              "replies": [
+                                                                                {
+                                                                                  "id": "m1kxszf",
+                                                                                  "author": "HeadCrusher135",
+                                                                                  "body": "Always funny when people give up",
+                                                                                  "score": 2,
+                                                                                  "created_utc": 1733948781.0,
+                                                                                  "replies": [
+                                                                                    {
+                                                                                      "id": "m1ky4hp",
+                                                                                      "author": "None",
+                                                                                      "body": "[deleted]",
+                                                                                      "score": 1,
+                                                                                      "created_utc": 1733948874.0,
+                                                                                      "replies": [
+                                                                                        {
+                                                                                          "id": "m1kyssw",
+                                                                                          "author": "HeadCrusher135",
+                                                                                          "body": "What do you consider a child? Someone so upset at Reddit comments that he goes out of his way to downvote them?",
+                                                                                          "score": 2,
+                                                                                          "created_utc": 1733949072.0,
+                                                                                          "replies": [
+                                                                                            {
+                                                                                              "id": "m1kz5xr",
+                                                                                              "author": "None",
+                                                                                              "body": "[deleted]",
+                                                                                              "score": 1,
+                                                                                              "created_utc": 1733949181.0,
+                                                                                              "replies": [
+                                                                                                {
+                                                                                                  "id": "m1kzfih",
+                                                                                                  "author": "HeadCrusher135",
+                                                                                                  "body": "lol how come you didn\u2019t downvote me this time? Always funny when people give up.",
+                                                                                                  "score": 1,
+                                                                                                  "created_utc": 1733949261.0,
+                                                                                                  "replies": [
+                                                                                                    {
+                                                                                                      "id": "m1l20ug",
+                                                                                                      "author": "None",
+                                                                                                      "body": "[deleted]",
+                                                                                                      "score": 1,
+                                                                                                      "created_utc": 1733950021.0,
+                                                                                                      "replies": [
+                                                                                                        {
+                                                                                                          "id": "m1l4288",
+                                                                                                          "author": "HeadCrusher135",
+                                                                                                          "body": "There\u2019s a whole lot of projecting there",
+                                                                                                          "score": 1,
+                                                                                                          "created_utc": 1733950620.0,
+                                                                                                          "replies": [
+                                                                                                            {
+                                                                                                              "id": "m1l6v4b",
+                                                                                                              "author": "None",
+                                                                                                              "body": "[deleted]",
+                                                                                                              "score": 1,
+                                                                                                              "created_utc": 1733951451.0,
+                                                                                                              "replies": [
+                                                                                                                {
+                                                                                                                  "id": "m1l7bub",
+                                                                                                                  "author": "HeadCrusher135",
+                                                                                                                  "body": "Is that why you\u2019re so upset?",
+                                                                                                                  "score": 1,
+                                                                                                                  "created_utc": 1733951590.0,
+                                                                                                                  "replies": [
+                                                                                                                    {
+                                                                                                                      "id": "m1l94x6",
+                                                                                                                      "author": "None",
+                                                                                                                      "body": "[deleted]",
+                                                                                                                      "score": 1,
+                                                                                                                      "created_utc": 1733952130.0,
+                                                                                                                      "replies": [
+                                                                                                                        {
+                                                                                                                          "id": "m1l9zmg",
+                                                                                                                          "author": "HeadCrusher135",
+                                                                                                                          "body": "Not an original thought.",
+                                                                                                                          "score": 1,
+                                                                                                                          "created_utc": 1733952385.0,
+                                                                                                                          "replies": [
+                                                                                                                            {
+                                                                                                                              "id": "m1lapwf",
+                                                                                                                              "author": "None",
+                                                                                                                              "body": "[deleted]",
+                                                                                                                              "score": 1,
+                                                                                                                              "created_utc": 1733952606.0,
+                                                                                                                              "replies": [
+                                                                                                                                {
+                                                                                                                                  "id": "m1lau0d",
+                                                                                                                                  "author": "HeadCrusher135",
+                                                                                                                                  "body": "Not an original thought in your head",
+                                                                                                                                  "score": 1,
+                                                                                                                                  "created_utc": 1733952641.0,
+                                                                                                                                  "replies": [
+                                                                                                                                    {
+                                                                                                                                      "id": "m1lbgc6",
+                                                                                                                                      "author": "None",
+                                                                                                                                      "body": "[deleted]",
+                                                                                                                                      "score": 1,
+                                                                                                                                      "created_utc": 1733952828.0,
+                                                                                                                                      "replies": [
+                                                                                                                                        {
+                                                                                                                                          "id": "m1lbnni",
+                                                                                                                                          "author": "HeadCrusher135",
+                                                                                                                                          "body": "Not an original thought in your head",
+                                                                                                                                          "score": 1,
+                                                                                                                                          "created_utc": 1733952889.0,
+                                                                                                                                          "replies": [
+                                                                                                                                            {
+                                                                                                                                              "id": "m1lf9uy",
+                                                                                                                                              "author": "None",
+                                                                                                                                              "body": "[deleted]",
+                                                                                                                                              "score": 1,
+                                                                                                                                              "created_utc": 1733953976.0,
+                                                                                                                                              "replies": [
+                                                                                                                                                {
+                                                                                                                                                  "id": "m1lfxcw",
+                                                                                                                                                  "author": "HeadCrusher135",
+                                                                                                                                                  "body": "Not an original thought in your head",
+                                                                                                                                                  "score": 1,
+                                                                                                                                                  "created_utc": 1733954178.0,
+                                                                                                                                                  "replies": [
+                                                                                                                                                    {
+                                                                                                                                                      "id": "m1lg2vt",
+                                                                                                                                                      "author": "None",
+                                                                                                                                                      "body": "[deleted]",
+                                                                                                                                                      "score": 1,
+                                                                                                                                                      "created_utc": 1733954225.0,
+                                                                                                                                                      "replies": [
+                                                                                                                                                        {
+                                                                                                                                                          "id": "m1lo6z0",
+                                                                                                                                                          "author": "Rythiel_Invulus",
+                                                                                                                                                          "body": "Lol you got absolutely walked on, this entire post.",
+                                                                                                                                                          "score": 1,
+                                                                                                                                                          "created_utc": 1733956818.0,
+                                                                                                                                                          "replies": [
+                                                                                                                                                            {
+                                                                                                                                                              "id": "m1looof",
+                                                                                                                                                              "author": "None",
+                                                                                                                                                              "body": "[deleted]",
+                                                                                                                                                              "score": 1,
+                                                                                                                                                              "created_utc": 1733956978.0,
+                                                                                                                                                              "replies": [
+                                                                                                                                                                {
+                                                                                                                                                                  "id": "m1lp7y1",
+                                                                                                                                                                  "author": "None",
+                                                                                                                                                                  "body": "[removed]",
+                                                                                                                                                                  "score": 1,
+                                                                                                                                                                  "created_utc": 1733957153.0,
+                                                                                                                                                                  "replies": []
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            }
+                                                                                                                                          ]
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "id": "m1mjw66",
+                                                                  "author": "RabidSeason",
+                                                                  "body": ">  Always funny when someone gives up after being proven wrong.\n\nBut you didn't give up.",
+                                                                  "score": 0,
+                                                                  "created_utc": 1733968073.0,
+                                                                  "replies": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "m1mjphp",
+                                          "author": "RabidSeason",
+                                          "body": "[You can't buy PS3 games???](https://www.google.com/search?client=firefox-b-1-d&sca_esv=c7cdf248ce05219c&sxsrf=ADLYWIJixPAdk_dZkS5ThqaNqSqCa-3i6g:1733967933409&q=ps3+games&udm=28&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWxyMMuf0D-HOMEpzq2zertRy7G-dme1ONMLTCBvZzSljMphIA67BHfsctJ2w0qFNR22bQl2ODcl1a39cIgc9M-LXurhNm8095qZn6y2RjzAXRQhENRJ12c0RxmDNWHHdLmJ-X4UCeD-qlnxtwmbZ9-wDgEfmR9n7TtWe5bKJWtQmtTVVJbHs0HlOgpJE6D1qOrvzvHA&ved=1t:220175&ictx=111&biw=1696&bih=807&dpr=1.13)\n\nI mean, you clearly have the internet, as you complained about that being your main use for the PS3, so I don't know how you didn't know about these.",
+                                          "score": 1,
+                                          "created_utc": 1733968007.0,
+                                          "replies": [
+                                            {
+                                              "id": "m1mpnag",
+                                              "author": "None",
+                                              "body": "[deleted]",
+                                              "score": -1,
+                                              "created_utc": 1733970186.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m1nawi8",
+                                                  "author": "RabidSeason",
+                                                  "body": ">rebuy games I already own\n\nYou should've read the terms and conditions.  You never owned anything except a license to play, and that license expired.\n\n>on a system that's been bricked\n\nThat's a you issue.  Most PS3s still work fine.",
+                                                  "score": 0,
+                                                  "created_utc": 1733978849.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m1kpt2c",
+                          "author": "KampongFish",
+                          "body": "Can you still put in your CD and play games? If yes, this is not equivalent to Spotify intentionally bricking the Car Thing.\n\nShould you get a refund for online content if PS3 shuts down their EShop? Also yes, when Nintendo shut down their EShop, they made sure people who had purchased their games could still download it for the foreseeable future. This should be the standard practice. By bricking the online service, they cheated you of your purchase. You should be able to get a refund, no questions asked.",
+                          "score": 5,
+                          "created_utc": 1733946396.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m1la3z0",
+                      "author": "antpile11",
+                      "body": "> PHYSICAL hardware\n\nAs opposed to what, digital hardware? They call that software.",
+                      "score": -9,
+                      "created_utc": 1733952422.0,
+                      "replies": [
+                        {
+                          "id": "m1nxfnn",
+                          "author": "gamerABES",
+                          "body": "Hardware here is synonymous with gadget.",
+                          "score": 2,
+                          "created_utc": 1733991636.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1janj1",
+                  "author": "JWGhetto",
+                  "body": "At least Spotify is offering a refund",
+                  "score": 8,
+                  "created_utc": 1733930822.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1jhkil",
+                  "author": "Usernametaken1121",
+                  "body": "How do you give a refund for a service that's month to month?\n\nOutside of subscriptions, the purchase price is to use the product/service as is. There is no promise or requirement that the product or service can be used forever until the end of time. You're not buying that and they never offered it.",
+                  "score": 4,
+                  "created_utc": 1733933057.0,
+                  "replies": [
+                    {
+                      "id": "m1jyh8h",
+                      "author": "kurotech",
+                      "body": "You had to buy the thing and then it has a subscription 90 bucks when they were selling them",
+                      "score": 6,
+                      "created_utc": 1733938315.0,
+                      "replies": [
+                        {
+                          "id": "m1lvdyt",
+                          "author": "Usernametaken1121",
+                          "body": "Wow. Anyone that bought that really loves throwing $$ away \ud83d\ude02",
+                          "score": -2,
+                          "created_utc": 1733959249.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1jbhc4",
+              "author": "ExdigguserPies",
+              "body": "> Maybe a future legislation could force companies to keep that avenue open during the initial development,\n\nThis is it. Legislation would have to force devices like this to be developed with its future open-source requirement in mind.",
+              "score": 3,
+              "created_utc": 1733931095.0,
+              "replies": []
+            },
+            {
+              "id": "m1k5sag",
+              "author": "None",
+              "body": "You just bake it into the contracts moving forward, that wouldn\u2019t be that hard to effectuate, especially after a new law passes requiring it.\n\nEvery company ever has a super strict confidentiality clause they won\u2019t ever be lenient on, and for good reason, until they do a government contract and come face to face with the Freedom of Information Act. \n\nThis also includes contractors for firmware/software development. Some of them may not like it, and many of them pushback, but the ones with experience in government contracting know, if you want the money, you accept the laws that come with it. Even with third and fourth party subcontractors involved.\n\nThere is literally zero reason this couldn\u2019t be implemented into a law.",
+              "score": 2,
+              "created_utc": 1733940525.0,
+              "replies": []
+            },
+            {
+              "id": "m1nqg4o",
+              "author": "PocketNicks",
+              "body": "If they made a law, the companies would be forced to make it part of the contract if they outsource the software/firmware, that the IP must become available if the product is no longer supported. Pretty simple.",
+              "score": 2,
+              "created_utc": 1733987132.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1mrbs4",
+          "author": "tyrell_vonspliff",
+          "body": "This is a really interesting idea. I wonder if the average libertarian would be down with it b/c while it would require the use of gov't power, it seems pretty benign and pro-free market/innovation.",
+          "score": 2,
+          "created_utc": 1733970806.0,
+          "replies": []
+        },
+        {
+          "id": "m1kgpm9",
+          "author": "elsjpq",
+          "body": "GPL should be the law",
+          "score": 1,
+          "created_utc": 1733943715.0,
+          "replies": []
+        },
+        {
+          "id": "m1itq7p",
+          "author": "Zaptruder",
+          "body": "You know that won't happen. America keeps voting in the crooks that let the other crooks run rough ramshod over you all, so what can one expect?",
+          "score": 1,
+          "created_utc": 1733924698.0,
+          "replies": []
+        },
+        {
+          "id": "m1jerpi",
+          "author": "Usernametaken1121",
+          "body": "To be fair, it's not a right to use a product or service. It's offered at the discretion of the owner/creator",
+          "score": -1,
+          "created_utc": 1733932160.0,
+          "replies": [
+            {
+              "id": "m1tgrak",
+              "author": "Neo_Techni",
+              "body": "> To be fair, it's not a right to use a product \n\nit literally is. First sale doctrine",
+              "score": 1,
+              "created_utc": 1734068198.0,
+              "replies": [
+                {
+                  "id": "m1ug25i",
+                  "author": "Usernametaken1121",
+                  "body": "My bad Mr Lawyer, I'll be exact. \n\n\"It's not a right to use a product *in perpetuity*",
+                  "score": 1,
+                  "created_utc": 1734090400.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1j5yh3",
+          "author": "myrealaccount_really",
+          "body": "That's not how companies, or proprietary software will ever work.",
+          "score": -6,
+          "created_utc": 1733929244.0,
+          "replies": [
+            {
+              "id": "m1jbkrw",
+              "author": "ExdigguserPies",
+              "body": "It can though. It just needs legislation to force it to happen.",
+              "score": 7,
+              "created_utc": 1733931126.0,
+              "replies": [
+                {
+                  "id": "m1jt68l",
+                  "author": "myrealaccount_really",
+                  "body": "That can be said about a lot of things.",
+                  "score": -3,
+                  "created_utc": 1733936681.0,
+                  "replies": [
+                    {
+                      "id": "m1jv3mi",
+                      "author": "ExdigguserPies",
+                      "body": "It can indeed! That's why we have a government after all.",
+                      "score": 2,
+                      "created_utc": 1733937279.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1jhw5r",
+                  "author": "Usernametaken1121",
+                  "body": "There's no incentive to do that though.",
+                  "score": -7,
+                  "created_utc": 1733933161.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1kb57k",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -5,
+          "created_utc": 1733942089.0,
+          "replies": [
+            {
+              "id": "m1kh6oo",
+              "author": "elsjpq",
+              "body": "> Or it forces companies to release their IP and potentially patented product after a while, which may be key to their current or future products\n\nWhat's wrong with this? This is exactly what should happen and is the whole point of patents",
+              "score": 8,
+              "created_utc": 1733943856.0,
+              "replies": [
+                {
+                  "id": "m1kn18b",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -1,
+                  "created_utc": 1733945581.0,
+                  "replies": [
+                    {
+                      "id": "m1knh38",
+                      "author": "elsjpq",
+                      "body": "Yes you can. That's why some licenses have a clause that grants users patent rights",
+                      "score": 5,
+                      "created_utc": 1733945710.0,
+                      "replies": [
+                        {
+                          "id": "m1ko9vs",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": -1,
+                          "created_utc": 1733945944.0,
+                          "replies": [
+                            {
+                              "id": "m1kozs5",
+                              "author": "elsjpq",
+                              "body": "Yes. Now it's your turn to explain why you think that's unreasonable",
+                              "score": 6,
+                              "created_utc": 1733946155.0,
+                              "replies": [
+                                {
+                                  "id": "m1kujqw",
+                                  "author": "None",
+                                  "body": "[deleted]",
+                                  "score": -5,
+                                  "created_utc": 1733947806.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1lo7xk",
+                                      "author": "elsjpq",
+                                      "body": "> I assume Apple would stop developing iPhones if they were forced to make iOS open source.\n\nAnd you would be wrong. I wonder how Android manages just fine...\n\nOpen source doesn't mean free. Nobody's going to go and compile iOS from source, even if you setup everything for them and all they had to do was hit \"compile\". You can still sell a product that's open source. All open source does is prevent the developer from taking the user hostage by forcing unwanted changes upon them",
+                                      "score": 3,
+                                      "created_utc": 1733956827.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1lrn5z",
+                                          "author": "fullmetaljackass",
+                                          "body": "> All open source does is prevent the developer from taking the user hostage by forcing unwanted changes upon them\n\nOpen source makes no such guarantees, you can't even assume that much from a free (as in speech) software license, which will go much further than a mere open source license. \n\nThe situation you're talking about is referred to as [Tivoization](https://en.wikipedia.org/wiki/Tivoization) and was one of the primary motivations for the creation of the GPLv3 license.\n\n>I wonder how Android manages just fine...\n\nTo be fair, AOSP is not what most people will be expecting when they hear \"android.\" To get that experience you need the closed source Google Play Services.",
+                                          "score": 2,
+                                          "created_utc": 1733957957.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "m1nmzzg",
+                                      "author": "shii_knew_nothing",
+                                      "body": "Large parts of iOS are already open source and Apple is doing fine last I checked.",
+                                      "score": 2,
+                                      "created_utc": 1733985090.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1iuu6t",
+      "author": "Awkward_Pangolin3254",
+      "body": "> So far, the main advice from the community seems to be not to connect the Car Thing to the internet.\n\nHow does that work for a streaming device?",
+      "score": 49,
+      "created_utc": 1733925137.0,
+      "replies": [
+        {
+          "id": "m1j8imw",
+          "author": "theremarkablemonks",
+          "body": "The Car Thing wasn't really a streaming device. It was closer to a bluetooth remote control that controlled your phone. The Car Thing itself didn't connect to the audio system.",
+          "score": 41,
+          "created_utc": 1733930113.0,
+          "replies": [
+            {
+              "id": "m1j9l6h",
+              "author": "Awkward_Pangolin3254",
+              "body": "Ah, OK. Thanks",
+              "score": 4,
+              "created_utc": 1733930471.0,
+              "replies": []
+            },
+            {
+              "id": "m1qzyfj",
+              "author": "blueB0wser",
+              "body": "Yeah I asked the dev of Deskthing if it's possible for it to become an external monitor, and he said it's a novel idea but the hardware is extremely weak.",
+              "score": 3,
+              "created_utc": 1734035793.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1im6r7",
+      "author": "MoonOut_StarsInvite",
+      "body": "Honestly, this type of shit is why I do not buy gadgets anymore. It\u2019s not worth buying crap that will break, fall out of support or can\u2019t be fixed or reused. Who needs more shit anyway.",
+      "score": 128,
+      "created_utc": 1733921524.0,
+      "replies": [
+        {
+          "id": "m1iqz7r",
+          "author": "LilMoWithTheGimpyLeg",
+          "body": "Friends of mine bought that new Sonos Arc. Even though they just wanted it plugged into the television, it still needs to be \"authenticated\" though an app. WTF?",
+          "score": 11,
+          "created_utc": 1733923590.0,
+          "replies": [
+            {
+              "id": "m1vincf",
+              "author": "PhlegethonAcheron",
+              "body": "Sweet sweet data for sonos",
+              "score": 1,
+              "created_utc": 1734105629.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1iq09d",
+          "author": "Early-Accident-8770",
+          "body": "That\u2019s not the issue though, it\u2019s about connected devices that are killed off without a sub.\nIf you buy something it should belong to you and be repairable by you or someone else, not bricked by some corporation.",
+          "score": 47,
+          "created_utc": 1733923186.0,
+          "replies": [
+            {
+              "id": "m1jlysn",
+              "author": "LowDownSkankyDude",
+              "body": "LMAO, that's literally what they said",
+              "score": 32,
+              "created_utc": 1733934448.0,
+              "replies": [
+                {
+                  "id": "m1k0qeh",
+                  "author": "Tacosaurusman",
+                  "body": "Super off topic, but I just wanted to mention that this happens all the time on Reddit. Someone says they disagree or have another view, then proceeds to use the same arguments in a slightly different wording.",
+                  "score": 13,
+                  "created_utc": 1733939007.0,
+                  "replies": [
+                    {
+                      "id": "m1kf4g0",
+                      "author": "buttchuggs",
+                      "body": "Agreeing violently",
+                      "score": 9,
+                      "created_utc": 1733943253.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m1nn4c8",
+                      "author": "boyyouguysaredumb",
+                      "body": "or if you mostly agree with them but disagree slightly on one facet of what they said, they assume you're on the complete opposite side and go scorched earth like they're arguing against their mortal enemy as if you didn't just agree with them on 90% of what they said lol",
+                      "score": 3,
+                      "created_utc": 1733985161.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1ir73n",
+              "author": "MoonOut_StarsInvite",
+              "body": "I was speaking to *all* of the reasons, not just right to repair. Which I did also mention anyway.",
+              "score": 8,
+              "created_utc": 1733923682.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1j4l8f",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 6,
+          "created_utc": 1733928771.0,
+          "replies": [
+            {
+              "id": "m1lmkbg",
+              "author": "KlaatuBrute",
+              "body": "wait whaaaaaat?? I bought it on a whim when they were on firesale for like $20. Used it once then finally just got a better headunit for my car. Nearly tossed it while cleaning last month. Thanks for mentioning this!",
+              "score": 3,
+              "created_utc": 1733956292.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1mm55b",
+          "author": "polopolo05",
+          "body": "I bought an android car head uint. It looks stock but it works I have spotify.",
+          "score": 3,
+          "created_utc": 1733968890.0,
+          "replies": [
+            {
+              "id": "m1my1p0",
+              "author": "jcb093",
+              "body": "I'm trying to find a good replacement for my car thing.. Do you have a link to what you got?",
+              "score": 1,
+              "created_utc": 1733973354.0,
+              "replies": [
+                {
+                  "id": "m1qlxu8",
+                  "author": "obi1kenobi1",
+                  "body": "If you are in the USA Crutchfield is a good place to start.\n\nThey only sell legitimate CarPlay/Android Auto head units from reputable brands so there\u2019s no wondering if it\u2019s a scam that won\u2019t work like when you buy on Amazon or AliExpress. You put the car\u2019s make and model and they\u2019ll tell you which systems are compatible and what you would need to keep everything functional. They have fair prices, free super fast shipping, mounting kits and wiring harnesses are either free or super cheap with purchase of a head unit, they also sell more advanced installation equipment like backup cameras and add-on boxes that can retain steering wheel controls, and they have live chat with real employees who know the products they sell and can answer questions before you buy.\n\nThey also offer a lot of \u201cfloating\u201d head units, where the radio itself is a single-DIN chassis like a lot of \u201880s-2000s cars used, but they have the screen on a stalk that sticks out, which means that not only can you fit a touchscreen in a car that doesn\u2019t have enough room for a normal touchscreen but you can also fit larger touchscreens like you get in modern cars, they have a lot of 10\u201d models and recently I saw they even have a 12\u201d model. Which is definitely overkill but the bigger the screen the easier GPS is to read at a glance and the easier the buttons are to press so I\u2019d be lying if I said I wasn\u2019t tempted. You do need to measure the distance around your radio to make sure larger screens won\u2019t block air vents and climate controls, though, so bigger screens aren\u2019t always better.\n\nThat being said if you have a newer car where the head unit is heavily integrated into the car\u2019s computer system and is a non-standard size that requires special installation then their selection doesn\u2019t appear that great and the prices are going to be very high. For anything up to 2010 or so (maybe up to 2015 if it\u2019s a really basic car that didn\u2019t have a touch screen) they\u2019re great and you should definitely be able to find something that works and retains factory features like steering wheel controls for a fair price, but anything newer or more complex will probably require a vehicle-specific upgrade solution that would cost a lot more and you\u2019d have to search them out and do your own research.\n\nAlthough lately I\u2019ve been shopping for a new CarPlay head unit for another car and some of the new ones seem to offer much more integration with features like climate controls and infotainment systems. I don\u2019t have a car new enough to have those kinds of integrations so I haven\u2019t really looked into it, but we might finally be reaching the point where even cars with heavy touchscreen integration that prevented upgrades in the past can now use more standardized aftermarket head units.",
+                  "score": 2,
+                  "created_utc": 1734031401.0,
+                  "replies": [
+                    {
+                      "id": "m1qzxp2",
+                      "author": "jcb093",
+                      "body": "That's super helpful, thank you! I'm looking at all of it now- hopefully I can find something not super expensive",
+                      "score": 2,
+                      "created_utc": 1734035787.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m1n1sc4",
+                  "author": "polopolo05",
+                  "body": "what car do you have? I have a vw... its specifically for vws",
+                  "score": 1,
+                  "created_utc": 1733974856.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1kj28r",
+          "author": "Vladamir-Poutine",
+          "body": "It\u2019s why I\u2019m so hesitant to buy a newer vehicle. They\u2019ve become more tech than car and I fear they\u2019ll become obsolete quicker and quicker. Who wants to own a vehicle with dead tech. I\u2019ll stick to my 4runner.",
+          "score": 2,
+          "created_utc": 1733944412.0,
+          "replies": []
+        },
+        {
+          "id": "m1nu3ct",
+          "author": "Knowledge_Serious",
+          "body": "Phone? Speakers? TV? Computer?\nLmao what do you mean by \u201cgadgets\u201d",
+          "score": 1,
+          "created_utc": 1733989438.0,
+          "replies": [
+            {
+              "id": "m1rzeyr",
+              "author": "MoonOut_StarsInvite",
+              "body": "Smart lights. Rokus. Permanent, programmable Christmas lights. Like literally anything new, has an app, a subscription, a platform, works with something else, has Bluetooth, like all of it. Most of all this shit has eventually stopped working well or at all, or been functionally obsolete, or except for one part you can\u2019t buy might have worked. It\u2019s so frustrating.",
+              "score": 2,
+              "created_utc": 1734047477.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1iy61k",
+      "author": "blackdragon8577",
+      "body": "Why does this article sound like bullshit passed around 90's school playgrounds about how to move the truck in Pokemon Red and Blue?\n\nEither the solution works or it doesn't. \n\nThe article is full of \"some people say this works\" and \"some people said they were able to do this other thing\". \n\nIs this what the internet is now? \n\n- Some rando posts something on reddit\n- A \"news outlet\" picks up and runs the \"story\" without doing any investigation themselves\n- Then it gets posted to a different subreddit for other people to comment on as if it were real news\n\nThis is insane.",
+      "score": 42,
+      "created_utc": 1733926424.0,
+      "replies": [
+        {
+          "id": "m1ji5zu",
+          "author": "Usernametaken1121",
+          "body": "Sources say you have a point. According to those close to the subject, they might agree with you. Experts also agree according to a recent study.",
+          "score": 15,
+          "created_utc": 1733933248.0,
+          "replies": []
+        },
+        {
+          "id": "m1j3j85",
+          "author": "sexyclamjunk",
+          "body": "Journalism doesn't pay anymore. All that matters now is clicks to get the ad in your face. News is not profitable, so instead you get this drivel.",
+          "score": 11,
+          "created_utc": 1733928400.0,
+          "replies": [
+            {
+              "id": "m1nnflt",
+              "author": "boyyouguysaredumb",
+              "body": "and yet people complain about paywalls lol its insanity. \n\nwhen you don't have subscriptions they have to sell ad space. when they depending on ad revenue, and are competing for clicks you're going to get clickbait bullshit. And the people don't understand and balk at even the thought of paying for news",
+              "score": 2,
+              "created_utc": 1733985344.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1j9q1e",
+      "author": "draconic86",
+      "body": "It's ridiculous that people are now scalping these things on eBay.",
+      "score": 10,
+      "created_utc": 1733930516.0,
+      "replies": []
+    },
+    {
+      "id": "m1ig2rs",
+      "author": "chrisdh79",
+      "body": "From the article: Spotify\u2019s Car Thing officially has expired. Long live Spotify\u2019s Car Thing. Yesterday was the last day to enjoy the Car Thing as Spotify had intended, as a stand-in to grabbing playlists and podcasts for those of us with old cars without a head unit. But that\u2019s not stopping tinkerers from keeping the dream of Spotify\u2019s Car Thing alive.\n\nFolks in the official Car Thing subreddit and elsewhere on the internet have figured out how to get around the annoying launch screen that locks them out of a once-operational device they spent $80-$120 on not too long ago. Since the expiration date, some Car Thing devices have been rendered unusable, forcing users to a [splash screen](https://www.reddit.com/r/CarThing/comments/1haaywe/car_thing_is_officially_dead/) with a long goodbye. There are a few ways to get beyond the splash screen or avoid it altogether to keep the dying device on life support. It all depends on how much you\u2019re willing to work to resuscitate it.\n\n[Android Authority](https://www.androidauthority.com/spotify-car-thing-dead-community-workarounds-3507315/) found that some users could get through the discontinuation screen by canceling the update to their device. Remember the Car Thing I reviewed three years ago? I dug it out of the closet for this story and can still use the interface as if things were viable. Even the Spotify voice service offered aid a few times. Other folks have been able to jump the splash screen by holding the settings button, back button, and the first preset button while booting.",
+      "score": 27,
+      "created_utc": 1733918524.0,
+      "replies": []
+    },
+    {
+      "id": "m1j6hm1",
+      "author": "rumski",
+      "body": "When I saw this popping up over a month ago I checked the marketplaces and boy are they aware of the interest. The prices are insane.",
+      "score": 8,
+      "created_utc": 1733929425.0,
+      "replies": [
+        {
+          "id": "m1jua7q",
+          "author": "TheStealthyPotato",
+          "body": "Yeah, regularly going for $150-200. Prices are crazy for a device that is now a brick unless you go through some effort.",
+          "score": 5,
+          "created_utc": 1733937025.0,
+          "replies": []
+        },
+        {
+          "id": "m1n48jt",
+          "author": "lowbass93",
+          "body": "I bought one for $50 when the discontinuation was first announced. I saw there was a subreddit and discord for development so I thought I could flash something cool on it. But nope, there was nothing developed yet, so I sold it for $20. Now I wish I had just been patient lol",
+          "score": 4,
+          "created_utc": 1733975875.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1jul1h",
+      "author": "avinedeadgrowth",
+      "body": "I loved my car thing, I also used android auto, but the voice control via Google assistant is so shitty. I kept my car thing in use solely due to the voice features",
+      "score": 3,
+      "created_utc": 1733937118.0,
+      "replies": []
+    },
+    {
+      "id": "m1w2zve",
+      "author": "Remic75",
+      "body": "Bad article. Not only did Spotify open source it so people CAN tinker it, the car thing simply died because most people either used their phone for Spotify, installed a third party infotainment on their car that had Spotify, or just simply bought a car that had it preinstalled. \n\nAlthough it was \u201conce operational that they spent $80 on\u201d, Spotify went ahead and refunded the people that did spend money on the car thing. \n\nSpotify simply went \u201cwe\u2019re not supporting this anymore because of much better alternatives, but if you want to - here\u2019s your foundation.\u201d \n\nDon\u2019t be dense.",
+      "score": 3,
+      "created_utc": 1734112101.0,
+      "replies": []
+    },
+    {
+      "id": "m1iyuyb",
+      "author": "WhatIsThisSevenNow",
+      "body": "> *[Why let a good thing die just because the company who made it declared it dead? ](https://imgur.com/gallery/obadiah-stane-iron-man-umcxHwL)*",
+      "score": 5,
+      "created_utc": 1733926685.0,
+      "replies": []
+    },
+    {
+      "id": "m1jlj82",
+      "author": "RationalKate",
+      "body": "thats why we make TAB at home",
+      "score": 2,
+      "created_utc": 1733934313.0,
+      "replies": []
+    },
+    {
+      "id": "m1k87d7",
+      "author": "wesweb",
+      "body": "Exploitative and predatory business jammed up their users for a buck?  I'm *shocked*.",
+      "score": 2,
+      "created_utc": 1733941228.0,
+      "replies": []
+    },
+    {
+      "id": "m1kpvjl",
+      "author": "JerkyChew",
+      "body": "I wish Meta would jailbreak their Portal devices. I still have a few and use them as Pandora/Plex/Home Assistant boxes, but I can't do much else since I can't sideload anything. \n\nI do appreciate that Meta didn't just brick the things as so many other companies do with their products (looking at you, Google). But it's a shame to let these really nice pieces of hardware go to waste.",
+      "score": 2,
+      "created_utc": 1733946416.0,
+      "replies": []
+    },
+    {
+      "id": "m1lcx2t",
+      "author": "cefriano",
+      "body": "\u201cGood thing\u201d lol.  The Car Thing was terrible.",
+      "score": 2,
+      "created_utc": 1733953266.0,
+      "replies": [
+        {
+          "id": "m1ogl09",
+          "author": "Draxtonsmitz",
+          "body": "You mean the device that does all the things my phone, tablet, car touchscreen and computers does? \n\nWhy would that be a terrible idea?",
+          "score": 2,
+          "created_utc": 1734004247.0,
+          "replies": [
+            {
+              "id": "m1pws7m",
+              "author": "cefriano",
+              "body": "> You mean the device that **extremely poorly** does **one of** the things my phone, tablet, car touchscreen and computers does?\n\nI know you're being sarcastic, but FTFY.",
+              "score": 2,
+              "created_utc": 1734023666.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1mz62i",
+      "author": "KrtekJim",
+      "body": "WTF is that title/headline",
+      "score": 2,
+      "created_utc": 1733973800.0,
+      "replies": []
+    },
+    {
+      "id": "m1l3ryq",
+      "author": "alex_dlc",
+      "body": "I literally just bought one.",
+      "score": 1,
+      "created_utc": 1733950535.0,
+      "replies": []
+    },
+    {
+      "id": "m1ntspj",
+      "author": "Delicious_Rabbit4425",
+      "body": "What\u2019s the count for reps to keep the blood pumping?",
+      "score": 1,
+      "created_utc": 1733989249.0,
+      "replies": []
+    },
+    {
+      "id": "m1oji4j",
+      "author": "friday567",
+      "body": "I wonder if Moxi tge talk stuffy will have a similar outcome since they are shutting down.",
+      "score": 1,
+      "created_utc": 1734005780.0,
+      "replies": []
+    },
+    {
+      "id": "m1xis1e",
+      "author": "RenegadeUK",
+      "body": "Where can I buy the Spotify Car Thing as its officially not available anymore ?",
+      "score": 1,
+      "created_utc": 1734128938.0,
+      "replies": []
+    },
+    {
+      "id": "m1jsck1",
+      "author": "Grindelbart",
+      "body": "cobweb weather nail sand salt vase consider yam sophisticated bear\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+      "score": -1,
+      "created_utc": 1733936425.0,
+      "replies": []
+    },
+    {
+      "id": "m1o6feg",
+      "author": "Osiris_Raphious",
+      "body": "The way companies own products you bought outright is getting absurd. I can't believe we need a big gov to hold the market accountable, because turns out greed and corruption just drives free market to resemble a corrupt authoritarian regime. IP laws favour the big companies, regulations are lapsed because the gov of today is too busy catering to the owner and 1% profit margins.\n\nSpotify is just another example of how wef:we will own nothing and be happy. But instead of like, us all owning the means of production, the lords and fuedal kings of technology will own the production and privatise profits, and we as a serf class of worker consumer slaves have to beg for our basic rights to be respected... Like lol... Spotify should be sued for this product....\n\n\nIf a company no longer wants to support to uphold warranties or promises of a product or service, the source and related technical data should go into public domain. Not be stored away for fear of profit loss.",
+      "score": 0,
+      "created_utc": 1733997867.0,
+      "replies": []
+    },
+    {
+      "id": "m1j3yr2",
+      "author": "FlaccidRazor",
+      "body": "Lol at all the people wanting to use the law to force companies to spend money on doing things you want.",
+      "score": -4,
+      "created_utc": 1733928552.0,
+      "replies": [
+        {
+          "id": "m1mhvdn",
+          "author": "leemur",
+          "body": "Look at all the people wanting the law to force companies to let people do what they want with the things they spent money on.\n\nAmerica seems to be the only country in the world where the government exists to protect corporations from the people, instead of the other way around.",
+          "score": 2,
+          "created_utc": 1733967340.0,
+          "replies": [
+            {
+              "id": "m1shw1z",
+              "author": "FlaccidRazor",
+              "body": "Everything I've read about it said that it sucked even when it was working. Most reviews put it at 5/10 or lower. Hardware is not what Spotify is known for, it isn't part of their primary business model. \n\nIt was designed to let older cars have Spotify, cars are constantly being replaced with newer and better and a car company can easily afford to bundle audio features and hardware that a music service can't. It was always a niche piece of equipment that had obsolescence built in.  \n\nAgree with you on the American government being bought and paid for by companies, though. Sadly, we have a fuck ton of idiots who'd rather vote to hurt trans people and immigrants, than get affordable health care and a better standard of living all around.",
+              "score": -1,
+              "created_utc": 1734054205.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1j9h4t",
+      "author": "easterner1848",
+      "body": "I cant figure wtf it even is? Spotify car thing? What an awful name. I cant figure wtf it is. \n\nIts a tablet in your car? To do what your phone already can? what?",
+      "score": -7,
+      "created_utc": 1733930433.0,
+      "replies": [
+        {
+          "id": "m1jfqqq",
+          "author": "TechSupportTime",
+          "body": "They originally only offered it as an invite only prototype to the most dedicated Spotify users. It was essentially a Spotify only Bluetooth remote control for your phone that you could use in an older car that didn't have built-in infotainment. Eventually it got opened up to everyone and the name just kinda stuck.",
+          "score": 7,
+          "created_utc": 1733932474.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

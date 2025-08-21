@@ -1,0 +1,49 @@
+metric,value
+file,1kq9y3d.csv
+title,"A year later, Apple Vision Pro owners say they regret buying the 3,500 dollar headset | ""It's just collecting dust"""
+rows,757
+num_posts,1
+num_comments,756
+unique_authors,495
+max_depth,17
+avg_comment_words,67.3
+median_comment_words,58.0
+max_comment_words,505
+positive_count,103
+negative_count,621
+neutral_count,32
+positive_pct,13.624
+negative_pct,82.143
+neutral_pct,4.233
+topic_1_keywords,"one, tv, im, need, eyes, also, vr, like"
+topic_1_label,i need to see a vr
+topic_2_keywords,"movement, make, car, vr, used, either, play, seeing"
+topic_2_label,vr used in car and vr
+topic_3_keywords,"vr, people, quest, bought, know, fun, shit, lot"
+topic_3_label,"vr, people, shit, lot"
+topic_4_keywords,"vr, games, get, like, quest, play, game, wear"
+topic_4_label,"vr, games, like, game, wear"
+topic_5_keywords,"games, one, like, would, vr, porn, could, opinion"
+topic_5_label,"vr, porn, could"
+topic_6_keywords,"apple, vision, pro, screen, thats, people, vr, 55"
+topic_6_label,Apple's vision pro and people's screen
+top_ngram_1,bought quest (105)
+top_ngram_2,people bought (100)
+top_ngram_3,lot vr (100)
+top_ngram_4,vision pro (95)
+top_ngram_5,vr owners (95)
+top_ngram_6,actually lot (94)
+top_ngram_7,owners know (94)
+top_ngram_8,know shit (94)
+top_ngram_9,shit ton (94)
+top_ngram_10,ton people (94)
+ner_1,Quest 2|MISC|111
+ner_2,Apple|ORG|82
+ner_3,VR|MISC|43
+ner_4,Apple Vision Pro|MISC|38
+ner_5,Vision Pro|MISC|32
+ner_6,Quest 3|MISC|26
+ner_7,##R|ORG|23
+ner_8,A|MISC|23
+ner_9,V|MISC|22
+ner_10,##R|MISC|20

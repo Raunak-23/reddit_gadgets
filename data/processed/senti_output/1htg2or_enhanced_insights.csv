@@ -1,0 +1,49 @@
+metric,value
+file,1htg2or.csv
+title,"This Year, RISC-V Laptops Really Arrive"
+rows,104
+num_posts,1
+num_comments,103
+unique_authors,71
+max_depth,8
+avg_comment_words,62.72
+median_comment_words,47.0
+max_comment_words,308
+positive_count,13
+negative_count,90
+neutral_count,0
+positive_pct,12.621
+negative_pct,87.379
+neutral_pct,0.0
+topic_1_keywords,"post, mass, deleted, anonymized, redact, lot, hunt, insurance"
+topic_1_label,"a post, mass, deleted, redact, lot"
+topic_2_keywords,"arm, run, one, doesnt, version, cant, tax, require"
+topic_2_label,if you have an arm and don't have it you can run one
+topic_3_keywords,"im, hardware, apple, since, hold, happen, mac, arm"
+topic_3_label,"Apple, since, hold, arm"
+topic_4_keywords,"x86, mac, clone, make, dark, 64bit, set, instruction"
+topic_4_label,"X86 clone, clone, dark, 64bit"
+topic_5_keywords,"risc, x86, architecture, arm, anymore, even, amd, day"
+topic_5_label,x86 architecture and arm
+topic_6_keywords,"like, run, risc, least, riscv, never, streaming, going"
+topic_6_label,iran vs riscv
+top_ngram_1,make x86 (12)
+top_ngram_2,anything apple (11)
+top_ngram_3,instruction set (10)
+top_ngram_4,arm tax (9)
+top_ngram_5,theyve never (9)
+top_ngram_6,never supported (9)
+top_ngram_7,supported oses (9)
+top_ngram_8,oses anything (9)
+top_ngram_9,apple hardware (9)
+top_ngram_10,theyve never supported (9)
+ner_1,RISC|MISC|37
+ner_2,x86|MISC|30
+ner_3,ARM|MISC|26
+ner_4,Apple|ORG|23
+ner_5,Mac|MISC|19
+ner_6,AMD|ORG|18
+ner_7,R|MISC|15
+ner_8,Intel|ORG|14
+ner_9,##C|MISC|13
+ner_10,x|MISC|12

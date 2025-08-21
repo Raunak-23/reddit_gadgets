@@ -1,0 +1,519 @@
+{
+  "post": {
+    "title": "575W RTX 5090 should be safe to use | NVIDIA says the melting connector issue has been resolved",
+    "author": "chrisdh79",
+    "id": "1i7e1cg",
+    "score": 237,
+    "created_utc": 1737560687.0,
+    "selftext": "",
+    "num_comments": 61,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i7e1cg/575w_rtx_5090_should_be_safe_to_use_nvidia_says/"
+  },
+  "comments": [
+    {
+      "id": "m8jzsgo",
+      "author": "dertechie",
+      "body": "The article says the issue was *user error*.  NVidia has solved user error?  \n\nBold claim.  We\u2019ll see if it shakes out.",
+      "score": 216,
+      "created_utc": 1737561726.0,
+      "replies": [
+        {
+          "id": "m8k2lbe",
+          "author": "pattperin",
+          "body": "You can engineer a solution that solves a user error issue by changing the procedure to not make the user error possible. It is an entirely normal design procedure to follow",
+          "score": 127,
+          "created_utc": 1737562511.0,
+          "replies": [
+            {
+              "id": "m8kpfuz",
+              "author": "Hardware_Hank",
+              "body": "Yeah not really sure why they didn\u2019t anticipate this in the first iteration, terminal ends have retaining mechanisms for a reason and they are supposed to deliberately try any means necessary for it to fail in some capacity.",
+              "score": 15,
+              "created_utc": 1737568719.0,
+              "replies": []
+            },
+            {
+              "id": "m8k713m",
+              "author": "dertechie",
+              "body": "Yes, you can do that.  The issue is that *we\u2019ve played this game before*.  They said it was all fixed and good to go for the 12VHPWR connectors for the 40\u2013series after this issue first cropped up on FE Ampere cards.",
+              "score": 18,
+              "created_utc": 1737563753.0,
+              "replies": [
+                {
+                  "id": "m8vpej6",
+                  "author": "Stingray88",
+                  "body": "Yeah, then it was actually solved with 12V-2x6.",
+                  "score": 1,
+                  "created_utc": 1737707776.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8k0n95",
+          "author": "PicnicBasketPirate",
+          "body": "The hardest part of engineering is solving the human element.\n\n\nNo matter how idiot proof you make a design, the universe will just create a better idiot. And sometimes cost cutting manufacturers will gleefully help the idiots along. And sometimes the idiot is the engineer.",
+          "score": 39,
+          "created_utc": 1737561966.0,
+          "replies": [
+            {
+              "id": "m8k29d5",
+              "author": "dertechie",
+              "body": "Yeah.  I'd have more confidence if they gave slightly more information about what patterns they found and how they fixed it.",
+              "score": 16,
+              "created_utc": 1737562421.0,
+              "replies": [
+                {
+                  "id": "m8ke7t3",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 2,
+                  "created_utc": 1737565709.0,
+                  "replies": [
+                    {
+                      "id": "m8kipm3",
+                      "author": "dertechie",
+                      "body": "As much as that is what investigators have pointed to, we\u2019ve seen connectors that looked to be very much fully inserted go spicy and melt.  Less common and less replicable.  \n\nThis is as much as anything the human desire to see a bit of responsibility taken and \u201cthis is what we learned from our mistakes\u201d rather than \u201cdon\u2019t worry, we Gucci this time\u201d.",
+                      "score": 3,
+                      "created_utc": 1737566921.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8nwcwx",
+              "author": "Diedead666",
+              "body": "I had to push very very hard to get my connector to click on my 4090",
+              "score": 2,
+              "created_utc": 1737602574.0,
+              "replies": [
+                {
+                  "id": "m8obhz7",
+                  "author": "QuickQuirk",
+                  "body": "I only knew that I had to really push almost-breaking-the-board-hard because of the numerous videos that came out after. And I'm very techically literate. I'm in the 'this was bad engineering' camp.",
+                  "score": 3,
+                  "created_utc": 1737608426.0,
+                  "replies": [
+                    {
+                      "id": "m8rxmy2",
+                      "author": "Diedead666",
+                      "body": "ya, thats how I knew, i even recorded myself so if something happens that cant claim i dint get it to click. \n\nVery badly designed",
+                      "score": 2,
+                      "created_utc": 1737659963.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m8ou45d",
+                      "author": "diceman2037",
+                      "body": "nvidia are not at fault for whatever board vendor you went with using an incorrectly specced socket.",
+                      "score": 0,
+                      "created_utc": 1737617790.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8ka6si",
+              "author": "stillfoldinglaundry",
+              "body": "I'm going with the idiot is the engineer on this one. Also the idiots are also everyone else after the engineer in charge of pushing it out to consumers. If the users were the idiots, then we'd have 8-pin cards burning up at the same rate.",
+              "score": 5,
+              "created_utc": 1737564615.0,
+              "replies": [
+                {
+                  "id": "m9fgrth",
+                  "author": "Veganarchy-Zetetic",
+                  "body": "And every other 4000 series cards with the same connector would be burning up the same amount but they are not.",
+                  "score": 1,
+                  "created_utc": 1737972453.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8kk83a",
+          "author": "audigex",
+          "body": "I think their idea is that users left cables under tension, which causes cable strain\n\nThe new angled connector is presumably their solution",
+          "score": 8,
+          "created_utc": 1737567331.0,
+          "replies": [
+            {
+              "id": "m8l0tly",
+              "author": "dertechie",
+              "body": "That\u2019s what we\u2019re all hoping.  These are advertised as SFF compatible and those cases tend to have a \u201cif I fits I sits\u201d attitude towards packing things in, so if it isn\u2019t fixed we\u2019ll find out.",
+              "score": 4,
+              "created_utc": 1737571751.0,
+              "replies": [
+                {
+                  "id": "m8ldkpk",
+                  "author": "jello1388",
+                  "body": "Boots up without the sound of a cable/wire in a fan blade? That's a dub.",
+                  "score": 8,
+                  "created_utc": 1737575147.0,
+                  "replies": []
+                },
+                {
+                  "id": "m8l1of2",
+                  "author": "lennyxiii",
+                  "body": "I\u2019m just happy to get the side of the case on without it bulging out.",
+                  "score": 2,
+                  "created_utc": 1737571976.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m8mb2gk",
+          "author": "Corren_64",
+          "body": "The user error: not plugging in completely. \nThe solution: checking if it's plugged in completely, otherwise it's not letting any power through.",
+          "score": 3,
+          "created_utc": 1737584199.0,
+          "replies": []
+        },
+        {
+          "id": "m8mjqpw",
+          "author": "Starfox-sf",
+          "body": "Melts in your PC, not in your hands.",
+          "score": 2,
+          "created_utc": 1737586848.0,
+          "replies": []
+        },
+        {
+          "id": "m8nzobv",
+          "author": "Glory2masterkohga",
+          "body": "I\u2019m melting all my connectors with a lighter rn just to prove them wrong",
+          "score": 1,
+          "created_utc": 1737603754.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8jzvqj",
+      "author": "lyllopip",
+      "body": "\"Should\"",
+      "score": 33,
+      "created_utc": 1737561752.0,
+      "replies": [
+        {
+          "id": "m8limkb",
+          "author": "PARANOIAH",
+          "body": "TBF, the snippet from the actual statement did not use that particular word. Unfair embellishment by the author of that article.",
+          "score": 7,
+          "created_utc": 1737576503.0,
+          "replies": []
+        },
+        {
+          "id": "m8kp4ox",
+          "author": "happyjello",
+          "body": "\u201cShould\u201d, as in the customer should know better by now to plug their cables all the way /s",
+          "score": 1,
+          "created_utc": 1737568637.0,
+          "replies": []
+        },
+        {
+          "id": "m8ln2ql",
+          "author": "mindyoursoul",
+          "body": "Keyword here",
+          "score": 0,
+          "created_utc": 1737577719.0,
+          "replies": []
+        },
+        {
+          "id": "m8ll2lv",
+          "author": "bokewalka",
+          "body": "It's a strong, and yet scary, keyword.",
+          "score": -1,
+          "created_utc": 1737577175.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8jz9g0",
+      "author": "sometipsygnostalgic",
+      "body": "The spider infestation has been mostly resolved!",
+      "score": 17,
+      "created_utc": 1737561579.0,
+      "replies": [
+        {
+          "id": "m8lirop",
+          "author": "PARANOIAH",
+          "body": "Congratulations! Your infestation has been downgraded to 6-legged spiders after the application of our spider-sized bear traps!",
+          "score": 6,
+          "created_utc": 1737576542.0,
+          "replies": [
+            {
+              "id": "m8ltfwm",
+              "author": "sometipsygnostalgic",
+              "body": "The employees have also been downgraded to 6 fingered employees",
+              "score": 3,
+              "created_utc": 1737579412.0,
+              "replies": [
+                {
+                  "id": "m8luhwx",
+                  "author": "PARANOIAH",
+                  "body": "...well that's at least 6 people who are having a good time.",
+                  "score": 3,
+                  "created_utc": 1737579695.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8kge6n",
+      "author": "randomIndividual21",
+      "body": "NSFW - Not safe for wallet",
+      "score": 5,
+      "created_utc": 1737566297.0,
+      "replies": []
+    },
+    {
+      "id": "m8lb9gx",
+      "author": "Jamie00003",
+      "body": "Should be lmao",
+      "score": 2,
+      "created_utc": 1737574533.0,
+      "replies": []
+    },
+    {
+      "id": "m8jyv0g",
+      "author": "Twizpan",
+      "body": "Excuse me ??",
+      "score": 4,
+      "created_utc": 1737561469.0,
+      "replies": []
+    },
+    {
+      "id": "m8k1fj4",
+      "author": "ggallardo02",
+      "body": "The WHAT.",
+      "score": 3,
+      "created_utc": 1737562189.0,
+      "replies": [
+        {
+          "id": "m8lmw2i",
+          "author": "drmirage809",
+          "body": "4090s had an issue where the power connector could melt. It was a brand new, more compact connector and the 40 series was its first outing. Early adopters of the card ran into issues if the connector wasn't seated properly and it is apparently hard to tell if it is or not. Or so I understand at least. \n\nI presume Nvidia and their board partners have re-engineered the power connector to make sure it is seated properly. I do believe this revision was already in place when the Super cards dropped. However, the 5090's power draw is even greater so I hope they double checked to make sure every T is striped and every I is dotted. \n\nThe hardest part of any engineering project is the end user. People are very good at doing something wrong in ways that you'd never see coming.",
+          "score": 13,
+          "created_utc": 1737577669.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8jz3a3",
+      "author": "R-Dragon_Thunderzord",
+      "body": "You first",
+      "score": 2,
+      "created_utc": 1737561532.0,
+      "replies": []
+    },
+    {
+      "id": "m8k4e59",
+      "author": "Greyboxer",
+      "body": "Until it isn\u2019t of course",
+      "score": 1,
+      "created_utc": 1737563005.0,
+      "replies": []
+    },
+    {
+      "id": "m8kds6m",
+      "author": "101m4n",
+      "body": "_should_ \ud83e\udd14\n\nOh well, not like I'll be able to afford the thing anyway",
+      "score": 1,
+      "created_utc": 1737565589.0,
+      "replies": []
+    },
+    {
+      "id": "m8kx1k8",
+      "author": "Jamizon1",
+      "body": "Let\u2019s wait until they have hit the market. Saying it has been resolved before being released is a bit premature",
+      "score": 1,
+      "created_utc": 1737570754.0,
+      "replies": []
+    },
+    {
+      "id": "m8mvc18",
+      "author": "None",
+      "body": "[removed]",
+      "score": 1,
+      "created_utc": 1737590515.0,
+      "replies": [
+        {
+          "id": "m8wlnvk",
+          "author": "Switchblade88",
+          "body": "I'll just put this over here with the rest of the fire.",
+          "score": 1,
+          "created_utc": 1737724761.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8ntyy3",
+      "author": "Majorjim_ksp",
+      "body": "\u2018Should be\u2019\u2026",
+      "score": 1,
+      "created_utc": 1737601742.0,
+      "replies": []
+    },
+    {
+      "id": "m8ok28p",
+      "author": "mok000",
+      "body": "575 W, that's almost as much power as my room heater.",
+      "score": 1,
+      "created_utc": 1737612356.0,
+      "replies": []
+    },
+    {
+      "id": "m8p0w75",
+      "author": "TheScienceNerd100",
+      "body": "If you think people listen to instructions, just remember that there are warning labels on lawnmowers to tell users not to put their hands or feet in the way of the blades.\n\nHuman element is impossible to fool proof, no matter how much you overestimate the intelligence of the stupidest person, there will be someone worse.\n\nIt's not 100% their fault if someone doesn't connect their cable all the way in, just like car manufacturers aren't 100% at fault if the safety features on their car doesn't stop someone from dying after they drive 120mph into a light post.\n\nUser error knows no bounds, they can try their best, but people will still find a way to mess it up.",
+      "score": 1,
+      "created_utc": 1737621923.0,
+      "replies": []
+    },
+    {
+      "id": "m8p0xz8",
+      "author": "dustofdeath",
+      "body": "But does something else melt now?",
+      "score": 1,
+      "created_utc": 1737621956.0,
+      "replies": [
+        {
+          "id": "m8vb1hx",
+          "author": "xGuru37",
+          "body": "Your wallet.",
+          "score": 1,
+          "created_utc": 1737699650.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8q77yj",
+      "author": "img_tiff",
+      "body": "Having seen the new, floppier connector that comes with the 5090, I actually almost believe them.",
+      "score": 1,
+      "created_utc": 1737642320.0,
+      "replies": [
+        {
+          "id": "m8vaztk",
+          "author": "xGuru37",
+          "body": "I just want one to use as a cat toy.",
+          "score": 1,
+          "created_utc": 1737699627.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8qhzv6",
+      "author": "dubbleplusgood",
+      "body": "Error exists between user and plug.\nIssue resolved.\n\nSounds about right for Nvidia.",
+      "score": 1,
+      "created_utc": 1737645677.0,
+      "replies": []
+    },
+    {
+      "id": "m8lwp1w",
+      "author": "None",
+      "body": "AMD sells products that don't melt lol",
+      "score": 1,
+      "created_utc": 1737580282.0,
+      "replies": []
+    },
+    {
+      "id": "m8kpcyk",
+      "author": "dudeitsmeee",
+      "body": "Like already triggered gamers believe a word they say.",
+      "score": 0,
+      "created_utc": 1737568697.0,
+      "replies": []
+    },
+    {
+      "id": "m8k183s",
+      "author": "Laserous",
+      "body": "Or you could just switch to AMD.. they have less problems these days than both Nvidia and Intel..",
+      "score": -11,
+      "created_utc": 1737562132.0,
+      "replies": [
+        {
+          "id": "m97ntri",
+          "author": "Djghost1133",
+          "body": "Sure, soon as they release a competitor for the 5090. Or 4090",
+          "score": 1,
+          "created_utc": 1737864098.0,
+          "replies": [
+            {
+              "id": "m9cho6l",
+              "author": "Laserous",
+              "body": "Stability > Specs every time.",
+              "score": 1,
+              "created_utc": 1737930383.0,
+              "replies": [
+                {
+                  "id": "m9coi3x",
+                  "author": "Djghost1133",
+                  "body": "And nvidia drivers historically have been more stable.",
+                  "score": 1,
+                  "created_utc": 1737932297.0,
+                  "replies": [
+                    {
+                      "id": "m9cu9te",
+                      "author": "Laserous",
+                      "body": "Historically yes, but with the last decade? Lol nah. I used to always build Nvidia and Intel. I made the switch on my last rig and tbh it's been way more painless than the decade before with those two. Now go ahead and downvotes me again so I can move on with my day.",
+                      "score": 0,
+                      "created_utc": 1737933971.0,
+                      "replies": [
+                        {
+                          "id": "m9cvpfh",
+                          "author": "Djghost1133",
+                          "body": "In the last decade they've been more stable as well. Im not against amd but they're behind in just about everything.",
+                          "score": 1,
+                          "created_utc": 1737934400.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8olueq",
+      "author": "xGHOSTRAGEx",
+      "body": "The solution to the error was to say that it was not their fault",
+      "score": 0,
+      "created_utc": 1737613262.0,
+      "replies": []
+    },
+    {
+      "id": "m8od8dt",
+      "author": "glitchvid",
+      "body": "12VHPWR is awful design and unforced error on the ATX spec.\n\n\nThe solution was right in front of everybody and that was to use the EPS connector that virtually all high end PSUs already provide ample of, and were already ubiquitous in the server GPU space.",
+      "score": -2,
+      "created_utc": 1737609176.0,
+      "replies": []
+    }
+  ]
+}

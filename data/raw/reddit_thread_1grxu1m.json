@@ -1,0 +1,668 @@
+{
+  "post": {
+    "title": "Reports emerge of AMD 9800X3D CPUs burning out in MSI motherboards and a batch of bad CPU sockets could be to blame | A batch of dodgy sockets or just maybe user error?",
+    "author": "chrisdh79",
+    "id": "1grxu1m",
+    "score": 447,
+    "created_utc": 1731681687.0,
+    "selftext": "",
+    "num_comments": 79,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1grxu1m/reports_emerge_of_amd_9800x3d_cpus_burning_out_in/"
+  },
+  "comments": [
+    {
+      "id": "lx9r7pd",
+      "author": "Nerf_hanzo_pls",
+      "body": "Every one I\u2019ve seen so far has come down to user error. I have one in my closet waiting to be installed so if I\u2019m wrong I\u2019d be interested in taking a look",
+      "score": 238,
+      "created_utc": 1731681961.0,
+      "replies": [
+        {
+          "id": "lx9uary",
+          "author": "SoylentGreenO3",
+          "body": "Yep. MSI saying more than likely CPU not seated correctly.\n\nBut they are looking into it.",
+          "score": 82,
+          "created_utc": 1731682947.0,
+          "replies": [
+            {
+              "id": "lx9v8xx",
+              "author": "jedidude75",
+              "body": "MSI also said they are working with GamersNexus as well.",
+              "score": 38,
+              "created_utc": 1731683246.0,
+              "replies": [
+                {
+                  "id": "lxb2jb1",
+                  "author": "fmaz008",
+                  "body": "- Hey Steve, MSI here. Please don't do a piece on this situation, I swear we are looking into it already.\n- What situation?",
+                  "score": 52,
+                  "created_utc": 1731696158.0,
+                  "replies": [
+                    {
+                      "id": "lxb5zxn",
+                      "author": "Noteagro",
+                      "body": "For real. But just saying I have to give ***MASSIVE*** props to MSI to looking into it from the first case, and the second case is just making them double down on making sure it isn\u2019t a manufacturing error. We have had wayyyyy too many PC part companies try to say it isn\u2019t their issue until you smear their face in their own shit. This goes all the way up to the biggest part company of Intel even. So this is honestly huge showing that they are willing to take accountability if they are at fault, and once the issue is fully solidified I think my next board will be an MSI knowing they are going to try to stay on top of these issues.",
+                      "score": 35,
+                      "created_utc": 1731697181.0,
+                      "replies": [
+                        {
+                          "id": "lxb9sep",
+                          "author": "chris14020",
+                          "body": "Well, this is a huge moment. If it's user damage and easy to cause (meaning at least a few more people regularly do this in the same manner), that's fine (to them); still worth the investigating. What would not be fine would be ignoring it entirely, because then it could be questioned. If they address it and find it's user damage, even if it's common user damage failure mode, they can explicitly address that and keep public trust (and probably prevent others from doing the same thing). If it's not, they can gain public goodwill by showing they didn't handle it like Intel just did their failures across the board. They can also immediately address it if it is indeed a CPU or socket failure.\n\nNo matter what, their problem or not, investigating immediately and thoroughly is a PR win and a financial win.",
+                          "score": 12,
+                          "created_utc": 1731698317.0,
+                          "replies": [
+                            {
+                              "id": "lxbg3l7",
+                              "author": "Noteagro",
+                              "body": "Yup, you basically did a deeper take on what I was saying. Sorry I wasn\u2019t more concise; was distracted by a girlfriend being excited by her Criminal Minds\u2026 XD",
+                              "score": 4,
+                              "created_utc": 1731700274.0,
+                              "replies": [
+                                {
+                                  "id": "lxbhrwb",
+                                  "author": "chris14020",
+                                  "body": "Sorry, I mean t tonadd/expound, not detract. You hit the nail on the head, I'm just polishing the hammer marks :p",
+                                  "score": 3,
+                                  "created_utc": 1731700783.0,
+                                  "replies": [
+                                    {
+                                      "id": "lxbvv97",
+                                      "author": "Noteagro",
+                                      "body": "Oh I know, not upset at all my man! It was more of a thank you for expanding on what I was saying. You are totally fine, and I hope you have a splendid Friday, and your weekend goes as beautifully as you are my dear human.",
+                                      "score": 3,
+                                      "created_utc": 1731705081.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lxe4k15",
+                          "author": "akeean",
+                          "body": "MSI knows better than to sit back and let Steve cook up a piece. They have seen what happened when Gigabyte ignored their explodey PSUs.",
+                          "score": 2,
+                          "created_utc": 1731735907.0,
+                          "replies": [
+                            {
+                              "id": "lxg4mbn",
+                              "author": "Aleashed",
+                              "body": "Giga who?",
+                              "score": 2,
+                              "created_utc": 1731772739.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lxf8v2u",
+                          "author": "FireMaker125",
+                          "body": "The fact that they are immediately dealing with this issue makes me feel pretty secure with my MSi AM5 motherboard (though I have a 7800X3D)",
+                          "score": 2,
+                          "created_utc": 1731760120.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lxayrqf",
+                  "author": "Samtoast",
+                  "body": "Wow!  Ya love to hear it!\n\n\nEdit:  these guys are awesome and aren't afraid to rip a company to SHREDS when a product doesn't live up to claims.",
+                  "score": 9,
+                  "created_utc": 1731695047.0,
+                  "replies": [
+                    {
+                      "id": "lxb5gcg",
+                      "author": "Totoroisacat-Alt",
+                      "body": "They also are great at giving credit to companies that actually worth with them if there is an issue to fix it.",
+                      "score": 7,
+                      "created_utc": 1731697020.0,
+                      "replies": [
+                        {
+                          "id": "lxe21re",
+                          "author": "Arthur-Wintersight",
+                          "body": "GamersNexus ~~is going~~ *has gone* full \"carrot or stick\" on the tech industry, and we're all in better shape because of it.\n\nEveryone wants the carrot, not the stick.",
+                          "score": 7,
+                          "created_utc": 1731734631.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lx9zbe2",
+                  "author": "SoylentGreenO3",
+                  "body": "Nice!",
+                  "score": -1,
+                  "created_utc": 1731684495.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lxbkvvg",
+              "author": "ThePointForward",
+              "body": "Got an MSI board with 9800X3D. No issues, been running the PC for a week now, including a small torture test.\n\nI'd bet it's an user error, BUT if the user error is too common it's also a design flaw. Alternatively it's a defect followed up by user error of essentially forcing the CPU in through the defect.",
+              "score": 18,
+              "created_utc": 1731701733.0,
+              "replies": [
+                {
+                  "id": "lxdwas7",
+                  "author": "PG908",
+                  "body": "Yeah, lots of things are user error but really should have not been possible.",
+                  "score": 3,
+                  "created_utc": 1731731784.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lxd6xad",
+              "author": "twigboy",
+              "body": "[Jay2c also came to the same user error conclusion](https://youtu.be/D0xETTEujAU) after looking at the photos provided",
+              "score": 5,
+              "created_utc": 1731721535.0,
+              "replies": []
+            },
+            {
+              "id": "lx9v712",
+              "author": "ilyich_commies",
+              "body": "Yeah but to be fair your socket design/build quality kinda sucks if it\u2019s that easy for users to miss the fact that their CPU isn\u2019t seated properly.",
+              "score": 7,
+              "created_utc": 1731683230.0,
+              "replies": [
+                {
+                  "id": "lxaeqa6",
+                  "author": "whodaloo",
+                  "body": "It's keyed to only go in a certain way and it's very obvious when it's not. Even a cursory glance would tell you it's wrong. It's a design that's been in use for years.\n\n\nThe user then had to force the lever down hard enough to break the CPU socket.\n\n\nIf you sell enough of something some human is going to figure out how to break it.\u00a0",
+                  "score": 25,
+                  "created_utc": 1731689096.0,
+                  "replies": [
+                    {
+                      "id": "lxb0nr9",
+                      "author": "Kittensss1",
+                      "body": "JayzTwoCents showed how it\u2019s possible to put the CPU in upside down even though it\u2019s keyed a certain way. The user should have noticed it, but the fact that it was even slightly possible is concerning.",
+                      "score": 4,
+                      "created_utc": 1731695601.0,
+                      "replies": [
+                        {
+                          "id": "lxda3yg",
+                          "author": "whodaloo",
+                          "body": "You can't be serious.\n\n\nI saw that video. If you think installing a cpu upside-down is correct then you deserve the life you have.\n\n\nThink of how much money you have to spend before you make that mistake. You'd have to do zero research, not see a single review, and out of the blue decide to order those specific components and then somehow not just install the CPU in the most obvious way but also force it down hard enough to shear plastic.\u00a0",
+                          "score": -5,
+                          "created_utc": 1731722757.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lxllaaz",
+              "author": "xGHOSTRAGEx",
+              "body": "How does one seat a cpu incorrect? lt cannot be seated incorrectly, it can only be sealed with the pin if it's arrow to arrow in the corner. It auto-seats on seal so what's the deal?",
+              "score": 1,
+              "created_utc": 1731855395.0,
+              "replies": [
+                {
+                  "id": "lxlmo9o",
+                  "author": "SoylentGreenO3",
+                  "body": "Users find a way.",
+                  "score": 2,
+                  "created_utc": 1731855902.0,
+                  "replies": [
+                    {
+                      "id": "lxln010",
+                      "author": "xGHOSTRAGEx",
+                      "body": "You know what, You're right.. I can imagine someone cutting a sidehole for it to fit WHEN there is already a visible cut hole/sleeve for it to fit in its corresponding slot on the board",
+                      "score": 1,
+                      "created_utc": 1731856020.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lx9wqpj",
+              "author": "imaginary_num6er",
+              "body": "Why is it that only MSI Tomahawk boards only have this reported issue then?",
+              "score": 1,
+              "created_utc": 1731683709.0,
+              "replies": [
+                {
+                  "id": "lxa2dyw",
+                  "author": "Yayablinks",
+                  "body": "From what I've seen it's two reports so it could just be a coincidence, odds aren't that crazy. It's still enough to have them investigate.",
+                  "score": 16,
+                  "created_utc": 1731685422.0,
+                  "replies": []
+                },
+                {
+                  "id": "lxa68g6",
+                  "author": "Nerf_hanzo_pls",
+                  "body": "Isn\u2019t that the one that comes in the micro center bundle?",
+                  "score": 8,
+                  "created_utc": 1731686575.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lx9xflz",
+              "author": "-Badger3-",
+              "body": "I mean, they\u2019re going to say that even if it is their fault.",
+              "score": 1,
+              "created_utc": 1731683921.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lx9td1q",
+          "author": "rowdymatt64",
+          "body": "Waiting for GamersNexus to report on this so I can have an opinion. Tech Jesus recently descended into a sub (can't remember which) to buy one of these burnt chips at full retail price. He pays for tech companies' sins literally lmao",
+          "score": 21,
+          "created_utc": 1731682650.0,
+          "replies": [
+            {
+              "id": "lxa08g5",
+              "author": "CaptainDonald",
+              "body": "I love their ethos. Gamers Nexus is an awesome company",
+              "score": 6,
+              "created_utc": 1731684777.0,
+              "replies": [
+                {
+                  "id": "lxb5gpj",
+                  "author": "Wrong_Hombre",
+                  "body": "I buy some merch off of their store every time they do one of these deep dives; I'm glad they keep expanding the products in the store because I'm running out of things to buy.",
+                  "score": 4,
+                  "created_utc": 1731697023.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxab2py",
+      "author": "Lothgar818",
+      "body": "The pictures on Jayztwocents video really looked like that specific user smashed it in 180 degrees out and clipped it in for the ride. Plastic surround dented down and all.",
+      "score": 82,
+      "created_utc": 1731688014.0,
+      "replies": [
+        {
+          "id": "lxb0zyj",
+          "author": "Kittensss1",
+          "body": "JayzTwoCents showed it was possible to put it in 180 though. It shouldn\u2019t have been possible with how it\u2019s keyed, but the socket wasn\u2019t preventing it like it should have. I still blame the user, but there is some concern around the socket allowing it to",
+          "score": 24,
+          "created_utc": 1731695702.0,
+          "replies": [
+            {
+              "id": "lxcxq3v",
+              "author": "RedRRK",
+              "body": "no it didnt... it showed that it can probably be FORCED in the wrong way which Jay explains that could be the cause of the broken plastic.",
+              "score": 19,
+              "created_utc": 1731718003.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxa7ggr",
+      "author": "cas13f",
+      "body": "\"Reports of...\"\n\nTwo.  Two people.  At least one of which had a visibly misaligned CPU, including damage to the socket from excessive force.",
+      "score": 127,
+      "created_utc": 1731686944.0,
+      "replies": [
+        {
+          "id": "lxjr5lt",
+          "author": "zzazzzz",
+          "body": "how do you even excessive force a socket? dont you just bottom out either way? id expect the cpu to be damaged before the socket",
+          "score": 2,
+          "created_utc": 1731818974.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxa20x8",
+      "author": "kbailles",
+      "body": "How\u2019d stupid user error blow up this bad?",
+      "score": 36,
+      "created_utc": 1731685315.0,
+      "replies": [
+        {
+          "id": "lxa4xt8",
+          "author": "None",
+          "body": "Photos all over Reddit and elsewhere by now show that the user did not even align the cpu to the socket properly, it was not fully inside the socket, then they clamped it down with such force it bent the clamp, the CPU was not aligned with the pins properly. It really was stupid irresponsible user error.",
+          "score": 18,
+          "created_utc": 1731686188.0,
+          "replies": []
+        },
+        {
+          "id": "lxb1n8p",
+          "author": "KHHAANNN",
+          "body": "Intel PR I assume",
+          "score": 11,
+          "created_utc": 1731695892.0,
+          "replies": []
+        },
+        {
+          "id": "lxay2v5",
+          "author": "Yodl007",
+          "body": "Conspiracy theory: Intel bots/fanboys blowing 2 people installing them out of proportion, to make Intel CPUs instability, problems seem not so bad.",
+          "score": 12,
+          "created_utc": 1731694844.0,
+          "replies": [
+            {
+              "id": "lxe2c7i",
+              "author": "Arthur-Wintersight",
+              "body": "**Alternate Conspiracy Theory**: UserBenchMark is taking their feud with AMD to the next level.",
+              "score": 5,
+              "created_utc": 1731734798.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxejls2",
+          "author": "SpamingComet",
+          "body": "Same reason for the melting RTX 40 series cables. People are too dumb to follow directions these days",
+          "score": 2,
+          "created_utc": 1731744470.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxat0ul",
+      "author": "lordraiden007",
+      "body": "> One of the afflicted Ryzen 7 9800X3D owners commented, \u201cAt first, I thought I did it wrong, but there are more unnecessary parts that are not in the normal socket guide. I\u2019ve assembled hundreds or thousands of units at my current job, but this is the first time I\u2019ve encountered a guide injection defect like this.\u201d\n\nI\u2019m calling BS. No experienced user forces down the CPU to the point of chipping/cracking the socket guides.",
+      "score": 30,
+      "created_utc": 1731693334.0,
+      "replies": [
+        {
+          "id": "lxd7g5a",
+          "author": "twigboy",
+          "body": "The little triangle guides the way, it's not that hard",
+          "score": 6,
+          "created_utc": 1731721740.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lx9z92r",
+      "author": "Mediocre_Jellyfish81",
+      "body": "\"Perhaps more intriguing is visual evidence of fracturing or damage to the border of the CPU socket. Again, this is apparent to some degree in both cases and also appears to have occurred at the same or similar points on the socket border.\"\n\nRTFM.\n\nUser error.",
+      "score": 37,
+      "created_utc": 1731684475.0,
+      "replies": [
+        {
+          "id": "lxa4v18",
+          "author": "lolheyaj",
+          "body": "It's funny how folks will blame a product before their own incompetence when they push so hard that something snaps or cracks. Like lighten up on the torque, if you're forcing anything then something's probably wrong.\u00a0",
+          "score": 11,
+          "created_utc": 1731686167.0,
+          "replies": [
+            {
+              "id": "lxc7abt",
+              "author": "Mediocre_Jellyfish81",
+              "body": "Agreed, seems half this thread is folks blaming the hardware. Seriously, go read the article, or at least do a google search, since the article itself doesn't show the picture of the damaged socket.\n\nFar far too many people on reddit, myself included, are guilty of clickbait headlines and reacting ahead of time.",
+              "score": 3,
+              "created_utc": 1731708622.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxax9sl",
+      "author": "Gerrut_batsbak",
+      "body": "Stop pushing this fake sensationalist nonsense.\n\nThe users quite literally had to damage their sockets to get the cpu to misallign.",
+      "score": 13,
+      "created_utc": 1731694605.0,
+      "replies": []
+    },
+    {
+      "id": "lxbi4gx",
+      "author": "hangender",
+      "body": "User error. Probably first time amd cpu users",
+      "score": 4,
+      "created_utc": 1731700885.0,
+      "replies": []
+    },
+    {
+      "id": "lxa4la3",
+      "author": "patricksaurus",
+      "body": "Everyone who buys this chip is deep enough into the game to know you ought to read the manual.\n\nEither that or they are stupidly rich and bought a shiny thing.",
+      "score": 6,
+      "created_utc": 1731686086.0,
+      "replies": []
+    },
+    {
+      "id": "lxc6bcd",
+      "author": "fnv_fan",
+      "body": "It was something caused by an idiot who shouldn't be building a pc in the first place",
+      "score": 3,
+      "created_utc": 1731708304.0,
+      "replies": []
+    },
+    {
+      "id": "lxevxup",
+      "author": "EveningCandle862",
+      "body": "Two people who never played with blocks as kids fucked up the installation, user error nothing more.",
+      "score": 3,
+      "created_utc": 1731752692.0,
+      "replies": []
+    },
+    {
+      "id": "lxa809q",
+      "author": "JabbaDuhNutt",
+      "body": "User error.",
+      "score": 5,
+      "created_utc": 1731687108.0,
+      "replies": []
+    },
+    {
+      "id": "lxabpog",
+      "author": "Recipe-Jaded",
+      "body": "user error. the pictures are pretty obvious",
+      "score": 4,
+      "created_utc": 1731688202.0,
+      "replies": []
+    },
+    {
+      "id": "lxcp8e7",
+      "author": "None",
+      "body": "Was this article written about literally 2 incidents of this happening?",
+      "score": 2,
+      "created_utc": 1731714854.0,
+      "replies": []
+    },
+    {
+      "id": "lx9syxt",
+      "author": "None",
+      "body": "It's user error, that is all it is, they didn't seat the CPU properly, and forced down the clamp, images show the edges of the socket sheared from the failed attempt to install correctly. I have the same board coming and will be getting the same CPU, just really annoyed with their irresponsibility at this point, the motherboard actually has some of the lowest default voltage and performs exceptionally well with it's controlled voltage regulation. Has some of the best benchmarks, and no one once in reviews said anything about it being off and quirky during CPU install, the CPU just goes in as it should. I'll be putting my parts together very confidently knowing the motherboard is fine.",
+      "score": 7,
+      "created_utc": 1731682526.0,
+      "replies": [
+        {
+          "id": "lyy49hz",
+          "author": "fmaz008",
+          "body": "How did the build go?",
+          "score": 2,
+          "created_utc": 1732560460.0,
+          "replies": [
+            {
+              "id": "lyy6go1",
+              "author": "None",
+              "body": "Hi, I still do not have the CPU yet, only just ordered the AIO, and waiting for the Nvidia 50 series cards, I have everything else. Everything looks normal with the motherboard, so the build will go just fine like every other persons build with the same board, seen lots of people post on Reddit successful builds with the same parts actually, looking forward to finishing mine.",
+              "score": 2,
+              "created_utc": 1732561133.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lxb2squ",
+          "author": "fmaz008",
+          "body": "!remindme 10 days",
+          "score": -2,
+          "created_utc": 1731696236.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lx9y4jx",
+      "author": "Appropriate_Baker130",
+      "body": "USER ERROR",
+      "score": 4,
+      "created_utc": 1731684134.0,
+      "replies": []
+    },
+    {
+      "id": "lxabzur",
+      "author": "afrothundah11",
+      "body": "Nice try intel employee.\n\n2 users in the world blew their shit up, nothing new here.\n\nNo idea why this would even make news, unless it\u2019s a smear campaign.",
+      "score": 2,
+      "created_utc": 1731688287.0,
+      "replies": [
+        {
+          "id": "lxajn0h",
+          "author": "hjadams123",
+          "body": "I guess we don't learn from history? The 4090 12 pin power connector fiasco stared out with just a few people, and I remember we clowned those people at first claiming user error. And then it snowballed into something much bigger than just a few people. All I am saying let's watch this a bit more than 2-3 days before we claim this is isolated to just two people.",
+          "score": 1,
+          "created_utc": 1731690541.0,
+          "replies": [
+            {
+              "id": "lxgjvui",
+              "author": "CommodoreAxis",
+              "body": "It never really snowballed to much more than \u201ca lot of people suck at doing basic things correctly\u201d. nVidia never actually changed anything about the 12 pin dongle and we aren\u2019t seeing continued reports of issues.",
+              "score": 1,
+              "created_utc": 1731777713.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lxe6951",
+      "author": "alexp_nl",
+      "body": "This bullshit again. Amazing the power of the internet. Basically 2 people\u2026 not reports, 2",
+      "score": 1,
+      "created_utc": 1731736708.0,
+      "replies": []
+    },
+    {
+      "id": "lxdwg97",
+      "author": "MrTestiggles",
+      "body": "Downvoting to silence shot journalism",
+      "score": 1,
+      "created_utc": 1731731847.0,
+      "replies": [
+        {
+          "id": "lxhzf4l",
+          "author": "RudeBwoiMaster",
+          "body": "*shit",
+          "score": 1,
+          "created_utc": 1731794386.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lx9r8bu",
+      "author": "ZeroBeTaken",
+      "body": "It could also be automated overclocking done by the motherboard by default setting voltages that are too high. I remember a similar thing happening recently with Intel CPUs.",
+      "score": -16,
+      "created_utc": 1731681967.0,
+      "replies": [
+        {
+          "id": "lx9ssvt",
+          "author": "jcw99",
+          "body": "This is pure conjecture with no evidence, Vs the User error/bad socket statement which is based on pictures from both reported cases showing a badly seated CPU",
+          "score": 13,
+          "created_utc": 1731682471.0,
+          "replies": []
+        },
+        {
+          "id": "lx9u03v",
+          "author": "Sub_NerdBoy",
+          "body": "Nothing that you said here is relevant with respect to 2 of the 2 reported cases showing evidence of physically damaged socket housing that proves some kind of improper CPU installation.\n\nI have a 9800x3D in a similar x870E motherboard running the board automatic overclocking with no issues, but I also installed the CPU correctly which isn't hard considering it is keyed and quite difficult to install backwards as is suspected of the current reported damaged CPUs.\n\nSome times people just don't know how to do stuff like installing computer components on a motherboard, I've seen people similarly install keyed RAM sticks backwards into a motherboard causing the same kind of burn events.",
+          "score": 5,
+          "created_utc": 1731682853.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lxa7bvv",
+      "author": "weirdallocation",
+      "body": "To be honest, PGA sucks. As much as I like AMD CPUs, it is super easy to damage them, especially when taking out the CPU when the paste gets glued to the surface of the cooler element.",
+      "score": -11,
+      "created_utc": 1731686906.0,
+      "replies": [
+        {
+          "id": "lxa8b9n",
+          "author": "vector2point0",
+          "body": "Good thing AM5 is LGA then, huh?",
+          "score": 9,
+          "created_utc": 1731687197.0,
+          "replies": [
+            {
+              "id": "lxa9zkc",
+              "author": "weirdallocation",
+              "body": "Didn't know that. My bad....\n\nStill PGA sucks.",
+              "score": -4,
+              "created_utc": 1731687690.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lx9r97n",
+      "author": "bonesnaps",
+      "body": "Overclocker skill issue (?)",
+      "score": -14,
+      "created_utc": 1731681975.0,
+      "replies": []
+    },
+    {
+      "id": "lxbbulz",
+      "author": "Befuddled_Cultist",
+      "body": "People have been installing CPUs for years now without this much issue, it's AMDs fault cause they're a two-bit company masquerading as God-tier to manipulate markets and hoard investors.\u00a0",
+      "score": -17,
+      "created_utc": 1731698935.0,
+      "replies": [
+        {
+          "id": "lxbt1pb",
+          "author": "Ratiasu",
+          "body": "Are you adminning over at Userbenchmark, perhaps?",
+          "score": 8,
+          "created_utc": 1731704224.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

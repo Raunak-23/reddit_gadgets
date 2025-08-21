@@ -1,0 +1,49 @@
+metric,value
+file,1gin7az.csv
+title,Kuo: Cheaper ‘Apple Vision’ headset delayed beyond 2027
+rows,101
+num_posts,1
+num_comments,100
+unique_authors,58
+max_depth,16
+avg_comment_words,52.93
+median_comment_words,37.0
+max_comment_words,204
+positive_count,10
+negative_count,90
+neutral_count,0
+positive_pct,10.0
+negative_pct,90.0
+neutral_pct,0.0
+topic_1_keywords,"apple, dropped, hardware, work, standard, first, actually, vision"
+topic_1_label,Apple dropped hardware in vision
+topic_2_keywords,"one, people, dont, make, want, customers, could, jobs"
+topic_2_label,people dont make jobs
+topic_3_keywords,"like, apple, sell, development, run, redact, deleted, anonymized"
+topic_3_label,Apple sells in development
+topic_4_keywords,"apple, still, corning, glass, think, even, high, iphone"
+topic_4_label,"Apple still, corning, glass, think"
+topic_5_keywords,"like, people, apple, tried, back, evidence, sure, theres"
+topic_5_label,apples and apples are a good way to try back
+topic_6_keywords,"apple, headset, dont, dead, much, post, vr, people"
+topic_6_label,Apple headset doesn t work on vr
+top_ngram_1,post mass (13)
+top_ngram_2,mass deleted (13)
+top_ngram_3,deleted anonymized (13)
+top_ngram_4,anonymized redact (13)
+top_ngram_5,post mass deleted (13)
+top_ngram_6,mass deleted anonymized (13)
+top_ngram_7,deleted anonymized redact (13)
+top_ngram_8,run airport (8)
+top_ngram_9,airport practice (8)
+top_ngram_10,practice aware (8)
+ner_1,Apple|ORG|54
+ner_2,iPhone|MISC|17
+ner_3,Corning|ORG|12
+ner_4,Unity|ORG|8
+ner_5,Epic|ORG|6
+ner_6,Job|PER|6
+ner_7,Redact|ORG|5
+ner_8,##act|ORG|5
+ner_9,AR|MISC|4
+ner_10,##VR|ORG|4

@@ -1,0 +1,49 @@
+metric,value
+file,1i2okdc.csv
+title,Here’s the Nintendo Switch 2 | The company shared the first details about its next console in a new video.
+rows,725
+num_posts,1
+num_comments,724
+unique_authors,426
+max_depth,18
+avg_comment_words,51.68
+median_comment_words,37.0
+max_comment_words,566
+positive_count,101
+negative_count,591
+neutral_count,32
+positive_pct,13.95
+negative_pct,81.63
+neutral_pct,4.42
+topic_1_keywords,"new, mario, game, zelda, like, metroid, release, would"
+topic_1_label,zelda likes the new game
+topic_2_keywords,"switch, games, zelda, get, like, dont, way, one"
+topic_2_label,Switch game
+topic_3_keywords,"switch, drift, ps5, controllers, stick, joycons, use, ive"
+topic_3_label,"Switch, drift, ps5, controllers, joycons"
+topic_4_keywords,"2025, switch, april, nintendo, like, may, new, also"
+topic_4_label,"2025 switch, like, may, new"
+topic_5_keywords,"games, video, console, super, switch, nintendo, money, get"
+topic_5_label,Switching to a console and a super
+topic_6_keywords,"nintendo, switch, like, super, also, mouse, used, new"
+topic_6_label,Switching to nintendo and other mouse
+top_ngram_1,nintendo switch (75)
+top_ngram_2,mario kart (62)
+top_ngram_3,hall effect (48)
+top_ngram_4,super nintendo (43)
+top_ngram_5,new mario (40)
+top_ngram_6,video games (40)
+top_ngram_7,new zelda (36)
+top_ngram_8,super nintendo switch (35)
+top_ngram_9,zelda game (35)
+top_ngram_10,super mario (33)
+ner_1,Nintendo|ORG|153
+ner_2,Zelda|MISC|96
+ner_3,Switch|MISC|75
+ner_4,Mario|MISC|52
+ner_5,Switch 2|MISC|41
+ner_6,PS5|MISC|40
+ner_7,SNES|MISC|34
+ner_8,NES|MISC|29
+ner_9,Wii U|MISC|28
+ner_10,Metroid|MISC|28

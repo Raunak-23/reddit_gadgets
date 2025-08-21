@@ -1,0 +1,49 @@
+metric,value
+file,1lhvpxi.csv
+title,Tamagotchi Torture Chamber Is Equal Parts Nostalgia And Sadism
+rows,81
+num_posts,1
+num_comments,80
+unique_authors,74
+max_depth,6
+avg_comment_words,26.34
+median_comment_words,20.5
+max_comment_words,92
+positive_count,23
+negative_count,57
+neutral_count,0
+positive_pct,28.75
+negative_pct,71.25
+neutral_pct,0.0
+topic_1_keywords,"read, days, inhouse, wild, first, maybe, understand, still"
+topic_1_label,a wild day in house
+topic_2_keywords,"tamagotchi, like, time, basically, game, one, torturegotchi, mac"
+topic_2_label,tamagotchi is a game that is basically a torturegotchi
+topic_3_keywords,"like, title, yeah, whole, made, guess, already, thing"
+topic_3_label,i guess i'm not gonna be able to guess
+topic_4_keywords,"way, quote, torture, fucking, spy, kids, new, literally"
+topic_4_label,fucking kid fucking
+topic_5_keywords,"heaven, even, kids, lot, also, evangelion, spy, made"
+topic_5_label,Evangelion and spy make heaven a lot
+topic_6_keywords,"think, heaven, god, stays, lives, fear, creation, tamagotchi"
+topic_6_label,tamagotchi tamagotchi : a tamagotchi
+top_ngram_1,spy kids (9)
+top_ngram_2,think god (6)
+top_ngram_3,god stays (6)
+top_ngram_4,stays heaven (6)
+top_ngram_5,heaven lives (6)
+top_ngram_6,lives fear (6)
+top_ngram_7,fear creation (6)
+top_ngram_8,think god stays (6)
+top_ngram_9,god stays heaven (6)
+top_ngram_10,stays heaven lives (6)
+ner_1,Mac|MISC|5
+ner_2,Ted Chiang|PER|4
+ner_3,Mexico|LOC|3
+ner_4,Robert Rodriguez|PER|3
+ner_5,##gotchi|MISC|3
+ner_6,Heaven|LOC|3
+ner_7,Geoff Ramsey|PER|2
+ner_8,Evangelion|ORG|2
+ner_9,Hayek|PER|2
+ner_10,Tor|MISC|2

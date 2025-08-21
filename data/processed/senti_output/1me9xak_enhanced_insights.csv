@@ -1,0 +1,49 @@
+metric,value
+file,1me9xak.csv
+title,"Nvidia announces end of GPU driver updates for GeForce 10-series, Windows 10 | Nvidia will cover gamers who take advantage of Windows 10's extended updates."
+rows,81
+num_posts,1
+num_comments,80
+unique_authors,53
+max_depth,8
+avg_comment_words,52.55
+median_comment_words,35.5
+max_comment_words,210
+positive_count,12
+negative_count,68
+neutral_count,0
+positive_pct,15.0
+negative_pct,85.0
+neutral_pct,0.0
+topic_1_keywords,"windows, good, years, one, 10, know, support, really"
+topic_1_label,windows are good for years
+topic_2_keywords,"pc, linux, good, windows, though, never, game, even"
+topic_2_label,"linux is good, but not good"
+topic_3_keywords,"drivers, lol, time, dont, still, support, long, thats"
+topic_3_label,i dont support long
+topic_4_keywords,"drivers, amd, linux, windows, theyre, much, driver, several"
+topic_4_label,drivers and linux drivers for windows
+topic_5_keywords,"windows, year, linux, prices, shit, support, running, fucks"
+topic_5_label,linux shit in windows year
+topic_6_keywords,"windows, 10, 11, well, microsoft, 1080ti, doesnt, bad"
+topic_6_label,Windows 1080Ti doesn't have a bad microsoft
+top_ngram_1,windows 11 (11)
+top_ngram_2,10 years (9)
+top_ngram_3,windows 10 (9)
+top_ngram_4,amd drivers (8)
+top_ngram_5,manmade drivers (7)
+top_ngram_6,linux drivers (7)
+top_ngram_7,years support (6)
+top_ngram_8,10 years support (6)
+top_ngram_9,huh greedy (6)
+top_ngram_10,greedy fucks (6)
+ner_1,Linux|MISC|30
+ner_2,Windows|MISC|24
+ner_3,AMD|ORG|18
+ner_4,Microsoft|ORG|8
+ner_5,Windows 11|MISC|6
+ner_6,Sims 4|MISC|4
+ner_7,Vega|ORG|4
+ner_8,Windows 10|MISC|4
+ner_9,Powershell|MISC|4
+ner_10,##vidia|ORG|3

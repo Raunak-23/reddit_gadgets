@@ -1,0 +1,49 @@
+metric,value
+file,1lp2zsk.csv
+title,Brain implant at UC Davis translates thoughts into spoken words with emotion | Creating natural speech from neural signals in milliseconds
+rows,84
+num_posts,1
+num_comments,83
+unique_authors,72
+max_depth,5
+avg_comment_words,53.46
+median_comment_words,34.0
+max_comment_words,387
+positive_count,19
+negative_count,64
+neutral_count,0
+positive_pct,22.892
+negative_pct,77.108
+neutral_pct,0.0
+topic_1_keywords,"jet, thoughts, long, probably, flying, quiet, pack, like"
+topic_1_label,"jets are a quiet, quiet, and a quiet place to sleep"
+topic_2_keywords,"baby, shark, trying, brain, words, imagine, speech, participant"
+topic_2_label,sharks trying to imagine speech
+topic_3_keywords,"could, way, thoughts, would, head, ai, used, sensor"
+topic_3_label,ai is a device used to describe thoughts and thoughts
+topic_4_keywords,"dog, like, want, could, see, still, jet, packs"
+topic_4_label,i want to see a jet
+topic_5_keywords,"head, end, would, never, elite, encounter, going, right"
+topic_5_label,"if you go to the end of the world, you will never encounter the elite"
+topic_6_keywords,"old, somewhat, fine, another, person, packs, dont, technology"
+topic_6_label,a person packs a pack of things
+top_ngram_1,baby shark (16)
+top_ngram_2,imagine trying (9)
+top_ngram_3,jet packs (9)
+top_ngram_4,way could (8)
+top_ngram_5,brain signals (8)
+top_ngram_6,somewhat old (8)
+top_ngram_7,could ever (7)
+top_ngram_8,ever head (7)
+top_ngram_9,head present (7)
+top_ngram_10,present polite (7)
+ner_1,##li E|MISC|7
+ner_2,##ro|MISC|7
+ner_3,BC|MISC|6
+ner_4,Tourette|MISC|6
+ner_5,UC Davis|ORG|3
+ner_6,AI|ORG|3
+ner_7,Godsmacks Sick of Life|MISC|3
+ner_8,Sea of Stars|MISC|3
+ner_9,University of California Davis|ORG|3
+ner_10,Encounter Elite|MISC|2

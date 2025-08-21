@@ -1,0 +1,49 @@
+metric,value
+file,1gthf5d.csv
+title,It's Surprisingly Easy to Jailbreak LLM-Driven Robots. Researchers induced bots to ignore their safeguards without exception
+rows,142
+num_posts,1
+num_comments,141
+unique_authors,90
+max_depth,9
+avg_comment_words,55.48
+median_comment_words,42.0
+max_comment_words,214
+positive_count,22
+negative_count,119
+neutral_count,0
+positive_pct,15.603
+negative_pct,84.397
+neutral_pct,0.0
+topic_1_keywords,"laws, ai, rules, three, right, isaac, asimov, need"
+topic_1_label,ai law and ac law
+topic_2_keywords,"cake, name, last, lie, robot, dont, tell, process"
+topic_2_label,cake is a robot that doesn t tell the robot
+topic_3_keywords,"llm, dont, code, output, ai, guardrails, safety, system"
+topic_3_label,llm don code code
+topic_4_keywords,"llm, safe, something, depending, language, need, like, deterministic"
+topic_4_label,"llm, a deterministic language"
+topic_5_keywords,"system, different, systems, input, llm, output, completely, could"
+topic_5_label,system and llm are all sorted
+topic_6_keywords,"one, llm, person, like, would, first, salesforce, well"
+topic_6_label,llm person likes to be a salesforce
+top_ngram_1,three laws (13)
+top_ngram_2,deterministic code (9)
+top_ngram_3,isaac asimov (9)
+top_ngram_4,fully independent (8)
+top_ngram_5,execute action (8)
+top_ngram_6,natural language (7)
+top_ngram_7,something else (7)
+top_ngram_8,system completely (7)
+top_ngram_9,completely different (7)
+top_ngram_10,asimov right (6)
+ner_1,LL|MISC|23
+ner_2,LLM|ORG|13
+ner_3,LL|ORG|10
+ner_4,##v|PER|6
+ner_5,System|MISC|6
+ner_6,Isaac Asimov|PER|6
+ner_7,##imo|MISC|6
+ner_8,##C|MISC|5
+ner_9,Isaac As|PER|5
+ner_10,Salesforce|ORG|5

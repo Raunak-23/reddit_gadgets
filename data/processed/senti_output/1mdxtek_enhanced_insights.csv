@@ -1,0 +1,49 @@
+metric,value
+file,1mdxtek.csv
+title,Acquisition sends thousands of Whistle pet trackers to IoT graveyard
+rows,56
+num_posts,1
+num_comments,55
+unique_authors,39
+max_depth,7
+avg_comment_words,60.73
+median_comment_words,47.0
+max_comment_words,245
+positive_count,5
+negative_count,50
+neutral_count,0
+positive_pct,9.091
+negative_pct,90.909
+neutral_pct,0.0
+topic_1_keywords,"know, want, trump, dont, sure, wasnt, ago, history"
+topic_1_label,trump doesn t know history
+topic_2_keywords,"whistle, tractive, like, devices, dog, im, customer, features"
+topic_2_label,A dog is a tractive device with a whistle and features a dog
+topic_3_keywords,"fix, devices, use, dogs, turned, service, trackers, ive"
+topic_3_label,i have to fix the devices
+topic_4_keywords,"started, california, shit, would, happened, sec, monopolies, rule"
+topic_4_label,monopolies and secs are shit in california
+topic_5_keywords,"new, bought, got, shit, company, matter, absolutely, made"
+topic_5_label,shit company bought new
+topic_6_keywords,"company, service, whistle, trackers, tractive, buy, first, expand"
+topic_6_label,a company that sells whistles and tracksers
+top_ngram_1,buy company (12)
+top_ngram_2,company expand (11)
+top_ngram_3,expand portfolio (11)
+top_ngram_4,buy company expand (11)
+top_ngram_5,company expand portfolio (11)
+top_ngram_6,seems like (9)
+top_ngram_7,ridiculously wasteful (7)
+top_ngram_8,wasteful buy (7)
+top_ngram_9,portfolio first (7)
+top_ngram_10,first thing (7)
+ner_1,Tractive|ORG|12
+ner_2,Whistle|ORG|10
+ner_3,California|LOC|7
+ner_4,America|LOC|4
+ner_5,SEC|ORG|4
+ner_6,Reagan|PER|3
+ner_7,##tle|ORG|3
+ner_8,M M Mars|ORG|3
+ner_9,Trump|PER|2
+ner_10,GTF|ORG|2

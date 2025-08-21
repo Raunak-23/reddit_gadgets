@@ -1,0 +1,707 @@
+{
+  "post": {
+    "title": "Apple iPhone 18 Pro Max and foldable iPhone get first dibs on TSMC's 2nm process, A20 chip",
+    "author": "chrisdh79",
+    "id": "1ldj5s0",
+    "score": 838,
+    "created_utc": 1750154374.0,
+    "selftext": "",
+    "num_comments": 81,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ldj5s0/apple_iphone_18_pro_max_and_foldable_iphone_get/"
+  },
+  "comments": [
+    {
+      "id": "my8ppt9",
+      "author": "MooseBoys",
+      "body": "I hate that fabrication process terminology has become completely divorced from reality. The 2nm process has a metal pitch of 20nm - ten times what's suggested by the marketing label!",
+      "score": 383,
+      "created_utc": 1750157612.0,
+      "replies": [
+        {
+          "id": "my8typ7",
+          "author": "MultiMarcus",
+          "body": "Don\u2019t worry, they are gonna make it even worse with the new \u00c5ngstr\u00f6m chips.",
+          "score": 144,
+          "created_utc": 1750159558.0,
+          "replies": [
+            {
+              "id": "myaquh8",
+              "author": "Affectionate-Memory4",
+              "body": "That's what the A in A20 means. This is an \u00c5ngstrom node, but the pitch is 200\u00c5, not 20\u00c5.",
+              "score": 37,
+              "created_utc": 1750181152.0,
+              "replies": [
+                {
+                  "id": "myauqk7",
+                  "author": "Killah57",
+                  "body": "A stands for Apple in this case.\n\nIt\u2019s the iPhone/Ipad SOC name not the manufacturing node.",
+                  "score": 37,
+                  "created_utc": 1750182195.0,
+                  "replies": [
+                    {
+                      "id": "myavm43",
+                      "author": "Affectionate-Memory4",
+                      "body": "Ah I've confused the chip and node names. They have A16 coming as a node and I thought they renamed 2nm.",
+                      "score": 12,
+                      "created_utc": 1750182431.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myb01t6",
+          "author": "kayson",
+          "body": "It was never about metal pitch. It was transistor gate length, which is smaller. The physical gate length and \"marketing dimension\" diverged a long time ago because no one actually cares about the gate length in an absolute sense. What matters is the improvements in and tradeoffs between power, performance, and area. When the device structure changes, you can get a leap in improvement for the same transistor \"length\".\n\n\nNo one in the industry really cares about this. They're not trying to trick anyone, and everyone understands what tbe number means.\u00a0",
+          "score": 74,
+          "created_utc": 1750183634.0,
+          "replies": [
+            {
+              "id": "mydwda4",
+              "author": "CavemanSlevy",
+              "body": "I might be wrong , but my understanding is that gate length only stopped being important around 2010 when we reached about 10nm and could really make it any smaller without running into quantum issues with electrons. \u00a0",
+              "score": 1,
+              "created_utc": 1750216476.0,
+              "replies": [
+                {
+                  "id": "myehfi5",
+                  "author": "Fullyverified",
+                  "body": "You're understanding is wrong, we are no where close to that being an issue.",
+                  "score": 4,
+                  "created_utc": 1750226000.0,
+                  "replies": [
+                    {
+                      "id": "mygo502",
+                      "author": "spartacus_zach",
+                      "body": "That jargon flies around all the time.",
+                      "score": 2,
+                      "created_utc": 1750259983.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "myus0zy",
+              "author": "account312",
+              "body": "It's ridiculous to say that labeling them with a quantity and a unit when it isn't that is anything other than deliberately deceptive. Yes, experts in the field know that it's not accurate, but it's just so obviously going to convey a false impression to everyone else that marketing departments, whose job it is to be aware of that sort of thing, surely intend it.",
+              "score": 0,
+              "created_utc": 1750443536.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "my8zelb",
+          "author": "ItemFast",
+          "body": "The marketing label of a process node, like \u201c2nm,\u201d no longer reflects the actual physical dimensions of the transistors as evidenced by metal pitches still being around 20nm you are correct. However, it signifies generational improvements in performance, power, and density. the real determinants of chip efficiency lie in the standard cell libraries and design enablement. Factors such as cell height, track count, transistor arrangement, and routing congestion play a far more critical role in actual area efficiency and performance than the nominal transistor size. \n\nAdvanced architectures like GAAFETs may reduce transistor footprint, but without well optimized libraries and physical design strategies, those benefits can\u2019t be fully realized. Moreover, system level innovations, such as chiplet integration and 3D stacking, increasingly contribute more to real world performance gains than simple transistor scaling. Ultimately, a smaller transistor isn\u2019t inherently better what matters is how effectively it\u2019s used in the design ecosystem, and that\u2019s where the library and design tools make all the difference. \n\nSamsung has the same metal pitch as TSMC but draws more power for the same level of performance.\n\nIf you count the market as not transistor but a(unfortunately not standardized) \n\ntransistor type\nCell library performance \nPower use age per mm2 per work done\n\nThan you will actually find that it tracks pretty well..companies like intel stayed stuck in 14++++ for that reason their libraries barely changed then they changed their name to fit better with TSMC which only IMO ruined what TSMC has pretty much standardized for itself and what you can expect",
+          "score": 42,
+          "created_utc": 1750161852.0,
+          "replies": [
+            {
+              "id": "myaak62",
+              "author": "ElectronRotoscope",
+              "body": "If it doesn't signify a physical measurement, it could be literally any other term. Letter grades, generation numbers, codes, names of dog breeds, anything else would be less confusing than using a specific physical measurement for \"if you look at the performance stats it has the vibe of as if it was shrunk to 2nm even though it isn't\"",
+              "score": 22,
+              "created_utc": 1750176641.0,
+              "replies": [
+                {
+                  "id": "myecgi4",
+                  "author": "danielv123",
+                  "body": "Sure, but how long would it be before we got the ultra pro max mini node?\n\nAny naming scheme is fine as long as you don't keep switching.",
+                  "score": 3,
+                  "created_utc": 1750223491.0,
+                  "replies": []
+                },
+                {
+                  "id": "myblbsp",
+                  "author": "sold_snek",
+                  "body": "Yeah I agree. Considering how long it was used as literal physical size, I figured that's what it still was.",
+                  "score": 5,
+                  "created_utc": 1750189672.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mye23en",
+          "author": "prontoingHorse",
+          "body": "Where can we learn more about it?",
+          "score": 1,
+          "created_utc": 1750218782.0,
+          "replies": []
+        },
+        {
+          "id": "my96b38",
+          "author": "PaulR79",
+          "body": "Apple's THINNEST EVER phone. It's a shame it's 1 meter long but that won't be in the advertising or parroted around.",
+          "score": -25,
+          "created_utc": 1750164479.0,
+          "replies": [
+            {
+              "id": "my9jtud",
+              "author": "Bderken",
+              "body": "You are either making a bad joke or don\u2019t have the right context of this thread you are commenting in",
+              "score": 9,
+              "created_utc": 1750168979.0,
+              "replies": [
+                {
+                  "id": "myf4ro9",
+                  "author": "PaulR79",
+                  "body": "Oh always bad joke. 2nm process but a metal pitch of 20nm so my bad joke was that they made the new iphone the thinnest ever by making it 1 meter long.",
+                  "score": 1,
+                  "created_utc": 1750239503.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my97xrn",
+      "author": "TheSpatulaOfLove",
+      "body": "I\u2019m not sure I\u2019m ready for a foldable.  The ones I\u2019ve seen seemed to be a bit \u2018meh\u2019 and I\u2019m certain I\u2019d trash it in short order.",
+      "score": 105,
+      "created_utc": 1750165056.0,
+      "replies": [
+        {
+          "id": "my9dww7",
+          "author": "thelionsmouth",
+          "body": "Not trying to fanboy, but Apple in the past has been able to take tech that hasn\u2019t performed well and make it user friendly and marketable. I\u2019m hoping this is the case, but I\u2019m not as 100% confident as I used to be",
+          "score": 152,
+          "created_utc": 1750167080.0,
+          "replies": [
+            {
+              "id": "my9p1o5",
+              "author": "potatoboy247",
+              "body": "I know this isn\u2019t the Apple of old, but i believe they\u2019ve stated they won\u2019t release a foldable until there\u2019s no crease in the screen",
+              "score": 47,
+              "created_utc": 1750170538.0,
+              "replies": [
+                {
+                  "id": "myas987",
+                  "author": "snapplesauce1",
+                  "body": "My buddy has a foldable galaxy. He\u2019s 2 years in and the screen is separating at the crease. Like a big long bubble at the crease which looks awful. To be honest, I thought it looked awful before the bubble. Just a giant line going through the middle of every video.",
+                  "score": 32,
+                  "created_utc": 1750181527.0,
+                  "replies": [
+                    {
+                      "id": "mydtyak",
+                      "author": "MattBSG",
+                      "body": "If it\u2019s just air and maybe some debris, he may be lucky if it\u2019s just the screen protector; there\u2019s one on from the factory to protect the softer flexible panel. Lots of phone shops can replace that for you\u2014 just a plastic piece. It\u2019s a wearable part and it needs to be replaced everyone once and a bit",
+                      "score": 7,
+                      "created_utc": 1750215567.0,
+                      "replies": [
+                        {
+                          "id": "mydudjv",
+                          "author": "snapplesauce1",
+                          "body": "That\u2019s good to know. I will pass that along thank you!",
+                          "score": 2,
+                          "created_utc": 1750215721.0,
+                          "replies": [
+                            {
+                              "id": "myg6zfd",
+                              "author": "TheFaceBehindItAll",
+                              "body": "My z fold turns 4 in August and have had this \"bubble\" a few times, definitely just the screen protector. The factory one lasted only around 8 months, third party ones have been around 1-2 years before they start getting bad.",
+                              "score": 4,
+                              "created_utc": 1750255014.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mygle5p",
+                      "author": "Userybx2",
+                      "body": "That's the screen protector, not the screen.\n\nThe same happend on my Fold with the factory applied screen protector as well after a year, I simpls removed it and applied a new one.",
+                      "score": 2,
+                      "created_utc": 1750259214.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "myedr9o",
+                      "author": "officer897177",
+                      "body": "With extended use, foldable as we know it just aren\u2019t viable for the premium brand like Apple. Anything folding on the market today looks and feels like cheap plastic.\n\nI\u2019m interested to see what they cook up, but they sure as hell aren\u2019t going to take chances on a flagship iPhone.",
+                      "score": 2,
+                      "created_utc": 1750224124.0,
+                      "replies": [
+                        {
+                          "id": "myelty6",
+                          "author": "Renive",
+                          "body": "Meanwhile foldables have wood, alcantara, satin and more... (speaking mainly about motorola razr 60 ultra).",
+                          "score": 3,
+                          "created_utc": 1750228375.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mysnrcj",
+                      "author": "Curse3242",
+                      "body": "Yeah and foldables being squarish also isn't great.\n\nThat's why I keep saying the next big smartphone boom has to be extendable screens. The ones that stretch out as needed\n\nJust turn my normal sized phones into a 16:9 tablet whenever I want for content. I'd buy that in an instant",
+                      "score": 1,
+                      "created_utc": 1750419967.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "myagc2b",
+              "author": "IBJON",
+              "body": "Sure, but they also made the Vision Pro which flipped hard enough they had to pivot their marketing from consumers to businesses.\u00a0",
+              "score": 32,
+              "created_utc": 1750178281.0,
+              "replies": [
+                {
+                  "id": "myakwzf",
+                  "author": "thelionsmouth",
+                  "body": "Yeah, I\u2019m losing confidence. The Apple intelligence really furrowed my brows too",
+                  "score": 16,
+                  "created_utc": 1750179561.0,
+                  "replies": [
+                    {
+                      "id": "myb6op6",
+                      "author": "JudgeFondle",
+                      "body": "There\u2019s no magical period where apple was batting a thousand. I\u2019m a fan and have been using there products since the iPod and the Newton, but they are prone to misstep same as any other company and always have been.",
+                      "score": 8,
+                      "created_utc": 1750185502.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "my9g6xr",
+              "author": "TheSpatulaOfLove",
+              "body": "Yeah.  I agree with the Apple assessment, but I know myself and how hard I can be on devices.",
+              "score": 9,
+              "created_utc": 1750167829.0,
+              "replies": []
+            },
+            {
+              "id": "myeomik",
+              "author": "Massive_Season7075",
+              "body": "The 3D headset was a financial disaster. I\u2019ve never seen one in the wild either.",
+              "score": 3,
+              "created_utc": 1750229929.0,
+              "replies": []
+            },
+            {
+              "id": "mz2k0a5",
+              "author": "obi1kenobi1",
+              "body": "It\u2019s not even about marketing, Apple typically waits until a technology is perfected (or until they can introduce some twist to turn it mainstream) before they jump into a new market.\n\nFor several years Apple was still making flagship phones with LCDs when the competition had switched to OLED, and they didn\u2019t even introduce an always-on OLED until a full decade after the competition, but you\u2019ve probably never seen an iPhone with burn-in. The Apple Watch was late to the market but now a decade later it\u2019s the only smartwatch anyone still talks about. The HomePod was super late to the market and admittedly that was an example where their tweaks and improvements to the smart speaker concept didn\u2019t really make it a success but people seem to like to use them as AirPlay speakers. Even the iPod didn\u2019t come out until many already considered the MP3 player a dead fad, but it was so fundamentally different from mainstream flash players (and more sleek and user friendly than the few hard drive jukeboxes that predated it) that it rewrote the entire rule book and now many people think it was the first MP3 player. And of course the iPhone had been rumored for like half a decade before it was finally announced.\n\nNowadays they\u2019re not *quite* as good at that strategy as they once were, as the HomePod and Vision Pro prove. Even when it\u2019s technically superior than the earlier efforts by other companies that doesn\u2019t always matter and they seem to be really bad at marketing new ideas now that all the big visionaries have left the company. But either way the reason Apple doesn\u2019t have a folding iPhone yet is because they\u2019re not confident the technology is there yet, and competitors products have proven that true. Apple has never really cared about being first to market, they want to be successful and ensure that the technology is viable.",
+              "score": 1,
+              "created_utc": 1750550338.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "my9jjbf",
+          "author": "Rpcouv",
+          "body": "I loved my fold 3 and 5. I switched to an iPhone because of work. I\u2019d be first in line for a tablet sized foldable iphone",
+          "score": 7,
+          "created_utc": 1750168887.0,
+          "replies": []
+        },
+        {
+          "id": "my9k275",
+          "author": "Bderken",
+          "body": "I have a fold 6, and yeah it\u2019s meh. Main phone is iPhone. But no app support on galaxy foldable. Even the default messaging app is horrible. I won\u2019t get a folding phone for 5+ years until every single aspect is polished. Hopefully Apple does it",
+          "score": 6,
+          "created_utc": 1750169050.0,
+          "replies": []
+        },
+        {
+          "id": "myeastt",
+          "author": "hweird",
+          "body": "Yea I buddy of mine has one of the Samsung foldable ones and he liked it for the first month or so, but visually you can see the crease now and he said even physically you can feel it sometimes too",
+          "score": 1,
+          "created_utc": 1750222684.0,
+          "replies": []
+        },
+        {
+          "id": "myexulv",
+          "author": "FdPros",
+          "body": "i had a z fold 4 and now an oppo find n5, long term durability is still a concern compared to normal phones but it apart from that, it works well. it's as thin as a normal phone but with an option for a bigger screen anytime.",
+          "score": 1,
+          "created_utc": 1750235403.0,
+          "replies": []
+        },
+        {
+          "id": "myoo9lk",
+          "author": "YUNoCake",
+          "body": "Did you see the latest Moto Razr models? I've tested a few in the store and I think that they look way better than the Samsung Flips. The crease is barely noticeable, feel pretty sturdy and somehow they are way cheaper, for very similar specs.\n\nAnyways, I'm confident that Apple will manage to step this up even further. And probably like with the iPhone X, the first foldable iPhone will be a bit of a failure, but they'll learn from the experience and come out with great ones afterwards.",
+          "score": 1,
+          "created_utc": 1750361877.0,
+          "replies": []
+        },
+        {
+          "id": "mz4dd8q",
+          "author": "Kakacobina",
+          "body": "They can't anymore\u00a0",
+          "score": 1,
+          "created_utc": 1750579946.0,
+          "replies": []
+        },
+        {
+          "id": "myaxh1k",
+          "author": "GrayDaysGoAway",
+          "body": "The new Galaxy Flips are pretty nice. Similar build quality to the mainline Galaxy phones, and the entire outer cover is a touchscreen now so you rarely even need to actually open the phone.",
+          "score": 1,
+          "created_utc": 1750182930.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mybna79",
+      "author": "rmunoz1994",
+      "body": "2-2.5k to fold a phone. Lmao no thanks",
+      "score": 28,
+      "created_utc": 1750190226.0,
+      "replies": [
+        {
+          "id": "mylau3i",
+          "author": "Sethithy",
+          "body": "It just depends on your use case, if I could spend 2k and get the functionality of both and iPhone AND an iPad in one device that fits in my pocket that might be worth it. Android tablets have always been inferior to iPads so it makes sense that foldables that run android have been lackluster for most people.",
+          "score": 2,
+          "created_utc": 1750316383.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mydjbjo",
+      "author": "suppre55ion",
+      "body": "Can we get thru the 17 first please lol",
+      "score": 10,
+      "created_utc": 1750211895.0,
+      "replies": []
+    },
+    {
+      "id": "myczf6y",
+      "author": "TheGreatSoup",
+      "body": "I would love a foldable iPhone. I been seeing foldable androids and the most recent ones I feel the crease as been minimal, I can see it but as soon it light sup it just disappear.    \n\nA foldable iPhone would be at least feel more different that every slab iPhone.",
+      "score": 7,
+      "created_utc": 1750205038.0,
+      "replies": [
+        {
+          "id": "myd2h32",
+          "author": "ohyeahbonertime",
+          "body": "as long as they offer a clam shell version and not  just the phablet to actually tablet vertical fold design I\u2019ve seen kicked around.",
+          "score": 3,
+          "created_utc": 1750206104.0,
+          "replies": [
+            {
+              "id": "mydelsx",
+              "author": "Icy-Pay7479",
+              "body": "What about a triangle that folds out twice to make a parallelogram",
+              "score": 2,
+              "created_utc": 1750210284.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myblx37",
+      "author": "naterzgreen",
+      "body": "I can\u2019t wait for a foldable iPhone",
+      "score": 5,
+      "created_utc": 1750189841.0,
+      "replies": []
+    },
+    {
+      "id": "mycya4p",
+      "author": "StefanSalvatoreReal",
+      "body": "It will not only depend on if they can make it right but also how they market it. Personally, I don\u2019t care about a regular iPhone that can fold into half its size. What I would love is an iPad Mini-sized iPhone that folds into a regular iPhone Pro Max size, give or take. \n\nConsidering the durability concerns, as well as the fact that the iPad Mini sells well, I\u2019m not really sure if the investment will be even worth their time.",
+      "score": 3,
+      "created_utc": 1750204640.0,
+      "replies": []
+    },
+    {
+      "id": "myc77nr",
+      "author": "Drapausa",
+      "body": "Uhhh, foldable iphone. Only, what, 5 years late to the party?",
+      "score": 0,
+      "created_utc": 1750195937.0,
+      "replies": [
+        {
+          "id": "myg7ku9",
+          "author": "TingleyStorm",
+          "body": "I\u2019d rather Apple be late to the party and have well-implemented tech than rush to be first and we get the abomination that is Apple Intelligence.",
+          "score": 4,
+          "created_utc": 1750255195.0,
+          "replies": [
+            {
+              "id": "myx5ov2",
+              "author": "Mathisbuilder75",
+              "body": "They let everyone else do the hard work and then they pitch in",
+              "score": 1,
+              "created_utc": 1750471844.0,
+              "replies": []
+            },
+            {
+              "id": "mygmde7",
+              "author": "Userybx2",
+              "body": "Knowing Apple it will be just as well implemented as from every other major company that sells foldables, but their marketing will be better so people think theirs is better implemented. It's more expensive so it must be better, right? \n\nIf something still breaks they will just say \"you are holding it wrong\".",
+              "score": 0,
+              "created_utc": 1750259489.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myeypzw",
+      "author": "LilDigaKnow",
+      "body": "Still rockin the 6. Somewhere there is a tower they can\u2019t tear down just yet.",
+      "score": 1,
+      "created_utc": 1750235932.0,
+      "replies": []
+    },
+    {
+      "id": "myg8jit",
+      "author": "strawboard",
+      "body": "If Apple makes a foldable phone then they will have officially jumped the shark.",
+      "score": 1,
+      "created_utc": 1750255489.0,
+      "replies": []
+    },
+    {
+      "id": "mykae5j",
+      "author": "FaveDave85",
+      "body": "Why are new phones never short on stock, but new gpu's always are?",
+      "score": 1,
+      "created_utc": 1750299871.0,
+      "replies": [
+        {
+          "id": "mym6ir4",
+          "author": "RealisticEntity",
+          "body": "When we see thousands upon tens of thousands of iPhones connected to each other in huge AI server farms running chatbots, then there will be a shortage of these phones, just like gpus.",
+          "score": 1,
+          "created_utc": 1750333623.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myacdc9",
+      "author": "Nyx-Erebus",
+      "body": "I really hope that when the foldables trend is over developers move onto physical keyboards.",
+      "score": -8,
+      "created_utc": 1750177159.0,
+      "replies": [
+        {
+          "id": "mycbuub",
+          "author": "Tabs_555",
+          "body": "\u201cWhy are you booing me I\u2019m right\u201d\n\nFolding phones suck. Every one I\u2019ve seen that\u2019s older than 6mo-1yr look like trash. Massive crease. Huge bubble. And for what? I have never once thought \u201coh man I sure which my phone was half the height and twice the thickness!\u201d \n\nAnd everyone harping on \u201cApple waits until the product is perfect and tech is mature, they\u2019ll release a no-crease phone\u201d is taking pure copium. Vision Pro flopped. Apple intelligence is a gimmick. Apple is fallible. They do make good products, doesnt mean they always do. \n\nI too would be more interested in companies re-imaging physical keyboards. I think new tech can bring some unique advancements.\n\nSent from my iPhone, while using AirPods and working on my Mac. I like apples tech. I hate folding phones.",
+          "score": 5,
+          "created_utc": 1750197353.0,
+          "replies": [
+            {
+              "id": "myeghwb",
+              "author": "Nyx-Erebus",
+              "body": "Honestly getting downvoted to shit surprised me because I didn\u2019t expect this sub to be this fan boy-y about Apple lol. Everyone in here acting like they\u2019re a perfect company who never makes bad designs or decisions as if this isn\u2019t the company that made a mouse you have to flip upside down to charge, or just released a look into liquid ~~gl~~ass lol (and this is coming as an iPhone user).",
+              "score": 0,
+              "created_utc": 1750225510.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myeq9sv",
+      "author": "igby1",
+      "body": "Who cares, we\u2019ll all still be miserable and there\u2019s a convicted felon running the country.",
+      "score": -1,
+      "created_utc": 1750230869.0,
+      "replies": []
+    },
+    {
+      "id": "myaviur",
+      "author": "ezilka",
+      "body": "Iphone 26 on A26 ;)",
+      "score": 0,
+      "created_utc": 1750182407.0,
+      "replies": []
+    },
+    {
+      "id": "my8ydfh",
+      "author": "krectus",
+      "body": "I was going to make the joke about it still only being about 15% better than the previous chips like always but oops it\u2019s actually true. \n\n\u201cEarlier reports on the A20 suggest the chip will be up to 15 percent faster than the upcoming A19\u201d\n\nSo it\u2019s all the same whether they move to smaller nodes or not, about 15% improvement every year.",
+      "score": -29,
+      "created_utc": 1750161436.0,
+      "replies": [
+        {
+          "id": "my97swl",
+          "author": "Shadow647",
+          "body": "oh no consistent 15% year over year is such a terrible improvement, they should just abandon chip design entirely",
+          "score": 42,
+          "created_utc": 1750165008.0,
+          "replies": [
+            {
+              "id": "mybj6n1",
+              "author": "krectus",
+              "body": "no but they should stop making headlines like this seem like it is a big deal when it doesn't lead to any more improvement than the standard yearly improvements when they don't move to a smaller node size.",
+              "score": -5,
+              "created_utc": 1750189052.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "my9c1ul",
+          "author": "bran_the_man93",
+          "body": "When was the last time your chip improved by 15%?",
+          "score": 14,
+          "created_utc": 1750166462.0,
+          "replies": []
+        },
+        {
+          "id": "my9kqja",
+          "author": "WFlumin8",
+          "body": "So what would you rather have? An iPhone that spans 3 generations with the same chip and then the fourth iPhone gets a brand new chip that\u2019s 70% faster, or a chip that gets 15% faster every year? It would certainly be cheaper for Apple to do the former. \n\nDo you even think before you type? Only joke here is the electricity and storage wasted from your comment.",
+          "score": 10,
+          "created_utc": 1750169256.0,
+          "replies": [
+            {
+              "id": "myanu7r",
+              "author": "None",
+              "body": "Good math. 15% per year compounded is 70% in 3 years.",
+              "score": 3,
+              "created_utc": 1750180349.0,
+              "replies": [
+                {
+                  "id": "myavk97",
+                  "author": "LupusDeusMagnus",
+                  "body": "Am I bad at math? Shouldn\u2019t 15 compound to 52% in 3 years?\n\nFirst year is 15, second is 32.25, third is 52.9, forth is 74.90 and fifth is 101.14%",
+                  "score": 0,
+                  "created_utc": 1750182417.0,
+                  "replies": [
+                    {
+                      "id": "myb9u2z",
+                      "author": "None",
+                      "body": "Yes",
+                      "score": 0,
+                      "created_utc": 1750186387.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mybim82",
+              "author": "krectus",
+              "body": "no my comment was about how this node improvement doesn't get any more of an improvement than when they don't have a node improvement so this big news doesn't actually give any more of a jump up than normal.  Do you read before you type?",
+              "score": 1,
+              "created_utc": 1750188887.0,
+              "replies": []
+            },
+            {
+              "id": "mya6eu9",
+              "author": "bran_the_man93",
+              "body": "^Damn!",
+              "score": 0,
+              "created_utc": 1750175460.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mya2dnk",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 3,
+          "created_utc": 1750174324.0,
+          "replies": [
+            {
+              "id": "myarwcm",
+              "author": "Affectionate-Memory4",
+              "body": "For some people not quite getting how quickly it compounds:\n\n1.15 twice is 1.32, thrice is 1.52, four times is 1.75x, and five times is 2.01x.\n\nAt this rate of imrpovemet, in 5 generations it's literally twice as fast.",
+              "score": 5,
+              "created_utc": 1750181431.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myangdv",
+          "author": "None",
+          "body": "That\u2019s exponential improvement.",
+          "score": 0,
+          "created_utc": 1750180245.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mydp7q3",
+      "author": "erickufrin",
+      "body": "Samsung Galaxy is a superior product.",
+      "score": -5,
+      "created_utc": 1750213920.0,
+      "replies": [
+        {
+          "id": "myefofn",
+          "author": "Kajega",
+          "body": "As a Samsung user who has an iPhone from work, there's basically no meaningful difference at this point. They both do the same shit with a different skin. You still talk about Xbox 360 vs PS3 too?",
+          "score": 3,
+          "created_utc": 1750225086.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "my91qma",
+      "author": "cape2cape",
+      "body": "Yay, more phablets\u2026",
+      "score": -15,
+      "created_utc": 1750162771.0,
+      "replies": []
+    },
+    {
+      "id": "my8n107",
+      "author": "SsooooOriginal",
+      "body": "Yawn.\n\n\nWhy!?\n\n\nWhatever they paid for this will be passed onto the people sucking these up, on top of whatever other hikes.",
+      "score": -48,
+      "created_utc": 1750156258.0,
+      "replies": [
+        {
+          "id": "my8ujbo",
+          "author": "StraY_WolF",
+          "body": "Oh my god, people paying for product! THE HORROR!!!!",
+          "score": 11,
+          "created_utc": 1750159811.0,
+          "replies": []
+        },
+        {
+          "id": "my8t9og",
+          "author": "MadOrange64",
+          "body": "You dropped this L",
+          "score": 10,
+          "created_utc": 1750159247.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

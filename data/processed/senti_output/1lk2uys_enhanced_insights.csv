@@ -1,0 +1,49 @@
+metric,value
+file,1lk2uys.csv
+title,The smaller Fairphone 6 introduces swappable accessories
+rows,33
+num_posts,1
+num_comments,32
+unique_authors,28
+max_depth,5
+avg_comment_words,71.19
+median_comment_words,57.5
+max_comment_words,202
+positive_count,4
+negative_count,28
+neutral_count,0
+positive_pct,12.5
+negative_pct,87.5
+neutral_pct,0.0
+topic_1_keywords,"need, one, device, parts, framework, similar, laptops, repair"
+topic_1_label,a device needs one
+topic_2_keywords,"go, phone, phones, point, time, fairphone, specs, price"
+topic_2_label,"phone, fairphone, price"
+topic_3_keywords,"waiting, gaming, camera, still, im, jack, headphone, could"
+topic_3_label,"jack, phone, camera, jack"
+topic_4_keywords,"battery, phone, would, blackberry, back, potential, panel, worked"
+topic_4_label,Blackberry battery backs up blackberry
+topic_5_keywords,"people, keep, point, also, phone, updates, power, still"
+topic_5_label,people keep their phones and other updates
+topic_6_keywords,"phone, outdated, soc, buy, dont, mean, current, offer"
+topic_6_label,"phone, not available, not available"
+top_ngram_1,price point (8)
+top_ngram_2,performance repairability (6)
+top_ngram_3,every time (5)
+top_ngram_4,time fair (5)
+top_ngram_5,fair phone (5)
+top_ngram_6,phone comes (5)
+top_ngram_7,comes go (5)
+top_ngram_8,go okay (5)
+top_ngram_9,okay time (5)
+top_ngram_10,time get (5)
+ner_1,BlackBerry|ORG|4
+ner_2,iPhone 8|MISC|3
+ner_3,iOS|MISC|3
+ner_4,Blackberry|MISC|2
+ner_5,Snapdragon|MISC|2
+ner_6,Android|MISC|1
+ner_7,##aiphone|ORG|1
+ner_8,##C|ORG|1
+ner_9,Google|ORG|1
+ner_10,Fairphone 5|MISC|1

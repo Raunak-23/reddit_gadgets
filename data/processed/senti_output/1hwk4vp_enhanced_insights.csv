@@ -1,0 +1,49 @@
+metric,value
+file,1hwk4vp.csv
+title,"A billion dollars later, the iPhone 16 is still banned in Indonesia, for a bizarre reason"
+rows,12
+num_posts,1
+num_comments,11
+unique_authors,9
+max_depth,3
+avg_comment_words,59.73
+median_comment_words,45.0
+max_comment_words,128
+positive_count,1
+negative_count,10
+neutral_count,0
+positive_pct,9.091
+negative_pct,90.909
+neutral_pct,0.0
+topic_1_keywords,"indonesia, market, wise, population, even, spending, income, small"
+topic_1_label,Indonesians spend less on the market than in the market
+topic_2_keywords,"click, chance, country, apple, bizarre, like, cant, thats"
+topic_2_label,click on the apple and you cant see the chance
+topic_3_keywords,"bizarre, investment, view, billion, chance, click, iphones, long"
+topic_3_label,ipls : a slam dunk of a slam
+topic_4_keywords,"click, chance, country, apple, bizarre, like, cant, thats"
+topic_4_label,click on the apple and you cant see the chance
+topic_5_keywords,"trade, companies, country, banned, would, sounds, started, making"
+topic_5_label,banned companies banned from trade in country
+topic_6_keywords,"dont, click, country, apple, iphone, manufacture, parts, reason"
+topic_6_label,Apple doesn't click on the iphone
+top_ngram_1,bizarre bizarre (3)
+top_ngram_2,reason indonesia (2)
+top_ngram_3,indonesia specifically (2)
+top_ngram_4,specifically insists (2)
+top_ngram_5,insists apple (2)
+top_ngram_6,apple manufacture (2)
+top_ngram_7,manufacture iphone (2)
+top_ngram_8,iphone parts (2)
+top_ngram_9,parts country (2)
+top_ngram_10,country airtags (2)
+ner_1,Indonesia|LOC|9
+ner_2,iPhone|MISC|7
+ner_3,Apple|ORG|6
+ner_4,Air|ORG|2
+ner_5,Mexico|LOC|2
+ner_6,##tor|ORG|1
+ner_7,Brazil|LOC|1
+ner_8,EU|ORG|1
+ner_9,Indonesian|MISC|1
+ner_10,Indo Clickbait|ORG|1

@@ -1,0 +1,49 @@
+metric,value
+file,1lk661r.csv
+title,iPhone customers upset by Apple Wallet ad pushing 'F1' movie
+rows,199
+num_posts,1
+num_comments,198
+unique_authors,163
+max_depth,8
+avg_comment_words,42.04
+median_comment_words,34.0
+max_comment_words,304
+positive_count,20
+negative_count,178
+neutral_count,0
+positive_pct,10.101
+negative_pct,89.899
+neutral_pct,0.0
+topic_1_keywords,"notifications, apple, u2, album, day, people, app, marketing"
+topic_1_label,notifications on u2 album
+topic_2_keywords,"ads, people, would, like, worked, age, medal, dont"
+topic_2_label,ad likes to work
+topic_3_keywords,"f1, u2, notifications, first, company, thats, im, nextq0"
+topic_3_label,f1 notifications first company
+topic_4_keywords,"wallet, apple, ads, app, get, card, movie, think"
+topic_4_label,"Wallet, app, app, app, app"
+topic_5_keywords,"able, ads, better, later, service, get, push, laws"
+topic_5_label,able ads for a company
+topic_6_keywords,"apple, movie, ads, even, business, jobs, free, hate"
+topic_6_label,Apple ads for free movies
+top_ngram_1,wallet app (13)
+top_ngram_2,album forced (12)
+top_ngram_3,u2 album (10)
+top_ngram_4,need laws (10)
+top_ngram_5,able add (10)
+top_ngram_6,push notifications (10)
+top_ngram_7,modern day (9)
+top_ngram_8,day iteration (9)
+top_ngram_9,iteration u2 (9)
+top_ngram_10,forced upon (9)
+ner_1,Apple|ORG|47
+ner_2,U2|ORG|31
+ner_3,F1|ORG|13
+ner_4,Apple Card|MISC|8
+ner_5,Tim Cook|PER|7
+ner_6,EU|ORG|7
+ner_7,April Fools Day|MISC|7
+ner_8,Google|ORG|7
+ner_9,iPhone|MISC|6
+ner_10,Revolut|MISC|5

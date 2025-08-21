@@ -1,0 +1,569 @@
+{
+  "post": {
+    "title": "FTC: Most smart device makers break the law by not adequately informing consumers of software support terms | Companies would rather drop support on old products and then sell you a new one",
+    "author": "chrisdh79",
+    "id": "1h2wngz",
+    "score": 3191,
+    "created_utc": 1732916565.0,
+    "selftext": "",
+    "num_comments": 77,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1h2wngz/ftc_most_smart_device_makers_break_the_law_by_not/"
+  },
+  "comments": [
+    {
+      "id": "lzmf2a1",
+      "author": "Q3b3h53nu3f",
+      "body": "Wish they would add \u201cright to repair\u201d into the conversation. It is not fair for consumer products to sell you the product and keep ownership of the software.  Cite: Chevy goes as far as saying you may own the car, but not the software.\n\nhttps://www.techdirt.com/2015/04/23/gm-says-that-while-you-may-own-your-car-it-owns-software-it-thanks-to-copyright/\n\nIf you buy something, shouldn\u2019t promote the practice that companies software prevents anyone but the company to diagnose and repair.   This slippery slope forces the consumer to service through the dealer. (BMW is piloting this on some models)",
+      "score": 243,
+      "created_utc": 1732917617.0,
+      "replies": [
+        {
+          "id": "lzmj6iz",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 43,
+          "created_utc": 1732919091.0,
+          "replies": [
+            {
+              "id": "lznjhol",
+              "author": "scuddlebud",
+              "body": "Homeassistant would probably also work, FYI.",
+              "score": 16,
+              "created_utc": 1732933301.0,
+              "replies": []
+            },
+            {
+              "id": "lzp0c2d",
+              "author": "xerxes931",
+              "body": "You could probably try flashing some custom, open source firmware. Of course you shouldn't have to resort to such measures - you paid not only for the outlets, but for software and support as well.",
+              "score": 6,
+              "created_utc": 1732961494.0,
+              "replies": []
+            },
+            {
+              "id": "lzpg42w",
+              "author": "makomirocket",
+              "body": "If you got it from Amazon, they'll likely still honour it",
+              "score": 1,
+              "created_utc": 1732971412.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lzx3avj",
+          "author": "ngoni",
+          "body": "There's a lot of manufacturers, John Deere and Apple being some of the first and most openly egregious that are taking steps towards making it impossible for owners or independent repair shops to fix their products. \n\nThe other half, and I think a big part is software support. A big part of that is security updates that keep people safe. This will likely get government attention as device makers move into the health and home safety markets. Most people justifiably don't want to junk expensive things just because a 1-2 yr warranty is over. Manufacturers get away with this in the healthcare industry because there's so many layers between the service and the consumer almost no one actually cares about senseless systemic waste. \n\nThe other big part of software updates is the over reliance on \"cloud\" to make devices work. You can have perfectly functional gear that becomes a paperweight in a day once a bean counter says to turn off the largely useless cloud infrastructure behind it.",
+          "score": 4,
+          "created_utc": 1733082257.0,
+          "replies": [
+            {
+              "id": "lzzjqol",
+              "author": "InnocentShaitaan",
+              "body": "I wish it was silk the 90s my brain was so much happier in less of this tech shit. Only thing I love is my remarkable2",
+              "score": 2,
+              "created_utc": 1733112849.0,
+              "replies": []
+            },
+            {
+              "id": "m002k2o",
+              "author": "Stoned-hippie",
+              "body": "I always love people say Apple makes independent repair impossible, because that simple hasn\u2019t been true for years\n\n[Source](https://support.apple.com/self-service-repair): I\u2019ve successfully done a battery repair and two display repairs for family members\u2026 i just wish it was cheaper\n\nEdit: not trynna sound like an Apple fanboy, but I do like my stuff",
+              "score": 1,
+              "created_utc": 1733122496.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lzoiivm",
+          "author": "JerkBreaker",
+          "body": "> It is not fair for consumer products to sell you the product and keep ownership of the software. Cite: Chevy goes as far as saying you may own the car, but not the software.\n\nWe can't abuse the meaning of \"right to repair\" or it will not happen. You don't get the schematics of the circuits in the products you purchase, or the recipe to Coca Cola for buying a bottle. You should get a binary and no further restrictions.\n\n\"Right to repair\" means *at best* exposing pins for a programming port somewhere on the board as well as disabling code signing and secure boot. None of these is particularly great for security on a mass-market item.",
+          "score": -16,
+          "created_utc": 1732949567.0,
+          "replies": [
+            {
+              "id": "lzolbcz",
+              "author": "Xin_shill",
+              "body": "No, the right should extend to each of those products as well.  Anyone who produces this electronic waste with the expectation of abandoning it without the ability of 3 rd parties to update and configure them should be subject to legal penalties.",
+              "score": 24,
+              "created_utc": 1732951333.0,
+              "replies": [
+                {
+                  "id": "lzos4ck",
+                  "author": "JerkBreaker",
+                  "body": "I have developed products in this category, selling in the millions (and managing a few percent of the electricity grid) -- people with skillsets to reverse-engineer and update rinky-dink consumer products like these will be much more effective at reducing e-waste by either tackling it directly or by helping to avoid it in the first place. \n\nAs difficult as it is to get people to update the supported software on their devices when they are literally paid to do just that, it will *actually* be impossible to get consumers to change software on the smart plug that they got as a Christmas gift in the name of reducing e-waste.",
+                  "score": 3,
+                  "created_utc": 1732955816.0,
+                  "replies": [
+                    {
+                      "id": "lzqwvlu",
+                      "author": "Xin_shill",
+                      "body": "So you are endorsing a company spending a ton of resources and making every attempt to lock out their device from users actually owning it or being able to take it over at any part of its lifecycle or even after the company abandoning it?\n\nIf the option was pretty straightforward for using a new tool to take over the old device the users would be more likely to not create ewaste",
+                      "score": 2,
+                      "created_utc": 1732991039.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lzqpsly",
+              "author": "0ne_Winged_Angel",
+              "body": "> You don't get the schematics of the circuits in the products you purchase\n\nI mean, not anymore you don\u2019t, but I have a vacuum tube radio from the \u201850s that had a block schematic on the back of the access panel because you needed that if a tube blew, and the manuals for the radio and turntable had the complete schematics, exploded diagrams, and parts lists.\n\nThat used to be the standard, then it got replaced by \u201cno user serviceable parts inside, take to an authorized repair center\u201d that they can sell the service manual to.",
+              "score": 7,
+              "created_utc": 1732988789.0,
+              "replies": [
+                {
+                  "id": "lzs19am",
+                  "author": "Odd_Voice5744",
+                  "body": "slimy ludicrous follow quack spark grandfather humorous wise squeamish cobweb\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                  "score": -1,
+                  "created_utc": 1733004317.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lzoku8p",
+              "author": "Q3b3h53nu3f",
+              "body": "Great point.  Almost like a \u201cRight to administrate on software at own risk without voiding warranty\u201d and \u201cright for 3rd party open source tools to diagnose and reset to factory conditions\u201d",
+              "score": 2,
+              "created_utc": 1732951028.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lznj2bf",
+      "author": "Miyuki22",
+      "body": "Reolink stopped providing firmware download for products purchased 2 years ago. They still have the files but you have to request it. Total nonsense.",
+      "score": 43,
+      "created_utc": 1732933122.0,
+      "replies": [
+        {
+          "id": "m04bm4h",
+          "author": "ZombieLinux",
+          "body": "Well that\u2019s unfortunate. I\u2019ll have to stop buying their things now.",
+          "score": 1,
+          "created_utc": 1733183788.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lzn6uhg",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 42,
+      "created_utc": 1732928153.0,
+      "replies": []
+    },
+    {
+      "id": "lzo5fqz",
+      "author": "nuclearpiltdown",
+      "body": "Uh yeah. Scamming is way more profitable than providing a quality product.",
+      "score": 18,
+      "created_utc": 1732942554.0,
+      "replies": [
+        {
+          "id": "lzs1pr9",
+          "author": "Odd_Voice5744",
+          "body": "toothbrush offbeat deserve telephone squeeze rock jar observation yam badge\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+          "score": 2,
+          "created_utc": 1733004477.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lzpwenp",
+      "author": "__JockY__",
+      "body": "Happened to me recently.\n\n UASure makes blood testing devices for uric acid that require a disposable test strip for each use. UASure are the sole producer of the test strips.\n\nThey released v2 of the device and made a different form factor for the strips, then discontinued making v1 strips in order to force all their consumers to buy new test devices.\n\nFuck that company, they\u2019ll never see another penny of mine.",
+      "score": 18,
+      "created_utc": 1732978579.0,
+      "replies": []
+    },
+    {
+      "id": "lzmuvuw",
+      "author": "ILoveWhiteBabes",
+      "body": "Ajit Pai loves this",
+      "score": 36,
+      "created_utc": 1732923403.0,
+      "replies": [
+        {
+          "id": "lzn7f6n",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 31,
+          "created_utc": 1732928387.0,
+          "replies": [
+            {
+              "id": "lzn8ani",
+              "author": "None",
+              "body": "[removed]",
+              "score": 16,
+              "created_utc": 1732928746.0,
+              "replies": [
+                {
+                  "id": "lzqf0r6",
+                  "author": "sold_snek",
+                  "body": "I have no intention of it, but absolutely condone it.",
+                  "score": 3,
+                  "created_utc": 1732985208.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lzpkaoq",
+          "author": "divDevGuy",
+          "body": "He may love it, but he was FCC, not FTC. \n\nFuck Ajit Pai regardless.",
+          "score": 7,
+          "created_utc": 1732973435.0,
+          "replies": []
+        },
+        {
+          "id": "lzmxo63",
+          "author": "brocollee",
+          "body": "Screw that guy",
+          "score": 11,
+          "created_utc": 1732924499.0,
+          "replies": [
+            {
+              "id": "lznlb7d",
+              "author": "redheadedandbold",
+              "body": "Nah...",
+              "score": -3,
+              "created_utc": 1732934061.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lzmja3c",
+      "author": "Trekintosh",
+      "body": "Just in time for the trump administration to pull the FTC\u2019s teeth and gut them like a rotten trout.\u00a0",
+      "score": 94,
+      "created_utc": 1732919128.0,
+      "replies": [
+        {
+          "id": "lzmpzkz",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -1,
+          "created_utc": 1732921588.0,
+          "replies": [
+            {
+              "id": "lzn1w0l",
+              "author": "Wetzilla",
+              "body": "They just banned noncompetes in the spring.",
+              "score": 30,
+              "created_utc": 1732926163.0,
+              "replies": [
+                {
+                  "id": "lzqp4r0",
+                  "author": "IMissNarwhalBacon",
+                  "body": "Nope.\n\nhttps://www.npr.org/2024/08/21/g-s1-18376/federal-judge-tosses-ftc-noncompetes-ban#:~:text=In%20her%20ruling%2C%20Judge%20Ada,of%20competition%2C%22%20she%20wrote.",
+                  "score": 5,
+                  "created_utc": 1732988573.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lznsp44",
+              "author": "melkipersr",
+              "body": "This is just a bald-faced lie. Biden\u2019s FTC under Lina Khan has been the most vigorous in decades, by a country mile. The business world is salivating over her defenestration. Even big democratic backers (e.g., Reid Hoffman) have called for her ousting.",
+              "score": 48,
+              "created_utc": 1732937100.0,
+              "replies": [
+                {
+                  "id": "lzrdwu4",
+                  "author": "espressocycle",
+                  "body": "Make her fucking president. (can't, she's British)",
+                  "score": 3,
+                  "created_utc": 1732996549.0,
+                  "replies": []
+                },
+                {
+                  "id": "lzs7245",
+                  "author": "TheMercDeadpool2",
+                  "body": "I actually just used the FTC to get my ISP to fix their shit. I was getting 90s satellite speeds every single day for months when I had 1G fiber and they refused to fix it. The second morning after I submitted the form, I suddenly had a bunch of important people from the ISP calling and emailing me. The ISP suddenly knew what the issue was and fixed it within a couple days. The FTC actually helps people.",
+                  "score": 3,
+                  "created_utc": 1733006388.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lzmq88t",
+              "author": "Mochinpra",
+              "body": "Thats not what im hearing from certain circles, Lina Khan has been bad for their \"business\" and are waiting for her replacement.",
+              "score": 44,
+              "created_utc": 1732921676.0,
+              "replies": []
+            },
+            {
+              "id": "lzmqveq",
+              "author": "FSYigg",
+              "body": "They won't let the truth get in the way of posting needlessly hyperbolic political rhetoric in subs it doesn't belong in.",
+              "score": -32,
+              "created_utc": 1732921921.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lzq1yya",
+      "author": "BJDixon1",
+      "body": "Stop buying these products. Ask yourself Doyou really need them?",
+      "score": 6,
+      "created_utc": 1732980646.0,
+      "replies": [
+        {
+          "id": "lzqj2oz",
+          "author": "Uncertn_Laaife",
+          "body": "People buy smart devices as if they are candies, they cry.",
+          "score": 5,
+          "created_utc": 1732986568.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lzpxpy5",
+      "author": "None",
+      "body": "I remember when IoT devices came out. First thing I said was \"hackers will love these in a few years\"",
+      "score": 5,
+      "created_utc": 1732979082.0,
+      "replies": []
+    },
+    {
+      "id": "lzncbrc",
+      "author": "Dan-in-Va",
+      "body": "This is true. Just ask Arlo customers. The FTC is advancing some good requirements, such as unsubscribe with the same ease as signing up. Forward movement on some of their efforts will likely be delayed for a few years.",
+      "score": 10,
+      "created_utc": 1732930386.0,
+      "replies": []
+    },
+    {
+      "id": "lznlvdz",
+      "author": "Consistent_Heat_9201",
+      "body": "I think most of us know this at this point.",
+      "score": 4,
+      "created_utc": 1732934295.0,
+      "replies": [
+        {
+          "id": "lzq0dm3",
+          "author": "random1029384",
+          "body": "My first thought was \u201cwell, duh! That\u2019s not new\u201d",
+          "score": 2,
+          "created_utc": 1732980066.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lznqk9a",
+      "author": "Redillenium",
+      "body": "I know, that\u2019s why every single phone company wants you to trade in your old phone for the \u201cdeal\u201d.",
+      "score": 3,
+      "created_utc": 1732936205.0,
+      "replies": [
+        {
+          "id": "lzpkwjp",
+          "author": "divDevGuy",
+          "body": "Kind of tells you how inflated the price of a phone actually is when Google will pay $540 for a 2 year old used phone that I can buy today at Best Buy brand new for $450.",
+          "score": 1,
+          "created_utc": 1732973715.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lzn141h",
+      "author": "void_const",
+      "body": "Google stops supporting their Android phones after just three years. That\u2019s insane to me.",
+      "score": 11,
+      "created_utc": 1732925854.0,
+      "replies": [
+        {
+          "id": "lzn4b0q",
+          "author": "Dead3y3Duck",
+          "body": "Google Pixel 8 and 9 are 7+ years.\n\nDevices are complicated - even if the primary manufacturer wants to support a device for years, they may be dependent on a chip supplier that only provides X years of support.",
+          "score": 3,
+          "created_utc": 1732927129.0,
+          "replies": [
+            {
+              "id": "lzn4n5w",
+              "author": "void_const",
+              "body": "I\u2019ll believe it when I see it. Google has a long history of abandoning products prematurely.",
+              "score": 15,
+              "created_utc": 1732927266.0,
+              "replies": [
+                {
+                  "id": "lzob83o",
+                  "author": "hitemlow",
+                  "body": "Now that they've stated the 7 years of support in advertisements, it's a bit harder for them to back out of that commitment without running afoul of truth-in-advertisement laws. Now as for what \"support\" means, they will likely just push the monthly security updates and call it good enough. Which TBF, is better than Samsung and their 1yr of security updates.",
+                  "score": 1,
+                  "created_utc": 1732945345.0,
+                  "replies": []
+                },
+                {
+                  "id": "lznijjn",
+                  "author": "Dead3y3Duck",
+                  "body": "https://support.google.com/pixelphone/answer/4457705?hl=en\n\nLots of other products supported long term:\n\nhttps://support.google.com/product-documentation/answer/10231940?hl=en",
+                  "score": 0,
+                  "created_utc": 1732932908.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lzpriik",
+          "author": "divDevGuy",
+          "body": "That's not accurate and hasn't been for a number of years.\n\nPixel Fold and all 6 and 7 series Pixel phones are guaranteed a minimum of 3 years of Android version updates and 5 years of security updates from date of launch.\n\nAll Pixel 8 and 9 series phones get 7 years of both Android version and security updates from date of launch.\n\nEven once the hardware is no longer receiving updates, it still remains largely functional. It may not be as secure as possible, but after a couple years of updates at the OS version level it'll be frozen at, most of the critical bugs have been discovered and worked out. Most apps will continue to be updated and receive bug fixes and enhancements, including many Google apps. If it's a quality app, it should gracefully degrade functionality, if possible, when the OS or hardware doesn't support a desired function.\n\nIf you participate in high risk activities where you need a secure phone, you probably aren't relying on a 5+ year old cell phone. Not that the phone becomes obsolete, but the hardware wears out. Screens crack, buttons fail, batteries go bad, phone carrier network changes, etc. It just becomes not worth it to continue to repair, or unreliable to trust for daily activities.\n\nFor casual everyday usage for communications, web browsing, playing games, etc it's quite likely no more of a security issue than anything else in modern life.",
+          "score": -4,
+          "created_utc": 1732976608.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lzpd45z",
+      "author": "seanmorris",
+      "body": "What the fuck took the FTC so long on this? Its been going on for over a decade.",
+      "score": 2,
+      "created_utc": 1732969808.0,
+      "replies": []
+    },
+    {
+      "id": "lzoyj1r",
+      "author": "Direct_Bus3341",
+      "body": "Well then why call them smart",
+      "score": 1,
+      "created_utc": 1732960251.0,
+      "replies": []
+    },
+    {
+      "id": "lzp6jwd",
+      "author": "Fuzzy_Logic_4_Life",
+      "body": "We know",
+      "score": 1,
+      "created_utc": 1732965758.0,
+      "replies": []
+    },
+    {
+      "id": "lzrnlgs",
+      "author": "Bluehelix",
+      "body": "Hello r/homeassistant \u2764\ufe0f",
+      "score": 1,
+      "created_utc": 1732999666.0,
+      "replies": []
+    },
+    {
+      "id": "lzzk0ym",
+      "author": "Moses_Rockwell",
+      "body": "I remember there was a bill in the US Senate or House that would have mandated the standardization of low voltage power cords for a huge number of personal electronic devices. This idea was buried by the multiple industry lobbyists The Swiss, or the Finns iirc, had implemented this law well over ten years ago, and the benefit was immediate. Cellphones, headphones, speakers, all kinds of gadgets are powered by 5v DC power, and the same goes for the battery chargers for the litany of gadgets that use them. \n\nThe main reason for an iPhone and a Samsung (just one example, although quite a massive one) to have separate charging cords, and even different types for changing models, is to need, and have their respective owners pay for them separately. The waste of money and resources on this is just that\u2026.waste- on a scale that\u2019s hard to comprehend, and even harder to find much publicly available US material to begin to do so, for obvious rea$ons, of course.",
+      "score": 1,
+      "created_utc": 1733112971.0,
+      "replies": []
+    },
+    {
+      "id": "m000yy5",
+      "author": "sillylilkitty",
+      "body": "Of course they would.",
+      "score": 1,
+      "created_utc": 1733121560.0,
+      "replies": []
+    },
+    {
+      "id": "n3dwjs9",
+      "author": "kannur_kaaran",
+      "body": "I have a split AC with an app with features. The app doesn't work now after 4 years. Newer versions of the app do not supported the model. Older versions of the app do not connect to the server.\n\nThe question is, why do they need a server for an AC app?",
+      "score": 1,
+      "created_utc": 1752636892.0,
+      "replies": []
+    },
+    {
+      "id": "lzn46zo",
+      "author": "downtimeredditor",
+      "body": "If Trump wants my support he keeps Lina Khan on",
+      "score": -6,
+      "created_utc": 1732927085.0,
+      "replies": [
+        {
+          "id": "lznt3eg",
+          "author": "kkjdroid",
+          "body": "Trump would much prefer the support of unfathomably rich ghouls who want Khan drawn and quartered.",
+          "score": 11,
+          "created_utc": 1732937271.0,
+          "replies": [
+            {
+              "id": "m010e3d",
+              "author": "hindusoul",
+              "body": "\u201cSupport\u201d = Money laundered through loopholes or favors aka quid pro quo\u2026",
+              "score": 2,
+              "created_utc": 1733143643.0,
+              "replies": []
+            },
+            {
+              "id": "lzo25mx",
+              "author": "downtimeredditor",
+              "body": "Unfortunately true",
+              "score": 3,
+              "created_utc": 1732941122.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lzqyqkk",
+          "author": "sold_snek",
+          "body": "Let's be honest. If you're willing to still vote for him at this point at all, there's literally nothing he could now that you wouldn't still vote for him.",
+          "score": 2,
+          "created_utc": 1732991632.0,
+          "replies": [
+            {
+              "id": "lzte9bk",
+              "author": "downtimeredditor",
+              "body": "I didn't vote for him in the last 3 elections lol",
+              "score": 1,
+              "created_utc": 1733022550.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lzmmvg2",
+      "author": "herbzzman",
+      "body": "Ahhh\u2026the big Corporations trashing our beloved Earth and we can\u2019t do anything about it unless stop buying their products\u2026.",
+      "score": -5,
+      "created_utc": 1732920425.0,
+      "replies": []
+    },
+    {
+      "id": "lzn8aks",
+      "author": "Timetraveller4k",
+      "body": "I guess lawyers will find a way. The phone will be made by the company \u201ciPhone 20\u201d and will have perpetual support! Until it goes bankrupt in 3 years. Oh well\u2026",
+      "score": -5,
+      "created_utc": 1732928745.0,
+      "replies": []
+    }
+  ]
+}

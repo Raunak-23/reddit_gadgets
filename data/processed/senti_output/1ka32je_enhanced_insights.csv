@@ -1,0 +1,49 @@
+metric,value
+file,1ka32je.csv
+title,Samsung admits Galaxy devices can leak passwords through clipboard wormhole
+rows,137
+num_posts,1
+num_comments,136
+unique_authors,102
+max_depth,8
+avg_comment_words,50.19
+median_comment_words,42.5
+max_comment_words,171
+positive_count,14
+negative_count,122
+neutral_count,0
+positive_pct,10.294
+negative_pct,89.706
+neutral_pct,0.0
+topic_1_keywords,"clipboard, use, secure, password, samsung, keyboard, thats, cant"
+topic_1_label,samsung keyboard uses password
+topic_2_keywords,"samsung, use, keyboard, clipboard, cant, without, words, even"
+topic_2_label,"samsung uses keyboard, clipboard, cant and cant without words"
+topic_3_keywords,"password, use, get, access, login, risk, manager, bc"
+topic_3_label,passwords used by managers
+topic_4_keywords,"dont, use, iphone, really, work, third, party, unlike"
+topic_4_label,ipls don't work on third party
+topic_5_keywords,"also, android, biometrics, sms, well, phone, dont, may"
+topic_5_label,Android 's biometrics and sms are all useful for Android
+topic_6_keywords,"clipboard, access, app, got, card, bit, im, thats"
+topic_6_label,app for ipad
+top_ngram_1,use password (22)
+top_ngram_2,password manager (22)
+top_ngram_3,risk anyone (11)
+top_ngram_4,samsung keyboard (10)
+top_ngram_5,access clipboard (8)
+top_ngram_6,without jailbreaking (8)
+top_ngram_7,use password manager (8)
+top_ngram_8,password managers (8)
+top_ngram_9,use password managers (8)
+top_ngram_10,clipboard access (7)
+ner_1,Samsung|ORG|31
+ner_2,Android|MISC|19
+ner_3,iPhone|MISC|13
+ner_4,Microsoft|ORG|11
+ner_5,Apple|ORG|10
+ner_6,iOS|MISC|5
+ner_7,##dit|ORG|4
+ner_8,and|MISC|4
+ner_9,Red|MISC|4
+ner_10,Google|ORG|3

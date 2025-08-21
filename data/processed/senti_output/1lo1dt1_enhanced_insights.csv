@@ -1,0 +1,49 @@
+metric,value
+file,1lo1dt1.csv
+title,Legion Go S With SteamOS Review: The Only Real Alternative to Steam Deck
+rows,212
+num_posts,1
+num_comments,211
+unique_authors,141
+max_depth,10
+avg_comment_words,82.27
+median_comment_words,59.0
+max_comment_words,443
+positive_count,46
+negative_count,165
+neutral_count,0
+positive_pct,21.801
+negative_pct,78.199
+neutral_pct,0.0
+topic_1_keywords,"track, deck, pad, like, steam, legion, go, one"
+topic_1_label,steam and legion go on track
+topic_2_keywords,"xbox, one, buttons, use, layout, games, actually, steam"
+topic_2_label,xbox is a steam powered game
+topic_3_keywords,"windows, microsoft, get, xbox, sony, think, yeah, new"
+topic_3_label,"Windows, Microsoft, xbox, sony"
+topic_4_keywords,"games, better, higher, steam, screen, fps, deck, game"
+topic_4_label,"Steam, deck, game"
+topic_5_keywords,"like, deck, steam, games, go, steamdeck, thumb, pads"
+topic_5_label,Steam deck likes to go steamdeck
+topic_6_keywords,"dont, windows, really, people, handheld, one, like, steam"
+topic_6_label,Steam is a steam
+top_ngram_1,steam deck (86)
+top_ngram_2,legion go (37)
+top_ngram_3,rog ally (35)
+top_ngram_4,handheld windows (30)
+top_ngram_5,people really (28)
+top_ngram_6,really like (28)
+top_ngram_7,like handheld (28)
+top_ngram_8,people really like (28)
+top_ngram_9,really like handheld (28)
+top_ngram_10,like handheld windows (28)
+ner_1,Steam Deck|ORG|32
+ner_2,Legion|ORG|29
+ner_3,Ally|MISC|29
+ner_4,Sony|ORG|28
+ner_5,SteamDeck|MISC|27
+ner_6,SteamOS|MISC|26
+ner_7,Windows|MISC|24
+ner_8,Xbox|MISC|24
+ner_9,Microsoft|ORG|20
+ner_10,Linux|MISC|17

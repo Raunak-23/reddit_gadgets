@@ -1,0 +1,2888 @@
+{
+  "post": {
+    "title": "The \"USB killer\" is dead: Apple drops FireWire support in macOS 26",
+    "author": "diacewrb",
+    "id": "1lgsge7",
+    "score": 5327,
+    "created_utc": 1750497721.0,
+    "selftext": "",
+    "num_comments": 353,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1lgsge7/the_usb_killer_is_dead_apple_drops_firewire/"
+  },
+  "comments": [
+    {
+      "id": "myyniup",
+      "author": "bio4m",
+      "body": "Any Mac that still has Firewire ports wont be supported by the new MacOS anyway",
+      "score": 1653,
+      "created_utc": 1750499548.0,
+      "replies": [
+        {
+          "id": "myzbrkh",
+          "author": "ChocoJesus",
+          "body": "Right but they do specifically mention FireWire 800 to thunderbolt adapters don\u2019t work now \n\nDoesn\u2019t seem like a big deal and it isn\u2019t going to be for most. But I have a number of old enclosures that I could daisychain with FireWire 800 and since they were all hard disk drives, FireWire 800 was enough. No reason to switch over to a newer enclosure until now",
+          "score": 258,
+          "created_utc": 1750511363.0,
+          "replies": [
+            {
+              "id": "myzsljo",
+              "author": "fleemfleemfleemfleem",
+              "body": "I still have some miniDV tapes that I never got around to digitizing. I guess I had better get to it now.",
+              "score": 158,
+              "created_utc": 1750517380.0,
+              "replies": [
+                {
+                  "id": "mz1gi5j",
+                  "author": "zpoo32",
+                  "body": "Literally the only thing I've used FireWire for in my entire life is this actually. (also technically not digitising since it's already a digital format, DV stands for digital video)",
+                  "score": 38,
+                  "created_utc": 1750536558.0,
+                  "replies": [
+                    {
+                      "id": "mz20ynw",
+                      "author": "weedinmonz",
+                      "body": "Ingesting then i guess",
+                      "score": 11,
+                      "created_utc": 1750543438.0,
+                      "replies": [
+                        {
+                          "id": "mz66dv9",
+                          "author": "the_original_kermit",
+                          "body": "Yum",
+                          "score": 1,
+                          "created_utc": 1750607892.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mz31skj",
+                  "author": "Aware-Feed3227",
+                  "body": "Interesting how Apple gets you to re-open and transfer more stuff. I\u2019m pretty sure FireWire could have easily been supported.",
+                  "score": 6,
+                  "created_utc": 1750557014.0,
+                  "replies": [
+                    {
+                      "id": "mz6152u",
+                      "author": "myasterism",
+                      "body": "Yeah I\u2019m actually pretty salty about this.",
+                      "score": 4,
+                      "created_utc": 1750606288.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mzccbfc",
+                      "author": "DanTheMan827",
+                      "body": "Meanwhile, the Linux kernel still supports SCSI Zip drives",
+                      "score": 3,
+                      "created_utc": 1750691965.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz6ohov",
+                      "author": "UprightJoe",
+                      "body": "Meh, there will be third party solutions if enough need is out there. I bet there are already companies deciding whether or not to make new adapters and drivers.  It\u2019s pretty niche though at this point. I was briefly running an audio interface that was FW400->FW800->Thunderbolt->USB-C.  It was cool that it worked but having that many dongles strung together was a pain the butt.  If the cable got bumped around too much it would drop the connection and reconnect.  I retired the interface pretty soon after.  At some point things become obsolete.  I was running that setup about a decade ago and FireWire was already pretty much dead. I haven\u2019t purchased a FireWire device in at least 15 years.  I wouldn\u2019t expect to be able to connect a 1980\u2019s dot matrix printer via a parallel port to a modern Mac without spending some cash on hardware/software from a 3rd party.",
+                      "score": 3,
+                      "created_utc": 1750613374.0,
+                      "replies": [
+                        {
+                          "id": "mzh744m",
+                          "author": "GreggAlan",
+                          "body": "They won't. Just like nobody bothered to make USB 2.0 drivers for Mac OS 8.1 and 9.x.x.",
+                          "score": 1,
+                          "created_utc": 1750752719.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz511l0",
+                      "author": "jadedflames",
+                      "body": "It could be, and it has despite being obsolete for more than a decade. \n\nBut every new OS would require some testing (and thus cost) to make sure it didn\u2019t break FireWire. It makes sense to eventually say sorry to the hobbyists but that it\u2019s more trouble than it\u2019s worth to keep making things backwards compatible.",
+                      "score": 1,
+                      "created_utc": 1750593356.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mz283u9",
+                  "author": "retainftw",
+                  "body": "I had some of these from tapes I took from the late 2000s. Fortunately since they're digital, the transfer was pretty quick and easy. Each recording start/stop ended up as a single file.",
+                  "score": 1,
+                  "created_utc": 1750546012.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz77gzo",
+                  "author": "Wired0ne",
+                  "body": "This is why I keep a legacy machine (2012 i7) around for the occasional need for a CD/DVD or other conversion necessities.  I also have a bunch of miniDV\u2019s to convert!",
+                  "score": 1,
+                  "created_utc": 1750619084.0,
+                  "replies": [
+                    {
+                      "id": "mz77r9f",
+                      "author": "fleemfleemfleemfleem",
+                      "body": "Yeah, I might see if I can get a cheap firewire card and do it on my old windows desktop.",
+                      "score": 1,
+                      "created_utc": 1750619173.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mz69foy",
+                  "author": "RellyOhBoy",
+                  "body": "Save your time. It's already digital, buddy.",
+                  "score": 0,
+                  "created_utc": 1750608843.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz1nk2b",
+              "author": "None",
+              "body": "\\> Right but they do specifically mention FireWire 800 to thunderbolt adapters don\u2019t work now\n\nReally? That sucks. They came in handy for transfering DV video when I used to have a Canopus video capture device that strictly connected through FireWire.",
+              "score": 18,
+              "created_utc": 1750538879.0,
+              "replies": [
+                {
+                  "id": "mzb647o",
+                  "author": "P00slinger",
+                  "body": "Raptor or Storm?",
+                  "score": 1,
+                  "created_utc": 1750677304.0,
+                  "replies": [
+                    {
+                      "id": "mze4nd8",
+                      "author": "None",
+                      "body": "Not sure what you mean.\n\nI had a ADVC-55. It's just a little box that could take in S-Video and Composite and turn it into DV video through FireWire.",
+                      "score": 2,
+                      "created_utc": 1750710079.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mz1s043",
+              "author": "ClumsyRainbow",
+              "body": "Yeah, some people still use a chain of adapters to use old film scanners and such - and that won't be an option on macOS any more.",
+              "score": 11,
+              "created_utc": 1750540349.0,
+              "replies": []
+            },
+            {
+              "id": "mz1m0jw",
+              "author": "obi1kenobi1",
+              "body": "There goes compatibility with early iPods. \n\nI mean no self-respecting person would use Music to sync an iPod anyway, anyone with a decent library is still dual-booting Mojave for the last version of real iTunes because the newer applications are garbage for managing an offline media library. But iPods are now a hip retro throwback trend and lots of people are discovering they still work, but early models (which have the most hipster cred) were FireWire-only.",
+              "score": 23,
+              "created_utc": 1750538370.0,
+              "replies": [
+                {
+                  "id": "mz2m6zp",
+                  "author": "twaxana",
+                  "body": "You don't just have a PowerBook G4 laying around running macos 10.5?\n\nFor shame.",
+                  "score": 11,
+                  "created_utc": 1750551144.0,
+                  "replies": [
+                    {
+                      "id": "mz3g2lb",
+                      "author": "obi1kenobi1",
+                      "body": "Of course I do, but my iTunes library also has 1080p Blu-Ray rips being served to my AppleTV and iPad so I need the latest and greatest version for my main library.",
+                      "score": 2,
+                      "created_utc": 1750562687.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mz2w4ct",
+                  "author": "Shabbypenguin",
+                  "body": "i hated it was firewire. i was a teen and my computer only had usb. had to borrow my uncles laptop to sync music, he only would come over once every 2-3 months.",
+                  "score": 1,
+                  "created_utc": 1750554853.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz77z9f",
+                  "author": "Wired0ne",
+                  "body": "Have you used Imazing?  Much easier, better alternative to iTunes.",
+                  "score": 1,
+                  "created_utc": 1750619243.0,
+                  "replies": []
+                },
+                {
+                  "id": "mzbv39p",
+                  "author": "parisidiot",
+                  "body": "> but early models (which have the most hipster cred) were FireWire-only.\n\nhmmm i think most people are rocking the last gen ipod. i haven't seen a firewire ipod in 20 years.",
+                  "score": 1,
+                  "created_utc": 1750686860.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz2s7nc",
+              "author": "rodan-rodan",
+              "body": "I have quasi high end audio interfaces that are still work horses... On FireWire. \ud83d\ude1e",
+              "score": 5,
+              "created_utc": 1750553391.0,
+              "replies": []
+            },
+            {
+              "id": "mz3d2dd",
+              "author": "ilikeweekends2525",
+              "body": "Yes the adapters won\u2019t work",
+              "score": 1,
+              "created_utc": 1750561434.0,
+              "replies": []
+            },
+            {
+              "id": "mz3r80x",
+              "author": "_dekoorc",
+              "body": "There's also a lot of TB3 docks out there that have a FW800 port. I was rocking one until I wanted to upgrade beyond GbE.",
+              "score": 1,
+              "created_utc": 1750567733.0,
+              "replies": []
+            },
+            {
+              "id": "mz4mpx1",
+              "author": "rfc2549-withQOS",
+              "body": "Linux.\n\nhttps://www.tomshardware.com/news/linux-to-support-firewire-until-2029",
+              "score": 1,
+              "created_utc": 1750585629.0,
+              "replies": []
+            },
+            {
+              "id": "myzo41d",
+              "author": "shadowtheimpure",
+              "body": "![gif](giphy|Su2sbMzV3acMXc6pDi)",
+              "score": -6,
+              "created_utc": 1750515904.0,
+              "replies": [
+                {
+                  "id": "mz1bbn8",
+                  "author": "Enchelion",
+                  "body": "No longer supporting an entirely obsolete interface standard in a new software release is hardly an example of greed (there are plenty good examples).",
+                  "score": 1,
+                  "created_utc": 1750534846.0,
+                  "replies": [
+                    {
+                      "id": "mz1l69g",
+                      "author": "SoftlySpokenPromises",
+                      "body": "Yeah, this is just capitulation to what the average user wants.  Same thing  they did with lightning chargers after the EU ruling.",
+                      "score": 0,
+                      "created_utc": 1750538094.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mz4rxch",
+              "author": "catify",
+              "body": "TB or USB adapters will convert the signal, so the Mac uses Thunderbolt or USB drivers.\n\nAka they should still work.",
+              "score": 0,
+              "created_utc": 1750588697.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myypg51",
+          "author": "ArdiMaster",
+          "body": "This very likely means you won\u2019t be able to use Thunderbolt FireWire dongles anymore, either.",
+          "score": 270,
+          "created_utc": 1750500702.0,
+          "replies": [
+            {
+              "id": "myywrnk",
+              "author": "ElectronicMoo",
+              "body": "It said that right in the article, didn't it? Or are we talking about a different OS than the one in the article?",
+              "score": 127,
+              "created_utc": 1750504744.0,
+              "replies": [
+                {
+                  "id": "myzc5b4",
+                  "author": "trickman01",
+                  "body": "You think redditors read the article?",
+                  "score": 157,
+                  "created_utc": 1750511514.0,
+                  "replies": [
+                    {
+                      "id": "myzi85o",
+                      "author": "Sagybagy",
+                      "body": "Wait, there was an article? /s",
+                      "score": 40,
+                      "created_utc": 1750513842.0,
+                      "replies": [
+                        {
+                          "id": "mz1gslo",
+                          "author": "ghandi3737",
+                          "body": "I thought we were discussing the westward expansion and how it related to 'Oregon Trail'.",
+                          "score": 10,
+                          "created_utc": 1750536652.0,
+                          "replies": [
+                            {
+                              "id": "mze0vpu",
+                              "author": "WI_Eagles_Fan",
+                              "body": "I died of Dysentery",
+                              "score": 2,
+                              "created_utc": 1750709004.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "myzfo5n",
+                      "author": "Westerdutch",
+                      "body": "> You think redditors read ~~the article~~?\n\nftfy",
+                      "score": 15,
+                      "created_utc": 1750512877.0,
+                      "replies": [
+                        {
+                          "id": "mz1gus2",
+                          "author": "ghandi3737",
+                          "body": "TLDR?",
+                          "score": 3,
+                          "created_utc": 1750536673.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mz18s4u",
+                          "author": "blue-coin",
+                          "body": "> You think Redditors bathe ~~read~~?",
+                          "score": 1,
+                          "created_utc": 1750533987.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz15y87",
+                      "author": "tnnrk",
+                      "body": "I\u2019m surprised Reddit doesn\u2019t just give us a paragraph summary of the linked article right at the top since no one fucking clicks them anyway. They seem to be going down the AI path already.",
+                      "score": 5,
+                      "created_utc": 1750533041.0,
+                      "replies": [
+                        {
+                          "id": "mz1xh2t",
+                          "author": "TheAspiringFarmer",
+                          "body": "Probably coming soon I'd guess.",
+                          "score": 1,
+                          "created_utc": 1750542228.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "myzqe2y",
+                  "author": "ThePortalsOfFrenzy",
+                  "body": "Yes, it did. These users are speculating about information that can be answered with a click.",
+                  "score": 14,
+                  "created_utc": 1750516656.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myz7cc6",
+          "author": "jamisonbaines",
+          "body": "my 2012 thunderbolt display and 2005 traktor dj interface will shed a tear",
+          "score": 35,
+          "created_utc": 1750509587.0,
+          "replies": []
+        },
+        {
+          "id": "mz0vgvn",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 25,
+          "created_utc": 1750529630.0,
+          "replies": [
+            {
+              "id": "mz106wo",
+              "author": "caerphoto",
+              "body": "> Instantly, hundreds of millions of dollars of equipment all across the world will no longer function.\n\nOnly if they update the Macs to the new OS. That can just\u2026 not do that.",
+              "score": 18,
+              "created_utc": 1750531154.0,
+              "replies": [
+                {
+                  "id": "mz1bodk",
+                  "author": "FrogTosser",
+                  "body": "Not that easy, for example Logic will eventually require users to be on a certain version of MacOS. This stinks.",
+                  "score": 15,
+                  "created_utc": 1750534965.0,
+                  "replies": [
+                    {
+                      "id": "mz3k4yv",
+                      "author": "BenevolentCheese",
+                      "body": "Don't update Logic...",
+                      "score": 1,
+                      "created_utc": 1750564457.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mz1dh6l",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 10,
+                  "created_utc": 1750535565.0,
+                  "replies": [
+                    {
+                      "id": "mz3kgk4",
+                      "author": "BenevolentCheese",
+                      "body": "Since when does old hardware *ever* get updated with new software forever? Old hardware becomes archaic and you have to jump through hoops to use it. That's how it is and that's how it's always been. Anyone who was hanging onto firewire thinking they had lifetime software support ahead of them was an idiot. Tech has been dead for ages and this was inevitable.",
+                      "score": 1,
+                      "created_utc": 1750564599.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mz3iuvk",
+              "author": "Kered13",
+              "body": "> It will be a huge hit if Apple drops support. Instantly, hundreds of millions of dollars of equipment all across the world will no longer function.\n\nThen they shouldn't have picked Mac in the first place. Apple has always been dog shit at backwards compatibility. If you want backwards compatibility, you use Windows or Linux",
+              "score": 1,
+              "created_utc": 1750563895.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myzd0qd",
+          "author": "IMovedYourCheese",
+          "body": "It's about the protocol, not the hardware. You could use FireWire to USB adapters just fine on any Mac, but those won't work anymore.",
+          "score": 9,
+          "created_utc": 1750511855.0,
+          "replies": [
+            {
+              "id": "mz46j51",
+              "author": "waloshin",
+              "body": "FireWire to usb never existed! FireWire to Thunderbolt you mean?",
+              "score": 5,
+              "created_utc": 1750575914.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mz44zsg",
+          "author": "sparkyblaster",
+          "body": "If only there was adapters to get firewire.\u00a0\n\n\nOh wait, there is. Pcie cards for the Mac pro or Thunderbolt adaptors for everything else.\u00a0",
+          "score": 1,
+          "created_utc": 1750575051.0,
+          "replies": []
+        },
+        {
+          "id": "mz46czp",
+          "author": "waloshin",
+          "body": "What about the FireWire to Thunderbolt?",
+          "score": 1,
+          "created_utc": 1750575817.0,
+          "replies": []
+        },
+        {
+          "id": "mz4dfm6",
+          "author": "OMGItsCheezWTF",
+          "body": "You mean I can't run Sonoma on my Powerbook G4 Titanium?",
+          "score": 1,
+          "created_utc": 1750579985.0,
+          "replies": []
+        },
+        {
+          "id": "mz07bds",
+          "author": "TheSupremeDictator",
+          "body": "some use OpenCore Legacy Patcher, and may have problems\n\nAlthough I don't think anyone really uses FireWire anymore",
+          "score": -2,
+          "created_utc": 1750522073.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myyrscv",
+      "author": "CptUnderpants-",
+      "body": "Firewire would have been peripheral utopia, but in 1999 Jobs decided to start charging $1 per port. Intel was about to release their first chipset with native firewire at that point and was so pissed they delayed it to remove firewire.\n\n[More here. ](https://arstechnica.com/gadgets/2017/06/the-rise-and-fall-of-firewire-the-standard-everyone-couldnt-quite-agree-on/)",
+      "score": 1210,
+      "created_utc": 1750502076.0,
+      "replies": [
+        {
+          "id": "mz045wh",
+          "author": "cataath",
+          "body": "Apple taking a page from the Sony playbook. You could write a tech history book on all of the \"second best\" devices, features, and formats that became the industry standard because of Sony licensing.",
+          "score": 172,
+          "created_utc": 1750521070.0,
+          "replies": []
+        },
+        {
+          "id": "myz8g57",
+          "author": "NonEuclidianMeatloaf",
+          "body": "Alas, such is the cause of death of so many otherwise superior technological solutions. Just look at Betamax and Minidisc. Heck, it almost killed BluRay; I firmly believe that if Sony hadn\u2019t had the inertia of the PS3 driving early adoption high, BluRay would\u2019ve suffered the same fate and we\u2019d all be using some form of HD-DVD throughout the 2010s.",
+          "score": 435,
+          "created_utc": 1750510037.0,
+          "replies": [
+            {
+              "id": "myzfyfe",
+              "author": "masorick",
+              "body": "Look up The video by Technology Connection on  youtube to have a more nuanced take on why Beta lost to VHS.",
+              "score": 218,
+              "created_utc": 1750512987.0,
+              "replies": [
+                {
+                  "id": "myzvdj5",
+                  "author": "Rion23",
+                  "body": "Don't do it man, you'll end up watching 5 different videos about dishwashers.",
+                  "score": 353,
+                  "created_utc": 1750518282.0,
+                  "replies": [
+                    {
+                      "id": "myzwe6u",
+                      "author": "Worn_Out_1789",
+                      "body": "The pinball machine video is fascinating, and he explains it so well.",
+                      "score": 102,
+                      "created_utc": 1750518611.0,
+                      "replies": [
+                        {
+                          "id": "mz07hgp",
+                          "author": "Lusankya",
+                          "body": "But first, we need to explain the refrigeration cycle.",
+                          "score": 95,
+                          "created_utc": 1750522127.0,
+                          "replies": [
+                            {
+                              "id": "mz0dxs4",
+                              "author": "Andrevus2",
+                              "body": "And how it connects to heat pumps.",
+                              "score": 63,
+                              "created_utc": 1750524181.0,
+                              "replies": [
+                                {
+                                  "id": "mz0wouw",
+                                  "author": "Space_Lux",
+                                  "body": "I hear it in his voice",
+                                  "score": 25,
+                                  "created_utc": 1750530020.0,
+                                  "replies": [
+                                    {
+                                      "id": "mz20hmr",
+                                      "author": "SuperPimpToast",
+                                      "body": "*smooth jazz outro plays*",
+                                      "score": 16,
+                                      "created_utc": 1750543270.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "mz28af6",
+                                      "author": "mattmaster68",
+                                      "body": "I don\u2019t know who any of you are talking about *but I am drawn to him*.",
+                                      "score": 11,
+                                      "created_utc": 1750546079.0,
+                                      "replies": [
+                                        {
+                                          "id": "mz773n8",
+                                          "author": "Andrevus2",
+                                          "body": "Look up Technology Connections on Youtube.",
+                                          "score": 2,
+                                          "created_utc": 1750618970.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mz1rt2t",
+                          "author": "TheOneTrueTrench",
+                          "body": "Which one, there are a couple",
+                          "score": 2,
+                          "created_utc": 1750540284.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz072vb",
+                      "author": "Narcopolypse",
+                      "body": "*Do it man, you'll end up watching 5 different incredibly fascinating videos about dishwashers that will convert you into a \"how to properly use a dishwasher\" missionary.",
+                      "score": 61,
+                      "created_utc": 1750521999.0,
+                      "replies": [
+                        {
+                          "id": "mzh7fc6",
+                          "author": "GreggAlan",
+                          "body": "And you'll be hunting for a good old Sunbeam automatic toaster on eBay.",
+                          "score": 2,
+                          "created_utc": 1750752908.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz0d623",
+                      "author": "A_Puddle",
+                      "body": "The dishwasher video literally changed me. I previously always hand washed dishes and at best used dishwashers as drying racks. After the dishwasher saga I was a changed man. I only buy the boxed detergent now too.\u00a0",
+                      "score": 41,
+                      "created_utc": 1750523936.0,
+                      "replies": [
+                        {
+                          "id": "mz19y61",
+                          "author": "Doctor_President",
+                          "body": "May you forever be blessed with midwestern frugality.",
+                          "score": 16,
+                          "created_utc": 1750534381.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "myzyarm",
+                      "author": "kayyo2",
+                      "body": "And will enjoy it.",
+                      "score": 30,
+                      "created_utc": 1750519219.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz0awz9",
+                      "author": "wiewior_",
+                      "body": "Or 10 diffrent videos where he explains refrigeration cycle of fridge or Air Conditioner/ heat pump",
+                      "score": 20,
+                      "created_utc": 1750523214.0,
+                      "replies": [
+                        {
+                          "id": "mz0sgsi",
+                          "author": "Coffee_Crisis",
+                          "body": "This is useful information",
+                          "score": 7,
+                          "created_utc": 1750528679.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz0l5rf",
+                      "author": "VulcanHullo",
+                      "body": "And then develope strong opinions on dishwasher powder, and start on a deep beef regarding Heat Pumps and AC being sold seperately.",
+                      "score": 17,
+                      "created_utc": 1750526421.0,
+                      "replies": [
+                        {
+                          "id": "mz1jrbw",
+                          "author": "Rion23",
+                          "body": "I suddenly have strong opinions about oil lamps.",
+                          "score": 4,
+                          "created_utc": 1750537628.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz06szt",
+                      "author": "Demiurge12",
+                      "body": "Still time went spent, honestly.",
+                      "score": 8,
+                      "created_utc": 1750521912.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz0k13r",
+                      "author": "iFartBubbles",
+                      "body": "Microwave video completely changed how I use it",
+                      "score": 5,
+                      "created_utc": 1750526074.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz1t2b0",
+                      "author": "TheOneTrueTrench",
+                      "body": "Sometimes I just want to spend 30 minutes and watch a video on some useful but oft overlooked piece of technology, but you can't just watch one video about something on his channel, because through the magic of making two of them...",
+                      "score": 6,
+                      "created_utc": 1750540708.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz2s37d",
+                      "author": "Redbird9346",
+                      "body": "You might catch the one about how amber rear turn signals are better and why more American auto manufacturers should install them in their vehicles.",
+                      "score": 3,
+                      "created_utc": 1750553345.0,
+                      "replies": [
+                        {
+                          "id": "mz4i7ou",
+                          "author": "Piscesdan",
+                          "body": "You don't have those?",
+                          "score": 1,
+                          "created_utc": 1750582870.0,
+                          "replies": [
+                            {
+                              "id": "mz5t9ac",
+                              "author": "Redbird9346",
+                              "body": "[Alec explains it better than I can](https://youtu.be/O1lZ9n2bxWA).",
+                              "score": 1,
+                              "created_utc": 1750603843.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz1dd7m",
+                      "author": "SirHerald",
+                      "body": "Through the magic of clicking on five of them",
+                      "score": 2,
+                      "created_utc": 1750535528.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz389v1",
+                      "author": "jpStormcrow",
+                      "body": "And that's a...bad thing?",
+                      "score": 2,
+                      "created_utc": 1750559513.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz4et1u",
+                      "author": "Limelight_019283",
+                      "body": "And then another 10 on heat pumps",
+                      "score": 1,
+                      "created_utc": 1750580811.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz5svqg",
+                      "author": "savingewoks",
+                      "body": "And refrigerators!",
+                      "score": 1,
+                      "created_utc": 1750603725.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mzctjlf",
+                      "author": "pandaSmore",
+                      "body": "And refrigeration loops",
+                      "score": 1,
+                      "created_utc": 1750696834.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz06jex",
+                      "author": "ThePr0vider",
+                      "body": "all of them ill informed because in the end he asks a german manufacturer of dishwashers what he should do with prewash detergent and they told him normal dishwashers don't need it  because they can actually heat themselves and aren't sink attached",
+                      "score": -2,
+                      "created_utc": 1750521826.0,
+                      "replies": [
+                        {
+                          "id": "mz15nz6",
+                          "author": "NSMike",
+                          "body": "...What?  He specifically addresses the differences between EU and US dishwashers in his first video.",
+                          "score": 5,
+                          "created_utc": 1750532947.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mz0yghy",
+                  "author": "sayten",
+                  "body": "The video on Christmas lights being garbage now was fantastic. Very well articulated my grievances with modern Christmas lighting.",
+                  "score": 17,
+                  "created_utc": 1750530592.0,
+                  "replies": [
+                    {
+                      "id": "mz10jo2",
+                      "author": "caerphoto",
+                      "body": "But times have changed and he has found the Holy Grail of LED Christmas lights now!",
+                      "score": 6,
+                      "created_utc": 1750531270.0,
+                      "replies": [
+                        {
+                          "id": "mz1ii44",
+                          "author": "gramathy",
+                          "body": "all hail Tru-Tone, savior of aesthetically pleasing holiday lights",
+                          "score": 6,
+                          "created_utc": 1750537216.0,
+                          "replies": [
+                            {
+                              "id": "mz2zc65",
+                              "author": "MarsAgainstVenus",
+                              "body": "[There\u2019s a new kid on the block. Vintaglo!](https://youtu.be/qSFNufruSKw)",
+                              "score": 1,
+                              "created_utc": 1750556067.0,
+                              "replies": [
+                                {
+                                  "id": "mz4dj1j",
+                                  "author": "gramathy",
+                                  "body": "Different use case! The tru-tones are for outdoor house lights. Good for both companies for getting it right",
+                                  "score": 2,
+                                  "created_utc": 1750580043.0,
+                                  "replies": [
+                                    {
+                                      "id": "mz6n1qg",
+                                      "author": "sayten",
+                                      "body": "It\u2019s going to take me years to buy enough new sets to replace my old but looks like they finally have it correct. Now to spread it far and wide cause the world needs to do the same and save neighborhood displays from eye bleed.",
+                                      "score": 1,
+                                      "created_utc": 1750612958.0,
+                                      "replies": [
+                                        {
+                                          "id": "mz6xj1r",
+                                          "author": "gramathy",
+                                          "body": "Honestly I found a string of dual-mode (white or colored) lights at costco that are good enough as tree lights, and the (I think Sylvania) larger c9 lights from costco aren't terrible, though the colors are a little off.",
+                                          "score": 1,
+                                          "created_utc": 1750616025.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "myzxina",
+                  "author": "Deadfish211",
+                  "body": "Beta was objectively worse, people need to get over this revisionism that it was better. Alec does a good job of explaining why.",
+                  "score": 37,
+                  "created_utc": 1750518973.0,
+                  "replies": [
+                    {
+                      "id": "mz3cumw",
+                      "author": "ExtruDR",
+                      "body": "Not being able to hold a full movie on a single tape was the dealbreaker or decider, I think.",
+                      "score": 6,
+                      "created_utc": 1750561344.0,
+                      "replies": [
+                        {
+                          "id": "mz3wont",
+                          "author": "BadUsername_Numbers",
+                          "body": "It's really odd to me that they just didn't design it so that the tapes were a bit larger.",
+                          "score": 5,
+                          "created_utc": 1750570488.0,
+                          "replies": [
+                            {
+                              "id": "mz585yq",
+                              "author": "ExtruDR",
+                              "body": "True.  I\u2019m sure that their rationale has been documented and the information is available, but I\u2019m just going to make my guess, which is that they probably thought that most people would only record TV shows.",
+                              "score": 3,
+                              "created_utc": 1750596445.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mz2slal",
+                      "author": "dapala1",
+                      "body": "> Beta was objectively worse\n\nAnother Reddit use misuse of the word objectively.\n\nBetamax was better, much much better quality. But it cost a bit more and VHS has the option to for longer videos at much lower quality. It was not \"objectively\" better. The market wanted less quality for price and versatility, that's all.",
+                      "score": 7,
+                      "created_utc": 1750553531.0,
+                      "replies": [
+                        {
+                          "id": "mz3gq4g",
+                          "author": "blanketstatement",
+                          "body": "The difference in quality was a theoretical 40 lines of resolution at most, but more often than not it was about a real-world difference of 10 lines. That's not \"much\" better at all. Whereas VHS could hold 2x the footage while only sacrificing 10 lines of resolution. How is that not objectively better?\n\nSometimes I think people get confused when someone just says \"Beta\" because for some they default that to Betamax and others default to Betacam, and the latter is inarguably better than VHS in every metric.",
+                          "score": 5,
+                          "created_utc": 1750562966.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mz43hd8",
+                  "author": "BipedalWurm",
+                  "body": "Tropic Thunder taught me that porn tipped the scales in favor of VHS",
+                  "score": 1,
+                  "created_utc": 1750574195.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz0wrto",
+              "author": "xXgreeneyesXx",
+              "body": "Actually Minidisc breaks the usual mold for Sony products and, outside of the US, was actually fairly successful in Europe and Australia, and was *incredibly* successful in Japan, hell they only stopped making minidiscs *this year*. Unlike most of the usual Sony proprietary format shenanigans, they let other people license the format for relatively cheap, leading to a large ecosystem of third party discs and players.",
+              "score": 20,
+              "created_utc": 1750530047.0,
+              "replies": [
+                {
+                  "id": "mz1hoyn",
+                  "author": "kermityfrog2",
+                  "body": "There's even a revival now that we can use Web Minidisc Pro to write to NetMD discs instead of the crappy SonicStage software.",
+                  "score": 12,
+                  "created_utc": 1750536950.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz3m4wt",
+                  "author": "davidjschloss",
+                  "body": "I worked at Sony when the MD was released and Japan was certain it would be a big hit in the US as it was taking off in Japan. \n\nThe consensus around the US people I talked to was that it wasn\u2019t going to take hold in the US. IIRC the big issue was not the format itself but not being able to rip music from CDs onto MD. MD had the potential to be a lot more durable than CD for portability. \n\nI also think you couldn\u2019t record external audio digitally (again IIRC) and that a lot of audio engineers had wanted that.  \n\nI just remember the US staff at the music and device divisions being really pessimistic.",
+                  "score": 3,
+                  "created_utc": 1750565351.0,
+                  "replies": [
+                    {
+                      "id": "mz6bljy",
+                      "author": "xXgreeneyesXx",
+                      "body": "yeah the RIAA can probably be held atleast partly responsible for MD and DCC(and probably DAT before that) doing so poorly. You can rip music from a CD onto a MD, as a first generation copy, but not as a second generation copy per SCMS. I know in Japan it was common to rent a CD, burn it to a MD, and then return the CD, which, wasn't how people used MD in the US, treating it closer to records and CDs than the tape it was supposed to replace. Terrible as a prerecorded format, wonderful recordable format.",
+                      "score": 2,
+                      "created_utc": 1750609509.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "myzgqtz",
+              "author": "Justinat0r",
+              "body": "> HD-DVD\n\nStill so mad I bought an HD-DVD player",
+              "score": 44,
+              "created_utc": 1750513289.0,
+              "replies": [
+                {
+                  "id": "mz0qef9",
+                  "author": "tatiwtr",
+                  "body": "I spent $500 on a player in 2007. Best Buy sent me a $50 gift card several years later as a consolation prize.... so I've got that going for me.\n\nI ewasted it last year after having not plugged it in for 15 years.",
+                  "score": 10,
+                  "created_utc": 1750528039.0,
+                  "replies": []
+                },
+                {
+                  "id": "myzsipi",
+                  "author": "Searchforcourage",
+                  "body": "Still glad I didn't buy Beta Max",
+                  "score": 10,
+                  "created_utc": 1750517354.0,
+                  "replies": []
+                },
+                {
+                  "id": "myzwdm9",
+                  "author": "brakeb",
+                  "body": "I bought a player that could read both formats... We had the Mummy in HDDVD and planet Earth on Blu-ray",
+                  "score": 3,
+                  "created_utc": 1750518606.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz0baxl",
+                  "author": "LordGAD",
+                  "body": "I still have mine and the eight HD-DVDs I got with it. All long since torrented, but the sunk cost fallacy is a powerful thing.\u00a0",
+                  "score": 3,
+                  "created_utc": 1750523340.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz0hpns",
+                  "author": "Agreeable-Weather-89",
+                  "body": "I bought a HD-VMD player so don't feel too bad.",
+                  "score": 1,
+                  "created_utc": 1750525355.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz2gedn",
+                  "author": "OrochiKarnov",
+                  "body": "Aw, you said his head was the size of a baseball.",
+                  "score": 1,
+                  "created_utc": 1750549015.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz3ku65",
+                  "author": "BenevolentCheese",
+                  "body": "I never felt too bad about it. They were significantly cheaper than Blu-ray, so much so that the PS3 was for a long time the cheapest Blu-ray player at $400. HD-DVD could be found under $200 from launch. It was better tech, but it didn't have the support.",
+                  "score": 1,
+                  "created_utc": 1750564766.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz0njf6",
+              "author": "Dramatic_Explosion",
+              "body": "Had a mini disc player in highschool. The size of an OG iPod, rechargeable battery, cool peripherals, displayed track data on the in-line remote, and it didn't skip!\n\nI was always blown away it failed so hard.",
+              "score": 17,
+              "created_utc": 1750527156.0,
+              "replies": [
+                {
+                  "id": "mz0rsgr",
+                  "author": "NonEuclidianMeatloaf",
+                  "body": "I loved my minidisc player so much\u2026",
+                  "score": 7,
+                  "created_utc": 1750528471.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz2swwl",
+                  "author": "Redbird9346",
+                  "body": "It was sadly too late to market.",
+                  "score": 2,
+                  "created_utc": 1750553652.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz3xtth",
+                  "author": "C-C-X-V-I",
+                  "body": "It only failed in the US.  They only stopped production in Japan a year or two ago",
+                  "score": 1,
+                  "created_utc": 1750571097.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz5n5yz",
+                  "author": "KananX",
+                  "body": "Mini disc didn\u2019t fail it was replaced by mp3 like anything else.",
+                  "score": 1,
+                  "created_utc": 1750601888.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz0s5fb",
+              "author": "killerbake",
+              "body": "Mini disc is always the future",
+              "score": 6,
+              "created_utc": 1750528582.0,
+              "replies": []
+            },
+            {
+              "id": "mz0o173",
+              "author": "pixelbart",
+              "body": "Didn\u2019t most people use neither?",
+              "score": 4,
+              "created_utc": 1750527309.0,
+              "replies": []
+            },
+            {
+              "id": "myzzmuz",
+              "author": "Stillwater215",
+              "body": "There\u2019s always a balance between performance and accessibility. A new technology which is an improvement will fail over one that is okay, but easily accessible.",
+              "score": 2,
+              "created_utc": 1750519640.0,
+              "replies": []
+            },
+            {
+              "id": "mz0e30t",
+              "author": "BUNNIES_ARE_FOOD",
+              "body": "WERE YOU TALKING TO ME THIS WHOLE TIME??",
+              "score": 1,
+              "created_utc": 1750524227.0,
+              "replies": []
+            },
+            {
+              "id": "mz1rriu",
+              "author": "ElectronRotoscope",
+              "body": "Robertson screws \ud83d\ude22",
+              "score": 1,
+              "created_utc": 1750540270.0,
+              "replies": [
+                {
+                  "id": "mz2ub31",
+                  "author": "NonEuclidianMeatloaf",
+                  "body": "Truly a source of Canadian shame",
+                  "score": 1,
+                  "created_utc": 1750554169.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz2po8m",
+              "author": "Programmdude",
+              "body": "By the time Bluray came out, I was just watching all my media on the computer anyway.\n\nThough sadly bluray & dvd both had license fees - or at least their video playback did, but were still the dominant portable media format used in their generations. So not much different to what firewire did.",
+              "score": 1,
+              "created_utc": 1750552444.0,
+              "replies": []
+            },
+            {
+              "id": "mz46vp1",
+              "author": "suitopseudo",
+              "body": "Pre iPods, I LOVED my mini disc player.",
+              "score": 1,
+              "created_utc": 1750576115.0,
+              "replies": []
+            },
+            {
+              "id": "mza31rk",
+              "author": "TheTjalian",
+              "body": "Don't forget UMDs, they could have quite easily been the format of choice for portable movie players.",
+              "score": 1,
+              "created_utc": 1750655480.0,
+              "replies": []
+            },
+            {
+              "id": "myzcb9o",
+              "author": "AgamemnonNM",
+              "body": "I always thought it was porn? \n\nBetamax was the superior medium, but the porn industry used VHS, so....VHS became the standard. \n\nThen, Blu Ray vs HD-DVD. The porn industry used both early on, but veered towards primarily Blu Ray, thusly, Blu-Ray won out.",
+              "score": -13,
+              "created_utc": 1750511579.0,
+              "replies": [
+                {
+                  "id": "myzcqxa",
+                  "author": "ScotTheDuck",
+                  "body": "The porn thing is a myth.  Beta\u2019s original sin came from the fact that it could only do 90 minutes per tape at its original recording speed.  VHS, by comparison, started at 2 hours at SP speed, and when it came stateside, got a 4 hour LP mode that let you put an entire football game on one tape.  By the time distributed content was even a thing on tape, VHS had pretty much already won the war.",
+                  "score": 68,
+                  "created_utc": 1750511748.0,
+                  "replies": [
+                    {
+                      "id": "myzpu6h",
+                      "author": "AbeLincolns_Ghost",
+                      "body": "Yeah as Technology Connections talks about, VHS and BetaMax were not originally focused on pre-recorded movies/TV shows. They were all for recording TV at home sort of like a DVR (TiVo) would be in the future. Tapes were really expensive originally which was fine for 1-2 to record with but not to buy a bunch of movies. \n\nPorn wasn\u2019t a major part of the market at first for the same reasons. Betamax effectively already died before prerecorded content became a major part of the videotape player experience",
+                      "score": 15,
+                      "created_utc": 1750516475.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "myzj6sk",
+                  "author": "hamlet9000",
+                  "body": "It turns out \"being able to put a full movie on a tape\" and \"cheaper\" were more important features for most people than \"333 x 486 resolution instead of 320 x 486 resolution.\"",
+                  "score": 30,
+                  "created_utc": 1750514193.0,
+                  "replies": [
+                    {
+                      "id": "mz07ykx",
+                      "author": "Demiurge12",
+                      "body": "There are no people who are like \"I want to watch TV in the most pristine 8k and 33 million pixels\" and there are other people who are like \"I'm watching a 36 inch non-HD TV from across the room while rubbing my wife's feet and also playing a mobile game on my phone and running episodes of Forensic Files on Pluto TV as background noise.\"\n\nI'll take the cheaper stuff any day of the week.",
+                      "score": 3,
+                      "created_utc": 1750522278.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "myzcz4s",
+                  "author": "flac_rules",
+                  "body": "That is the story that is often told, isn't much that supports it based on what i have researched. Especially not for blu-ray",
+                  "score": 10,
+                  "created_utc": 1750511838.0,
+                  "replies": []
+                },
+                {
+                  "id": "myzju2j",
+                  "author": "BooBeeAttack",
+                  "body": "I vaguely recall this conversation in the movie \"Clerks\" maybe \"Clerks 2\"?",
+                  "score": 3,
+                  "created_utc": 1750514426.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz0dufu",
+              "author": "danpritts",
+              "body": "Bluray won because Sony paid Toshiba some huge sum to stop making hd dvd.",
+              "score": 0,
+              "created_utc": 1750524152.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myyzzlh",
+          "author": "StaryNayt",
+          "body": "Fascinating read. Thanks!",
+          "score": 36,
+          "created_utc": 1750506319.0,
+          "replies": []
+        },
+        {
+          "id": "mz199cs",
+          "author": "hardypart",
+          "body": "Interesting article, definitely worth the read. Strange thing at the end, though:\n\n> USB 2.0 has given way to the much faster USB 3.0, which is now being replaced by USB-C\u2014a standard being led and championed by Apple.\n\nUSB C is the port, not the transmission standard, and Apple was forced by the EU to adopt it.\n\nWhat gives?",
+          "score": 46,
+          "created_utc": 1750534148.0,
+          "replies": [
+            {
+              "id": "mz1cuxw",
+              "author": "dagmx",
+              "body": "Apple was involved with the creation of usb-c, and an early adopter for computers even if they took a while for phones. So the sentence in the article is not incorrect",
+              "score": 31,
+              "created_utc": 1750535361.0,
+              "replies": [
+                {
+                  "id": "mz1ko02",
+                  "author": "im_rite_ur_rong",
+                  "body": "They supported usb-c before they opposed usb-c",
+                  "score": 4,
+                  "created_utc": 1750537925.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz1curo",
+              "author": "ShredsGuitar",
+              "body": "USB C championed by Apple!! Same company that refused to put USB C on their most popular device till EU basically forced them to.",
+              "score": 26,
+              "created_utc": 1750535359.0,
+              "replies": [
+                {
+                  "id": "mz3o27b",
+                  "author": "davidjschloss",
+                  "body": "Well sure but the computers got USB-C/Thunderbolt. The standard was for higher speed data transmission. \n\nApple of course didn\u2019t want to give up the lucrative licensing that MFI lightning cables provided but Lightning was fast enough for what most of us do with the phone, which is charge it. USB-C is more useful on the iPad though it has opened up ProRes video on the iPad. \n\nWhile Apple was doing Lightning of the iPhone other manufacturers would use the various standards of USB. I have devices that are USB, the printer version of USB, the flat hard drive version (I forget that cable name) USB Micro and USB Mini. I have some electronics that used USB on one side and a power tip on the other. \n\nThe EU standardizing on USB-C wasn\u2019t about performance it was about reducing the ewaste caused by having so many different USB options and proprietary options.",
+                  "score": 5,
+                  "created_utc": 1750566237.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz24gn9",
+                  "author": "Timbershoe",
+                  "body": "Meh.\n\nThey tried to challenge the timeline the EU put forward, not the idea itself. They were already releasing devices with USB-C but got a lot of complaints when they switched to lighting ports on iPhones. \n\nThey wanted to give time for secondary suppliers (charging docks, phone chargers built into cars, stereos etc) to be prepared for the switch. Mainly because the EU themselves had insisted on a replacement timeline in 2012 when folk complained apple had changed charging cables without enough notice. \n\nAll the EU did was pull the date forward a year. All in all a pointless exercise in bureaucracy that only android users seemed pleased about and that was just schadenfreude.",
+                  "score": -7,
+                  "created_utc": 1750544688.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myzw3xx",
+          "author": "I_Tell_Penis_jokes",
+          "body": "Great article. Thank you.",
+          "score": 1,
+          "created_utc": 1750518519.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myytctv",
+      "author": "Telefunkin",
+      "body": "I\u2019m just surprised FireWire was supported for this long. I thought they dropped support shortly after thunderbolt.",
+      "score": 297,
+      "created_utc": 1750502960.0,
+      "replies": [
+        {
+          "id": "myyyu53",
+          "author": "spherosound",
+          "body": "Apple has been selling thunderbolt to firewire adapters for years at this point, theyre still very useful",
+          "score": 87,
+          "created_utc": 1750505770.0,
+          "replies": [
+            {
+              "id": "myzcx47",
+              "author": "TheGameboy",
+              "body": "They haven\u2019t sold those in some time and now they cost a ton",
+              "score": 20,
+              "created_utc": 1750511815.0,
+              "replies": [
+                {
+                  "id": "mz1s7i5",
+                  "author": "ClumsyRainbow",
+                  "body": "A couple years, you could definitely buy them in 2020ish.",
+                  "score": 9,
+                  "created_utc": 1750540418.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mz0nqe1",
+          "author": "stickystax",
+          "body": "Yeah I definitely thought it was already fully phased out! I've got it on a few old external drives from a decade ago but haven't seen it on a pc in forever... I don't use Mac anymore though which may be why.",
+          "score": 3,
+          "created_utc": 1750527216.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myzcude",
+      "author": "Zealousideal_Cup4896",
+      "body": "One more box of cables to move from the stack in my bedroom up into the attic. My wife will be thrilled until she realizes I lied about throwing them away and just put them in the attic\u2026",
+      "score": 118,
+      "created_utc": 1750511786.0,
+      "replies": [
+        {
+          "id": "mz0deqd",
+          "author": "A_Puddle",
+          "body": "Why do we do this?",
+          "score": 33,
+          "created_utc": 1750524013.0,
+          "replies": [
+            {
+              "id": "mz0mgi1",
+              "author": "lahimatoa",
+              "body": "Because one day, one of the 300 cables will actually be needed, and we will feel validated!",
+              "score": 65,
+              "created_utc": 1750526825.0,
+              "replies": [
+                {
+                  "id": "mz0ogta",
+                  "author": "Dennarb",
+                  "body": "Can confirm. Needed a 6v 3a charger for my rechargeable air pump and had one in a box that I hadn't touched in 10 years \n\nFelt very nice",
+                  "score": 39,
+                  "created_utc": 1750527444.0,
+                  "replies": [
+                    {
+                      "id": "mz17o1v",
+                      "author": "darkenthedoorway",
+                      "body": "Wow 6v 3a. Pretty obscure. Impressive.",
+                      "score": 17,
+                      "created_utc": 1750533612.0,
+                      "replies": [
+                        {
+                          "id": "mz2h1xi",
+                          "author": "stongey",
+                          "body": "Let's see Paul Allen's cable",
+                          "score": 14,
+                          "created_utc": 1750549254.0,
+                          "replies": [
+                            {
+                              "id": "mz38vdi",
+                              "author": "jpStormcrow",
+                              "body": "Oh very nice",
+                              "score": 2,
+                              "created_utc": 1750559749.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mz12qa0",
+                  "author": "thinvanilla",
+                  "body": "This isn't even a joke. I had the FW800 to Thunderbolt adapter and sold it in 2021 for like \u00a320, thinking I made a steal for some obsolete adapter.\n\nThen about a year ago I came across my dad's old camcorder and videotapes, and found out the only way to capture the footage properly is with FireWire, and the adapter I had now costs anywhere from \u00a3100 to \u00a3150 because of the camcorder hype.\n\nKicking myself for selling that adapter for beer money. But luckily you can get a 2012 Mac mini with a FW800 port on it for about \u00a350, so I did that, only captured one tape but it works great and nice to have a Mac dedicated to it. Then I came across the FW800/Thunderbolt adapter for \u00a310 on Vinted anyway lol, but reading this news I think I might sell it before it tanks in value again because I don't really need it.\n\nBut moral of the story is sometimes you're going to need some of these obsolete cables and adapters to revive old tech. And getting those old camcorder tapes captured is better done sooner than later because they're slowly degrading.",
+                  "score": 12,
+                  "created_utc": 1750531983.0,
+                  "replies": [
+                    {
+                      "id": "mzb3gzx",
+                      "author": "Emu1981",
+                      "body": "If only you could buy a $40 PCIe firewire card that you could stick in your non-Apple computer.  Pretty sure Windows 11 still supports Firewire cards, if not you could just run a Linux LiveCD to import the data to a external drive/internal drive and then reboot back to Windows.",
+                      "score": 0,
+                      "created_utc": 1750676036.0,
+                      "replies": [
+                        {
+                          "id": "mzcd8o1",
+                          "author": "thinvanilla",
+                          "body": "What is it with people who think \"just build a PC\" is the solution? I don't want to use Windows, I like macOS, it's as simple as that.",
+                          "score": 1,
+                          "created_utc": 1750692231.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mz3pcg4",
+                  "author": "_dekoorc",
+                  "body": "Yeah, but I can never find the one I need, so I just end up with _more cables_",
+                  "score": 2,
+                  "created_utc": 1750566838.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz440br",
+                  "author": "catman5",
+                  "body": "What I did instead was throw away the cables that I had a multiple of. I had like 10s micro and mini usb cables left over from the 00s 10s. Threw away all of them except kept one of each just in case.",
+                  "score": 2,
+                  "created_utc": 1750574495.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mz0nc03",
+              "author": "killshelter",
+              "body": "Because you never know!!!",
+              "score": 5,
+              "created_utc": 1750527092.0,
+              "replies": []
+            },
+            {
+              "id": "mz1cckf",
+              "author": "a-new-year-a-new-ac",
+              "body": "Sod\u2019s law",
+              "score": 1,
+              "created_utc": 1750535189.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mz0bgct",
+          "author": "LordGAD",
+          "body": "LOL same.\u00a0",
+          "score": 2,
+          "created_utc": 1750523388.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myyvy7i",
+      "author": "zombietomato",
+      "body": "Firewire loyalists in shambles",
+      "score": 129,
+      "created_utc": 1750504328.0,
+      "replies": [
+        {
+          "id": "myz0sg7",
+          "author": "dat_oracle",
+          "body": "NOOOO I JUST INVESTED 50K IN FIREWIRE",
+          "score": 55,
+          "created_utc": 1750506697.0,
+          "replies": [
+            {
+              "id": "myzezyb",
+              "author": "dballing",
+              "body": "Quick! Sell it before someone else reads HackerNews.",
+              "score": 17,
+              "created_utc": 1750512620.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myzmbdq",
+          "author": "Smartnership",
+          "body": "TBH, \u201cThe USB Killer\u201d was a pretty low rated episode of NCIS.",
+          "score": 10,
+          "created_utc": 1750515295.0,
+          "replies": [
+            {
+              "id": "mz3wdt5",
+              "author": "spooooork",
+              "body": "It's a much more fun version of a flash drive though - https://en.wikipedia.org/wiki/USB_killer",
+              "score": 1,
+              "created_utc": 1750570330.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myz0k4a",
+          "author": "smstewart1",
+          "body": "There are dozens of us!",
+          "score": 25,
+          "created_utc": 1750506588.0,
+          "replies": [
+            {
+              "id": "myz8bvd",
+              "author": "anyavailablebane",
+              "body": "I still use it!",
+              "score": 7,
+              "created_utc": 1750509988.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myzvpg4",
+          "author": "the_humeister",
+          "body": "Oh no! Now my Power Mac G4 is obsolete!",
+          "score": 1,
+          "created_utc": 1750518389.0,
+          "replies": [
+            {
+              "id": "mz13tzz",
+              "author": "ArchyModge",
+              "body": "Unironically peak though",
+              "score": 2,
+              "created_utc": 1750532344.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myzgw2f",
+      "author": "hertzsae",
+      "body": "It was never a \"USB killer\". It was standardized a year before USB and had higher initial adoption on the peripheral side. USB became more popular because it was so much cheaper to produce and didn't have the same royalties.",
+      "score": 120,
+      "created_utc": 1750513345.0,
+      "replies": [
+        {
+          "id": "myzpr9n",
+          "author": "510Goodhands",
+          "body": "And it was very, very fast compared to any other protocol.",
+          "score": 44,
+          "created_utc": 1750516449.0,
+          "replies": [
+            {
+              "id": "mz3x2tn",
+              "author": "champignax",
+              "body": "USB was slower than FireWire until usb 3",
+              "score": 10,
+              "created_utc": 1750570699.0,
+              "replies": [
+                {
+                  "id": "mz4bg73",
+                  "author": "510Goodhands",
+                  "body": "Yes, and that took a number of years to be adopted. I don\u2019t know why people are even arguing over this.",
+                  "score": 5,
+                  "created_utc": 1750578814.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mz09lnc",
+          "author": "VagabondVivant",
+          "body": "Came in looking for this. Kinda hard to be a \"USB killer\" when you predate USB by almost ten years. If anything, USB was the firewire killer and it succeeded.",
+          "score": 39,
+          "created_utc": 1750522797.0,
+          "replies": [
+            {
+              "id": "mz1355g",
+              "author": "hertzsae",
+              "body": "I was about to say that USB was a firewire killer in my post, but I think it was actually thunderbolt that truly did it in. (Yes I know thunderbolt is part of USB 4, but firewire was basically dead by that point)",
+              "score": 7,
+              "created_utc": 1750532119.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mz0e9kn",
+          "author": "clarinetJWD",
+          "body": "Firewire was absolutely dominant in the media production world at the time. Even though USB 2.0's 480Mbit was faster than Firewire's 400Mbit theoretically, Firewire was bidirectional, meaning that the full 400Mbit could be used with no interruptions for live recordings.\n\nYou know how when you write to a USB drive, it'll be fast for a bit, but have these downward spikes in the speed periodically? That's because in order to communicate in the other direction, the transfer needs to pause.\n\nThis difference made it much more reliable in live situations. Its demise was USB 3 and its significantly faster connection. At this point, it was so fast, bidirectional communication was no longer important.",
+          "score": 23,
+          "created_utc": 1750524284.0,
+          "replies": [
+            {
+              "id": "mz3x6r9",
+              "author": "champignax",
+              "body": "The theorical speed for usb was higher but real speeds were slower. Especially due to the CPU overhead",
+              "score": 2,
+              "created_utc": 1750570756.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myyt401",
+      "author": "sometimes_interested",
+      "body": "Damn. Just as the nostalgia cycle is pointing us back to using miniDV cams again.",
+      "score": 38,
+      "created_utc": 1750502828.0,
+      "replies": [
+        {
+          "id": "myyx3ml",
+          "author": "AtOurGates",
+          "body": "I\u2019m going all in on minidisc.",
+          "score": 13,
+          "created_utc": 1750504912.0,
+          "replies": [
+            {
+              "id": "myyxbzc",
+              "author": "notoyrobots",
+              "body": "When is laserdisc going to be retro?",
+              "score": 7,
+              "created_utc": 1750505029.0,
+              "replies": [
+                {
+                  "id": "mz0xcfj",
+                  "author": "Space_Lux",
+                  "body": "at this point cd and dvd are nearly retro",
+                  "score": 1,
+                  "created_utc": 1750530233.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myzcymx",
+          "author": "Hungry_Horace",
+          "body": "Eh\u2026 I filmed a nostalgic weekend away (anniversary) on my old miniDV, put a dongle snake together to attach it to my Mac Studio\u2026 tape crapped out after 5 minutes of footage.\n\nHaving a camcorder again was fun but tape-based is too fragile now.",
+          "score": 10,
+          "created_utc": 1750511832.0,
+          "replies": [
+            {
+              "id": "mz14ebr",
+              "author": "thinvanilla",
+              "body": "I got out my dad's old camcorder to capture some of his old tapes. Nothing was showing up so I had to try a tape cleaner which didn't really help much. Someone suggested I give it a couple \"Sony Slaps\" which miraculously got it working.\n\nAlso came across my first camcorder which has a hard drive, and reminded of why we gave up tape; so fragile and you have to rewind/fast-forward all the time to watch it back and replay it in real time to capture it.",
+              "score": 4,
+              "created_utc": 1750532530.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myylft6",
+      "author": "Former_Intern_8271",
+      "body": "I really doubt supporting it cost much overhead, there's still a lot of perfectly fine FireWire gear people use.",
+      "score": 105,
+      "created_utc": 1750498240.0,
+      "replies": [
+        {
+          "id": "myymkkr",
+          "author": "VogonSoup",
+          "body": "If you still have a Mac with a FireWire port, you probably won\u2019t be able to install Mac OS 26 anyway. \n\nI had to move on from a FireWire audio interface with my 2017 iMac. \n\nWhich also won\u2019t be able to run Mac OS 26 :/",
+          "score": 103,
+          "created_utc": 1750498959.0,
+          "replies": [
+            {
+              "id": "myyn5sc",
+              "author": "terraphantm",
+              "body": "Thunderbolt to FireWire adapters did exist and presumably won\u2019t be supported anymore\u00a0",
+              "score": 62,
+              "created_utc": 1750499325.0,
+              "replies": []
+            },
+            {
+              "id": "myyprp0",
+              "author": "discotheque-wreck",
+              "body": "Still using FireWire audio (a UA satellite) on a 2019 Mac mini running Catalina. Everything works exactly as I want it to and I\u2019m not going to change it until something breaks. I only connect to the internet for ilok (I don\u2019t use computer for anything other than recording).\u00a0",
+              "score": 34,
+              "created_utc": 1750500894.0,
+              "replies": [
+                {
+                  "id": "myyswx0",
+                  "author": "BarbacoaBarbara",
+                  "body": "I had to upgrade to Apollo recently. Good on you for sticking it out",
+                  "score": 6,
+                  "created_utc": 1750502720.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "myyr0yq",
+              "author": "nagi603",
+              "body": "As far as Apple is concerned, you must be holding your credit card wrong.",
+              "score": 29,
+              "created_utc": 1750501631.0,
+              "replies": [
+                {
+                  "id": "myyrvvo",
+                  "author": "VogonSoup",
+                  "body": "Trust me, the time is coming, unfortunately. \n\nObviously they don\u2019t do a 27\u201d iMac any more\u2026",
+                  "score": 10,
+                  "created_utc": 1750502135.0,
+                  "replies": [
+                    {
+                      "id": "myzfqhv",
+                      "author": "Bluecolty",
+                      "body": "Just use the open core legacy patcher man. It works great. The 2017 iMac Pro, assuming you have the Vegan64 graphics, is still really solid. Heck, I just repurposed one of the 10 core Xeon CPUs from it into a solid file storage PC. Single core performance is solid, multi core performance is still pretty competent (assuming the 10 core one, it\u2019s as good as a ryzen 5 5600x). And the Vega 64 graphics, while slower, have 16gb of VRAM still.",
+                      "score": 1,
+                      "created_utc": 1750512903.0,
+                      "replies": [
+                        {
+                          "id": "myzlkeq",
+                          "author": "VogonSoup",
+                          "body": "Mine is the 3.4 GHz Quad-Core Intel Core i5, Radeon Pro 570 4GB graphics. \n\nWhat does the open core legacy patcher do?",
+                          "score": 2,
+                          "created_utc": 1750515037.0,
+                          "replies": [
+                            {
+                              "id": "myzmstf",
+                              "author": "Bluecolty",
+                              "body": "If it has a core i5, then its not an iMac Pro unfortunately.  But still sounds about as new, which is good. Looks like you have a 2019 27\" iMac.\n\nThe open core legacy patcher works the same though for all Intel Macs. It allows you to update to unsupported versions of macOS. I just updated a 2012 Mac mini I have to macOS Sonoma. The last official supported version was Catalina. It works pretty darn well. You can even update and keep your data, although a backup is always strongly recommended.",
+                              "score": 2,
+                              "created_utc": 1750515461.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "myz923p",
+              "author": "anyavailablebane",
+              "body": "It\u2019s not about compete with a FireWire port. People use FireWire through thunderbolt adaptors on Mac\u2019s that don\u2019t have FireWire. That config works right now on M4 Macs but stops working if you update to 26 beta. This is an issue for anyone using legacy FireWire peripherals. A small group but as someone who still uses an original iPod this is something that will mean not upgrading a Mac so I can still use FireWire. And one day I will never be able to sync that iPod.",
+              "score": 8,
+              "created_utc": 1750510281.0,
+              "replies": [
+                {
+                  "id": "myzo277",
+                  "author": "atbths",
+                  "body": "I mean, this is how all technology goes.  Nothing lasts forever.  How old is that ipod?",
+                  "score": 5,
+                  "created_utc": 1750515887.0,
+                  "replies": [
+                    {
+                      "id": "myzzv4z",
+                      "author": "anyavailablebane",
+                      "body": "It\u2019s obviously very old. But it still affects the people of the r/iPod community among others",
+                      "score": 4,
+                      "created_utc": 1750519714.0,
+                      "replies": [
+                        {
+                          "id": "mz02vo5",
+                          "author": "atbths",
+                          "body": "Car manufacturers only make spare parts to last 10 years after a car is built.  The open market supports them staying around much longer.  Perhaps, as with other obsolete technology, a 3rd party will step in and release a driver?\n\nI suspect if there is enough demand it will happen. I doubt it will be pods driving it though; most likely high-end AV equipment.",
+                          "score": 1,
+                          "created_utc": 1750520664.0,
+                          "replies": [
+                            {
+                              "id": "mz07tkj",
+                              "author": "anyavailablebane",
+                              "body": "Yeh it won\u2019t be iPods. It would need to be a commercial product where the support would be cheaper to pay for than replace the equipment. I don\u2019t know if that would exist. Sadly I think it\u2019s done for.",
+                              "score": 1,
+                              "created_utc": 1750522234.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "myyubdl",
+              "author": "Icybubba",
+              "body": "I love forced obsolescence! Go buy another $2,000 computer now to support the struggling trillion dollar company.",
+              "score": 9,
+              "created_utc": 1750503472.0,
+              "replies": [
+                {
+                  "id": "myyw7uv",
+                  "author": "VogonSoup",
+                  "body": "I also have a PowerMac, PowerBook, older iMac and Mac mini in the loft. \n\nI\u2019m old and I think I\u2019ve probably supported Apple enough.",
+                  "score": 4,
+                  "created_utc": 1750504464.0,
+                  "replies": [
+                    {
+                      "id": "myyx6sz",
+                      "author": "rippletroopers",
+                      "body": "Those computers are likely still good, might need to find a different OS to run on them is all.",
+                      "score": 1,
+                      "created_utc": 1750504957.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "myzshq9",
+                  "author": "void_const",
+                  "body": "It\u2019s not like the computers are going to suddenly stop working when macOS 26 comes out. What big features in 26 were you counting on using with FireWire?",
+                  "score": 1,
+                  "created_utc": 1750517345.0,
+                  "replies": [
+                    {
+                      "id": "mz3qvdc",
+                      "author": "_dekoorc",
+                      "body": "And they keep giving security updates for a while after the newer version comes out. Still going to catch a lot of people by surprise though.",
+                      "score": 2,
+                      "created_utc": 1750567564.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mz11h61",
+                      "author": "Icybubba",
+                      "body": "I don't even use macOS.\n\n\nI don't like forced obsolescence.",
+                      "score": -1,
+                      "created_utc": 1750531574.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "myyxd98",
+                  "author": "RastaImp0sta",
+                  "body": "Lololololol Jesus Christ you must be nearing your 60s if you\u2019re upset about Apple stopping support on FireWire of all things. I don\u2019t even think you understand what you\u2019re saying because your old shit that still requires you to ask your kids for help with will still work with the adapters and peripherals you don\u2019t understand how to use. A new computer will not work with your old shit.",
+                  "score": -24,
+                  "created_utc": 1750505047.0,
+                  "replies": [
+                    {
+                      "id": "myyxln5",
+                      "author": "Icybubba",
+                      "body": "I am 24 lmao\n\nThis has nothing to do with FireWire dingbat.\n\nI just value money.",
+                      "score": 11,
+                      "created_utc": 1750505162.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "myyyrfn",
+                      "author": "spherosound",
+                      "body": "yea because high end audio production gear thats perfectly functional should just be trashed and replaced right? yea fuck sustainability, buy more! It was costing apple basically nothing to keep firewire support in the OS",
+                      "score": 9,
+                      "created_utc": 1750505732.0,
+                      "replies": [
+                        {
+                          "id": "myyz47c",
+                          "author": "RastaImp0sta",
+                          "body": "Keep using your old shit, no one is making you buy more of anything. Keep using your old computer with your old programs with your old tech. Whatever you\u2019re doing now with what you\u2019ve got seems to work fine. Just do keep using that, literally no one is making you do anything.\n\nBoomers man smh. Act like the whole world is falling apart when they don\u2019t get to have their cake and eat it too.",
+                          "score": -23,
+                          "created_utc": 1750505906.0,
+                          "replies": [
+                            {
+                              "id": "myyzjr4",
+                              "author": "spherosound",
+                              "body": "?? im saying that if i wanted to upgrade my workstation to a newer mac i would no longer be able to use perfectly functional gear with it because apple decided to remove a driver thats been present in macOS for the last 25 years. In order to upgrade id have to also replace a lot of my audio infra",
+                              "score": 8,
+                              "created_utc": 1750506111.0,
+                              "replies": [
+                                {
+                                  "id": "myz0sam",
+                                  "author": "RastaImp0sta",
+                                  "body": "Apple clearly doesn\u2019t want to support it anymore and they might have a good reason for it or they just don\u2019t want to, simple as that. No one is making you continue to buy Apple products either, you\u2019re a consumer and have a choice of products to get. Sounds like you\u2019re just going to continue to use the same stuff you\u2019ve been using just fine for the last 15+ years or so. \n\nLooks like that Mac you\u2019ve got is going to be your last Mac which will probably continue to do the job you need it to do as long as the developers for the programs you\u2019re using will still push out updates.",
+                                  "score": -15,
+                                  "created_utc": 1750506695.0,
+                                  "replies": [
+                                    {
+                                      "id": "mz03yur",
+                                      "author": "Original_Mac_Tonight",
+                                      "body": "Average apple dickrider who doesn't understand shit about anything coming to their defense for anti consumer practices exhibit \\#3958295",
+                                      "score": 0,
+                                      "created_utc": 1750521008.0,
+                                      "replies": [
+                                        {
+                                          "id": "mz0oz4d",
+                                          "author": "RastaImp0sta",
+                                          "body": "People like you cry about Apple all the time and still buy their products. You\u2019re acting like there\u2019s a gun to your head. If it literally cost nothing to add support for vintage tech, you might have a point but it doesn\u2019t.  Apple doesn\u2019t want to pay a team to manage vintage tech anymore only used by 0.01% of users. Sounds like a business decision to me.",
+                                          "score": 0,
+                                          "created_utc": 1750527601.0,
+                                          "replies": [
+                                            {
+                                              "id": "mz0rge8",
+                                              "author": "Original_Mac_Tonight",
+                                              "body": "I dont buy any of their products. Their filth influences the industry in negative ways. Theres no managing tech, its a driver to support a format of data communication. Very easy to do. You have no idea what you are talking about",
+                                              "score": 0,
+                                              "created_utc": 1750528365.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mz23999",
+                                                  "author": "RastaImp0sta",
+                                                  "body": "Apple works in development teams of 6-7 people\nAnd there\u2019s thousands of them. Each of those people get paid on average 200k, adding anything in the root requires ongoing testing throughout the OS lifecycle. There\u2019s no reason to support old ass tech other than to appease you fucking boomers and that\u2019s only 0.01% of you fucks.",
+                                                  "score": 0,
+                                                  "created_utc": 1750544256.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mz24lxj",
+                                                      "author": "Original_Mac_Tonight",
+                                                      "body": "Again, you have zero idea what you are talking about. Its a data transfer protocol. They've been doing it for 30+ years, they literally developed it. These are extremely easy to implement and would be cost an absolute minimal amount of resources. Why should apple be allowed to skimp on literally everything and keep stripping their products back to save a few bucks when they are a trillion dollar company. Its pathetic. You'd be the type of guy to jizz themselves if apple removed USB because its also \"old ass tech\"",
+                                                      "score": 0,
+                                                      "created_utc": 1750544742.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "mz25ozk",
+                                                          "author": "RastaImp0sta",
+                                                          "body": "Naaa you don\u2019t understand what you\u2019re talking about. Apple continuously does rigorous testing on their software for years out in advance and they don\u2019t want to spend the resources on continuously their os with testing old tech. USB is also old shit, that was the whole point of the industry switching to USB C. You dumb fucks are never happy. I would expect Apple to stop supporting regular USB in a decade as well.",
+                                                          "score": 0,
+                                                          "created_utc": 1750545134.0,
+                                                          "replies": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "myzgmru",
+                      "author": "zipxavier",
+                      "body": "Yikes",
+                      "score": 2,
+                      "created_utc": 1750513245.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mz3qqhj",
+              "author": "_dekoorc",
+              "body": "I'm sure there's still someone out there still rocking a 15\" 2015 MBP wishing they could upgrade. That was a GOAT machine and I have confidence that if a 2020 13\" MBP can run macOS 26, so can it.\n\nWhen I left my job at the end of 2017, I really wish I had purchased the one my job had provided me for work. I ended up getting a 2017\" 13\" MBP and it was not good.",
+              "score": 1,
+              "created_utc": 1750567499.0,
+              "replies": [
+                {
+                  "id": "mz5ibrl",
+                  "author": "VogonSoup",
+                  "body": "Yep. Mine is beautiful, black and with the much coveted upside down apple logo on the lid. \nGot through 2 cd drives and 3 power supplies.",
+                  "score": 1,
+                  "created_utc": 1750600254.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "myyulfb",
+              "author": "Sopel97",
+              "body": "but at least iphones are getting a lot of sEcUrItY updates am I right?",
+              "score": -6,
+              "created_utc": 1750503620.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myywlqg",
+          "author": "mariess",
+          "body": "I remember selling an old Mac Pro non intel for WAAAAY more than it was worth because it was the exact make and model that this guy had based his entire studio setup around it. None of his kit was compatible with anything newer. It would have cost him way more to upgrade the whole studio and he would have to learn his way around totally new equipment etc. or he could track down and buy a specific model and pay over the odds for it and keep working in a way that was perfectly well suited to what he was doing.",
+          "score": 10,
+          "created_utc": 1750504662.0,
+          "replies": [
+            {
+              "id": "myzm122",
+              "author": "Errant_coursir",
+              "body": "That's insane, what a batshit ecosystem",
+              "score": 1,
+              "created_utc": 1750515197.0,
+              "replies": [
+                {
+                  "id": "mz1sbym",
+                  "author": "FilteredAccount123",
+                  "body": "It's the same way for industrial equipment. We have machines at work running win95 and NT4. When those machines eventually break, we cobble together another ancient PC.",
+                  "score": 4,
+                  "created_utc": 1750540460.0,
+                  "replies": [
+                    {
+                      "id": "mz2qupn",
+                      "author": "BadArtijoke",
+                      "body": "So you are an Air Traffic Controller? I might be able to donate a couple floppy disks",
+                      "score": 1,
+                      "created_utc": 1750552887.0,
+                      "replies": [
+                        {
+                          "id": "mz39q5u",
+                          "author": "FilteredAccount123",
+                          "body": "I'm an electronics technician for USPS, but it's the same way for other automation jobs I've had. It's cheaper and faster to procure old hardware than it is to upgrade the software and hardware or mess around with VMs. Usually there is a proprietary ISA card or two in the computer that prevents a simple upgrade. Luckily we don't use floppies anymore, but there are drawers full of them in our server room.",
+                          "score": 2,
+                          "created_utc": 1750560088.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myym3k8",
+          "author": "BigCommieMachine",
+          "body": "Don\u2019t worry, They\u2019ve got a dongle they think you are going to love.",
+          "score": 15,
+          "created_utc": 1750498664.0,
+          "replies": [
+            {
+              "id": "myymm87",
+              "author": "Former_Intern_8271",
+              "body": "I assume dongles won't work as people already have to use dongles",
+              "score": 19,
+              "created_utc": 1750498988.0,
+              "replies": []
+            },
+            {
+              "id": "myypi7c",
+              "author": "baltimoresports",
+              "body": "Jokes aside I wonder if this will remove support for USB/TB to FireWire adapters?",
+              "score": 5,
+              "created_utc": 1750500736.0,
+              "replies": [
+                {
+                  "id": "myz8f8s",
+                  "author": "Eruannster",
+                  "body": "Looks like it. The article says that Firewire devices don't show up in Finder anymore.",
+                  "score": 7,
+                  "created_utc": 1750510027.0,
+                  "replies": [
+                    {
+                      "id": "myzcse9",
+                      "author": "TheGameboy",
+                      "body": "First thing someone tried was to plug in a gen 1 iPod and it didn\u2019t show up",
+                      "score": 1,
+                      "created_utc": 1750511764.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myyq8jj",
+          "author": "apageofthedarkhold",
+          "body": "I still have a mbox2 pro in my trash set up.  Still works well, just wish I could use the firewire part of it...",
+          "score": 3,
+          "created_utc": 1750501169.0,
+          "replies": []
+        },
+        {
+          "id": "myyt6p1",
+          "author": "mudohama",
+          "body": "lol",
+          "score": 2,
+          "created_utc": 1750502868.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myz9vou",
+      "author": "Way_2_Go_Donny",
+      "body": "FireWire?  Now that's a name I haven't heard in a long time.",
+      "score": 19,
+      "created_utc": 1750510611.0,
+      "replies": [
+        {
+          "id": "myzmkjq",
+          "author": "Smartnership",
+          "body": "They\u2019ll announce the new thing, FyreWire\n\nIt\u2019ll be all hype, then no one will show up for it",
+          "score": 5,
+          "created_utc": 1750515383.0,
+          "replies": [
+            {
+              "id": "mz1mm9h",
+              "author": "Harthag22903",
+              "body": "And you get a cheese sandwich",
+              "score": 3,
+              "created_utc": 1750538570.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mz02l58",
+          "author": "Nice_Marmot_7",
+          "body": "How will I connect my Zip drive now?!?!?",
+          "score": 1,
+          "created_utc": 1750520571.0,
+          "replies": [
+            {
+              "id": "mz0gigz",
+              "author": "TheSmJ",
+              "body": "To your computer's parallel port!",
+              "score": 2,
+              "created_utc": 1750524985.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myyx83b",
+      "author": "natur_al",
+      "body": "My childhood is dead. And has been for several decades.",
+      "score": 21,
+      "created_utc": 1750504975.0,
+      "replies": [
+        {
+          "id": "mz44b2m",
+          "author": "RazerPSN",
+          "body": "How are you holding up though?",
+          "score": 5,
+          "created_utc": 1750574663.0,
+          "replies": [
+            {
+              "id": "mz5bt9h",
+              "author": "deetsay",
+              "body": "By a burning thread!",
+              "score": 1,
+              "created_utc": 1750597875.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myzrj5t",
+      "author": "clunky-glunky",
+      "body": "Damn! I was digitizing Hi8 tapes of my kids growing up using FireWire to thunderbolt to USB 3 into my M1, and hoping to get all 40 tapes before they all disintegrate. Hope there\u2019s an alternate way.",
+      "score": 6,
+      "created_utc": 1750517033.0,
+      "replies": []
+    },
+    {
+      "id": "myzzdez",
+      "author": "Mistrblank",
+      "body": "Makes sense since they haven\u2019t had it in any new Apple silicon system and they\u2019re the only thing being supported going forward.",
+      "score": 6,
+      "created_utc": 1750519556.0,
+      "replies": []
+    },
+    {
+      "id": "mz01k1s",
+      "author": "Specialist_Brain841",
+      "body": "the firewire.ktext was already removed a few versions ago, but macos would still recognize a firewire device with the thunderbolt dongle for plain audio out functionality..I still use a perfectly fine Edirol audio interface with my M1 iMac this way..if that won\u2019t even work with macOS 26 I\u2019m going to have to replace it (I use it to drive my studio monitor speakers)",
+      "score": 5,
+      "created_utc": 1750520246.0,
+      "replies": []
+    },
+    {
+      "id": "mz082r1",
+      "author": "AthousandLittlePies",
+      "body": "I guess I\u2019m going to have to keep a machine un-updated so I can keep using my scanner :(",
+      "score": 4,
+      "created_utc": 1750522314.0,
+      "replies": [
+        {
+          "id": "mz0myvp",
+          "author": "Snowdeo720",
+          "body": "You have a scanner that uses FireWire?\n\nWhat brand and model is it?\n\n(Edit: typo)",
+          "score": 7,
+          "created_utc": 1750526980.0,
+          "replies": [
+            {
+              "id": "mz0zxc8",
+              "author": "klaschr",
+              "body": "Can't speak for OP but I'm dealing with the same grievance: Nikon CoolScan 9000 :'(",
+              "score": 3,
+              "created_utc": 1750531066.0,
+              "replies": [
+                {
+                  "id": "mz16p1u",
+                  "author": "AthousandLittlePies",
+                  "body": "Bingo - same boat. There\u2019s not really a comparable replacement that I know of",
+                  "score": 3,
+                  "created_utc": 1750533290.0,
+                  "replies": []
+                },
+                {
+                  "id": "mz130hk",
+                  "author": "Snowdeo720",
+                  "body": "Wow!\n\nThank you for a brand and model to peek at.",
+                  "score": 2,
+                  "created_utc": 1750532077.0,
+                  "replies": []
+                },
+                {
+                  "id": "n2d32m6",
+                  "author": "anything_bro",
+                  "body": "Chiming in to say - same! This film scanner is one of the best you can get for the increasingly popular hobby of film photography; I wonder the dozens of us and the audio engineers here could sway the tide\u2026",
+                  "score": 2,
+                  "created_utc": 1752155267.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mz1mpfj",
+      "author": "umbananas",
+      "body": "Firewire was never a USB killer. it's abundantly obvious that there will never be a firewire keyboard or mouse. It's created to be a replacement for SCSI. At a time when USB was dreadfully slow, it had its reason to exist.",
+      "score": 3,
+      "created_utc": 1750538599.0,
+      "replies": []
+    },
+    {
+      "id": "mz4ori6",
+      "author": "22Sharpe",
+      "body": "You will be missed sweet prince.\n\nMaybe not by most who never used it but certainly by me. For the years before USB 3.0 that 800Mbps which daisy chaining capability was an absolute gem to work with compared to the 480Mbps of USB 2.0.",
+      "score": 3,
+      "created_utc": 1750586849.0,
+      "replies": []
+    },
+    {
+      "id": "myyvm7f",
+      "author": "twistedtxb",
+      "body": "FW800 ports are so flimsy.  for some reason the cables have to be super thick and rigid, and the port is designed in such a way that it disconnects without any friction.   good riddance",
+      "score": 11,
+      "created_utc": 1750504155.0,
+      "replies": [
+        {
+          "id": "myzlplf",
+          "author": "pohatu771",
+          "body": "FireWire 400 is maybe my favorite connector/port. It feels secure and makes a nice click when inserting.\n\nFireWire 800 always scares me.\n\nAnd the 4-pin mini connector is as unappealing as Mini or Micro USB.",
+          "score": 4,
+          "created_utc": 1750515088.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myzbk2c",
+      "author": "isuckatpiano",
+      "body": "Dropping driver support is so stupid though. There\u2019s no reason.  Just don\u2019t update the driver I guess but knowing Apple they would actively disable it.",
+      "score": 6,
+      "created_utc": 1750511280.0,
+      "replies": [
+        {
+          "id": "myztj68",
+          "author": "fleemfleemfleemfleem",
+          "body": "In theory I guess they want to cull as much \"tech debt\" as possible to avoid bloat over time so they can keep selling people macs with 256gb ssds. Realistically, I can't imagine that firewire drivers take that much space or use that many resources relative to the number of people who still have firewire equipment.",
+          "score": 2,
+          "created_utc": 1750517686.0,
+          "replies": [
+            {
+              "id": "mz0h8yz",
+              "author": "TheSmJ",
+              "body": "It's probably not about space or computing resources as much as it's about the manpower needed to maintain and (re)write the driver to support newer hardware when so few actually use it.",
+              "score": 7,
+              "created_utc": 1750525212.0,
+              "replies": []
+            },
+            {
+              "id": "mz05l3l",
+              "author": "isuckatpiano",
+              "body": "Imagine Microsoft killing DVD support. I haven\u2019t used mine in years but I\u2019m not getting rid of it either.",
+              "score": 1,
+              "created_utc": 1750521520.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mz1uojt",
+      "author": "arashinoko",
+      "body": "FireWire was never marketed as a \u201cUSB killer\u201d. It was designed to be used alongside USB for things that required more bandwidth than USB could provide (at the time). No one ever intended it to replace USB. That would be silly. Who\u2019s gonna make a FireWire mouse or keyboard?",
+      "score": 4,
+      "created_utc": 1750541264.0,
+      "replies": []
+    },
+    {
+      "id": "myz88nt",
+      "author": "Ashamed-Status-9668",
+      "body": "I assume USB4 is a decent replacement.",
+      "score": 2,
+      "created_utc": 1750509952.0,
+      "replies": []
+    },
+    {
+      "id": "myz9t1h",
+      "author": "3-DMan",
+      "body": "Aww, my Canon XL-1....that I don't use any more!",
+      "score": 2,
+      "created_utc": 1750510582.0,
+      "replies": []
+    },
+    {
+      "id": "mz0aet9",
+      "author": "ITGuy7337",
+      "body": "I had a firewire audio interface once.\n\nIt constantly would disconnect in the middle of recording.",
+      "score": 2,
+      "created_utc": 1750523053.0,
+      "replies": []
+    },
+    {
+      "id": "mz0c413",
+      "author": "KAKOOOOM",
+      "body": "I have a once expensive 16 track Audio Interface with FireWire 400 that I\u2018ve been connecting through a hub.\n\nDoes anyone know if that would still work?",
+      "score": 2,
+      "created_utc": 1750523600.0,
+      "replies": []
+    },
+    {
+      "id": "mz158y0",
+      "author": "fallen_empathy",
+      "body": "*Cue XKCD comic about creating a new standard to fix variations and ends up with just one more*",
+      "score": 2,
+      "created_utc": 1750532809.0,
+      "replies": []
+    },
+    {
+      "id": "mz373y9",
+      "author": "wchutlknbout",
+      "body": "This kinda sucks, there are still audio interfaces out there that use FireWire. Not being made new right now but if an interface has great preamps but uses FireWire this would be such a kick in the dick. Audio tech doesn\u2019t advance as fast as the rest of the media industry",
+      "score": 2,
+      "created_utc": 1750559061.0,
+      "replies": []
+    },
+    {
+      "id": "mz45mhr",
+      "author": "sparkyblaster",
+      "body": "So, how are we supposed to sync our iPods? (Which can still work with finder)\u00a0",
+      "score": 2,
+      "created_utc": 1750575405.0,
+      "replies": []
+    },
+    {
+      "id": "mz4eif2",
+      "author": "CNMathias",
+      "body": "iPod support has been on borrowed time for years on pc. iTunes has been loosing features and now it shows podcasts abs movies(I think) in the drop down menu. With the last time I checked music was inside the podcasts section.",
+      "score": 2,
+      "created_utc": 1750580632.0,
+      "replies": []
+    },
+    {
+      "id": "myz7l6v",
+      "author": "hungrypiano",
+      "body": "Literally just connected an old hard drive via FireWire tonight because the USB connection was so messed up and spotty. Glad I didn\u2019t hit that update button beforehand.",
+      "score": 6,
+      "created_utc": 1750509686.0,
+      "replies": [
+        {
+          "id": "mz10i7s",
+          "author": "lerliplatu",
+          "body": "Why are you considering running a developer beta on devices that need to be not \u201cmessed up and spotty\u201d?",
+          "score": 4,
+          "created_utc": 1750531257.0,
+          "replies": []
+        },
+        {
+          "id": "myzsvac",
+          "author": "void_const",
+          "body": "Update button for the developer beta? What??",
+          "score": 6,
+          "created_utc": 1750517469.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myzjmiv",
+      "author": "Electrical_Tap_7252",
+      "body": "Apple and Sony are going to have a competition for real estate in my useless data cables drawer",
+      "score": 2,
+      "created_utc": 1750514352.0,
+      "replies": []
+    },
+    {
+      "id": "myzomfj",
+      "author": "thalos2688",
+      "body": "I have a few 27\" Thunderbolt Displays that are still beautiful. I connect them to my Mac using usb-c to thunderbolt adapters. Does that mean they become boat anchors when I upgrade to MacOS 26?",
+      "score": 2,
+      "created_utc": 1750516074.0,
+      "replies": [
+        {
+          "id": "myzyn5z",
+          "author": "4kVHS",
+          "body": "No the display will still work but the FireWire ports on the back of them won\u2019t work.",
+          "score": 5,
+          "created_utc": 1750519327.0,
+          "replies": [
+            {
+              "id": "mz0618h",
+              "author": "thalos2688",
+              "body": "OK, that's great to know!",
+              "score": 1,
+              "created_utc": 1750521664.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myzwmii",
+      "author": "Ghozer",
+      "body": "It's because it's all Thunderbolt now, so you can still use them!!",
+      "score": 1,
+      "created_utc": 1750518686.0,
+      "replies": []
+    },
+    {
+      "id": "mz1ksfe",
+      "author": "Uniblab_78",
+      "body": "FireWire was my fav",
+      "score": 1,
+      "created_utc": 1750537966.0,
+      "replies": []
+    },
+    {
+      "id": "mz1ncm5",
+      "author": "None",
+      "body": "For people who still own MiniDV cameras or those old school LaCie hard drives, it might be time to start upgrading.",
+      "score": 1,
+      "created_utc": 1750538811.0,
+      "replies": []
+    },
+    {
+      "id": "mz1xthd",
+      "author": "Logical-Island-419",
+      "body": "Majority of my FW devices are for pro audio. One in particular have drivers for Mac OS 9 to macOS 11. It\u2019s awesome!",
+      "score": 1,
+      "created_utc": 1750542346.0,
+      "replies": []
+    },
+    {
+      "id": "mz2rzky",
+      "author": "rodan-rodan",
+      "body": "Booooooo. Just keep the driver, ffs.",
+      "score": 1,
+      "created_utc": 1750553307.0,
+      "replies": []
+    },
+    {
+      "id": "mz3hnaa",
+      "author": "trenttherascal",
+      "body": "I glanced at the title and assumed it was some true crime post.",
+      "score": 1,
+      "created_utc": 1750563363.0,
+      "replies": []
+    },
+    {
+      "id": "mz3koaw",
+      "author": "Malodoror",
+      "body": "FireWire has been dead to me since they killed target disk mode.",
+      "score": 1,
+      "created_utc": 1750564694.0,
+      "replies": []
+    },
+    {
+      "id": "mz41xdn",
+      "author": "robbier01",
+      "body": "This is a big deal for people into classic Macs. It\u2019s easy to boot up an old Mac in target disk mode and connect it to a modern Mac using FireWire (via a Thunderbolt to FireWire adapter).",
+      "score": 1,
+      "created_utc": 1750573316.0,
+      "replies": []
+    },
+    {
+      "id": "mz439ot",
+      "author": "generalraptor2002",
+      "body": "I bought my first Mac in 2012 and never used any FireWire device",
+      "score": 1,
+      "created_utc": 1750574072.0,
+      "replies": []
+    },
+    {
+      "id": "mz7o66t",
+      "author": "bucket_brigade",
+      "body": "\"Apple routinely phases out older technology support in macOS, as the company isn't particularly interested in preserving backward compatibility in the way Microsoft largely does with Windows.\u00a0However, macOS 26 will be especially brutal in this regard, as it will also be the last version to support Intel-based Macs.\" Who writes this and goes \"yeah that paragraph made sense\"",
+      "score": 1,
+      "created_utc": 1750624295.0,
+      "replies": []
+    },
+    {
+      "id": "mzo31c1",
+      "author": "ulyssesric",
+      "body": "\"**USB killer**\" huh ? Actually FireWire came first. USB 1.0 was released in 1996 and 1EEE 1394 was 1995. You're not going to kill something that hadn't been existing.\n\nAnd the term \"**USB killer**\" actually means something else: a malicious USB device that will inject high voltage into the connected USB socket and sabotage the circuit.",
+      "score": 1,
+      "created_utc": 1750844061.0,
+      "replies": []
+    },
+    {
+      "id": "myzojb9",
+      "author": "Befuddled_Scrotum",
+      "body": "What supports FireWire anyways? I\u2019d assume commercial stuff but like what? I\u2019ve not seen anything with FireWire since the late 2000s",
+      "score": 1,
+      "created_utc": 1750516045.0,
+      "replies": [
+        {
+          "id": "myzpzud",
+          "author": "soundman32",
+          "body": "I use a digital mixing desk (Behringer X32), and it uses FireWire.  There is a USB model, but it wasn't available when I bought it.  \n\nI'm pretty glad i stuck with Windows because Apple pulls this kind of shit all the time.",
+          "score": 3,
+          "created_utc": 1750516526.0,
+          "replies": [
+            {
+              "id": "myzyyea",
+              "author": "SuperFLEB",
+              "body": "Now there's some irony. Staying on Windows because they still support FireWire.",
+              "score": 3,
+              "created_utc": 1750519425.0,
+              "replies": [
+                {
+                  "id": "mz04pkh",
+                  "author": "cute_polarbear",
+                  "body": "There are many legacy systems / applications that windows still support even after 30 years...",
+                  "score": 5,
+                  "created_utc": 1750521242.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mz4ko7e",
+      "author": "dextercho83",
+      "body": "Good to know that not everything Apple touches turns to gold",
+      "score": 1,
+      "created_utc": 1750584374.0,
+      "replies": []
+    },
+    {
+      "id": "mz2391r",
+      "author": "earthwormjimwow",
+      "body": "Seems dumb to just drop support when the drivers already work, and will continue to work with effectively no maintenance required.\n\nAt the very least keep it in as a user-selectable toggle to allow deprecated hardware.",
+      "score": 1,
+      "created_utc": 1750544254.0,
+      "replies": []
+    },
+    {
+      "id": "mz6m4u4",
+      "author": "Wise-Activity1312",
+      "body": "Because soldering on a newer connector is out of the question?\n\nThis is fucking stupid, OP.",
+      "score": 1,
+      "created_utc": 1750612694.0,
+      "replies": []
+    },
+    {
+      "id": "mz22uo8",
+      "author": "thebudman_420",
+      "body": "FireWire wasn't adopted by a fraction of devices that usb was.\n\nAlso Apple is one of the reasons why because they build their stuff for suppression similar to North Korea suppression.",
+      "score": 0,
+      "created_utc": 1750544111.0,
+      "replies": [
+        {
+          "id": "mz5zz48",
+          "author": "aguynamedbrand",
+          "body": "> FireWire wasn't adopted by a fraction of devices that usb was.\n\nActually FireWire was adopted by a fraction of the devices that USB was.",
+          "score": 1,
+          "created_utc": 1750605929.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myywvgp",
+      "author": "dustofdeath",
+      "body": "Who has actually ever used it?",
+      "score": -7,
+      "created_utc": 1750504798.0,
+      "replies": [
+        {
+          "id": "myz0j4s",
+          "author": "PenguinParty47",
+          "body": "The entire video production industry from 2000-2015 but Panasonic and Sony equipment in particular.\n\nIt was a very important part of both DVCAM and DVCPRO\u2019s success, both of which pulled the industry from the analog to digital worlds.\n\nDigitally capturing video either required an expensive capture card or just any computer with FireWire, which was definitely a big deal. This meant a cheap iMac could do what you\u2019d otherwise need a high-end workstation for. FireWire was very important.",
+          "score": 26,
+          "created_utc": 1750506575.0,
+          "replies": [
+            {
+              "id": "myz95yf",
+              "author": "Eruannster",
+              "body": "Yup. I went to media school (video production and radio) and we had Sony miniDV/HDV cameras that were all FireWire. And our Avid addon boxes for video output, audio interfaces and tape decks were all FireWire.",
+              "score": 3,
+              "created_utc": 1750510323.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myz04u4",
+          "author": "thanatossassin",
+          "body": "Late 90s, DV cameras and professional audio required the use of firewire. USB was incapable of transferring data fast enough back then. \n\nToday? Literally no one.",
+          "score": 16,
+          "created_utc": 1750506389.0,
+          "replies": [
+            {
+              "id": "myzkfcb",
+              "author": "natayaway",
+              "body": "Music oldheads trying to jumpstart their old iPods from decades ago whose batteries have been flat from sitting in a drawer for twenty years.\n\nFirewire is still beloved for that.",
+              "score": 2,
+              "created_utc": 1750514636.0,
+              "replies": [
+                {
+                  "id": "myzseok",
+                  "author": "scriptgod",
+                  "body": "Still using my old iPod (2016), has enough charge in winter for 25-30 min run and an hour in summer. Headphone jack usually dies first sadly.",
+                  "score": 1,
+                  "created_utc": 1750517318.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "myzqnuc",
+              "author": "510Goodhands",
+              "body": "No one, with a possible exception of millions of people who still have so-called legacy machines.\n\nI just pulled a perfectly functioning 21 inch iMac out of a knee waist bin. The previous owner didn\u2019t bother to remove their data or even sign out from my iCloud. Cue my trusty Firewire 800 drive to erase and reinstall the OS.\n\nAnd yes, it still works fine for backups using a fire wire to thunderbolt adapter. Just because you never used it, doesn\u2019t mean it\u2019s not useful.",
+              "score": 1,
+              "created_utc": 1750516746.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "myyzw1p",
+          "author": "KingRo48",
+          "body": "I\u2019m pretty sure I ha a video camera (feeling old now) that connected for data transfer with my laptop through FireWire.",
+          "score": 4,
+          "created_utc": 1750506273.0,
+          "replies": []
+        },
+        {
+          "id": "myyxg3h",
+          "author": "Hipcatjack",
+          "body": "FireWire could daisy chain when usb couldn\u2019t.(technically still can\u2019t, but work a\nRounds make It not a big deal). As a niche hardware guy that was clutch back in the day.",
+          "score": 7,
+          "created_utc": 1750505086.0,
+          "replies": [
+            {
+              "id": "myyy9mh",
+              "author": "FigeaterApocalypse",
+              "body": "What is the benefit to a daisy chain with ports? I'm only familiar in an electrical capacity, when it's usually *not* wanted, bc if one in the link goes down, the rest of the chain is down too.",
+              "score": 2,
+              "created_utc": 1750505493.0,
+              "replies": [
+                {
+                  "id": "myz2rj5",
+                  "author": "jaymz168",
+                  "body": "It means that you don't need hubs.  They carried that over to Thunderbolt as well but then added hubs to TB4.",
+                  "score": 9,
+                  "created_utc": 1750507599.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myz9m39",
+          "author": "angryCinematographer",
+          "body": "Adults.",
+          "score": 7,
+          "created_utc": 1750510504.0,
+          "replies": []
+        },
+        {
+          "id": "myz8t5q",
+          "author": "Eruannster",
+          "body": "I studied media (video production/radio) in the mid 2000s and the cameras and some Avid addon box that did video output to broadcast displays all connected via FireWire (400). Oh, and the miniDV tape decks for ingesting media were also FireWire.\n\n\nI also had a FireWire hard drive (that also had USB, but FireWire 800 was faster than USB 2.0 at the time) and I've also seen a couple of audio interfaces (though I haven't used those much myself).",
+          "score": 3,
+          "created_utc": 1750510182.0,
+          "replies": []
+        },
+        {
+          "id": "myyxkkn",
+          "author": "blacksoxing",
+          "body": "There will be someone who has some use case for it\u2026.the vast majority did not",
+          "score": 2,
+          "created_utc": 1750505148.0,
+          "replies": [
+            {
+              "id": "myz0i1v",
+              "author": "thanatossassin",
+              "body": "Professional audio engineers and video editors were 100% using firewire in the late 90s/early 00s. USB was not up to the task back then and way too slow to foster decent transfer speeds.",
+              "score": 7,
+              "created_utc": 1750506561.0,
+              "replies": [
+                {
+                  "id": "myz55k8",
+                  "author": "blacksoxing",
+                  "body": "It\u2019s 2025 though. That\u2019s the entire point of my post. The vast majority has NOT used this",
+                  "score": 4,
+                  "created_utc": 1750508646.0,
+                  "replies": [
+                    {
+                      "id": "myzzqhh",
+                      "author": "bobreturns1",
+                      "body": "Mixers aren't phones and laptops, they don't need to be upgraded to run new instruments every two years. The lifespan of audio tech is waaaay longer than modern computers.",
+                      "score": 1,
+                      "created_utc": 1750519673.0,
+                      "replies": [
+                        {
+                          "id": "mz0m1a8",
+                          "author": "blacksoxing",
+                          "body": "As this is my third comment I want to notate that my previous two stand with replies that are explaining this as if I stated that this doesn\u2019t have a purpose. False. I\u2019ve stated that the majority HASNT used this. \n\nI am disabling comments as I feel folks want to have a different discussion that I don\u2019t need to engage in. Please do though find the right people to reply to \ud83d\udc4d",
+                          "score": -1,
+                          "created_utc": 1750526694.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "myzc49d",
+                  "author": "DrAnklePumps",
+                  "body": "Professional AV engineers of only a few decades, from a few decades ago, is the definition of a small minority of people.",
+                  "score": 1,
+                  "created_utc": 1750511503.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "myz07cq",
+          "author": "imetators",
+          "body": "Had firewire for my MiniDV camera to rip footage off. Imo flimsy and not as useful as USB. Maybe only good for higher power charging",
+          "score": 1,
+          "created_utc": 1750506422.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "myzn9ri",
+      "author": "artguy55",
+      "body": "I believe I have already purchased my last apple product.  Hello Linux!",
+      "score": -1,
+      "created_utc": 1750515623.0,
+      "replies": []
+    },
+    {
+      "id": "myz6gsj",
+      "author": "tooclosetocall82",
+      "body": "Damn I wonder if this means I\u2019ll have to retire my cinema displays.",
+      "score": 0,
+      "created_utc": 1750509217.0,
+      "replies": []
+    },
+    {
+      "id": "mz331k4",
+      "author": "Redbird9346",
+      "body": "Cue the modders that will replace the 6-pin FireWire port on those classic iPods with USB type C.",
+      "score": 0,
+      "created_utc": 1750557487.0,
+      "replies": []
+    },
+    {
+      "id": "myzi7le",
+      "author": "Celemourn",
+      "body": "FireWire hasn\u2019t been used in a Mac in decades.",
+      "score": -1,
+      "created_utc": 1750513837.0,
+      "replies": [
+        {
+          "id": "myzzbpg",
+          "author": "bobreturns1",
+          "body": "Tell that to my M1 macbook with an Alesis 8 Channel Firewire Mixer plugged into it.",
+          "score": 3,
+          "created_utc": 1750519541.0,
+          "replies": [
+            {
+              "id": "mz1c5e7",
+              "author": "FrogTosser",
+              "body": "Or my Focusrite Claret 8Pro",
+              "score": 2,
+              "created_utc": 1750535123.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mz4b7dj",
+      "author": "meapplejak",
+      "body": "No one is more stubborn than an iPhone user that won't switch to Android",
+      "score": -2,
+      "created_utc": 1750578666.0,
+      "replies": []
+    },
+    {
+      "id": "myz1lks",
+      "author": "kerbaal",
+      "body": "Huh? A USB Killer is a device that hooks a USB port up to wall power, or otherwise destroys it with massive overvoltage. It is a specific thing. \n\nUSB killers are not dead, USB Ports however, can be.",
+      "score": -16,
+      "created_utc": 1750507071.0,
+      "replies": [
+        {
+          "id": "myz429q",
+          "author": "shwr_twl",
+          "body": "Read the remainder of the title. \nFireWire was a USB competitor and at one time was superior, thus being marketed as \u201cthe USB Killer\u201d. \nAnd then they made intel mad and we got our alternate future where USB is the standard and FireWire lives primarily on Apple and AV products.\n\nIt\u2019s not talking about the electrical murder device.",
+          "score": 5,
+          "created_utc": 1750508169.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mz14ngr",
+      "author": "Hazelnut_Bread",
+      "body": "As a gen Z person who\u2019s into PC building, vintage speakers, VHS and DVD players, and synthesizers (all to say I know my way around cables), what the fuck is FireWire",
+      "score": -1,
+      "created_utc": 1750532614.0,
+      "replies": [
+        {
+          "id": "mz26fyz",
+          "author": "dakta",
+          "body": "FireWire is (was?) a high speed data interconnect developed by Apple, Sony, and Panasonic. It was standardized in 1995 and first shipped as an option on Macs in 1997, although it was included in many digital camcorders before that. USB was standardized in 1996, after FireWire.\n\nApple shipped FireWire support in basically every Mac from 1999 onwards, at least from 2003 onwards, which was great for the A/V industry. A lot of audio and video equipment used it, due to the higher bandwidth full duplex protocol. It also supported much higher bus power current, which was a nice bonus.",
+          "score": 1,
+          "created_utc": 1750545407.0,
+          "replies": []
+        },
+        {
+          "id": "mz1dih5",
+          "author": "TheBlackCat13",
+          "body": "It was one of several attempts by apple to make a better version of USB that would draw people to Mac. It was popular very briefly but never was more popular than USB and USB 2 killed it.",
+          "score": 0,
+          "created_utc": 1750535577.0,
+          "replies": []
+        },
+        {
+          "id": "mz1z4bn",
+          "author": "geminijono",
+          "body": "It was a thing around 2003-2005 and then very quickly not a thing.",
+          "score": 0,
+          "created_utc": 1750542793.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mz17ffk",
+      "author": "Loud-Pie-8608",
+      "body": "Wonder why they just didn't get on board at the beginning? They're customers can find USB anything virtually anywhere",
+      "score": -1,
+      "created_utc": 1750533533.0,
+      "replies": []
+    },
+    {
+      "id": "myzhmrl",
+      "author": "drvenkman9",
+      "body": "Apple was working on FireWire support but at the very last minute, they discovered it wasn\u2019t quite ready to be a game-changing, best-in-class feature that would delight customers. Because Apple is a tiny startup with limited resources, they had to pull it. But, not to worry, because now Apple has a clear upgrade path to bring-back support for a much beloved feature, further strengthening the strongest pipeline ever.",
+      "score": -2,
+      "created_utc": 1750513623.0,
+      "replies": [
+        {
+          "id": "mz036wl",
+          "author": "Specialist_Brain841",
+          "body": "file a radar if you really need it so bad /s",
+          "score": 1,
+          "created_utc": 1750520763.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

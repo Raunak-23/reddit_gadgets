@@ -1,0 +1,49 @@
+metric,value
+file,1lxy01q.csv
+title,Tiny lab-in-a-pill can monitor your gut health from the inside | This wireless pill that tracks your digestive system in real time could revolutionize gut health monitoring
+rows,58
+num_posts,1
+num_comments,57
+unique_authors,43
+max_depth,12
+avg_comment_words,23.11
+median_comment_words,19.0
+max_comment_words,83
+positive_count,11
+negative_count,46
+neutral_count,0
+positive_pct,19.298
+negative_pct,80.702
+neutral_pct,0.0
+topic_1_keywords,"gut, never, one, things, microbiome, maintained, incredibly, borg"
+topic_1_label,borgs are incredibly incredibly sexy
+topic_2_keywords,"seek, faculties, notification, get, gastrointestinal, eminent, glasses, immediately"
+topic_2_label,gastrointestinal symptoms and eminent symptoms of getting glasses
+topic_3_keywords,"answer, using, wrong, knew, ai, pillcam, digestive, visually"
+topic_3_label,"ai, pillcam, digestive"
+topic_4_keywords,"dont, time, im, life, hard, admitting, wrong, ai"
+topic_4_label,i dont know what to do
+topic_5_keywords,"momma, dont, eat, food, isnt, said, always, stuff"
+topic_5_label,momma doesn't eat food
+topic_6_keywords,"hours, around, body, even, ready, time, mention, like"
+topic_6_label,"if you're ready to go out for a walk, you'll be ready for the day"
+top_ngram_1,seek faculties (5)
+top_ngram_2,one things (4)
+top_ngram_3,things borg (4)
+top_ngram_4,borg never (4)
+top_ngram_5,never mention (4)
+top_ngram_6,mention incredibly (4)
+top_ngram_7,incredibly maintained (4)
+top_ngram_8,maintained gut (4)
+top_ngram_9,gut microbiome (4)
+top_ngram_10,one things borg (4)
+ner_1,Borg|ORG|4
+ner_2,PillCam|MISC|4
+ner_3,Taco Bell|ORG|3
+ner_4,Gemini|PER|2
+ner_5,##llC|MISC|2
+ner_6,##rano|MISC|2
+ner_7,Google AI|ORG|2
+ner_8,##co Bell|ORG|1
+ner_9,##co|MISC|1
+ner_10,##er Egg|MISC|1

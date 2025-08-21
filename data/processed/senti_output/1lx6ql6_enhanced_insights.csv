@@ -1,0 +1,49 @@
+metric,value
+file,1lx6ql6.csv
+title,GPD MicroPC 2 is a pocket-sized PC with Intel's new Twin Lake chip | First update in six years for the 7-inch Windows (or Linux) 2-in-1
+rows,9
+num_posts,1
+num_comments,8
+unique_authors,9
+max_depth,2
+avg_comment_words,55.12
+median_comment_words,52.0
+max_comment_words,88
+positive_count,0
+negative_count,8
+neutral_count,0
+positive_pct,0.0
+negative_pct,100.0
+neutral_pct,0.0
+topic_1_keywords,"update, im, ads, throat, shove, want, windows, purpose"
+topic_1_label,i want to update windows
+topic_2_keywords,"intel, cpu, hot, inb4, gets, chip, desolders, linux"
+topic_2_label,linux gets hot in cpu
+topic_3_keywords,"linux, stuff, smaller, os, need, oh, like, dont"
+topic_3_label,"Linux, os, need"
+topic_4_keywords,"micro, original, pc, linux, took, traveling, sysadmin, little"
+topic_4_label,sysadmin takes little micro
+topic_5_keywords,"smaller, stuff, oh, need, like, os, 65gigs, dont"
+topic_5_label,"oh, oh, oh, oh, oh, oh, oh,"
+topic_6_keywords,"linux, stuff, smaller, os, need, oh, like, dont"
+topic_6_label,"Linux, os, need"
+top_ngram_1,original micro (3)
+top_ngram_2,micro pc (3)
+top_ngram_3,original micro pc (3)
+top_ngram_4,update purpose (3)
+top_ngram_5,purpose want (3)
+top_ngram_6,want shove (3)
+top_ngram_7,shove ads (3)
+top_ngram_8,ads throat (3)
+top_ngram_9,update purpose want (3)
+top_ngram_10,purpose want shove (3)
+ner_1,Linux|MISC|6
+ner_2,Intel|ORG|3
+ner_3,Micro PC|MISC|3
+ner_4,Windows|MISC|2
+ner_5,##dgets|ORG|1
+ner_6,GPD|MISC|1
+ner_7,CPU|MISC|1
+ner_8,##mes|ORG|1
+ner_9,##gecomposetor|ORG|1
+ner_10,Luckeep X1|MISC|1

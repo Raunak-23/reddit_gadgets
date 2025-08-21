@@ -1,0 +1,49 @@
+metric,value
+file,1lkjm63.csv
+title,"The Trump Phone no longer promises it’s made in America | Now the T1 Phone is ‘designed with American values in mind,’ which is… different."
+rows,736
+num_posts,1
+num_comments,735
+unique_authors,651
+max_depth,10
+avg_comment_words,26.25
+median_comment_words,18.0
+max_comment_words,158
+positive_count,142
+negative_count,593
+neutral_count,0
+positive_pct,19.32
+negative_pct,80.68
+neutral_pct,0.0
+topic_1_keywords,"gonna, made, corners, cut, shit, design, end, included"
+topic_1_label,gonna cut the corners of the shit
+topic_2_keywords,"american, values, china, would, one, made, year, donate"
+topic_2_label,china would donate one to a charity in year
+topic_3_keywords,"mind, made, american, values, profit, customer, america, screwing"
+topic_3_label,america screwing on mind
+topic_4_keywords,"phone, trump, america, made, make, tariffs, even, thing"
+topic_4_label,trump makes phone even
+topic_5_keywords,"stupid, dont, even, people, thing, like, made, trump"
+topic_5_label,stupid people like to make trumps
+topic_6_keywords,"actually, didnt, win, plan, want, things, truly, believe"
+topic_6_label,i don t believe in a plan
+top_ngram_1,american values (79)
+top_ngram_2,thing stupid (45)
+top_ngram_3,even thing (44)
+top_ngram_4,even thing stupid (44)
+top_ngram_5,made america (34)
+top_ngram_6,values mind (23)
+top_ngram_7,american values mind (22)
+top_ngram_8,patriot wireless (22)
+top_ngram_9,trump phone (21)
+top_ngram_10,made profit (21)
+ner_1,American|MISC|107
+ner_2,Trump|PER|80
+ner_3,America|LOC|66
+ner_4,China|LOC|36
+ner_5,US|LOC|32
+ner_6,Trump|MISC|24
+ner_7,Patriot Wireless|ORG|22
+ner_8,USA|LOC|18
+ner_9,Chinese|MISC|15
+ner_10,Patriot Mobile|ORG|12

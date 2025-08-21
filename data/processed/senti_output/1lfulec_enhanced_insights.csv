@@ -1,0 +1,49 @@
+metric,value
+file,1lfulec.csv
+title,Govee pixel light review: Good for gaming setup
+rows,19
+num_posts,1
+num_comments,18
+unique_authors,18
+max_depth,3
+avg_comment_words,45.78
+median_comment_words,42.5
+max_comment_words,90
+positive_count,10
+negative_count,8
+neutral_count,0
+positive_pct,55.556
+negative_pct,44.444
+neutral_pct,0.0
+topic_1_keywords,"years, kind, ive, lights, govee, bought, like, lol"
+topic_1_label,i like the light bulbs
+topic_2_keywords,"govee, also, like, backlights, always, times, support, calibrate"
+topic_2_label,govees always support the backlights
+topic_3_keywords,"tv, thats, backlight, wish, hardware, companies, feature, bought"
+topic_3_label,tv with backlights and a backlight
+topic_4_keywords,"tv, backlight, lights, bought, products, bunch, room, good"
+topic_4_label,tv lights bought in room
+topic_5_keywords,"one, name, govee, bought, good, look, pixoo64, divoom"
+topic_5_label,divoom divoom
+topic_6_keywords,"lol, weird, frame, gamery, didnt, great, would, pixoo64"
+topic_6_label,idk idk idk idk idk idk idk
+top_ngram_1,tv backlight (13)
+top_ngram_2,built philips (8)
+top_ngram_3,philips tv (8)
+top_ngram_4,built philips tv (8)
+top_ngram_5,bought bunch (7)
+top_ngram_6,trying shill (6)
+top_ngram_7,shill ive (6)
+top_ngram_8,ive bought (6)
+top_ngram_9,bunch room (6)
+top_ngram_10,room lights (6)
+ner_1,Philips|ORG|8
+ner_2,TV|MISC|6
+ner_3,##ve|ORG|2
+ner_4,##om Pixoo64|MISC|1
+ner_5,##vee|ORG|1
+ner_6,Baldurs Gate|ORG|1
+ner_7,Di|MISC|1
+ner_8,##vo|ORG|1
+ner_9,API|MISC|1
+ner_10,Go|PER|1

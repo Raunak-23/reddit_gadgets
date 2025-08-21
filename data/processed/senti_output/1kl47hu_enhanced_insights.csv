@@ -1,0 +1,49 @@
+metric,value
+file,1kl47hu.csv
+title,NVIDIA Has Implemented a Massive Price Hike Across Its AI/Gaming GPU Offerings To Maximize Profitability & Counter Losses From China
+rows,315
+num_posts,1
+num_comments,314
+unique_authors,222
+max_depth,11
+avg_comment_words,63.94
+median_comment_words,42.5
+max_comment_words,509
+positive_count,40
+negative_count,248
+neutral_count,26
+positive_pct,12.739
+negative_pct,78.981
+neutral_pct,8.28
+topic_1_keywords,"nvidia, china, card, gpu, prices, amd, losses, right"
+topic_1_label,"nvidia, gpu, gpu, prices"
+topic_2_keywords,"minecraft, games, still, game, know, gaming, mainstream, really"
+topic_2_label,"Minecraft: a game that is still, but still, still, and still"
+topic_3_keywords,"lead, im, nvidia, gaming, long, good, isnt, still"
+topic_3_label,nvidia 's long isnt and isnt still
+topic_4_keywords,"amd, nvidia, intel, market, gpus, make, monopoly, year"
+topic_4_label,monopoly of nvidia intel in monopoly
+topic_5_keywords,"amd, nvidia, market, price, intel, catching, paying, move"
+topic_5_label,nvidia moves to market
+topic_6_keywords,"amd, gpu, cards, upgrade, series, theres, time, im"
+topic_6_label,cards upgrade series
+top_ngram_1,intel amd (25)
+top_ngram_2,price hikes (19)
+top_ngram_3,amd intel (18)
+top_ngram_4,amd catching (16)
+top_ngram_5,cash cow (15)
+top_ngram_6,ones paying (15)
+top_ngram_7,amd gpus (15)
+top_ngram_8,buy nvidia (13)
+top_ngram_9,increase losses (13)
+top_ngram_10,theyve got (13)
+ner_1,AMD|ORG|107
+ner_2,Nvidia|ORG|90
+ner_3,Intel|ORG|64
+ner_4,NVIDIA|ORG|32
+ner_5,##vidia|ORG|29
+ner_6,China|LOC|27
+ner_7,##D|ORG|19
+ner_8,AM|MISC|15
+ner_9,ATI|ORG|13
+ner_10,##vid|ORG|12

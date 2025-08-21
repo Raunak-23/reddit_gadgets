@@ -1,0 +1,49 @@
+metric,value
+file,1m74gkd.csv
+title,Why the ThinkPad 701 became a cult legend in computer history
+rows,49
+num_posts,1
+num_comments,48
+unique_authors,37
+max_depth,9
+avg_comment_words,68.02
+median_comment_words,52.0
+max_comment_words,492
+positive_count,7
+negative_count,25
+neutral_count,16
+positive_pct,14.583
+negative_pct,52.083
+neutral_pct,33.333
+topic_1_keywords,"x1, gen, ive, carbon, nub, still, convenient, price"
+topic_1_label,"x1 gen, ive, carbon, nub, price"
+topic_2_keywords,"power, enough, one, like, keyboard, going, built, im"
+topic_2_label,"power, enough, one"
+topic_3_keywords,"laptop, screen, space, thin, laptops, limited, fat, waaay"
+topic_3_label,Laptops with limited space and limited space
+topic_4_keywords,"laptop, said, lot, use, much, brick, thinkpad, carbon"
+topic_4_label,"laptop, thinkpad, laptop, brick"
+topic_5_keywords,"day, notes, got, best, ever, ptsd, crew, outlook"
+topic_5_label,ptsd got the best ever
+topic_6_keywords,"old, etc, would, chassis, token, ring, battery, office"
+topic_6_label,ad battery for office
+top_ngram_1,x1 carbon (9)
+top_ngram_2,power supply (7)
+top_ngram_3,gen 13 (7)
+top_ngram_4,fortunate enough (6)
+top_ngram_5,lotus notes (6)
+top_ngram_6,im old (5)
+top_ngram_7,old enough (5)
+top_ngram_8,enough fortunate (5)
+top_ngram_9,enough traveled (5)
+top_ngram_10,traveled globally (5)
+ner_1,Lenovo|ORG|7
+ner_2,IBM|ORG|6
+ner_3,India|LOC|5
+ner_4,Lotus Notes|MISC|4
+ner_5,Customs|ORG|4
+ner_6,##1 Super|MISC|4
+ner_7,ThinkPad|MISC|4
+ner_8,Thinkpad|MISC|3
+ner_9,Thinkpad|ORG|3
+ner_10,X1 Carbon Gen 13|MISC|3

@@ -1,0 +1,908 @@
+{
+  "post": {
+    "title": "NVIDIA Shield Experience 9.2: 10 Years of Android Updates",
+    "author": "overseergti",
+    "id": "1iixwfn",
+    "score": 530,
+    "created_utc": 1738830476.0,
+    "selftext": "",
+    "num_comments": 108,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1iixwfn/nvidia_shield_experience_92_10_years_of_android/"
+  },
+  "comments": [
+    {
+      "id": "mb9ni3d",
+      "author": "--Arete",
+      "body": "Where is AV1 support? We need a new Shield.\n\nEdit: Just go the Google TV Streamer (4k) and I love it. It is a lot faster in every app and it can decode AV1 flawlessly. Can't believe I was stuck on the Shield for so long.",
+      "score": 141,
+      "created_utc": 1738835438.0,
+      "replies": [
+        {
+          "id": "mb9r0je",
+          "author": "AfroDiddyKing",
+          "body": "Yeh definitely new shield is needed. Unfortunately old hardware doesn't support it.",
+          "score": 49,
+          "created_utc": 1738837592.0,
+          "replies": [
+            {
+              "id": "mba9ec0",
+              "author": "NoFeetSmell",
+              "body": "Does AV1 require a special codec chip or something? I'm having trouble wrapping my head around why doesn't old hardware support what I thought was just a codec/container? I'm a layman when it comes to video encoding, mind, so please pardon my ignorance. Is it just that old hardware is too slow to decode the files in real-time? And if that's the case - why? Is it like uncompressing a zip file for a huge file or something?",
+              "score": 12,
+              "created_utc": 1738846755.0,
+              "replies": [
+                {
+                  "id": "mbaawuu",
+                  "author": "Sopel97",
+                  "body": "there are software decoders for av1, and they are fast https://code.videolan.org/videolan/dav1d, but hardware like nvidia shield, and the crappy software like netflix it is made to run, is made in a way such that pretty much only hardware accelerated decoders exposed by the OS are usable\n\nuse vlc on it and it would probably work fine",
+                  "score": 30,
+                  "created_utc": 1738847344.0,
+                  "replies": [
+                    {
+                      "id": "mbevvv1",
+                      "author": "NoFeetSmell",
+                      "body": "Yeah, I've VLC for *every* video since it was first released, cos it was a slightly confusing, somewhat opaque requirement downloading all the klite codec packs, etc. I guess I've just never tried opening a file that my hardware couldn't handle yet, but I don't own a Shield or anything similar, and my phone's screen res is so low that it doesn't even make sense trying to open a 4k AV1 file on it.",
+                      "score": 4,
+                      "created_utc": 1738896705.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mbal0xy",
+                  "author": "alidan",
+                  "body": "you can brute force codecs to work, but that requires cpu power\n\nmobile phone chips don't have cpu power, the reason they seem as powerful as they do is because of hardware based accelerators for specific tasks. the need for av1 honestly isn't really there, its a nice to have not needed for shield use cases.",
+                  "score": 7,
+                  "created_utc": 1738850926.0,
+                  "replies": [
+                    {
+                      "id": "mbeuyjw",
+                      "author": "NoFeetSmell",
+                      "body": "OK, so because AV1 is apparently more efficient, and \"can compress video files to a smaller size without sacrificing quality, which can save on bandwidth costs, so better for streaming\" (text from Google's AI summary), that presumably just means it takes more cpu or hardware juice to unpack the files. Got it.",
+                      "score": 1,
+                      "created_utc": 1738896389.0,
+                      "replies": [
+                        {
+                          "id": "mbfv6ui",
+                          "author": "alidan",
+                          "body": "smaller file sizes for the same quality same sizes for higher quality, on a phone with limited battery, toy cant brute force it due to power consumption or even the cpu just not being able to handle it. unless something changed, I am able to encode h261 at around 90-120fps cpu only, av1 is around 1fps with 100% utilization at best, just to give an idea how much more it demands, decode is a lot faster but its kinda hard to express \"it runs at the same framerate\" in a way that matters, hardware encode and decode do excellerate everything (encode is crappier than cpu encode just by its nature, but decode is perfectly fine)\n\nat some point services will hard transition over and not offer other formats in tandem, so it will be an issue at some point,",
+                          "score": 3,
+                          "created_utc": 1738911316.0,
+                          "replies": [
+                            {
+                              "id": "mbg05o3",
+                              "author": "NoFeetSmell",
+                              "body": "It's curious to me that \"efficiency\" in this case refers exclusively to how much compression it can't achieve, instead of factoring in power draw too! If it requires 100% cpu, that sounds waaaay less efficient to me, in real-world terms of power cost & energy, instead of just bandwidth usage (though I know your example is about the initial encoding, and not the *decoding* step that's more relevant for us users when we're streaming it in, which is what I was really talking about when asking why the Shield couldn't handle them). \n\nThanks for all the insights though, mate. I used to work in a small archviz studio, so I have a *basic* grasp of the intricacies involved in encoding video, but I was the 3d generalist there, not the video guy handling final output, so I didn't learn too much on the video side (and it was 20ish years ago!).",
+                              "score": 1,
+                              "created_utc": 1738914141.0,
+                              "replies": [
+                                {
+                                  "id": "mbg4o7q",
+                                  "author": "alidan",
+                                  "body": "For the most part, end users aren't the target for \"high end\" encode, most of the use for encode is streaming video to something or transcoding it, and at this point a gpu encoder and a device decoder is good enough at any codec because you are going off a closed gbps network, however the difference between is generally what h264 does in 42kb, av1 does in 13kb and comes out 10% higher quality, and that is an absolutely massive bandwidth save over time, h265 for example is able to pull ahead and then also loose its place depending on target quality, however h265 requires a licensing fee, while av1 does not. \n\neffectively, for you, whatever works (I looked it up to reply, more modern software renderers for av1 are only about 30% slower while compressing to 75% more and 10% better output) is best, if I had nvidia I would use a very high bandwidth h264 encoder for vr, but I am on amd so av1 is my best option, if I was going to store something I would use av1 given the disparity in encode time. \n\nfor an enterprise/netflix/youtube, av1 would let them drastically cut down file size to store, and more importantly file size to server the content while maintaining a level of quality you are ok with. \n\nthe extra 30% encode time ends up saving them a substantial amount of money long term",
+                                  "score": 2,
+                                  "created_utc": 1738916836.0,
+                                  "replies": [
+                                    {
+                                      "id": "mbgkioc",
+                                      "author": "NoFeetSmell",
+                                      "body": "Ah, ok then. That makes a lot of sense. That's all excellent info - thanks again, mate!",
+                                      "score": 1,
+                                      "created_utc": 1738926496.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mbav8q1",
+          "author": "rmusic10891",
+          "body": "I doubt it\u2019s worth Nvidia\u2019s time at this point. Too busy making Scrooge mcduck amounts of money off AI",
+          "score": 13,
+          "created_utc": 1738854189.0,
+          "replies": [
+            {
+              "id": "mbcwy93",
+              "author": "zzazzzz",
+              "body": "given their investment in a desktop arm cpu i could see them tossing out an updated shield down the road with some bottom of the barrel new chips that didnt bin well enough to go into a desktop cpu.",
+              "score": 3,
+              "created_utc": 1738874688.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mba6cv2",
+          "author": "NickCharlesYT",
+          "body": "I gave up on the platform entirely, honestly. Held onto my 2017 model for as long as I could but the performance just wasn't there for 4k hdr content anymore. Ultimately replaced it with an apple tv 4k when I saw the latest model shield was STILL somehow the 2019 with a major ram and storage downgrade, and had barely any benefit elsewhere even if I were to bump to the pro model...",
+          "score": 1,
+          "created_utc": 1738845503.0,
+          "replies": [
+            {
+              "id": "mbb51bi",
+              "author": "AustinLurkerDude",
+              "body": "Can you expand on this? I have a 2015 and 2019 that I use daily and no issues with playing 4K content through KODI. Even x265 content. \n\n  \nI'd love a sequel, but my existing usecases aren't broken yet.",
+              "score": 12,
+              "created_utc": 1738857044.0,
+              "replies": [
+                {
+                  "id": "mbe2uaf",
+                  "author": "CAElite",
+                  "body": "Ditto, have the same, \u201819 that hosts my Plex server and runs as my main media centre, my old \u201815 I\u2019ve given to my mum who hits my Plex server.\n\nHave never had any problems with performance if I\u2019m honest. Good portion of my media is low loss 4K hevc. Plex server leaves a little to be desired sometimes, and if I recall correctly it occasionally doesn\u2019t get along will with .mp4 contained media.",
+                  "score": 3,
+                  "created_utc": 1738887014.0,
+                  "replies": []
+                },
+                {
+                  "id": "mbb8u2c",
+                  "author": "NickCharlesYT",
+                  "body": "Good for you? Didn't work here on Plex or YouTube. Probably app performance issues. But the result is the same, it was unusable.",
+                  "score": -19,
+                  "created_utc": 1738858114.0,
+                  "replies": [
+                    {
+                      "id": "mbbd7uq",
+                      "author": "AustinLurkerDude",
+                      "body": "I didn't buy the newer cylinder shaped one, but the older ones don't have the youtube codec because apparently its not free.\n\nYoutube HDR unfortunately has never worked for me too.\n\nPLEX and KODI both work for me with 4K ATMOS. I wonder if you're doing transcoding? Are you using PELX as a server or client on the Shield? As a client it shouldnt have any issues unless its over wifi.\n\n  \np.s. Is the Apple tv 4K better? I'm open to alternatives as compared to the rest of my AV equipment, $150 isn't much. I'd find something that handles DolbyVision colormapping for my Epson projector to be worth upgrading.",
+                      "score": 3,
+                      "created_utc": 1738859338.0,
+                      "replies": [
+                        {
+                          "id": "mbbdrfx",
+                          "author": "NickCharlesYT",
+                          "body": "No I didn't use plex as a server on the shield. I have a dedicated box for that. IDK what to tell you really, most of my issues were with stuttery playback, nothing I did fixed it except downscaling to 1080p or removing HDR. I tried for years to fix it, and that was why I was looking at an upgrade from my 2017 shield in the first place. I guarantee you nothing you say now will have helped, but maybe nvidia finally got their shit together and issued a software fix after I gave up on them. Or, I'm frankly sensitive to microstutters so it's possible you and many others that think their TV is \"fine\" have the same issue and just don't notice it at all. Or maybe you have that awful motion smoothing enabled on your TV, I haven't a clue.",
+                          "score": -10,
+                          "created_utc": 1738859487.0,
+                          "replies": [
+                            {
+                              "id": "mbddqig",
+                              "author": "Thanges88",
+                              "body": "Were you video files in an mp4 container or mkv? Plex has issues playing mp4 h265 content for whatever reason. (which may be device dependent, but I know I have issues with that on shield client)",
+                              "score": 5,
+                              "created_utc": 1738879286.0,
+                              "replies": [
+                                {
+                                  "id": "mbej01b",
+                                  "author": "NickCharlesYT",
+                                  "body": "I'm sure it was a mix. Keep in mind this is two years ago now and my media library contains stuff from nearly a 10 year span.",
+                                  "score": 2,
+                                  "created_utc": 1738892317.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mbam8iy",
+              "author": "xkegsx",
+              "body": "Doing the same. Holding out for the next gen apple TV before switching them all. By then we'll know if apple updates to lossless audio passthrough and if Nvidia will make a new shield as the new switch should be out by then.\u00a0",
+              "score": 1,
+              "created_utc": 1738851328.0,
+              "replies": []
+            },
+            {
+              "id": "mbeyhcy",
+              "author": "daslicious",
+              "body": "I\u2019d like an upgrade but my 2019 plays a 100bit 4k video.  So far there\u2019s nothing it\u2019s had trouble with.  ( I assume we are all talking about the pro)",
+              "score": 1,
+              "created_utc": 1738897599.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mb9wvc1",
+      "author": "ImpulsePie",
+      "body": "Pretty happy with my 2019 Shield Pro, but it's overdue for a refresh. I'd like to see new hardware with AV1 and YouTube HDR support with VP9 profile 2. Also a properly working system wide match frame rate feature would be great. I've otherwise just replaced the default launcher to improve performance and get rid of the ads.",
+      "score": 57,
+      "created_utc": 1738840944.0,
+      "replies": [
+        {
+          "id": "mbc2zgf",
+          "author": "imakesawdust",
+          "body": "What launcher do you use?",
+          "score": 5,
+          "created_utc": 1738866431.0,
+          "replies": [
+            {
+              "id": "mbcapdy",
+              "author": "FrizzIeFry",
+              "body": "Projectivity is pretty popular, I've been using it for about a year now and have 0 complaints",
+              "score": 7,
+              "created_utc": 1738868548.0,
+              "replies": [
+                {
+                  "id": "mbp74lz",
+                  "author": "humanman42",
+                  "body": "projectivy is great. there are a couple things I have found it doesn't do, but generally I am very happy with it.",
+                  "score": 1,
+                  "created_utc": 1739039357.0,
+                  "replies": [
+                    {
+                      "id": "mbp95u5",
+                      "author": "FrizzIeFry",
+                      "body": "Out of curiosity, what are the features you're missing?",
+                      "score": 1,
+                      "created_utc": 1739039929.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mbdkbwm",
+              "author": "ImpulsePie",
+              "body": "Wolf Launcher, pretty minimal and haven't experienced any of the stuttering the NV one had.",
+              "score": 1,
+              "created_utc": 1738881189.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mbfl0kf",
+          "author": "redkeyboard",
+          "body": "Read the article about 2",
+          "score": 1,
+          "created_utc": 1738906279.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mba370a",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 25,
+      "created_utc": 1738844102.0,
+      "replies": [
+        {
+          "id": "mbalcln",
+          "author": "DBT85",
+          "body": "Tell me more about the launcher. I'm largely delighted with my 3 Shields but the ads have been annoying me for ages.",
+          "score": 9,
+          "created_utc": 1738851034.0,
+          "replies": [
+            {
+              "id": "mbas7ck",
+              "author": "izxion",
+              "body": "I use Projectivy Launcher which I believe can be loaded straight from the play store. Can be a tad clunky at times, but definitely worth it.",
+              "score": 9,
+              "created_utc": 1738853261.0,
+              "replies": [
+                {
+                  "id": "mbat20w",
+                  "author": "Intellectual-Cumshot",
+                  "body": "100% better than the Nvidia update that added ads to my home page. Pretty frustrated about that move still but projectivity keeps most the original look",
+                  "score": 4,
+                  "created_utc": 1738853526.0,
+                  "replies": []
+                },
+                {
+                  "id": "mbbg0cu",
+                  "author": "DBT85",
+                  "body": "Thanks, I'll take a look. How often does something kill it and you have to intervene?",
+                  "score": 3,
+                  "created_utc": 1738860106.0,
+                  "replies": [
+                    {
+                      "id": "mbg2i69",
+                      "author": "um_yeahok",
+                      "body": "I have run it on my three shields for a few months now. No issues at all yet. It works very well.",
+                      "score": 3,
+                      "created_utc": 1738915534.0,
+                      "replies": [
+                        {
+                          "id": "mbghuat",
+                          "author": "DBT85",
+                          "body": "Just loaded it up. Ahh that's nice. Basically stock without all the crap Google want to shove down my throat and I can hide everything I want to to boot. Need to have a look and see what paying for it gets me though as things stand this is doing everything I want.\n\nEDIT: paid up. got my own photos on the background now, though navigating that menu and the one to backup the settings on a shield is a bit clunky. Very happy though.",
+                          "score": 2,
+                          "created_utc": 1738924964.0,
+                          "replies": [
+                            {
+                              "id": "mbkmlpa",
+                              "author": "um_yeahok",
+                              "body": "Nice! \ud83d\udc4d",
+                              "score": 1,
+                              "created_utc": 1738972979.0,
+                              "replies": [
+                                {
+                                  "id": "mbkmu18",
+                                  "author": "um_yeahok",
+                                  "body": "Here's my setupm nice and clean.\nhttps://www.reddit.com/r/ShieldAndroidTV/s/Asion8KcWT",
+                                  "score": 2,
+                                  "created_utc": 1738973054.0,
+                                  "replies": [
+                                    {
+                                      "id": "mbn0tmx",
+                                      "author": "DBT85",
+                                      "body": "Sweet. Mine is similar and being able to copy the config to my other shields makes life so easy. Only shame is that the background part can't access a network location.",
+                                      "score": 1,
+                                      "created_utc": 1739010963.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mbs5q7r",
+          "author": "TMWNN",
+          "body": "> I have the 2015 Shield Pro and I love it. It has proved to be one of the best tech investments I've ever made.\n\nI briefly owned a used 2015 in 2019, before selling it and buying a used 2017.\n\nI envy the old-timers who bought 2015 in 2015. I could have been enjoying Shield life all that much longer.",
+          "score": 1,
+          "created_utc": 1739073991.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mb9joi0",
+      "author": "Additional_Desk8865",
+      "body": "It honestly shouldn\u2019t have gotten 10 years of updates. What it needed was a hardware refresh 5 years ago.",
+      "score": 48,
+      "created_utc": 1738833054.0,
+      "replies": [
+        {
+          "id": "mb9mwrf",
+          "author": "TheCookieButter",
+          "body": "It got a refresh 5 years and 3 months ago.\n\nAgreed it needs a new model though.",
+          "score": 38,
+          "created_utc": 1738835073.0,
+          "replies": [
+            {
+              "id": "mb9p2p0",
+              "author": "Additional_Desk8865",
+              "body": "When I think refresh I mean new chip, like PS4 to PS4 Pro, not just PS4 1001 to 1002",
+              "score": 14,
+              "created_utc": 1738836405.0,
+              "replies": [
+                {
+                  "id": "mba08qo",
+                  "author": "TheCookieButter",
+                  "body": "Oh yeah, it could definitely do with a new chip. A lower-end OLED (LG B4) puts its \"AI upscaling\" to shame, nevermind the fact it is missing newer codecs and full Dolby Vision support.\n\nI'd snap their hands off to buy a truly modern 2025 version of the Shield.",
+                  "score": 8,
+                  "created_utc": 1738842689.0,
+                  "replies": []
+                },
+                {
+                  "id": "mba1tj3",
+                  "author": "netver",
+                  "body": "Shield Pro 2019 was a new chip and new capabilities.",
+                  "score": -3,
+                  "created_utc": 1738843457.0,
+                  "replies": [
+                    {
+                      "id": "mba687x",
+                      "author": "Additional_Desk8865",
+                      "body": "No it was the same Tegra X1 on a new node, like what PlayStation does throughout a consoles life.",
+                      "score": 7,
+                      "created_utc": 1738845448.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mba46in",
+                      "author": "unfnknblvbl",
+                      "body": "Not really, it was still a Tegra X1",
+                      "score": 2,
+                      "created_utc": 1738844547.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mb9s1oz",
+          "author": "TessellatedGuy",
+          "body": "That implies 10 years of updates is a bad thing. They could easily do both.",
+          "score": 22,
+          "created_utc": 1738838214.0,
+          "replies": [
+            {
+              "id": "mb9t5fg",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -16,
+              "created_utc": 1738838863.0,
+              "replies": [
+                {
+                  "id": "mb9wb15",
+                  "author": "erm_what_",
+                  "body": "Mine is completely fine streaming all sorts of 4k media. Maybe you need to clean the fan out or repaste the heatsink?",
+                  "score": 11,
+                  "created_utc": 1738840637.0,
+                  "replies": []
+                },
+                {
+                  "id": "mb9uhed",
+                  "author": "TessellatedGuy",
+                  "body": "It's very likely that the OS updates have nothing to do with it. Android TV apps are just heavier and less optimized now. \n\nYou'll probably see the same behavior if you run these newer apps on older versions of the Shield firmware.",
+                  "score": 2,
+                  "created_utc": 1738839625.0,
+                  "replies": []
+                },
+                {
+                  "id": "mb9xhog",
+                  "author": "chronoswing",
+                  "body": "Which shield are we talking about? The pro runs smooth as butter.",
+                  "score": 4,
+                  "created_utc": 1738841274.0,
+                  "replies": []
+                },
+                {
+                  "id": "mba4lpr",
+                  "author": "unfnknblvbl",
+                  "body": "My OG Shield Pro is just fine. Smooth as butter. I just wish it had enough grunt to run some of the more difficult emulators..",
+                  "score": 0,
+                  "created_utc": 1738844736.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mbaoofw",
+      "author": "roshanpr",
+      "body": "MVP Device",
+      "score": 5,
+      "created_utc": 1738852128.0,
+      "replies": []
+    },
+    {
+      "id": "mben7h2",
+      "author": "tonysanv",
+      "body": "Since Switch 2 is on its way, one could expect similar SoC for the next Shield.",
+      "score": 5,
+      "created_utc": 1738893745.0,
+      "replies": []
+    },
+    {
+      "id": "mban4ap",
+      "author": "naxmtz91",
+      "body": "Yahoo!!! 10 years of everyday use and keeps running like a champ!\nProbably the best tech purchase I ever made.",
+      "score": 8,
+      "created_utc": 1738851619.0,
+      "replies": [
+        {
+          "id": "mxg2ril",
+          "author": "loranbriggs",
+          "body": "I agree, wish I could have a modern TV bypass it's smart features and default to this directly.",
+          "score": 1,
+          "created_utc": 1749760526.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mbfvlga",
+      "author": "paerius",
+      "body": "Does it still have ads on by default?",
+      "score": 4,
+      "created_utc": 1738911535.0,
+      "replies": []
+    },
+    {
+      "id": "mbb9yhw",
+      "author": "Defiant_Office",
+      "body": "Probably one of the next Android boxes I used. The previous ones were the Chinese ones and they crap out after 2-3 years. The fact that the shield runs great then my father's Sony with Android TV that is 2 years old is starting to lag shows how ahead the shield is. I also appreciate the upscaling that comes with it and it's noticeable if the stream is 720p",
+      "score": 3,
+      "created_utc": 1738858433.0,
+      "replies": []
+    },
+    {
+      "id": "mba9w6f",
+      "author": "Omikron",
+      "body": "I mean 10 years of updates is great, but I'd rather just have a new device.",
+      "score": 8,
+      "created_utc": 1738846951.0,
+      "replies": []
+    },
+    {
+      "id": "mb9uoky",
+      "author": "QuantumQuantonium",
+      "body": "\nOh the poor shield... Pcmr getting upset that nvidias ignoring them, meanwhile nvidia is straight up absent from new mobile consumer tech (except idk switch 2 might get the mythical X2 processor) except for whatever intern gradually releases these shield updates, which probably break disneyplus and probably need to be side loaded over adb or else google would revoke their license to keep the play store on their official ROM.",
+      "score": 10,
+      "created_utc": 1738839736.0,
+      "replies": [
+        {
+          "id": "mba8af0",
+          "author": "Taur-e-Ndaedelos",
+          "body": "The Shield perplexes me. I would not think the company whose shtick for two decades now has been 'throw more power hungry resources at the problem until it goes away' would be the company to make a mobile gaming platform, *and* its battery life seems to be fine to great..? And they're not exactly known for keeping their proprietary tech alive for too long. Thinking of Nvidia 3dVision here.",
+          "score": 2,
+          "created_utc": 1738846308.0,
+          "replies": [
+            {
+              "id": "mbcu0an",
+              "author": "thehighshibe",
+              "body": "It was supposed to be their apple silicon but they were too early",
+              "score": 1,
+              "created_utc": 1738873884.0,
+              "replies": []
+            },
+            {
+              "id": "mbi70yt",
+              "author": "cuberhino",
+              "body": "Probably ditched the shield division and put everyone into ai development, massively more roi. Worse for us tho, I\u2019d probably buy a new shield every couple of years to update",
+              "score": 1,
+              "created_utc": 1738947225.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mbhixqi",
+      "author": "kinisonkhan",
+      "body": "I bought two of the 3d Gen (rounded/cylinder) media players.  After 3 years, both are un-usable due to the updates.  Menus are slow to load, switching apps is painfully slow, remote response is piss poor.  I have factory reset them, removed the MicroSD card, made attempts to de-bloat them via ADB, but realistically the only solution is to downgrade the OS to a previous older version, which cant be done as it requires a USB port, which the media player lacks. \n\nYou post this in /r/AndriodTV or /r/nvidiashield and the most common response is \"get the $200 pro!\", which also has the same problem, but has a USB port needed to downgrade the OS.  So the solution is to buy a more expensive device that absolutely requires rooting out of the box. Shields are nice media players, but careful what you buy.  I had to replaced my two shields with Walmarts ONN Pro. \n\nIt started out great, minimal menus and all, then the ads took over.",
+      "score": 1,
+      "created_utc": 1738940225.0,
+      "replies": []
+    },
+    {
+      "id": "mb9i5cp",
+      "author": "schlunzloewe",
+      "body": "I can just say i had the non pro shield tv and the experience was awful. Non responsive UI, laging, stuttering and buffering problems.\n\n\n\nReturned it and got and apple TV.\n\n\nDownvoting me doesnt make it better, the non pro shield is anbad product, not enough ram and the cpu is weak.",
+      "score": -12,
+      "created_utc": 1738832103.0,
+      "replies": [
+        {
+          "id": "mb9p3qp",
+          "author": "Tomatoo21",
+          "body": "Don't know why you're getting so downvoted, the cylinder is a 'okay' at absolute best at 1080p but really goes downhill if you try 4k. At least when using stremio which is my main usecase.\n\nMay be stremio specific you can see by my anti-pick reply being the top upvoted reply to a 'Which android box to get' question\n\nhttps://old.reddit.com/r/Stremio/comments/1gudurf/which_android_box_is_powerful_enough_to_watch/lxt94pr/\n\nI would recommend stretching the budget to get the pro version to anyone reading this",
+          "score": 14,
+          "created_utc": 1738836423.0,
+          "replies": [
+            {
+              "id": "mbabckp",
+              "author": "SETHW",
+              "body": "reading all this has been wild, i have the cylinder shield and it's been find with kodi and smarttube for 6+ years all at 4k .. what is everyone else trying to do with theirs that it's bugging out so bad?",
+              "score": 2,
+              "created_utc": 1738847510.0,
+              "replies": [
+                {
+                  "id": "mbcva7d",
+                  "author": "Tomatoo21",
+                  "body": "Strange to hear this as well, maybe Stremio is particularly heavy or something? That said the UI never felt super smooth and would freeze up after waking on occasion so I don't know, maybe I had a dud. \n\nTried factory resetting and all that and no improvements",
+                  "score": 1,
+                  "created_utc": 1738874236.0,
+                  "replies": []
+                },
+                {
+                  "id": "mbhmxsn",
+                  "author": "kinisonkhan",
+                  "body": "I mostly use Kodi on mine, not sure what happened, but I installed every update that became available.  Next thing you know, it struggles just to boot up or switch to another app, making the media player completely useless and bested by a $50 ONN Pro.",
+                  "score": 1,
+                  "created_utc": 1738941458.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mb9pa9m",
+              "author": "schlunzloewe",
+              "body": "Yeah i was using it as a source for a 4k beamer and it was bad. I gonna leave the comment up because people should know. The non pro is not suitable for 4k streaming.",
+              "score": 2,
+              "created_utc": 1738836535.0,
+              "replies": []
+            },
+            {
+              "id": "mba70nb",
+              "author": "WhiteMilk_",
+              "body": ">  the cylinder is a 'okay' at absolute best at 1080p but really goes downhill if you try 4k.\n\nI play 4K HDR videos* perfectly fine over Emby. Or 4K YouTube videos.\n\n\n^*Same ^files ^all ^the ^streaming ^services ^offer ^or ^re-encoded ^bluray ^files. ^Haven't ^tried ^any ^REMUX ^files.",
+              "score": 1,
+              "created_utc": 1738845783.0,
+              "replies": [
+                {
+                  "id": "mbcw11w",
+                  "author": "Tomatoo21",
+                  "body": "Possibly Stemio specific then (or I had a dud unit) either way it's my main use case so in terms of Stremio it's bad\n\nThe native Stremio lg app on my b4 runs so much smoother, however when they release an updated pro shield I'll probably get one",
+                  "score": 1,
+                  "created_utc": 1738874439.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mb9u9l1",
+              "author": "subaru5555rallymax",
+              "body": "> Don't know why you're getting so downvoted,\n\nThey don\u2019t take too kindly to someone mentioning an Apple product round these parts\u2026.",
+              "score": 0,
+              "created_utc": 1738839501.0,
+              "replies": [
+                {
+                  "id": "mbd1269",
+                  "author": "Tomatoo21",
+                  "body": "Ah I glossed over the apple recommendation haha",
+                  "score": 2,
+                  "created_utc": 1738875801.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mb9rg5w",
+          "author": "ultrafud",
+          "body": "I've had mine for years and it's been a workhorse.\n\nIt does VERY occasionally stutter on the UI, but it's once in a blue moon and usually resolves itself in a minute or so.\n\nMy only complaint is the software update that pushed ads to the front page, but that has nothing to do with the hardware itself, which continues to do its job well after daily use for multiple years.",
+          "score": 4,
+          "created_utc": 1738837855.0,
+          "replies": []
+        },
+        {
+          "id": "mb9sfg7",
+          "author": "unepmloyed_boi",
+          "body": "People are downvoting you because a chunk of the android community is weird and takes criticisms of devices as personal insults towards their purchase(scroll through any android device review video comment section for proof of this). As long as they don't experience any issues in their limited use cases they see no issue...even though android is supposed to be more 'open'.\n\nThe cylinder freezing up is a common issue, there's threads all over about it with people recommending the pro instead. It's almost guaranteed if you do things like use a web browser. Sold it and bough a pro version and it's been perfect (apart from bluetooth dropping out or audio going out of sync if you walk too far with headphones).",
+          "score": 4,
+          "created_utc": 1738838440.0,
+          "replies": []
+        },
+        {
+          "id": "mb9msje",
+          "author": "BirbDoryx",
+          "body": "They are downvoting you because the cylinder one is still one of the best android tv device around. You probably have a defective unit.",
+          "score": 2,
+          "created_utc": 1738835000.0,
+          "replies": [
+            {
+              "id": "mb9thcf",
+              "author": "unepmloyed_boi",
+              "body": "> the cylinder one is still one of the best android tv device around.\n\nBased off what? People constantly recommend the pro version over it...especially with the amount of times it goes on sale. Looking at the prices where I live and the difference is literally less than $20 between them. The cylinder is prone to stutters, remote freezes and random reboots for anything outside basic use cases like watching 1080p videos (even then it has occasional issues).",
+              "score": 3,
+              "created_utc": 1738839056.0,
+              "replies": []
+            },
+            {
+              "id": "mba73qq",
+              "author": "NickCharlesYT",
+              "body": "The cylinder one is a stuttery laggy mess at 4k hdr10 playback, we had two of them and both got returned. They were worse than the 2017 models they were meant to replace and are really only good for 1080p. The apple tv 4k runs circles around it, and I hate buying Apple products in general but I bought three of the damn things because they actually perform as advertised.",
+              "score": 3,
+              "created_utc": 1738845818.0,
+              "replies": []
+            },
+            {
+              "id": "mba5eeg",
+              "author": "no_infringe_me",
+              "body": "I have to disagree. I thought the one I got was defective and swapped it out for another. I\u2019ve have the set top one for years and it\u2019s still great. The cylinder one was garbage both times. Returned it for a FireTV Stick 4K Max Plus Ultra &Knuckles. That thing was ok but has since been replaced with an Apple TV",
+              "score": 2,
+              "created_utc": 1738845089.0,
+              "replies": []
+            },
+            {
+              "id": "mb9rci8",
+              "author": "_RADIANTSUN_",
+              "body": "Why the cylinder one? I have the flat Pro 4K one with the genji helmet type green line light on top and it's also kinda feeling slow now.",
+              "score": 1,
+              "created_utc": 1738837794.0,
+              "replies": []
+            },
+            {
+              "id": "mbhng4n",
+              "author": "kinisonkhan",
+              "body": "I guess I bought two defective units, which didn't become defective until after several years worth of updates and I cant downgrade them because it lacks a USB port needed to do it.",
+              "score": 1,
+              "created_utc": 1738941611.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mba4kty",
+          "author": "sirhoracedarwin",
+          "body": "Mine was getting unusable. Tossed it for a Google TV box and it's smooth as butter. I'd have to restart it to watch a different app. UI was laggy and slow. I wanted it to be good but it was not.",
+          "score": 1,
+          "created_utc": 1738844725.0,
+          "replies": []
+        },
+        {
+          "id": "mba6tu0",
+          "author": "NickCharlesYT",
+          "body": "I still can't understand why they dropped the ram from 3gb to 2gb on the refresh, 3gb was barely enough as it was. The fact that they're still selling it 6 years later is just terrible.",
+          "score": 1,
+          "created_utc": 1738845703.0,
+          "replies": []
+        },
+        {
+          "id": "mbhjxxe",
+          "author": "kinisonkhan",
+          "body": "The cylinder one right?  I bought two and after 3 years they became unusable, similar issues you had, long boot up time, lots of lag, poor response from the remote, buffering and long waits when switching to another app.  Started out great, but slowly after 3 years, they became useless as a media player. \n\nI replaced them with two ONN Pros, which works so much better.",
+          "score": 1,
+          "created_utc": 1738940539.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mbbt375",
+      "author": "nerdshowandtell",
+      "body": "I still have about 8 shieldtvs.. but I wont use them on any of my primary tv's because google destroyed the experience with ads.  I don't have time to go around and tinker with replacing home screens or custom updates everytime google pushes out another crap update..",
+      "score": 1,
+      "created_utc": 1738863705.0,
+      "replies": [
+        {
+          "id": "mbeiuhc",
+          "author": "Hog_of_war",
+          "body": "What do you use instead?",
+          "score": 3,
+          "created_utc": 1738892265.0,
+          "replies": [
+            {
+              "id": "mbfxqqi",
+              "author": "nerdshowandtell",
+              "body": "I went with AppleTV 4ks (ethernet versions) for my primary tvs - fluid interface and regular updates.",
+              "score": 1,
+              "created_utc": 1738912733.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mbebiq3",
+          "author": "flyernut77",
+          "body": "Happy to take one off your hands!",
+          "score": 2,
+          "created_utc": 1738889833.0,
+          "replies": [
+            {
+              "id": "mbfxvjf",
+              "author": "nerdshowandtell",
+              "body": "They still make good digital signage boxes for me ;)",
+              "score": 2,
+              "created_utc": 1738912812.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mbb1plv",
+      "author": "Boop0p",
+      "body": "The only update I want for my Shield is the one that allows me to block all ads. I don't pay for any streaming services nor do I intend to. I've got a custom launcher but annoyingly it's not the default and only shows up when I press the home/circle button on my remote.",
+      "score": 1,
+      "created_utc": 1738856095.0,
+      "replies": []
+    },
+    {
+      "id": "mbbihru",
+      "author": "28-8modem",
+      "body": "Does Shield still support Nvidia now gaming?",
+      "score": 1,
+      "created_utc": 1738860783.0,
+      "replies": []
+    },
+    {
+      "id": "mbamei7",
+      "author": "squattilyoupuke",
+      "body": "Never understood what the device is used for, can someone briefly explain? Why would I connect it to my LG OLED e.g. what can it do?",
+      "score": 0,
+      "created_utc": 1738851383.0,
+      "replies": [
+        {
+          "id": "mbapodt",
+          "author": "roflcyclone",
+          "body": "It's a set-top box, like Roku or Apple TV. I have a 2019 Pro, and the big draw when I got it was it could play just about every codec natively, which is huge for Plex to get direct playback rather than transcoding. It also offers AI image sharpening/upscaling and some more robust features than are typically found in set-tops.",
+          "score": 10,
+          "created_utc": 1738852452.0,
+          "replies": []
+        },
+        {
+          "id": "mbay6os",
+          "author": "theoriginalmack",
+          "body": "Smart TVs are notorious for placing ads and other unwanted content in their UI. Having a box in-between eliminates all of that. \n\nThe sheild specifically also adds the ability for AI upscaling, transcoding and the ability to run any android TV app. (Side loaded or otherwise) \n\nAs a heavy plex user who will do absolutely everything I can to avoid seeing an ad - the shield is a must.",
+          "score": 4,
+          "created_utc": 1738855070.0,
+          "replies": []
+        },
+        {
+          "id": "mbb1o90",
+          "author": "bryansj",
+          "body": "To this day it is one of the best solutions for TrueHD based Atmos playback of ripped UHD discs (remuxes).\n\nIf there was a suitable replacement for this then I'd throw my two Shields into the trash and buy it.  I also have a LG OLED.",
+          "score": 4,
+          "created_utc": 1738856084.0,
+          "replies": [
+            {
+              "id": "mbb6xfq",
+              "author": "squattilyoupuke",
+              "body": "I see, since I am pretty much only using my TV for streaming via Apple, Netflix, Prime etc and gaming with Xbox, it won't really benefit me all that much",
+              "score": 1,
+              "created_utc": 1738857575.0,
+              "replies": [
+                {
+                  "id": "mbbex04",
+                  "author": "akaender",
+                  "body": "There are a few other features not mentioned yet.  Notably:\n\n\\- it's Android based so you can side load apps of all sort  \n\\- built in Geforce Now Streaming  \n\\- built in GameStream to stream PC games to TV w/ full controller support.  This enables 4 player local co-op for PC gamers, which is otherwise a huge pain in the ass  \n\\- works well with external receivers that may be buggy with things like Dolby Vision/Atmos, HDR10, or DTS-X (Onkyo in my case)  \n\\- smart home integration(s)  \n\\- connectivity with usb devices or blue tooth, which is handy for some use-cases & users",
+                  "score": 2,
+                  "created_utc": 1738859807.0,
+                  "replies": [
+                    {
+                      "id": "mbd6lhp",
+                      "author": "squattilyoupuke",
+                      "body": "Hm how well does the game streaming from PC work? Like, does it stream 4k60 or more fps without lag and visual artifacts? So far I only tried Xbox cloud and it was ass, even with 500mbit+ lan.\n\nCurrently thinking about drilling through a wall to connect PC via HDMI but if the shield can stream that well I might go for that instead.\n\nAlso just looked up some YT videos and they've said they disabled game streaming? Am I missing something",
+                      "score": 1,
+                      "created_utc": 1738877319.0,
+                      "replies": [
+                        {
+                          "id": "mbe7wxl",
+                          "author": "akaender",
+                          "body": "I can't speak to the Cloud streaming services like Xbox or Geforce Now streaming myself since I haven't used them.  You'd want to look around some other subs for that info.\n\nI have used the stream from PC for several hundred hours though and can attest it works great!  The caveat though may be that to minimize latency you'll want to have a  prosumer grade local network.\n\nI use Ubiquiti appliances and pulled cat6e cables, which included drilling holes like it sounds like you would need to do but in my case I would be doing that anyway even just to stream movies.\n\nI'm also do this sort of thing for a living so it was just another day for me and I can see how that's a barrier to entry for others.  In my case it was much easier to pull ethernet where I needed it than hdmi though.\n\nI'm not trying to sell you on it one way or another.  Mainly just thought I'd share of its rather unique features and that its been a reliable and flexible piece of hardware for me since \\~2019 so I'll be somewhat sad when I have to replace it.",
+                          "score": 1,
+                          "created_utc": 1738888661.0,
+                          "replies": [
+                            {
+                              "id": "mbflg9n",
+                              "author": "squattilyoupuke",
+                              "body": "I had a bit of a look into Moonlight and Sunshine and will probably try that first, seems very easy to set up on the LG WebOS thx",
+                              "score": 1,
+                              "created_utc": 1738906474.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mb9unte",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -5,
+      "created_utc": 1738839725.0,
+      "replies": [
+        {
+          "id": "mba1pjw",
+          "author": "get_homebrewed",
+          "body": "The x2 has nothing to do with the switch 2 \ud83d\ude2d",
+          "score": 1,
+          "created_utc": 1738843405.0,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

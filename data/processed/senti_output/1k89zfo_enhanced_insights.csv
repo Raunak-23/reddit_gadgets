@@ -1,0 +1,49 @@
+metric,value
+file,1k89zfo.csv
+title,PC Case Maker Hyte Halts Shipments to US Due to Trump's Tariffs
+rows,147
+num_posts,1
+num_comments,146
+unique_authors,109
+max_depth,9
+avg_comment_words,79.08
+median_comment_words,64.0
+max_comment_words,345
+positive_count,31
+negative_count,115
+neutral_count,0
+positive_pct,21.233
+negative_pct,78.767
+neutral_pct,0.0
+topic_1_keywords,"us, already, goods, cases, things, buying, prices, going"
+topic_1_label,goods and things going in the us
+topic_2_keywords,"china, make, oh, could, also, ship, supply, one"
+topic_2_label,China can also supply one ship
+topic_3_keywords,"us, countries, see, pay, business, theyre, even, people"
+topic_3_label,countries see pay and people see
+topic_4_keywords,"hes, back, us, market, going, make, tariffs, president"
+topic_4_label,hes back in us
+topic_5_keywords,"us, market, option, including, vendors, would, companies, two"
+topic_5_label,vendors would include vendors in the market
+topic_6_keywords,"tariffs, arent, going, us, items, american, companies, americans"
+topic_6_label,tariffs arent going in us
+top_ngram_1,us market (26)
+top_ngram_2,supply chain (16)
+top_ngram_3,years ago (14)
+top_ngram_4,gamers nexus (13)
+top_ngram_5,much us (13)
+top_ngram_6,two hour (12)
+top_ngram_7,hour video (12)
+top_ngram_8,two hour video (12)
+top_ngram_9,strongly recommend (10)
+top_ngram_10,recommend gamers (10)
+ner_1,US|LOC|169
+ner_2,Trump|PER|27
+ner_3,American|MISC|24
+ner_4,China|LOC|17
+ner_5,USA|LOC|12
+ner_6,##eric|LOC|11
+ner_7,US|MISC|11
+ner_8,Canada|LOC|10
+ner_9,UScanada|ORG|10
+ner_10,Gamers Nexus|MISC|10

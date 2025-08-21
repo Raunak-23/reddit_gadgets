@@ -1,0 +1,1152 @@
+{
+  "post": {
+    "title": "NVIDIA has removed \"Hot Spot\" sensor data from GeForce RTX 50 GPUs",
+    "author": "a_Ninja_b0y",
+    "id": "1i8gt4a",
+    "score": 1148,
+    "created_utc": 1737673504.0,
+    "selftext": "",
+    "num_comments": 131,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1i8gt4a/nvidia_has_removed_hot_spot_sensor_data_from/"
+  },
+  "comments": [
+    {
+      "id": "m8uc1o6",
+      "author": "Iucidium",
+      "body": "This explains the liquid metal for the founder's edition.",
+      "score": 191,
+      "created_utc": 1737685679.0,
+      "replies": []
+    },
+    {
+      "id": "m8terll",
+      "author": "ehxy",
+      "body": "that means it's because the cooling is so good now it doesn't need it right?\n\nIT DOESN'T NEED IT RIGHT???\n\n![gif](giphy|l2JJCwt8iKKFkGLJe)",
+      "score": 672,
+      "created_utc": 1737674838.0,
+      "replies": [
+        {
+          "id": "m8tgnt5",
+          "author": "KingGorillaKong",
+          "body": "No. The PCB is smaller so the components are all jammed in closer. There's a lot more even heat soak from all the hot components that having a myriad of additional sensors to monitor hot spot probably became redundant when the hot spot is now about the same as the core temp on the FE cards. May be a couple of degrees out, but the GPU will still throttle based on hottest temperature if it reaches that point.",
+          "score": 257,
+          "created_utc": 1737675437.0,
+          "replies": [
+            {
+              "id": "m8tlfmm",
+              "author": "ThinkExtension2328",
+              "body": "This it\u2019s shocking seeing people have so much manufactured outrage at nvidia, when the whole chip is the size of the area the sensor was required to check it\u2019s not an issue anymore.",
+              "score": 122,
+              "created_utc": 1737676939.0,
+              "replies": [
+                {
+                  "id": "m8ueud7",
+                  "author": "noother10",
+                  "body": "Yeah but without knowing that, they have said it's a smaller cooler but with more power going through the GPU, thus removing something that was standard can easily be seen as trying to hide something. It isn't shocking at all, to be shocked at such a thing means you can't see it from the point of view of others.",
+                  "score": 46,
+                  "created_utc": 1737686707.0,
+                  "replies": [
+                    {
+                      "id": "m8zvayg",
+                      "author": "Kamakaziturtle",
+                      "body": "Sure, but a reasonable reaction to that shock would be to then ask why, not skip right to outrage.",
+                      "score": 8,
+                      "created_utc": 1737758962.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m8ur8cu",
+                      "author": "ThinkExtension2328",
+                      "body": "I mean one should assume engineers know what they are doing and if you don\u2019t trust them wait for actual tests?  Jesus Christ jenson isn\u2019t holding a gun at you.",
+                      "score": -28,
+                      "created_utc": 1737691213.0,
+                      "replies": [
+                        {
+                          "id": "m8w1aqc",
+                          "author": "rpkarma",
+                          "body": "Yeah just don\u2019t talk about the 12V HPWR connector, right? Engineers get shit wrong too.",
+                          "score": 12,
+                          "created_utc": 1737715126.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m8vhzgm",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 3,
+                          "created_utc": 1737703384.0,
+                          "replies": [
+                            {
+                              "id": "m8vopbt",
+                              "author": "ThinkExtension2328",
+                              "body": "Hahaha well sounds like allot of people feel the NEED to buy him one instead of spending that money better , on actual games rather then fps hunting.",
+                              "score": 1,
+                              "created_utc": 1737707345.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m8vb30m",
+                          "author": "SentorialH1",
+                          "body": "We already have the tests, and they're really good.",
+                          "score": 8,
+                          "created_utc": 1737699672.0,
+                          "replies": [
+                            {
+                              "id": "m8wmf9n",
+                              "author": "TehOwn",
+                              "body": "I don't think we've had any independent tests outside of Nvidia's control. Different games, different hardware setups, etc. The main issue with their approach is how much artifacting you'll get from multi-frame generation across a variety of games. So far we haven't seen that tested. Unless I missed something.",
+                              "score": 1,
+                              "created_utc": 1737725039.0,
+                              "replies": [
+                                {
+                                  "id": "m8wo3uk",
+                                  "author": "SentorialH1",
+                                  "body": "The tests have been up in YouTube for over a day. I encourage you to look at Gamer's Nexus, as their review includes a significant portion on cooling.",
+                                  "score": 2,
+                                  "created_utc": 1737725647.0,
+                                  "replies": [
+                                    {
+                                      "id": "m8y6kgs",
+                                      "author": "TehOwn",
+                                      "body": "Yeah, it's been a day. I hadn't seen it yet. Good news.",
+                                      "score": 1,
+                                      "created_utc": 1737741659.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "m8vc1y6",
+                              "author": "ThinkExtension2328",
+                              "body": "![gif](giphy|d3mlE7uhX8KFgEmY)\n\nAlmost like engineers know how to build things",
+                              "score": -15,
+                              "created_utc": 1737700170.0,
+                              "replies": [
+                                {
+                                  "id": "m8vs95d",
+                                  "author": "arguing_with_trauma",
+                                  "body": "Big if true",
+                                  "score": 4,
+                                  "created_utc": 1737709563.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "m91xipo",
+                                  "author": "Miragui",
+                                  "body": "Yeah ask Boeing how that goes.",
+                                  "score": 2,
+                                  "created_utc": 1737786902.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m8v491r",
+                          "author": "Prodigy_of_Bobo",
+                          "body": "Isn't he though? Right now this man has my entire family hostage to those sweet sweet frames",
+                          "score": 2,
+                          "created_utc": 1737696426.0,
+                          "replies": [
+                            {
+                              "id": "m8vcekg",
+                              "author": "ThinkExtension2328",
+                              "body": "Given a ps5 pro has a 3060 ti equivalent which is the benchmark for \u201cplayable\u201d he can keep your fam.",
+                              "score": 0,
+                              "created_utc": 1737700352.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m92crvb",
+                          "author": "chilling_hedgehog",
+                          "body": "Yes, trust the people that sell you stuff. They have the best intentions.",
+                          "score": 1,
+                          "created_utc": 1737796101.0,
+                          "replies": [
+                            {
+                              "id": "m92cv42",
+                              "author": "ThinkExtension2328",
+                              "body": "You know you control your money , you can choose not to buy it. There are also competitors whose products you could also buy if your dissatisfied with the product.",
+                              "score": 0,
+                              "created_utc": 1737796158.0,
+                              "replies": [
+                                {
+                                  "id": "m92d1uw",
+                                  "author": "chilling_hedgehog",
+                                  "body": "Free market yaaay! \nMan, you sound like an American boomer xD\nThe 80s are over, Reagan is dead!",
+                                  "score": 1,
+                                  "created_utc": 1737796277.0,
+                                  "replies": [
+                                    {
+                                      "id": "m92d5ex",
+                                      "author": "ThinkExtension2328",
+                                      "body": " \nNether American nor a boomer \ud83e\udd37\u200d\u2642\ufe0f",
+                                      "score": 1,
+                                      "created_utc": 1737796339.0,
+                                      "replies": [
+                                        {
+                                          "id": "m92dbso",
+                                          "author": "chilling_hedgehog",
+                                          "body": "I know ozzie, but i said you sound like one with your 5th grade economics fortune cookie factoids :)",
+                                          "score": 1,
+                                          "created_utc": 1737796449.0,
+                                          "replies": [
+                                            {
+                                              "id": "m92dui0",
+                                              "author": "ThinkExtension2328",
+                                              "body": "Eh think what you want but at the end of the day you don\u2019t have to buy it if it\u2019s garbage which it\u2019s not. Personally I don\u2019t care for it till they add more vram. \n\nThe best savings is 100% because you never bought it",
+                                              "score": 1,
+                                              "created_utc": 1737796779.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m8uyti5",
+                  "author": "hthrowaway16",
+                  "body": "\"manufactured\"",
+                  "score": 10,
+                  "created_utc": 1737694135.0,
+                  "replies": [
+                    {
+                      "id": "m8wsyq6",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 1,
+                      "created_utc": 1737727333.0,
+                      "replies": [
+                        {
+                          "id": "m8wtnlx",
+                          "author": "hthrowaway16",
+                          "body": "I would consider gamers' reaction to Nvidia to be pretty organic. They've been going off the rails doing weird shit and have jacked prices up beyond belief. The last flagship card they launched was fucking MELTING. I think healthy skepticism and criticism of Nvidias actions is warranted, even if the skepticism towards their actions in a specific instance has people looking at a nothing-burger for a minute to judge.\n\nEdit: this is judt to say they lost consumer trust for a reason, and they deserve critical reactions to what they do for that.",
+                          "score": 1,
+                          "created_utc": 1737727569.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m8tm89e",
+                  "author": "KingGorillaKong",
+                  "body": "Out of everything to complain about, they stopped complaining about the price and that it's the worst performance to value uplift in nVidia history and wanna focus on trivial matters most don't understand the fundamentals behind (like thermal monitoring and regulation on components) like what nVidia did is wrong and gonna damage the product. \n\nHowever, the price increase (inflation and them price fixing as best as they can by manipulating the flow of products to market aside), could be justified to recover the R&D costs that went into this design, which they had been working on potentially since early 40 series days with the supposed 4090 Ti/Super/Titan.",
+                  "score": 9,
+                  "created_utc": 1737677188.0,
+                  "replies": [
+                    {
+                      "id": "m8tye9l",
+                      "author": "ThinkExtension2328",
+                      "body": "Also everyone acts they they \u201cNEED\u201d a new gpu you straight up don\u2019t , I have a 1080ti that\u2019s still competitive and recently picked up a 4060 ti only because I use it for AI. \n\nGraphics != good games. \nFrame rate != skills. \n\nSure you need to have some sensible frame rates such as stable 60fps at the min. But kids out here thinking they need 400fps as if that will make them better.",
+                      "score": -13,
+                      "created_utc": 1737681021.0,
+                      "replies": [
+                        {
+                          "id": "m8u6bfw",
+                          "author": "cloud12348",
+                          "body": "It\u2019s good that the 1080ti is fine for you but saying it\u2019s competitive takes it to the other extreme lmao",
+                          "score": 15,
+                          "created_utc": 1737683613.0,
+                          "replies": [
+                            {
+                              "id": "m8u6m43",
+                              "author": "ThinkExtension2328",
+                              "body": "People don\u2019t realise the bandwidth of the 1080 ti , it was op for the time. But it\u2019s not my primary gpu.",
+                              "score": -10,
+                              "created_utc": 1737683714.0,
+                              "replies": [
+                                {
+                                  "id": "m8ufa07",
+                                  "author": "SmoopsMcSwiggens",
+                                  "body": "We absolutely do. There's a reason why purists treat Pascal like some ancient holy text.",
+                                  "score": 6,
+                                  "created_utc": 1737686869.0,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "m8urede",
+                                  "author": "marath007",
+                                  "body": "My 1080ti is extremely competitive. I run my favourite games in 4k60fps and ultra settings lmao",
+                                  "score": -4,
+                                  "created_utc": 1737691274.0,
+                                  "replies": [
+                                    {
+                                      "id": "m8us0hh",
+                                      "author": "ThinkExtension2328",
+                                      "body": "That\u2019s what the 4060 does again the 1080 isn\u2019t my primary gpu. But I should remind you graphics != good games. \n\n90% of the time people playing shit like cuphead and rocket league. This is basically I\u2019m mad because number must go up. \n\nI\u2019m not even defending nvidia here , you just don\u2019t need 60000fps to have a good game. Save your cash buy games.\n\nAlso do tell me what are you guys playing now days that you need 300fps at 4K uhd ?",
+                                      "score": 1,
+                                      "created_utc": 1737691503.0,
+                                      "replies": [
+                                        {
+                                          "id": "m8w1pg4",
+                                          "author": "OMGItsCheezWTF",
+                                          "body": "Buy games? Sir this is 2025, you wait a few months and get them for free on the epic store.\n\nThere is some sense in upgrading though. I just went from my 13 year old 780gtx to a 4080 super and I'm now playing through games that the 780 couldn't really handle like the shadow of the tomb raider for the first time which is nice. But this card will probably last me another decade.",
+                                          "score": 1,
+                                          "created_utc": 1737715368.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "m8wopa5",
+                                          "author": "Inquisitor2195",
+                                          "body": "Depending on the game I agree on the fps, on the 4k, I definitely noticed greatly decreased eyestrain and much better posture.",
+                                          "score": 1,
+                                          "created_utc": 1737725858.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "m8usmi5",
+                                          "author": "marath007",
+                                          "body": "Dead space remake in 4k60fps, i love 4k and 60fps is perfect. My only wish in rtx5090 is if i was to perform renders.",
+                                          "score": -1,
+                                          "created_utc": 1737691733.0,
+                                          "replies": [
+                                            {
+                                              "id": "m8ut1k6",
+                                              "author": "ThinkExtension2328",
+                                              "body": "Other than this what other games have you stacked hours on? And yes I agree 60fps is perfect. Getting 4K 60 is doable on the 4000series.",
+                                              "score": 1,
+                                              "created_utc": 1737691889.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m8utfy3",
+                                                  "author": "marath007",
+                                                  "body": "All the frictional games, subnautica. Hmm its perfect. Maybe ill wait for the rtx10090",
+                                                  "score": 0,
+                                                  "created_utc": 1737692040.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "m8utond",
+                                                      "author": "ThinkExtension2328",
+                                                      "body": "Exactly and with the money you saved on the 50whatever look you suddenly have cash for more games!\n\n![gif](giphy|x0kMYoT7J31i8)",
+                                                      "score": 1,
+                                                      "created_utc": 1737692131.0,
+                                                      "replies": [
+                                                        {
+                                                          "id": "m8v2ao5",
+                                                          "author": "marath007",
+                                                          "body": "Bonker, i got a Nintendo switch with that cash",
+                                                          "score": 1,
+                                                          "created_utc": 1737695585.0,
+                                                          "replies": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m8vb9ab",
+                      "author": "SentorialH1",
+                      "body": "Value to price? It's a HUGE gain in performance in the 5090 for people who want that.  You're not forced to buy the $2000 card, you can opt for the 50% cheaper 5080, the 5070ti or the 5070.\n\nNot only that, but complaining about a liquid metal cooled GPU that has already tested at shockingly good performance (mid 70's on a 2 slot card pushing 525w).",
+                      "score": -7,
+                      "created_utc": 1737699761.0,
+                      "replies": [
+                        {
+                          "id": "m8vckad",
+                          "author": "RobinVerhulstZ",
+                          "body": "Aib pricing for the 5000 series are way above msrp and we already know theres supply issues, then add scalpers and the perf value is going to tank significantly\n\nNow admittedly if one has 4090/5090 budget they probably already consider the prices fairly trivial\n\nBut if the top end card needs 150mm\u00b2 more silicon and 30% more power to achieve 25% raster performance gains i think its fair to say that all the other 5000 series cards are pretty much going to be barely any better than the 4000 supers given the near identical stats. Pretty much the only major increase is the AI stuff and gddr7. And the msrp is pretty much identical to the supers ontop of that.",
+                          "score": 6,
+                          "created_utc": 1737700435.0,
+                          "replies": [
+                            {
+                              "id": "m8vdkji",
+                              "author": "SentorialH1",
+                              "body": "That's for gaming.  Yes, a $2000 GPU can run video games, but it's not the only application that is important.  Blender, for example, is nearly 50% better.",
+                              "score": -4,
+                              "created_utc": 1737700970.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m8wsxu9",
+                          "author": "KingGorillaKong",
+                          "body": "If you have a 4090, you're getting about 5% performance increase per dollar spent. That's pretty shitty performance uplift. That's not huge when the 4090 was better uplift from the 3090 and the 30 series was a better uplift than current gen from the 20 series.",
+                          "score": 1,
+                          "created_utc": 1737727325.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m8voc7r",
+                  "author": "breezy_y",
+                  "body": "If that's true then why don't they communicate this? der8auer covered this in his video and he confronted Nvidia and they responded with the dumbest shit you could imagine. They didn't give a single reason other \"we don't need it internally and it is wrong anyways\". Doesn't add up imo, just leave it in if it is not an issue.",
+                  "score": 4,
+                  "created_utc": 1737707120.0,
+                  "replies": [
+                    {
+                      "id": "m8vogrm",
+                      "author": "ThinkExtension2328",
+                      "body": "Just because you don\u2019t like the answer dosent make it wrong, unless the new cards cook them selfs this is a non issue.",
+                      "score": 6,
+                      "created_utc": 1737707198.0,
+                      "replies": [
+                        {
+                          "id": "m8volfk",
+                          "author": "breezy_y",
+                          "body": "I mean it isn't really an answer, it's more like an excuse. And if the cards cook then we wouldn't even know until too late.",
+                          "score": 0,
+                          "created_utc": 1737707278.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m8vty3y",
+                      "author": "IIlIIlIIlIlIIlIIlIIl",
+                      "body": "That's the answer.... They don't need it. The PCB on the card is too small, making it redundant.",
+                      "score": 3,
+                      "created_utc": 1737710618.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m8zvj2m",
+                      "author": "Kamakaziturtle",
+                      "body": "They did.",
+                      "score": 1,
+                      "created_utc": 1737759031.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m8ujylk",
+                  "author": "MimiVRC",
+                  "body": "Welcome to the internet in 2024/2025. Ragebait is what people love and are addicted to. No one cares about the truth, they care about being apart of \u201cfighting something\u201d",
+                  "score": 1,
+                  "created_utc": 1737688605.0,
+                  "replies": [
+                    {
+                      "id": "m8x4p00",
+                      "author": "TheSmJ",
+                      "body": "I started noticing this ~2015-2016.",
+                      "score": 1,
+                      "created_utc": 1737731079.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m8x6mdu",
+                  "author": "NeuroXc",
+                  "body": "There was literally an article yesterday about wires melting because of the GPU's power draw. It isn't unreasonable to imagine that Nvidia may be removing the sensor to cut corners.",
+                  "score": 0,
+                  "created_utc": 1737731649.0,
+                  "replies": [
+                    {
+                      "id": "m8z6twe",
+                      "author": "ThinkExtension2328",
+                      "body": "Link us to it",
+                      "score": 0,
+                      "created_utc": 1737751880.0,
+                      "replies": [
+                        {
+                          "id": "m90bfi2",
+                          "author": "NeuroXc",
+                          "body": "You could have Googled it, but here: https://old.reddit.com/r/gadgets/comments/1i7e1cg/575w_rtx_5090_should_be_safe_to_use_nvidia_says/\n\nYou have serious trust issues, why would someone lie about that?",
+                          "score": 1,
+                          "created_utc": 1737764089.0,
+                          "replies": [
+                            {
+                              "id": "m90fknl",
+                              "author": "ThinkExtension2328",
+                              "body": "Yes that\u2019s first gen chips not the one being spoken about here",
+                              "score": 1,
+                              "created_utc": 1737765453.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8uagw7",
+              "author": "looncraz",
+              "body": "The hot spot temperature is merely a software determination of the hottest sensor of the dozens that are in the die.  Hiding it doesn't serve any purpose.",
+              "score": 7,
+              "created_utc": 1737685105.0,
+              "replies": [
+                {
+                  "id": "m8vvj65",
+                  "author": "TheRealGOOEY",
+                  "body": "It means not needing to update the API for a feature they don\u2019t feel provides value to the product they want to sell.",
+                  "score": 2,
+                  "created_utc": 1737711613.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m8tm3mf",
+              "author": "kneepel",
+              "body": "An issue I can foresee, especially with different AIBs, is what happens if you're seeing throttling but your edge temps aren't showing it? I've seen of a number of newer AMD/Nvidia cards that have had a 20+ degree delta between edge & junction that in some cases were fixed simply with new paste and proper clamping pressure, this could make that somewhat annoying to diagnose going forward now.",
+              "score": 6,
+              "created_utc": 1737677148.0,
+              "replies": [
+                {
+                  "id": "m8tmrgg",
+                  "author": "KingGorillaKong",
+                  "body": "Even heat soak of components solves this. There shouldn't be more more than a couple degree difference between regular core temp and hot spot. Since there's no cool gap between components that generate the primary sources of heat, all this heat will have to go somewhere, It's gonna heat soak everything around it like a laptop before being picked up by the increased number of heat pipes they use on the cooler, which then fast wicks the heat to the fin stacks.\n\nAIB can make 2.5 to 3 slot GPUs to provide even better thermal management by making taller fin stacks and spreading the heat pipe spacing out towards the ends of the pipes. \n\nI'm on the page that the way that everything spills heat to the PCB center, the GPU core itself is now the new hot spot. Why have multiple sensor monitors reporting the same sensor?",
+                  "score": 1,
+                  "created_utc": 1737677354.0,
+                  "replies": [
+                    {
+                      "id": "m8trn0e",
+                      "author": "kneepel",
+                      "body": "I mean you're totally right, there *shouldn't* be a delta larger than a few degrees, but it didn't stop some AIB manufacturers from using inadequate solutions or poor factory assemblies with some Radeon 6000 and RTX 3000 series cards from experience. My own Sapphire Pulse 6700xt had over a 30 degree delta between edge and junction under load, which was decreased to ~15 after repasting and remounting the cooler. Even though many heat generating components are close to each other, it still seems like the different sensors provide(d) some relative degree of accuracy or at least useful information in diagnosis.\u00a0",
+                      "score": 4,
+                      "created_utc": 1737678882.0,
+                      "replies": [
+                        {
+                          "id": "m8tt4kr",
+                          "author": "KingGorillaKong",
+                          "body": "What you are complaining about is an issue with the production and third party designed coolers and nothing directly relating to most of those products. However, AMD is known to have hotter GPUs and a larger optimal delta between core and hot spot temps. And AMD isn't going above and beyond with their designs because they're not targeting the top market. Massively overhauling a cooler design is an expensive R&D process. \n\nAnd AMD is a different architecture GPU from nVidia. GPUs have multiple sensors and a hot spot monitor for a reason. Because those GPUs have significant deltas in temperatures across components. But the 50 series doesn't have that reason for a hot spot monitor when the entire GPU is concentrated to the GPU die and memory dies all around the core, in a very tight format where even heat soak occurs. \n\nEven heat soak means that all those hot components are going to cause just everybody to be the same temperature. Why have 5 temperature sensors in this GPU if they all report the same temperature? Why keep a hot spot monitor if it's not detecting a hotter component than the GPU core which is now surrounded and enclosed by all these hot components? \n\nThis design removes having to monitor for a hot spot temperature, makes for in theory more affordable coolers to be produced for it, and makes cooling more efficient. As the benchmark results on temp for the 5090 is cooler than the 4090 hot spot temp, but warmer than the core temp, and hits 575W and up.",
+                          "score": -1,
+                          "created_utc": 1737679349.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8u5862",
+              "author": "namisysd",
+              "body": "I assume that hotpsot is just consumer facing speak for the junction temperature; if so that is unforntunate because that is a vital metric for silicon health.",
+              "score": 2,
+              "created_utc": 1737683247.0,
+              "replies": [
+                {
+                  "id": "m8u9bt2",
+                  "author": "KingGorillaKong",
+                  "body": "No, hot spot is the hottest temperature recorded by any of the temperature sensors. This article even says that was what nVidia had been using the hotspot for. It just so happened to be the junction temperature for a number of models.",
+                  "score": 1,
+                  "created_utc": 1737684685.0,
+                  "replies": [
+                    {
+                      "id": "m8v3euv",
+                      "author": "namisysd",
+                      "body": "The article doesn\u2019t load for me, are they still publishing the junction temp?",
+                      "score": 0,
+                      "created_utc": 1737696061.0,
+                      "replies": [
+                        {
+                          "id": "m8wsr5y",
+                          "author": "KingGorillaKong",
+                          "body": "They're getting rid of the hot spot monitor because they felt is was redundant to have a monitor reporting the same temp as the GPU core. Like I said before in another comment, the delta between the hottest spot and the GPU core is probably only a degree or two out from each other if that, and the reported GPU temp is likely what the hot spot is in general now with the new PCB and cooler design.",
+                          "score": 1,
+                          "created_utc": 1737727261.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8uiknu",
+              "author": "Majorjim_ksp",
+              "body": "If your knew what a CPU hotspot was you would know this explanation makes zero sense.",
+              "score": 1,
+              "created_utc": 1737688088.0,
+              "replies": [
+                {
+                  "id": "m8ujyts",
+                  "author": "KingGorillaKong",
+                  "body": "Not like you can't move some temperature sensors around inside the die like AMD did with the 9000 series Ryzens. nVidia like made these adjustments too with the new GPU die for 50 series.",
+                  "score": 1,
+                  "created_utc": 1737688607.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m8we8gd",
+              "author": "Majorjim_ksp",
+              "body": "Hotspot sensors are very important for long term survival of the GPU. This won\u2019t end well.",
+              "score": -1,
+              "created_utc": 1737721782.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8thysh",
+      "author": "dustofdeath",
+      "body": "Those pesky HW channels revealing their mistakes!!!",
+      "score": 71,
+      "created_utc": 1737675850.0,
+      "replies": []
+    },
+    {
+      "id": "m8vjo6e",
+      "author": "xGHOSTRAGEx",
+      "body": "Can't see issue, Can't resolve issue. GPU dies. Forced to buy a new one.",
+      "score": 70,
+      "created_utc": 1737704359.0,
+      "replies": [
+        {
+          "id": "m93i8dc",
+          "author": "BassObjective",
+          "body": "The more you buy, the more you save, am I right",
+          "score": 3,
+          "created_utc": 1737816769.0,
+          "replies": [
+            {
+              "id": "m96oyr7",
+              "author": "Careful-Artichoke468",
+              "body": "![gif](giphy|l41YAqGPwuC833OQ8)",
+              "score": 1,
+              "created_utc": 1737851766.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8th4kc",
+      "author": "Takeasmoke",
+      "body": "me: \"HWInfo is telling me my GPU is running on 81 C, lets check how hot is hot spot.\"  \nhotspot sensor: \"yes\"",
+      "score": 48,
+      "created_utc": 1737675583.0,
+      "replies": []
+    },
+    {
+      "id": "m8vkg2v",
+      "author": "T-nash",
+      "body": "I don't know why people are making excuses based on smaller pcb size, it does not matter, there are no excuses.\n\nHotspot temp in comparison to core temp is one of the most reliable comparisons you can make to tell if your heatsink is not sitting flush on the gpu.\n\nI have a 3090 that i have reapplied several times, and a lot of times i get good gpu core temps but bad hotspot temps, \\~17c difference, normally you would think your gpu temp is fine until you realize hotspot is through the roof, then wonder why your card died when it had good gpu temps. After reapplying my paste a few times back and forth and proper tightening of the backplate, you can lower the difference of core and hotspot to around 7-10c. \n\nWe don't know if liquid metal will make a difference, but nevertheless there is zero reason to remove the sensor.",
+      "score": 82,
+      "created_utc": 1737704815.0,
+      "replies": [
+        {
+          "id": "m8x9lju",
+          "author": "Potential_Status_728",
+          "body": "Reddit is full of Nvidia drones, hard to have any meaningful conversation involving that brand.",
+          "score": 16,
+          "created_utc": 1737732508.0,
+          "replies": [
+            {
+              "id": "m8xgvhb",
+              "author": "T-nash",
+              "body": "Agreed. These card designs ever since the higher end 30xx and 40xx are horribly designed, there were just too many issues with the added larger heatsink weight, power consumption and heat released, they used 10xx and 20xx pcb specs on something much more heavy and power hungry. I am afraid all the other manufacturers of 50xx that didn't use the nvidia design are going to suffer from the same failures of the previous generations that were that big.\n\nModern thermal pads are losing good contact to the heatsink after several months, this is observed and happening with many people, thermal putty seems to be the solution, like UTP-8.\n\nI also have a problem with the gpu retention bracket, it's difficult to tighten them flush.",
+              "score": 2,
+              "created_utc": 1737734567.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8vus74",
+          "author": "luuuuuku",
+          "body": "Why does it matter? Do you even know how temperature reporting works? \nThere are way more sensors and usually none of them actually report the true temperatures. \nSensors are not right in the logic and therefore measure lower values than actually present. \nFor reporting, multiple sensors are added together and offsets are added. The temperature it reports is likely not even measured by a single sensor. \nAnd that\u2019s also true for hotspot temperatures which often are also just measurements with an offset. \nThis is also the reason why you should never compare temperatures across architectures or vendors. \nIf NVIDIA did changes to their sensor reporting, it\u2019s definitely possible that the previous hot spot temperature does not work as previously any more. \nTemperature readings are pretty much made up numbers and don\u2019t really represent the truth. \nYou have to trust the engineers on that. If they say, it doesn\u2019t make sense, it likely doesn\u2019t. \nIf they wanted to, they could have just reported fake numbers for hotspot and everyone would have been happy. \n\nBut redditors think they know better than engineers, as always",
+          "score": -31,
+          "created_utc": 1737711139.0,
+          "replies": [
+            {
+              "id": "m8vyjje",
+              "author": "a1b3c3d7",
+              "body": "Literally NONE of what you said changes or has any bearing on the validity of his point.\n\nHotspot temperatures are a useful tool in determining correct seating, literally everything youre rambling about doesn't change that.",
+              "score": 20,
+              "created_utc": 1737713462.0,
+              "replies": [
+                {
+                  "id": "m8vyqv3",
+                  "author": "luuuuuku",
+                  "body": "Explain why.",
+                  "score": -18,
+                  "created_utc": 1737713587.0,
+                  "replies": [
+                    {
+                      "id": "m8whdjx",
+                      "author": "audigex",
+                      "body": "They did\n\n> Hotspot temperatures are a useful tool in determining correct seating\n\nEverything you're saying is unrelated\n\nThe way this \"sensor\" works is that it reports the highest single temperature out of all the temperature sensors on the card. It's actually an abstraction of various sensors which is what makes it so useful. When that \"sensor\" reads a value significantly higher than your overall GPU temperature, it likely means that your cooler is not seated correctly on the die and part of the die is getting significantly hotter than the average\n\nIt's therefore very useful for determining if your cooler is seated correctly\n\nSo why does none of what you said have any bearing on the validity of their point\n\n> There are way more sensors\n\nYes. That's literally why this quasi-sensor is useful - it gives the max of those sensors\n\n> and usually none of them actually report the true temperatures.\n\nDoesn't matter, as long as they're all vaguely in the right ballpark it still tells you whether your hotspot is much hotter than your overall GPU and you therefore have a hotspot\n\n> For reporting, multiple sensors are added together and offsets are added. The temperature it reports is likely not even measured by a single sensor\n\nYou are wrong for this specific sensor. Literally the ENTIRE point of this sensor is that it doesn't do that\n\n>  And that\u2019s also true for hotspot temperatures which often are also just measurements with an offset\n\nNo it isn't\n\n> Temperature readings are pretty much made up numbers and don\u2019t really represent the truth\n\nThis one worked, as proven by hundreds of people who've re-seated their cooler and found that the hotspot temperature reduced to be much closer to the \"average\" temperatures\n\n> If they wanted to, they could have just reported fake numbers for hotspot and everyone would have been happy.\n\nIf discovered, people would have complained for the exact same reasons (plus nVidia being misleading). Chances are that people would have noticed when suddenly all reports of hotspots vanished. Either way it would've been a dick move because it's misleading",
+                      "score": 8,
+                      "created_utc": 1737723103.0,
+                      "replies": [
+                        {
+                          "id": "m8wjhd9",
+                          "author": "luuuuuku",
+                          "body": "How do you know that the regular reported temperature is not the hottest temperature? \nWhat makes you think that the highest temperature is not used for overheating reporting and safety measures?",
+                          "score": -14,
+                          "created_utc": 1737723936.0,
+                          "replies": [
+                            {
+                              "id": "m8wr7kz",
+                              "author": "audigex",
+                              "body": "Uhh... because the hotspot temperature is almost always higher than the regular reported temperature?\n\nHave you ever even looked at these temperatures? It seems slightly baffling that you'd even say that if you had ANY understanding whatsoever of what we're talking about here",
+                              "score": 11,
+                              "created_utc": 1737726735.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m8witqf",
+                      "author": "AbhishMuk",
+                      "body": "They just did? In their main comment?",
+                      "score": 7,
+                      "created_utc": 1737723679.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8vvqnm",
+              "author": "T-nash",
+              "body": "Really? Are you going to pretend we've never had corporates dupe us and say a flawed design is fine to not take responsibility? I've been watching repair videos for years, and guess what, almost all burned cards are a result of high temperatures BELOW the maximum rated temp.\n\nHeck, just go and Google evga 3090 ftw vram temp issues and have a good look, they can't even get their vram thermal interface correctly, those said engineers didn't think of backplate changing shape over time from thermal expansion and contraction. I have a whole post about this on the evga subreddit.\n\nWant to put blind trust in engineers? Go for it, just don't watch repair videos.\n\nHeck, you have the whole 12vhpwr connector of the 4090 story, designed by engineers.\n\nHave you seen the 5090 vram temps? They used the same pads as previous generation, their engineer said he was happy with them, i took a look at 5090 reviews and they're hitting 90c+ despite the fact they gddr7 uses half the power of gddr6. Give it a few months for thermal expansion to kick in and let's see if 100c+ won't kick in, as was the case for evga cards.",
+              "score": 11,
+              "created_utc": 1737711744.0,
+              "replies": [
+                {
+                  "id": "m8vw37p",
+                  "author": "luuuuuku",
+                  "body": "Well, you don\u2019t get the point. These are made up numbers. If they wanted to deceive, why not report lower temperatures? That doesn\u2019t make sense to explain changes if they\u2019re doing it to hurt consumers. \n\nThe 12VHPWR connector in itself is fine. \nThe issue is about build quality not the design itself.",
+                  "score": -9,
+                  "created_utc": 1737711961.0,
+                  "replies": [
+                    {
+                      "id": "m8vwcxf",
+                      "author": "T-nash",
+                      "body": "They're not made up, they have a formula behind them that is as close as it can get, and i have reapplied my cooler enough times to tell it reveals misalignment.\n\n12vhpwr has engineering flaws, did you watch Steve's over an hour video going through what went wrong?\n\nIn any case, what is build quality if not engineering decisions?",
+                      "score": 7,
+                      "created_utc": 1737712131.0,
+                      "replies": [
+                        {
+                          "id": "m8vxqzg",
+                          "author": "luuuuuku",
+                          "body": "They kinda are. What do you think how it works? You can add any offsets and that\u2019s it. If NVIDIA wanted to deceive users, why make this decision public?\n\nYou mean the overall bad video that was completely flawed? \nWhy aren\u2019t are there any reported cases of 12VHPWR burning down in data centers where they were used with even more power? \nThe connector itself is based on a known and proven MOLEX design which spec can actually handle than 12VHPWR. \nThe connector itself is fine but if you use cheap materials and don\u2019t even meet the spec, then the s are hardly to blame.",
+                          "score": 2,
+                          "created_utc": 1737712981.0,
+                          "replies": [
+                            {
+                              "id": "m8w5c70",
+                              "author": "T-nash",
+                              "body": "You obviously didn't watch Steve's investigation on YouTube, where it was proven bad engineering decisions were made, yet you're here debating quality without researching into it. I won't humor you further.",
+                              "score": 7,
+                              "created_utc": 1737717425.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8tg6g2",
+      "author": "cmdrtheymademedo",
+      "body": "Lol.   Someone at nvidia is smoking crack",
+      "score": 58,
+      "created_utc": 1737675285.0,
+      "replies": [
+        {
+          "id": "m8tqf0b",
+          "author": "DatTF2",
+          "body": "Probably Jensen. Did you see his jacket ? Only someone on a coke binge would think that jacket was cool. /s",
+          "score": 26,
+          "created_utc": 1737678498.0,
+          "replies": [
+            {
+              "id": "m8uovb9",
+              "author": "cmdrtheymademedo",
+              "body": "Oh yea that dude def sniffing something",
+              "score": 6,
+              "created_utc": 1737690366.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8wgzhi",
+          "author": "Juub1990",
+          "body": "Sniffing coke. Those guys are too rich for crack. That\u2019s s poor people drug.",
+          "score": 5,
+          "created_utc": 1737722949.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8vn5ow",
+      "author": "LuLuCheng",
+      "body": "man why did everything have to go to shit when I have buying power",
+      "score": 10,
+      "created_utc": 1737706404.0,
+      "replies": []
+    },
+    {
+      "id": "m8tds0x",
+      "author": "TLKimball",
+      "body": "Queue the outrage.",
+      "score": 49,
+      "created_utc": 1737674528.0,
+      "replies": [
+        {
+          "id": "m8ukllb",
+          "author": "Anothershad0w",
+          "body": "Cue",
+          "score": 43,
+          "created_utc": 1737688845.0,
+          "replies": [
+            {
+              "id": "m8vi2gv",
+              "author": "Soul-Burn",
+              "body": "They want all the outrage waiting their turn in a line, you see",
+              "score": 13,
+              "created_utc": 1737703431.0,
+              "replies": [
+                {
+                  "id": "m8woxwd",
+                  "author": "cgaWolf",
+                  "body": "Cue the outrage queue \\\\0/",
+                  "score": 3,
+                  "created_utc": 1737725940.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m8w275w",
+              "author": "None",
+              "body": "Orderly outrage",
+              "score": 3,
+              "created_utc": 1737715657.0,
+              "replies": []
+            },
+            {
+              "id": "m8wpisf",
+              "author": "wobblyweasel",
+              "body": "que",
+              "score": 1,
+              "created_utc": 1737726144.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m8tecwv",
+          "author": "Xero_id",
+          "body": "![gif](giphy|8cqVIPHCKLhfO)",
+          "score": 16,
+          "created_utc": 1737674710.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m8tzwqw",
+      "author": "PatSajaksDick",
+      "body": "ELI5 hot spot sensor",
+      "score": 17,
+      "created_utc": 1737681508.0,
+      "replies": [
+        {
+          "id": "m8u5n91",
+          "author": "TheRageDragon",
+          "body": "Ever see a thermal image of a human? You'd see red in your chest, but blue/green going out towards your arms and legs. Your chest is the Hotspot. Chips have their hotspots too. Software like HWmonitor can show you the temperature readings of this hotspot.",
+          "score": 36,
+          "created_utc": 1737683387.0,
+          "replies": [
+            {
+              "id": "m8vkqu0",
+              "author": "Faolanth",
+              "body": "pls don\u2019t use hwmonitor as the example, hwinfo64 completely replaces it and corrects its issues.\n\nHwmonitor should be avoided.",
+              "score": 7,
+              "created_utc": 1737704990.0,
+              "replies": [
+                {
+                  "id": "m8wupk3",
+                  "author": "Fun_Influence",
+                  "body": "What\u2019s wrong with hwmonitor? I\u2019m curious because I\u2019ve never heard anything wrong about it. Are there any recommended alternatives?",
+                  "score": 1,
+                  "created_utc": 1737727924.0,
+                  "replies": [
+                    {
+                      "id": "m9032ew",
+                      "author": "Faolanth",
+                      "body": "Is not updated frequently enough - has issues reading some sensors and thus has incorrectly reported in the past.\n\nHWINFO is the alternative, is updated frequently and has much more sensor data available.",
+                      "score": 2,
+                      "created_utc": 1737761391.0,
+                      "replies": [
+                        {
+                          "id": "m909fmw",
+                          "author": "Fun_Influence",
+                          "body": "Ok makes sense, thanks for the info :)",
+                          "score": 1,
+                          "created_utc": 1737763436.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8v57ry",
+              "author": "iamflame",
+              "body": "Is there specifically a hotspot sensor, or just some math that determines core#6 is currently the hotspot and reports its temperature?",
+              "score": 4,
+              "created_utc": 1737696855.0,
+              "replies": [
+                {
+                  "id": "m8vvgc4",
+                  "author": "luuuuuku",
+                  "body": "No, there is actually no sensor that gets reported directly. There are many more sensors close to logic and then there are algorithms that calculate and estimate true temperatures based on that. \nHot spot temperatures are often estimations based on averages and deviations. \nUsually, not a single sensor actually measures what gets reported because the logic itself gets a bit hotter. So, they take thermal conductivity into their calculations and try to estimate what the temperatures would be. They take averages and something like the standard deviations to estimate hot spots. \nYou have to trust the engineers on this but redditors think they know better. \nIf engineers think that the hotspot value doesn\u2019t make sense in their setup, it likely doesn\u2019t. If they wanted to, they could have made up something.",
+                  "score": 0,
+                  "created_utc": 1737711563.0,
+                  "replies": [
+                    {
+                      "id": "m8xl89j",
+                      "author": "iamflame",
+                      "body": "That makes sense. Heat flow through a known material and shape isn't hard to stimulate if you know the heat sources and sinks as well.",
+                      "score": 1,
+                      "created_utc": 1737735776.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m8u9pao",
+              "author": "PatSajaksDick",
+              "body": "Ah yeah I was wondering more why this was useful thing to know for a GPU",
+              "score": 8,
+              "created_utc": 1737684822.0,
+              "replies": [
+                {
+                  "id": "m8ugnn0",
+                  "author": "lordraiden007",
+                  "body": "Because if there\u2019s no hotspot sensor, the temperature can be far higher than it should be at certain locations on the GPU die. This means if your GPU runs hot, due to overclocking or just inadequate stock cooling, you could be doing serious damage to other parts of the die that are hotter and aren\u2019t reporting their temperature.\n\nBasically, it\u2019s dangerous to the device lifespan, and makes it more dangerous to overclock or self-cool your device.",
+                  "score": 28,
+                  "created_utc": 1737687378.0,
+                  "replies": [
+                    {
+                      "id": "m8vc35d",
+                      "author": "SentorialH1",
+                      "body": "That's... why they used the liquid metal.  And they've already demonstrated their engineering for the cooler is incredibly impressive.  Gamers nexus has a great breakdown on performance and cooling, and were incredibly impressed.  This review was available like 24 hours ago.",
+                      "score": -2,
+                      "created_utc": 1737700187.0,
+                      "replies": [
+                        {
+                          "id": "m8vcfvv",
+                          "author": "lordraiden007",
+                          "body": "They asked why it could be important, and as I said, it\u2019s mainly just important if you do something beyond what NVIDIA wants you to do. The coolers aren\u2019t designed with the thermal headroom to allow people to significantly overclock, and the lack of hotspot temps could make using your own cooler dangerous to the GPU (so taking the cooler off and using a water block would be inadvisable, for example). Neither or both of those example cases could be relevant to the person I responded to, but they could matter to someone.",
+                          "score": 7,
+                          "created_utc": 1737700371.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m8x0jav",
+                          "author": "MathematicianLessRGB",
+                          "body": "Nvidia shill lmao",
+                          "score": 0,
+                          "created_utc": 1737729810.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m8vvoq2",
+                      "author": "luuuuuku",
+                      "body": "There has never been a real hotspot sensor.",
+                      "score": -1,
+                      "created_utc": 1737711709.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m8vlbq9",
+                  "author": "Global_Network3902",
+                  "body": "In addition to what others have pointed out, it can help troubleshooting cooling issues. If you\u2019ve noticed that your GPU hovers around 75C with an 80C hotspot, but then some day down the road you notice that it\u2019s sitting at 75C with a 115C hotspot, that can indicate something is amiss. \n\nIn addition, if you are repasting or applying new Liquid Metal, it can be a good indicator that you have good coverage and/or mounting pressure, if you have a huge gap between the two temperatures. \n\n\nI think most people\u2019s issue with removing it is \u201cwhy?\u201d \n\nFrom my understanding (meaning this could be incorrect BS), GPUs have dozens of thermal sensors around the die, and the hotspot reading simply shows the highest one. Again, please somebody correct me if this is wrong.",
+                  "score": 4,
+                  "created_utc": 1737705323.0,
+                  "replies": []
+                },
+                {
+                  "id": "m8usyio",
+                  "author": "KawiNinja",
+                  "body": "If I had to guess, it\u2019s so they can pump out the performance numbers they need without admitting where they got the performance from. We already know it\u2019s using more power, and based off this I don\u2019t think they found a great way to get rid of the extra heat that comes from that extra power.",
+                  "score": -2,
+                  "created_utc": 1737691857.0,
+                  "replies": [
+                    {
+                      "id": "m8vbu1g",
+                      "author": "SentorialH1",
+                      "body": "You're completely wrong on all accounts.  The data was already available before you even posted this.",
+                      "score": 2,
+                      "created_utc": 1737700057.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8x2u7u",
+      "author": "HaxFX",
+      "body": "![gif](giphy|d3mlE7uhX8KFgEmY)\n\nDon\u2019t need a hot spot sensor if everything is a hot spot.",
+      "score": 3,
+      "created_utc": 1737730521.0,
+      "replies": []
+    },
+    {
+      "id": "m8u64mr",
+      "author": "bluedevilb17",
+      "body": "Followed by a subscription service to see it",
+      "score": 7,
+      "created_utc": 1737683551.0,
+      "replies": []
+    },
+    {
+      "id": "m8w3q0x",
+      "author": "gameprojoez",
+      "body": "Probably because the entire card is one giant Hotspot now.",
+      "score": 4,
+      "created_utc": 1737716536.0,
+      "replies": []
+    },
+    {
+      "id": "m8wgap9",
+      "author": "Frenzie24",
+      "body": "In the grim tech future there is only heat sinks.",
+      "score": 1,
+      "created_utc": 1737722665.0,
+      "replies": []
+    },
+    {
+      "id": "m8wq57e",
+      "author": "Komikaze06",
+      "body": "Can't have heating problems if you don't measure them \"taps forehead*",
+      "score": 1,
+      "created_utc": 1737726363.0,
+      "replies": []
+    },
+    {
+      "id": "m8ylm7i",
+      "author": "bezerko888",
+      "body": "![gif](giphy|YkYt0FzMNPJkFnSQlf|downsized)",
+      "score": 1,
+      "created_utc": 1737745845.0,
+      "replies": []
+    },
+    {
+      "id": "m8zs38p",
+      "author": "rabouilethefirst",
+      "body": "Shhh, just buy it. The 6090 will be out in time for the melting PCB",
+      "score": 1,
+      "created_utc": 1737757987.0,
+      "replies": []
+    },
+    {
+      "id": "m90olfs",
+      "author": "SickOfUrShite",
+      "body": "400w 4090 might be the truth",
+      "score": 1,
+      "created_utc": 1737768495.0,
+      "replies": []
+    },
+    {
+      "id": "m92bdcs",
+      "author": "grafknives",
+      "body": "We didint like the value it showed, so it is gone.",
+      "score": 1,
+      "created_utc": 1737795222.0,
+      "replies": []
+    },
+    {
+      "id": "m9a8n17",
+      "author": "None",
+      "body": "Nvidia full on shitting on the customers chest this year, and expecting to be paid for it.",
+      "score": 1,
+      "created_utc": 1737907715.0,
+      "replies": []
+    },
+    {
+      "id": "m8tujy2",
+      "author": "NoPunIntended44",
+      "body": "Oh no",
+      "score": -1,
+      "created_utc": 1737679800.0,
+      "replies": []
+    },
+    {
+      "id": "m8v3dop",
+      "author": "DrDestro229",
+      "body": "and there it is.....I FUCKING KNEW IT",
+      "score": -5,
+      "created_utc": 1737696047.0,
+      "replies": []
+    },
+    {
+      "id": "m8w74nw",
+      "author": "CMDR_omnicognate",
+      "body": "I mean, they\u2019re still using a pin connector that\u2019s pretty content to burst into flames at the slightest nudge, I\u2019m not really surprised they\u2019re cheaping out on sensors either",
+      "score": 0,
+      "created_utc": 1737718379.0,
+      "replies": []
+    }
+  ]
+}

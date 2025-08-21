@@ -1,0 +1,49 @@
+metric,value
+file,1l82ukc.csv
+title,macOS dropping support for AirPort/Time Capsule disk Time Machine backups next year
+rows,80
+num_posts,1
+num_comments,79
+unique_authors,63
+max_depth,6
+avg_comment_words,52.47
+median_comment_words,34.0
+max_comment_words,289
+positive_count,8
+negative_count,71
+neutral_count,0
+positive_pct,10.127
+negative_pct,89.873
+neutral_pct,0.0
+topic_1_keywords,"time, machine, problem, theyre, dont, using, tm, hardware"
+topic_1_label,tm and hardware problems
+topic_2_keywords,"icloud, backup, like, backups, support, actually, solution, dont"
+topic_2_label,icloud backups like icloud support
+topic_3_keywords,"use, ive, apple, dead, express, audio, device, homekit"
+topic_3_label,"ipods, ipods, ipods, ipods"
+topic_4_keywords,"use, machine, time, enough, skilled, nas, dont, hope"
+topic_4_label,nas don't hope for machine
+topic_5_keywords,"solution, icloud, 2026, 50gb, support, released, backups, apple"
+topic_5_label,"Solution, icloud, 2026, 50gb support, released, backups, apple"
+topic_6_keywords,"backups, solution, could, time, support, machine, apple, manually"
+topic_6_label,backups could be saved in machine
+top_ngram_1,time machine (32)
+top_ngram_2,time capsule (11)
+top_ngram_3,hope dont (9)
+top_ngram_4,skilled enough (9)
+top_ngram_5,solution void (8)
+top_ngram_6,void cause (8)
+top_ngram_7,solution void cause (8)
+top_ngram_8,dont decide (7)
+top_ngram_9,decide axe (7)
+top_ngram_10,axe time (7)
+ner_1,Time Machine|ORG|26
+ner_2,NAS|ORG|20
+ner_3,Apple|ORG|15
+ner_4,iC|MISC|6
+ner_5,i|MISC|6
+ner_6,T|MISC|5
+ner_7,iCloud|ORG|5
+ner_8,AirPort Express|ORG|5
+ner_9,Apple|MISC|5
+ner_10,Air|MISC|5

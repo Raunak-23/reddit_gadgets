@@ -1,0 +1,49 @@
+metric,value
+file,1l4ppun.csv
+title,"Sony shows off Project Defiant, its first wireless fight stick for PS5 and PC"
+rows,121
+num_posts,1
+num_comments,120
+unique_authors,89
+max_depth,10
+avg_comment_words,85.17
+median_comment_words,61.5
+max_comment_words,540
+positive_count,12
+negative_count,84
+neutral_count,24
+positive_pct,10.0
+negative_pct,70.0
+neutral_pct,20.0
+topic_1_keywords,"stick, frame, even, polling, 1000hz, fighting, games, 1000fps"
+topic_1_label,a game with a frame and even polling 1000hz
+topic_2_keywords,"bluetooth, wireless, row, less, 24ghz, usually, right, battery"
+topic_2_label,Wireless Bluetooth Wireless row with less battery
+topic_3_keywords,"mouse, keyboard, wireless, using, battery, hours, chinese, version"
+topic_3_label,Using a mouse and keyboard for a wireless connection
+topic_4_keywords,"wireless, sony, controller, wired, get, latency, play, ps5"
+topic_4_label,Wireless controllers get latency and play
+topic_5_keywords,"rate, polling, one, youre, refresh, know, fps, im"
+topic_5_label,fps fps : a fps polling
+topic_6_keywords,"wireless, wired, people, pheripherals, thought, still, latency, use"
+topic_6_label,Wireless pheripherals use wireless technology
+top_ngram_1,people thought (38)
+top_ngram_2,wireless pheripherals (30)
+top_ngram_3,thought wireless (27)
+top_ngram_4,people thought wireless (27)
+top_ngram_5,fighting games (24)
+top_ngram_6,fps games (21)
+top_ngram_7,polling rate (20)
+top_ngram_8,group people (19)
+top_ngram_9,people still (18)
+top_ngram_10,wired pheripherals (18)
+ner_1,Sony|ORG|18
+ner_2,Logitech|ORG|16
+ner_3,Valorant|ORG|12
+ner_4,G Pro Wireless|MISC|11
+ner_5,CS|ORG|11
+ner_6,Zowie|MISC|11
+ner_7,chinese|MISC|10
+ner_8,PS5|MISC|7
+ner_9,Nintendo|ORG|6
+ner_10,Bluetooth|MISC|5

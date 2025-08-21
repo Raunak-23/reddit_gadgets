@@ -1,0 +1,49 @@
+metric,value
+file,1kgxzif.csv
+title,Sonos and Ikea are ending their partnership | The companies are winding down their Symfonisk lineup after years of collaboration. No further products are planned.
+rows,100
+num_posts,1
+num_comments,99
+unique_authors,72
+max_depth,8
+avg_comment_words,90.63
+median_comment_words,69.0
+max_comment_words,380
+positive_count,7
+negative_count,92
+neutral_count,0
+positive_pct,7.071
+negative_pct,92.929
+neutral_pct,0.0
+topic_1_keywords,"sonos, speakers, audio, would, less, soundbar, way, app"
+topic_1_label,soundbar soundbar sounds less
+topic_2_keywords,"sonos, app, play, bought, product, soundbar, works, years"
+topic_2_label,Sonos works on the app and plays soundbar
+topic_3_keywords,"sonos, good, speakers, stuff, like, sound, dont, app"
+topic_3_label,Sonos sound good
+topic_4_keywords,"hardware, price, app, years, get, point, two, made"
+topic_4_label,hardware and apps for a few years
+topic_5_keywords,"speakers, people, really, new, sonos, update, seem, find"
+topic_5_label,new sonos find new
+topic_6_keywords,"hdmi, app, one, sound, wifi, tv, input, network"
+topic_6_label,hdmi hdmi is a wireless app that can play music on a network
+top_ngram_1,expensive replace (12)
+top_ngram_2,sonos products (12)
+top_ngram_3,years ago (12)
+top_ngram_4,speakers sonos (11)
+top_ngram_5,new sonos (10)
+top_ngram_6,much less (10)
+top_ngram_7,unfortunately house (9)
+top_ngram_8,house would (9)
+top_ngram_9,would prohibitively (9)
+top_ngram_10,prohibitively expensive (9)
+ner_1,Sonos|ORG|72
+ner_2,Sonos|MISC|25
+ner_3,Son|MISC|21
+ner_4,HD|MISC|19
+ner_5,Son|ORG|9
+ner_6,HDMI|MISC|8
+ner_7,##os|MISC|7
+ner_8,RCA|ORG|7
+ner_9,Apple|ORG|5
+ner_10,O|ORG|4

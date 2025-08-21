@@ -1,0 +1,49 @@
+metric,value
+file,1iok51r.csv
+title,iPhone AI features will be powered by Alibaba in China
+rows,85
+num_posts,1
+num_comments,84
+unique_authors,60
+max_depth,10
+avg_comment_words,42.89
+median_comment_words,32.5
+max_comment_words,239
+positive_count,14
+negative_count,70
+neutral_count,0
+positive_pct,16.667
+negative_pct,83.333
+neutral_pct,0.0
+topic_1_keywords,"question, dont, ai, useless, computer, turned, enabled, understand"
+topic_1_label,What is the problem with ai?
+topic_2_keywords,"siri, ai, ios, even, yet, like, dont, apple"
+topic_2_label,"siri ai, ios, even, but don t like apple"
+topic_3_keywords,"joint, apple, venture, china, doesnt, also, ask, right"
+topic_3_label,Chinese apple venture doesnt ask for joint
+topic_4_keywords,"cant, china, shit, see, guys, ban, america, really"
+topic_4_label,shit cant see guys in america
+topic_5_keywords,"apple, features, china, alibaba, chatgpt, intelligence, ai, things"
+topic_5_label,"Apple features Chinese alibaba, ai and things"
+topic_6_keywords,"phone, use, notifications, authenticator, ai, dont, option, made"
+topic_6_label,ai don't have a phone
+top_ngram_1,ios ai (13)
+top_ngram_2,anyone else (11)
+top_ngram_3,else even (11)
+top_ngram_4,even turn (11)
+top_ngram_5,turn ios (11)
+top_ngram_6,anyone else even (11)
+top_ngram_7,else even turn (11)
+top_ngram_8,even turn ios (11)
+top_ngram_9,turn ios ai (11)
+top_ngram_10,tried mac (11)
+ner_1,Apple|ORG|19
+ner_2,China|LOC|17
+ner_3,Siri|MISC|17
+ner_4,Mac|MISC|17
+ner_5,Apple Intelligence|ORG|9
+ner_6,iOS AI|MISC|7
+ner_7,iPhone|MISC|7
+ner_8,Alibaba|ORG|7
+ner_9,Nextgen Siri|MISC|6
+ner_10,iOS 19|MISC|6

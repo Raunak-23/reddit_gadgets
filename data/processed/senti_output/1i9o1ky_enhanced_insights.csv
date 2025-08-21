@@ -1,0 +1,49 @@
+metric,value
+file,1i9o1ky.csv
+title,"Microsoft’s gaming CEO has praised Nintendo Switch 2, and said it plans to support the upcoming platform with ports of Xbox games."
+rows,417
+num_posts,1
+num_comments,416
+unique_authors,288
+max_depth,20
+avg_comment_words,68.51
+median_comment_words,39.0
+max_comment_words,600
+positive_count,81
+negative_count,303
+neutral_count,32
+positive_pct,19.471
+negative_pct,72.837
+neutral_pct,7.692
+topic_1_keywords,"xbox, switch, game, sega, games, would, pc, nintendo"
+topic_1_label,"xbox, sega, games, pc, nintendo"
+topic_2_keywords,"nintendo, cross, play, xbox, switch, going, save, microsoft"
+topic_2_label,microsoft 's cross switch to play xbox
+topic_3_keywords,"xbox, console, windows, dont, think, one, like, im"
+topic_3_label,xbox console doesn t think i am
+topic_4_keywords,"xbox, people, switch, nintendo, would, sony, steam, want"
+topic_4_label,"xbox, nintendo, would, xbox, nintendo"
+topic_5_keywords,"xbox, microsoft, switch, game, never, gamepass, handheld, like"
+topic_5_label,microsoft switch gamepass
+topic_6_keywords,"sega, one, time, never, games, could, console, numbers"
+topic_6_label,sega is not a game
+top_ngram_1,steam deck (26)
+top_ngram_2,dont think (25)
+top_ngram_3,cant beat (21)
+top_ngram_4,beat em (21)
+top_ngram_5,cant beat em (21)
+top_ngram_6,going cant (20)
+top_ngram_7,em route (20)
+top_ngram_8,route smart (20)
+top_ngram_9,going cant beat (20)
+top_ngram_10,beat em route (20)
+ner_1,Xbox|MISC|146
+ner_2,Xbox|ORG|138
+ner_3,Nintendo|ORG|129
+ner_4,Microsoft|ORG|126
+ner_5,Sony|ORG|90
+ner_6,Sega|ORG|61
+ner_7,Switch 2|MISC|49
+ner_8,PS3|MISC|45
+ner_9,Dreamcast|MISC|34
+ner_10,Switch|MISC|31

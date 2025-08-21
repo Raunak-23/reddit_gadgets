@@ -1,0 +1,49 @@
+metric,value
+file,1mf6zqi.csv
+title,Ukraine rescues soldier via drone delivery of complete e-bike | Drones can now carry significant payloads.
+rows,152
+num_posts,1
+num_comments,151
+unique_authors,129
+max_depth,8
+avg_comment_words,42.64
+median_comment_words,34.0
+max_comment_words,279
+positive_count,32
+negative_count,119
+neutral_count,0
+positive_pct,21.192
+negative_pct,78.808
+neutral_pct,0.0
+topic_1_keywords,"would, behind, used, left, one, bike, either, kill"
+topic_1_label,use of left and right would kill bike
+topic_2_keywords,"bike, ukraine, us, could, probably, mine, soldier, one"
+topic_2_label,ukraine could be mined by a soldier
+topic_3_keywords,"carry, drones, drone, apparently, get, charging, infrastructure, fast"
+topic_3_label,drones 'carrying' fast in infrastructure
+topic_4_keywords,"drones, ebikes, would, im, like, war, see, got"
+topic_4_label,drones and ebikes awe
+topic_5_keywords,"bike, use, analog, tool, makes, acoustic, delivery, troops"
+topic_5_label,Acoustic and acoustic: use of bike
+topic_6_keywords,"food, drones, could, drop, wondered, gaza, prevent, large"
+topic_6_label,drones could drop food in gaza
+top_ngram_1,charging infrastructure (15)
+top_ngram_2,truthfully charging (13)
+top_ngram_3,infrastructure great (13)
+top_ngram_4,great cavalry (13)
+top_ngram_5,cavalry style (13)
+top_ngram_6,style tool (13)
+top_ngram_7,tool quiet (13)
+top_ngram_8,quiet relatively (13)
+top_ngram_9,relatively fast (13)
+top_ngram_10,fast maneuverable (13)
+ner_1,Ukraine|LOC|24
+ner_2,US|LOC|12
+ner_3,China|LOC|8
+ner_4,Russia|LOC|7
+ner_5,Ukrainian|MISC|7
+ner_6,Gaza|LOC|5
+ner_7,Chinese|MISC|4
+ner_8,80s|MISC|3
+ner_9,##azon|ORG|3
+ner_10,##uss|MISC|3

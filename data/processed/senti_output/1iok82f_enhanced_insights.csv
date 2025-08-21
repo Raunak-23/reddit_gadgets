@@ -1,0 +1,49 @@
+metric,value
+file,1iok82f.csv
+title,Sony has sold 74.9 million PlayStation 5s
+rows,25
+num_posts,1
+num_comments,24
+unique_authors,18
+max_depth,3
+avg_comment_words,21.67
+median_comment_words,15.5
+max_comment_words,98
+positive_count,10
+negative_count,14
+neutral_count,0
+positive_pct,41.667
+negative_pct,58.333
+neutral_pct,0.0
+topic_1_keywords,"back, get, dont, tbf, less, options, still, one"
+topic_1_label,tbf is a tbf
+topic_2_keywords,"million, one, sold, even, rookie, ps1, 150, 130"
+topic_2_label,"Millions, one, 150, 130"
+topic_3_keywords,"numbers, im, around, thought, sales, ps2, impressed, would"
+topic_3_label,thought of ps2 sales
+topic_4_keywords,"options, less, tbf, back, like, switch, feel, sellers"
+topic_4_label,"tbf, back, like, switch"
+topic_5_keywords,"160m, ps2s, number, sales, numbers, single, console, sony"
+topic_5_label,"160m, ps2s, number, single, console"
+topic_6_keywords,"certainly, like, switch, feel, ps5, sellers, dont, options"
+topic_6_label,i like the switch
+top_ngram_1,less options (5)
+top_ngram_2,sold 150 (4)
+top_ngram_3,150 million (4)
+top_ngram_4,million ps2 (4)
+top_ngram_5,ps2 130 (4)
+top_ngram_6,130 million (4)
+top_ngram_7,million ps1 (4)
+top_ngram_8,ps1 rookie (4)
+top_ngram_9,rookie numbers (4)
+top_ngram_10,sold 150 million (4)
+ner_1,PS2|MISC|5
+ner_2,Sony|ORG|2
+ner_3,##witch|ORG|1
+ner_4,##1|MISC|1
+ner_5,Plays|MISC|1
+ner_6,Nintendo|ORG|1
+ner_7,Playstations|ORG|1
+ner_8,Pulitzer|MISC|1
+ner_9,S|MISC|1
+ner_10,Switch|ORG|1

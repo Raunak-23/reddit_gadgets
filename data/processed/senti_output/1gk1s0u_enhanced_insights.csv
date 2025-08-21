@@ -1,0 +1,49 @@
+metric,value
+file,1gk1s0u.csv
+title,"It's time to say goodbye to the Nintendo 3DS, as the last player to still be online finally loses connection more than 200 days after servers went down"
+rows,308
+num_posts,1
+num_comments,307
+unique_authors,246
+max_depth,9
+avg_comment_words,41.64
+median_comment_words,31.0
+max_comment_words,496
+positive_count,61
+negative_count,227
+neutral_count,19
+positive_pct,19.87
+negative_pct,73.941
+neutral_pct,6.189
+topic_1_keywords,"bring, switch, time, still, say, servers, could, well"
+topic_1_label,switch time to bring a switch
+topic_2_keywords,"3ds, games, switch, still, even, cant, im, really"
+topic_2_label,i cant switch to a different game
+topic_3_keywords,"getting, 3ds, gonna, find, ds, flipnotes, son, software"
+topic_3_label,ds gonna find ds
+topic_4_keywords,"console, days, home, switch, handheld, world, proper, im"
+topic_4_label,iii 's consoles and handhelds
+topic_5_keywords,"3ds, switch, like, ds, liked, ever, time, still"
+topic_5_label,"3ds, like, ds, like, ever"
+topic_6_keywords,"games, 3ds, buttons, never, controller, dpad, used, really"
+topic_6_label,dpad used in games
+top_ngram_1,3ds switch (17)
+top_ngram_2,liked 3ds (15)
+top_ngram_3,liked 3ds switch (15)
+top_ngram_4,year old (14)
+top_ngram_5,new 3ds (14)
+top_ngram_6,home console (14)
+top_ngram_7,going suck (13)
+top_ngram_8,suck 24 (13)
+top_ngram_9,24 year (13)
+top_ngram_10,old autistic (13)
+ner_1,3DS|MISC|89
+ner_2,DS|MISC|30
+ner_3,Switch|MISC|25
+ner_4,Nintendo|ORG|22
+ner_5,DS|ORG|8
+ner_6,Pro|MISC|6
+ner_7,Pong|MISC|6
+ner_8,SNES|MISC|6
+ner_9,Overlord|MISC|5
+ner_10,Wii|MISC|5

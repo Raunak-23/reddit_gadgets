@@ -1,0 +1,682 @@
+{
+  "post": {
+    "title": "NVIDIA\u2019s RTX 50 Laptop GPUs also hit by missing ROPs, production delays expected",
+    "author": "chrisdh79",
+    "id": "1j5dath",
+    "score": 1035,
+    "created_utc": 1741315272.0,
+    "selftext": "",
+    "num_comments": 86,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1j5dath/nvidias_rtx_50_laptop_gpus_also_hit_by_missing/"
+  },
+  "comments": [
+    {
+      "id": "mgh9qwx",
+      "author": "dustofdeath",
+      "body": "So no GPU RMA, but the whole laptop will have to go back to the factory, disassembled, reworked and sold as refurbished.\n\nThis will cost Nvidia more than just a chip replacement.",
+      "score": 205,
+      "created_utc": 1741335668.0,
+      "replies": [
+        {
+          "id": "mkrepx8",
+          "author": "AllDoggoIsGoodDoggo",
+          "body": "Oh I'm sure they'll still be selling them as brand new as long as they catch it before it gets to the initial consumer.  Pretty shady though to be buying a computer that was torn apart and has swapped out parts as for brand new pricing.",
+          "score": 1,
+          "created_utc": 1743458963.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mggqobw",
+      "author": "wilco-roger",
+      "body": "So they\u2019re shipping junk right? NVIDIA made a faulty product, knew about it and shipped it anyway. Is that the story?",
+      "score": 328,
+      "created_utc": 1741325486.0,
+      "replies": [
+        {
+          "id": "mggtwfq",
+          "author": "elasticthumbtack",
+          "body": "That\u2019s what I don\u2019t get. How could they have missed this? If they didn\u2019t, why would they think it would never get noticed? A recall of this magnitude is going to be way more costly.",
+          "score": 136,
+          "created_utc": 1741326981.0,
+          "replies": [
+            {
+              "id": "mghf5os",
+              "author": "covfefe-boy",
+              "body": "I think the numbers are that NVIDIA is selling something like 30x-50x the business in AI chips now vs gaming hardware. \n\nSo they don\u2019t care, they don\u2019t want to just give up their foothold in the gaming market but it\u2019s become small potatoes to them so the best hardware goes to the massive AI orders and their gaming stock gets the worst quality stuff.",
+              "score": 110,
+              "created_utc": 1741339042.0,
+              "replies": [
+                {
+                  "id": "mghhspf",
+                  "author": "Eritar",
+                  "body": "NVDA stock dropped massively over the last couple of months, they do care, it\u2019s just a fuck up",
+                  "score": 29,
+                  "created_utc": 1741340711.0,
+                  "replies": [
+                    {
+                      "id": "mghnxjn",
+                      "author": "T_Dizzle_My_Nizzle",
+                      "body": "That's more to do with the AI side of the business than the gaming side though. Their stock dropped after DeepSeek R1 was released, something that made investors worry that we may not need so many GPUs to make frontier language models.",
+                      "score": 68,
+                      "created_utc": 1741344434.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mgii3af",
+                      "author": "THound89",
+                      "body": "I think a big part of this is just the whole market being down",
+                      "score": 7,
+                      "created_utc": 1741357325.0,
+                      "replies": [
+                        {
+                          "id": "mgiz22j",
+                          "author": "soulsoda",
+                          "body": "Tariffs and government instability.",
+                          "score": 10,
+                          "created_utc": 1741362570.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mghk3s1",
+                      "author": "blither86",
+                      "body": "'massively'? Any figures? It's barely down as far as I can tell",
+                      "score": -28,
+                      "created_utc": 1741342154.0,
+                      "replies": [
+                        {
+                          "id": "mghmn7m",
+                          "author": "Arnhermland",
+                          "body": ">  It's barely down as far as I can tell\n\nIt's gone down 27% of the total stock value on the year to date, did you straight up just not check the stock price or something?",
+                          "score": 27,
+                          "created_utc": 1741343685.0,
+                          "replies": [
+                            {
+                              "id": "mghntye",
+                              "author": "blither86",
+                              "body": "How is year to date helpful when they said last couple of months?\n\nI asked because my close friend owns nvidia stock and whenever I see a news article about their stock dropping I rib him about it, and he's always said 'it's not down much'. 15% over the last two months isn't exactly massive. I'm hoping for a much larger drop.",
+                              "score": -29,
+                              "created_utc": 1741344377.0,
+                              "replies": [
+                                {
+                                  "id": "mgho9of",
+                                  "author": "Arnhermland",
+                                  "body": "> How is year to date helpful when they said last couple of months?\n\n...because 2 months ago (literally \"a couple months\") was January 6th, the start of the year?",
+                                  "score": 25,
+                                  "created_utc": 1741344626.0,
+                                  "replies": [
+                                    {
+                                      "id": "mgih7nx",
+                                      "author": "covfefe-boy",
+                                      "body": "They're the smartest mod of wallstreetbets.",
+                                      "score": 8,
+                                      "created_utc": 1741357031.0,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "mghojsp",
+                                      "author": "blither86",
+                                      "body": "Isnt year to date the last entire calendar year from today as a starting point? Ah, perhaps not.\n\nSo 27% since Jan 21st (edit: I meant Jan 1st, at work, typo) and 15% in last two months?",
+                                      "score": -25,
+                                      "created_utc": 1741344787.0,
+                                      "replies": [
+                                        {
+                                          "id": "mghp6qv",
+                                          "author": "Arnhermland",
+                                          "body": "https://en.wikipedia.org/wiki/Year-to-date  \n  https://www.investopedia.com/terms/y/ytd.asp  \n   \"Year to date (YTD) refers to the period beginning on the first day of the current calendar year or fiscal year up to the current date.\"  \n   And no, again if you checked it's down 27% (actually a bit more than that) over the last 2 months which is also the YTD, I don't know where you got random that 21st date from.",
+                                          "score": 14,
+                                          "created_utc": 1741345152.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "mgi7boc",
+                                          "author": "None",
+                                          "body": "You should really make sure you know what you\u2019re talking about before doubling and tripling down.",
+                                          "score": 12,
+                                          "created_utc": 1741353536.0,
+                                          "replies": [
+                                            {
+                                              "id": "mgic2kh",
+                                              "author": "blither86",
+                                              "body": "No, I didn't double or triple down, I said: \"ah, perhaps not\", literally acknowledging that I was wrong.",
+                                              "score": -6,
+                                              "created_utc": 1741355254.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "id": "mgkopgh",
+                                          "author": "Parthian__Shot",
+                                          "body": "Yes, which is MASSIVE.",
+                                          "score": 1,
+                                          "created_utc": 1741380270.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "mgiq899",
+                                  "author": "itsalongwalkhome",
+                                  "body": ">How is year to date helpful when they said last couple of months?\n\n![gif](giphy|dC9DTdqPmRnlS|downsized)",
+                                  "score": 4,
+                                  "created_utc": 1741359943.0,
+                                  "replies": [
+                                    {
+                                      "id": "mgiriu9",
+                                      "author": "blither86",
+                                      "body": "Yeah I thought it meant the last year up to this point when I first read it. Apologies for making an honest mistake on the Internet and then immediately back tracking and admitting that. I shall report to the hangman first thing tomorrow morning.",
+                                      "score": -2,
+                                      "created_utc": 1741360340.0,
+                                      "replies": [
+                                        {
+                                          "id": "mgitcgs",
+                                          "author": "itsalongwalkhome",
+                                          "body": ">It's barely down as far as I can tell.\n\nWell, if you looked you would see its down 27% in the last few months. YTD mishap was brought up after this, and while funny, is forgivable. \n\nIt's just silly you commented so confidently without checking. \n\n>hangman\n\nE",
+                                          "score": 4,
+                                          "created_utc": 1741360895.0,
+                                          "replies": [
+                                            {
+                                              "id": "mgiuviu",
+                                              "author": "blither86",
+                                              "body": "Meh, I think the reason is they said 'massive' and I wasn't convinced because, as I say, my friend has some stock. I've since asked him and he said he bought it ages ago so even the 27% decline YTD isn't a big deal for him, although he did recently sell some of course he wishes he'd sold more at the high point.",
+                                              "score": 1,
+                                              "created_utc": 1741361351.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mgixfhz",
+                                                  "author": "itsalongwalkhome",
+                                                  "body": "Herein lies the problem. You now say you weren't convinced it was \"massive\", and instead you respond back implying you looked it up but instead its just information you gained off a friend regarding their unique position. \n\nIt's not so much about you not being convinced it's about you not even checking and believing everyone is in the same boat as your friend.",
+                                                  "score": 2,
+                                                  "created_utc": 1741362102.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "mgj1br6",
+                                                      "author": "blither86",
+                                                      "body": "I don't just now say that, I've said it several times.",
+                                                      "score": 1,
+                                                      "created_utc": 1741363226.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mghm3fz",
+                          "author": "Wheelyjoephone",
+                          "body": "It's down 15% in the last month, and 20% over the last year. Given their market cap, that's around $600bn.",
+                          "score": 3,
+                          "created_utc": 1741343358.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mglq5hm",
+                  "author": "poopyheadthrowaway",
+                  "body": "Would be interesting if the same problem turned up in their workstation/server parts",
+                  "score": 1,
+                  "created_utc": 1741392869.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mgiuyi5",
+              "author": "Green0Photon",
+              "body": "My only possible \"reasonable\" guess is that they thought it was a difficult software issue that they could solve after launch, and it would cost way more money withdrawing all cards pre launch instead of all the issues getting it fixed post launch.\n\nBut even then, it seems like this is a hardware issue, and pretty unlikely for them to not realize it at launch.",
+              "score": 5,
+              "created_utc": 1741361375.0,
+              "replies": []
+            },
+            {
+              "id": "mgls21s",
+              "author": "ttubehtnitahwtahw1",
+              "body": "easier to ask for forgiveness than permission. Not to mention, no one is really gonna give a fuck. Just look at the misleading memory issues that the 900 series had. No one cared, nvidia bounced back if it even needed a bounce.",
+              "score": 0,
+              "created_utc": 1741393528.0,
+              "replies": []
+            },
+            {
+              "id": "mgh1rvc",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -3,
+              "created_utc": 1741331054.0,
+              "replies": [
+                {
+                  "id": "mgh349y",
+                  "author": "CosmicCreeperz",
+                  "body": "Not necessarily the same chips for the same modem numbers.  For example, the 4090 mobile use the same die as the 4080 desktop.\n\nNaming is all marketing.",
+                  "score": 2,
+                  "created_utc": 1741331801.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mgi7gcb",
+          "author": "Awake00",
+          "body": "My brother is a gamer, but I usually build his pcs for him, or introduce him to games.  He would have no idea about any of this and would be happy with his new GPU if he had just got one.",
+          "score": 4,
+          "created_utc": 1741353585.0,
+          "replies": [
+            {
+              "id": "mglqrhw",
+              "author": "poopyheadthrowaway",
+              "body": "I mean, by that standard, he'd probably have no idea and be happy if you swapped his GPU out for one model lower.",
+              "score": 2,
+              "created_utc": 1741393079.0,
+              "replies": [
+                {
+                  "id": "mgls3gf",
+                  "author": "Awake00",
+                  "body": "Nah I taught him about viewing fps on afterburner. He has a 2070s right now I told him his days of running things at ultra/high will soon be over (1080 monitor) so if he gets any slow down to pull that up and adjust settings accordingly.",
+                  "score": 1,
+                  "created_utc": 1741393542.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgh8oqt",
+      "author": "Turmfalke_",
+      "body": "what is a ROP?",
+      "score": 39,
+      "created_utc": 1741335027.0,
+      "replies": [
+        {
+          "id": "mghhtd6",
+          "author": "QuickQuirk",
+          "body": "'render output unit' or 'raster operations pipeline', depending on who you ask.\n\nAn important part of the GPU graphics processsing that handles tasks near the end of the graphics rendering.\nAntialiasing, colour compression, writing to the output buffer, and I'm sure more stuff.\n\nBasically, having less will bottleneck *other* parts of ther GPU, slowing things down under some circumstances.",
+          "score": 57,
+          "created_utc": 1741340721.0,
+          "replies": []
+        },
+        {
+          "id": "mghowti",
+          "author": "101m4n",
+          "body": "ELI5 explanation: they're special hardware in the GPU that turns the coordinates of a triangle into a list of pixels within the triangle, so the GPU can then go and render those pixels. This is called rasterisation, hence ROP (raster operation processor). If you don't have enough of them, then the shader cores might run out of work and sit idle.\n\nPipeline looks kinda like this\n- Calculate where triangles are - shaders\n- Calculate where pixels fall within triangle - ROPs\n- Calculate colour of pixel - shaders",
+          "score": 27,
+          "created_utc": 1741344994.0,
+          "replies": [
+            {
+              "id": "mgk422j",
+              "author": "gauderio",
+              "body": "Can you run your own code on ROPs like you run on vertex and pixel shaders?",
+              "score": 1,
+              "created_utc": 1741374264.0,
+              "replies": [
+                {
+                  "id": "mglc3oh",
+                  "author": "101m4n",
+                  "body": "Nope, they're application specific like tensor or RT cores, at least as far as I'm aware.",
+                  "score": 3,
+                  "created_utc": 1741388072.0,
+                  "replies": []
+                },
+                {
+                  "id": "mglfbe8",
+                  "author": "101m4n",
+                  "body": "Also there aren't really dedicated pixel and fragment shaders in GPUs anymore. Rather a whole mess of generic shaders that can fulfil the role of either.",
+                  "score": 2,
+                  "created_utc": 1741389133.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mgh9ykx",
+          "author": "dustofdeath",
+          "body": "The things that make graphics.",
+          "score": 9,
+          "created_utc": 1741335796.0,
+          "replies": [
+            {
+              "id": "mghrt6j",
+              "author": "OffbeatDrizzle",
+              "body": "Lines go brrrr",
+              "score": 9,
+              "created_utc": 1741346606.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mgn86aq",
+          "author": "soobnar",
+          "body": "return oriented programming",
+          "score": 1,
+          "created_utc": 1741414671.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mggcu18",
+      "author": "TheUnfathomableFrog",
+      "body": "It\u2019s one thing to have to return / RMA a GPU in a desktop. It\u2019s another to have to return your brand new laptop you\u2019ve already put effort into getting set-up / personalized.",
+      "score": 56,
+      "created_utc": 1741319660.0,
+      "replies": []
+    },
+    {
+      "id": "mghnzwb",
+      "author": "meunbear",
+      "body": "I recently switched to AMD from only using Intel in my PCs since my first Pentium 4 machine I made. I suppose it\u2019s time to go back to AMD for GPUs too. Been only using nvidia since my 9800 gtx, before that was ATI! Nvidia just got way too big for their britches, gpus for games are just not what they care about anymore.",
+      "score": 19,
+      "created_utc": 1741344471.0,
+      "replies": [
+        {
+          "id": "mgj3ds2",
+          "author": "thefastslow",
+          "body": "You could always build the cursed machine, AMD CPU with Intel Arc GPU",
+          "score": 12,
+          "created_utc": 1741363828.0,
+          "replies": [
+            {
+              "id": "mgk4ux9",
+              "author": "ElectronicMoo",
+              "body": "Is the Intel arc doing well? I've only just heard of it a couple weeks back.",
+              "score": 4,
+              "created_utc": 1741374496.0,
+              "replies": [
+                {
+                  "id": "mgku79w",
+                  "author": "Cyberdyne_T-888",
+                  "body": "I picked up an Intel Arc A310 ECO. Awesome for transcoding video. There have been some hiccups with fan issues and drivers. It's mostly fixed now. Fan is too small and thus loud though. \n\nIf I run across a cheap Intel Arc B580  I'll probably pick it up. Not top of the line but excellent value.",
+                  "score": 6,
+                  "created_utc": 1741382472.0,
+                  "replies": []
+                },
+                {
+                  "id": "mglk474",
+                  "author": "Dt2_0",
+                  "body": "ARC B580 is great but hard to find as its the only GPU on the value side of things worth buying right now. Intel doesn't compete in the high end, and B580 is solidly at the lower end of midrange. Its an excellent product for the market segment tho.",
+                  "score": 2,
+                  "created_utc": 1741390779.0,
+                  "replies": [
+                    {
+                      "id": "mgobkjk",
+                      "author": "wakkawakkaaaa",
+                      "body": "> the only GPU on the value side of things worth buying right now\n\nRX 9070 XT is another value oriented card at the mid-high end if you can find it at msrp",
+                      "score": 2,
+                      "created_utc": 1741437890.0,
+                      "replies": [
+                        {
+                          "id": "mgq434l",
+                          "author": "Dt2_0",
+                          "body": "By value, I was meaning the $200-$300 price range, but yes the 9070XT is a great deal and offers stellar performance for the money, but it is $600.",
+                          "score": 4,
+                          "created_utc": 1741459587.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mglw8e1",
+          "author": "sold_snek",
+          "body": "> gpus for games are just not what they care about anymore.\n\nThey're the best in performance still because there's just no other options, but even in the data center space NVIDIA is obnoxious to work with. It's really just the company in general.",
+          "score": 1,
+          "created_utc": 1741394975.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mghubbs",
+      "author": "BetImaginary4945",
+      "body": "NVIDIA is having production issues and they're masking the problem until exposed. It's that simple.",
+      "score": 19,
+      "created_utc": 1741347908.0,
+      "replies": [
+        {
+          "id": "mgiijgv",
+          "author": "THound89",
+          "body": "Even if it ends up exposed mainstream they\u2019ll just release some news about their next batch of gpu\u2019s and how much better those are and mainstream will move on",
+          "score": 5,
+          "created_utc": 1741357475.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgjqcym",
+      "author": "PhabioRants",
+      "body": "I was just asking myself how it would be possible for nVidia to screw up their Blackwell launch any harder than they already have.\u00a0\n\n\nJen Hsun Huang over here saying hold my ROPS.\u00a0",
+      "score": 3,
+      "created_utc": 1741370373.0,
+      "replies": []
+    },
+    {
+      "id": "mggec9c",
+      "author": "compound-interest",
+      "body": "This is ROPdiculous",
+      "score": 24,
+      "created_utc": 1741320239.0,
+      "replies": [
+        {
+          "id": "mggii01",
+          "author": "127-0-0-0",
+          "body": "![gif](giphy|WrxoaVPiq0cG4)",
+          "score": 16,
+          "created_utc": 1741321922.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgjqjde",
+      "author": "IntrinsicGiraffe",
+      "body": "RIP ROP",
+      "score": 3,
+      "created_utc": 1741370423.0,
+      "replies": []
+    },
+    {
+      "id": "mgi71k2",
+      "author": "thatguy16754",
+      "body": "What\u2019s a ROP? I know that as return oriented programming, but that\u2019s doesn\u2019t really fit here I feel.",
+      "score": 2,
+      "created_utc": 1741353430.0,
+      "replies": [
+        {
+          "id": "mgij0m4",
+          "author": "Mr_Engineering",
+          "body": "Raster Operations Pipeline.\n\nROPs are the part of a GPU that are responsible for transforming the vector defined geometry and texture data into discrete bitmapped pixel data that can then be post-processed and displayed to the screen.",
+          "score": 2,
+          "created_utc": 1741357633.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgixwk5",
+      "author": "bdoll1",
+      "body": "At least it is not as bad as when they had G84/G86 GPU bonding issues in 2008 costing billions. Yet.",
+      "score": 1,
+      "created_utc": 1741362237.0,
+      "replies": []
+    },
+    {
+      "id": "mgiyggg",
+      "author": "AliveAndNotForgotten",
+      "body": "I only just bought an rtx 40 laptop in August. I\u2019d never buy these things right out of testing",
+      "score": 1,
+      "created_utc": 1741362396.0,
+      "replies": []
+    },
+    {
+      "id": "mgjc4ee",
+      "author": "Murquel",
+      "body": "Nvidia meanwhile \ud83e\udd37\u200d\u2642\ufe0f",
+      "score": 1,
+      "created_utc": 1741366323.0,
+      "replies": []
+    },
+    {
+      "id": "mgkazn2",
+      "author": "itsdrewmiller",
+      "body": "NVIDIA denied this report",
+      "score": 1,
+      "created_utc": 1741376267.0,
+      "replies": []
+    },
+    {
+      "id": "mgkl0qi",
+      "author": "DriftMantis",
+      "body": "I'm pretty sure these new cards are only going to be a slight improvement over the 4000 series anyway. The desktop gpu is more powerful, mostly because it takes 50 watts more power, which is not really an option on a laptop card.\n\nThe only real selling point is the multi frame Gen which to be honest sounds like crap anyway (who wants bad latency and an artifacting crappy image in exchange for fancy motion smoothing?). \n\nWe will see, but with the way it is the rtx 4080 mobile should beat the 5070 mobile anyway. The amd refresh should provide similar performance for a lot less money but not quite the same performance in heavy ray tracing. \n\nAll in all, kind of a pointless upgrade cycle unless you are really due for/needing an upgrade. That said, the new efficiency in synthetic benchmarks should make for better workstation gpus but kind of underwhelming for gaming.",
+      "score": 1,
+      "created_utc": 1741379192.0,
+      "replies": []
+    },
+    {
+      "id": "mgkroaq",
+      "author": "weissmanhyperion",
+      "body": "Just unlaunch the whole series. Go back to the 40s and pretend this didn't happen because obviously no one else have seen it in person anyways.",
+      "score": 1,
+      "created_utc": 1741381390.0,
+      "replies": []
+    },
+    {
+      "id": "mgl7uru",
+      "author": "NotThatAngel",
+      "body": "This would be a good metaphor for life itself, if the roll of tape were also lost, you were looking for it, but forgot what you were looking for because you got distracted.",
+      "score": 1,
+      "created_utc": 1741386712.0,
+      "replies": []
+    },
+    {
+      "id": "mglcubx",
+      "author": "Kuli24",
+      "body": "Imagine nvidia didn't fumble.  At least AMD is here to take over the market with good products.",
+      "score": 1,
+      "created_utc": 1741388310.0,
+      "replies": []
+    },
+    {
+      "id": "mgm3xjx",
+      "author": "AtomicSymphonic_2nd",
+      "body": "Nvidia single-handedly destroying its own reputation.\n\nLiterally the only new product from them worth buying is a 5090 made by an AIB partner, not the FE version.\n\nThat and maybe their workstation A-series cards.\n\nAMD and Intel, hope these two can deliver over the next couple years. I would love to see either of them go for the ultra-high-end at some point!!",
+      "score": 1,
+      "created_utc": 1741397707.0,
+      "replies": []
+    },
+    {
+      "id": "mgm4u3l",
+      "author": "None",
+      "body": "![gif](giphy|6uGhT1O4sxpi8)",
+      "score": 1,
+      "created_utc": 1741398030.0,
+      "replies": []
+    },
+    {
+      "id": "mgqelx7",
+      "author": "AGuyWithBlueShorts",
+      "body": "I'm pretty sure the company lied and the laptops are being delayed for a different reason than missing ROPs.",
+      "score": 1,
+      "created_utc": 1741462867.0,
+      "replies": []
+    },
+    {
+      "id": "mgh4ezh",
+      "author": "M4c4br346",
+      "body": "Apparently false news.\u00a0",
+      "score": -6,
+      "created_utc": 1741332530.0,
+      "replies": [
+        {
+          "id": "mghk0tk",
+          "author": "Lucaboox",
+          "body": "You might be correct https://www.theverge.com/news/625432/nvidia-denies-rtx-50-laptop-gpus-have-rop-issue but we will have to see.",
+          "score": 11,
+          "created_utc": 1741342103.0,
+          "replies": [
+            {
+              "id": "mghp7gg",
+              "author": "M4c4br346",
+              "body": "Yeah, several places report it's false news.\nAnd I couldn't find any sources on this confirming missing ROPs, so the whole thing should've been tagged as a rumor.",
+              "score": 9,
+              "created_utc": 1741345163.0,
+              "replies": [
+                {
+                  "id": "mgi1jpb",
+                  "author": "patrizl001",
+                  "body": "Technically, the article doesn't confirm any missing ROPs either. It just says laptop manufacturers are being asked to double check for them\n\nSo the article is clickbait, pretty much.",
+                  "score": 8,
+                  "created_utc": 1741351229.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mghk6v1",
+          "author": "blither86",
+          "body": "Source?",
+          "score": 3,
+          "created_utc": 1741342206.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgip0j4",
+      "author": "robustofilth",
+      "body": "Headline should say shitty company ships shitty product\u2026",
+      "score": 0,
+      "created_utc": 1741359561.0,
+      "replies": []
+    },
+    {
+      "id": "mgk79wd",
+      "author": "DaStompa",
+      "body": "In before the spec is rewritten to have the reduced number of ROP's, and you have a fun chance of maybe getting bonus ones! Its like a loot box! gamers love those right?",
+      "score": 0,
+      "created_utc": 1741375192.0,
+      "replies": []
+    },
+    {
+      "id": "mgm3tgf",
+      "author": "theRealStichery",
+      "body": "I just don't understand how Nvidia could drop the ball any harder.",
+      "score": 0,
+      "created_utc": 1741397666.0,
+      "replies": []
+    }
+  ]
+}

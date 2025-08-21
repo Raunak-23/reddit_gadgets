@@ -1,0 +1,43 @@
+metric,value
+file,1l7f3u7.csv
+title,Vision Pro is Getting a Major Visual Upgrade to Its ‘Persona’ Avatars
+rows,11
+num_posts,1
+num_comments,10
+unique_authors,9
+max_depth,3
+avg_comment_words,35.1
+median_comment_words,39.0
+max_comment_words,61
+positive_count,1
+negative_count,9
+neutral_count,0
+positive_pct,10.0
+negative_pct,90.0
+neutral_pct,0.0
+topic_1_keywords,"needs, dont, people, like, seems, understand, shed, strike"
+topic_1_label,if you don t like people you don t like people you don t like
+topic_2_keywords,"dont, feature, people, though, im, sure, use, upgrade"
+topic_2_label,i think i'm sure i'm not sure i'm sure i'm sure i'm sure
+topic_3_keywords,"would, point, connected, major, overseas, somebody, selling, significantly"
+topic_3_label,a person selling a certain product overseas
+topic_4_keywords,"dont, feature, people, though, im, sure, use, upgrade"
+topic_4_label,i think i'm sure i'm not sure i'm sure i'm sure i'm sure
+topic_5_keywords,"vision, goal, mature, pro, software, get, real, hardware"
+topic_5_label,"vision, pro, software, real, hardware"
+topic_6_keywords,"thing, screen, front, feature, mistake, leave, show, mistook"
+topic_6_label,screen feature feature on a mistook show
+top_ngram_1,goal vision (4)
+top_ngram_2,vision pro (4)
+top_ngram_3,mature software (4)
+top_ngram_4,goal vision pro (4)
+top_ngram_5,front screen (3)
+top_ngram_6,headset needs (2)
+top_ngram_7,needs way (2)
+top_ngram_8,way avatar (2)
+top_ngram_9,avatar upgrade (2)
+top_ngram_10,upgrade im (2)
+ner_1,Vision Pro|ORG|4
+ner_2,Meta|ORG|2
+ner_3,Atlus|ORG|1
+ner_4,Persona|MISC|1

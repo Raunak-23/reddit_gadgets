@@ -1,0 +1,49 @@
+metric,value
+file,1mfvulg.csv
+title,Robo-Bunnies Are the Latest Weapon Against Florida’s Invasive Pythons
+rows,123
+num_posts,1
+num_comments,122
+unique_authors,105
+max_depth,7
+avg_comment_words,35.68
+median_comment_words,28.0
+max_comment_words,143
+positive_count,15
+negative_count,107
+neutral_count,0
+positive_pct,12.295
+negative_pct,87.705
+neutral_pct,0.0
+topic_1_keywords,"python, robot, hoping, bunnies, blow, eats, bombs, would"
+topic_1_label,python eats bombs
+topic_2_keywords,"rabbits, breeding, free, youre, literally, whole, tech, almost"
+topic_2_label,a rabbit is free
+topic_3_keywords,"rabbits, also, thought, going, like, think, bombs, spikes"
+topic_3_label,a rabbit likes to think
+topic_4_keywords,"rabbits, theyre, work, next, real, lures, stuffed, well"
+topic_4_label,stuffed rabbits work in a real stuffed animal
+topic_5_keywords,"rabbit, youre, like, lupine, rabbits, bunny, sex, series"
+topic_5_label,lupine sex sex series
+topic_6_keywords,"pythons, reusable, bunny, half, foot, dozen, surrounded, soaked"
+topic_6_label,pythons soaked in a soaked bunny
+top_ngram_1,live rabbits (19)
+top_ngram_2,scale well (18)
+top_ngram_3,real rabbits (16)
+top_ngram_4,lure pythons (16)
+top_ngram_5,clickaverse real (14)
+top_ngram_6,rabbits able (14)
+top_ngram_7,able lure (14)
+top_ngram_8,pythons hiding (14)
+top_ngram_9,hiding expensive (14)
+top_ngram_10,expensive doesnt (14)
+ner_1,Everglades|LOC|5
+ner_2,Florida|LOC|4
+ner_3,Reddit|MISC|4
+ner_4,African|MISC|3
+ner_5,European|MISC|2
+ner_6,##ry|ORG|2
+ner_7,Burmese|MISC|2
+ner_8,Watership down|ORG|2
+ner_9,Monty|MISC|2
+ner_10,Python|PER|2

@@ -1,0 +1,43 @@
+metric,value
+file,1lcqro0.csv
+title,Clever contact lenses watch for glaucoma even when wearers' eyes are shut
+rows,21
+num_posts,1
+num_comments,20
+unique_authors,16
+max_depth,8
+avg_comment_words,137.85
+median_comment_words,59.5
+max_comment_words,591
+positive_count,0
+negative_count,0
+neutral_count,20
+positive_pct,0.0
+negative_pct,0.0
+neutral_pct,100.0
+topic_1_keywords,"glaucoma, see, ill, iop, increases, actually, give, readings"
+topic_1_label,glaucoma increases in readings
+topic_2_keywords,"know, wearing, find, might, really, intention, exhausting, platform"
+topic_2_label,i think i might find a way to find a platform
+topic_3_keywords,"lenses, contact, something, doctors, time, sleeping, benefit, one"
+topic_3_label,lenses help doctors sleep
+topic_4_keywords,"something, asleep, invent, monitors, lets, hmmm, using, great"
+topic_4_label,"hmmm, sleep, monitors"
+topic_5_keywords,"contacts, dont, argument, glaucoma, say, night, eyes, contact"
+topic_5_label,contact with glaucoma
+topic_6_keywords,"want, optometrist, contacts, tech, someone, cant, odd, glaucoma"
+topic_6_label,"glaucoma: optometrist, tech, contacts"
+top_ngram_1,contact lenses (17)
+top_ngram_2,say dont (12)
+top_ngram_3,longer term (9)
+top_ngram_4,phone dont (8)
+top_ngram_5,rapid diagnosis (7)
+top_ngram_6,wearing contacts (6)
+top_ngram_7,invent something (6)
+top_ngram_8,something monitors (6)
+top_ngram_9,invent something monitors (6)
+top_ngram_10,dont heroin (6)
+ner_1,Apple|ORG|5
+ner_2,Are|MISC|1
+ner_3,G|MISC|1
+ner_4,Google|MISC|1

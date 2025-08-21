@@ -1,0 +1,49 @@
+metric,value
+file,1khduhw.csv
+title,Buffalo Japan is selling a transparent hard disk drive for its 50th anniversary | Expensive. Nigh to useless. Windows-only software.
+rows,35
+num_posts,1
+num_comments,34
+unique_authors,31
+max_depth,3
+avg_comment_words,29.74
+median_comment_words,22.0
+max_comment_words,87
+positive_count,8
+negative_count,26
+neutral_count,0
+positive_pct,23.529
+negative_pct,76.471
+neutral_pct,0.0
+topic_1_keywords,"drives, raptor, cool, back, wd, kinda, cutout, also"
+topic_1_label,raptor cools back
+topic_2_keywords,"lottery, one, kind, system, want, really, lot, cool"
+topic_2_label,lottery system want to be cool
+topic_3_keywords,"ever, go, lol, ssds, back, spoiled, wouldnt, generation"
+topic_3_label,''ever '' ''
+topic_4_keywords,"hard, drive, like, know, clear, platters, way, money"
+topic_4_label,hard drive drive like
+topic_5_keywords,"useless, nigh, drive, hard, 514, inch, disk, take"
+topic_5_label,nigh drives 514 inch hard disk
+topic_6_keywords,"collectors, model, headline, clickbait, 50, perfectly, terse, readwrite"
+topic_6_label,clickbait model and clickbait model perfect
+top_ngram_1,collectors model (7)
+top_ngram_2,clickbait headline (6)
+top_ngram_3,model 50 (5)
+top_ngram_4,50 made (5)
+top_ngram_5,made windows (5)
+top_ngram_6,windows software (5)
+top_ngram_7,software making (5)
+top_ngram_8,making readwrite (5)
+top_ngram_9,readwrite head (5)
+top_ngram_10,head tricks (5)
+ner_1,Windows|MISC|5
+ner_2,##D|ORG|2
+ner_3,Micropolis|ORG|2
+ner_4,WD|ORG|2
+ner_5,##is|MISC|1
+ner_6,ISO Class 5|MISC|1
+ner_7,##pen|ORG|1
+ner_8,Boots|MISC|1
+ner_9,Commodore 64|MISC|1
+ner_10,Micro|MISC|1

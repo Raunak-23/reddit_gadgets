@@ -1,0 +1,49 @@
+metric,value
+file,1ls6qnu.csv
+title,"Eero Pro 7 Review: Great Mesh Networking, Even if You Don’t Have Wi-Fi 7"
+rows,68
+num_posts,1
+num_comments,67
+unique_authors,48
+max_depth,7
+avg_comment_words,52.1
+median_comment_words,45.0
+max_comment_words,171
+positive_count,18
+negative_count,49
+neutral_count,0
+positive_pct,26.866
+negative_pct,73.134
+neutral_pct,0.0
+topic_1_keywords,"good, asus, bet, merlin, firmware, performance, fast, reliable"
+topic_1_label,asus bets and firmware for fast and reliable performance
+topic_2_keywords,"mesh, setup, unifi, comes, ethernet, free, version, im"
+topic_2_label,unifi comes with mesh
+topic_3_keywords,"one, buy, ive, need, mesh, work, systems, different"
+topic_3_label,i need a mesh to work
+topic_4_keywords,"privacy, like, eero, good, go, look, brand, performance"
+topic_4_label,eero looks good in the store
+topic_5_keywords,"unifi, way, mesh, expensive, wifi, even, need, routers"
+topic_5_label,"unifi, mesh, expensive, wifi, routers"
+topic_6_keywords,"dont, care, wifi, router, company, owns, home, mesh"
+topic_6_label,routers don't care about home mesh
+top_ngram_1,unifi way (10)
+top_ngram_2,wifi mesh (10)
+top_ngram_3,mesh setup (10)
+top_ngram_4,brand look (8)
+top_ngram_5,look good (8)
+top_ngram_6,good privacy (8)
+top_ngram_7,privacy fast (8)
+top_ngram_8,fast reliable (8)
+top_ngram_9,reliable performance (8)
+top_ngram_10,brand look good (8)
+ner_1,Eero|ORG|8
+ner_2,Amazon|ORG|7
+ner_3,ASUS|ORG|6
+ner_4,Ether|MISC|5
+ner_5,##F|ORG|5
+ner_6,Un|ORG|5
+ner_7,Chinese|MISC|4
+ner_8,Firewalla|ORG|4
+ner_9,ASUS Tplink Eero|ORG|3
+ner_10,##i|MISC|3

@@ -1,0 +1,49 @@
+metric,value
+file,1gwkckv.csv
+title,Apple pledges USD 100 million Indonesia investment to lift iPhone 16 ban
+rows,144
+num_posts,1
+num_comments,143
+unique_authors,101
+max_depth,5
+avg_comment_words,37.56
+median_comment_words,24.0
+max_comment_words,209
+positive_count,28
+negative_count,115
+neutral_count,0
+positive_pct,19.58
+negative_pct,80.42
+neutral_pct,0.0
+topic_1_keywords,"countries, apple, want, like, country, say, need, us"
+topic_1_label,apple likes us
+topic_2_keywords,"bribe, us, bribery, country, definitely, involved, positively, absolutely"
+topic_2_label,bribes in the us are definitely involved in bribery
+topic_3_keywords,"country, indonesia, iphone, market, making, small, money, developing"
+topic_3_label,Indonesia developing small and developing iphone
+topic_4_keywords,"bribe, never, americans, obv, lobby, invest, thats, would"
+topic_4_label,bribes never a lobby
+topic_5_keywords,"apple, indonesia, 100m, housing, law, components, manufacturing, would"
+topic_5_label,"Apple in Indonesia, housing, manufacturing, would be 100m"
+topic_6_keywords,"apple, products, indonesia, manufacturing, country, us, jobs, different"
+topic_6_label,"Apple products in Indonesia, the country of the us, are manufactured in the country"
+top_ngram_1,manufacturing plant (13)
+top_ngram_2,indonesia law (12)
+top_ngram_3,bribe definitely (11)
+top_ngram_4,definitely absolutely (11)
+top_ngram_5,absolutely positively (11)
+top_ngram_6,positively bribery (11)
+top_ngram_7,bribery involved (11)
+top_ngram_8,bribe definitely absolutely (11)
+top_ngram_9,definitely absolutely positively (11)
+top_ngram_10,absolutely positively bribery (11)
+ner_1,Indonesia|LOC|56
+ner_2,Apple|ORG|54
+ner_3,US|LOC|33
+ner_4,iPhone|MISC|25
+ner_5,Americans|MISC|12
+ner_6,America|LOC|6
+ner_7,iPhone 16|MISC|6
+ner_8,America First|ORG|4
+ner_9,China|LOC|4
+ner_10,Modi|PER|4

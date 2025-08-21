@@ -1,0 +1,49 @@
+metric,value
+file,1lf2ged.csv
+title,Framework Laptop 12 review: Doing the right thing comes at a cost
+rows,48
+num_posts,1
+num_comments,47
+unique_authors,32
+max_depth,8
+avg_comment_words,113.72
+median_comment_words,93.0
+max_comment_words,307
+positive_count,7
+negative_count,40
+neutral_count,0
+positive_pct,14.894
+negative_pct,85.106
+neutral_pct,0.0
+topic_1_keywords,"years, costs, laptop, buy, new, justify, 10, 249"
+topic_1_label,10 years of cost for laptops
+topic_2_keywords,"laptop, macbook, price, quality, air, battery, get, life"
+topic_2_label,"Laptops, macbook, quality, price, quality, battery"
+topic_3_keywords,"company, make, parts, think, doesnt, standard, ssd, ram"
+topic_3_label,rams are made in rams
+topic_4_keywords,"care, one, apple, repair, didnt, time, well, laptop"
+topic_4_label,Apples are not good for repairing
+topic_5_keywords,"apple, also, break, point, good, repair, years, wouldnt"
+topic_5_label,"apple break, break, break, break"
+topic_6_keywords,"price, need, goal, bigger, seem, get, cost, buy"
+topic_6_label,price and price seem to be the biggest thing to buy
+top_ngram_1,macbook air (12)
+top_ngram_2,battery life (12)
+top_ngram_3,doesnt seem (10)
+top_ngram_4,economics really (10)
+top_ngram_5,hard justify (10)
+top_ngram_6,basically buy (9)
+top_ngram_7,buy laptops (9)
+top_ngram_8,laptops price (9)
+top_ngram_9,basically buy laptops (9)
+top_ngram_10,buy laptops price (9)
+ner_1,Apple|ORG|14
+ner_2,MacBook|MISC|9
+ner_3,Mac|MISC|8
+ner_4,MacBook Air|MISC|6
+ner_5,M1 MacBook Air|MISC|3
+ner_6,Air|MISC|3
+ner_7,MacBook Pro|MISC|3
+ner_8,MacBook air|MISC|3
+ner_9,R|MISC|3
+ner_10,Linux|MISC|3

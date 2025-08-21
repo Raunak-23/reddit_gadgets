@@ -1,0 +1,2844 @@
+{
+  "post": {
+    "title": "New Switch 2 specs show large performance dip in undocked mode | Digital Foundry also says Game Chat \"has a significant impact on system resources.\"",
+    "author": "chrisdh79",
+    "id": "1kmo64m",
+    "score": 2251,
+    "created_utc": 1747250995.0,
+    "selftext": "",
+    "num_comments": 341,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1kmo64m/new_switch_2_specs_show_large_performance_dip_in/"
+  },
+  "comments": [
+    {
+      "id": "msbtpxq",
+      "author": "HelloDoug",
+      "body": "Isn\u2019t that happens with the current switch? What\u2019s the story here?",
+      "score": 716,
+      "created_utc": 1747252528.0,
+      "replies": [
+        {
+          "id": "msbz5yy",
+          "author": "AmNoSuperSand52",
+          "body": "Yes for those wondering docked/undocked\n\nSwitch: 0.4 TFlop / 0.24TFlop\n\nSwitch 2: 3.01 TFlop / 1.7 TFlop\n\n*edit: thank you to the 95 identical comments telling me the number was wrong. I fixed it*",
+          "score": 474,
+          "created_utc": 1747254124.0,
+          "replies": [
+            {
+              "id": "msc253i",
+              "author": "FUTURE10S",
+              "body": "Damn, the Switch 1 is way more performant than I thought.",
+              "score": 151,
+              "created_utc": 1747255078.0,
+              "replies": [
+                {
+                  "id": "msc32wf",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 131,
+                  "created_utc": 1747255380.0,
+                  "replies": [
+                    {
+                      "id": "msc9z8i",
+                      "author": "Doctor_Philgood",
+                      "body": "The master sword forest area is laughably pathetic in fps for such a crucial moment",
+                      "score": 138,
+                      "created_utc": 1747257445.0,
+                      "replies": [
+                        {
+                          "id": "mscjnkg",
+                          "author": "WobbleKing",
+                          "body": "Obviously it\u2019s intentional slow motion /s",
+                          "score": 37,
+                          "created_utc": 1747260471.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msgdqtc",
+                          "author": "ArtesiaKoya",
+                          "body": "They released a patch a couple months after release that fixed those terrible fps drops im that area specifically",
+                          "score": 7,
+                          "created_utc": 1747319413.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msdp5r9",
+                          "author": "neutralcoder",
+                          "body": "Agreed",
+                          "score": 1,
+                          "created_utc": 1747274752.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mslnec9",
+                          "author": "Mathmagician94",
+                          "body": "Idk what area it was, but the thunderstorm area where i gotta climb a mountain and beat some lightning lizards felt like a Power point. Performance was horrible in that area lol",
+                          "score": 1,
+                          "created_utc": 1747390863.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mscg637",
+                      "author": "GregoryfromtheHood",
+                      "body": "It can run it at a locked 30 when just the memory is overclocked a little because the Switch is very memory bottlenecked. And when you overclock the CPU and GPU, it runs decently around 60fps. \n\nThe Switch has WAY more power available that's locked away by severe underclocks in its stock form.\n\nMakes me very hopeful for the performance of Switch 2 when it gets modded.",
+                      "score": 46,
+                      "created_utc": 1747259348.0,
+                      "replies": [
+                        {
+                          "id": "msct1tv",
+                          "author": "BraveOthello",
+                          "body": "If they thought they could safely use that increased clock speed, dont you think they would have? Given how hot my Switch gets some times I'm guessing they ran the clocks right up to where they thought they could thermally and still have sufficient reliability.\n\nEDit: thank you everyone, its probably about battery life, I get it.",
+                          "score": 35,
+                          "created_utc": 1747263640.0,
+                          "replies": [
+                            {
+                              "id": "mscx7dt",
+                              "author": "EngineeringNo753",
+                              "body": "No, it was probably more to do with battery life or just the first gen switch.\n\nMy oled sits consistently OC'd and I've never seen it go above 64c during the BOTW forest, but at least it was at a good framerate.",
+                              "score": 22,
+                              "created_utc": 1747265060.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mse3iep",
+                              "author": "Admirral",
+                              "body": "of all the devices I have ever owned, the nintendo switch is one of a few (only next to my 2018 ipad) that I have owned for nearly a decade and the battery life is still fully functional and very usable. I 100% believe it is because they kept it clocked for longevity. The fact that these consoles can be used for both mobile and TV is good reason why they don't need to have mobile mode squeezing everything it can. I got my switch at launch.",
+                              "score": 8,
+                              "created_utc": 1747280342.0,
+                              "replies": [
+                                {
+                                  "id": "msgsiiv",
+                                  "author": "replus",
+                                  "body": "Nintendo signed a deal with Lucifer back in the late 90s to have superior battery technology. Please don't ask me how I know, as my uncle made me swear not to tell anyone. See: Wii U Pro controller's 80-hour battery life, my DS Lite left in a drawer for ~~four~~ five years while I was away at college and still having a full charge when I came home.",
+                                  "score": 5,
+                                  "created_utc": 1747323765.0,
+                                  "replies": [
+                                    {
+                                      "id": "msgt4ri",
+                                      "author": "Admirral",
+                                      "body": "great things always come at great costs!\n\nApple's battery tech is decent too... was decent. I can't say the same for more recent devices. I really hope nintendo does not follow this path with the switch 2",
+                                      "score": 1,
+                                      "created_utc": 1747323943.0,
+                                      "replies": [
+                                        {
+                                          "id": "mt95a34",
+                                          "author": "Key-Association-8418",
+                                          "body": "Apple's battery tech is literally lithium ion the ones that need to move from that is Samsung which is a shame we haven't gotten more energy in S Ultra Phones",
+                                          "score": 1,
+                                          "created_utc": 1747721922.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mscxh00",
+                              "author": "ChrisFromIT",
+                              "body": ">If they thought they could safely use that increased clock speed, dont you think they would have?\n\nThey don't as it requires more power. Which is a major consideration for handheld consoles.",
+                              "score": 20,
+                              "created_utc": 1747265151.0,
+                              "replies": [
+                                {
+                                  "id": "mse2du1",
+                                  "author": "darkmacgf",
+                                  "body": "Then why is it underclocked in docked mode?",
+                                  "score": 4,
+                                  "created_utc": 1747279863.0,
+                                  "replies": [
+                                    {
+                                      "id": "mse7y6l",
+                                      "author": "ChrisFromIT",
+                                      "body": "Still power. \n\nFor maxed validation clocks(normal clock speed), the Tegra X1 is 15 watts. The switch dock can supply a maximum of 39 watts. The power isn't just going to the Tegra X1. Some of the power is going to the DHMI converter, the fans, the storage, the card reader, etc, and to recharging the battery.\n\nI believe the maximum USB-C could without having a required cable was 60W or the top most power profile, at the time the Switch was in development and finalized.",
+                                      "score": 7,
+                                      "created_utc": 1747282266.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "msd4jnd",
+                                  "author": "BraveOthello",
+                                  "body": "More power also produces more heat.",
+                                  "score": 1,
+                                  "created_utc": 1747267597.0,
+                                  "replies": [
+                                    {
+                                      "id": "msdqd91",
+                                      "author": "OptimusB",
+                                      "body": "Overclocking leads to power. Power leads to heat. Heat leads to suffering.",
+                                      "score": 15,
+                                      "created_utc": 1747275189.0,
+                                      "replies": [
+                                        {
+                                          "id": "mseaqbi",
+                                          "author": "BraveOthello",
+                                          "body": "Give in to your thermal stress ...",
+                                          "score": 4,
+                                          "created_utc": 1747283515.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "msd4w9o",
+                                      "author": "ChrisFromIT",
+                                      "body": "Heat is less of a concern compared to power draw.",
+                                      "score": 6,
+                                      "created_utc": 1747267719.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "mscub11",
+                              "author": "GregoryfromtheHood",
+                              "body": "Actually the stock clock speeds, even docked are technically an underclock of the chip. Handheld a switch only goes up to 460mhz max, with most games using  307mhz or 384mhz, but the actual base GPU clock of the chip is 921mhz, which is completely safe for the chip to run at. Anything higher than that is an actual overclock, and a lot of people run around 1300mhz fine.\n\nThermally it's also fine, overclocking the CPU, GPU and RAM with an undervolt still keeps the SOC under 60 degrees, which is pretty cool in the realm of silicon chips.\n\nThe stock switch runs at a high voltage for stability and lower clocks for battery life, but you can lower the voltage quite a bit and up the clocks to get both cooler temps than stock and better performance and battery life at the same time.",
+                              "score": 9,
+                              "created_utc": 1747264065.0,
+                              "replies": [
+                                {
+                                  "id": "mscv1t2",
+                                  "author": "gramathy",
+                                  "body": "Sounds like they had cooling limitations from the form factor then",
+                                  "score": 8,
+                                  "created_utc": 1747264319.0,
+                                  "replies": [
+                                    {
+                                      "id": "mscvenw",
+                                      "author": "GregoryfromtheHood",
+                                      "body": "Yeah possibly. All I'm saying is that it looks like they're doing the same for Switch 2, so there should be a lot of headroom to overclock and make it probably 3-4x faster without any issues once it gets modded, which is exciting.",
+                                      "score": 6,
+                                      "created_utc": 1747264442.0,
+                                      "replies": [
+                                        {
+                                          "id": "msd0za5",
+                                          "author": "Optimus_Prime_Day",
+                                          "body": "Once modders disable the kill switch they're putting in.",
+                                          "score": 5,
+                                          "created_utc": 1747266387.0,
+                                          "replies": [
+                                            {
+                                              "id": "msddc72",
+                                              "author": "stellvia2016",
+                                              "body": "Really depends on what it takes to tweak those settings. As long as you aren't unlocking the security features, they might not care.",
+                                              "score": 2,
+                                              "created_utc": 1747270648.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "msdbe1u",
+                              "author": "tablepennywad",
+                              "body": "Its the battery more than anything. I lock my Ryzen 5000 laptop to 12W and i get over 90% performance is most games. When not gaming i have it at 5w and its perfectly fine for web surfing and i get almost double battery life.",
+                              "score": 1,
+                              "created_utc": 1747269973.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "msde0uz",
+                              "author": "FireLucid",
+                              "body": "It's so they only have to target Docked or Undocked, not multiple variations as well. When they used new chips they clocked them the same (with the exception of it bumping up when loading).",
+                              "score": 1,
+                              "created_utc": 1747270886.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mse2k85",
+                              "author": "Sirlothar",
+                              "body": "They did at least with the processor in some games.  \n\n\nIf the Switch was loading data and not doing much with the GPU, it would down clock the GPU and increase the CPU speed so the game could decompress and load a bit quicker.  \n\n\nNintendo is a real stickler for thermals but when they could get away with it they did.",
+                              "score": 1,
+                              "created_utc": 1747279939.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mse3773",
+                          "author": "None",
+                          "body": "\ud83e\udd14 overclock you say? Last time I overclocked something was my Phenom X3 720 Black.  I'll gladly buy a switch just to push its limits.",
+                          "score": 1,
+                          "created_utc": 1747280208.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msecfbn",
+                          "author": "PyroDesu",
+                          "body": "> Makes me very hopeful for the performance of Switch 2 when it gets modded.\n\nHaven't they said that they will remotely brick any modified consoles (in the US, the EU won't let them so they have a different EULA)?",
+                          "score": 1,
+                          "created_utc": 1747284309.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mses9bj",
+                      "author": "LegoRacers3",
+                      "body": "Botw runs better on the switch then the wii u. The loading times are much faster",
+                      "score": 2,
+                      "created_utc": 1747292941.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msf36gj",
+                      "author": "Finito-1994",
+                      "body": "Fighting the lynel in the coliseum in the rain is so hard because it lags bad when you\u2019re doing a quick parry",
+                      "score": 2,
+                      "created_utc": 1747299861.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msfbdw1",
+                      "author": "WeWantLADDER49sequel",
+                      "body": "Dude even Super Mario Odyssey has frame dips when there's like two or three enemies on screen. It's insane.",
+                      "score": 2,
+                      "created_utc": 1747304744.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msfnfpo",
+                      "author": "LadyTalah",
+                      "body": "It can\u2019t run it well? Tf have I been playing on then? Lol.",
+                      "score": 0,
+                      "created_utc": 1747310319.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mscisn7",
+                      "author": "None",
+                      "body": "[removed]",
+                      "score": -7,
+                      "created_utc": 1747260188.0,
+                      "replies": [
+                        {
+                          "id": "msckb7e",
+                          "author": "blubs_will_rule",
+                          "body": "The GameCube was the last effort from Nintendo to put out competitor-beating hardware. They realized the average casual player, especially kids, care more about the gameplay than the graphics. You could probably also argue that 30fps in a competitive racing game DOES affect gameplay, though.",
+                          "score": 11,
+                          "created_utc": 1747260688.0,
+                          "replies": [
+                            {
+                              "id": "mscomah",
+                              "author": "Fredasa",
+                              "body": "> The GameCube was the last effort from Nintendo to put out competitor-beating hardware.\n\nThis is the correct train of thought, but it needs to be taken further to its logical conclusion.  Nintendo did what needed to be done to ensure MKDD was 60fps across the board.  This meant tweaking the LOD/detail/culling a bit to keep that framerate flat even in four player mode.  It was a conscious choice to do the extra work because, like you said, they were still courting the core gamer market and knew they'd be called out for being lazy if they didn't.\n\nObviously not so much when it came to the Wii.\n\nWhen they ported MK8 to the Switch and didn't even fix its most glaring issue when they absolutely could have, I knew it was because the laziness had straight up become part of the company's culture.  I should have taken a bet on how the next Mario Kart would turn out\u2014would have been easy money.",
+                              "score": 3,
+                              "created_utc": 1747262140.0,
+                              "replies": [
+                                {
+                                  "id": "mscpj88",
+                                  "author": "blubs_will_rule",
+                                  "body": "The unfortunate fact is that Nintendo will profit more catering to the common denominator than the \u201ccore gamer\u201d market, the ones who care about frames per second, because the common denom\u2019s simply don\u2019t know or care they could be having a better experience. \n\nLike, when I show my gf cyberpunk on my 240hz OLED monitor, she\u2019s like, oh cool. Then goes back to playing animal crossing. It\u2019s not that she can\u2019t see that framerate is better, it\u2019s just that she doesn\u2019t care. She barely knows what the term \u201cframerate\u201d means.\n\nI also have shown others the same thing and they tell me they genuinely can\u2019t tell the difference between 60hz and 120hz. I think they\u2019re insane and blind, but it\u2019s happened often enough it seems that some people just aren\u2019t observant about certain things lol.",
+                                  "score": 5,
+                                  "created_utc": 1747262450.0,
+                                  "replies": [
+                                    {
+                                      "id": "mscr885",
+                                      "author": "Fredasa",
+                                      "body": "> The unfortunate fact is that Nintendo will profit more catering to the common denominator than the \u201ccore gamer\u201d market\n\nThere's an inkling of a hope here, though.\n\nThe \"core gamer\" market, as epitomized by the other consoles, has been steadily weakening, gen by gen.  We can call it \"weakening\" since PC gaming has trucked along and the gap between consoles and PCs has only widened.\n\nThe Switch 2 does _not_ represent an unexpected leap in power from Nintendo\u2014it's pretty much exactly what people expected: _basically-a-portable-PS4,_ or _something-that's-at-least-technically-slightly-better-than-the-three-years-old-Steamdeck._\n\nBut even that modest and expected upgrade in power puts Nintendo back into \"core gaming\" territory, thanks of course to core consoles allowing that to happen.  So what does that mean?  There's no more poignant consequence I can point to than From Software developing their next game as a Switch 2 exclusive.  The gap is closed.\n\nAnd this _may_ behoove Nintendo to begin courting back those gamers, which could in turn enforce changes to their now cultural laziness.  Even if it's too late to make _Mario Kart World_ less phoned-in.",
+                                      "score": 2,
+                                      "created_utc": 1747263027.0,
+                                      "replies": [
+                                        {
+                                          "id": "mscu71c",
+                                          "author": "blubs_will_rule",
+                                          "body": "I agree that there\u2019s hope. I don\u2019t see why they couldn\u2019t cater to both markets better than they are now, but like you said, there\u2019s certainly signs of complacency bred by the success of the OG switch. We\u2019ll see!",
+                                          "score": 2,
+                                          "created_utc": 1747264027.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "msfffaa",
+                                          "author": "DeviantStrain",
+                                          "body": "Just curious, what makes you think world is phoned in?",
+                                          "score": 1,
+                                          "created_utc": 1747306774.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "msfebb1",
+                                  "author": "DeviantStrain",
+                                  "body": "Which glaring issue?",
+                                  "score": 1,
+                                  "created_utc": 1747306240.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mscv838",
+                          "author": "gramathy",
+                          "body": "4 player split screen always suffers on any console, you lose out on a significant amount of geometry culling when rendering since multiple views are looking different directions all the time. That's normal.",
+                          "score": 5,
+                          "created_utc": 1747264379.0,
+                          "replies": [
+                            {
+                              "id": "mscyt84",
+                              "author": "Fredasa",
+                              "body": "Yeah, you've underscored the issue.  In order to make it work, you need to lower the CPU demands.  Just like MKDD did.\n\nNintendo are comfortable with not doing this, even though we are talking about arguably the best party video game ever created, which makes it ironic that it's the \"party configuration\" that suffers in particular.  A little relaxing of the geometry demands and they could have put an end to the now ***20 year tradition*** of Mario Kart resorting to 30fps in its party mode.\n\nLike you said, it is _normal_ for developers providing split screen multiplayer to account for what they need to do to make it happen.  Nintendo are the anomaly here.",
+                              "score": 1,
+                              "created_utc": 1747265620.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "msddlh9",
+                          "author": "stellvia2016",
+                          "body": "Maintaining 4 independent cameras is incredibly resource intensive.",
+                          "score": 1,
+                          "created_utc": 1747270739.0,
+                          "replies": [
+                            {
+                              "id": "msdkuhj",
+                              "author": "Fredasa",
+                              "body": "If you throw the entire draw call batch at each subscreen without accounting for the CPU load, then of course, yes, obviously.\n\nThat's not how anyone does it.  Nintendo included\u2014they truncated visuals subtly in MKDD to make 60fps stick.  Everyone does this, and it's okay, since each subscreen is only getting 1/4th of the FOV from the user's perspective.\n\nNintendo is lazy in that they are unwilling to tweak visuals for 3+ splitscreens like they did before.  This cannot be sugarcoated.  Four player split-screen is not some \"interesting but unnecessary fluff bonus\" when it comes to Mario-freaking-Kart.  It's the way every family who owns a Switch plays these damn games.  But Nintendo just can't be arsed.  Not even when re-releasing MK8, which was already the single laziest cash grab they've ever committed, even if they _had_ magnanimously provided 60fps.",
+                              "score": 1,
+                              "created_utc": 1747273233.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mscmgf5",
+                          "author": "EggyT0ast",
+                          "body": "It's OK, you can drive around an empty map now which is what everyone has been waiting for",
+                          "score": -5,
+                          "created_utc": 1747261406.0,
+                          "replies": [
+                            {
+                              "id": "mscpjhl",
+                              "author": "Fredasa",
+                              "body": "What's awful is that in a single sentence, I could definitely be on board with a feature like that.  But the only way to make it work is to increase the simultaneous player count to... let's say\n\n[ Traditional MK race population ] * [ Number of tracks in the open world ] * [ Double, to account for the other half of players who will be screwing around or exploring outside tracks ]\n\nAnd the very, _very_ last entity who is equipped to handle a networking task that demands a robust network are Nintendo, who have been _famously_ grumpy about online services, probably because they were caught with their pants down after MS and then Sony ushered in modern gaming standards ahead of them.",
+                              "score": 3,
+                              "created_utc": 1747262452.0,
+                              "replies": [
+                                {
+                                  "id": "msd6823",
+                                  "author": "EggyT0ast",
+                                  "body": "We're both getting down voted but I don't care. Your point is spot on, driving all over is only entertaining to do in a group as you can all goof on each other. And agreed, not only is their net code terrible, I guarantee they will still require a terribly antiquated 'friend' system for it to work.\n\nTheir online experience for Splatoon shows just how bad Nintendo is at modern online gaming.",
+                                  "score": -3,
+                                  "created_utc": 1747268184.0,
+                                  "replies": [
+                                    {
+                                      "id": "msdea7n",
+                                      "author": "stellvia2016",
+                                      "body": "The open world mode is only one of them. They also have normal circuit races.",
+                                      "score": 1,
+                                      "created_utc": 1747270976.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "msdi9e2",
+                      "author": "cuberhino",
+                      "body": "It took me out of the game and I could never complete it. Any time there was rain i got tons of lag and made me want to quit",
+                      "score": -1,
+                      "created_utc": 1747272348.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "msceq2a",
+                  "author": "Specialist-Sky9806",
+                  "body": "That\u2019s because they are wrong. Switch 1 is about .2 tflops undocked and about .4 tflops docked",
+                  "score": 19,
+                  "created_utc": 1747258898.0,
+                  "replies": []
+                },
+                {
+                  "id": "mscxcl2",
+                  "author": "Plank_With_A_Nail_In",
+                  "body": "A ten year old 1070 is capable of 6.5 teraflops.",
+                  "score": 3,
+                  "created_utc": 1747265110.0,
+                  "replies": [
+                    {
+                      "id": "msd2uns",
+                      "author": "PM_artsy_fartsy_nude",
+                      "body": "It's also 150 watts. No word on the Switch 2 yet, but the Switch 1 was 11 watts docked. And that's the whole system, not just the GPU.",
+                      "score": 28,
+                      "created_utc": 1747267011.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mse9z3m",
+                      "author": "Dt2_0",
+                      "body": "Run that 1070 on an slightly oversized phone battery and see how long of a play session you get.",
+                      "score": 21,
+                      "created_utc": 1747283166.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mskupu6",
+                  "author": "tamal4444",
+                  "body": "10 fps enjoyment",
+                  "score": 1,
+                  "created_utc": 1747373650.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mscmxag",
+              "author": "Jarsky2",
+              "body": "So proportionately about the same difference as Switch 1. Alright I can live with that.",
+              "score": 28,
+              "created_utc": 1747261563.0,
+              "replies": []
+            },
+            {
+              "id": "mscj3y3",
+              "author": "tastyratz",
+              "body": "From what I can find it looks like some users have done the math and spelled it out on NS1. Based on this thread:\n\nhttps://www.reddit.com/r/NintendoSwitch/comments/ekbxyt/why_do_some_people_say_the_switch_is_1_tflops/\n\n>Docked : 786Gflop\n\n>Undocked (460Mhz) : 471Gflop",
+              "score": 7,
+              "created_utc": 1747260292.0,
+              "replies": []
+            },
+            {
+              "id": "msc3o66",
+              "author": "SQL617",
+              "body": "For anyone else curious; in my hears in computing I don\u2019t recall seeing this measurement. \n\n- A teraflop (TFLOP) is a unit of measurement that expresses a computer's ability to perform one trillion floating-point operations per second.",
+              "score": 24,
+              "created_utc": 1747255562.0,
+              "replies": [
+                {
+                  "id": "mscao8d",
+                  "author": "Wottiger",
+                  "body": "Thank you. I\u2019m still stuck in the days where processor GHz was the only measurement that seemed to matter. 1GHz athlon processor paired with my voodoo3 graphics card gave me a pretty sweet setup.",
+                  "score": 10,
+                  "created_utc": 1747257655.0,
+                  "replies": [
+                    {
+                      "id": "mscbyyd",
+                      "author": "danielv123",
+                      "body": "Counting GHz doesn't make much sense when Nvidia GPUs in current gaming products run at 0.7 - 2.4ghz on 256 - 21760 cores.\n\nThe 100x difference on the core count makes the frequency pretty irrelevant.",
+                      "score": 23,
+                      "created_utc": 1747258049.0,
+                      "replies": [
+                        {
+                          "id": "msceej1",
+                          "author": "Wottiger",
+                          "body": "Those numbers are crazy. What a giant leap from those days. I look at PC specs nowadays and am completely lost in comparison shopping. Lol.",
+                          "score": 9,
+                          "created_utc": 1747258800.0,
+                          "replies": [
+                            {
+                              "id": "mscvant",
+                              "author": "WFlumin8",
+                              "body": "Frame of reference\n\nSwitch: 0.15 TFlops \n\nRTX 5090: 101 TFlops",
+                              "score": 13,
+                              "created_utc": 1747264404.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "mscketz",
+                              "author": "danielv123",
+                              "body": "Both ends of those ranges are still in stores today (or listed anyways - the high end is usually sold out/scalped). The comparison is switch 1 vs 5090 if you were wondering.",
+                              "score": 3,
+                              "created_utc": 1747260722.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mse0sul",
+                          "author": "CyriousLordofDerp",
+                          "body": "Counting Ghz stopped being relevant at all when Pentium 4 dropped.",
+                          "score": 3,
+                          "created_utc": 1747279205.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msgnadh",
+                          "author": "blind616",
+                          "body": "My friend we are old. When ghz comparison mattered there were no multi cores :)",
+                          "score": 2,
+                          "created_utc": 1747322240.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msgvh34",
+                          "author": "dreadcain",
+                          "body": "GHz never made all that much sense as a comparison except when directly identical or near identical chips. Different architectures can do a lot more (or a lot less) in one clock cycle than others",
+                          "score": 1,
+                          "created_utc": 1747324622.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mscfw5r",
+                      "author": "AmNoSuperSand52",
+                      "body": "The issue with frequency is that it\u2019s a description of the operating parameters rather than the output. So it only means something when the other parts of the chip are along with it\n\nTeraflops aren\u2019t a super important measurement but it describes what kind of output power the system has, which is a little more comparable across different devices",
+                      "score": 6,
+                      "created_utc": 1747259262.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "msnh00p",
+                  "author": "Low_Surround998",
+                  "body": "It has been discussed in every chip announcement since I've been alive. That's basically the only time I've ever seen it used, and I never paid 1 second of attention to it. It's just raw theoretical computing power. Real world benchmarks are a much better measurement for comparison purposes.",
+                  "score": 1,
+                  "created_utc": 1747413612.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mscqbm2",
+              "author": "Interstellar-Metroid",
+              "body": "This wrong the Switch is 0.45 Tflops Docked, and Handheld is about 0.15 Tflops. I don't trust these so-called Switch 2 specs at all from DF.",
+              "score": 4,
+              "created_utc": 1747262719.0,
+              "replies": []
+            },
+            {
+              "id": "msd43pc",
+              "author": "DimiBlue",
+              "body": "I hope the switch 2 has the option to keep switch 1 games in docked mode while undocked",
+              "score": 1,
+              "created_utc": 1747267442.0,
+              "replies": [
+                {
+                  "id": "mseurmt",
+                  "author": "meltymcface",
+                  "body": "Even in \u201cundocked mode\u201d, switch 2 would be running those switch 1 games with more than twice the resources than the Switch 1 docked.",
+                  "score": 1,
+                  "created_utc": 1747294491.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msd9i5s",
+              "author": "Chickat28",
+              "body": "Switch 1 is less than half of what you said. Its not even .5 tf in docked.",
+              "score": 1,
+              "created_utc": 1747269323.0,
+              "replies": []
+            },
+            {
+              "id": "mscqlb9",
+              "author": "lawrenceM96",
+              "body": "Why has this got so many upvotes, those figures are not correct . Docked is 393gflops, 236gflops undocked.",
+              "score": 0,
+              "created_utc": 1747262811.0,
+              "replies": [
+                {
+                  "id": "msemm5y",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 0,
+                  "created_utc": 1747289654.0,
+                  "replies": [
+                    {
+                      "id": "msexmni",
+                      "author": "lawrenceM96",
+                      "body": "His edit said he changed the figures, it was incorrect before",
+                      "score": 1,
+                      "created_utc": 1747296290.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mscwa1b",
+              "author": "paulerxx",
+              "body": "Damn half of the tflops of a RX580....From 2017 \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+              "score": -1,
+              "created_utc": 1747264739.0,
+              "replies": []
+            },
+            {
+              "id": "mscxdk7",
+              "author": "thecitruscandle",
+              "body": "Incorrect",
+              "score": -1,
+              "created_utc": 1747265118.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msc1vra",
+          "author": "Realistic_Condition7",
+          "body": "A lot of switch 1 games run better undocked because they\u2019re essentially running in the same device at a lower resolution.",
+          "score": 21,
+          "created_utc": 1747254992.0,
+          "replies": []
+        },
+        {
+          "id": "msby1b4",
+          "author": "flac_rules",
+          "body": "The story is how much",
+          "score": 5,
+          "created_utc": 1747253789.0,
+          "replies": []
+        },
+        {
+          "id": "msbxnvp",
+          "author": "psychocopter",
+          "body": "I didnt see anything online confirming or denying the switch 2 having a built in fan. That really seems to be the only thing that might would raise concerns, but again its neither confirming nor denying it.\n\nThe dock have a fan is meant to cool the dock itself as its a power delivery system, much like the power supply for a laptop or computer. Of course taking the switch off of the dock and having it run on battery will drop performance to extend battery life.",
+          "score": 5,
+          "created_utc": 1747253681.0,
+          "replies": []
+        },
+        {
+          "id": "mscmqjz",
+          "author": "motorboat_mcgee",
+          "body": "Well, it's certainly causing a stir on the internet, so I guess the story has done its job",
+          "score": 1,
+          "created_utc": 1747261500.0,
+          "replies": []
+        },
+        {
+          "id": "msdw965",
+          "author": "thumb_emoji_survivor",
+          "body": "That Nintendo can\u2019t fix problems that Sony and Microsoft solved a decade ago",
+          "score": 1,
+          "created_utc": 1747277389.0,
+          "replies": []
+        },
+        {
+          "id": "msf0lwo",
+          "author": "MadeByHideoForHideo",
+          "body": "The story here is to sensationalize matter of fact things for clicks.",
+          "score": 1,
+          "created_utc": 1747298218.0,
+          "replies": []
+        },
+        {
+          "id": "msbyyhq",
+          "author": "Kamakaziturtle",
+          "body": "Not really, least to any notable degree, but the current Switch's dock is more or less just a connector for the TV, not much more.\n\nThe Switch 2 Dock actively increases performance.  So it showing a dip in performance when going undocked is... just things working exactly as advertised.  It means the dock works.  The story is nothing.",
+          "score": -8,
+          "created_utc": 1747254060.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msbqbmq",
+      "author": "lightedge",
+      "body": "How many GameCubes tapped together is the Switch 2 in terms of power?",
+      "score": 222,
+      "created_utc": 1747251536.0,
+      "replies": [
+        {
+          "id": "msbvkom",
+          "author": "cuberhino",
+          "body": "briefly considering buying [howmanygamecubestapedtogether.com](http://howmanygamecubestapedtogether.com) and making that work but my mental is weak rn",
+          "score": 122,
+          "created_utc": 1747253073.0,
+          "replies": [
+            {
+              "id": "msby6wz",
+              "author": "joestaff",
+              "body": "Well, to get you started, a Wii is 2, a WiiU is 4.",
+              "score": 38,
+              "created_utc": 1747253835.0,
+              "replies": [
+                {
+                  "id": "mscbv0q",
+                  "author": "cuberhino",
+                  "body": "It\u2019s an all consuming project in my brain with databases of everything, and how long will a GameCube even be relevant",
+                  "score": 12,
+                  "created_utc": 1747258016.0,
+                  "replies": [
+                    {
+                      "id": "msegx60",
+                      "author": "lazyness92",
+                      "body": "Given Melee people, forever",
+                      "score": 9,
+                      "created_utc": 1747286537.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msf3nkm",
+                      "author": "royisabau5",
+                      "body": "that\u2019s the fun thing, it\u2019s not even relevant now",
+                      "score": 2,
+                      "created_utc": 1747300169.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "msd4na9",
+                  "author": "Snipedzoi",
+                  "body": "No no, it's like 6",
+                  "score": -3,
+                  "created_utc": 1747267632.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msbu3zf",
+          "author": "galgor_",
+          "body": "64",
+          "score": 43,
+          "created_utc": 1747252642.0,
+          "replies": [
+            {
+              "id": "msbulr2",
+              "author": "lightedge",
+              "body": "Lol but also that seems about right.",
+              "score": 25,
+              "created_utc": 1747252782.0,
+              "replies": [
+                {
+                  "id": "msc26sa",
+                  "author": "bonesnaps",
+                  "body": "Gcube is about 10 gflops of power and switch 2 is 3 tflops.\n\n\n\nSo the non-joke answer is actually about\u00a0300.\n\n\nEdit: My 5 year old 3070 gpu is about 2000 gamecubes. \ud83e\uddd0 Sure doesn't feel like it. Anyone have 2k cubes to trade me?",
+                  "score": 46,
+                  "created_utc": 1747255093.0,
+                  "replies": [
+                    {
+                      "id": "msc9jav",
+                      "author": "Tenziru",
+                      "body": "Nope it\u2019s only 2160 game cubes you were close  gamecube is 9.4gflops and 20,300gflops for you gpu divided by the GameCube power you get the number of GameCubes which is 1,833 more GameCubes powerful then switch 2",
+                      "score": 14,
+                      "created_utc": 1747257311.0,
+                      "replies": [
+                        {
+                          "id": "msd4k8q",
+                          "author": "bonesnaps",
+                          "body": "The wiki I saw said that was peak gflops so yeah it's likely lower on average, like you stated.",
+                          "score": 1,
+                          "created_utc": 1747267603.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msc92dw",
+              "author": "Tenziru",
+              "body": "This a good joke but if anyone is wondering you would need 327 GameCubes",
+              "score": 6,
+              "created_utc": 1747257167.0,
+              "replies": [
+                {
+                  "id": "msgnp2y",
+                  "author": "blind616",
+                  "body": "Good, cause nintendo 64 is already taken.",
+                  "score": 1,
+                  "created_utc": 1747322359.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mscx7ei",
+          "author": "Fedoraus",
+          "body": "roughly 300 in terms of flops which makes me wonder why the switch OS is so much more unoptimized.\n\nThe Wii U is less than a third as powerful as the switch iirc but BOTW runs significantly better on it.",
+          "score": 9,
+          "created_utc": 1747265060.0,
+          "replies": []
+        },
+        {
+          "id": "msc1bxt",
+          "author": "Gnash_",
+          "body": "that is almost english",
+          "score": 4,
+          "created_utc": 1747254810.0,
+          "replies": []
+        },
+        {
+          "id": "msinj5v",
+          "author": "If_cn_readthisSndHlp",
+          "body": "The Switch 2 is roughly 160 to 213 GameCubes in GPU power according to chat GPT",
+          "score": 1,
+          "created_utc": 1747343372.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msbp0r3",
+      "author": "idiotcube",
+      "body": "No shit, running on battery power without a fan makes the performance worse?\n\nEdit: should've said \"with a weaker fan\", my mistake",
+      "score": 616,
+      "created_utc": 1747251150.0,
+      "replies": [
+        {
+          "id": "msbt4aq",
+          "author": "LetsTwistAga1n",
+          "body": "Even the NS1 has its own fan, there's no way the NS2 lacks it",
+          "score": 70,
+          "created_utc": 1747252354.0,
+          "replies": []
+        },
+        {
+          "id": "msbppjc",
+          "author": "UnsorryCanadian",
+          "body": "Anyone with a laptop would know this",
+          "score": 108,
+          "created_utc": 1747251356.0,
+          "replies": [
+            {
+              "id": "msc27p5",
+              "author": "FlarblesGarbles",
+              "body": "M series Macbooks don't seem to have this issue.",
+              "score": 35,
+              "created_utc": 1747255102.0,
+              "replies": [
+                {
+                  "id": "msc73fh",
+                  "author": "LetsTwistAga1n",
+                  "body": "Intel-based MacBooks also retained the performance when unplugged. The key difference is that ARM-based ones perform way, way better and are much more efficient in terms of power consumption.",
+                  "score": 33,
+                  "created_utc": 1747256573.0,
+                  "replies": [
+                    {
+                      "id": "mscpiry",
+                      "author": "Ziziiii",
+                      "body": "My 2019 16\u2019 i9 would absolutely throttle when on battery (well, the 45mn of battery it gave me)\nGreat lap warmer.",
+                      "score": 13,
+                      "created_utc": 1747262446.0,
+                      "replies": [
+                        {
+                          "id": "msd1wem",
+                          "author": "pun420",
+                          "body": "Your lap gave you good top",
+                          "score": 3,
+                          "created_utc": 1747266696.0,
+                          "replies": [
+                            {
+                              "id": "msdqb9x",
+                              "author": "buttchuggs",
+                              "body": "I get it haha",
+                              "score": 2,
+                              "created_utc": 1747275169.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "msegrt8",
+                      "author": "nicman24",
+                      "body": "i mean the switch is arm based",
+                      "score": 1,
+                      "created_utc": 1747286460.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mscxf0x",
+                  "author": "None",
+                  "body": "m series macbooks don't run games",
+                  "score": -10,
+                  "created_utc": 1747265132.0,
+                  "replies": [
+                    {
+                      "id": "msd00d7",
+                      "author": "JaneTheEel",
+                      "body": "oh shit wait what the fuck have I been playing then",
+                      "score": 14,
+                      "created_utc": 1747266048.0,
+                      "replies": [
+                        {
+                          "id": "msd0nbi",
+                          "author": "FlarblesGarbles",
+                          "body": "That's what I'm saying. I must have imagined my Steam library on my M2 Macbook.",
+                          "score": 13,
+                          "created_utc": 1747266272.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msd329z",
+                          "author": "None",
+                          "body": "cool math games",
+                          "score": -4,
+                          "created_utc": 1747267083.0,
+                          "replies": [
+                            {
+                              "id": "msd3igd",
+                              "author": "JaneTheEel",
+                              "body": "So now underrated hidden gem indie masterpiece Bloxorz isn\u2019t a \u201cgame\u201d? Whatever",
+                              "score": 6,
+                              "created_utc": 1747267236.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "msd5jc0",
+                              "author": "FlarblesGarbles",
+                              "body": "I've got 265 games on my Steam Library that run on my Macbook... None of them are cool maths games.",
+                              "score": 3,
+                              "created_utc": 1747267944.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "msdqeix",
+                              "author": "buttchuggs",
+                              "body": "Underrated. Bring fucking lemonade stand to switch",
+                              "score": 1,
+                              "created_utc": 1747275202.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mscxszz",
+                      "author": "FlarblesGarbles",
+                      "body": "Oh really?",
+                      "score": 2,
+                      "created_utc": 1747265265.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "msf92to",
+                      "author": "Westerdutch",
+                      "body": "Dont poke apple fankids",
+                      "score": -1,
+                      "created_utc": 1747303470.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msftha8",
+              "author": "jonathanrdt",
+              "body": "Even a desktop: power policies change performance.",
+              "score": 1,
+              "created_utc": 1747312671.0,
+              "replies": [
+                {
+                  "id": "msfxvcc",
+                  "author": "UnsorryCanadian",
+                  "body": "And thermal throttling too",
+                  "score": 2,
+                  "created_utc": 1747314253.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msbsccl",
+              "author": "PeaceBull",
+              "body": "Windows laptop",
+              "score": -15,
+              "created_utc": 1747252129.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msc19a9",
+          "author": "Realistic_Condition7",
+          "body": "Well, many games on Switch 1 ran better undocked, my guess is because of the lower resolution.\n\nI\u2019m actually surprised it runs worse undocked because the resolution is still going down.\n\nI don\u2019t know if these tests measured plugged in handheld vs handheld running on battery power.",
+          "score": 19,
+          "created_utc": 1747254787.0,
+          "replies": []
+        },
+        {
+          "id": "msbrzfb",
+          "author": "your_evil_ex",
+          "body": "doubt the fan in the dock blowing on the plastic shell of the Switch 2 will make *that* big of a difference\n\nI'm guessing battery life is one of the main issues here",
+          "score": 24,
+          "created_utc": 1747252023.0,
+          "replies": [
+            {
+              "id": "msbtziv",
+              "author": "None",
+              "body": "I\u2019d imagine it heats up more due to the battery discharging as well",
+              "score": 24,
+              "created_utc": 1747252605.0,
+              "replies": []
+            },
+            {
+              "id": "msdfm8m",
+              "author": "stellvia2016",
+              "body": "The whole discussion around the hardware has been really disappointing to me, because so many people have no idea what they're talking about. Also lots of completely made up info.\n\nWhen making a mobile.capable device, there will always be tradeoffs for price, size, heat, and performance. The docked Switch2 is very close in performance to the current flagship Snapdragon8 Elite SoC ... Which you can't buy in a device for less than $650, and usually a lot more. Nvidia hasn't even released another Gen of SoC chip newer than the Switch2 uses yet.",
+              "score": 12,
+              "created_utc": 1747271437.0,
+              "replies": [
+                {
+                  "id": "msfmdkm",
+                  "author": "joomla00",
+                  "body": "Nvidia also has some of their dlss tech in it.  By itself the value is iffy, but it's a huge advantage in this scenario.",
+                  "score": 1,
+                  "created_utc": 1747309882.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msbvws3",
+              "author": "internetlad",
+              "body": "It is 100% battery life.\u00a0",
+              "score": 5,
+              "created_utc": 1747253172.0,
+              "replies": []
+            },
+            {
+              "id": "mscg6uy",
+              "author": "Xylamyla",
+              "body": "I\u2019m pretty sure Nintendo said the fan is for the dock internals, not the Switch 2.",
+              "score": 2,
+              "created_utc": 1747259355.0,
+              "replies": []
+            },
+            {
+              "id": "msbvu73",
+              "author": "SerRaziel",
+              "body": "This is what confused me about the dock fan. The dock must get hot.",
+              "score": 2,
+              "created_utc": 1747253151.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msbtrmb",
+          "author": "WilliamG007",
+          "body": "There\u2019s no fan? The OG Switch had a fan. Was it ever confirmed there\u2019s no fan also in the system itself?",
+          "score": 6,
+          "created_utc": 1747252542.0,
+          "replies": []
+        },
+        {
+          "id": "msd0423",
+          "author": "Bar_Har",
+          "body": "This is the internet, only hyperbolic negative hot takes and toxicity are allowed. /s\n\nI swear when I look for Switch 2 videos on YouTube half of them are rational, the other half I don\u2019t even click on because they have a ragebate title and thumbnail saying stuff like \u201cNintendo is doomed!\u201d, \u201cIt\u2019s worse than we thought!\u201d, or \u201cEveryone is laughing at these specs!\u201d",
+          "score": 3,
+          "created_utc": 1747266084.0,
+          "replies": []
+        },
+        {
+          "id": "msby4jm",
+          "author": "flac_rules",
+          "body": "As if the story is only 'performance is worse '",
+          "score": -2,
+          "created_utc": 1747253816.0,
+          "replies": []
+        },
+        {
+          "id": "msbq6py",
+          "author": "LebLeb321",
+          "body": "Didn't have much of an effect on the Switch 1.",
+          "score": -15,
+          "created_utc": 1747251497.0,
+          "replies": [
+            {
+              "id": "msbrgf4",
+              "author": "d4nowar",
+              "body": "Doesn't the resolution drop in portable mode?",
+              "score": 13,
+              "created_utc": 1747251870.0,
+              "replies": [
+                {
+                  "id": "msbscbk",
+                  "author": "blue-mooner",
+                  "body": "Yes, 720p undocked (921,600 pixels) vs 1080p docked (2,073,600 pixels, 125% more)",
+                  "score": 10,
+                  "created_utc": 1747252128.0,
+                  "replies": [
+                    {
+                      "id": "msbu006",
+                      "author": "Bootychomper23",
+                      "body": "Depends on game. Some switch 2 games are 1080p undocked and like 1440p docked",
+                      "score": 2,
+                      "created_utc": 1747252610.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msbtccd",
+              "author": "Gheta",
+              "body": "From what I'm seeing, it's worse on Switch 1 than 2. \n\nSwitch 2's GPU looks like it goes from 3.07 TFLOPS down to 1.71 TFLOPS. Switch 1's GPU goes from 768Mhz down to 307Mhz unboosted (GFLOPS roughly similar). \n\nThat's a 60% loss on Switch 1, and a 44% loss on Switch 2",
+              "score": 8,
+              "created_utc": 1747252419.0,
+              "replies": []
+            },
+            {
+              "id": "msbykuf",
+              "author": "AmNoSuperSand52",
+              "body": "Bruh the Switch 1 drops by half the total output when you unplug it, tf you talking about?",
+              "score": 2,
+              "created_utc": 1747253949.0,
+              "replies": [
+                {
+                  "id": "mscvcqw",
+                  "author": "LebLeb321",
+                  "body": "Is that right? I never noticed any performance difference. Then again, I don't play docked very often.",
+                  "score": 1,
+                  "created_utc": 1747264424.0,
+                  "replies": [
+                    {
+                      "id": "msde0hb",
+                      "author": "AmNoSuperSand52",
+                      "body": "Just from resolution alone dropping from 1080 to 720 is less than half the pixels",
+                      "score": 1,
+                      "created_utc": 1747270882.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msbyj9j",
+      "author": "Kamakaziturtle",
+      "body": "What a dumb way to title that article.  The Dock is specifically advertised as increasing the performance.  Of course undocked will be less powerful than docked.",
+      "score": 157,
+      "created_utc": 1747253936.0,
+      "replies": [
+        {
+          "id": "msceapr",
+          "author": "Dirty_Dragons",
+          "body": "It's the current trend of making gaming news negative.\n\nThe article could have been titled \"Switch 2 has significant performance gains when docked.\"",
+          "score": 73,
+          "created_utc": 1747258767.0,
+          "replies": [
+            {
+              "id": "msfmm76",
+              "author": "joomla00",
+              "body": "Considering 80% of gamer comments are complaining or whiny in nature, it seems like it's just writing to it's audience",
+              "score": 8,
+              "created_utc": 1747309982.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mscbswo",
+          "author": "HopelessRespawner",
+          "body": "The dock doesn't do any lifting in regards to performance. The console is able to upclock when it doesn't need to worry about battery constraints.",
+          "score": 16,
+          "created_utc": 1747257997.0,
+          "replies": [
+            {
+              "id": "msdmacl",
+              "author": "krigr",
+              "body": "It removes battery constraints *and improves the cooling performance. It isn't doing any processing like an eGPU, but nobody said it was. \n\nThe external cooling alone is a pretty good innovation. External cooling accessories for laptops have been around for decades, but they're usually one-size-fits-all designs from third party companies. I don't remember seeing a gaming laptop/tablet/handheld/etc. with ventilation fans shifted to an external dock as part of the factory design before.",
+              "score": 10,
+              "created_utc": 1747273730.0,
+              "replies": []
+            },
+            {
+              "id": "mscw7rs",
+              "author": "TorpeAlex",
+              "body": "And the extra fan does nothing? This is a silly hill to die on",
+              "score": 8,
+              "created_utc": 1747264716.0,
+              "replies": [
+                {
+                  "id": "mscz3tg",
+                  "author": "HopelessRespawner",
+                  "body": "S2 is going to get hot when it upclocks. The body of the Switch 2 won't efficiently transfer heat to the dock to get active cooling from it, but it's going to heat the dock all the same. Dock will need active cooling to reduce heat on its internals.\n\n\nNeed to remember that the dock is passing much higher wattage this time, plus handling 4k, Ethernet and peripherals.",
+                  "score": -1,
+                  "created_utc": 1747265727.0,
+                  "replies": [
+                    {
+                      "id": "msd02jl",
+                      "author": "TorpeAlex",
+                      "body": "But it doesn't do any lifting in regards to performance, right??",
+                      "score": -4,
+                      "created_utc": 1747266070.0,
+                      "replies": [
+                        {
+                          "id": "mseiy6g",
+                          "author": "Phoenix__Light",
+                          "body": "I mean technically no. You could in theory just plug it in to unlock docked mode performance  in handheld. \n\nThe only thing the dock does is send the signal to the switch to trigger it",
+                          "score": 6,
+                          "created_utc": 1747287618.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msd5f13",
+                          "author": "HopelessRespawner",
+                          "body": "What answer are you looking for here? The dock is a glorified usb hub with a cooling fan. Are you trying to prove some point?",
+                          "score": 4,
+                          "created_utc": 1747267903.0,
+                          "replies": [
+                            {
+                              "id": "msex1ct",
+                              "author": "SloppyCheeks",
+                              "body": "They're saying that better cooling provides a performance uplift",
+                              "score": 0,
+                              "created_utc": 1747295917.0,
+                              "replies": [
+                                {
+                                  "id": "msexl0m",
+                                  "author": "HopelessRespawner",
+                                  "body": "It is very unlikely that the fan in the dock will provide enough cooling to do anything but keep the dock from overheating. To be of any use to the console it would need really good contact with the system and a better medium to transfer heat. If thermal throttling is a problem with this console I'm sure we'll hear about it soon after launch... but no one at any event has said anything yet. Hope the fan isn't too loud...",
+                                  "score": 1,
+                                  "created_utc": 1747296261.0,
+                                  "replies": [
+                                    {
+                                      "id": "msgmsek",
+                                      "author": "SloppyCheeks",
+                                      "body": "Okay. I wasn't the one making the point, I've got no dog in this race.",
+                                      "score": 2,
+                                      "created_utc": 1747322091.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msfbkft",
+          "author": "WeWantLADDER49sequel",
+          "body": "The Dock is not \"specifically advertised\" as increasing the performance. Matter of fact most switch owners don't even know that. The dock is advertised as a way to play on your tv and that's it.",
+          "score": -4,
+          "created_utc": 1747304840.0,
+          "replies": [
+            {
+              "id": "msgenv3",
+              "author": "Kamakaziturtle",
+              "body": "What a weird thing to claim when it's absolutely trivial thing to verify.  From Nintendo's own website for the Switch 2 advertisement:\n\n>New Dock  \nConnect the Nintendo Switch 2 dock to a TV and...\n\n>...step into high-res worlds on your big screen.\n\n>**Use the included dock to connect the Nintendo Switch 2 system to your TV and unleash for even greater detail.**",
+              "score": 4,
+              "created_utc": 1747319692.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mscermi",
+      "author": "Dirty_Dragons",
+      "body": "I really hate this trend of making gaming news negative. Rage bait culture sucks.\n\nSwitch 2 having significant performance increas when docked is a good thing.",
+      "score": 70,
+      "created_utc": 1747258911.0,
+      "replies": [
+        {
+          "id": "mscgcfe",
+          "author": "supermitsuba",
+          "body": "That was the same with the first switch and makes sense to me.  You are right, why are we blowing this out of proportion?\n\nChat however sounds like a problem",
+          "score": 13,
+          "created_utc": 1747259404.0,
+          "replies": [
+            {
+              "id": "mscy6h7",
+              "author": "AgentUnknown821",
+              "body": "If Switch ran the same performance in handheld mode that it did in docked mode people would complain that \u201cit\u2019s too hot to touch!\u201d\u2026.smh\n\nThe internet is a funny place sometimes\u2026",
+              "score": 4,
+              "created_utc": 1747265395.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msegwk9",
+          "author": "nicman24",
+          "body": "I really hate this trend of making gaming news positive. Sucking up to companies culture sucks.",
+          "score": -5,
+          "created_utc": 1747286528.0,
+          "replies": [
+            {
+              "id": "msfcth9",
+              "author": "Luigi_loves_Mario",
+              "body": "You gamers are just so whiny and nitpicky.  so miserable. Why don\u2019t you make yourself useful and complain about things that matter like gas and groceries? Fucking whiny babies, I swear.",
+              "score": -4,
+              "created_utc": 1747305494.0,
+              "replies": [
+                {
+                  "id": "msfd0vp",
+                  "author": "nicman24",
+                  "body": "i am switch developer that brought ubuntu focal to the switch. what did you do for the community?",
+                  "score": 1,
+                  "created_utc": 1747305600.0,
+                  "replies": [
+                    {
+                      "id": "msfdxnp",
+                      "author": "Luigi_loves_Mario",
+                      "body": "Bro who gives a shit about some unofficial os being installed on the switch. It\u2019s a gaming console. I\u2019m sure the community appreciates you so much for what you did for the Nintendo switch. I hope someone writes a very positive article about you.",
+                      "score": -1,
+                      "created_utc": 1747306056.0,
+                      "replies": [
+                        {
+                          "id": "msfl76d",
+                          "author": "nicman24",
+                          "body": "So nothing :)",
+                          "score": 1,
+                          "created_utc": 1747309386.0,
+                          "replies": [
+                            {
+                              "id": "msfleaz",
+                              "author": "Luigi_loves_Mario",
+                              "body": "You didn\u2019t do anything either. lol the \u201ccommunity\u201d doesn\u2019t know wtf you\u2019re talking about. Certainly not part of my community",
+                              "score": -2,
+                              "created_utc": 1747309471.0,
+                              "replies": [
+                                {
+                                  "id": "msflvdm",
+                                  "author": "nicman24",
+                                  "body": "K brah",
+                                  "score": 2,
+                                  "created_utc": 1747309671.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msbwrvo",
+      "author": "gman5852",
+      "body": "As expected. Docked mode has always been the option to use the full extent of the hardware.\n\nStarting to feel like r/gadgets really wants to farm outrage over this release with the wall to wall nontroversies going on right now. Thought this was a place to discuss tech, not farm ad revenue over fanboy warring.",
+      "score": 35,
+      "created_utc": 1747253425.0,
+      "replies": []
+    },
+    {
+      "id": "msbvn60",
+      "author": "darraghfenacin",
+      "body": "I'm 40 I don't give half a fuck about game chat. Also my wife's steam deck sounds like a jet taking off when playing Fallout 4 not docked, so what",
+      "score": 81,
+      "created_utc": 1747253093.0,
+      "replies": [
+        {
+          "id": "msbzw5j",
+          "author": "JamesIV4",
+          "body": "When I was a teen and in college I'd Skype my best friend with a video chat while we gamed, we'd have the video overlaid in the corner. It felt like being there, a lot of great memories doing that.\n\nNow I never do that, mostly because he doesn't game much anymore. But what Nintendo is doing here will be awesome for all ages really. Online gaming on its own doesn't feel connected enough. Adding a video feed to the mix really does help.",
+          "score": 12,
+          "created_utc": 1747254347.0,
+          "replies": [
+            {
+              "id": "msdp9sj",
+              "author": "stefanopolis",
+              "body": "Game chat feels like this generation\u2019s \u201crooftop party.\u201d I\u2019m not getting tricked by the marketing thinking this thing is going to make me a bunch of friends.",
+              "score": 7,
+              "created_utc": 1747274794.0,
+              "replies": [
+                {
+                  "id": "mslb7p4",
+                  "author": "master2873",
+                  "body": "Not to mention other services currently exist, and will work with others when you play cross platform games, that also don't require a subscription to use. Discord... It does all this and MORE, and doesn't require eating system resources to simply talk to others.\n\nThis is Nintendo finally doing what the industry has done decades ago. Still playing catch up, and still offering bare bones service, while charging sky high prices now for 5 year old tech, with 20+ year old tech on it, and decades old ideas that was done already.",
+                  "score": 1,
+                  "created_utc": 1747383463.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msbykza",
+          "author": "psykofreak87",
+          "body": "Just turn off Chat in SteamOS to reduce fan speed.",
+          "score": 6,
+          "created_utc": 1747253950.0,
+          "replies": []
+        },
+        {
+          "id": "mseh0of",
+          "author": "nicman24",
+          "body": "oh that is a defect. mail valve they send replacements. they had a sourcing issue in the second wave of decks",
+          "score": 1,
+          "created_utc": 1747286589.0,
+          "replies": []
+        },
+        {
+          "id": "msbxtk1",
+          "author": "flac_rules",
+          "body": "So what? Are you implying it doesn't matter at all?",
+          "score": -7,
+          "created_utc": 1747253727.0,
+          "replies": [
+            {
+              "id": "msbyui5",
+              "author": "nickman940",
+              "body": "That\u2019s exactly right. Of course there will be a dip - that\u2019s exactly how these consoles work. It\u2019s an article for the sake of writing articles. One could also easily write the following: \n\n\u201cNew Switch 2 specs show large performance increase while docked\u201d \n\nBut that doesn\u2019t get clicks, does it",
+              "score": 16,
+              "created_utc": 1747254028.0,
+              "replies": [
+                {
+                  "id": "msc0o4t",
+                  "author": "flac_rules",
+                  "body": "If performance doesn't matter, why do we even have a switch 2?",
+                  "score": -16,
+                  "created_utc": 1747254595.0,
+                  "replies": [
+                    {
+                      "id": "msc18qu",
+                      "author": "MadCapMad",
+                      "body": "he didn\u2019t say performance, he said \u201cperformance while docked as opposed to undocked\u201d which is a universal issue and not something unique to the switch 2",
+                      "score": 9,
+                      "created_utc": 1747254782.0,
+                      "replies": [
+                        {
+                          "id": "msc1yfi",
+                          "author": "nickman940",
+                          "body": "^Exactly. It was acceptable for the switch 1, but now unacceptable for the switch 2? It\u2019s hardware limitation. Should they not create a new system until they can bypass this limitation?",
+                          "score": 3,
+                          "created_utc": 1747255017.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "msc1pm1",
+                          "author": "flac_rules",
+                          "body": "He seems to agree that the loss of performance when undocked has no significance. That means at the very least that performance over a given level is insignificant",
+                          "score": -11,
+                          "created_utc": 1747254936.0,
+                          "replies": [
+                            {
+                              "id": "msc2k5d",
+                              "author": "MadCapMad",
+                              "body": "see again, you\u2019re reducing this to performance as a whole, and he is specifically saying that this cause of difference in performance is not noteworthy. This SPECIFIC issue, not ALL performance issues, JUST from being docked or not. Because it\u2019s universal. \n\nOne last time. Performance does matter. Difference in performance between docked and undocked existing does not warrant news.",
+                              "score": 8,
+                              "created_utc": 1747255214.0,
+                              "replies": [
+                                {
+                                  "id": "msc4k2o",
+                                  "author": "flac_rules",
+                                  "body": "Thats not what was said, it was said the performance difference doesn't matter. Which it obviously does. And it is not universal either, the performance impact varies. \n\nWhy do people insist on pretending the article is a sentence saying 'differences excist ' that is not what the article says.",
+                                  "score": -4,
+                                  "created_utc": 1747255825.0,
+                                  "replies": [
+                                    {
+                                      "id": "msd4crm",
+                                      "author": "MadCapMad",
+                                      "body": "at this point its intentional. you're baiting me, you have to be.",
+                                      "score": 2,
+                                      "created_utc": 1747267530.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "msc5joc",
+                              "author": "Weihu",
+                              "body": "It is more like \"there being a performance difference between docked and unlocked is expected and not really noteworthy.\"\n\nConsider an article saying \"sun expected to rise in the east tomorrow.\" Most would consider such an article to be saying nothing of significance even though it is pretty important that the day/night cycle continues.",
+                              "score": 8,
+                              "created_utc": 1747256113.0,
+                              "replies": [
+                                {
+                                  "id": "msc5v9f",
+                                  "author": "flac_rules",
+                                  "body": "That is not what the article is though. Why pretend like the only thing the article says is 'there is a difference '?",
+                                  "score": -1,
+                                  "created_utc": 1747256208.0,
+                                  "replies": [
+                                    {
+                                      "id": "msc7gwa",
+                                      "author": "Weihu",
+                                      "body": "The article ends with \"looking at these numbers is neat but ultimately we'll have to see what the games actually look like.\" Even the article undercuts its own significance.\n\nThese numbers in a vacuum don't really convey much more than the original advertised difference in performance between docked and undocked.",
+                                      "score": 4,
+                                      "created_utc": 1747256686.0,
+                                      "replies": [
+                                        {
+                                          "id": "msc8blt",
+                                          "author": "flac_rules",
+                                          "body": "Those numbers says quite a bit. And if they don't for you the problem is certainly not that there is no details outside of 'performance goes down '",
+                                          "score": -1,
+                                          "created_utc": 1747256942.0,
+                                          "replies": [
+                                            {
+                                              "id": "mscat1g",
+                                              "author": "Weihu",
+                                              "body": "If they say quite a bit, what tangible conclusions can you draw about performance? How will this reduction impact framerate stability or other metrics that are noticeable by the user, in quantifiable terms?\n\nThe answer is no one that is allowed to go public with the information knows yet. These numbers can be interesting, but provide little on their own in terms of quantifying the actual performance that players will experience. It is not trivial in the least to make those connections, and no attempt has been made in the article. In the end, the actual performance differences between docked and undocked are still not known.",
+                                              "score": 5,
+                                              "created_utc": 1747257695.0,
+                                              "replies": [
+                                                {
+                                                  "id": "mscciwm",
+                                                  "author": "flac_rules",
+                                                  "body": "It is not trivial, that is true, that doesn't make the criticism that the information is something everyone knows and has no new information even weirder. First the problem is the article being to simple, now it is not digestible enough?",
+                                                  "score": 0,
+                                                  "created_utc": 1747258219.0,
+                                                  "replies": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "msc27e6",
+                              "author": "DonutSlapper11",
+                              "body": "Jesus Christ are you a fucking Diamond? He\u2019s saying it\u2019s a nothing article because obviously the performance is worse undocked. You\u2019re purposely getting hung up on the wrong thing to be annoying.",
+                              "score": 8,
+                              "created_utc": 1747255099.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "msc22yg",
+                      "author": "r_a_d_",
+                      "body": "Undocked switch 2 perf is higher than docked switch 1.  If the dip is that important to you, keep it docked.",
+                      "score": 1,
+                      "created_utc": 1747255058.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msc2le5",
+          "author": "lan60000",
+          "body": "So you're essentially paying extra for a feature you don't want or need, and buying a console where the whole schtick is being portable, yet performs poorly when used as such.",
+          "score": -10,
+          "created_utc": 1747255226.0,
+          "replies": [
+            {
+              "id": "mscnlc2",
+              "author": "Jarsky2",
+              "body": "Except it doesn't \"perform poorly\", any.more than the Switch \"performed poorly\". It performs fine in both, but it's better when docked. \n\nShocker, a device can upclock when it's plugged into a charger.",
+              "score": 6,
+              "created_utc": 1747261789.0,
+              "replies": [
+                {
+                  "id": "msd1t75",
+                  "author": "lan60000",
+                  "body": "The switch was hard locked at 30 fps and lower resolution when undocked, and even then it had stuttering issues on a constant. The switch two is trying to take it's console to match PC or other gaming console performances on a handheld device and that doesn't raise concerns to you? More power draw with a heavier hardware requirement would make one wonder how fast your battery drains when it's not connected. You're somehow having such low expectations of your console to think being docked is the upgrade, and not the normal expect performance here. Amazing",
+                  "score": -3,
+                  "created_utc": 1747266667.0,
+                  "replies": [
+                    {
+                      "id": "msd2n8w",
+                      "author": "Jarsky2",
+                      "body": "Okay bud. I'm dumb, you're smart. Here's your cookie, you earned it.",
+                      "score": 3,
+                      "created_utc": 1747266942.0,
+                      "replies": [
+                        {
+                          "id": "msdbom5",
+                          "author": "lan60000",
+                          "body": "you can keep the cookie. you might need it to pay off your next switch",
+                          "score": -3,
+                          "created_utc": 1747270075.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "msc42dz",
+              "author": "darraghfenacin",
+              "body": "Have you never used a laptop tablet or other mobile gaming device?\u00a0\n\n\nPerforms poorly? Who said that? Performance being decreased is not the same as performing poorly.\u00a0",
+              "score": 8,
+              "created_utc": 1747255680.0,
+              "replies": [
+                {
+                  "id": "msc56q3",
+                  "author": "lan60000",
+                  "body": "I have, but luckily my phone and laptop isn't just for gaming use only. Also, wouldn't the device be performing poorly undocked compared to it being docked?",
+                  "score": -8,
+                  "created_utc": 1747256009.0,
+                  "replies": [
+                    {
+                      "id": "msc63qt",
+                      "author": "darraghfenacin",
+                      "body": "But that's literally what happens with all mobile gaming devices THIS IS NOT NEW OR NOTEWORTHY.\n\n\nGPUs also get hot when running graphically intensive games. Is that worth writing an article about in 2025?",
+                      "score": 9,
+                      "created_utc": 1747256279.0,
+                      "replies": [
+                        {
+                          "id": "msc6zqz",
+                          "author": "lan60000",
+                          "body": "I know it does, but doesn't mean it shouldn't be brought up when the switch 2 is trying to push for more hardware intensive specs on a portable device, so how bad of a performance drop are we talking about here becomes an issue. You're paying money for a portable device, and if you need to dock that thing to have a decent gaming experience, then what's the point? Not to mention you still paid extra for a device function that serves you no purpose.",
+                          "score": -6,
+                          "created_utc": 1747256541.0,
+                          "replies": [
+                            {
+                              "id": "msc7lea",
+                              "author": "darraghfenacin",
+                              "body": "You're making assumptions here for some reason. It's never been an issue for my Switch 1 or my Steam Deck, it's not going to be an issue here.\n\n\nThe switch 1 does 720p in handheld instead of 1080p when docked. That's \"poor\" performance isn't it? Guess what? It didn't and doesn't matter.\u00a0",
+                              "score": 8,
+                              "created_utc": 1747256723.0,
+                              "replies": [
+                                {
+                                  "id": "msc8pw7",
+                                  "author": "lan60000",
+                                  "body": "What do you mean there's never been an issue for switch 1? The console forced games to run at 30fps and limited resolutions whilst having stuttering issues as well. You literally pointed out the performance difference and is willingly dismissing it due to personal bias. Switch 2 is attempting to push games towards higher fps performances and a higher resolution whilst tackling more hardware intensive games on a portable console, and you never thought what would happen if the device can't handle it?",
+                                  "score": 0,
+                                  "created_utc": 1747257062.0,
+                                  "replies": [
+                                    {
+                                      "id": "msc98wv",
+                                      "author": "darraghfenacin",
+                                      "body": "Honestly, you've already made your mind up here. You're right whatever there you go.\u00a0\n\n\nI forgot what it was like to comment in gaming / gadget subreddits lol. That's on me. Night night.\u00a0",
+                                      "score": 6,
+                                      "created_utc": 1747257223.0,
+                                      "replies": [
+                                        {
+                                          "id": "msct2wu",
+                                          "author": "Dependent-Mode-3119",
+                                          "body": "Bro must hate all windows laptops apparently. That and the laws of physics.",
+                                          "score": 3,
+                                          "created_utc": 1747263650.0,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "msd0392",
+                                          "author": "lan60000",
+                                          "body": "How ironic is that? I use portable devices all the time, but not delusional enough to believe a portable gaming device is going to uphold PC or non-portable gaming console performances without severe drawbacks.",
+                                          "score": 1,
+                                          "created_utc": 1747266077.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mscsv8u",
+              "author": "Dependent-Mode-3119",
+              "body": "Do you not know how batteries and TDP works or....",
+              "score": 1,
+              "created_utc": 1747263579.0,
+              "replies": [
+                {
+                  "id": "msd1uo8",
+                  "author": "lan60000",
+                  "body": "Ironic",
+                  "score": 1,
+                  "created_utc": 1747266681.0,
+                  "replies": [
+                    {
+                      "id": "msg9bjd",
+                      "author": "Dependent-Mode-3119",
+                      "body": "Do you think that a lower power budget necessitates lower clocks and thus less performance? Or do you think you can use pixie dust to power it as though there's no constraints forever.",
+                      "score": 1,
+                      "created_utc": 1747318058.0,
+                      "replies": [
+                        {
+                          "id": "msgtbu2",
+                          "author": "lan60000",
+                          "body": "not what i'm saying. i'm telling people to take the switch 2 with a grain of salt based on its specs and how much of a performance drop the console can get when it's undocked.",
+                          "score": 1,
+                          "created_utc": 1747324000.0,
+                          "replies": [
+                            {
+                              "id": "msh8tfq",
+                              "author": "Dependent-Mode-3119",
+                              "body": "But this isn't a new paradigm. They're litterally doing the same thing the last one did. A lot of people have actually noted that while the performance was weaker on paper, the games played better in handheld due to lower resolution targets being able to be hit more consistently.",
+                              "score": 1,
+                              "created_utc": 1747328535.0,
+                              "replies": [
+                                {
+                                  "id": "mshis8p",
+                                  "author": "lan60000",
+                                  "body": "i think it just comes down to battery life and how well the console can cool itself.",
+                                  "score": 1,
+                                  "created_utc": 1747331379.0,
+                                  "replies": [
+                                    {
+                                      "id": "mshkxkx",
+                                      "author": "Dependent-Mode-3119",
+                                      "body": "That's what TDP is.",
+                                      "score": 1,
+                                      "created_utc": 1747331983.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mshq5qi",
+      "author": "nestcto",
+      "body": "That's just normal for tech. The convenience of mobility often means a sacrifice of power.\n\n\nThe real flaw is that the Switch 2 isn't for sale and never will be. You can only lease permission to use one.",
+      "score": 7,
+      "created_utc": 1747333528.0,
+      "replies": []
+    },
+    {
+      "id": "msbuug2",
+      "author": "Abdullah-Alturki",
+      "body": "nothing-burger with a side of empty cup ass article",
+      "score": 14,
+      "created_utc": 1747252855.0,
+      "replies": []
+    },
+    {
+      "id": "msdt4h5",
+      "author": "creamyclear",
+      "body": "Luckily I don\u2019t have any friends to chat with.",
+      "score": 4,
+      "created_utc": 1747276211.0,
+      "replies": []
+    },
+    {
+      "id": "msc5sr2",
+      "author": "locked-in-4-so-long",
+      "body": "This was obvious guess to me. Can\u2019t expect to do real 4k gaming at Xbox/ps5 levels on a portable device.",
+      "score": 6,
+      "created_utc": 1747256188.0,
+      "replies": [
+        {
+          "id": "msctl00",
+          "author": "None",
+          "body": "Right? Tell their fan base. They will literally pull up a worse screenshot and debate that is better than PS4 while undocked.",
+          "score": -7,
+          "created_utc": 1747263818.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msc8b6g",
+      "author": "HundoGuy",
+      "body": "So just like the original switch? lol",
+      "score": 6,
+      "created_utc": 1747256939.0,
+      "replies": []
+    },
+    {
+      "id": "msd17y7",
+      "author": "tofuchrispy",
+      "body": "What did they do with game chat lol",
+      "score": 3,
+      "created_utc": 1747266470.0,
+      "replies": []
+    },
+    {
+      "id": "mse98jc",
+      "author": "Grytnik",
+      "body": "Just like my PSN I have 0 friends on my Nintendo, I will be fine without gamechat.",
+      "score": 3,
+      "created_utc": 1747282831.0,
+      "replies": []
+    },
+    {
+      "id": "mscwk43",
+      "author": "pwnersaurus",
+      "body": "If there was no change in performance, people would be complaining the dock is pointless \ud83e\udd37\u200d\u2642\ufe0f",
+      "score": 4,
+      "created_utc": 1747264834.0,
+      "replies": [
+        {
+          "id": "mseh45n",
+          "author": "nicman24",
+          "body": "honestly the dock is a bit pointless. they ought to stick a gpu in there",
+          "score": -3,
+          "created_utc": 1747286638.0,
+          "replies": [
+            {
+              "id": "msej9ow",
+              "author": "Phoenix__Light",
+              "body": "Not a bad idea tbh. Give the full power budget to all components but the internal GPU allowing for the memory and CPU to reach their max potential and have a GPU for the heavy lifting. \n\nThe only downside though is that the games need to support the handheld mode anyways",
+              "score": 1,
+              "created_utc": 1747287790.0,
+              "replies": [
+                {
+                  "id": "msejxfg",
+                  "author": "nicman24",
+                  "body": "i mean there is the pluming to this (kinda) in linux already with nvidia and they are already supporting 2 modes.",
+                  "score": 1,
+                  "created_utc": 1747288151.0,
+                  "replies": []
+                },
+                {
+                  "id": "msf6wyx",
+                  "author": "whatnowwproductions",
+                  "body": "People are already complaining about the price, an additional GPU would probably 2x the price as is.",
+                  "score": 1,
+                  "created_utc": 1747302216.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "msfrp4o",
+              "author": "joomla00",
+              "body": "Then it's be like $400 for just the dock",
+              "score": 1,
+              "created_utc": 1747312000.0,
+              "replies": [
+                {
+                  "id": "msg5cea",
+                  "author": "nicman24",
+                  "body": "That is ok",
+                  "score": -1,
+                  "created_utc": 1747316782.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mscyl2i",
+      "author": "goldaxis",
+      "body": "Why is this news? Do people literally think technology is magic now? Zero ability to reason things out?",
+      "score": 5,
+      "created_utc": 1747265538.0,
+      "replies": [
+        {
+          "id": "mslrair",
+          "author": "Scalybeast",
+          "body": "Because the Nintendo hate train drives engagement at the moment. Don\u2019t get me wrong, there are legitimate things to gripe about, like the game price hike, EULA change or the gamekey carts but this is a nothingburger.",
+          "score": 2,
+          "created_utc": 1747392849.0,
+          "replies": [
+            {
+              "id": "mswttce",
+              "author": "Kalpy97",
+              "body": "Im sorry but the game key cards and the eula are literally non complaints",
+              "score": 1,
+              "created_utc": 1747546590.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msdqzux",
+      "author": "OriolesMets",
+      "body": "Disappointing as I\u2019ll literally never use game chat",
+      "score": 2,
+      "created_utc": 1747275417.0,
+      "replies": []
+    },
+    {
+      "id": "msdz7y0",
+      "author": "PresStart2BegN",
+      "body": "I'll be playing it majority undocked and even I. It's undocked form it's almost 3x more powerful than switch 1\u00a0",
+      "score": 2,
+      "created_utc": 1747278560.0,
+      "replies": []
+    },
+    {
+      "id": "mse2tzd",
+      "author": "void_const",
+      "body": "lol wtf",
+      "score": 2,
+      "created_utc": 1747280053.0,
+      "replies": []
+    },
+    {
+      "id": "msemijt",
+      "author": "Sgtkeebler",
+      "body": "Ooooffff gpu clock gets cut in half in undocked mode",
+      "score": 2,
+      "created_utc": 1747289596.0,
+      "replies": []
+    },
+    {
+      "id": "msetn6e",
+      "author": "Buuhhu",
+      "body": "In other news, the sky is blue...",
+      "score": 2,
+      "created_utc": 1747293787.0,
+      "replies": []
+    },
+    {
+      "id": "msfncv3",
+      "author": "For_The_Emperor923",
+      "body": "Xbox Kinect 2, electric boogaloo",
+      "score": 2,
+      "created_utc": 1747310287.0,
+      "replies": []
+    },
+    {
+      "id": "msgwq0d",
+      "author": "Mystic-monkey",
+      "body": "So it sounds like the cooling fan makes the switch 2 operate at peak performance? Since that GPU will melt if the game asks the game to run at full capacity docked. Power cord attached to the system outside the dock\u00a0 will still not be enough for the system to run full capacity?\u00a0",
+      "score": 2,
+      "created_utc": 1747324990.0,
+      "replies": []
+    },
+    {
+      "id": "msgxofk",
+      "author": "void_method",
+      "body": "Cool, cool, where is my email Nintendo?",
+      "score": 2,
+      "created_utc": 1747325273.0,
+      "replies": []
+    },
+    {
+      "id": "msl9yx8",
+      "author": "master2873",
+      "body": "Yes, nothing like charging $450 for 5 year old tech that runs significantly worse in comparison to Switch 1 undocked. Switch 2 undocked literally nearly loses 3 times the power as it can deliver via docked.\n\nHave a HUGE feeling this is over battery life either way, but this price point still won't sit well with me with performance metrics like this.",
+      "score": 2,
+      "created_utc": 1747382677.0,
+      "replies": []
+    },
+    {
+      "id": "msc7398",
+      "author": "gldoorii",
+      "body": "In other news water is still wet",
+      "score": 3,
+      "created_utc": 1747256571.0,
+      "replies": []
+    },
+    {
+      "id": "msdn1ck",
+      "author": "Atrampoline",
+      "body": "It's ok, I won't be buying one because it's expensive as hell and the games are too. I'm pretty much done with Nintendo.",
+      "score": 3,
+      "created_utc": 1747273994.0,
+      "replies": []
+    },
+    {
+      "id": "mse9g42",
+      "author": "MarioGeeUK",
+      "body": "lol, no shit Sherlock. Just like the original switch.",
+      "score": 2,
+      "created_utc": 1747282925.0,
+      "replies": []
+    },
+    {
+      "id": "mscvju0",
+      "author": "ProjectPorygon",
+      "body": "I\u2019m probably just gonna wait to see how the system actually performs. Digital foundry has been iffy at best with their opinion pieces, especially on hardware that isn\u2019t even released yet. Most likely the OS size is due to the switch 1 OS layered on top of the switch 2 os+ gamechat, given Nintendo has already stated previously that they\u2019re doing something between emulation and running the software natively. That would also impact performance, because if it\u2019s not running a switch 1 game that layered OS can be switched off, leaving another free 1-2 gb ram depending. We\u2019ve seen them (DF) make a lot of claims as of late and even previous to the full announcement/reveal of the switch 2 that ended up being blatantly wrong or misleading, so might be best to take their statements with a grain of salt",
+      "score": 2,
+      "created_utc": 1747264491.0,
+      "replies": [
+        {
+          "id": "msdc5wf",
+          "author": "BluestreakBTHR",
+          "body": "Ah. They\u2019re taking a play out of IGN\u2019s book.",
+          "score": 0,
+          "created_utc": 1747270242.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msc7ci9",
+      "author": "ender89",
+      "body": "As someone with a steam deck, you crank everything down when handheld to get the most battery life. Heat can also be a big issue, and considering that they have a fan in the dock it definitely is.\n\nThis is pretty much what I expected tbh, though I was hoping for a bit more performance in handheld mode.\n\nThe switch 2 will dial the resolution and graphics waaaay down in handheld,  but the small screen will cover a lot of sins.",
+      "score": 2,
+      "created_utc": 1747256649.0,
+      "replies": []
+    },
+    {
+      "id": "msddr0j",
+      "author": "hellraiser29",
+      "body": "A gen behind on release\u2026 again",
+      "score": 2,
+      "created_utc": 1747270791.0,
+      "replies": []
+    },
+    {
+      "id": "msd85gi",
+      "author": "None",
+      "body": "![gif](giphy|AaQYP9zh24UFi)",
+      "score": 1,
+      "created_utc": 1747268859.0,
+      "replies": []
+    },
+    {
+      "id": "msg78jy",
+      "author": "alundaio",
+      "body": "When OLED model went on sale for Christmas everyone was saying to hold off because Switch 2 was coming March and would be around the same price. I didn't believe that BS for a second.",
+      "score": 1,
+      "created_utc": 1747317390.0,
+      "replies": []
+    },
+    {
+      "id": "msgtfof",
+      "author": "Alienhaslanded",
+      "body": "If that dock doesn't have a GPU of some sort, I don't believe Nintendo. The og Switch was totally overclockable to dock mode because the dock was nothing but a piece of plastic with a power and signal hub board.",
+      "score": 1,
+      "created_utc": 1747324030.0,
+      "replies": []
+    },
+    {
+      "id": "msh6ibh",
+      "author": "queef_commando",
+      "body": "Oh mighty Pok\u00e9mon toaster",
+      "score": 1,
+      "created_utc": 1747327878.0,
+      "replies": []
+    },
+    {
+      "id": "mshkbgv",
+      "author": "jsamuraij",
+      "body": "As expected.",
+      "score": 1,
+      "created_utc": 1747331810.0,
+      "replies": []
+    },
+    {
+      "id": "msibfwg",
+      "author": "mfmeitbual",
+      "body": "It's not a Switch 2, it's a Switch+. \n\nThe disappointing thing is Nintendo could have done this every few years - that was a big advantage of using NVidia's SoC, incremental upgrades are easy because the next generation is almost always backwards compatible with the previous version. The only thing you'd need to is recompile shaders for newer shader models. \n\nExcept for the GameBoy Advance and a few of the DS models, I've bought every Nintendo console and will be skipping the Switch 2 until it's bargain bin priced.",
+      "score": 1,
+      "created_utc": 1747339858.0,
+      "replies": []
+    },
+    {
+      "id": "msjiiji",
+      "author": "johnnyLochs",
+      "body": "It\u2019s a ploy to sell the add on battery back up that are mini docs. You now need a mini hdmi 4Xv.1 to connect directly to the new Sharp/Nintendo collab at 8k (12k in Asia). \n\nNon Sharp owners may purchase a demuxing pass through that will decide the black box (1990 us cable hacks) system that Nintendo uses  to decompile and recompile on the fly. On $299.99 additional.  ***not included cost of subscription to lease the games and the PARTS of the hardware.",
+      "score": 1,
+      "created_utc": 1747353815.0,
+      "replies": []
+    },
+    {
+      "id": "msuzdjx",
+      "author": "copypaste_93",
+      "body": "Nintendo releases shit again. Hardly surprising.",
+      "score": 1,
+      "created_utc": 1747518723.0,
+      "replies": []
+    },
+    {
+      "id": "mscrnjl",
+      "author": "None",
+      "body": "Admittedly I would like to type \"KYS\" after getting rinsed from 1st to 8th via the blue shell in Mario kart, I'll suffice to one day yell at the children beating me.\n\nUntil then, what the fuck am I using game chat for in a Nintendo game?",
+      "score": 0,
+      "created_utc": 1747263169.0,
+      "replies": []
+    },
+    {
+      "id": "msctc6x",
+      "author": "None",
+      "body": "Switch 2-2 pro will be the one.",
+      "score": 1,
+      "created_utc": 1747263737.0,
+      "replies": []
+    },
+    {
+      "id": "msd4j2w",
+      "author": "Sensitive_Scar_1800",
+      "body": "Well yeah no shit, if you\u2019re going to game at a certain level the system needs juice!",
+      "score": 1,
+      "created_utc": 1747267591.0,
+      "replies": []
+    },
+    {
+      "id": "msfoe92",
+      "author": "For_The_Emperor923",
+      "body": "N64-Win\nGamecube-Loss (but best games)\nWii-win (annoying controls tho)\nWii U-Loss (cool idea with pad but annoying limits and bad hardware)\nSwitch-Win (awesome idea, good execution)\nSwitch 2-will be a mild to large Loss (consumer unfriendly high price and blatent greedflation, eula, bad software/hardware compute dedication split choices, runaway corporate ego).\n\nYou might not like my take. Thats fine. But if they dont course correct theyll just feed the steam deck and pc market at these prices, and they have ALREADY massively bumped up pirating activity.\n\nI hole they reverse course. Donkey kong looks amazing",
+      "score": 1,
+      "created_utc": 1747310709.0,
+      "replies": [
+        {
+          "id": "msko7a2",
+          "author": "Kalpy97",
+          "body": ">Switch 2-will be a mild to large Loss (consumer unfriendly high price and blatent greedflation, eula, bad software/hardware compute dedication split choices, runaway corporate ego).\n\nXbox literally just annouced all games will be 80 dollars, sony will follow aswell. Every hardware manufacture has the exact same eula. Switch 2 is pound for pound the most powerful handheld for the price on the market. Any more non complaints?",
+          "score": 2,
+          "created_utc": 1747370317.0,
+          "replies": [
+            {
+              "id": "mslfe9m",
+              "author": "For_The_Emperor923",
+              "body": "Yeah. Theyre all gonna crash.\nTheyre lemmings at this point.\n\nTheyre not giving the value they used to.",
+              "score": 0,
+              "created_utc": 1747386105.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msbq91e",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -13,
+      "created_utc": 1747251516.0,
+      "replies": [
+        {
+          "id": "msbs9sk",
+          "author": "xyzqsrbo",
+          "body": "It seems pretty obvious that it would have worse performance not docked, not sure what you mean?",
+          "score": 16,
+          "created_utc": 1747252108.0,
+          "replies": []
+        },
+        {
+          "id": "msbqwjf",
+          "author": "daddylo21",
+          "body": "Eh, Nintendo hasn't had the most powerful system in over 20 years, wouldn't expect them to change things up now since the Switch 1 did pretty decently in terms of sales for them.",
+          "score": 10,
+          "created_utc": 1747251708.0,
+          "replies": [
+            {
+              "id": "msbvwkc",
+              "author": "SimiKusoni",
+              "body": "Yeah but the Switch did well in an environment where the competition was a PS Vita. An expensive, clunky handheld launched two years earlier with a threadbare library and Sony already in the throes of abandoning it before the Switch even launched.\n\nI think Nintendo are in for an unpleasant surprise this time round launching an underpowered handheld, with an associated bump in games pricing no less, into a market with the Steam Deck. Not to mention other random hardware manufacturers like Asus and MSI taking advantage of Valve's work on Proton to leap into the fray.",
+              "score": -2,
+              "created_utc": 1747253170.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msbsld4",
+          "author": "RagnarokCross",
+          "body": "Elaborate.",
+          "score": 4,
+          "created_utc": 1747252202.0,
+          "replies": [
+            {
+              "id": "msbt0n4",
+              "author": "BrotherRoga",
+              "body": "The remote bricking of their hardware, for one. Price hikes for games on an almost arbitrary basis for two.",
+              "score": -12,
+              "created_utc": 1747252324.0,
+              "replies": [
+                {
+                  "id": "msbtovr",
+                  "author": "RagnarokCross",
+                  "body": ">The remote bricking of their hardware, for one.\n\nDid you know the EULA for Sony and MS says this as well?",
+                  "score": 3,
+                  "created_utc": 1747252519.0,
+                  "replies": [
+                    {
+                      "id": "msbu3s3",
+                      "author": "BrotherRoga",
+                      "body": "Yeah. But they're not being discussed because they ain't the subject right now.",
+                      "score": -5,
+                      "created_utc": 1747252640.0,
+                      "replies": [
+                        {
+                          "id": "msbxh9j",
+                          "author": "gman5852",
+                          "body": "They aren't the subject because you want to be angry at Nintendo and can't create a valid reason. \n\nIf you want to solve the issue of overly strict EULAs, you have to take it all in and factor that it's a US only issue, IE campaign for better consumer protection laws. Since you're actively trying to make that discussion not happen, I'll assume you don't actually care about the matter and want free outrage points. Congrats on making the problem worse",
+                          "score": 5,
+                          "created_utc": 1747253628.0,
+                          "replies": [
+                            {
+                              "id": "msc2i9h",
+                              "author": "BrotherRoga",
+                              "body": ">Since you're actively trying to make that discussion not happen, I'll assume you don't actually care about the matter\n\nI am not trying to make that discussion happen because I am not qualified to discuss it. I will fuck up some point I want to make. I know that.\n\nThat does not make my thoughts on the recent bullshit Nintendo is pulling *invalid*. So stop with the \"valid argument\" card and stop trying to assign a narrative for me to fall into. Especially the US consumer protection thing. I'm Finnish, that part of the EULA cannot apply to me because that shit is illegal to pull in the EU. Nonetheless I'm still gonna give Nintendo shit for it because I have friends who are hurt by this.\n\nStop making the problem worse by dismissing the thoughts of those who bring it up just because you don't like what they say.",
+                              "score": -6,
+                              "created_utc": 1747255198.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "msbulzz",
+                          "author": "RagnarokCross",
+                          "body": "Why single out Nintendo for something that every other console manufacturer does then? Isn't it everyone's  \"enshittification\"?",
+                          "score": 2,
+                          "created_utc": 1747252784.0,
+                          "replies": [
+                            {
+                              "id": "msc2txq",
+                              "author": "BrotherRoga",
+                              "body": "Because they can be discussed in their own threads. This one is about Nintendo and I'm not engaging with whataboutism.",
+                              "score": -1,
+                              "created_utc": 1747255301.0,
+                              "replies": [
+                                {
+                                  "id": "msc3rgd",
+                                  "author": "RagnarokCross",
+                                  "body": ">This one is about Nintendo and I'm not engaging with whataboutism.\n\nNice, Nintendo is doing what all of their competitors are doing so it's an irrelevant conversation. Claiming whataboutism due to your own ignorance on EULAs is certainly an option, I guess.",
+                                  "score": 2,
+                                  "created_utc": 1747255590.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msbx0dv",
+      "author": "mallydobb",
+      "body": "The dock has extra hardware and power, of course it will perform better. \n\nThe only time I use my current switch undocked is when the power is out and I\u2019m bored, the rest of the time it is docked and really like a standard console. Never use it portable.",
+      "score": -3,
+      "created_utc": 1747253494.0,
+      "replies": [
+        {
+          "id": "msc4c1q",
+          "author": "The-student-",
+          "body": "The dock has an extra fan, but no extra hardware. The Switch 2 is just underclocked in handheld mode.",
+          "score": 11,
+          "created_utc": 1747255759.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msc2qcl",
+      "author": "pkjoan",
+      "body": "Game chat is such an unnecessary feature",
+      "score": -4,
+      "created_utc": 1747255270.0,
+      "replies": []
+    },
+    {
+      "id": "msdckbj",
+      "author": "haahaahaa",
+      "body": "Its a console.  \"Performance\" isn't important.\n\nIn handheld mode, it will change its power profile because its running on battery.\n\nIn the dock, games will be running at \"4k\".\nIn handheld mode they will be \"1080\".\n\nThe question will be how the games *feel*.  Like others have said, handheld is sometimes better on the current Switch because rendering the game at 720p is significantly easier.\n\nWith the Switch 2 the question will be how upscaling is utilized.  I assume \"4K\" will actually be 1440 or 1080 upscaled.  Then what happens in handheld mode?  Does it try to run natively at 1080?  Is it 720 upscaled?  I assume upscaled.\n\nSo the question to ask is going to be how much worse do the games look in handheld mode.  On desktop 720 upscaled to 1080 kinda sucks.  Fewer pixels to upscale from, so details get lost.",
+      "score": 0,
+      "created_utc": 1747270382.0,
+      "replies": []
+    },
+    {
+      "id": "mse9nmx",
+      "author": "GokuBlack722",
+      "body": "\u201cNew Switch 2 specs show large performance dip in undocked mode\u201d wow you don\u2019t fucking say? Is arstechnica going to write an article about how fire is hot next? This is not news.",
+      "score": 0,
+      "created_utc": 1747283020.0,
+      "replies": []
+    },
+    {
+      "id": "msbqz0l",
+      "author": "FunnyMustache",
+      "body": "I was tempted to give Nintendo another chance (I hate how litigious they are with streamers and downright against game preservation), but I'll pass.\n\nI'll continue playing their games via emulation, thank you very much!",
+      "score": -30,
+      "created_utc": 1747251729.0,
+      "replies": [
+        {
+          "id": "msbxonk",
+          "author": "Kamakaziturtle",
+          "body": "Just to be clear, the fact that the undocked mode is less powerful than docked, that is to say it works exactly as advertised, was the last straw?",
+          "score": 9,
+          "created_utc": 1747253687.0,
+          "replies": []
+        },
+        {
+          "id": "msbvp9y",
+          "author": "julesvr5",
+          "body": "What the hell did you expect? That it runs in handheld mode as powerful as in docked mode? That would mean you are very gullible.",
+          "score": 8,
+          "created_utc": 1747253110.0,
+          "replies": []
+        },
+        {
+          "id": "msbsgni",
+          "author": "fireowlzol",
+          "body": "Thank you so much on letting one of us millions get a system!",
+          "score": 10,
+          "created_utc": 1747252163.0,
+          "replies": [
+            {
+              "id": "msbtp0y",
+              "author": "BennieOkill360",
+              "body": "Enjoy your 'system'",
+              "score": -14,
+              "created_utc": 1747252520.0,
+              "replies": [
+                {
+                  "id": "msbupw0",
+                  "author": "fireowlzol",
+                  "body": "I absolutely will, looks awesome",
+                  "score": 6,
+                  "created_utc": 1747252816.0,
+                  "replies": [
+                    {
+                      "id": "msbv2l6",
+                      "author": "BennieOkill360",
+                      "body": "Not really tho",
+                      "score": -13,
+                      "created_utc": 1747252924.0,
+                      "replies": [
+                        {
+                          "id": "msbvk3b",
+                          "author": "julesvr5",
+                          "body": "Your opinion isn't the general standard, you should realise that.",
+                          "score": 7,
+                          "created_utc": 1747253068.0,
+                          "replies": [
+                            {
+                              "id": "msciuvn",
+                              "author": "ElJanitorFrank",
+                              "body": "I'm honestly shocked that it isn't. \n\nNintendo has been incredibly dogmatic in their anti-consumer interactions, lack of sales on their shop, refusal to make older products *available* and hardware that has lagged behind its competition pretty much every single time in the last quarter century. I imagine that the reason they don't get MORE hate is because they ride the nostalgia harder than almost anybody else and it works.",
+                              "score": -5,
+                              "created_utc": 1747260208.0,
+                              "replies": [
+                                {
+                                  "id": "msctixa",
+                                  "author": "Dependent-Mode-3119",
+                                  "body": ">I'm honestly shocked that it isn't.\n\nYou may be shocked to learn the sky is blue as well. It would require you going outside as well though.",
+                                  "score": 3,
+                                  "created_utc": 1747263798.0,
+                                  "replies": [
+                                    {
+                                      "id": "mse3blr",
+                                      "author": "ElJanitorFrank",
+                                      "body": "Where I'd find a bunch of people who don't care about poor corporate practices and choose to patronize bad companies? Apparently they're all over here, too.\n\nAt the very least I hope the venn diagram of people who actively choose companies known for unscrupulous practices and people who complain about corporations ruining everything doesn't overlap too much.",
+                                      "score": -1,
+                                      "created_utc": 1747280260.0,
+                                      "replies": [
+                                        {
+                                          "id": "msg6n99",
+                                          "author": "Dependent-Mode-3119",
+                                          "body": "Aren't most tech products made with lithium mined by child labor in impoverished nations? People like you try to grandstand in the depths of hell and wonder why nobody takes you seriously.",
+                                          "score": 1,
+                                          "created_utc": 1747317200.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "msbv6qn",
+                          "author": "fireowlzol",
+                          "body": "I already played it, games are lit",
+                          "score": 7,
+                          "created_utc": 1747252959.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msbtq2p",
+          "author": "GStarG",
+          "body": "While I'd like emulation to be an early option for Switch 2, Idk who's gunna take that project on after Yuzu team got hung in the gallows \n\nThe only reason Yuzu progressed as fast as it did was because of the fact they were charging lots of money on patreon, and that's what got em sued right?",
+          "score": 3,
+          "created_utc": 1747252529.0,
+          "replies": [
+            {
+              "id": "msbyqjy",
+              "author": "joestaff",
+              "body": "Sued faster. Then there was openly advertising Tears of the Kingdom before it came out.\n\n\nThe other emulator, Ryujinx, has only gotten a \"Would You Kindly\" letter.",
+              "score": 3,
+              "created_utc": 1747253996.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msc1p9s",
+      "author": "Healthy_Heart5905",
+      "body": "I wonder if they are going to sue steam like they did Palworld for BS patents",
+      "score": -4,
+      "created_utc": 1747254933.0,
+      "replies": []
+    },
+    {
+      "id": "msbvs30",
+      "author": "internetlad",
+      "body": "FIVE HUNDRED\u00a0 NINETY NINE US DOLLARS\u00a0",
+      "score": -9,
+      "created_utc": 1747253133.0,
+      "replies": [
+        {
+          "id": "msby8mg",
+          "author": "gizmo998",
+          "body": "What is?",
+          "score": 5,
+          "created_utc": 1747253849.0,
+          "replies": [
+            {
+              "id": "msbztwy",
+              "author": "internetlad",
+              "body": "Ps3",
+              "score": 4,
+              "created_utc": 1747254328.0,
+              "replies": []
+            },
+            {
+              "id": "msc7yb5",
+              "author": "bonesnaps",
+              "body": "The McRib which believe it or not, is back.",
+              "score": 4,
+              "created_utc": 1747256831.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "msc537o",
+          "author": "WanderingSimpleFish",
+          "body": "For a \u201clicence to use a switch 2\u201d so don\u2019t be jailbreaking it or Nintendo will remotely brick it",
+          "score": -6,
+          "created_utc": 1747255980.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mscvy4s",
+      "author": "None",
+      "body": "Maybe it\u2019s time to send Nintendo a message, they need the consumer, we don\u2019t need them.",
+      "score": -1,
+      "created_utc": 1747264625.0,
+      "replies": []
+    },
+    {
+      "id": "msegh4i",
+      "author": "Nycetech",
+      "body": "They know nothing! Have not fully analyzed one single final game. These guys are Sony fan boys, and nothing more.",
+      "score": -2,
+      "created_utc": 1747286306.0,
+      "replies": []
+    },
+    {
+      "id": "msc4h5g",
+      "author": "Knickerbottom",
+      "body": "It's almost like it's an overpriced piece of junk! Joycons were a neat idea when the switch 1 launched but I really hope Nintendo catches a nice big slice of humble pie this generation.",
+      "score": -5,
+      "created_utc": 1747255801.0,
+      "replies": []
+    },
+    {
+      "id": "msdprwp",
+      "author": "Defelj",
+      "body": "Can\u2019t believe anyone could be happy w this player in the field anymore when you have steam deck, ps5 w the portable shit, and overall\nMore high quality games on all other systems. I used to be a die hard Nintendo fan n it\nJust pisses me off how they\u2019ve become what they are",
+      "score": -4,
+      "created_utc": 1747274974.0,
+      "replies": [
+        {
+          "id": "msdyupn",
+          "author": "firedrakes",
+          "body": "Gamers. 1 source research.",
+          "score": 2,
+          "created_utc": 1747278412.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mseiiqm",
+      "author": "PowZangetsu",
+      "body": "Man the point is f**k nintendo and their handheld console.  I wish they would just focus on a good console with limitations.  Focusing on the whole handheld stuff just limits the amount of space you have for internals.  They could've done waay better god knows they have the money since they out sale other consoles buut nooo they want more profits just to ship out a better upgrade than the first Switch.  They could be going toe for toe with the other consoles and yeah I get it most of their games aren't that good on the graphical side but still if they have better power than maybe they would also get more games on nintendo.  Damn greedy bastards lol",
+      "score": -4,
+      "created_utc": 1747287389.0,
+      "replies": [
+        {
+          "id": "msf0kse",
+          "author": "baddazoner",
+          "body": "that would be a monumentally stupid business decision. Portables are where nintendo has always had huge success and the limitations really don't matter to majority of people that buy them.",
+          "score": 1,
+          "created_utc": 1747298197.0,
+          "replies": []
+        },
+        {
+          "id": "msfjkx1",
+          "author": "gman5852",
+          "body": "The strongest console historically never sells the best. It's convenience and ease of use that wins markets. It's why the PS2 won with its built in DVD player. It's why the Wii won with its easy to use control scheme for casual markets. It's why the switch won with easy to use handheld and console play. It's why piracy can't actually kill the retro gaming market because buying a subscription or a $10 steam release is more convenient than setting up the emulators yourself and why iTunes saved the music industry from piracy.\n\nLearn the market before angry posting. What you just described is objectively a sure fire way for Nintendo to lose money. Why appease angry redditors when you're showing that they're this incapable of actually learning about the topics they pretend to care about?",
+          "score": 1,
+          "created_utc": 1747308681.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msca6vl",
+      "author": "MechCADdie",
+      "body": "They may as well have just called it the Switch U, I guess.",
+      "score": -4,
+      "created_utc": 1747257508.0,
+      "replies": [
+        {
+          "id": "mscge63",
+          "author": "gamwizrd1",
+          "body": "Wii U came with a really cool new peripheral compared to Wii, that actually improved gameplay when developers were creative enough to use it well.\n\nSwitch 2 comes with... chat button? (and ofc better processor)",
+          "score": -3,
+          "created_utc": 1747259419.0,
+          "replies": [
+            {
+              "id": "msfnpyv",
+              "author": "For_The_Emperor923",
+              "body": "Haters gonna hate. Switch 2 is going to be a flop. The camera certainly will be.\nRecord me anytime you want in your EULA so you can brick my console?\nThe f would i buy it then?",
+              "score": 1,
+              "created_utc": 1747310435.0,
+              "replies": [
+                {
+                  "id": "msheynj",
+                  "author": "gamwizrd1",
+                  "body": "Lol, I'm excited for the Switch 2 and will certainly purchase one at some point. I just didn't think the comparison to the Wii U was very accurate.",
+                  "score": 1,
+                  "created_utc": 1747330294.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mscn7cf",
+              "author": "shaunrundmc",
+              "body": "To he fair ti the Wii U, they put no games on i5 and did not advertise it. I was actually interested in the Wii U but they had no games",
+              "score": 1,
+              "created_utc": 1747261657.0,
+              "replies": []
+            },
+            {
+              "id": "mscjc4i",
+              "author": "MechCADdie",
+              "body": "The joke was that the Wii U crashed out hard and was generally considered a disaster...a Windows Vista generation equivalent, if you will",
+              "score": 0,
+              "created_utc": 1747260366.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msc6mu4",
+      "author": "kungfungus",
+      "body": "I have switch oled, pretty much just for Zelda games (ps5 for the rest). \nI still see no reason what so ever to buy switch 2. No new games, not enough changes for me to upgrade Switch 2 gone back to LCD-screen on top of that. The assholes are waiting to release OLED model again, moaaar money is moooar. Underwhelming. \n\nI don't get why they didn't synch totk and switch 2. Botw  got me to buy Switch in the first place.\n\nLet's see if they'll port a shit ton of games. \n\nAnd anywho, Deck is much better investment. Got one early on to my son.\n\nI'm waiting now for a new deck and to check out other portable that are popping up. \n\nLove the handheld consoles, it bring me joy to sit and play wherever, like a kid again.",
+      "score": -8,
+      "created_utc": 1747256435.0,
+      "replies": [
+        {
+          "id": "mscssmz",
+          "author": "SilverPace6006",
+          "body": "Is the new Mario Kart on the switch? It\u2019ll be a game most players put hundreds of hours into.",
+          "score": 0,
+          "created_utc": 1747263555.0,
+          "replies": [
+            {
+              "id": "msczaox",
+              "author": "kungfungus",
+              "body": "Yup, it is! It's still not worth it for me. It's just my own feeling, people are very happy about mk \n, that's nice :)",
+              "score": 1,
+              "created_utc": 1747265797.0,
+              "replies": [
+                {
+                  "id": "msd51wr",
+                  "author": "SilverPace6006",
+                  "body": "So, the new Mario kart will be on Switch 1?",
+                  "score": 1,
+                  "created_utc": 1747267773.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msdcsbp",
+      "author": "dr4wn_away",
+      "body": "Surprise, Nintendo fucked up their online features.",
+      "score": -1,
+      "created_utc": 1747270459.0,
+      "replies": []
+    },
+    {
+      "id": "msdksh4",
+      "author": "Greyboxer",
+      "body": "Looking forward to buying one of these on marketplace for $200 in 2027",
+      "score": -1,
+      "created_utc": 1747273214.0,
+      "replies": []
+    },
+    {
+      "id": "msbxizt",
+      "author": "Cobthecobbler",
+      "body": "I forsee removal of the game chat feature in a later update.\n\nThere is zero demand for it. Discord exists",
+      "score": -13,
+      "created_utc": 1747253642.0,
+      "replies": [
+        {
+          "id": "msbyxl7",
+          "author": "error521",
+          "body": "I would like to hear my game audio while also chatting with my friends and I can't do that as-is without a janky splitter setup",
+          "score": 3,
+          "created_utc": 1747254052.0,
+          "replies": []
+        },
+        {
+          "id": "msbz331",
+          "author": "gman5852",
+          "body": "The demand would be children playing animal crossing with friends and family. Chances are if you're able to scroll a tech reddit, you aren't the target market.\n\nThis console was designed at least partially during COVID and Animal Crossing proved to be an extremely high selling game in part due to it being a relatively safe environment for kids to hang out with friends during lockdown. I assume Minecraft had a similar impact.",
+          "score": 3,
+          "created_utc": 1747254099.0,
+          "replies": []
+        },
+        {
+          "id": "msc27o7",
+          "author": "Ashencroix",
+          "body": "I doubt they would remove the vc feature on the Switch  2. What I can foresee them removing is the VC + Camera feature, since I doubt most would use that.",
+          "score": 0,
+          "created_utc": 1747255101.0,
+          "replies": [
+            {
+              "id": "mscbf64",
+              "author": "error521",
+              "body": "I don't think it'll be *removed* on an actual OS level, but I can forsee a situation where they let game developers disable it on a game-by-game basis for when they really need the extra grunt. The share button doesn't work on every Switch 1 game for this reason, including some first-party ones like Smash Ultimate.",
+              "score": 3,
+              "created_utc": 1747257882.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msbwg7f",
+      "author": "luckyguy25841",
+      "body": "A large performance dip in handle held? That doesn\u2019t sound good for my daily train ride plan of playing cyberpunk 2077 again.",
+      "score": -8,
+      "created_utc": 1747253331.0,
+      "replies": [
+        {
+          "id": "msc1ptp",
+          "author": "ScoobiesSnacks",
+          "body": "It\u2019ll be fine",
+          "score": 5,
+          "created_utc": 1747254938.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "msdlody",
+      "author": "Azrael-XIII",
+      "body": "How can Nintendo be *so good* at certain things and yet sooo bad/backwards on other stuff?  It takes them literal *years* to add something as basic as in-game chat\u2026 and then when they do, using it literally impacts game performance\u2026",
+      "score": -2,
+      "created_utc": 1747273518.0,
+      "replies": []
+    },
+    {
+      "id": "msbvh5l",
+      "author": "Frank_Likes_Pie",
+      "body": "Yet another underpowered gimmick from the world-renowned purveyors of gimmicky shit.\n\nLmao blasted into oblivion by fanboys. Accept it: Nintendo always has and always will be the weakest console by leagues, and the only way they maintain relevance is with gimmicky shit. See: literally every console and handheld they've released in the last two decades.",
+      "score": -22,
+      "created_utc": 1747253044.0,
+      "replies": [
+        {
+          "id": "msbvtka",
+          "author": "gman5852",
+          "body": "A chat service is a gimmick now?",
+          "score": 5,
+          "created_utc": 1747253146.0,
+          "replies": [
+            {
+              "id": "mscqj7o",
+              "author": "Frank_Likes_Pie",
+              "body": "No, the Switch, and by extension, the Switch 2 are both gimmicky and weak as fuck.",
+              "score": -1,
+              "created_utc": 1747262791.0,
+              "replies": []
+            },
+            {
+              "id": "msbzy3s",
+              "author": "8989898999988lady",
+              "body": "Fuckin right it is! Chat services exist already, and they don\u2019t draw from the Switch\u2019s resources. I also don\u2019t wanna plaster my mug on the videogames I\u2019m playing, it\u2019s a gimmick.",
+              "score": -7,
+              "created_utc": 1747254364.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

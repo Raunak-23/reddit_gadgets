@@ -1,0 +1,49 @@
+metric,value
+file,1malq7f.csv
+title,"SK hynix confirms 3GB GDDR7 modules, paving way for RTX 50 Super VRAM boost | New chips would allow for 18GB of VRAM on a 192-bit bus, or 24GB on a 256-bit bus"
+rows,54
+num_posts,1
+num_comments,53
+unique_authors,44
+max_depth,4
+avg_comment_words,47.42
+median_comment_words,39.0
+max_comment_words,176
+positive_count,3
+negative_count,50
+neutral_count,0
+positive_pct,5.66
+negative_pct,94.34
+neutral_pct,0.0
+topic_1_keywords,"time, dont, set, forget, waste, thats, card, engine"
+topic_1_label,"if you don't set a time, you'll forget thats"
+topic_2_keywords,"memory, made, management, actually, time, also, could, bit"
+topic_2_label,memory can be made by bit
+topic_3_keywords,"even, available, 24gb, would, else, bus, version, 5090"
+topic_3_label,A bus with a gb would be available in the 5090 version
+topic_4_keywords,"gpus, amd, huang, new, 8gb, cards, thats, cant"
+topic_4_label,"gpus, huang, new, 8gb, cards"
+topic_5_keywords,"9gb, get, cards, yay, next, ready, generations, 24gb"
+topic_5_label,YAY YAY YAY YAY YAY YAY YAY YAY YAY Y
+topic_6_keywords,"nvidia, even, cards, new, use, chips, used, dont"
+topic_6_label,nvidia chips are used in cards
+top_ngram_1,yay get (7)
+top_ngram_2,get ready (7)
+top_ngram_3,ready 9gb (7)
+top_ngram_4,9gb cards (7)
+top_ngram_5,cards next (7)
+top_ngram_6,next generations (7)
+top_ngram_7,yay get ready (7)
+top_ngram_8,get ready 9gb (7)
+top_ngram_9,ready 9gb cards (7)
+top_ngram_10,9gb cards next (7)
+ner_1,Huang|PER|9
+ner_2,AMD|ORG|7
+ner_3,Handler|PER|6
+ner_4,Intel|ORG|5
+ner_5,5090|MISC|4
+ner_6,##vidia|ORG|4
+ner_7,NVIDIA|ORG|4
+ner_8,Mac OS|MISC|3
+ner_9,N|MISC|3
+ner_10,Connectix|ORG|3

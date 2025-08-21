@@ -1,0 +1,49 @@
+metric,value
+file,1mdzmk6.csv
+title,Google Home Is So Bad That a Lawsuit Could Be on Its Way | Home is where the smart lights inexplicably stop working.
+rows,255
+num_posts,1
+num_comments,254
+unique_authors,197
+max_depth,8
+avg_comment_words,77.21
+median_comment_words,60.0
+max_comment_words,442
+positive_count,32
+negative_count,222
+neutral_count,0
+positive_pct,12.598
+negative_pct,87.402
+neutral_pct,0.0
+topic_1_keywords,"home, smart, local, works, company, server, love, like"
+topic_1_label,smart local company and server love home
+topic_2_keywords,"google, lights, home, time, still, every, use, im"
+topic_2_label,google lights home time
+topic_3_keywords,"voice, google, home, control, lights, assistant, im, use"
+topic_3_label,"Google Voice, Google Home, Control, Lights"
+topic_4_keywords,"home, google, devices, smart, etc, always, work, ive"
+topic_4_label,Google always works on home devices
+topic_5_keywords,"get, home, assistant, hardware, like, buy, need, nest"
+topic_5_label,i need help with a home
+topic_6_keywords,"lights, google, im, home, app, get, half, power"
+topic_6_label,Google 's home app gets half power
+top_ngram_1,home assistant (129)
+top_ngram_2,google home (77)
+top_ngram_3,smart home (39)
+top_ngram_4,always tout (27)
+top_ngram_5,tout home (27)
+top_ngram_6,assistant god (27)
+top_ngram_7,god damn (27)
+top_ngram_8,damn theyre (27)
+top_ngram_9,theyre fucking (27)
+top_ngram_10,fucking bad (27)
+ner_1,Google|ORG|95
+ner_2,Home Assistant|MISC|46
+ner_3,Assistant|MISC|27
+ner_4,Amazon|ORG|27
+ner_5,Home|ORG|26
+ner_6,Google Home|ORG|23
+ner_7,Alex|ORG|22
+ner_8,Home Assistant|ORG|20
+ner_9,##a|MISC|17
+ner_10,Nest|ORG|16

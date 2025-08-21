@@ -1,0 +1,49 @@
+metric,value
+file,1ljmsf2.csv
+title,"The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen"
+rows,115
+num_posts,1
+num_comments,114
+unique_authors,92
+max_depth,6
+avg_comment_words,44.43
+median_comment_words,32.0
+max_comment_words,186
+positive_count,31
+negative_count,83
+neutral_count,0
+positive_pct,27.193
+negative_pct,72.807
+neutral_pct,0.0
+topic_1_keywords,"really, like, want, webos, palm, keyboard, doesnt, whats"
+topic_1_label,"like webos, palm, keyboard"
+topic_2_keywords,"time, phone, blackberry, passport, good, article, love, something"
+topic_2_label,i love the blackberry
+topic_3_keywords,"one, ill, need, us, would, buy, damn, keyboards"
+topic_3_label,ill need keyboards
+topic_4_keywords,"blackberry, phones, thing, people, let, new, camera, afford"
+topic_4_label,blackberry gives people a new camera
+topic_5_keywords,"phone, titan, cool, blackberry, one, use, physical, work"
+topic_5_label,Blackberry is a phone that uses a titanium core.
+topic_6_keywords,"like, keyboard, phone, also, still, could, physical, great"
+topic_6_label,i like the keyboard and phone
+top_ngram_1,let people (11)
+top_ngram_2,people like (11)
+top_ngram_3,like things (11)
+top_ngram_4,things phones (11)
+top_ngram_5,phones constantly (11)
+top_ngram_6,constantly evolving (11)
+top_ngram_7,evolving new (11)
+top_ngram_8,new features (11)
+top_ngram_9,features getting (11)
+top_ngram_10,getting invented (11)
+ner_1,LG|ORG|13
+ner_2,BlackBerry|MISC|12
+ner_3,Samsung|ORG|11
+ner_4,Android|MISC|9
+ner_5,Blackberry|ORG|8
+ner_6,Palm|ORG|6
+ner_7,iPhone|MISC|6
+ner_8,US|LOC|5
+ner_9,WebOS|MISC|5
+ner_10,Apple|ORG|4

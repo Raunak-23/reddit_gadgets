@@ -1,0 +1,49 @@
+metric,value
+file,1ilcsvr.csv
+title,"Braille for sports: Haptic handheld broadcasts games to your fingertips | Catches, kicks, throws, passes, goals, touchdowns and home runs will all be buzzed to the user through different vibration patterns."
+rows,41
+num_posts,1
+num_comments,40
+unique_authors,26
+max_depth,8
+avg_comment_words,52.38
+median_comment_words,33.0
+max_comment_words,205
+positive_count,7
+negative_count,33
+neutral_count,0
+positive_pct,17.5
+negative_pct,82.5
+neutral_pct,0.0
+topic_1_keywords,"take, person, isnt, rather, day, sounds, theyre, thats"
+topic_1_label,a person takes a look at a person in a day
+topic_2_keywords,"one, device, like, groceries, theres, streaker, game, produce"
+topic_2_label,game of a game
+topic_3_keywords,"people, dont, taking, blind, space, saying, radio, would"
+topic_3_label,if people don 't take a radio they would be blind
+topic_4_keywords,"blind, aid, cool, like, want, video, excited, folks"
+topic_4_label,blind aids like video
+topic_5_keywords,"fast, blind, pretty, use, video, could, man, accessibility"
+topic_5_label,video could be used to help blind people
+topic_6_keywords,"dont, im, isolated, like, whats, happening, feel, blind"
+topic_6_label,i feel like im isolated
+top_ngram_1,taking space (8)
+top_ngram_2,stay home (7)
+top_ngram_3,disabled people (6)
+top_ngram_4,whats happening (5)
+top_ngram_5,dont see (5)
+top_ngram_6,see better (5)
+top_ngram_7,dont see better (5)
+top_ngram_8,ive got (5)
+top_ngram_9,people say (5)
+top_ngram_10,take granted (5)
+ner_1,Deborah|PER|4
+ner_2,Anthony S Ferraro|PER|2
+ner_3,Portland|LOC|2
+ner_4,Anthony|PER|1
+ner_5,DEIA|ORG|1
+ner_6,Blind Soccer|MISC|1
+ner_7,Lone Gunmen Xfiles|MISC|1
+ner_8,National Science Foundation|ORG|1
+ner_9,Paralympics|MISC|1
+ner_10,Paris|LOC|1

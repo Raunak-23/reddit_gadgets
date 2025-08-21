@@ -1,0 +1,49 @@
+metric,value
+file,1m2ckih.csv
+title,"Nintendo can disable your Switch 2 for piracy in the U.S., but not in Europe, as confirmed by its EULA"
+rows,489
+num_posts,1
+num_comments,488
+unique_authors,298
+max_depth,21
+avg_comment_words,76.3
+median_comment_words,49.0
+max_comment_words,659
+positive_count,65
+negative_count,295
+neutral_count,128
+positive_pct,13.32
+negative_pct,60.451
+neutral_pct,26.23
+topic_1_keywords,"freedom, eu, europe, us, vs, one, headset, years"
+topic_1_label,vs. one of the eu's most popular headsets
+topic_2_keywords,"free, people, land, dont, politicians, controller, nintendo, get"
+topic_2_label,nintendo gets free people
+topic_3_keywords,"games, nintendo, switch, guy, online, still, big, game"
+topic_3_label,"nintendo, nintendo, switch, guy"
+topic_4_keywords,"nintendo, games, legal, like, dont, shit, good, others"
+topic_4_label,nintendo games like don 't like
+topic_5_keywords,"nintendo, dont, xbox, people, game, us, switch, thing"
+topic_5_label,Nintendo Switches the game of nintendo
+topic_6_keywords,"copy, usa, physical, piracy, games, something, youre, play"
+topic_6_label,piracy piracy games
+top_ngram_1,big guy (38)
+top_ngram_2,land free (34)
+top_ngram_3,usa usa (29)
+top_ngram_4,nintendo thing (28)
+top_ngram_5,usa usa usa (27)
+top_ngram_6,anticonsumer practices (27)
+top_ngram_7,physical games (26)
+top_ngram_8,dont get (22)
+top_ngram_9,consumer rights (21)
+top_ngram_10,ive heard (21)
+ner_1,Nintendo|ORG|275
+ner_2,EU|ORG|74
+ner_3,US|LOC|64
+ner_4,Switch|MISC|55
+ner_5,Sony|ORG|44
+ner_6,Europe|LOC|39
+ner_7,EULA|MISC|32
+ner_8,Microsoft|ORG|25
+ner_9,Xbox|ORG|22
+ner_10,Xbox|MISC|22

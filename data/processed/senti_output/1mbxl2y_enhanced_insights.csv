@@ -1,0 +1,49 @@
+metric,value
+file,1mbxl2y.csv
+title,The New PlayStation 5 Fight Stick Is Way Weirder Than It Looks | There's just one really annoying dongle you need to worry about.
+rows,45
+num_posts,1
+num_comments,44
+unique_authors,32
+max_depth,4
+avg_comment_words,59.09
+median_comment_words,48.5
+max_comment_words,225
+positive_count,7
+negative_count,37
+neutral_count,0
+positive_pct,15.909
+negative_pct,84.091
+neutral_pct,0.0
+topic_1_keywords,"joystick, button, could, dongle, usb, restrictor, stick, 24g"
+topic_1_label,A button on a joystick can be used to restrictors
+topic_2_keywords,"bullshit, word, front, usbc, adinfested, new, read, bluetooth"
+topic_2_label,bullshit word in front of usbc
+topic_3_keywords,"things, theres, spectrum, frequencies, many, 24, shit, 60"
+topic_3_label,shit shit shit
+topic_4_keywords,"frequency, home, todays, frequencies, theres, highly, regulated, reasons"
+topic_4_label,frequency of home and home
+topic_5_keywords,"good, many, like, one, writer, proper, journalist, start"
+topic_5_label,writer and journalist start a good start
+topic_6_keywords,"recipe, gaming, articles, reached, food, style, industry, games"
+topic_6_label,recipes for games in the entertainment industry
+top_ngram_1,todays home (8)
+top_ngram_2,tldr new (6)
+top_ngram_3,new pslink (6)
+top_ngram_4,pslink dongle (6)
+top_ngram_5,dongle usbc (6)
+top_ngram_6,usbc models (6)
+top_ngram_7,models front (6)
+top_ngram_8,front ports (6)
+top_ngram_9,ports supposed (6)
+top_ngram_10,supposed less (6)
+ner_1,Bluetooth|MISC|6
+ner_2,PSLink|ORG|6
+ner_3,GawkerKotaku|ORG|3
+ner_4,Bloomberg|ORG|3
+ner_5,Street Fighter 6|MISC|2
+ner_6,PS5|MISC|2
+ner_7,PS1|MISC|2
+ner_8,Washington Post|ORG|2
+ner_9,Atari|ORG|2
+ner_10,##mes|ORG|1

@@ -1,0 +1,1581 @@
+{
+  "post": {
+    "title": "Humane is shutting down the AI Pin and selling its remnants to HP",
+    "author": "a_Ninja_b0y",
+    "id": "1isqufv",
+    "score": 1593,
+    "created_utc": 1739921889.0,
+    "selftext": "",
+    "num_comments": 190,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1isqufv/humane_is_shutting_down_the_ai_pin_and_selling/"
+  },
+  "comments": [
+    {
+      "id": "mdiul3l",
+      "author": "fraseyboo",
+      "body": "$116 million, down from the $750 million - $1 billion they originally tried to sell for. Offline functionality will still work but the cloud-based functionality is unlikely to be supported, if you\u2019re in the 90-day return window then you can get a refund, though I can\u2019t imagine many people are buying these things after they were universally panned.",
+      "score": 590,
+      "created_utc": 1739922496.0,
+      "replies": [
+        {
+          "id": "mdj3bpn",
+          "author": "Strawberry3141592",
+          "body": "Honestly I have no idea how they got $116M for it. The entire product was a horrible idea from the start, I have difficulty seeing where HP thinks they're going to make any profit from this.",
+          "score": 332,
+          "created_utc": 1739925287.0,
+          "replies": [
+            {
+              "id": "mdj7j1m",
+              "author": "fraseyboo",
+              "body": "The acquisition comes with 300 patents supposedly so maybe HP is banking on some of them being viable.\n\nIt\u2019s obvious that the tech needs way longer to cook but as AI models get cheaper to run there might be some iteration that\u2019s commercially sound.",
+              "score": 220,
+              "created_utc": 1739926626.0,
+              "replies": [
+                {
+                  "id": "mdk7o5f",
+                  "author": "Corporate-Shill406",
+                  "body": "How the heck did they manage to get 300 patents by installing a bad chatgpt knockoff on an Android phone",
+                  "score": 158,
+                  "created_utc": 1739939247.0,
+                  "replies": [
+                    {
+                      "id": "mdkc52j",
+                      "author": "dreamphoenix",
+                      "body": "Probably the exact words on the patent number one",
+                      "score": 92,
+                      "created_utc": 1739941119.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "mdkdrok",
+                      "author": "80sCrack",
+                      "body": "The patent office is [fraught with abuse](https://youtu.be/c4NIFzG8NcU?si=WzkC6qAKxjgBly_v). You can get a patent for anything.",
+                      "score": 62,
+                      "created_utc": 1739941834.0,
+                      "replies": [
+                        {
+                          "id": "mdkghaf",
+                          "author": "Greensentry",
+                          "body": "Yeah, a patent only proves its strength when challenged in court.",
+                          "score": 22,
+                          "created_utc": 1739943061.0,
+                          "replies": [
+                            {
+                              "id": "mdkhk7j",
+                              "author": "80sCrack",
+                              "body": "But this in itself is exactly what patent trolls use to extort people. \u201cOh this patent isn\u2019t legitimate? Just spend 500k-1M to prove it isn\u2019t.\u201d",
+                              "score": 24,
+                              "created_utc": 1739943568.0,
+                              "replies": [
+                                {
+                                  "id": "mdmmrq9",
+                                  "author": "npquest",
+                                  "body": "That's a lie, the Ex Parte reexamination fee for a micro entity is like $1200.\n\nhttps://www.uspto.gov/web/offices/pac/mpep/s2209.html\n\nhttps://www.uspto.gov/web/offices/pac/mpep/mpep-9020-appx-r.html#d0e316217",
+                                  "score": 10,
+                                  "created_utc": 1739979273.0,
+                                  "replies": [
+                                    {
+                                      "id": "mdoqsbt",
+                                      "author": "80sCrack",
+                                      "body": "Just did some research on this, it seems to me that ex parte reexamination is only really relevant when you\u2019re claiming that you had worked on a patent prior to a different party beating you to the filing. Meaning you\u2019re having a dispute regarding who owns the patent. \n\nThis is not the same as when some obscure patent is claiming you\u2019ve got some obscure patent claiming you\u2019re infringing on their patent, not a disagreement on who the right owner of the patent is. \n\nI could be wrong, I\u2019m not super informed on patent law, but this is my interpretation of the reading I\u2019ve done this afternoon.",
+                                      "score": 5,
+                                      "created_utc": 1739999749.0,
+                                      "replies": [
+                                        {
+                                          "id": "mdow6se",
+                                          "author": "npquest",
+                                          "body": "\"Some of the persons likely to use reexamination under 35 U.S.C. 302 are patentees, licensees, potential licensees, attorneys without identification of their real client in interest, infringers, potential exporters, patent litigants, interference applicants, and International Trade Commission respondents.\" \n\nhttps://www.uspto.gov/web/offices/pac/mpep/s2212.html#:~:text=302%20and%2037%20CFR%201.510,seek%20reexamination%20under%2035%20U.S.C.\n\nBut really almous anyone:\n\n>35 U.S.C. 302 and 37 CFR 1.510(a) both indicate that \u201cany person\u201d may file a request for ex parte reexamination of a patent, unless prohibited by AIA 35 U.S.C. 315(e)(1) or 35 U.S.C. 325(e)(1). Accordingly, there are no types of \u201cpersons\u201d who are excluded from being able to seek reexamination under 35 U.S.C. 302. Corporations and/or governmental entities are included within the scope of the term \u201cany person.\u201d The only \u201cperson\u201d who is barred from filing a request for ex parte reexamination of a patent under 35 U.S.C. 302 is one who is barred from doing so by the estoppel provisions of AIA 35 U.S.C. 315(e)(1) or 35 U.S.C. 325(e)(1) based on inter partes review and post grant review, respectively, once the estoppel attaches. The patent owner can ask for reexamination which will be limited to an ex parte consideration of prior art patents or printed publications. If the patent owner wishes to have a wider consideration of issues by the Office, including matters such as prior public use or on sale, the patent owner may file a reissue application (see, e.g., MPEP \u00a7 1401 - \u00a7 1403), or, where appropriate, a supplemental examination proceeding (see, e.g., MPEP \u00a7 2801 \u2013 \u00a7 2803). It is also possible for the Director of the Office to initiate reexamination on the Director\u2019s own initiative under 37 CFR 1.520. Some of the persons likely to use reexamination under 35 U.S.C. 302 are patentees, licensees, potential licensees, attorneys without identification of their real client in interest, infringers, potential exporters, patent litigants, interference applicants, and International Trade Commission respondents. The name of the person who files the request will not be maintained in confidence",
+                                          "score": 2,
+                                          "created_utc": 1740001185.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mdmhywg",
+                          "author": "jmegaru",
+                          "body": "I bet there is a patent in there for the exact position the ai pin should be placed on your clothes\u00a0",
+                          "score": 3,
+                          "created_utc": 1739977875.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "met1y25",
+                          "author": "CaptRon25",
+                          "body": "The patent office is also filled full of college student level attorneys looking for a secure government job and pension",
+                          "score": 1,
+                          "created_utc": 1740532257.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mdldkxa",
+                  "author": "vincentofearth",
+                  "body": "I think they also raised $240 million so assuming they didn\u2019t burn through all of that they probably still have cash in the bank",
+                  "score": 10,
+                  "created_utc": 1739961728.0,
+                  "replies": [
+                    {
+                      "id": "mdqfvwd",
+                      "author": "PaisonAlGaib",
+                      "body": "I'm sure that money is long gone.\u00a0",
+                      "score": 5,
+                      "created_utc": 1740018510.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "mdlla5x",
+                  "author": "alidan",
+                  "body": "the tech doesn't need longer to cook, it needs societal change.\n\nanything ai based that is not in a form or smartwatch form factor is going to near require ar glasses to be worth a damn, what we need is ar glasses to be a thing and acceptable to wear in public (see every single time someone thinks they are being recorded freakouts as what needs to change) \n\nfrom here we need either wireless connectivity to the glasses for displaying the info or any kind of wire needs to be no thicker than an iems cable. \n\nthis solves 2 of the major problems, the display method being crap along with a better use interface, once those are solved the software will be far more useful. but I honestly dont think ai will take off in a major way till we get at home ai servers, so much of ai is cool and all but the moment it costs significant money per query or bricks 500+$ under a year old purchases because the server goes away, gg on selling it to people.",
+                  "score": 1,
+                  "created_utc": 1739965874.0,
+                  "replies": [
+                    {
+                      "id": "mdm6fv3",
+                      "author": "bedj2",
+                      "body": "I like my privacy. People voluntarily surveilling each other with AR glasses sounds dystopian AF. \n\nAlso I don\u2019t need another screen in my life.",
+                      "score": 17,
+                      "created_utc": 1739974191.0,
+                      "replies": [
+                        {
+                          "id": "mdn8bs9",
+                          "author": "witzerdog",
+                          "body": "And trying to have a conversation with someone and realizing they're watching a cat video playing over your face",
+                          "score": 5,
+                          "created_utc": 1739985193.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mdp6pfg",
+                          "author": "alidan",
+                          "body": "the moment you are ever falsely accused of anything and have to prove innocents really kills any \"I want privacy in public\" notions. \n\nwhen you are anywhere in public, you have 0 privacy",
+                          "score": -2,
+                          "created_utc": 1740004091.0,
+                          "replies": [
+                            {
+                              "id": "mdqg76j",
+                              "author": "birds-0f-gay",
+                              "body": ">the moment you are ever falsely accused of anything and have to prove innocents\n\nThis makes no sense. You don't have to prove your innocence when you're accused of something, the state has to prove your guilt. \n\n>when you are anywhere in public, you have 0 privacy\n\nBy privacy I think they meant the ability to go outside and not have everyone you interact with record said interaction, which would be miserable.",
+                              "score": 1,
+                              "created_utc": 1740018621.0,
+                              "replies": [
+                                {
+                                  "id": "mds9kvi",
+                                  "author": "alidan",
+                                  "body": "yea, people don't give one fuck about that, get accused of touching someone when you did nothing, its your word against theirs, legally you are clear, but nothing you ever say will make people believe you didn't do it, just that the system is broken because it didn't find you guilty. \n\nIt also doesnt help that being in the wrong place at the wrong time can make you look guilty, look at how often someone who was innocent is found on death row. \n\nhell, one of the east cost states had a prossicuter out right say \"in cases of an accusation against a child, 95% of the time we have no evidence that anything happened besides the accusation and we still get conviction\" \n\ninnocent till proven guilty is an ideal that no one really wants to uphold anymore.",
+                                  "score": -2,
+                                  "created_utc": 1740050549.0,
+                                  "replies": [
+                                    {
+                                      "id": "mdt330t",
+                                      "author": "Luis__FIGO",
+                                      "body": "If you're going to quote someone, you need to put where the quote comes from.   When you search the quote online the only thing you get is an explanation as to why that 95% number is flat out wrong.  \n\nEdit: and downvoting is only proving my point futher",
+                                      "score": 1,
+                                      "created_utc": 1740062280.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mdmma13",
+                      "author": "dsfhfgjhfyhrd",
+                      "body": "There is no reason why personal ai software should run on anything else than your phone. If you want to interact with it through some other device, that device should act as an interface connected to your phone. \n\nThe problem with this is that it makes the ai into just another app. And no one is willing to pay $599 plus a $29/month subscription for an app. That's why you get gadgets like the humane pin and the rabbit r1. It's a way to charge way more for an app by disguising it as a gadget.",
+                      "score": 4,
+                      "created_utc": 1739979130.0,
+                      "replies": [
+                        {
+                          "id": "mdp7efr",
+                          "author": "alidan",
+                          "body": "im willing to have ai be part of a smart watch, mostly because to me it seems people are far more willing to ignore someone being awkward with a smart watch than with a phone.\n\nI also think glasses are necessary because at least to me, anything I would want ai to do would be game changing with with ar.",
+                          "score": 1,
+                          "created_utc": 1740004290.0,
+                          "replies": [
+                            {
+                              "id": "mdrhz9x",
+                              "author": "dsfhfgjhfyhrd",
+                              "body": "Sure, but that watch and those glasses will be accessories for your phone. An extra interface using an ai app running on the phone. They won't be a standalone ai watch or standalone ai glasses. \n\nThat's the issue with the ai gadgets we see today. They are underpowered standalone devices, because that's the only way they can charge stupid amounts of money for what should just be an app on your phone.",
+                              "score": 1,
+                              "created_utc": 1740034323.0,
+                              "replies": [
+                                {
+                                  "id": "mdsa9dh",
+                                  "author": "alidan",
+                                  "body": "I honestly don't think a phone is powerful enough to ai otherwise we would have had local ai models on phones, I personally think a phone is a good intermediary between lite devices, ar glasses or smart watch, to extend functionality, or act as a bridge, watch -> phone -> internet -> (ideally) a personal ai server at home. \n\nhere, take for instance a language model for speech to text, a personalized model will take about 2gb of ram to run, a general model takes about 6gb of ram to run, I just tested my tablet, if I turn off internet I cant dictate to it. there is simply not enough resources on a phone to run them locally, however connecting to a server you can offload alot of the resources to somewhere else.",
+                                  "score": 1,
+                                  "created_utc": 1740050915.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mdmrhen",
+                      "author": "parisidiot",
+                      "body": "AI is worthless garbage that will never provide useful information, and it will only degrade over time as AI generated slop is fed into the learning data sets. it doesn't matter if it is delivered in a pin or a phone or AR glasses. it sucks. it not only doesn't work the way these theranos-level companies pretend it does, it is also built on stolen data, and it requires so much energy to run that it is blowing past our carbon pollution goals that we need to meet to not die.\n\nso it sucks, and it is killing us. come back to reality.",
+                      "score": 4,
+                      "created_utc": 1739980600.0,
+                      "replies": [
+                        {
+                          "id": "mdp9d0m",
+                          "author": "alidan",
+                          "body": "ai already is able to simulate putting chemicals together faster than we ever could test, and find improvements in chemical engineering. \n\nnow I can google very specific info for a video game, and take 10-20 minutes trying to parse forums and reddit to get an answer, or I can ask ai is there anything in casic theul or ssra temple is charmable and ai will give me an answer, which is usually correct fast enough that im not pissing my groups time away. \n\nlook into grammar of different languages, while current translation algorithms are fine, especially when everything is standard and grammatically perfect, but how often is that the case? toss ai at it and you will get a better translation that needs far less human interaction to smooth the weirdness, and ideally even incorrect grammar or spellings could be parsed. \n\nas for ai only getting worse, you curate the data set, and have an algoritmen to weed out already ai generated crap. \n\ngiven ai is fed mri and xrays and it picks up things humans just don't perceive and does it faster, i'm going with it doesnt suck, actively helps us, but is going to make so many people unemployable. \n\npandora's box is open, it will never close, and realistically because everyone is racing to make something good, we don't have the enshitification aspect of it yet.",
+                          "score": 2,
+                          "created_utc": 1740004854.0,
+                          "replies": [
+                            {
+                              "id": "mdt1i9q",
+                              "author": "parisidiot",
+                              "body": "you're very stupid, you don't understand how generative AI actually works, and you're buying into propaganda. congrats! it doesn't do any analysis. it is basically a complicated markov chain, it just spits out what is likely. these things can't even do simple multiplication, there is no thinking, no analysis, no understanding.",
+                              "score": 0,
+                              "created_utc": 1740061773.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mdnbejw",
+                          "author": "someotherbob",
+                          "body": "LLMs are garbage, but there are many good use cases for custom, local, low power inferencing on Wintel devices",
+                          "score": 1,
+                          "created_utc": 1739986018.0,
+                          "replies": [
+                            {
+                              "id": "mdp0y6j",
+                              "author": "parisidiot",
+                              "body": "and those aren't generative AI you can ask you answer questions for you, like the comment I was responding to suggested.",
+                              "score": 1,
+                              "created_utc": 1740002475.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mdj7bkc",
+              "author": "TheFlukeBadger",
+              "body": "The interface being a projection onto the hand was conceptually interesting, quite a few reviewers remarked on how it wasn\u2019t consumer ready but promising in that regard. \n\nHP might just be buying it for patents and whatever research they had going on behind the scenes, not the half-baked product they rushed to launch to appease investors.",
+              "score": 38,
+              "created_utc": 1739926560.0,
+              "replies": [
+                {
+                  "id": "mdldox1",
+                  "author": "vincentofearth",
+                  "body": "Yeah, and HP does have a projector business so maybe they think the patents will be useful there",
+                  "score": 7,
+                  "created_utc": 1739961792.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mdk8r5y",
+              "author": "DrinkComfortable1692",
+              "body": "The juicero of LLM nobody wanted",
+              "score": 21,
+              "created_utc": 1739939688.0,
+              "replies": [
+                {
+                  "id": "mdkg3c7",
+                  "author": "AtOurGates",
+                  "body": "It\u2019s unfair that Juicero gets all the ridicule when the Keurig Kold existed.  \n\nIt was a nearly $400 dispenser that slowly oozed out soda from concentrated capsules, that cost more than buying it in cans at the store, tasted worse, and could only produce one 8oz soda every 90 seconds.  \n\nAmazingly, Keurig spent $100-million developing the thing because no-one at the company ever took their head out of their asses for a second to say, \u201cwait, whut?\u201d",
+                  "score": 25,
+                  "created_utc": 1739942882.0,
+                  "replies": [
+                    {
+                      "id": "mdlwmt0",
+                      "author": "heinzbumbeans",
+                      "body": "yeah, but at least you had capsules and needed the machine to make the drink so the machine was neccesary if you for some reason wanted to use the capsules. and i can *kinda* see the reasoning behind possibly wanting capsuals - they take up less space and are lighter so you can carry more from the store.  the Jucero was completley pointless, you could squeeze the juice packs for it yourself and get as much juice out of them as the machine.",
+                      "score": 4,
+                      "created_utc": 1739970718.0,
+                      "replies": [
+                        {
+                          "id": "mdmrojp",
+                          "author": "parisidiot",
+                          "body": "i think their tests found you could get more juice, actually.\n\nand the processing of the fruit made them lose money lol",
+                          "score": 4,
+                          "created_utc": 1739980655.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mdl6an4",
+              "author": "phire",
+              "body": "HP's [press release](https://www.hp.com/us-en/newsroom/press-releases/2025/hp-accelerates-ai-software-investments-to-transform-the-future-of-work.html) makes it super clear this is (mostly) an acquihire. HP are getting a functional team with quite a bit of experience in the \"AI for consumers\" space. They don't want the product. \n\nThe product concept was shit, but the team did manage to delver it; And delivering is actually worth something. Probably not $116M, but something... I suspect all the AI hype has just created a lot of competition for AI team acquihires.",
+              "score": 7,
+              "created_utc": 1739957403.0,
+              "replies": [
+                {
+                  "id": "mdlxffy",
+                  "author": "heinzbumbeans",
+                  "body": "I thought the concept was fine but they didnt deliver it. I would pay good money for a badge i could tap and tell it to do stuff with my devices and ask questions and make calls and stuff - it would basically be a star trek com badge. but that wasnt what was delivered at all.",
+                  "score": 3,
+                  "created_utc": 1739971015.0,
+                  "replies": [
+                    {
+                      "id": "mdpp7er",
+                      "author": "phire",
+                      "body": "It's not that the concept is inherently bad, it's more that the concept can't really be delivered with today's technology. \n\nBattery life is a big issue. Humane's AI Pin was already too big and bulky for some situations, yet you can only fit a really small battery in there. Maybe you could do an alternative form-factor with a badge that only contains a camera, speaker and microphones, connecting wirelessly with a larger pocket sized device... Ideally that device would be your smartphone.\n\nThe second issue that today's LLMs just aren't good enough to implement this kind of user experience. The latency between the device and server is frustrating, they can't really get enough context about what you are currently doing to provide good answers, and they have problems remembering things because things fall out of the current context.  \n\nThere is also the issue that voice based interaction just isn't suitable for everything. Sometimes information is too sensitive for others to overhear, or you don't want to disrupt others. There needs to be an alternative method of interaction. Humane went for their laser projector, but that was painful to use.",
+                      "score": 1,
+                      "created_utc": 1740009733.0,
+                      "replies": [
+                        {
+                          "id": "mdr0aor",
+                          "author": "heinzbumbeans",
+                          "body": "Yeah, I agree with everything youve said. What i dont understand though is why no company has made a scaled down version that does work. I currently use my voice via google home to contol my lights and heating and it works quite well. you get smart speakers that work with google home too so why has no one made a badge that connects to you phone (that you can wear around the house) and tap and it activates google home to control these things with your voice without having to pull out your phone? the tech is all there, and i could live with a little latency for these tasks. I suspect google doesnt allow such a device to use its services because they want you using their device to do that instead, but i dunno.",
+                          "score": 1,
+                          "created_utc": 1740026024.0,
+                          "replies": [
+                            {
+                              "id": "mdr6oeo",
+                              "author": "phire",
+                              "body": "They do actually make that product, except it's a watch, not a badge (Fitbit, \nPixel watch, or Samsung watch)\n\nThe watch form factor has many advantages over a badge.  \nYou can wear a watch even when naked, and don't need to worry about transferring it to new outfits. There is enough space for a screen to show text/images and scroll through lists. It's firmly attached to your wrist, you can get away with a bit more weight than something flapping around on your shirt. Since it has direct contact to skin, it can monitor biometrics such as heart rate. Watches are already normalised in society, so people don't really notice smartwatches.\n\nI guess there is nothing stopping you mounting a smart watch as a badge. \n\nIMO, the only advantage the badge form factor has over a watch form factor is that you can put a camera on it, and that camera will see roughly what you can see.   \n\nThough the general public seems to get really weirded out by people wearing cameras, it's continually killed any attempt at the smart glasses form factor.  I suspect humane went with the badge form factor as an attempted end-run around this general distrust, as people are much less likely to notice something chest mounted.\n\nFor your smart home usecase, there is also the option of buying several smart speakers and distributing them around the house. They are reasonably cheap, and have decent range for picking up your voice, and are designed for this usecase.",
+                              "score": 1,
+                              "created_utc": 1740028736.0,
+                              "replies": [
+                                {
+                                  "id": "mduw8fi",
+                                  "author": "heinzbumbeans",
+                                  "body": "yes, smart speakers can do that, but the thought of something constantly listening is unsettling to me, even though i suspect our phones are already doing that. wiretaps are so against the funemental human need for privacy that they traditionally need a court ordered warrent in order to install one, but people now volunteer to have them in their homes. I would like a device that only listens when i ask it to.",
+                                  "score": 1,
+                                  "created_utc": 1740080453.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "mdmrwle",
+                  "author": "parisidiot",
+                  "body": ">  quite a bit of experience in the \"AI for consumers\" space.\n\nwell, seems like kind of worthless experience, considering how dogshit the product was.\n\nHP, IBM, etc. have not exactly been making good products. they're surviving off of their mainframes and other corporate-level shit. throwing whatever they can at the wall to see what sticks trying to avoid their inevitable bankruptcy.",
+                  "score": 1,
+                  "created_utc": 1739980718.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mdkjoip",
+              "author": "silverbolt2000",
+              "body": "HP will probably bundle it with their laptops and require voice command using this shitty device to login to Windows.\n\nBecause if there\u2019s a way to make HP laptops even worse, they will surely do it.",
+              "score": 7,
+              "created_utc": 1739944588.0,
+              "replies": []
+            },
+            {
+              "id": "mdlv7oa",
+              "author": "heinzbumbeans",
+              "body": "I wouldnt say the whole concept was awful from the start - I imagine quite a lot of people would like a star trek com badge-esq thing you could wear and tap it to ask questions and have it do stuff and the suppsed projected screen was a nifty idea. it just didnt work anything like that. Like, at all.",
+              "score": 2,
+              "created_utc": 1739970178.0,
+              "replies": []
+            },
+            {
+              "id": "mdkn068",
+              "author": "Dtsung",
+              "body": "It is HP we are talking about, when was the last time they make any good decisions?",
+              "score": 1,
+              "created_utc": 1739946251.0,
+              "replies": []
+            },
+            {
+              "id": "mdmf63l",
+              "author": "slackermannn",
+              "body": "I remember watching that Ted Talk and thinking he was deranged. Hell knows what was he thinking.",
+              "score": 1,
+              "created_utc": 1739977006.0,
+              "replies": []
+            },
+            {
+              "id": "mdmyu0e",
+              "author": "Aimhere2k",
+              "body": "It's almost as though the AI Pin was a solution in search of a problem. \ud83e\udd14",
+              "score": 1,
+              "created_utc": 1739982632.0,
+              "replies": []
+            },
+            {
+              "id": "mdndnx5",
+              "author": "Narrow-Height9477",
+              "body": "Maybe it\u2019ll make that printer ink order for you.",
+              "score": 1,
+              "created_utc": 1739986624.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdj1v8d",
+          "author": "lorefolk",
+          "body": "What offline functionality did it have? It looked like a cheap cellular data connection with zero real programming.",
+          "score": 18,
+          "created_utc": 1739924825.0,
+          "replies": [
+            {
+              "id": "mdjcq9b",
+              "author": "0x831",
+              "body": "I read on HN that the only surviving offline feature was \u201cbattery level\u201d. Not even joking.",
+              "score": 45,
+              "created_utc": 1739928322.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdjclgm",
+          "author": "kungers",
+          "body": "offline functionality such as.... battery level... lol",
+          "score": 21,
+          "created_utc": 1739928280.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdj61w0",
+      "author": "None",
+      "body": "[removed]",
+      "score": 326,
+      "created_utc": 1739926148.0,
+      "replies": [
+        {
+          "id": "mdjdbg4",
+          "author": "Scared_of_zombies",
+          "body": "Ashes to ashes, dust to dust, e-waste to e-waste.",
+          "score": 49,
+          "created_utc": 1739928516.0,
+          "replies": []
+        },
+        {
+          "id": "mdmbmx2",
+          "author": "Spartan_Retro_426",
+          "body": "\ud83c\udf0e\ud83d\udc68\u200d\ud83d\ude80\ud83d\udd2b\ud83d\udc68\u200d\ud83d\ude80 Always has been",
+          "score": 8,
+          "created_utc": 1739975892.0,
+          "replies": []
+        },
+        {
+          "id": "mdqkhug",
+          "author": "pman6",
+          "body": "let this stupid pin be a reminder to everyone not to be an early adopter for a half-assed half baked AI product.\n\nconsumer grade AI, in its current state, is such a huge scam built on empty promises.\n\ni predict consumer grade AI won't be fully ready (trustworthy reliable) for at least another 10 years.",
+          "score": 4,
+          "created_utc": 1740020127.0,
+          "replies": []
+        },
+        {
+          "id": "mdnbvhl",
+          "author": "vyashole",
+          "body": "Ship it to HP headquarters lol",
+          "score": 2,
+          "created_utc": 1739986143.0,
+          "replies": []
+        },
+        {
+          "id": "mdncbmi",
+          "author": "Sancticide",
+          "body": "Rejected answer: Bend over, I'll show you.",
+          "score": 2,
+          "created_utc": 1739986263.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdiu8rh",
+      "author": "Baragasy",
+      "body": "That is why I am not buying any HP products. It is a dumping ground of shitty technologies.",
+      "score": 389,
+      "created_utc": 1739922385.0,
+      "replies": [
+        {
+          "id": "mdiwzlb",
+          "author": "NotSoFastLady",
+          "body": "I call them heaping pile. They're one of the least reliable vendors. I'm shocked people but their products.  They may have some good enterprise grade stuff I am not familiar with but their business class laptops and work stations are complete shit, along with their support. I wouldn't even consider them for a personal laptop, purely based on how poorly they support bushes businesses. I would have to assume that their support for consumers is even worse.",
+          "score": 97,
+          "created_utc": 1739923268.0,
+          "replies": [
+            {
+              "id": "mdj10u3",
+              "author": "Squirrelking666",
+              "body": "You've seen their printer business right? It's the dictionary definition of anti-consumer.",
+              "score": 44,
+              "created_utc": 1739924557.0,
+              "replies": [
+                {
+                  "id": "mdj2zwt",
+                  "author": "Shlomo_Yakvo",
+                  "body": "I worked on some internal streams for a big printer company (they also make cameras \ud83d\ude09) and they had big graphs and pie charts showing market cap and sales and whatnot of competitors and HP was a hilariously small portion of every one",
+                  "score": 18,
+                  "created_utc": 1739925183.0,
+                  "replies": []
+                },
+                {
+                  "id": "mdjc240",
+                  "author": "NotSoFastLady",
+                  "body": "I can't complain about their small office laser jet products they seemed to hold up well for our clients.  Many of them ran pretty print heavy operations for small businesses.  But with their consumers gear, it is just so second rate. You can get much better Chinese gear. Not that I would trust the security of said devices.",
+                  "score": 11,
+                  "created_utc": 1739928104.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mdjwyu0",
+              "author": "PM_YOUR_BOOBS_PLS_",
+              "body": "I work with those enterprise products.  There are some things HP does better, but overall, Dell makes much better products.  Our main datacenters get Dell servers.  Our remote locations no one gives a shit about get cheap HPs.",
+              "score": 7,
+              "created_utc": 1739935187.0,
+              "replies": [
+                {
+                  "id": "mdkl53q",
+                  "author": "Meowmixalotlol",
+                  "body": "I couldn\u2019t disagree more lol.  HP Proliant is so much better than Dell Poweredge .",
+                  "score": 3,
+                  "created_utc": 1739945305.0,
+                  "replies": [
+                    {
+                      "id": "mdkzjfp",
+                      "author": "PM_YOUR_BOOBS_PLS_",
+                      "body": "The only thing I've seen that they do better is managing complex storage configurations.  Other than that, Dell iDRAC is superior to HP iLO in every way.  And let's be real.  The hardware is largely the same, so software is really the only differentiator.",
+                      "score": 2,
+                      "created_utc": 1739953284.0,
+                      "replies": [
+                        {
+                          "id": "mdm5ric",
+                          "author": "Meowmixalotlol",
+                          "body": "The hardware is not the same. We have a massive amount of both brands of server.  The Dell hardware has issues at a rate far above HP.  And then their support drags their feet when trying to get it fixed.",
+                          "score": 1,
+                          "created_utc": 1739973964.0,
+                          "replies": [
+                            {
+                              "id": "mdm865g",
+                              "author": "PM_YOUR_BOOBS_PLS_",
+                              "body": "That I can see.\u00a0 This last year we suddenly had a ton of Dell failures out of nowhere.\u00a0 But to be fair, neither Dell nor HP actually make their own hardware.\u00a0 It's all contracted out to Hynox, Foxconn, Marvell, etc.\u00a0 They just slap their brands on it.\u00a0",
+                              "score": 1,
+                              "created_utc": 1739974770.0,
+                              "replies": [
+                                {
+                                  "id": "mdnc6la",
+                                  "author": "someotherbob",
+                                  "body": "It is always a factory co-design based on Intel/AMD reference schematics.",
+                                  "score": 1,
+                                  "created_utc": 1739986226.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "mdmliv8",
+                          "author": "None",
+                          "body": "I'm a warranty service provider contracted with Dell and holy shit they are so bad on that front. getting anything from them requires thirty hoops constantly.",
+                          "score": 1,
+                          "created_utc": 1739978912.0,
+                          "replies": [
+                            {
+                              "id": "mdpiiux",
+                              "author": "PM_YOUR_BOOBS_PLS_",
+                              "body": "Yeah.  We use a third party vendor for our hardware support.",
+                              "score": 1,
+                              "created_utc": 1740007613.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mdod9h0",
+                      "author": "Scurro",
+                      "body": "As someone that just swapped from proliant hypervisor servers to poweredge, can you give us details?\n\nI've worked with both in the past and never had any significant hardware defects.",
+                      "score": 1,
+                      "created_utc": 1739996156.0,
+                      "replies": [
+                        {
+                          "id": "mdoiac4",
+                          "author": "Meowmixalotlol",
+                          "body": "Dells have rampant controller issues.  They lose communication and cause corruption.  Specific controller models are affected much more than others.  If you take away the controller issues they are closer to HP, I don\u2019t have numbers, but I still suspect a 10-25% increase in most types of hardware failure.",
+                          "score": 2,
+                          "created_utc": 1739997492.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mdj3spx",
+              "author": "pemb",
+              "body": "Old HP was split in two back in 2015. Hewlett Packard Enterprise is a completely different company and I've heard good things about them. HP Inc. is the crappy one.",
+              "score": 11,
+              "created_utc": 1739925435.0,
+              "replies": []
+            },
+            {
+              "id": "mdkzsyu",
+              "author": "iTwango",
+              "body": "Bushes business?",
+              "score": 1,
+              "created_utc": 1739953443.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdjed0r",
+          "author": "weaselmaster",
+          "body": "Them and Cisco.\n\nThey bought my friend\u2019s company when they knew it was not going to last as a product. Golden parachutes. I wonder how they\u2019re financed\u2026 do they need to promise to hold a certain number of the acquiring company\u2019s shares for x years?",
+          "score": 8,
+          "created_utc": 1739928860.0,
+          "replies": [
+            {
+              "id": "mdk4doi",
+              "author": "sf-keto",
+              "body": "No it\u2019s an aqui-hire. They want the founders to work in the HP AI division.",
+              "score": 3,
+              "created_utc": 1739937948.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdl3eu4",
+          "author": "twisted_nematic57",
+          "body": "I hear their old calculators used to be quite good. But that\u2019s about it.",
+          "score": 2,
+          "created_utc": 1739955651.0,
+          "replies": [
+            {
+              "id": "mdlkonr",
+              "author": "mirplasac",
+              "body": "they have good  3D and Large Format printers too. It is in the consumer side that they are shit",
+              "score": 1,
+              "created_utc": 1739965576.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdjh5ko",
+          "author": "loogie97",
+          "body": "PalmOS? Remeber when they acquired that hot garbage?",
+          "score": 2,
+          "created_utc": 1739929775.0,
+          "replies": [
+            {
+              "id": "mdk8e78",
+              "author": "mduser63",
+              "body": "It was webOS, and it actually was a pretty cool OS with a lot of nice UI innovation. It suffered from two main problems: it was already too late to compete against iOS/Android, and it was all web technologies (HTML/CSS/JS) which was nice for developers, but too slow for the hardware that existed at the time.\n\nIt does still exist as the OS for LG\u2019s TVs, though.",
+              "score": 26,
+              "created_utc": 1739939540.0,
+              "replies": [
+                {
+                  "id": "mdncrgf",
+                  "author": "someotherbob",
+                  "body": "The Web-OS issue was no adult supervision on the SW side.\n\nApp devs were promised forward compatibility that never worked because of SW bloat.",
+                  "score": 1,
+                  "created_utc": 1739986381.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mdk0zop",
+              "author": "RTOchaos",
+              "body": "It had promised but then Hurd was forced out for a consensual relationship and the next CEO hated it. The idea was to use WebOS for all HP products. Now we only see parts in LG TVs.",
+              "score": 8,
+              "created_utc": 1739936667.0,
+              "replies": [
+                {
+                  "id": "mdlw56e",
+                  "author": "loogie97",
+                  "body": "I remember seeing an HP printer of OfficeDepot with WebOS on it. It was super polished for a printer at the time. Just seemed silly for a printer.",
+                  "score": 1,
+                  "created_utc": 1739970532.0,
+                  "replies": [
+                    {
+                      "id": "mdnqeqx",
+                      "author": "RTOchaos",
+                      "body": "Agree. But integration across project lines would be Apple like.",
+                      "score": 1,
+                      "created_utc": 1739990035.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mdn9pyr",
+              "author": "GoneSuddenly",
+              "body": "Webos is not garbage",
+              "score": 1,
+              "created_utc": 1739985567.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdlszcg",
+          "author": "DaGurggles",
+          "body": "You keep my webOS Pre3 out of your mouth!",
+          "score": 1,
+          "created_utc": 1739969304.0,
+          "replies": []
+        },
+        {
+          "id": "mdlvpds",
+          "author": "cuberhino",
+          "body": "I stopped years ago. HP used to have decent products but now just produce trash",
+          "score": 1,
+          "created_utc": 1739970367.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdiuqvh",
+      "author": "SandboxSurvivalist",
+      "body": "Where do I sign up to invent one of the worst tech products in recent history, shut it down, and get someone pay me over a hundred million dollars for the remnants of my company?",
+      "score": 201,
+      "created_utc": 1739922548.0,
+      "replies": [
+        {
+          "id": "mdjddbg",
+          "author": "Spara-Extreme",
+          "body": "You don\u2019t get anything. Your investors get 20 cents on the dollar.",
+          "score": 30,
+          "created_utc": 1739928534.0,
+          "replies": []
+        },
+        {
+          "id": "mdivsjg",
+          "author": "mjc4y",
+          "body": "Hello!  I\u2019m your fiercest competitor in this space and I am here with an even worse product and I\u2019m undercutting your price!  I will sell my remnants for a mere 50 million dollars!\n\nMmmmm deep breath. \n\nThis must be what having an MBA feels like.",
+          "score": 52,
+          "created_utc": 1739922888.0,
+          "replies": []
+        },
+        {
+          "id": "mdj2jv4",
+          "author": "RMRdesign",
+          "body": "Probably all patent related holdings. I can\u2019t see anyone buying this company for this one actual product.",
+          "score": 10,
+          "created_utc": 1739925041.0,
+          "replies": [
+            {
+              "id": "mdk35cp",
+              "author": "sf-keto",
+              "body": "According to the article, HP bought the company for its patents & the founders AI \u201cexpertise.\u201d",
+              "score": 8,
+              "created_utc": 1739937473.0,
+              "replies": []
+            },
+            {
+              "id": "mdkxip0",
+              "author": "NextWhiteDeath",
+              "body": "They basically purchased the patents and the team that made them. It isn't uncommon to see this kind of purchases for employees. If the founder doesn't stick around they most likely lose a lot of the pruchase amount.",
+              "score": 6,
+              "created_utc": 1739952083.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdm6z6f",
+          "author": "Abigail716",
+          "body": "$240M in funding, $116M sale price. \n\nNo need to look any further. I can get you started right now. Cut me a check for $240Mand then 3 years from now I'll give you $116M.",
+          "score": 4,
+          "created_utc": 1739974372.0,
+          "replies": []
+        },
+        {
+          "id": "mdj1xzb",
+          "author": "lorefolk",
+          "body": "Just rug pull bitcoin, 100x easier.",
+          "score": 8,
+          "created_utc": 1739924849.0,
+          "replies": []
+        },
+        {
+          "id": "mdixowo",
+          "author": "NotSoFastLady",
+          "body": "Concept is good and will be perfected by another OEM. The issue is that they tried a ridiculous business model of iteration of key features. As if the resources where there to reliably deliver on all of their lofty promises. As an early adopter I've been burned before,  you just knew their premises were too good to be true.",
+          "score": -11,
+          "created_utc": 1739923493.0,
+          "replies": [
+            {
+              "id": "mdj02ex",
+              "author": "Enchelion",
+              "body": ">Concept is good\n\nIs it? The thing was a phone without a screen that still cost just as much if not significantly more than a phone.",
+              "score": 17,
+              "created_utc": 1739924254.0,
+              "replies": [
+                {
+                  "id": "mdj76vo",
+                  "author": "NotSoFastLady",
+                  "body": "Concept.  Not the actual device.",
+                  "score": -3,
+                  "created_utc": 1739926517.0,
+                  "replies": [
+                    {
+                      "id": "mdj7x94",
+                      "author": "Enchelion",
+                      "body": "What \"concept\" that isn't just a phone?",
+                      "score": 17,
+                      "created_utc": 1739926754.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mdj0omc",
+      "author": "gorramfrakker",
+      "body": "Rabbit R1 next on the block?",
+      "score": 62,
+      "created_utc": 1739924449.0,
+      "replies": [
+        {
+          "id": "mdk2m1h",
+          "author": "sf-keto",
+          "body": "Just 9 months ago there was so much positive press everywhere about Rabbit & the Pin. But it was just hype. Is this at last the death of  the Lean Startup idea? Just blow money, toss out junk & pray the hype carries you forward?",
+          "score": 18,
+          "created_utc": 1739937272.0,
+          "replies": [
+            {
+              "id": "mdkhmxl",
+              "author": "NecroCannon",
+              "body": "Just like how techbros came and messed crypto when it reached a point where it hit the mainstream, they did the same to AI\n\nJust a pump and dump from the stocks and it\u2019ll take finding something else to jump on to get more money for AI to actually be developed to be really useful for the masses. \n\nRight now it\u2019s just risking the population getting dumber",
+              "score": 8,
+              "created_utc": 1739943604.0,
+              "replies": [
+                {
+                  "id": "mdrbjwe",
+                  "author": "13steinj",
+                  "body": "And they're starting to do it with quantum computers too, already.",
+                  "score": 1,
+                  "created_utc": 1740031004.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mdk5vvc",
+              "author": "chuloreddit",
+              "body": "AI",
+              "score": 2,
+              "created_utc": 1739938535.0,
+              "replies": []
+            },
+            {
+              "id": "mdkxc6n",
+              "author": "NextWhiteDeath",
+              "body": "I feel like the Pin and the Rabbit were aimed at diffrent people and that influnced the reception. They both seen as underbaked in review but the Rabbit was cheap and people found it a cute toy. The Pin was way to expensive for any consumer launch but they didn't have the money to burn making a product for 5 years.",
+              "score": 1,
+              "created_utc": 1739951976.0,
+              "replies": [
+                {
+                  "id": "mdlb7r7",
+                  "author": "vinng86",
+                  "body": "They were just racing to market before mobile phones started adding AI to their phones. \n\nThey simply can't compete without access to tons of user data so the goal was to get it out asap.",
+                  "score": 5,
+                  "created_utc": 1739960326.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mdkarki",
+          "author": "Neo_Techni",
+          "body": "that will at least have some use as a cute android device.",
+          "score": 4,
+          "created_utc": 1739940532.0,
+          "replies": []
+        },
+        {
+          "id": "mdls7fe",
+          "author": "firewire_9000",
+          "body": "It will last a bit longer probably since isn\u2019t that expensive and requires no subscription fee. But it will fail eventually for sure.",
+          "score": 1,
+          "created_utc": 1739968991.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdjvlsm",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 26,
+      "created_utc": 1739934704.0,
+      "replies": [
+        {
+          "id": "mdk1gyb",
+          "author": "sf-keto",
+          "body": "The were always about hype & vibes. They seemed to buy lot of  positive press & not do  much actual engineering.",
+          "score": 9,
+          "created_utc": 1739936847.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdjyht6",
+      "author": "EfficientAccident418",
+      "body": "Is there a sub for predictable business failures?",
+      "score": 16,
+      "created_utc": 1739935738.0,
+      "replies": [
+        {
+          "id": "mdk8a2y",
+          "author": "ThannBanis",
+          "body": "Apparently r/gadgets?",
+          "score": 27,
+          "created_utc": 1739939494.0,
+          "replies": [
+            {
+              "id": "mdm0z8v",
+              "author": "Rage_Like_Nic_Cage",
+              "body": "No you don\u2019t get it. The CEO salesman (who was really friendly) said this device would magically solve all my problems. He wouldn\u2019t blatantly lie in order to sell me things or raise more VC funding would he? \n\nIt\u2019s best that no tech outlets ever look at these products critically, they should continue to only just espouse the marketing talking points these companies put out and take them as the absolute truth. Tech bros can do no wrong!",
+              "score": 2,
+              "created_utc": 1739972316.0,
+              "replies": [
+                {
+                  "id": "mdn255c",
+                  "author": "Logseman",
+                  "body": "I don\u2019t think the tech press was exactly buoyant about these products.",
+                  "score": 4,
+                  "created_utc": 1739983530.0,
+                  "replies": [
+                    {
+                      "id": "mdnas73",
+                      "author": "Rage_Like_Nic_Cage",
+                      "body": "I was just speaking about the state of tech journalism in general, especially surrounding generative AI.",
+                      "score": 1,
+                      "created_utc": 1739985852.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mdk85jq",
+      "author": "TexaRican_x82",
+      "body": "I always saw this as a grab solely to sell to a large tech firm for parts/patents for a big payday for investors and the heads",
+      "score": 9,
+      "created_utc": 1739939444.0,
+      "replies": []
+    },
+    {
+      "id": "mdjj18p",
+      "author": "CheatedOnOnce",
+      "body": "AI tech bros just siphoning cash for their fucking schemes",
+      "score": 21,
+      "created_utc": 1739930391.0,
+      "replies": [
+        {
+          "id": "mdkzuiz",
+          "author": "OldHoneyPaws",
+          "body": "Anyone who saw the original TedTalk knew this was a fucking grift. They banked 116m AND their skeevy leadership got C level gigs inside HP. What a fucking world.",
+          "score": 7,
+          "created_utc": 1739953468.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdkc3f1",
+      "author": "MalHeartsNutmeg",
+      "body": "Is this that shitty wearable that MKBHD dumped on? I remember people getting really mad about that review, lol.",
+      "score": 8,
+      "created_utc": 1739941100.0,
+      "replies": [
+        {
+          "id": "mdkg9v5",
+          "author": "majorarlene",
+          "body": "And honestly he was kinder than most reviews I saw that were negative, vid title aside",
+          "score": 5,
+          "created_utc": 1739942965.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdj9fvo",
+      "author": "TheManchot",
+      "body": "Remember when HP was an innovative and good company?",
+      "score": 13,
+      "created_utc": 1739927248.0,
+      "replies": [
+        {
+          "id": "mdjh115",
+          "author": "dandroid126",
+          "body": "I was born in the early 90s... so no.",
+          "score": 23,
+          "created_utc": 1739929734.0,
+          "replies": [
+            {
+              "id": "mdk0zsm",
+              "author": "WhatTheTec",
+              "body": "I was born in the 80s and also, \"no\"",
+              "score": 8,
+              "created_utc": 1739936669.0,
+              "replies": [
+                {
+                  "id": "mdm8enp",
+                  "author": "AltGrendel",
+                  "body": "I was born in the late 50s, so no.",
+                  "score": 1,
+                  "created_utc": 1739974849.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mdkr921",
+      "author": "haztheo",
+      "body": "This is what happens when you employ random hype people - like a guy who once engineered the ipad keyboard from an iPhone keyboard and met jobs one time!",
+      "score": 7,
+      "created_utc": 1739948508.0,
+      "replies": []
+    },
+    {
+      "id": "mdiu161",
+      "author": "PM_ME_YOUR__INIT__",
+      "body": "Doesn't matter; cashed out",
+      "score": 20,
+      "created_utc": 1739922318.0,
+      "replies": [
+        {
+          "id": "mdizhgw",
+          "author": "beef_flaps",
+          "body": "Maybe the last funding round got there money back. Founders almost certainly got nothing.\u00a0",
+          "score": 6,
+          "created_utc": 1739924071.0,
+          "replies": [
+            {
+              "id": "mdwqiyd",
+              "author": "MormonBarMitzfah",
+              "body": "I\u2019m sure they were well compensated while they were building that piece of hot garbage\u00a0",
+              "score": 1,
+              "created_utc": 1740100961.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdiutfy",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 2,
+          "created_utc": 1739922571.0,
+          "replies": [
+            {
+              "id": "mdivziw",
+              "author": "PM_ME_YOUR__INIT__",
+              "body": "The employees who ran the grift for years are the real winners. They got paid and might get a nice check from selling out",
+              "score": 10,
+              "created_utc": 1739922950.0,
+              "replies": []
+            },
+            {
+              "id": "mdivoe5",
+              "author": "Azuras33",
+              "body": "It's not for the investors, but the CEO and founder.",
+              "score": 1,
+              "created_utc": 1739922850.0,
+              "replies": [
+                {
+                  "id": "mdizthj",
+                  "author": "beef_flaps",
+                  "body": "There were three rounds of funding. Typically the later rounds need to at least get their money back before the prior rounds. Founders keep equity which gets paid last. Unless they cut some special deal, They got zilch.\u00a0",
+                  "score": 2,
+                  "created_utc": 1739924176.0,
+                  "replies": [
+                    {
+                      "id": "mdizzyj",
+                      "author": "Azuras33",
+                      "body": "No salary too? No professional expense?",
+                      "score": 1,
+                      "created_utc": 1739924232.0,
+                      "replies": [
+                        {
+                          "id": "mdj4vhw",
+                          "author": "FblthpphtlbF",
+                          "body": "Sure but those would likely have to be kept inline with industry standards, and since most of the money tech billionaires have is tied up in stock, they likely aren't making out with more than a few hundred thousand to low millions in overall pay and severance. Which is nice for a grift but not really insane money nowadays",
+                          "score": 3,
+                          "created_utc": 1739925774.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mdjvcn3",
+                          "author": "beef_flaps",
+                          "body": "I don\u2019t know their deal. Typically cash compensation would be at a pretty big discount to market with the vast majority of total comp in the form of equity awards.",
+                          "score": 1,
+                          "created_utc": 1739934613.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mditq7h",
+      "author": "ReagenLamborghini",
+      "body": "Not surprising to say the least",
+      "score": 5,
+      "created_utc": 1739922220.0,
+      "replies": []
+    },
+    {
+      "id": "mdiur16",
+      "author": "ColossusofNero",
+      "body": "Man, and I was just about to get one.",
+      "score": 9,
+      "created_utc": 1739922549.0,
+      "replies": [
+        {
+          "id": "mdiz5za",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -4,
+          "created_utc": 1739923969.0,
+          "replies": [
+            {
+              "id": "mdj0ntg",
+              "author": "Squirrelking666",
+              "body": "Like your sarcasm detector.",
+              "score": 27,
+              "created_utc": 1739924442.0,
+              "replies": [
+                {
+                  "id": "mdkat1z",
+                  "author": "Neo_Techni",
+                  "body": "ha",
+                  "score": 1,
+                  "created_utc": 1739940550.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mdk1v5p",
+      "author": "erock7625",
+      "body": "Palm, repeat\u2026",
+      "score": 3,
+      "created_utc": 1739936995.0,
+      "replies": [
+        {
+          "id": "mdkzqs8",
+          "author": "surelythisisfree",
+          "body": "Palm at least had some decent products for a while. They lost their way, but they at least had some actual innovation at one point.",
+          "score": 4,
+          "created_utc": 1739953407.0,
+          "replies": [
+            {
+              "id": "mdl0fwa",
+              "author": "erock7625",
+              "body": "Yes agreed, I had several Centro\u2019s and a Treo and they were great. I worked at HP when we acquired Palm and was looking forward to getting a Pre. I did get several Touchpad\u2019s and they were so-so. Was really disappointed when Leo killed it all off.",
+              "score": 1,
+              "created_utc": 1739953828.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mdk7wos",
+      "author": "Comic-Engine",
+      "body": "Imagine our shock",
+      "score": 3,
+      "created_utc": 1739939344.0,
+      "replies": []
+    },
+    {
+      "id": "mdkgrsf",
+      "author": "Borealis116",
+      "body": "This is the Juicero 2",
+      "score": 3,
+      "created_utc": 1739943197.0,
+      "replies": []
+    },
+    {
+      "id": "mdkt0l2",
+      "author": "None",
+      "body": "[removed]",
+      "score": 3,
+      "created_utc": 1739949480.0,
+      "replies": [
+        {
+          "id": "mdnvc90",
+          "author": "hates_writing_checks",
+          "body": "sauce?",
+          "score": 1,
+          "created_utc": 1739991355.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdj761e",
+      "author": "Aramis444",
+      "body": "Who could have foreseen this outcome?\u2026",
+      "score": 2,
+      "created_utc": 1739926509.0,
+      "replies": []
+    },
+    {
+      "id": "mdji49a",
+      "author": "olearyboy",
+      "body": "There\u2019s no way they have a patent this quickly, the HW isn\u2019t remarkable. This must be one hell of an acquihire",
+      "score": 2,
+      "created_utc": 1739930089.0,
+      "replies": [
+        {
+          "id": "mdjudn4",
+          "author": "Enchelion",
+          "body": "They company was founded in 2018. They didn't need a launched product to get parents.",
+          "score": 4,
+          "created_utc": 1739934270.0,
+          "replies": [
+            {
+              "id": "mdlx08k",
+              "author": "olearyboy",
+              "body": "I stand corrected, these guys have been doing nothing but writing patents the entire time.\nReading through them, I don\u2019t thing any of them are defendable, I\u2019m amazed they got granted. But that\u2019s seldom the process when used.",
+              "score": 1,
+              "created_utc": 1739970857.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mdmupze",
+          "author": "Jusanden",
+          "body": "For all of its faults - the laser projector and control scheme were pretty novel concepts. \n\nI\u2019m sure someone has done it before, but the swappable wireless battery \u201cpins\u201d were also kinda unique. \n\nSoftware was a load of unoptimized gore and the AI part was underbaked but they had some cool hardware in it.",
+          "score": 1,
+          "created_utc": 1739981500.0,
+          "replies": [
+            {
+              "id": "mdmxef7",
+              "author": "olearyboy",
+              "body": "Laser projection has been around for ages, you could buy those projected keyboards for at least the last 10yrs from amazon.\n\nSwappable batteries doesn't feel like a patent\n\nTheir one on determining best time for conception, seems like a stretch too.\n\nMost of the time, it brings other companies to the table vs fighting it out in court",
+              "score": 1,
+              "created_utc": 1739982239.0,
+              "replies": [
+                {
+                  "id": "mdnoi4n",
+                  "author": "Jusanden",
+                  "body": "Patents are very, very specific. \n\nLaser keyboards have been on the table for years, but no one before them has come to market with mounting one to a pin, projecting onto a hand, and using a TOF sensor to get input from the distance/orientation of the palm. \n\nSwappable batteries? Not patentable. Wirelessly charging devices? Not patentable. Magnetic pin backings? Not patentable. Swappable batteries that integrates magnets so that the magnets both align and hold the pin in place while wirelessly charging the device? Likely patentable. \n\nDon\u2019t get me wrong, their overall product is shit. But just because the entire product is shit doesn\u2019t mean certain parts of it aren\u2019t kinda neat. \n\nThe juicero is an unmitigated disaster but the cnc components and the quality of the actual manufacture is amazing.",
+                  "score": 1,
+                  "created_utc": 1739989535.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mdkdo7h",
+      "author": "catchasingcars",
+      "body": "At this point if you're making any device that replaces the phone experience, it's never going to work. If they had made Humane as some form of iPhone accessory they could have done something with it but they went with the standalone product.",
+      "score": 2,
+      "created_utc": 1739941792.0,
+      "replies": [
+        {
+          "id": "mdwr2pb",
+          "author": "MormonBarMitzfah",
+          "body": "Really good, not dumb looking glasses could displace the phone\u00a0",
+          "score": 1,
+          "created_utc": 1740101133.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdlec6d",
+      "author": "mclazerlou",
+      "body": "If you ever want an a smoke if tech being a ridiculous waste of capital, this is it. It's proof too few people have way too much money. Tech is a cancer on San Francisco.",
+      "score": 2,
+      "created_utc": 1739962165.0,
+      "replies": []
+    },
+    {
+      "id": "mdli59i",
+      "author": "Ok_Code4546",
+      "body": "If anyone from hp reads this. This company is not worth. Even 32 million in patents lol. Hp is getting hosed.",
+      "score": 2,
+      "created_utc": 1739964251.0,
+      "replies": [
+        {
+          "id": "mdll13q",
+          "author": "Far-Display-1462",
+          "body": "They really got that much? Crazy",
+          "score": 1,
+          "created_utc": 1739965748.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdlmho2",
+      "author": "Fickle_Carpet9279",
+      "body": "The AI Juicero\u2026.",
+      "score": 2,
+      "created_utc": 1739966462.0,
+      "replies": []
+    },
+    {
+      "id": "mdiz88e",
+      "author": "shodanime",
+      "body": "Wasn\u2019t the idea on the first place he wanted to sell it to apple for a ton of money but it just didn\u2019t work out for their scam",
+      "score": 2,
+      "created_utc": 1739923989.0,
+      "replies": []
+    },
+    {
+      "id": "mdkar0j",
+      "author": "jaraket",
+      "body": "La Comedie Humaine",
+      "score": 1,
+      "created_utc": 1739940525.0,
+      "replies": []
+    },
+    {
+      "id": "mdl99wr",
+      "author": "Ok_Mammoth_7303",
+      "body": "What a disaster....",
+      "score": 1,
+      "created_utc": 1739959183.0,
+      "replies": []
+    },
+    {
+      "id": "mdli6j6",
+      "author": "ElGourmand",
+      "body": "I\u2019d love to see a Ted talk from the founder following this",
+      "score": 1,
+      "created_utc": 1739964270.0,
+      "replies": []
+    },
+    {
+      "id": "mdm639j",
+      "author": "Enough-Meaning1514",
+      "body": "People who jumped on their hype train should have known better. When the first promotion video of \"ex-Apple\" executives became available, I knew that these people were just whale hunters using pump & dump methods. They were trying to ride the hype wave, sell a semi-operational device, get acquired by a big company for 1+ billion dollars and move to another project. Rinse & Repeat. People should know better these days.",
+      "score": 1,
+      "created_utc": 1739974074.0,
+      "replies": []
+    },
+    {
+      "id": "mdm7drp",
+      "author": "AngsMcgyvr",
+      "body": "I fully believe this was some sort of money laundering operAtion, or at the least a plot to score as a first to market product because there's no chance real people thought this was a good idea.",
+      "score": 1,
+      "created_utc": 1739974509.0,
+      "replies": []
+    },
+    {
+      "id": "mdmj218",
+      "author": "workwork-zugzug",
+      "body": "$116mil for that piece of garbage seems *insane*",
+      "score": 1,
+      "created_utc": 1739978198.0,
+      "replies": []
+    },
+    {
+      "id": "mdmne8i",
+      "author": "ObiWhanJabroni",
+      "body": "Ofc HP would buy it\ud83d\ude44",
+      "score": 1,
+      "created_utc": 1739979452.0,
+      "replies": [
+        {
+          "id": "mdnjowt",
+          "author": "Legal-Cry1270",
+          "body": "To kill it. Make it worse. Rebrand it and use it for something completely different than its original purpose.",
+          "score": 1,
+          "created_utc": 1739988236.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mdmuv9x",
+      "author": "Mysterious_Case9576",
+      "body": "I remember watching the promo video over a year ago and thinking \u201cyea this is a money laundering scam\u201d",
+      "score": 1,
+      "created_utc": 1739981541.0,
+      "replies": []
+    },
+    {
+      "id": "mdn2vh2",
+      "author": "KendrickBlack502",
+      "body": "Good idea, maybe a little ahead of its time, horrible execution. Unfortunately, the way our current world works, a big tech company (probably Apple) would have to adopt something like this for the adoption necessary to succeed.",
+      "score": 1,
+      "created_utc": 1739983725.0,
+      "replies": []
+    },
+    {
+      "id": "mdnaym7",
+      "author": "someotherbob",
+      "body": "There is a HUGE hole in this space for low power inferencing on a Wintel device.\n\nApple has a great hardware inference engine on iOS. \n\nWintel is slow to catch up.\n\nThis acqu-hire is probably lined up with future low power inferencing hardware from Intel/AMD.",
+      "score": 1,
+      "created_utc": 1739985900.0,
+      "replies": []
+    },
+    {
+      "id": "mdqbwq7",
+      "author": "Creepy_Reputation_34",
+      "body": "Surprise surprise",
+      "score": 1,
+      "created_utc": 1740017147.0,
+      "replies": []
+    },
+    {
+      "id": "mdr0941",
+      "author": "bitNine",
+      "body": "What? Nooooooobody could have seen this coming.",
+      "score": 1,
+      "created_utc": 1740026005.0,
+      "replies": []
+    },
+    {
+      "id": "mdroxzd",
+      "author": "TheFrenchSavage",
+      "body": "Failed so hard it became a HP product.",
+      "score": 1,
+      "created_utc": 1740038283.0,
+      "replies": []
+    },
+    {
+      "id": "mdt6thp",
+      "author": "nhh",
+      "body": "There has got to be a class action lawsuit for this crap coming up.\u00a0",
+      "score": 1,
+      "created_utc": 1740063436.0,
+      "replies": []
+    },
+    {
+      "id": "me4ntw3",
+      "author": "SirVulc",
+      "body": "HP got ripped off of $116 million",
+      "score": 1,
+      "created_utc": 1740209759.0,
+      "replies": []
+    },
+    {
+      "id": "meb6gm3",
+      "author": "dcruzthomson",
+      "body": "Selling a $700 AI gadget, then shutting it down within months and refusing refunds for people who bought it before the 90 day refund window is pretty wild. It shows a complete disregard for early adopters who believed in the product. Even if Humane struggled financially, they could have at least offered some compensation or trade-in value rather than just turning their customers\u2019 devices into expensive e-waste.\n\nThis kind of move burns trust, and it\u2019s a reminder to be wary of hyped startups with unproven tech. Hopefully, HP does something better with the AI expertise they acquired, but it\u2019s hard to imagine people getting excited about Humane\u2019s tech again after this disaster.",
+      "score": 1,
+      "created_utc": 1740298060.0,
+      "replies": []
+    },
+    {
+      "id": "mee2ij7",
+      "author": "goldaxis",
+      "body": "Told you at launch I'd be buying one of these for $20 in year or two. Looks like a good mp3 player for the gym.",
+      "score": 1,
+      "created_utc": 1740338567.0,
+      "replies": []
+    },
+    {
+      "id": "megc6ew",
+      "author": "goldaxis",
+      "body": "I don't see a single one of these on marketplace or ebay. Does this product actually exist, or did they just send a dozen prototypes out to reviewers?",
+      "score": 1,
+      "created_utc": 1740364700.0,
+      "replies": []
+    },
+    {
+      "id": "mg3xpor",
+      "author": "jerrys_briefcase",
+      "body": "I wished this was shortable from the moment I saw it",
+      "score": 1,
+      "created_utc": 1741157736.0,
+      "replies": []
+    },
+    {
+      "id": "mdkw98g",
+      "author": "olaf525",
+      "body": "I always thought their underlying business model was to make the product viable enough to be bought out by Apple.",
+      "score": 1,
+      "created_utc": 1739951337.0,
+      "replies": []
+    },
+    {
+      "id": "mdkii6e",
+      "author": "DifficultCarpenter00",
+      "body": "this and that rabbit crap device. most useless tech ever",
+      "score": 0,
+      "created_utc": 1739944019.0,
+      "replies": []
+    }
+  ]
+}

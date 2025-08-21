@@ -1,0 +1,49 @@
+metric,value
+file,1hxkb42.csv
+title,New $120 16GB Raspberry Pi 5 is for the people who use it like an everyday PC
+rows,135
+num_posts,1
+num_comments,134
+unique_authors,100
+max_depth,9
+avg_comment_words,62.82
+median_comment_words,47.0
+max_comment_words,398
+positive_count,9
+negative_count,125
+neutral_count,0
+positive_pct,6.716
+negative_pct,93.284
+neutral_pct,0.0
+topic_1_keywords,"pi, raspberry, around, power, mini, cost, really, still"
+topic_1_label,"Raspberry pi, a mini, is still costing a little bit more than it is a mini"
+topic_2_keywords,"pi, aim, raspberry, better, arm, likely, people, time"
+topic_2_label,i think pi is better than pi
+topic_3_keywords,"ram, 16gb, price, rpi, 35, would, used, pi"
+topic_3_label,"ram, rpi, would cost 35 gb"
+topic_4_keywords,"pi, time, im, one, flightaware, years, ago, still"
+topic_4_label,flightaware is a time-aware
+topic_5_keywords,"much, getting, 100, micro, hp, would, instead, used"
+topic_5_label,hp would be used for a lot of things
+topic_6_keywords,"would, office, equipment, decommissioned, buy, like, much, ebay"
+topic_6_label,id like to buy a lot of equipment in ebay
+top_ngram_1,raspberry pi (30)
+top_ngram_2,hp pro (17)
+top_ngram_3,pro mini (17)
+top_ngram_4,hp pro mini (17)
+top_ngram_5,decommissioned office (17)
+top_ngram_6,office equipment (17)
+top_ngram_7,would buy (16)
+top_ngram_8,buy decommissioned (16)
+top_ngram_9,would buy decommissioned (16)
+top_ngram_10,buy decommissioned office (16)
+ner_1,HP|ORG|20
+ner_2,Raspberry Pi 5|MISC|11
+ner_3,Raspberry Pi|MISC|10
+ner_4,FlightAware|ORG|10
+ner_5,ARM|MISC|7
+ner_6,Pi|MISC|7
+ner_7,##Bay|ORG|6
+ner_8,e|MISC|5
+ner_9,Mini|MISC|4
+ner_10,eBay|ORG|4

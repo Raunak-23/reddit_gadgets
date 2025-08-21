@@ -1,0 +1,49 @@
+metric,value
+file,1j7q2z8.csv
+title,Undocumented commands found in Bluetooth chip used by a billion devices
+rows,98
+num_posts,1
+num_comments,97
+unique_authors,73
+max_depth,6
+avg_comment_words,54.97
+median_comment_words,33.0
+max_comment_words,366
+positive_count,9
+negative_count,88
+neutral_count,0
+positive_pct,9.278
+negative_pct,90.722
+neutral_pct,0.0
+topic_1_keywords,"bluetooth, esp32, esp32s2, chips, wifi, bt, use, dev"
+topic_1_label,"Bluetooth, esp32, esp32, bt, use"
+topic_2_keywords,"commands, devices, undocumented, article, share, esp32, used, espressif"
+topic_2_label,"espressif: commands, devices, undocumented article"
+topic_3_keywords,"dont, would, understand, really, commands, read, also, post"
+topic_3_label,if you want to read a post you should read it
+topic_4_keywords,"api, like, undocumented, research, door, connected, directly, mcu"
+topic_4_label,api likes to connect to mcu
+topic_5_keywords,"use, esp32, bluetooth, products, one, would, whole, chips"
+topic_5_label,a chip is used in a bluetooth device
+topic_6_keywords,"order, 66, execute, clickbait, thats, vulnerability, isnt, youre"
+topic_6_label,clickbait executes 66 stupid stupid stupid stupid s
+top_ngram_1,undocumented api (20)
+top_ngram_2,undocumented commands (12)
+top_ngram_3,directly connected (11)
+top_ngram_4,connected mcu (11)
+top_ngram_5,mcu undocumented (11)
+top_ngram_6,back door (11)
+top_ngram_7,directly connected mcu (11)
+top_ngram_8,connected mcu undocumented (11)
+top_ngram_9,mcu undocumented api (11)
+top_ngram_10,nothing triggered (10)
+ner_1,ESP|MISC|21
+ner_2,Blue|MISC|17
+ner_3,E|MISC|12
+ner_4,##SP|ORG|10
+ner_5,ESP32|MISC|10
+ner_6,Chinese|MISC|7
+ner_7,ESP32S2|MISC|6
+ner_8,Spanish|MISC|5
+ner_9,Antonio Vázquez Blanco|PER|5
+ner_10,Madrid|LOC|5

@@ -1,0 +1,1855 @@
+{
+  "post": {
+    "title": "Thousands of Asus routers are being hit with stealthy, persistent backdoors | Backdoor giving full administrative control can survive reboots and firmware updates.",
+    "author": "chrisdh79",
+    "id": "1ky6vzs",
+    "score": 3022,
+    "created_utc": 1748512672.0,
+    "selftext": "",
+    "num_comments": 231,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1ky6vzs/thousands_of_asus_routers_are_being_hit_with/"
+  },
+  "comments": [
+    {
+      "id": "muv1vc1",
+      "author": "BloodSteyn",
+      "body": "Looks over at router... Asus.\n\nFuck.",
+      "score": 1068,
+      "created_utc": 1748516500.0,
+      "replies": [
+        {
+          "id": "muv8br5",
+          "author": "Few_Lab_7042",
+          "body": "Every single hour of every single day, somebody is attempting to rip you off.  That\u2019s 2025",
+          "score": 456,
+          "created_utc": 1748519299.0,
+          "replies": [
+            {
+              "id": "muvarft",
+              "author": "TactlessTortoise",
+              "body": "That's forever. There are Ea-Nasir's with shitty copper all over the world.",
+              "score": 170,
+              "created_utc": 1748520267.0,
+              "replies": [
+                {
+                  "id": "muw72cr",
+                  "author": "zed857",
+                  "body": "> Take cognizance that (from now on) I will not accept here any copper from you that is not of fine quality. I shall (from now on) select and take the ingots individually in my own yard, and I shall exercise against you my right of rejection because you have treated me with contempt.\n\nI like to think that some time later Nanni finally got a \"say my name\" moment after capturing Ea-Nasir and his copper wagons when they least expected it.",
+                  "score": 46,
+                  "created_utc": 1748530657.0,
+                  "replies": []
+                },
+                {
+                  "id": "mv082ew",
+                  "author": "Talonsminty",
+                  "body": "Nah, since it's gone global you now need to worry about an entire planet of people trying to rip you off. \n\nNo matter the time somewhere there's a scammer awake, clocked in and working hard.",
+                  "score": 3,
+                  "created_utc": 1748575222.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "muvckvx",
+              "author": "BloodSteyn",
+              "body": "I opted for a discount circumcision, turns out, it was just a rip off.",
+              "score": 39,
+              "created_utc": 1748520966.0,
+              "replies": [
+                {
+                  "id": "muvidu9",
+                  "author": "Macho_Chad",
+                  "body": "Put it in the tip jar",
+                  "score": 32,
+                  "created_utc": 1748523069.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mux0pmk",
+              "author": "thegamingdovahbat",
+              "body": "One could say Cyberpunk 2025. Without all the rad cool stuff.",
+              "score": 4,
+              "created_utc": 1748538968.0,
+              "replies": [
+                {
+                  "id": "mv1ic2v",
+                  "author": "kevlarus80",
+                  "body": "[Possibly closer than you think.](https://news.sky.com/story/ai-is-the-key-to-astonishing-breakthrough-that-allowed-paralysed-man-to-walk-again-12888291)",
+                  "score": 1,
+                  "created_utc": 1748599614.0,
+                  "replies": [
+                    {
+                      "id": "mvjvneb",
+                      "author": "thegamingdovahbat",
+                      "body": "Yeah but is it cool as a Silverhand? \ud83d\ude05",
+                      "score": 2,
+                      "created_utc": 1748849865.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mv3o9uh",
+              "author": "Relative_Business_81",
+              "body": "And no administration smart enough to deal with it. Stuck fighting over red herrings with seats filled with the elderly.\u00a0",
+              "score": 1,
+              "created_utc": 1748625501.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muvz7go",
+          "author": "CatWeekends",
+          "body": "Maybe I'm misreading things but it looks like this isn't *that* big of a deal. [The CVE mentions](https://nvd.nist.gov/vuln/detail/CVE-2023-39780) manipulating data in a request to /start_apply.htm, which would be on the router itself.\n\nTo perform the exploit, an attacker would need to already be on your local network or your router would need to be exposed to the internet. And in either case, you were screwed long before this exploit.\n\nIMO CVE-2023-39780 isn't great, but it's also not a world-ending exploit.",
+          "score": 56,
+          "created_utc": 1748528430.0,
+          "replies": [
+            {
+              "id": "muwfh9u",
+              "author": "jaymemaurice",
+              "body": "You used to be able to make a browser do xmlhttp arbitrary requests to local addresses with JavaScript. Most routers local address is usually .1 or .254, with like 90% being 192.168.[1234]*0*. or 172.16.*. \nYou used to be able to get your arbitrary JavaScript to run widely through shady add networks or by compromising WordPress, phpbb plugin de jour. \nBut now also there's probably some python/go library in your build chain just waiting to give local access to a botnet builder. Local network access isn't always as hard as it should be.",
+              "score": 25,
+              "created_utc": 1748533025.0,
+              "replies": [
+                {
+                  "id": "muwj3y5",
+                  "author": "rooplstilskin",
+                  "body": "The Local Network policy in windows, how it spams trying to find any device in the network, is like how 90% of the bots work, connect, and propagate on windows systems. Has been for more 20 years.",
+                  "score": 12,
+                  "created_utc": 1748534040.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "muwqauf",
+              "author": "SavvySillybug",
+              "body": "> or your router would need to be exposed to the internet. \n\nLuckily routers don't interact with the Internet, so it's not an issue at all!",
+              "score": 19,
+              "created_utc": 1748536083.0,
+              "replies": [
+                {
+                  "id": "mv1nil0",
+                  "author": "byteminer",
+                  "body": "He means you would have had to log into its web interface and explicitly enable remote management, allowing connections to the web UI from the WAN side. Doing so is usually not the default and an incredibly bad idea.",
+                  "score": 6,
+                  "created_utc": 1748602247.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "muzawnp",
+              "author": "Worldly_Ad_2267",
+              "body": "Right so you would see lots of failed login attempts in the logs. Not sure if asus locks out the admin account after certain amount of failed tries.",
+              "score": 1,
+              "created_utc": 1748563521.0,
+              "replies": []
+            },
+            {
+              "id": "mv43tbk",
+              "author": "DuneChild",
+              "body": "Wouldn\u2019t they just need to get malware onto a device on the network though?",
+              "score": 1,
+              "created_utc": 1748629850.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muwtgdn",
+          "author": "CosmicCreeperz",
+          "body": "The actual report (vs the detail free article linked) said the initial access was from \u201cBrute-force login attempts.\u201d\n\nThat means people are turning on access to their rioter UI or ssh etc on the public IP and protecting it with a crappy password.  That\u2019s no different from any other computer you might give a public IP.\n\nYears ago I put a Windows NT PC on a public IP to act as a home router for a brief time until I replaced my broken router.  I figured it would be ok for a couple days - note there was no login/etc available from public side.  Took about a day for it to get owned.  Luckily it was a clean install with no useful data so I just wiped it.",
+          "score": 10,
+          "created_utc": 1748536970.0,
+          "replies": [
+            {
+              "id": "mv1u0ig",
+              "author": "Emu1981",
+              "body": ">Years ago I put a Windows NT PC on a public IP\n\n20 odd years ago I went to reinstall Windows XP but I was missing the service pack(s).  The computer was connected directly to the ADSL modem with no firewall as Windows didn't come with one back then and whatever firewall I was going to be using wouldn't install without the service packs.  The machine was compromised before I could even navigate through MS's website to start the download.  If I remember right I ended up using Linux with the backup dialup connection to download the service packs so I could install Windows so I could use the ADSL modem lol",
+              "score": 6,
+              "created_utc": 1748605099.0,
+              "replies": [
+                {
+                  "id": "mvgmcd9",
+                  "author": "tokkyuuressha",
+                  "body": "Yeah unpatched XP got 100-0 instantly as soon as it touched the internet back in the days. Sasser, was it?",
+                  "score": 1,
+                  "created_utc": 1748804122.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "muwukld",
+              "author": "nihility101",
+              "body": "If you want to use their Instant Guard app which creates a VPN tunnel from your phone back to your home network, the remote access is required to be on. \n\nBut setting up wireguard is almost as easy and doesn\u2019t have that requirement.",
+              "score": 3,
+              "created_utc": 1748537282.0,
+              "replies": [
+                {
+                  "id": "muyx47l",
+                  "author": "Nodoka-Rathgrith",
+                  "body": "Yeaaah.. I use Instant Guard.. gonna go ahead and just start using tailscale now...",
+                  "score": 3,
+                  "created_utc": 1748558954.0,
+                  "replies": []
+                },
+                {
+                  "id": "mv0u2rz",
+                  "author": "lirannl",
+                  "body": "Wireguard is so good",
+                  "score": 2,
+                  "created_utc": 1748585569.0,
+                  "replies": []
+                },
+                {
+                  "id": "muzu1ec",
+                  "author": "DarthSidiousPT",
+                  "body": "Is there any guide for that?\nAlso, which app replaces *Instant Guard*, which tbf, is nice and works as expected.",
+                  "score": 1,
+                  "created_utc": 1748570091.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "mv0ferl",
+              "author": "TheRealSectimus",
+              "body": "So set up fail2ban. Problem solved",
+              "score": 0,
+              "created_utc": 1748578317.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muws8vr",
+          "author": "fkdisshyt",
+          "body": "I paid 500 bucks for this sht",
+          "score": 7,
+          "created_utc": 1748536634.0,
+          "replies": [
+            {
+              "id": "mux18cj",
+              "author": "sblahful",
+              "body": "You pay for routers? Our ISPs give them free",
+              "score": -6,
+              "created_utc": 1748539109.0,
+              "replies": [
+                {
+                  "id": "mux9gmi",
+                  "author": "Jiopaba",
+                  "body": "In my experience your ISP is charging you five to ten bucks a month to rent a router which cost less than a hundred dollars.\n\nIf your ISP really just gives it to you and doesn't sneakily offer a discount if you opt not to use it, then they're a unicorn.",
+                  "score": 12,
+                  "created_utc": 1748541356.0,
+                  "replies": [
+                    {
+                      "id": "muylsyp",
+                      "author": "healious",
+                      "body": "Yeah any time an ISP has \"given\" me a router, it was a modern/router combo that was trash, would set that shit to passthrough and use my own router",
+                      "score": 8,
+                      "created_utc": 1748555324.0,
+                      "replies": [
+                        {
+                          "id": "muyml2w",
+                          "author": "Jiopaba",
+                          "body": "People act like they're getting a good deal.  \"My phone company gives me a new phone every year!\"  Wrong, they distribute the cost of a new phone into your contract over a year and you will keep paying it whether you take the \"new phone\" you're entitled to or not. \n\nIt's the same scheme with routers from ISPs, phone companies are great at this.  There are probably still people out there who are paying $5 every month to some far-flung descendant of the Bell Telephone Company to rent a landline handset that they've had in their house for six decades.",
+                          "score": 4,
+                          "created_utc": 1748555562.0,
+                          "replies": [
+                            {
+                              "id": "muyn85p",
+                              "author": "healious",
+                              "body": "My dad would feel seen if he knew what Reddit was and saw your comment lol",
+                              "score": 3,
+                              "created_utc": 1748555758.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "muyzzsk",
+                      "author": "Mongolian_Hamster",
+                      "body": "Wtf you guys have to pay to rent routers from your isp? Jfc. Let me guess. Murica.",
+                      "score": 3,
+                      "created_utc": 1748559899.0,
+                      "replies": [
+                        {
+                          "id": "muz1t7u",
+                          "author": "Jiopaba",
+                          "body": "Yep.  I've never encountered an ISP yet that doesn't let you opt out of it, but they'll drag their feet on it and try to be a huge pain in the ass if you want to \"Bring Your Own Device.\"  They'll send regular reminders about how much better your speed could be if you used their company branded equipment, even if you're literally using the commercial version of the exact model that would give you minus their sticker.\n\nI had one ISP a decade ago that would send you the router and you'd have to ship it back at your own expense and then separately call them and request the line item be removed from your bill because you weren't interested in renting it from them, so it's really petty bullshit.\n\nOver one person it's not a huge amount of money, but they pull these scams at scale on millions of people, and the average person has not the slightest clue what a router or a modem really even is except \"box that makes wifi.\"\n\nSo... lots of people pay many times more than their outdated garbage networking equipment is worth to \"rent\" it from their ISP, and then get charged fees if they lose the equipment or it gets damaged.  My mom got slapped with a $120 fee for a $70 router/modem combo that got stolen out of a parked car, which she had already paid $600 for over the last decade.",
+                          "score": 1,
+                          "created_utc": 1748560497.0,
+                          "replies": [
+                            {
+                              "id": "mv1juck",
+                              "author": "Mongolian_Hamster",
+                              "body": "Do people in the US know that the rest of the world doesn't do this?",
+                              "score": 2,
+                              "created_utc": 1748600421.0,
+                              "replies": [
+                                {
+                                  "id": "mv2z010",
+                                  "author": "Jiopaba",
+                                  "body": "The average person, maybe not.  I've been to Europe enough that I know this though.\n\nIt's extra funny because even at like US Military bases in foreign countries they negotiate some kind of absolute monopoly with the local service providers which gives them the power to just completely hose servicemembers for no reason even when everyone around is getting a fairer deal.  It's like we go out of our way to bring crappy internet with us.",
+                                  "score": 2,
+                                  "created_utc": 1748618406.0,
+                                  "replies": [
+                                    {
+                                      "id": "mv4ptkc",
+                                      "author": "Mongolian_Hamster",
+                                      "body": "Interesting fact! That's crazy. Thanks for sharing.",
+                                      "score": 2,
+                                      "created_utc": 1748636381.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mv54swl",
+                      "author": "sblahful",
+                      "body": "It's pretty much universal for ISPs in the UK. It technically still belongs to the ISP and they'll ask for it back if you switch to another provider, but they don't care if you don't return it",
+                      "score": 2,
+                      "created_utc": 1748640872.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "muyveqp",
+                      "author": "thetwelveofsix",
+                      "body": "My fiber provider (AT&T) provides a modem with built-in WiFi router with no opt out discount (and you can\u2019t use it without a fiber modem anyway).  But it wouldn\u2019t cover my house entirely and they do charge a monthly for mesh satellites.  If I were in a smaller house/apartment, the built-in would probably be sufficient.  I have my own mesh system behind the modem instead.",
+                      "score": 1,
+                      "created_utc": 1748558389.0,
+                      "replies": [
+                        {
+                          "id": "muz254s",
+                          "author": "Jiopaba",
+                          "body": "At least you're getting fiber, I guess.  Hope it's good!",
+                          "score": 2,
+                          "created_utc": 1748560605.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "mv0r585",
+                          "author": "MrNerd82",
+                          "body": "AT&T fiber user here as well -- yes they give your own wifi/router/ONT device,  their passthrough is garbage. And mine is sitting unplugged in a cardboard box in the closet. \n\nFun nerd/hack info - you don't *have* to use their hardware, you can buy and program a bypass SPF module with the cloned MAC and other access information. \n\nBasically it's a full micro router that's been programmed into an SFP module.  The extra hardware was like $120 when I got it on a group buy.  Anyone interested can google WAS-110 bypass + AT&T and go down the rabbit hole.   Their 8311 discord group dedicated to this was super helpful. \n\n\nlove my AT&T fiber, it's been rock solid since I got rid of their jank router/ONT they give out for free.   Zero software restrictions or cumbersome port port issues.",
+                          "score": 2,
+                          "created_utc": 1748584000.0,
+                          "replies": [
+                            {
+                              "id": "mv3ilk2",
+                              "author": "thetwelveofsix",
+                              "body": "Interesting.  Will have to take a look if I ever run into any issues.  So far, haven\u2019t had any issues (and only one outage lasting more than a few minutes) and have been on then 7ish years.",
+                              "score": 1,
+                              "created_utc": 1748623925.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "muxdaks",
+                  "author": "pzpzpz24",
+                  "body": "used to. they've since realized they can just pass that cost to the customer.",
+                  "score": 2,
+                  "created_utc": 1748542433.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muvh94i",
+          "author": "doctorcapslock",
+          "body": "your ssh is probably disabled by default anyway. mine was",
+          "score": 25,
+          "created_utc": 1748522677.0,
+          "replies": [
+            {
+              "id": "muvsjrr",
+              "author": "-Badger3-",
+              "body": "This exploit *enables* SSH, it's not installed through it.",
+              "score": 37,
+              "created_utc": 1748526416.0,
+              "replies": [
+                {
+                  "id": "muvy003",
+                  "author": "doctorcapslock",
+                  "body": "i see. so if it is enabled and you didn't enable it yourself, you are right to be worried",
+                  "score": 8,
+                  "created_utc": 1748528082.0,
+                  "replies": [
+                    {
+                      "id": "muvzsl2",
+                      "author": "-Badger3-",
+                      "body": "Yes, and ssh will be assigned to port 53282 and the authorized key \"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAo41nBoVFfj4HlVMGV+YPsxMDrMlbdDZ...\"",
+                      "score": 14,
+                      "created_utc": 1748528597.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "muxbt9r",
+                      "author": "ziris_",
+                      "body": "Yes, especially if you have an ASUS RT-AX55 router with the specific version of software this applies to. \n\nWhile I'm sure there are a lot of routers out there that this applies to, I'm sure it's not nearly as many as the title makes it sound like. Anyone who upgraded their firmware, and I know a lot of people never do, or those who are using Merlin, are perfectly safe. \n\nThis applies to one specific model of router with one specific software version.",
+                      "score": 7,
+                      "created_utc": 1748542013.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "muvi9mr",
+              "author": "BloodSteyn",
+              "body": "Should be, only SSH I use is for my 3D Printer",
+              "score": 4,
+              "created_utc": 1748523029.0,
+              "replies": [
+                {
+                  "id": "muvtv0s",
+                  "author": "-Badger3-",
+                  "body": "You need to check. This exploit enables ssh and installs a backdoor, the installation itself has nothing to do with whether or not you had ssh enabled.",
+                  "score": 13,
+                  "created_utc": 1748526822.0,
+                  "replies": [
+                    {
+                      "id": "muvui1r",
+                      "author": "BloodSteyn",
+                      "body": "Will do when I get home.",
+                      "score": 2,
+                      "created_utc": 1748527019.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muw4krw",
+          "author": "ChickittyChicken",
+          "body": "Looks over at router\u2026 Pfsense.\n\n\ud83d\ude03",
+          "score": 17,
+          "created_utc": 1748529962.0,
+          "replies": [
+            {
+              "id": "muxaumn",
+              "author": "WeiliiEyedWizard",
+              "body": "Pfsense, because if anyone is gonna open a security hole in my firewall it's gonna be ME misunderstanding settings!",
+              "score": 41,
+              "created_utc": 1748541739.0,
+              "replies": [
+                {
+                  "id": "muy44jl",
+                  "author": "FeralSparky",
+                  "body": "Your god damn right!!!",
+                  "score": 7,
+                  "created_utc": 1748550133.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muwuslc",
+          "author": "Edward_TH",
+          "body": "Let me introduce you to the wonder of OpenWRT.",
+          "score": 7,
+          "created_utc": 1748537344.0,
+          "replies": [
+            {
+              "id": "mv1o9lz",
+              "author": "Tobi97l",
+              "body": "You wouldn't download a router!",
+              "score": 1,
+              "created_utc": 1748602593.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muwci12",
+          "author": "ambermage",
+          "body": "Can confirm, I'm in your backdoor.",
+          "score": 2,
+          "created_utc": 1748532190.0,
+          "replies": [
+            {
+              "id": "mux82h9",
+              "author": "BloodSteyn",
+              "body": "And you didn't even buy me dinner first.",
+              "score": 3,
+              "created_utc": 1748540978.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muze3nw",
+          "author": "Jkay064",
+          "body": "I received 5 or 6 emails a couple of weeks ago, warning me to upgrade my firmware. Did you register your device?",
+          "score": 1,
+          "created_utc": 1748564627.0,
+          "replies": []
+        },
+        {
+          "id": "muzpj90",
+          "author": "None",
+          "body": "Don\u2019t worry, mine are TP-Link.",
+          "score": 1,
+          "created_utc": 1748568584.0,
+          "replies": []
+        },
+        {
+          "id": "muzq5x9",
+          "author": "Trick2056",
+          "body": "me who has already a chinese company router - First time?",
+          "score": 1,
+          "created_utc": 1748568801.0,
+          "replies": []
+        },
+        {
+          "id": "muzrtgx",
+          "author": "None",
+          "body": "Fuck I have the Asus RT-AX88U as well \ud83d\ude30",
+          "score": 1,
+          "created_utc": 1748569351.0,
+          "replies": []
+        },
+        {
+          "id": "mv1eoy2",
+          "author": "Fuck-Star",
+          "body": "My TP Link isn't any better. \n\nFuck.",
+          "score": 1,
+          "created_utc": 1748597604.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muv3n96",
+      "author": "Tenziru",
+      "body": "\u201c only way for router users to determine whether their devices are infected is by checking the SSH settings in the configuration panel. Infected routers will show that the device can be logged into by SSH over port 53282 using a digital certificate with a truncated key of\n\nssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAo41nBoVFfj4HlVMGV+YPsxMDrMlbdDZ...\nTo remove the backdoor, infected users should remove the key and the port setting.\u201d\n\nOkay sounds like factory reset or manual removal, patched already but still need to be removed if infected",
+      "score": 382,
+      "created_utc": 1748517303.0,
+      "replies": [
+        {
+          "id": "muv4687",
+          "author": "mbergman42",
+          "body": "Yeah, I think the secure key storage is compromised and reboots and firmware updates don\u2019t clear it\u2026 \n\nEdit: removed \u201cresets\u201d, article doesn\u2019t mention that.",
+          "score": 93,
+          "created_utc": 1748517538.0,
+          "replies": [
+            {
+              "id": "muvzpl3",
+              "author": "S_A_N_D_",
+              "body": "Reboots and firmware updates preserve settings, and it's effectively just changed some settings rather than a hardcoded back door, so it makes sense it would be preserved. This is a built in feature otherwise you'd need to set up your router after every rebbot or firmware update. \n\nAs others have pointed out, a factory reset should kill it, or you can just go in and disable SSH and delete the key (and update firmware to close the original vulnerabilities).\n\nEdit: Fixed a word.",
+              "score": 48,
+              "created_utc": 1748528573.0,
+              "replies": [
+                {
+                  "id": "muxgtig",
+                  "author": "ChrisSlicks",
+                  "body": "Yeah, the ones being hit are those that haven't updated their firmware and the exploit is available to allow them to bypass auth and change the SSH settings.  For internet facing devices enabling auto-update is probably a good idea.",
+                  "score": 3,
+                  "created_utc": 1748543439.0,
+                  "replies": []
+                },
+                {
+                  "id": "muw4isy",
+                  "author": "subdep",
+                  "body": "Best fix is to unplug it, e-waste the thing, and buy a more reputable router.",
+                  "score": -22,
+                  "created_utc": 1748529947.0,
+                  "replies": [
+                    {
+                      "id": "muw7u6m",
+                      "author": "ikyn",
+                      "body": "Like what? Asus makes fine hardware for entry level consumers at a competitive price. What alternative? Outside of Netgear, there isn\u2019t much. TP-Link is literally baked in spyware and so is anything sold by Amazon. I\u2019d rather a hacker try to use my network as a zombie than have my personal browsing history beamed straight to Amazon.",
+                      "score": 14,
+                      "created_utc": 1748530875.0,
+                      "replies": [
+                        {
+                          "id": "muwfgdu",
+                          "author": "Difficult-Way-9563",
+                          "body": "TP-Link is garbage tier and only reason they popular is they are rock bottom price.",
+                          "score": 0,
+                          "created_utc": 1748533018.0,
+                          "replies": [
+                            {
+                              "id": "muxiv6t",
+                              "author": "mustafacan",
+                              "body": "For my home setup, I buy Tp-Link routers and flash OpenWRT on them. They make great hardware.",
+                              "score": 1,
+                              "created_utc": 1748544023.0,
+                              "replies": [
+                                {
+                                  "id": "mv318ra",
+                                  "author": "ikyn",
+                                  "body": "Asus Merlin - same concept",
+                                  "score": 1,
+                                  "created_utc": 1748619034.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "muxzxru",
+                          "author": "subdep",
+                          "body": "They literally sell Asus routers on Amazon, yet there you are saying you wouldn\u2019t ever buy routers on Amazon.\n\nMake up your damned mind before you attempt to make a point.",
+                          "score": -9,
+                          "created_utc": 1748548936.0,
+                          "replies": [
+                            {
+                              "id": "muzr9wj",
+                              "author": "ikyn",
+                              "body": "Being sold on amazon isn't the same as being sold BY amazon, such as eero.\n\nYou need to learn to understand nuance and context and that words mean things.",
+                              "score": 2,
+                              "created_utc": 1748569173.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "muxbce7",
+              "author": "SureUnderstanding358",
+              "body": "i would be very very very surprised if any consumer router has secure key storage. its very likely just sitting on NAND in plaintext.",
+              "score": 6,
+              "created_utc": 1748541878.0,
+              "replies": [
+                {
+                  "id": "muxpgy9",
+                  "author": "mbergman42",
+                  "body": "Probably true. I sort of meant \u201csecurity key storage\u201d but wrote \u201csecure key storage\u201d. Thanks for the correction.",
+                  "score": 2,
+                  "created_utc": 1748545918.0,
+                  "replies": [
+                    {
+                      "id": "muzk05e",
+                      "author": "SureUnderstanding358",
+                      "body": "\ud83c\udf7b",
+                      "score": 2,
+                      "created_utc": 1748566652.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "muxrmt3",
+                  "author": "mbergman42",
+                  "body": "Probably true. I sort of meant \u201csecurity key storage\u201d but wrote \u201csecure key storage\u201d. Thanks for the correction.",
+                  "score": 1,
+                  "created_utc": 1748546544.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muvam7d",
+          "author": "judgejuddhirsch",
+          "body": "i use that port for wireguard",
+          "score": 13,
+          "created_utc": 1748520210.0,
+          "replies": [
+            {
+              "id": "muvn2l6",
+              "author": "mbeachcontrol",
+              "body": "That\u2019s amazing. I use the same port for my luggage.",
+              "score": 54,
+              "created_utc": 1748524655.0,
+              "replies": [
+                {
+                  "id": "muwlhl9",
+                  "author": "Hydra_Master",
+                  "body": "Spaceballs?!  Welp, there goes the network.",
+                  "score": 7,
+                  "created_utc": 1748534713.0,
+                  "replies": [
+                    {
+                      "id": "muws2mi",
+                      "author": "Frodojj",
+                      "body": "I'm the bearded lady. Who are you? One of the freaks?!?",
+                      "score": 3,
+                      "created_utc": 1748536586.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muwgpmt",
+          "author": "IceChiseled",
+          "body": "In my Asus Router app, in Settings > System Settings > Access Configuration > Remote Access Config > \"Web access from WAN\" is disabled and Local Access Config looks like it's setup over port 8443. Does this mean I'm good or am I not even looking in the right place?\n\nI'm not seeing anything specifically stating \"SSH\" access anywhere in settings.",
+          "score": 5,
+          "created_utc": 1748533369.0,
+          "replies": [
+            {
+              "id": "muwloh2",
+              "author": "Tenziru",
+              "body": "for asus router to find out of ssh setting it would \n\nunder advance setting> Administrator> system >services\n\nyou are more then likely okay. but I would still recommend making sure you have the latest firm ware update for me mine last one was on the 15th and mine is form like 2020 i think",
+              "score": 7,
+              "created_utc": 1748534767.0,
+              "replies": [
+                {
+                  "id": "muy5gmb",
+                  "author": "dominus_aranearum",
+                  "body": "Is this even an issue if one is using an alternative firmware on their Asus router?",
+                  "score": 2,
+                  "created_utc": 1748550511.0,
+                  "replies": [
+                    {
+                      "id": "muy7ha8",
+                      "author": "Tenziru",
+                      "body": "it depends on if your alternative firmware has the same vulnerability but more then likely not you would have to keep up with the provider of the firmware to know. this was  patched out of asus firmware a year or so ago. its just that some people don't do firmware updates or have no longer supported older equipment. \n\nthis is a direct asus firmware based attack but like everything no firmware is invulnerable. Always keep it updated, use strong credentials, and disable remote admin access unless you absolutely need it",
+                      "score": 5,
+                      "created_utc": 1748551086.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "muwlorr",
+              "author": "A_Doormat",
+              "body": "Are you using the Asus app to view these settings? If so, you won't see it there. You have to go to the actual WebUI.\n\nIn there its Administration on the left > System tab at the top.",
+              "score": 3,
+              "created_utc": 1748534770.0,
+              "replies": [
+                {
+                  "id": "muxf9lt",
+                  "author": "IceChiseled",
+                  "body": "That was it, thank you. And it was off",
+                  "score": 3,
+                  "created_utc": 1748542996.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muw0ewd",
+          "author": "UnrealisticOcelot",
+          "body": "Is there any reason to truncate the public key when the purpose of displaying it is to assist people with identifying it? Seems like an odd thing to do in the article.",
+          "score": 3,
+          "created_utc": 1748528776.0,
+          "replies": [
+            {
+              "id": "muw9wth",
+              "author": "Tenziru",
+              "body": "Posting only part of the key is usually a cautious choice some of it do to legal standers and journalistic practices in security. It's done to reduce the risk of abuse, even if it makes user side validation harder . But from a defender\u2019s perspective, it would\u2019ve been better to include either the full key in a secure context, or the fingerprint that is correct. its pretty slandered practice they don't want accidental spreading of infections. though their is enough for people who are into security to have enough information to identify or get close enough to see if infected or not. \n\nif I was uncertain I would suggest factory reset, strong router password, and updating to latest firmware as it has been patched. resetting to factory is only way to get rid of protestant changes.",
+              "score": 5,
+              "created_utc": 1748531461.0,
+              "replies": [
+                {
+                  "id": "muxcihx",
+                  "author": "UnrealisticOcelot",
+                  "body": "You're saying with the full public key exposed it would spread infections because people would take that and put it in their authorized keys file?",
+                  "score": 3,
+                  "created_utc": 1748542213.0,
+                  "replies": [
+                    {
+                      "id": "muxk4p6",
+                      "author": "TumblrInGarbage",
+                      "body": "I bet at least one person might consider it, regardless of how poorly thought out that would be.  There are plenty of people who like experimenting with malware and attacks.",
+                      "score": 2,
+                      "created_utc": 1748544384.0,
+                      "replies": [
+                        {
+                          "id": "muyxaie",
+                          "author": "UnrealisticOcelot",
+                          "body": "I mean, if someone wants to purposely open a device to the Internet and allow login with a key that they know a malicious actor has access to, then that's on them. It's like opening up ssh to the Internet and using Password1 as the root password.",
+                          "score": 1,
+                          "created_utc": 1748559012.0,
+                          "replies": [
+                            {
+                              "id": "muz1q57",
+                              "author": "Catenane",
+                              "body": "Plenty of people tried jenkem after reading about it on the internet, so I wouldn't be too surprised lol.",
+                              "score": 2,
+                              "created_utc": 1748560469.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muw9agk",
+          "author": "None",
+          "body": "My Asus router is old and requires a factory reset any time I lose internet connection anyway, lmao",
+          "score": 2,
+          "created_utc": 1748531285.0,
+          "replies": [
+            {
+              "id": "muwarf6",
+              "author": "Tenziru",
+              "body": "as long as you are up to date on firmware thats fine or maybe just replace cause that is wild.",
+              "score": 0,
+              "created_utc": 1748531701.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "mv065jz",
+          "author": "GimmickMusik1",
+          "body": "> patched already but still need to be removed if infected \n\nIt\u2019s almost definitely this. While this is a big issue, I\u2019d imagine that ASUS also doesn\u2019t want to release an update that forcefully removes port entries matching the description because they don\u2019t want to screw up people who are legitimately using the reported port for something. It\u2019s insanely unlikely, but you never know.",
+          "score": 1,
+          "created_utc": 1748574463.0,
+          "replies": []
+        },
+        {
+          "id": "mv6w8yg",
+          "author": "yogopig",
+          "body": "How in the fuck does something like this slip past? At least its easy to fix but fuck\u2026",
+          "score": 1,
+          "created_utc": 1748664191.0,
+          "replies": []
+        },
+        {
+          "id": "muvctki",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 0,
+          "created_utc": 1748521056.0,
+          "replies": [
+            {
+              "id": "muvimat",
+              "author": "suicidaleggroll",
+              "body": "The SSH back door discussed there isn\u2019t the vulnerability. \u00a0The vulnerability is elsewhere in the authentication mechanism. \u00a0The attacker uses the vulnerability to add said SSH backdoor so they can easily get back in later after the system has been patched. \u00a0So who turns on SSH and opens that random port? \u00a0The attacker does, that\u2019s the point. \u00a0If you look at your settings and see SSH is on and listening to that port, it doesn\u2019t mean you\u2019re vulnerable, it means you\u2019ve already been infected.",
+              "score": 14,
+              "created_utc": 1748523150.0,
+              "replies": []
+            },
+            {
+              "id": "muviwbz",
+              "author": "joranth",
+              "body": "The attacker.\n\nThe threat actor used a vulnerability in the firmware, (that now is patched or if not patched individually the patch is available), to gain remote admin access to the router, and configured the port and installed the SSH key.",
+              "score": 5,
+              "created_utc": 1748523246.0,
+              "replies": []
+            },
+            {
+              "id": "muvedeg",
+              "author": "Tenziru",
+              "body": "well yea, you also gotta have ssh enabled, and which its default off, its a very niche back door tbh.",
+              "score": 2,
+              "created_utc": 1748521635.0,
+              "replies": [
+                {
+                  "id": "muvjlbu",
+                  "author": "suicidaleggroll",
+                  "body": "The attacker is the one that turns SSH on and sets it to listen for incoming connections on that port on the external interface. \u00a0SSH being on isn\u2019t the cause of the problem, it\u2019s a symptom that you\u2019ve already been infected, like waking up and finding a text file called \u201cYou\u2019ve been pwned\u201d sitting on your desktop.",
+                  "score": 10,
+                  "created_utc": 1748523483.0,
+                  "replies": [
+                    {
+                      "id": "muvlyqx",
+                      "author": "Tenziru",
+                      "body": "I didn\u2019t think of it like that. Thanks for pointing it out, I appreciate the correction.. SSH being on is more of a symptom, not the root cause",
+                      "score": 4,
+                      "created_utc": 1748524286.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muv4vpe",
+      "author": "jonathanrdt",
+      "body": "> The unknown attackers gain access to the devices by exploiting now-patched vulnerabilities, some of which have never been tracked through the internationally recognized CVE system.\n\nThat would seem to suggest that folks who stayed current on their devices have very low risk.",
+      "score": 62,
+      "created_utc": 1748517847.0,
+      "replies": [
+        {
+          "id": "muw2tpr",
+          "author": "Jasong222",
+          "body": "I actually just commented about that. But yes, it looks like if you're up to date, and don't show the 'symptom', ssh turned on, listening at the port they mentioned, then you should be ok.",
+          "score": 8,
+          "created_utc": 1748529467.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muv5ytw",
+      "author": "PeterDTown",
+      "body": ">to determine whether their devices are infected is by checking the SSH settings in the configuration panel. Infected routers will show that the device can be logged into by SSH over port 53282 using a digital certificate with a truncated key of\n>\n>ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAo41nBoVFfj4HlVMGV+YPsxMDrMlbdDZ...\n>\n>To remove the backdoor, infected users should remove the key and the port setting.\n>\n>People can also determine if they\u2019ve been targeted if system logs indicate that they have been accessed through the IP addresses 101.99.91[.]151, 101.99.94[.]173, 79.141.163[.]179, or 111.90.146[.]237. Users of any router brand should always ensure their devices receive security updates in a timely manner.",
+      "score": 32,
+      "created_utc": 1748518314.0,
+      "replies": [
+        {
+          "id": "muvdloh",
+          "author": "random_beard_guy",
+          "body": "So if I never had SSH enabled I should be good?",
+          "score": 1,
+          "created_utc": 1748521349.0,
+          "replies": [
+            {
+              "id": "muvea8d",
+              "author": "PeterDTown",
+              "body": "I don\u2019t read it that way. I read it as the exploit included a method for enabling ssh",
+              "score": 11,
+              "created_utc": 1748521602.0,
+              "replies": [
+                {
+                  "id": "muvhxqr",
+                  "author": "random_beard_guy",
+                  "body": "I couldn\u2019t see the IPs mentioned in the article but don\u2019t know how to check for that SSH key or TCP port.",
+                  "score": 1,
+                  "created_utc": 1748522915.0,
+                  "replies": [
+                    {
+                      "id": "muvsmnf",
+                      "author": "SirDigbyChknCaesar",
+                      "body": "It's in the Administration section, under the System tab. If SSH is enabled there will be a port and key setting shown.",
+                      "score": 5,
+                      "created_utc": 1748526442.0,
+                      "replies": [
+                        {
+                          "id": "muwbs5g",
+                          "author": "random_beard_guy",
+                          "body": "Thanks. When I switched the drop down from no to LAN only or LAN & WAN there was nothing on the Authorized Keys field so I guess I\u2019m good.",
+                          "score": 1,
+                          "created_utc": 1748531988.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muv771f",
+      "author": "twiggs462",
+      "body": ">[RMerlin said:](https://www.snbforums.com/goto/post?id=957048)This article is about the malware itself, not about a new security issue. That malware is getting installed through brute forcing of the login, or through old security issues (one of them going back to 2023 - long fixed).RMerlin's comment from the other snbforums discussion in case people are  \n not clicking on the link and reading the other discussion comments:  \n  \n  \n  \n  \n  \n\t  \n\t\t  \n  \n\t\t\t  \nRMerlin said:  \n\t\t\t  \n\t\t  \n  \n\t  \n\t  \n  \n\t\t  \n\t\t  \n  \n\t\t\tThis article is about the malware itself, not about a new security   \nissue.  That malware is getting installed through brute forcing of the   \nlogin, or through old security issues (one of them going back to 2023 -   \nlong fixed).",
+      "score": 41,
+      "created_utc": 1748518832.0,
+      "replies": [
+        {
+          "id": "muv77w2",
+          "author": "twiggs462",
+          "body": "[https://www.snbforums.com/threads/large-scale-asus-router-hack.94821/](https://www.snbforums.com/threads/large-scale-asus-router-hack.94821/)",
+          "score": 9,
+          "created_utc": 1748518842.0,
+          "replies": [
+            {
+              "id": "muvfi2s",
+              "author": "dfuqt",
+              "body": "Im getting a message stating that the requested thread can\u2019t be found. I\u2019ve tried a manual copy and paste as well as clicking through the link. Can you still see it?",
+              "score": 6,
+              "created_utc": 1748522050.0,
+              "replies": [
+                {
+                  "id": "muvht3y",
+                  "author": "twiggs462",
+                  "body": "That's odd... I can't access now. I suggest following this thread anyways and install Asus Merlin on your device.\n\nhttps://www.snbforums.com/forums/asuswrt-merlin.42/",
+                  "score": 5,
+                  "created_utc": 1748522871.0,
+                  "replies": [
+                    {
+                      "id": "muvko8b",
+                      "author": "dfuqt",
+                      "body": "Thanks. I used to use Merlin on my AC86U but haven\u2019t used it since I got my AX86U pro. I\u2019ll take a look this weekend.",
+                      "score": 2,
+                      "created_utc": 1748523852.0,
+                      "replies": [
+                        {
+                          "id": "muvu4zo",
+                          "author": "twiggs462",
+                          "body": "No problem. I like Merlin. Has worked well for me.",
+                          "score": 2,
+                          "created_utc": 1748526908.0,
+                          "replies": [
+                            {
+                              "id": "muvwdpc",
+                              "author": "dfuqt",
+                              "body": "Yeah me too. I used it back then because it had much better VPN routing, whereas the default firmware was all or nothing if I remember correctly. \n\nThe only downside was that the firmware upgrades were a little more involved, meaning they wouldn\u2019t get done when I was travelling.",
+                              "score": 1,
+                              "created_utc": 1748527598.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muvlw6d",
+      "author": "dfuqt",
+      "body": "Am I reading this right, that as long as the GUI on the Administration page / system tab shows that \u201cEnable SSH\u201d is set to No, then there\u2019s no issue? \n\nI\u2019m away from home at the moment but I\u2019ve asked someone to check. As it\u2019s set to no then the SSH port and Authorized Keys fields aren\u2019t displayed. I don\u2019t really want them going any deeper than that, as they don\u2019t know what they\u2019re doing and won\u2019t be able to fix it if they cause any problems.",
+      "score": 15,
+      "created_utc": 1748524262.0,
+      "replies": [
+        {
+          "id": "muvvi4e",
+          "author": "-Badger3-",
+          "body": "If it says SSH is disabled, then you haven't been affected. But you still need to make sure your device firmware is up to date.",
+          "score": 6,
+          "created_utc": 1748527326.0,
+          "replies": [
+            {
+              "id": "muvxag1",
+              "author": "dfuqt",
+              "body": "Yeah mine\u2019s always up to date. It\u2019s concerning how many people don\u2019t realise that updates are even required. There must be millions of routers out there that haven\u2019t even been supported in years.",
+              "score": 3,
+              "created_utc": 1748527872.0,
+              "replies": []
+            },
+            {
+              "id": "mux1fz3",
+              "author": "mikami677",
+              "body": "Mine is unaffected, but apparently the firmware hasn't been updated since 2016... should probably get on that.",
+              "score": 1,
+              "created_utc": 1748539168.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muvswxl",
+          "author": "SirDigbyChknCaesar",
+          "body": "I believe you are correct. I would still make sure your firmware is up to date the next chance you have.",
+          "score": 10,
+          "created_utc": 1748526530.0,
+          "replies": [
+            {
+              "id": "muvwrrj",
+              "author": "dfuqt",
+              "body": "Definitely. I\u2019m almost obsessive in keeping the firmware up to date. I don\u2019t allow automatic updates but it will be manually installed within a day of release.",
+              "score": 2,
+              "created_utc": 1748527715.0,
+              "replies": [
+                {
+                  "id": "muvx3qc",
+                  "author": "SirDigbyChknCaesar",
+                  "body": "I did the same thing this morning before I left for work. Checked the SSH setting and it looked fine. But my wife works from home so I'll have to update it later.",
+                  "score": 2,
+                  "created_utc": 1748527815.0,
+                  "replies": []
+                },
+                {
+                  "id": "mux881h",
+                  "author": "RedOctobyr",
+                  "body": "How do you know when updates are released? Sorry if that's a dumb question. I only use the web interface. And, umm, not as often as would be ideal. So I will be checking for this on mine.",
+                  "score": 2,
+                  "created_utc": 1748541020.0,
+                  "replies": [
+                    {
+                      "id": "muxge0f",
+                      "author": "dfuqt",
+                      "body": "I tend to keep a look out on https://www.snbforums.com \n\nUnder the main ASUS Wi-Fi forum there are sub-forums for the various router model groups and also ASUSWRT - Official \n\nNew releases usually get posted there. There are some users there who are very quick to update, and will often comment on any issues which have been found. \n\nI also check the official support pages on the ASUS website but sometimes that can take a while to update. A Google search with the model of your router plus firmware for example: **ASUS AX86U Pro firmware** should find it. \n\nUsually I\u2019ll check from the GUI if I login but that\u2019s not very often. I don\u2019t know how quickly it will update if auto firmware upgrade is turned on but I\u2019m personally not keen on it updating automatically even though I\u2019m in a hurry to get the new firmware installed.\n\nEdit: just make sure that google is taking you to the correct ASUS website and section as it can be a bit unreliable and random for some reason.",
+                      "score": 3,
+                      "created_utc": 1748543317.0,
+                      "replies": [
+                        {
+                          "id": "muzoosa",
+                          "author": "RedOctobyr",
+                          "body": "Thanks! Mine checked out OK, SSH was still off, and no keys listed when I temporarily selected turning it on (without actually Applying that). But I updated to the current firmware. \n\nI'm a bit on the fence about enabling Auto Updates, because this time I actually needed to reboot the router twice, along with the cable modem, to get the WiFi working again for my laptop (my phone was working already). If it updates when I'm at work, and my wife is working from home, that could cause issues if the connection goes out.",
+                          "score": 2,
+                          "created_utc": 1748568293.0,
+                          "replies": [
+                            {
+                              "id": "mvd9w8z",
+                              "author": "dfuqt",
+                              "body": "I\u2019m glad you weren\u2019t affected. \n\nI have the same concerns and issues with auto updates. I tend to update everything - phones, tablets, macs, PCs - as soon as possible. \n\nIn the case of the router it\u2019s sat there on the internet with any vulnerabilities ready to be exploited, so immediate updates are vital. But at the same time any problems or interruptions with the update have the potential to cause a lot of issues, especially if I\u2019m away from home for a while. \n\nGiven its importance I guess spending thirty seconds each day checking either the router, the ASUS website, or snbforums isn\u2019t too much hassle.",
+                              "score": 2,
+                              "created_utc": 1748755347.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "muxhf2s",
+                      "author": "dfuqt",
+                      "body": "In case you didn\u2019t see the edit to what I posted, just make sure that google is taking you to the correct ASUS website and section as it can be a bit unreliable and random for some reason.",
+                      "score": 3,
+                      "created_utc": 1748543609.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muw1154",
+          "author": "Jasong222",
+          "body": "I'm not an expert but that's how I read it.",
+          "score": 1,
+          "created_utc": 1748528953.0,
+          "replies": []
+        },
+        {
+          "id": "muvrsj7",
+          "author": "VtheMan93",
+          "body": "Ssh should always be set to no on consumer routers anyways. These things are so locked down its not even funny. IMO no point in having it on.",
+          "score": -2,
+          "created_utc": 1748526180.0,
+          "replies": [
+            {
+              "id": "muvv1tc",
+              "author": "-Badger3-",
+              "body": "Yes, but the point of this exploit is that it *enables* SSH.\n\nIt's not installed *via* SSH. Keeping SSH disabled wouldn't make you any less vulnerable.",
+              "score": 3,
+              "created_utc": 1748527187.0,
+              "replies": [
+                {
+                  "id": "muvv7z9",
+                  "author": "VtheMan93",
+                  "body": "Oh! I didnt know that part. Maybe i misunderstood when I skimmed the article.\n\nI would also assume the average user isnt savvy enough to change default username and password",
+                  "score": 1,
+                  "created_utc": 1748527239.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "muvvwlg",
+              "author": "dfuqt",
+              "body": "Yeah absolutely, mine has always been turned off, as is all admin access over the WAN.\n\nI\u2019ve always updated within a day of the new firmware being released. I have a feeling that the users who this will most likely affect (never check or update) will never know they\u2019re affected.",
+              "score": 2,
+              "created_utc": 1748527451.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muy51n6",
+      "author": "mamamarty21",
+      "body": "Damn baby, are you an ASUS router, cause I\u2019d like to stealthily hit your back door (\u261e\uff9f\u30ee\uff9f)\u261e",
+      "score": 5,
+      "created_utc": 1748550393.0,
+      "replies": []
+    },
+    {
+      "id": "muzcccf",
+      "author": "xXAndrew28Xx",
+      "body": "Ran into malware on my own ASUS router. My traffic was being MITMed and I saw some random IPTV page when trying to access an HTTP site. Unfortunately did have remote access enabled.",
+      "score": 6,
+      "created_utc": 1748564019.0,
+      "replies": []
+    },
+    {
+      "id": "muuvpqt",
+      "author": "realKevinNash",
+      "body": ">After gaining unauthorized administrative control of the devices, the threat actor installs a public encryption key for access to the device through SSH. From then on, anyone with the private key can automatically log in to the device with administrative system rights.\n\n>\u201cThe attacker maintains long-term access without dropping malware or leaving obvious traces by chaining authentication bypasses, exploiting a known vulnerability, and abusing legitimate configuration features.\u201d\n\nSSH access is obvious on a consumer router. I have never done any configuration via SSH on a consumer router. The simple solution here is to have MFR's only allow SSH access via private network addresses as there should be almost no reason to administer a home network device over the internet.\n\nI mean yeah as a convenience feature I get it, but realistically it seems unnecessary.\n\n>but have not received CVE tracking designations for unknown reasons.\n\nI wonder if it's a lack of personnel given the recent issues with CVE and MITRE\n\n>The only way for router users to determine whether their devices are infected is by checking the SSH settings in the configuration panel. Infected routers will show that the device can be logged into by SSH over port 53282 using a digital certificate with a key listed in the article.\n\nhttps://github.com/D2y6p/CVE/blob/main/asus/CVE-2023-39780/1/EN.md",
+      "score": 8,
+      "created_utc": 1748513445.0,
+      "replies": [
+        {
+          "id": "muv6h12",
+          "author": "primalbluewolf",
+          "body": "> SSH access is obvious on a consumer router. I have never done any configuration via SSH on a consumer router.\u00a0\n\n\nFair enough. I have.\u00a0\n\n\n> The simple solution here is to have MFR's only allow SSH access via private network addresses as there should be almost no reason to administer a home network device over the internet.\u00a0\n\n\nDisagree. This is an IPv4 only solution, and doesnt fix the underlying issue at all. Just because you dont need internet access, doesnt mean the rest of us dont.",
+          "score": 5,
+          "created_utc": 1748518528.0,
+          "replies": [
+            {
+              "id": "muvfbsc",
+              "author": "ElectronicMoo",
+              "body": "There's other ways than raw ssh through your router, though.  Private VPN, tunneling are options.\n\nBut all that said, the onus is on us to monitor these things if we opt for that exposure.  It would be deficient of us to not monitor these vectors, with something like wazuh or another tool, or log analysis.",
+              "score": 8,
+              "created_utc": 1748521987.0,
+              "replies": [
+                {
+                  "id": "muyht2q",
+                  "author": "primalbluewolf",
+                  "body": "> There's other ways than raw ssh through your router, though. Private VPN, tunneling are options.\u00a0\n\n\nSure - but its quite the limitation if its only possible from RFC 1918 address ranges.",
+                  "score": 1,
+                  "created_utc": 1748554106.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muwqifd",
+      "author": "Allnite13",
+      "body": "A   SUS router huh ?",
+      "score": 6,
+      "created_utc": 1748536143.0,
+      "replies": []
+    },
+    {
+      "id": "mux7wx7",
+      "author": "speedfreek101",
+      "body": "Every bit of kit I've ever used has had a master account/password list.\n\n\nThe more secure required a physical connection usually from an external source via RJ45......\n\n\n\nBut there isn't and never has been a bit of kit that doesn't have a factory reset/admin account built in",
+      "score": 3,
+      "created_utc": 1748540936.0,
+      "replies": []
+    },
+    {
+      "id": "muvxm6v",
+      "author": "F34RTEHR34PER",
+      "body": "Checked mine, can't be logged in with ssh.",
+      "score": 2,
+      "created_utc": 1748527969.0,
+      "replies": []
+    },
+    {
+      "id": "muwjjj1",
+      "author": "dakotanorth8",
+      "body": "Asus, TP Link, what else is on the list so far?",
+      "score": 2,
+      "created_utc": 1748534163.0,
+      "replies": []
+    },
+    {
+      "id": "muwm09z",
+      "author": "UngaBunga-2",
+      "body": "Can\u2019t trust anyone with your privacy these days",
+      "score": 2,
+      "created_utc": 1748534860.0,
+      "replies": []
+    },
+    {
+      "id": "mux370y",
+      "author": "Gloriathewitch",
+      "body": "not a good look after the 2022/21 issue where they were ddosing themselves with a loop. glad i stepped away from asus",
+      "score": 2,
+      "created_utc": 1748539646.0,
+      "replies": []
+    },
+    {
+      "id": "mv2cgk8",
+      "author": "cidcide",
+      "body": "Cut off inda from www\n99% of scams insta stopped.",
+      "score": 2,
+      "created_utc": 1748611770.0,
+      "replies": []
+    },
+    {
+      "id": "muuzcga",
+      "author": "Si-Jo0159",
+      "body": "Well that's the last of me buying ASUS routers",
+      "score": 5,
+      "created_utc": 1748515312.0,
+      "replies": [
+        {
+          "id": "muv70wn",
+          "author": "pfthrowaway5130",
+          "body": "If you boycott a manufacturer any time there\u2019s an exploit you\u2019ll have nobody left to buy from. Things you can do to make sure you\u2019re safe:\n\n* Update your firmware, the exploit has been patched. \n* Check the admin panel and ensure no unknown SSH keys have been added. This is the mechanism by which this \u201cpersists through firmware updates\u201d. Remove them.\n\n\nHighjacking the top comment so to maximize the amount of people that take the above two remedial steps. Stay safe out there folks!",
+          "score": 131,
+          "created_utc": 1748518761.0,
+          "replies": [
+            {
+              "id": "muvwmqg",
+              "author": "steveamsp",
+              "body": "And, in this case, the fixes for the vulnerability that would even let this come into play have been available for years.  If you've kept the router up to date already, it seems that you couldn't get this anyway.",
+              "score": 7,
+              "created_utc": 1748527674.0,
+              "replies": []
+            },
+            {
+              "id": "muwg4ro",
+              "author": "Difficult-Way-9563",
+              "body": "Very true.  Cisco has tons of vulnerabilities and likely a backdoor (likely hardware)",
+              "score": 1,
+              "created_utc": 1748533207.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muvcq49",
+          "author": "_OVERHATE_",
+          "body": "What u gonna buy? All the brands have had these type of problems",
+          "score": 22,
+          "created_utc": 1748521021.0,
+          "replies": [
+            {
+              "id": "muwkcg0",
+              "author": "alex_3814",
+              "body": "How about OpenWRT tailored models or even mini x86 PCs. Even a second hand one should be sufficient for home use and those usually are quite cheap. Although one needs to make sure the older hardware does not have vulnerabilities themselves, so a bit more involved but do-able.",
+              "score": 2,
+              "created_utc": 1748534388.0,
+              "replies": [
+                {
+                  "id": "muyzzjk",
+                  "author": "skanadian",
+                  "body": "As if OpenWRT hasnt had their fair share of CVE's.  Not saying it's better or worse than Asus, but no more immune to future exploits.",
+                  "score": 2,
+                  "created_utc": 1748559896.0,
+                  "replies": []
+                },
+                {
+                  "id": "mux347t",
+                  "author": "_OVERHATE_",
+                  "body": "Or, and hear me out here, continue using my router and just update the firmware with said patch.\n\n\nPlus most of Asus TUF models are openwrt compatible so the point stands.\u00a0",
+                  "score": 1,
+                  "created_utc": 1748539625.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "muv74sd",
+          "author": "quinto6",
+          "body": "I have the Gundam edition Asus router. Would sadden me if I have to upgrade",
+          "score": 8,
+          "created_utc": 1748518806.0,
+          "replies": [
+            {
+              "id": "muv9k27",
+              "author": "bluenosesutherland",
+              "body": "Replacing it would make you Psy?",
+              "score": 5,
+              "created_utc": 1748519792.0,
+              "replies": []
+            },
+            {
+              "id": "muvkmhl",
+              "author": "Radius_314",
+              "body": "I've got the Evangellion one. Same.",
+              "score": 2,
+              "created_utc": 1748523836.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muvs8b7",
+          "author": "SirDigbyChknCaesar",
+          "body": "Not sure how that's gonna work out for you. Just don't buy a Netgear router.",
+          "score": 2,
+          "created_utc": 1748526318.0,
+          "replies": []
+        },
+        {
+          "id": "muvtwlm",
+          "author": "void_const",
+          "body": "Ubiquiti is better",
+          "score": -1,
+          "created_utc": 1748526836.0,
+          "replies": [
+            {
+              "id": "muw2bak",
+              "author": "CrownSeven",
+              "body": "Sure if you like to constantly baby sit something and crossing your fingers that each update is not actually broken or having them log your data without permission - ubiquiti is great.",
+              "score": 4,
+              "created_utc": 1748529322.0,
+              "replies": [
+                {
+                  "id": "muw2lx5",
+                  "author": "void_const",
+                  "body": "I don\u2019t have to babysit mine at all. I even have automatic updates turned on.",
+                  "score": 0,
+                  "created_utc": 1748529406.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muuw0vk",
+      "author": "MasterJeebus",
+      "body": "Are there any specific models that got affected the most?",
+      "score": 2,
+      "created_utc": 1748513608.0,
+      "replies": [
+        {
+          "id": "muuywx9",
+          "author": "TDYDave2",
+          "body": "I know it is a radical step, but reading the article gives information on how to tell if affected.",
+          "score": 50,
+          "created_utc": 1748515102.0,
+          "replies": [
+            {
+              "id": "muv0b2e",
+              "author": "khalcyon2011",
+              "body": "![gif](giphy|bWM2eWYfN3r20)",
+              "score": 35,
+              "created_utc": 1748515775.0,
+              "replies": []
+            },
+            {
+              "id": "muv0c4r",
+              "author": "MasterJeebus",
+              "body": "Yeah but I wanted to know if some models more likely to get it over time. Article mentions Asus already patched it but at sametime says this type of backdoor persist firmware update.",
+              "score": 3,
+              "created_utc": 1748515788.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "muv12gz",
+          "author": "amurica1138",
+          "body": "From the article:\n\n>People can also determine if they\u2019ve been targeted if system logs indicate that they have been accessed through the IP addresses 101.99.91\\[.\\]151, 101.99.94\\[.\\]173, 79.141.163\\[.\\]179, or 111.90.146\\[.\\]237. Users of any router brand should always ensure their devices receive security updates in a timely manner.",
+          "score": 6,
+          "created_utc": 1748516132.0,
+          "replies": []
+        },
+        {
+          "id": "muv1qax",
+          "author": "brewditt",
+          "body": "No it doesn\u2019t, but it does say how to tell if you are affected.",
+          "score": 3,
+          "created_utc": 1748516436.0,
+          "replies": []
+        },
+        {
+          "id": "muuxuca",
+          "author": "Dawg_Prime",
+          "body": "yes",
+          "score": -1,
+          "created_utc": 1748514561.0,
+          "replies": [
+            {
+              "id": "muuxx7x",
+              "author": "Mr_Lumbergh",
+              "body": "And they would be?",
+              "score": -3,
+              "created_utc": 1748514603.0,
+              "replies": [
+                {
+                  "id": "muuylut",
+                  "author": "Dawg_Prime",
+                  "body": "the most affected models",
+                  "score": 4,
+                  "created_utc": 1748514951.0,
+                  "replies": [
+                    {
+                      "id": "mv5xo64",
+                      "author": "cgoldberg",
+                      "body": "r/technicallythetruth",
+                      "score": 1,
+                      "created_utc": 1748650598.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muv91cc",
+      "author": "groovysalamander",
+      "body": "Out if how many routers that are active ? How old are the implicated routers, was the firmware up to date? \n\nWithout any of that info it is very difficult to say if this is exceptional compared to other brands at all. If these are routers of 8 years old with old firmware then it is hardly a surprise....",
+      "score": 2,
+      "created_utc": 1748519585.0,
+      "replies": []
+    },
+    {
+      "id": "muw80ve",
+      "author": "visicalc_is_best",
+      "body": "Asus? Nah, YOU sus bro",
+      "score": 2,
+      "created_utc": 1748530928.0,
+      "replies": []
+    },
+    {
+      "id": "muwe7uk",
+      "author": "Particular_Pain_9373",
+      "body": "Good thing I have an EERO and only Amazon has all my data!",
+      "score": 2,
+      "created_utc": 1748532673.0,
+      "replies": [
+        {
+          "id": "mux25mq",
+          "author": "keonyn",
+          "body": "If you can't trust Amazon, who can you trust? /s",
+          "score": 2,
+          "created_utc": 1748539363.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mux94bi",
+      "author": "fiftyshadesofseth",
+      "body": "Asus, the Sig Sauer of routers.",
+      "score": 2,
+      "created_utc": 1748541263.0,
+      "replies": []
+    },
+    {
+      "id": "muw2jqn",
+      "author": "Jasong222",
+      "body": "But wait- the article says that to fix it, you should: \"To remove the backdoor, infected users should remove the key and the port setting.\"  \n  \nBut doesn't that just fix the 'symptom'?  I don't see how that prevents reinfection.",
+      "score": 1,
+      "created_utc": 1748529389.0,
+      "replies": [
+        {
+          "id": "muwh22t",
+          "author": "RaVashaan",
+          "body": "The vulnerabilities have been patched, but that didn't include resetting the SSH settings.  Check to see if you have the latest firmware update for your router, and if you do, turning off SSH should be the final fix that needs to be applied.",
+          "score": 4,
+          "created_utc": 1748533466.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muw6bpb",
+      "author": "BigFishPub",
+      "body": "Thanks FBI.",
+      "score": 1,
+      "created_utc": 1748530453.0,
+      "replies": []
+    },
+    {
+      "id": "muxvury",
+      "author": "ChillAMinute",
+      "body": "I wonder if the Asus Merlin firmware is vulnerable?  Made it sound like all Asus routers were.",
+      "score": 1,
+      "created_utc": 1748547765.0,
+      "replies": []
+    },
+    {
+      "id": "muxzd5r",
+      "author": "Wtf9181",
+      "body": "![gif](giphy|5s1IgmpmHglVK)",
+      "score": 1,
+      "created_utc": 1748548771.0,
+      "replies": []
+    },
+    {
+      "id": "muy0p5t",
+      "author": "SRM_Thornfoot",
+      "body": "So.. What about Asustor NAS's? Should I assume the same?",
+      "score": 1,
+      "created_utc": 1748549155.0,
+      "replies": []
+    },
+    {
+      "id": "muy22p9",
+      "author": "duhbiap",
+      "body": "Negate the risk by implementing a similar architecture/\n\nfirewalla purple behind modem and asus AP\u2019s with remote admin turned off and in bridge mode.\n\nProblem solved.",
+      "score": 1,
+      "created_utc": 1748549550.0,
+      "replies": [
+        {
+          "id": "muyzthi",
+          "author": "taosecurity",
+          "body": "Until they break the Firewalla. \n\nIt\u2019s exploitation all the way down.",
+          "score": 1,
+          "created_utc": 1748559840.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muyw9lq",
+      "author": "Nodoka-Rathgrith",
+      "body": "..... Fuck me.",
+      "score": 1,
+      "created_utc": 1748558671.0,
+      "replies": []
+    },
+    {
+      "id": "muz1v0e",
+      "author": "Duke55",
+      "body": "Glad I'm completely replacing my network in a couple of weeks, then.",
+      "score": 1,
+      "created_utc": 1748560513.0,
+      "replies": []
+    },
+    {
+      "id": "muz2azs",
+      "author": "sideburns2009",
+      "body": "My SSH is disabled. As it is by default. Because I don\u2019t need to access it remotely via SSH as most home consumers don\u2019t. And firmware is set to update automatically by default\u2026.Probably not so widespread.",
+      "score": 1,
+      "created_utc": 1748560659.0,
+      "replies": []
+    },
+    {
+      "id": "muzh2po",
+      "author": "TooManySteves2",
+      "body": "Sus",
+      "score": 1,
+      "created_utc": 1748565646.0,
+      "replies": []
+    },
+    {
+      "id": "mv0ji4s",
+      "author": "Migamix",
+      "body": "just switched to ubiquity, but I still love my Asus, it's going to be readded as a switch in the morning. post update",
+      "score": 1,
+      "created_utc": 1748580187.0,
+      "replies": []
+    },
+    {
+      "id": "mv3umuj",
+      "author": "StrainAcceptable",
+      "body": "I read this as anus routers being hit with stealthy, persistent back doors.",
+      "score": 1,
+      "created_utc": 1748627250.0,
+      "replies": []
+    },
+    {
+      "id": "mv6sfef",
+      "author": "NeurogenesisWizard",
+      "body": "Assus",
+      "score": 1,
+      "created_utc": 1748662522.0,
+      "replies": []
+    },
+    {
+      "id": "mv6zd0c",
+      "author": "ML7777777",
+      "body": "Asus has become such a shit brand in record time its amazing. Even their motherboards are packed with backdoor vulnerabilities via their stupid ass caked in utilities that force install themselves unless you disable them in the bios only to have to do that every time you make an update to the bios fw or you lose settings.",
+      "score": 1,
+      "created_utc": 1748665607.0,
+      "replies": []
+    },
+    {
+      "id": "mvp90po",
+      "author": "Most-Repair471",
+      "body": "Noo proprietary firmware! I put some form of OSS ddwrt on all my routers till I switched to unifi ecosystem.",
+      "score": 1,
+      "created_utc": 1748917164.0,
+      "replies": []
+    },
+    {
+      "id": "muxhajq",
+      "author": "Satanich",
+      "body": "I remember getting my first Asus router, unpacked, plugged, firmware update, bricked.\n\nGot a netgear that lasted quite a bit",
+      "score": 1,
+      "created_utc": 1748543573.0,
+      "replies": []
+    },
+    {
+      "id": "muz1brn",
+      "author": "shrimp_papi",
+      "body": "THIS IS WHY IM A UBIQUITI BOI SHOUTS OUT MY UBIQUITI BOIS ALL MY HOMIES HATE ASUS AND OTHERS",
+      "score": 1,
+      "created_utc": 1748560337.0,
+      "replies": []
+    },
+    {
+      "id": "muvoadp",
+      "author": "Asheet_Mapanz",
+      "body": "I like how the end of the article puts some responsibility on the user to 'ensure they install security updates'. I've had about 20 routers over my lifetime and I only remember one of them getting an update and that was done the first moment I connected it to the internet. Security updates my arse.",
+      "score": -1,
+      "created_utc": 1748525053.0,
+      "replies": [
+        {
+          "id": "muvqfmj",
+          "author": "Rabo_McDongleberry",
+          "body": "That just means you never login to your router after initial setup? I've had everything from cheap routers to expensive ones. I login maybe quarterly and receive firmware update sometimes. Hell, my Asus router just got a firmware update last week.",
+          "score": 8,
+          "created_utc": 1748525746.0,
+          "replies": []
+        },
+        {
+          "id": "mux9u4c",
+          "author": "not_a_synth_",
+          "body": "Have you actually tried to install any security updates?   I'm pretty sure the end of the article was for people like you specifically.",
+          "score": 2,
+          "created_utc": 1748541459.0,
+          "replies": [
+            {
+              "id": "muyf1x3",
+              "author": "Asheet_Mapanz",
+              "body": "Do you treat everyone with condescension or do you reserve that for bouts on reddit. To answer your question..yes.  And, I log in once in awhile to the admin settings to check for updates.  And to check the logs for update history.",
+              "score": 1,
+              "created_utc": 1748553280.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muux4lj",
+      "author": "xGHOSTRAGEx",
+      "body": "Nothing mentioning those using AsusWRT?",
+      "score": 0,
+      "created_utc": 1748514192.0,
+      "replies": [
+        {
+          "id": "muv176a",
+          "author": "CobraKolibry",
+          "body": "Don't pretty much all of them run it? I used to own an AC1200G, bought asus specifically for their OS.\n\nIt worked out so great I've bitten the bullet and bought Ubiquiti soon after, never willing to buy anything consumer-grade ever again.",
+          "score": 4,
+          "created_utc": 1748516192.0,
+          "replies": [
+            {
+              "id": "muvlfag",
+              "author": "hackeristi",
+              "body": "Which one you got?",
+              "score": 2,
+              "created_utc": 1748524106.0,
+              "replies": [
+                {
+                  "id": "muxh5p6",
+                  "author": "CobraKolibry",
+                  "body": "It was years ago, USG-3P. It's still kicking, and I still run 1000/1000 fiber connection, which it's able to keep up with, so no plans to replace it any time soon.\n\nI bought a UAP Lite, which seems to be discontinued and the newer models a fair bit more pricey, so only have one. I have a home server already, so just running the controller software there.\n\nFor switches I went for a generic cheapo TP-Link, but might grab the 2.5G Ubiquiti ones once they go down in price. No issue with the TP-Link at all, but no fancy device tree integration either. At this point I just came to just enjoy how it is as a hobby, not just have it get the job done",
+                  "score": 1,
+                  "created_utc": 1748543535.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "muv5zm7",
+              "author": "xGHOSTRAGEx",
+              "body": "I am also leaning on Ubiquiti. Literally want the Dream Machine Pro for my house router lol",
+              "score": 1,
+              "created_utc": 1748518323.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muvs4rv",
+      "author": "eastbay77",
+      "body": "ASUS makes garbage products. Routers. Laptops. Motherboards. No thanks.",
+      "score": -5,
+      "created_utc": 1748526287.0,
+      "replies": [
+        {
+          "id": "muvybbq",
+          "author": "Obvious-Lake3708",
+          "body": "Their MB\u2019s have been among the best for OC for years, also better firmware.\nLast few years they have been slipping.\nCS is absolute ass though",
+          "score": 6,
+          "created_utc": 1748528171.0,
+          "replies": []
+        },
+        {
+          "id": "muxakrt",
+          "author": "Infamous_Process5558",
+          "body": "Ain't gonna lie their routers are decent for the casuals. Definitely would go for unifi though, they have some amazing products. But it requires some basic knowledge to get it setup properly. Wouldn't buy their alien router as it has issues.",
+          "score": 1,
+          "created_utc": 1748541662.0,
+          "replies": []
+        },
+        {
+          "id": "muvu5yo",
+          "author": "void_const",
+          "body": "Agreed. I always see gamer types defending them because they make PC gaming parts but they are objectively trash.",
+          "score": 1,
+          "created_utc": 1748526917.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mux1guv",
+      "author": "keonyn",
+      "body": "I swear, there's just no reliable and secure routers out there. It doesn't help that most these companies stop providing updated firmware for devices after only a few years, in spite of the fact routers have a lifespan way beyond that. About the only remotely safe option is to setup your own router, which is a pain since now you have to run three separate devices to do what one device does otherwise.",
+      "score": 0,
+      "created_utc": 1748539175.0,
+      "replies": [
+        {
+          "id": "mv0bue8",
+          "author": "RealisticEntity",
+          "body": "You could go for something like an OPNsense or pfsense router which are regularly updated. I'm using a minipc (with 2 Ethernet ports) with OPNsense installed as my router, with multiple security apps installed including crowdsec, malicious dns/ad blockers (Adguard), intrusion detection etc. It's pretty good.\n\nIt's probably better to have a separate wifi access point and switch that sit behind the router firewall anyway.",
+          "score": 1,
+          "created_utc": 1748576777.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "muzdjr4",
+      "author": "MisterRipster",
+      "body": "For a $1 million donation Trump pardon them",
+      "score": 0,
+      "created_utc": 1748564436.0,
+      "replies": []
+    },
+    {
+      "id": "mux9myo",
+      "author": "dillingerdiedforyou",
+      "body": "Who the hell buys a router from Asus?",
+      "score": -3,
+      "created_utc": 1748541404.0,
+      "replies": []
+    },
+    {
+      "id": "muxd2r5",
+      "author": "vIRoninIv",
+      "body": "Did anyone read this as\u201dAnus\u201d routers getting hit with stealthy, persistent back doors ? No? I\u2019ll see myself out",
+      "score": -4,
+      "created_utc": 1748542372.0,
+      "replies": []
+    },
+    {
+      "id": "muv9v3r",
+      "author": "sluttyman69",
+      "body": "Well, when you\u2019re informed the chips are manufactured with the back door built-in. This is the problem you have.",
+      "score": -7,
+      "created_utc": 1748519913.0,
+      "replies": []
+    }
+  ]
+}

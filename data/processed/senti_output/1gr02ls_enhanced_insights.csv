@@ -1,0 +1,49 @@
+metric,value
+file,1gr02ls.csv
+title,"Google rolls out surprise farewell update for the Pixel 5a / And with that, it's a wrap for one of Google's most iconic Pixels."
+rows,114
+num_posts,1
+num_comments,113
+unique_authors,81
+max_depth,5
+avg_comment_words,60.61
+median_comment_words,33.0
+max_comment_words,410
+positive_count,25
+negative_count,88
+neutral_count,0
+positive_pct,22.124
+negative_pct,77.876
+neutral_pct,0.0
+topic_1_keywords,"updates, keep, google, iphone, phone, great, really, current"
+topic_1_label,Google updates updates on iphone
+topic_2_keywords,"phone, iphone, pixel, support, google, jack, use, last"
+topic_2_label,Google jacks pixel for iPhone
+topic_3_keywords,"got, years, google, still, storage, phone, like, bought"
+topic_3_label,Google still has a storage space for phones
+topic_4_keywords,"years, updates, still, google, get, know, pixel, apple"
+topic_4_label,Google updates pixel and apple
+topic_5_keywords,"pixel, still, battery, years, phone, updates, dies, minutes"
+topic_5_label,pixel still battery life
+topic_6_keywords,"google, search, android, date, device, system, like, one"
+topic_6_label,Google Search and Google Search
+top_ngram_1,years updates (25)
+top_ngram_2,didnt google (20)
+top_ngram_3,google commit (20)
+top_ngram_4,commit years (20)
+top_ngram_5,updates certainpremium (20)
+top_ngram_6,certainpremium models (20)
+top_ngram_7,didnt google commit (20)
+top_ngram_8,google commit years (20)
+top_ngram_9,commit years updates (20)
+top_ngram_10,years updates certainpremium (20)
+ner_1,Google|ORG|57
+ner_2,Apple|ORG|28
+ner_3,iOS|MISC|19
+ner_4,iPhone SE|MISC|13
+ner_5,Android|MISC|9
+ner_6,iPhone 11|MISC|8
+ner_7,iPhone|MISC|7
+ner_8,Note|MISC|7
+ner_9,Pixel|MISC|7
+ner_10,Pixel 8|MISC|7

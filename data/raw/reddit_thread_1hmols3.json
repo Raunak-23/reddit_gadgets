@@ -1,0 +1,1014 @@
+{
+  "post": {
+    "title": "Go-kart ditches expensive sensors for a single camera to achieve \"autonomous\" driving | Self-driving on a budget",
+    "author": "chrisdh79",
+    "id": "1hmols3",
+    "score": 1097,
+    "created_utc": 1735220595.0,
+    "selftext": "",
+    "num_comments": 117,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hmols3/gokart_ditches_expensive_sensors_for_a_single/"
+  },
+  "comments": [
+    {
+      "id": "m3vg4ki",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1735220597.0,
+      "replies": []
+    },
+    {
+      "id": "m3vkoqa",
+      "author": "Faust86",
+      "body": "It worked because he made a clearly visible track and all the Kart does is follow it. \n\nPlenty of automation already follows clearly marked lines",
+      "score": 671,
+      "created_utc": 1735222644.0,
+      "replies": [
+        {
+          "id": "m3vl7bk",
+          "author": "runningoutofnames01",
+          "body": "Bingo. IIRC there is a bridge in California that has temporary barricades which are moved throughout the day to control traffic and Teslas \"auto pilot\" really struggled to notice that the barricades had changed the lanes. Proper self driving cars will have to be able to deal with all the random shit that happens on the road and it will have to choose the best solution more often than humans.",
+          "score": 191,
+          "created_utc": 1735222867.0,
+          "replies": [
+            {
+              "id": "m3w1mpj",
+              "author": "SnakebiteRT",
+              "body": "It\u2019s the Golden Gate Bridge.  They swap them at morning and evening rush hour times.",
+              "score": 54,
+              "created_utc": 1735229136.0,
+              "replies": [
+                {
+                  "id": "m3x5zfb",
+                  "author": "_Bl4ze",
+                  "body": "My local bridge into large city has a similar thing going on for rush hour, but there's no physical barriers, just the light above the center lane changes. If Tesla's can't see barriers I wonder how badly they would fuck that one up.",
+                  "score": 24,
+                  "created_utc": 1735242592.0,
+                  "replies": [
+                    {
+                      "id": "m3ytcd9",
+                      "author": "rdicky58",
+                      "body": "Lionsgate Bridge?",
+                      "score": 5,
+                      "created_utc": 1735263725.0,
+                      "replies": [
+                        {
+                          "id": "m418hjv",
+                          "author": "RiskLife",
+                          "body": "It must be right? After seeing the Golden Gate and knowing thr Lions Gate that was my next jump too\u00a0",
+                          "score": 2,
+                          "created_utc": 1735308893.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m3z109s",
+                      "author": "lefthandsuzukimthd",
+                      "body": "Philly to NJ bridge has one too.  And a huge vehicle that moves the barriers from one lane to the other.  Always thought it would be cool to be the technician that works on those - probably only a few around and they get flown all over to work on those machines",
+                      "score": 3,
+                      "created_utc": 1735266697.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m3x075n",
+                  "author": "HarkonnenSpice",
+                  "body": "Such an obscure unknown corner case. How are they supposed to know about the Golden Gate bridge? /s \n\nAlso, the Tappan Zee Bridge does this too. I am sure there are others.",
+                  "score": 44,
+                  "created_utc": 1735240682.0,
+                  "replies": [
+                    {
+                      "id": "m3y4c9u",
+                      "author": "dunno0019",
+                      "body": "The old Champlain Bridge in Montreal did this too. \n\nDon't know if the new one does it..?",
+                      "score": 3,
+                      "created_utc": 1735254394.0,
+                      "replies": [
+                        {
+                          "id": "m3yyx2m",
+                          "author": "_Bl4ze",
+                          "body": "Nah, that one is split down the middle for metro tracks so it doesn't have a reversible lane.",
+                          "score": 2,
+                          "created_utc": 1735265879.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m3vo9tx",
+              "author": "None",
+              "body": "[removed]",
+              "score": 49,
+              "created_utc": 1735224142.0,
+              "replies": [
+                {
+                  "id": "m3vq588",
+                  "author": "DaoFerret",
+                  "body": "That picture is horrific on so many levels.\n\nAlmost all trucks have a bar on the back specifically to help try to prevent this sort of crash (since it\u2019s almost always fatal for the car passengers).\n\nThat the car was going so fast, and had so much momentum it broke through that barrier should be a wake up call at how broken our current regulation is in relation to the escalated weight and speed of most road vehicles.",
+                  "score": 54,
+                  "created_utc": 1735224898.0,
+                  "replies": [
+                    {
+                      "id": "m3vt8cb",
+                      "author": "RevvCats",
+                      "body": "Speed kills but those bars will do very little to save your head from being crushed even in low speed accidents. \n\n[Frontline - Americas Dangerous Trucks](https://youtu.be/1LyaWzOesXk?feature=shared)",
+                      "score": 42,
+                      "created_utc": 1735226105.0,
+                      "replies": [
+                        {
+                          "id": "m3xlku8",
+                          "author": "5inthepink5inthepink",
+                          "body": "Weird, who would've thought some hollow bars hanging down at a right angle wouldn't have done much to stop tons of steel moving at any speed",
+                          "score": 10,
+                          "created_utc": 1735247846.0,
+                          "replies": [
+                            {
+                              "id": "m3ys84z",
+                              "author": "Responsible_Feed5432",
+                              "body": "you\u2019re focusing too much on the bar and not on the car with shitty software",
+                              "score": -1,
+                              "created_utc": 1735263305.0,
+                              "replies": [
+                                {
+                                  "id": "m3z2snm",
+                                  "author": "5inthepink5inthepink",
+                                  "body": "We're surrounded by biochemical computers running off flawed software with visual light sensors driving and crashing cars all over the place. The least we can do is design the things those flawed computers might crash into to safely absorb an impact",
+                                  "score": 8,
+                                  "created_utc": 1735267401.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m3wfmux",
+                      "author": "Eurynom0s",
+                      "body": "It's not just weight and speed, US automobile safety regulations just don't allow action until after multiple documented cases of a vehicle being unsafe. They can't ban something preemptively just because \"yeah this is obviously dangerous\", or even going through say a checklist of safety criteria and failing it if it can't check off all the boxes.",
+                      "score": 12,
+                      "created_utc": 1735233892.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m3w3pio",
+                  "author": "y4mat3",
+                  "body": "The update to the article linked at the bottom says that the authorities concluded that the high speed crash was intentional and caused by the driver, not a failure of the autopilot system.",
+                  "score": 32,
+                  "created_utc": 1735229868.0,
+                  "replies": []
+                },
+                {
+                  "id": "m3w488h",
+                  "author": "undomesticatedequine",
+                  "body": "Autonomous driving isn't there yet at all, but this crash wasn't because of autopilot, your article doesn't even mention autopilot as a cause.\n\nhttps://www.vvng.com/fatal-tesla-crash-on-bear-valley-road-was-intentional-driver-identified/\n\nThe driver was in control driving at over 100 mph and intentionally crashed into the truck according to investigators.",
+                  "score": 22,
+                  "created_utc": 1735230048.0,
+                  "replies": [
+                    {
+                      "id": "m3wdxww",
+                      "author": "Scalybeast",
+                      "body": "How about the WSJ video titled \"The Hidden Autopilot Data That Reveals Why Teslas Crash\" where a M3 rammed into an overturned truck?",
+                      "score": -12,
+                      "created_utc": 1735233322.0,
+                      "replies": [
+                        {
+                          "id": "m3wfkso",
+                          "author": "undomesticatedequine",
+                          "body": "What about what about what about\n\nI'm not saying Tesla's autopilot is remotely functional, but the original article posted makes no mention of autopilot even being used during the vehicle's operation. \n\nTesting, regulation, and oversight of autonomous driving is much needed but we can't just be posting sources without actually reading what's in them.",
+                          "score": 16,
+                          "created_utc": 1735233873.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m3vt4mu",
+                  "author": "im_a_stapler",
+                  "body": "Fuck Tesla, but nowhere in the article did it mention this was Tesla's fault.  It mentioned nothing about the cause of the crash.  Your post is just serving up more disinformation or assumed information, like the trash pile that is all social media.  Let's make the world smarter, not dumber because we want to insert a reason for \"I don't actually know\".",
+                  "score": 17,
+                  "created_utc": 1735226065.0,
+                  "replies": []
+                },
+                {
+                  "id": "m3ykjdf",
+                  "author": "Windyvale",
+                  "body": "Oh that\u2019s not okay.",
+                  "score": 1,
+                  "created_utc": 1735260415.0,
+                  "replies": []
+                },
+                {
+                  "id": "m3x2epo",
+                  "author": "AstariiFilms",
+                  "body": "I got an ad for accident attorneys on the page lol",
+                  "score": 1,
+                  "created_utc": 1735241406.0,
+                  "replies": []
+                },
+                {
+                  "id": "m3wilrh",
+                  "author": "gomurifle",
+                  "body": "Killed by a computer. I think the AI uprising has already started.\u00a0",
+                  "score": -5,
+                  "created_utc": 1735234894.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m3w5e5w",
+              "author": "SnowdensOfYesteryear",
+              "body": "There are a few. Golden Gate is one of them. Coronado in San Diego is another\u2026I think",
+              "score": 3,
+              "created_utc": 1735230455.0,
+              "replies": []
+            },
+            {
+              "id": "m3vouzp",
+              "author": "Juxtapoisson",
+              "body": "Except that is exactly not how automation works.  Automation works by changing the job to something the regulated process can do. Making pins, farming corn, building cars, automation has been changing industries this way since before computers were involved.",
+              "score": 7,
+              "created_utc": 1735224382.0,
+              "replies": [
+                {
+                  "id": "m3wdo10",
+                  "author": "Mindless_Consumer",
+                  "body": "The point is that the challenge is changing and standardizing roadways, which is at best difficult, if not impossible.\n\nCrazy shit happens all over the place, brains are good at reacting, computers not as much.",
+                  "score": 7,
+                  "created_utc": 1735233231.0,
+                  "replies": []
+                },
+                {
+                  "id": "m3wh9tl",
+                  "author": "DotDash13",
+                  "body": "As it currently stands there's practical limit to how much we can change the task of driving to be more easily automated. It would be much easier if they could exclude pedestrians and human driven cars, but I don't see much in the way of self driving only infrastructure coming anytime soon.",
+                  "score": 2,
+                  "created_utc": 1735234442.0,
+                  "replies": [
+                    {
+                      "id": "m3zy900",
+                      "author": "DigitalPriest",
+                      "body": "It's ultimately why I think it's a pointless exercise.\n\nWe need to be treating transportation more like package shipping.  What I mean by that is, instead of having 200 million cars on the road, your 'major' routes get buses (and for longer or more static routes, trains).  Buses travel between fixed points in high-density areas and receive preferential routing and roads, avoiding the requirement for 'novel' problem solving.  Cars are relegated to your last-mile service, getting you to the boonies or off the beaten path.\n\nUnfortunately, 100 years of automotive industry have poisoned Americans against the idea of mass transit.",
+                      "score": 2,
+                      "created_utc": 1735281862.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m41sg0j",
+                      "author": "Juxtapoisson",
+                      "body": "That's the funny end of it.  If you change the roads to make self driving cars work optimally, all you've done is make complicated personalized trains.",
+                      "score": 1,
+                      "created_utc": 1735315994.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m3wx3ri",
+                  "author": "ringobob",
+                  "body": "This is the entire point of AI. To automate tasks without changing them.",
+                  "score": 1,
+                  "created_utc": 1735239663.0,
+                  "replies": [
+                    {
+                      "id": "m41smk2",
+                      "author": "Juxtapoisson",
+                      "body": "I cannot think of a task currently done by ai that has not been changed from the human acted method.",
+                      "score": 1,
+                      "created_utc": 1735316053.0,
+                      "replies": [
+                        {
+                          "id": "m41vhme",
+                          "author": "ringobob",
+                          "body": "No doubt. AI isn't good enough yet, and we're not that close on a social timescale. Like, \"soon\" doesn't mean next month or next year, \"soon\" might mean 15-50 years. But I could see AI+robotics being good enough to generalize to automate tasks without adjustment in 15-50 years. If it goes beyond that I'd be very surprised.",
+                          "score": 1,
+                          "created_utc": 1735316990.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m3wincq",
+                  "author": "hotwifefun",
+                  "body": "\u201cYour scientists were so preoccupied with whether they could, they didn\u2019t stop to think if they should.\u201d",
+                  "score": 0,
+                  "created_utc": 1735234908.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m3wwhop",
+              "author": "karmadramadingdong",
+              "body": "There are self-driving taxis in San Francisco that cross that bridge every day.",
+              "score": 1,
+              "created_utc": 1735239462.0,
+              "replies": []
+            },
+            {
+              "id": "m3y9gor",
+              "author": "jupertino",
+              "body": "But that\u2019s how wayno works, not Tesla. Teslas do now have some crude overmap, but not in-situ. Waymo, however, does rely on a high resolution model of the environment to map against",
+              "score": 1,
+              "created_utc": 1735256300.0,
+              "replies": []
+            },
+            {
+              "id": "m404b70",
+              "author": "0neHumanPeolple",
+              "body": "I think the key will eventually be an integrated system of roads.  We\u2019re a long way from that in the US though. Our infrastructure is garbage.",
+              "score": 1,
+              "created_utc": 1735285598.0,
+              "replies": []
+            },
+            {
+              "id": "m404pzl",
+              "author": "skipjac",
+              "body": "All sensors can be fooled. That is why you have multiple and different types.",
+              "score": 1,
+              "created_utc": 1735285865.0,
+              "replies": []
+            },
+            {
+              "id": "m3wu1su",
+              "author": "KrawhithamNZ",
+              "body": "I suspect the next big jump for self driving will be via a hyper detailed version of Google maps, that includes data from thousands of trips in an area.\n\n\nThe upshot will be that the car will only truly self drive within those areas.",
+              "score": 0,
+              "created_utc": 1735238674.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m3ws8od",
+          "author": "adrian783",
+          "body": "techbros can't stop reinventing trains",
+          "score": 13,
+          "created_utc": 1735238078.0,
+          "replies": []
+        },
+        {
+          "id": "m3vojwc",
+          "author": "Mean_Ass_Dumbledore",
+          "body": "Shit grade school kids have been doing this with Lego robotics for decades at least",
+          "score": 20,
+          "created_utc": 1735224256.0,
+          "replies": []
+        },
+        {
+          "id": "m3vu4yn",
+          "author": "WhiteHeteroMale",
+          "body": "I did this in a college engineering course in 1994.  It took a few hours to get working.  No computer - just a simple circuit.",
+          "score": 7,
+          "created_utc": 1735226447.0,
+          "replies": []
+        },
+        {
+          "id": "m3vx5hu",
+          "author": "danielv123",
+          "body": "A more developed version of this is comma ai. They use 2 forward facing cameras for driving and works pretty well on public streets, even without visible lane lines.\n\n\nhttps://youtube.com/watch?v=V3050mr5Yd0",
+          "score": 3,
+          "created_utc": 1735227547.0,
+          "replies": []
+        },
+        {
+          "id": "m3xi53x",
+          "author": "half3clipse",
+          "body": ">Plenty of automation already follows clearly marked lines\n\nEven this is overselling it. It would take longer to modify the go-kart than it would to code the control system. \n\nWith the go-kart built, getting it to autonomously follow a marked path in a controlled envrioment would be a one, maaaaybe two week lab project for a robotics course for part of a BA.",
+          "score": 2,
+          "created_utc": 1735246688.0,
+          "replies": []
+        },
+        {
+          "id": "m3vop6y",
+          "author": "MadRoboticist",
+          "body": "I think it's even less advanced than that. It sounds like he trained the neural network with images linked to steering commands, so it will only ever successfully drive on this specific track.",
+          "score": 2,
+          "created_utc": 1735224316.0,
+          "replies": []
+        },
+        {
+          "id": "m3vo5qa",
+          "author": "Wolfram_And_Hart",
+          "body": "I did that robot kit in 1998",
+          "score": 2,
+          "created_utc": 1735224095.0,
+          "replies": []
+        },
+        {
+          "id": "m3w2y0c",
+          "author": "cat_prophecy",
+          "body": "I mean the LKA in my Toyota will do this. But as soon as the lane markings aren't clear, it freaks out and buzzed the wheel.",
+          "score": 2,
+          "created_utc": 1735229601.0,
+          "replies": []
+        },
+        {
+          "id": "m410015",
+          "author": "adaminc",
+          "body": "It's a common early College project in robotics, not even using a uP or uC.",
+          "score": 1,
+          "created_utc": 1735305255.0,
+          "replies": []
+        },
+        {
+          "id": "m3w2no3",
+          "author": "jcv999",
+          "body": "Probably done since the 60s lol",
+          "score": 1,
+          "created_utc": 1735229499.0,
+          "replies": []
+        },
+        {
+          "id": "m3wglo4",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -4,
+          "created_utc": 1735234217.0,
+          "replies": [
+            {
+              "id": "m3y3cai",
+              "author": "Larva_Mage",
+              "body": "I think he\u2019s pointing out that it\u2019s not as sensational or advanced as the headline makes it seem",
+              "score": 6,
+              "created_utc": 1735254025.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3w11b2",
+      "author": "MrMoussab",
+      "body": "While technically this is a self driving \"vehicle\", it's still a toy.",
+      "score": 15,
+      "created_utc": 1735228926.0,
+      "replies": []
+    },
+    {
+      "id": "m3vt3xk",
+      "author": "BunnieSPH",
+      "body": "Teslas work exactly like this with learning images being taught to the computer to recognize hazards.\n\nAll GOOD e-vehicles use those expensive sensors.\n\nTeslas crash into overturned cars because they use this cheap method of \u201cautonomous driving\u201d.",
+      "score": 105,
+      "created_utc": 1735226057.0,
+      "replies": [
+        {
+          "id": "m3w1igm",
+          "author": "azlan194",
+          "body": "Waymo self driving car is amazing. If you drive through San Francisco, you will see a bunch of them driving around the city, picking up and dropping people without any drivers. If their self driving can drive through San Francisco, they definitely can drive anywhere.\n\nThey use LIDAR though, so definitely more expensive.",
+          "score": 39,
+          "created_utc": 1735229094.0,
+          "replies": [
+            {
+              "id": "m3x6kw9",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 36,
+              "created_utc": 1735242791.0,
+              "replies": [
+                {
+                  "id": "m3yjkfz",
+                  "author": "Ver_Void",
+                  "body": "> You also see them stopped at green lights, running red lights, stopped in travel and bike lanes for no obvious reason, trapped by construction cones.\n\nSo they've achieved parity with humans in my city",
+                  "score": 16,
+                  "created_utc": 1735260058.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m3w9n45",
+              "author": "CocodaMonkey",
+              "body": "You have that backwards, Waymo's are in San Francisco because it's one of the easiest cities in the world for self driving cars. Once they have them working there for a few years you'll see them slowly expand to harder cities but San Francisco is likely to be one of the first cities world wide to have viable self driving cars.",
+              "score": -11,
+              "created_utc": 1735231889.0,
+              "replies": [
+                {
+                  "id": "m3wch5c",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 12,
+                  "created_utc": 1735232827.0,
+                  "replies": [
+                    {
+                      "id": "m3wd5d6",
+                      "author": "CocodaMonkey",
+                      "body": "Because climate is one of the biggest issues with self driving cars. Lack of most extreme weather conditions greatly simplifies things. It allows them to focus on more straight forward logical issues which follow actual rules. Where as for example snow can change a 2 lane road into a 1 lane road in the matter of minutes with no obvious markers telling drivers.",
+                      "score": 17,
+                      "created_utc": 1735233055.0,
+                      "replies": [
+                        {
+                          "id": "m3wogie",
+                          "author": "Repulsive_Banana_659",
+                          "body": "There is another reason too.  Waymo also requires detailed maps to be maintained.  When the maps become out of sync with reality Waymo is less effective.   Tesla doesn\u2019t rely on maps.  It uses real time information to drive even in places where it has never been before.  This general driving ability is much harder to achieve.  And even harder with vision only.  Teslas approach is totally different than what Waymo is doing.  It\u2019s not wrong, it\u2019s harder.  And if they are able to achieve it, I think it will be a more scalable and cheaper system than Waymos.",
+                          "score": 6,
+                          "created_utc": 1735236834.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m3wfdda",
+                          "author": "BebopFlow",
+                          "body": "I remember reading that LIDAR struggles getting a clear image during rain and snow because it has trouble penetrating water",
+                          "score": 1,
+                          "created_utc": 1735233804.0,
+                          "replies": [
+                            {
+                              "id": "m3y3bdt",
+                              "author": "LibatiousLlama",
+                              "body": "They use redundant sensors beyond lidar and ML perception and detection algorithms are very successful at ignoring noise from rain and snow. \n\nPerception distance is certainly reduced but just like it is for you and I, the response is to adjust driving behavior as a result. Slow down, increase distance with lead vehicles etc.",
+                              "score": 2,
+                              "created_utc": 1735254016.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m3wlz2a",
+                      "author": "unpopular-dave",
+                      "body": "seriously! I lived in Daly city and visited SF regularly.\n\nThat city is nothing but hazards lol",
+                      "score": 1,
+                      "created_utc": 1735236010.0,
+                      "replies": [
+                        {
+                          "id": "m3wsnmx",
+                          "author": "azlan194",
+                          "body": "I know right. I mean, sure, there's no snow, but it does get foggy a lot, and it did rain a lot the past few weeks, and I still see those Waymo driving around.\n\nWent to Union Square last weekend, and the roads are all crazy with traffic and rain.",
+                          "score": 2,
+                          "created_utc": 1735238214.0,
+                          "replies": [
+                            {
+                              "id": "m3wt7o5",
+                              "author": "unpopular-dave",
+                              "body": "not to mention the terrible conditions of the roads, pedestrians constantly trying to get hit for insurance claims, and drivers behaving erratically",
+                              "score": 2,
+                              "created_utc": 1735238396.0,
+                              "replies": [
+                                {
+                                  "id": "m3wu00n",
+                                  "author": "azlan194",
+                                  "body": "> drivers behaving erratically \n\nYup, because sometimes the lane just changes into turning lane only, and people just switched lane last minute.",
+                                  "score": 1,
+                                  "created_utc": 1735238658.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m3wm0k6",
+                  "author": "AWalkingOrdeal",
+                  "body": ">Waymo's are in San Francisco because it's one of the easiest cities in the world for self driving cars.\n\nThere are multiple errors in this 1 sentence.\n\n1. SF is the North American AV mecca because of local regulations allowing for urban, real world AV testing. A few years ago it was the only city/county allowing this. We now have other cities like Seattle, Los Angeles, Phoenix and even Atlanta over on the East Coast. Regulations are easing due to positive results, and other municipalities are joining in.\n\n2. The geography and urban density of SF (one of the densest cities in NA) allows for a plethora of extreme edge case testing. \nIE: Hilly streets lined with parked cars, heavy foot traffic, and dense fog.\n\nSource: I'm testing AVs in SF (and the surrounding area) on a daily/weekly basis",
+                  "score": 6,
+                  "created_utc": 1735236024.0,
+                  "replies": [
+                    {
+                      "id": "m3wniv2",
+                      "author": "CocodaMonkey",
+                      "body": "You didn't dispute anything I said. If you think San Francisco is a plethora of edge cases you need to travel more. Every example you listed is pretty basic and happens to almost all cities on earth.\n\nI didn't say San Francisco isn't a good spot to work on self driving cars. You want to start on the easy places and get it working there because everything San Francisco can throw at a self driving car is something other cities also have.",
+                      "score": -2,
+                      "created_utc": 1735236523.0,
+                      "replies": [
+                        {
+                          "id": "m3y0w8g",
+                          "author": "AWalkingOrdeal",
+                          "body": ">Every example you listed is pretty basic and happens to almost all cities on earth.\n\nIt's about frequency. I'm not here to argue with you, just passing out some industry knowledge. If you think you know better than ~50 multi-billion companies with the most knowledgeable industry leads on Earth, I implore you to apply.",
+                          "score": 3,
+                          "created_utc": 1735253134.0,
+                          "replies": [
+                            {
+                              "id": "m3yap7y",
+                              "author": "CocodaMonkey",
+                              "body": "I'm not in disagreement with the industry leaders. Those companies know they are in the easy cities and that's why they are there. Nice climate, lots of customers. It's the perfect spot for them to be developing these cars. There's a reason there's very little testing in winter cities so far.\n\nI'd even be willing to bet places like San Francisco will see people depending on self driving cars as their main source of transportation decades before people in more northern cities. We're a long ways away from a viable self driving car that works everywhere but that doesn't mean some people can't start using them sooner.",
+                              "score": 1,
+                              "created_utc": 1735256757.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m3y305v",
+                  "author": "LibatiousLlama",
+                  "body": "So close to being correct. \n\nWaymo went driverless in Tempe Arizona first because it is one of the easiest operational domains. They are driverless in SF because it's a better profit opportunity. Higher usage of taxis is where they want to deploy a fleet to make some money.",
+                  "score": 2,
+                  "created_utc": 1735253901.0,
+                  "replies": [
+                    {
+                      "id": "m3ybod9",
+                      "author": "CocodaMonkey",
+                      "body": "I'm not even sure what you think you're correcting? Did you confuse me saying San Francisco is an easy city and think I said easiest? Because those are different statements. San Francisco is easy in that it has the population, the money and the climate for SDC development. It's not the only city though and there's tons of other places that could work just as well.",
+                      "score": -2,
+                      "created_utc": 1735257119.0,
+                      "replies": [
+                        {
+                          "id": "m3ykfqm",
+                          "author": "LibatiousLlama",
+                          "body": "You're using \"easiest\" in a vague sense. \n\nThe challenge behind self driving isn't the business case, it is the software performance and reliability. So when you refer to SF as the easiest, everybody is assuming your talking about difficulty of driving, no viability of the business itself. \n\nNobody questions the viability of the business at this point. Uber  and taxis exist. \n\nYou don't launch in the best city for money making when you go driverless, you go for the easiest to drive in.",
+                          "score": 1,
+                          "created_utc": 1735260378.0,
+                          "replies": [
+                            {
+                              "id": "m3yn6vr",
+                              "author": "CocodaMonkey",
+                              "body": "I'm speaking of both. Making the car work is far easier in SF then in a northern city. We are still many years (I'd bet decades) away from having reliable SDC in winter cities. Where as places like SF have taxis you can use today but are still being closely watched and developed. SF is one of the easiest cities in the world to teach a self driving car to drive in.",
+                              "score": 0,
+                              "created_utc": 1735261393.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m40odoi",
+          "author": "404_Gordon_Not_Found",
+          "body": ">All GOOD EVs use those expensive sensors \n\nYeah, in your imaginary world. Not only are lidar's relatively rare in mass market vehicles, I've yet to see another automakers offer something more capable than what Tesla offers right now",
+          "score": -1,
+          "created_utc": 1735298927.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m3wj6kn",
+      "author": "ireadthingsliterally",
+      "body": "Why would anyone what an auto-driving go-kart?  \nThe fun is literally in driving it yourself.",
+      "score": 8,
+      "created_utc": 1735235086.0,
+      "replies": []
+    },
+    {
+      "id": "m3w4bsd",
+      "author": "BreakerSoultaker",
+      "body": "People keep saying LIDAR and sonar sensors are \u201cexpensive,\u201d but they aren\u2019t. All other makers incorporate them in their vehicles and have for YEARS, selling them at a profit just fine. Tesla is cutting corners and is being unsafe by relying on cameras-only, all because that\u2019s what Elon wants. It offers no advantage at all and even a simple LIDAR or ultrasonic sensor would eliminate many of Tesla\u2019s issues. I have a 2024 MY and it has run red lights, slowed to speeds dangerously incompatible with surrounding traffic for no reason and fails to recognize certain interstate exit ramps and instead tries to turn from the right lane, again slowing to dangerous speeds to do so.",
+      "score": 13,
+      "created_utc": 1735230082.0,
+      "replies": [
+        {
+          "id": "m3w7tsm",
+          "author": "ca2mt",
+          "body": "I\u2019m not arguing one way or another, but none of the scenarios you presented would be solved by lidar or ultrasonic sensors, would they?\n\nI\u2019m sure there are scenarios where using lidar as a failsafe would make FSD better, but red light detection, speed control and lane selection would likely be camera based, even if there were other sensors.",
+          "score": 11,
+          "created_utc": 1735231279.0,
+          "replies": [
+            {
+              "id": "m3wp2oe",
+              "author": "BreakerSoultaker",
+              "body": "I suspect the slowing to speeds incompatible with surrounding traffic is caused by the cameras not being sure of what is directly in front of the car, so it slows. You are correct, LIDAR/sonar wouldn\u2019t help with red lights.",
+              "score": 4,
+              "created_utc": 1735237038.0,
+              "replies": [
+                {
+                  "id": "m3xnwfw",
+                  "author": "ca2mt",
+                  "body": "Phantom braking, potentially. Though I\u2019ve had phantom braking events in just about every car I\u2019ve driven with ADAS, and all of those had lidar. \n\nTough nut to crack, this self-driving stuff.",
+                  "score": 3,
+                  "created_utc": 1735248624.0,
+                  "replies": [
+                    {
+                      "id": "m3y4mww",
+                      "author": "BreakerSoultaker",
+                      "body": "I never had phantom braking in my CX9 in 6 years of ownership. Not once. It never even occurred to me it could be a possibility until I got a Tesla.",
+                      "score": 4,
+                      "created_utc": 1735254504.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3y55x5",
+          "author": "InterestedEarholes",
+          "body": "I think you\u2019re confusing LIDAR (spinning lasers) with RADAR sensors. Very few cars have LIDAR as it\u2019s still an expensive sensor but most have RADAR, which is not a moving part and uses radio waves, and is relatively cheap. RADAR has its own drawbacks though. Tesla\u2019s used to come with both RADAR and ultrasonic sensors with the cameras.",
+          "score": 6,
+          "created_utc": 1735254703.0,
+          "replies": []
+        },
+        {
+          "id": "m400a2f",
+          "author": "isobethehen",
+          "body": "One thing that never gets mentioned when people complain about Tesla only using camera based full self driving is the wireless traffic that other sensors create. If in the future every car were to have multiple lidar, sonar, radar sensors there would be so much light/ultrasonic/radio traffic the systems and protocols that would have to be implemented would be VERY costly, innovative, and standardized which is hard to do across the entire industry. There are currently some rudimentary solutions like frequency hopping and time division multiplexing but that only goes so far at certain amounts of traffic. Yes it would be great if Tesla added back a simple ultrasonic sensor for park assist but for autonomous driving, I think it made a good forward looking decision. We\u2019ll see if it was the correct decision in the future.",
+          "score": 2,
+          "created_utc": 1735283048.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m40aqsz",
+      "author": "marc512",
+      "body": "I remember I built the iRobot back in the day. It used a single camera that made the robot follow a white line. This was in the 90s at least. Sad to see technology hasn't progressed since toys from the 90s.",
+      "score": 2,
+      "created_utc": 1735289882.0,
+      "replies": []
+    },
+    {
+      "id": "m3vjhxy",
+      "author": "None",
+      "body": "Did WALL-E teach us nothing?",
+      "score": 2,
+      "created_utc": 1735222124.0,
+      "replies": []
+    },
+    {
+      "id": "m3wmuzs",
+      "author": "AlexHimself",
+      "body": "This isn't a gadget, but a fun YouTube project teaching a simple machine learning project. Pretty cool video.",
+      "score": 2,
+      "created_utc": 1735236303.0,
+      "replies": []
+    },
+    {
+      "id": "m3vpag0",
+      "author": "C_Madison",
+      "body": "Yeah, well. That's the same idea that Musk had for Tesla cause cameras are cheap. It works in 80% of cases and then it breaks down. But certainly a fun hobby project. Just not something you can use in the real world.",
+      "score": 1,
+      "created_utc": 1735224557.0,
+      "replies": []
+    },
+    {
+      "id": "m3vgmkw",
+      "author": "chrisdh79",
+      "body": "From the article: Self-driving vehicles are typically loaded up with expensive sensor arrays such as lidar, radar, and high-res cameras. But one DIY builder has shown that for certain closed environments, you can ditch all the fancy gear and still get autonomous driving with just one camera.\n\nYouTuber Austin Blake is one of those people who just happens to have a self-built go-kart lying around at home. After christening it \"Crazy Cart,\" he decided to convert it into his very own self-driving test platform. For this, he first designed a makeshift track laid out on the floor of his workshop using contrasting tape markers. As you can see in the image below, the space is pretty tight, but so is the cart's turning radius.\n\nThen came the hard part \u2013 actually giving Crazy Cart its self-driving skills. For this, Blake employed a technique called behavioral cloning via a trained neural network model. First, he recorded around 15,000 images while manually driving the kart around the track, using the steering angles at each point as training labels. He then fed this data into a convolutional neural network, which learned to associate the image inputs with the corresponding steering directions.\n\nGetting a well-performing model took quite a bit of trial and error. Initial tests failed as the network had trouble distinguishing the track edges and navigating sharp turns. Blake tried data augmentation tricks, tweaking hyperparameters, using multiple cameras, and even adding wide-angle lenses to enhance the field of view.\n\nHowever, the real breakthrough came when he added bright blue tape as an outer border, increasing contrast.\n\nWith the track clearly defined, his creation could autonomously zip around the floor track using just monocular vision \u2013 no expensive sensors required.\n\nWhat it did take, though, was a total of three Arduinos. One relayed the steering predictions from the computer to the second Arduino, which combined that data with positional feedback to operate a motor controlling the steering angle. The third Arduino handled the throttle by feeding control signals to the kart's speed controller.",
+      "score": -1,
+      "created_utc": 1735220827.0,
+      "replies": [
+        {
+          "id": "m3vite9",
+          "author": "Ahab_Ali",
+          "body": "Finally a solution to the autonomous driving problem. We just need to line our roadways with bright blue tape!",
+          "score": 36,
+          "created_utc": 1735221819.0,
+          "replies": [
+            {
+              "id": "m3vjjb9",
+              "author": "hedoeswhathewants",
+              "body": "Yeah, this is a neat DIY project, but there's a damn good reason \"real\" self-driving cars have all those sensors.",
+              "score": 18,
+              "created_utc": 1735222141.0,
+              "replies": [
+                {
+                  "id": "m3vnha9",
+                  "author": "_RADIANTSUN_",
+                  "body": "Yeah but humans can do it with nothing but 2 \"cameras\" (and 2 \"mics\" where sound is relevant).",
+                  "score": -5,
+                  "created_utc": 1735223815.0,
+                  "replies": [
+                    {
+                      "id": "m3vq036",
+                      "author": "sarhoshamiral",
+                      "body": "You also have touch and feeling of the car when it skids on a bunch of water on the road for example or in icy road.\n\nAlso humans have a brain that we haven't been able to duplicate with computers yet. So computers will need more sensors to make up.",
+                      "score": 13,
+                      "created_utc": 1735224842.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m3vo7g4",
+                      "author": "g0ndsman",
+                      "body": "I'm happy to know that you consider your brain as \"nothing\".",
+                      "score": 14,
+                      "created_utc": 1735224115.0,
+                      "replies": [
+                        {
+                          "id": "m3votnh",
+                          "author": "_RADIANTSUN_",
+                          "body": "I'm happy to know that your consider your brain a \"sensor\".",
+                          "score": -10,
+                          "created_utc": 1735224367.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m3vpqla",
+              "author": "6158675309",
+              "body": "Elon is on it.  Should be available in 2025 :-)",
+              "score": 2,
+              "created_utc": 1735224737.0,
+              "replies": []
+            },
+            {
+              "id": "m3vl7gb",
+              "author": "puffferfish",
+              "body": "Honestly, if we did have sensors on the road, just a dotted line or something, we could all have autonomous vehicles on standard roads in clear weather. It\u2019s not perfect, but it would be a good start.",
+              "score": -3,
+              "created_utc": 1735222869.0,
+              "replies": [
+                {
+                  "id": "m3vml5k",
+                  "author": "Even-Habit1929",
+                  "body": "line are on road already",
+                  "score": 8,
+                  "created_utc": 1735223446.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3vui6v",
+          "author": "TheTerrasque",
+          "body": "> But one DIY builder has shown that for certain closed environments, you can ditch all the fancy gear and still get autonomous driving with just one camera.\n\nThis is .. literally decades old technology. For example the Stanford Cart.\n\nEdit: *\"Using the KA10 processor, which ran at about 0.65 MIPS, Schmidt was eventually able to get the cart to automatically follow a high contrast white line under controlled lighting conditions at a speed of about 0.8 mph (1.3 kph), considerably slower than had been hoped for. Schmidt completed his dissertation in 1971.\"*",
+          "score": 7,
+          "created_utc": 1735226584.0,
+          "replies": []
+        },
+        {
+          "id": "m3vhfg3",
+          "author": "sixfourtykilo",
+          "body": "This is what Tesla means when they say they can achieve full self driving without all of the fancy sensors.",
+          "score": -8,
+          "created_utc": 1735221195.0,
+          "replies": [
+            {
+              "id": "m3vi87y",
+              "author": "thonis2",
+              "body": "Fun for home indoor projects. But In a real car that doesn\u2019t work. Especially during dusk and dawn. Big mistake of Tesla. BYD will license the sensors and software to others and win this automomous space.",
+              "score": 14,
+              "created_utc": 1735221555.0,
+              "replies": [
+                {
+                  "id": "m3vilip",
+                  "author": "sixfourtykilo",
+                  "body": "Will be interesting to see if Waymo tries to sell any of its tech first.",
+                  "score": -2,
+                  "created_utc": 1735221721.0,
+                  "replies": [
+                    {
+                      "id": "m3vk4hv",
+                      "author": "thonis2",
+                      "body": "Their sensors used might be too big to translate to normal cars. Might influence the data / software they can offer.",
+                      "score": 3,
+                      "created_utc": 1735222400.0,
+                      "replies": [
+                        {
+                          "id": "m3vnj0y",
+                          "author": "sixfourtykilo",
+                          "body": "I've seen it shrink to the equivalent of a very small car top carrier. I think it will be like anything else and components will shrink.",
+                          "score": 2,
+                          "created_utc": 1735223835.0,
+                          "replies": [
+                            {
+                              "id": "m3vs0wf",
+                              "author": "thonis2",
+                              "body": "Nio has a small bump above the front window. And some small ones on the side. The potential issue is that Waymo training data is based on this middle top of the roof perspective. Although if their software is trained based on 3d recreation of the environment it might be less of an issue.",
+                              "score": 1,
+                              "created_utc": 1735225643.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m3vin6a",
+              "author": "ouatedephoque",
+              "body": "Did you miss the part about this being fine only in \u201ccertain closed environments\u201d?\n\nTesla FSD will only ever work in predictable environments. Add something like snow into the equation and the whole thing falls apart.",
+              "score": 5,
+              "created_utc": 1735221742.0,
+              "replies": [
+                {
+                  "id": "m3vj3q5",
+                  "author": "Mbanicek64",
+                  "body": "I don\u2019t trust a purely camera based system. Redundancy seems obviously essential. Even if they are able to do most of it with cameras, it is dumb to not have other data coming in for safety.",
+                  "score": 3,
+                  "created_utc": 1735221946.0,
+                  "replies": [
+                    {
+                      "id": "m3vkc8r",
+                      "author": "ouatedephoque",
+                      "body": "Many people have died already as a result of Tesla only relying on cameras (and for trusting Tesla in the first place).",
+                      "score": 1,
+                      "created_utc": 1735222494.0,
+                      "replies": [
+                        {
+                          "id": "m3vliqo",
+                          "author": "Mbanicek64",
+                          "body": "I am very disappointed in Tesla. Elon is a conman. I really wanted to believe they were going to make something actually great. They gave up and pretended they crossed the finish line.",
+                          "score": 0,
+                          "created_utc": 1735223003.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m3vjhsn",
+                  "author": "sixfourtykilo",
+                  "body": "I wasn't defending Tesla. This is literally their problem .",
+                  "score": 0,
+                  "created_utc": 1735222122.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m3voz3a",
+              "author": "MadRoboticist",
+              "body": "This is not remotely close to autonomous driving. He trained a go kart to drive on one specific track in a closed environment. If he made a new track, it wouldn't even work anymore.",
+              "score": 2,
+              "created_utc": 1735224428.0,
+              "replies": [
+                {
+                  "id": "m3vprmc",
+                  "author": "sixfourtykilo",
+                  "body": "Everyone is missing my point. Tesla will never reach fully autonomous self driving because this essentially the same approach they're taking.",
+                  "score": -2,
+                  "created_utc": 1735224748.0,
+                  "replies": [
+                    {
+                      "id": "m3vqz6a",
+                      "author": "MadRoboticist",
+                      "body": "I don't think Tesla will achieve self driving with camera only because some company that actually wants to make self driving will find a way to make an affordable lidar system. But comparing this to what Tesla has done is ridiculous.",
+                      "score": 2,
+                      "created_utc": 1735225247.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m3vr0fa",
+                      "author": "MadRoboticist",
+                      "body": "I don't think Tesla will achieve self driving with camera only because some company that actually wants to make self driving will find a way to make an affordable lidar system. But comparing this to what Tesla has done is ridiculous.",
+                      "score": 1,
+                      "created_utc": 1735225263.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m3viycm",
+              "author": "rawonionbreath",
+              "body": "This is what Tesla intends, what they mean is saving money from sensors and safety outcomes be damned. This might work for a dinky go-kart, far and away from clear it\u2019ll work for a full on automobile that goes at 70 mph.",
+              "score": 0,
+              "created_utc": 1735221880.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3vrvkn",
+      "author": "im_a_stapler",
+      "body": "Tesla?",
+      "score": 0,
+      "created_utc": 1735225586.0,
+      "replies": []
+    },
+    {
+      "id": "m3wlfs2",
+      "author": "Taki_Minase",
+      "body": "Mud",
+      "score": 0,
+      "created_utc": 1735235833.0,
+      "replies": []
+    }
+  ]
+}

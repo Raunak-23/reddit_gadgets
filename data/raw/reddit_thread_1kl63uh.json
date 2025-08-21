@@ -1,0 +1,459 @@
+{
+  "post": {
+    "title": "Sandisk's Stargate SSD architecture targets 512TB drives by 2027 | Stargate to debut this year in Ultra QLC 64TB and 128TB models",
+    "author": "chrisdh79",
+    "id": "1kl63uh",
+    "score": 201,
+    "created_utc": 1747089209.0,
+    "selftext": "",
+    "num_comments": 54,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1kl63uh/sandisks_stargate_ssd_architecture_targets_512tb/"
+  },
+  "comments": [
+    {
+      "id": "ms0tuem",
+      "author": "PokeCaptain",
+      "body": "First customer: Cheyenne Mountain",
+      "score": 45,
+      "created_utc": 1747102347.0,
+      "replies": [
+        {
+          "id": "ms1foxk",
+          "author": "2g4r_tofu",
+          "body": "Indeed",
+          "score": 13,
+          "created_utc": 1747111156.0,
+          "replies": [
+            {
+              "id": "ms371ze",
+              "author": "wilcroft",
+              "body": "Jaffa Kree",
+              "score": 2,
+              "created_utc": 1747143104.0,
+              "replies": [
+                {
+                  "id": "ms5jgzq",
+                  "author": "VenturingHedonist",
+                  "body": "Tek Ma Tae",
+                  "score": 2,
+                  "created_utc": 1747167861.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ms1xxa0",
+          "author": "Cryogenics1st",
+          "body": "![gif](giphy|tnYri4n2Frnig)",
+          "score": 5,
+          "created_utc": 1747121049.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mrzwjh7",
+      "author": "Kellic",
+      "body": "I'll take 9 (8 for RAID 1 for hot spare.), That should fit my Plex collection by that time......Now I just need to sell the house to buy them.",
+      "score": 32,
+      "created_utc": 1747090938.0,
+      "replies": [
+        {
+          "id": "muzbmef",
+          "author": "CatProgrammer",
+          "body": "At that size you want at least RAID 6.",
+          "score": 1,
+          "created_utc": 1748563769.0,
+          "replies": []
+        },
+        {
+          "id": "ms12am6",
+          "author": "Rimworldjobs",
+          "body": "I always like to imagine 8 super fast names on raid 0. Do you you think it would be noticeable? I also like to imagine having 256gb of ram for dimm loading.",
+          "score": -3,
+          "created_utc": 1747105454.0,
+          "replies": [
+            {
+              "id": "ms3k8gm",
+              "author": "internetlad",
+              "body": "Raid 0 is never good.",
+              "score": -1,
+              "created_utc": 1747147230.0,
+              "replies": [
+                {
+                  "id": "ms546ik",
+                  "author": "Twingamer25",
+                  "body": "Momma didn't raise a pussy",
+                  "score": 4,
+                  "created_utc": 1747163419.0,
+                  "replies": []
+                },
+                {
+                  "id": "ms3n20r",
+                  "author": "Rimworldjobs",
+                  "body": "I didn't ask? I'm talking about just straight speed.",
+                  "score": 1,
+                  "created_utc": 1747148072.0,
+                  "replies": [
+                    {
+                      "id": "ms3slen",
+                      "author": "internetlad",
+                      "body": "Refer to prior comment",
+                      "score": 0,
+                      "created_utc": 1747149697.0,
+                      "replies": [
+                        {
+                          "id": "ms3tyr8",
+                          "author": "Rimworldjobs",
+                          "body": "Simply do not care.",
+                          "score": 3,
+                          "created_utc": 1747150091.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ms0xzol",
+      "author": "VincentNacon",
+      "body": "I don't think people realize how insane this is getting.\n\n1080p video recording non-stop for more than 2 years is possible with this... and more.",
+      "score": 30,
+      "created_utc": 1747103813.0,
+      "replies": [
+        {
+          "id": "ms1he3n",
+          "author": "Sirisian",
+          "body": "This gets into futurology stuff, but we'll need this capacity and more later for lightfield video formats. There's a lot of details, but at 50-100 gbps compressed file sizes in the 2040s they require massive amount of storage capacity. On a 512 TB drive it's less than a day of video. Raw data is a whole other beast requiring potentially absurd amounts of temporary storage before encoding. To make these kind of future storage services possible requires that enterprise drives continue to grow rapidly.",
+          "score": 9,
+          "created_utc": 1747111956.0,
+          "replies": [
+            {
+              "id": "ms1xgju",
+              "author": "Earthiness",
+              "body": "Yeah, I remember seeing some projections on playing back 3D (apples version on their headset) immersive video where you\u2019re in the scene and you\u2019re able to turn your head and look around while it\u2019s playing. I think the throughput on data transmission was nearing 10GBs and for 10 minutes you needed something like 10TB. I\u2019m sure with a better codex you could get that down but truly immersive video is technically possible but you\u2019ll need a couple Petabytes.\n\nEdit:\nDid some quick math and it would be around 102TB for a 10 minute video but only a 1.2Gbps transfer rate.",
+              "score": 3,
+              "created_utc": 1747120761.0,
+              "replies": [
+                {
+                  "id": "ms270rz",
+                  "author": "Sirisian",
+                  "body": "That would be the early glimpses of where this is going. One of the best examples I've seen of this is at the end of [Ready Player One](https://youtu.be/kve9w5LdxZY?t=51) where the protagonist is teleported to a copy of someone's room. It captures the idea that one can be fully immersed in a 1:1 copy of another environment and interact with others.\n\nFor reference, future mixed reality will aim for 16K@240Hz per eye with eye tracking. With edge servers it's possible to stream data over 6G (or later) at near zero latency. So you'd be decoding only a partial viewpoint even if the full video file is multiple PB large and allows you to walk into it. A lot of current 360 lightfield video only encodes a small sphere where moving outside this region causes artifacts due to missing views. Nothing would stop say a 3D film from rendering a lightfield with a multiple meter large view region and bloating the file size immensely.\n\nOn the capture side taken to the extreme, [SPAD](https://en.wikipedia.org/wiki/Single-photon_avalanche_diode) [event cameras](https://en.wikipedia.org/wiki/Event_camera) should be able to scan the world at sub-millimeter resolution. Static scenes obviously don't cost as much, but when you have a lot of dynamic people even in 2040 it might be quite demanding. One example I've seen is someone livestreaming a busy city street where viewers would feel they're standing next to them. The MR glasses would be encoding all the important changes. (It could even use pose estimation and other analysis to compress people in the scene further reducing the cost. Lot of techniques later should make this not as daunting as it might seem. Microsoft research has a number of papers on this topic).",
+                  "score": 1,
+                  "created_utc": 1747126740.0,
+                  "replies": [
+                    {
+                      "id": "ms27gnb",
+                      "author": "Earthiness",
+                      "body": "Yeah, I did my calculations at around 13K each eye and just assumed a full render at 240hz . If you just rendered field of view, it would be a lot less intensive.\n\nIt\u2019s interesting that we really aren\u2019t that far off having this be possible at consumer levels. Probably just another 10ish years out for pixel density and once you essentially pass 14K resolution, there isn\u2019t a need to go further. That\u2019s already peak human vision.",
+                      "score": 2,
+                      "created_utc": 1747127017.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ms1xub1",
+          "author": "-Badger3-",
+          "body": "And security cam footage is still going to be ass",
+          "score": 4,
+          "created_utc": 1747120998.0,
+          "replies": []
+        },
+        {
+          "id": "ms24fq0",
+          "author": "unematti",
+          "body": "They TARGET it tho. It doesn't always work out. Plus compressed vs uncompressed, 4k streams, and of course it'll probably cost as much as the equivalent capacity in multiple drives",
+          "score": 2,
+          "created_utc": 1747125109.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ms0mh4w",
+      "author": "Disc-Golf-Kid",
+      "body": "512 is fucking wild",
+      "score": 13,
+      "created_utc": 1747099826.0,
+      "replies": [
+        {
+          "id": "ms17oy7",
+          "author": "running_on_empty",
+          "body": "I remember being too young to understand why my dad was excited to have a 5gb hard drive.",
+          "score": 11,
+          "created_utc": 1747107649.0,
+          "replies": [
+            {
+              "id": "ms2txpb",
+              "author": "kbn_",
+              "body": "I remember being the one excited about a 2 GB.",
+              "score": 3,
+              "created_utc": 1747138364.0,
+              "replies": [
+                {
+                  "id": "ms6k844",
+                  "author": "tendrils87",
+                  "body": "When we bought our first PC in 1995 the Best Buy salesman said the 1GB hard drive was all the storage we\u2019d ever need",
+                  "score": 1,
+                  "created_utc": 1747179632.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ms60236",
+              "author": "krectus",
+              "body": "My first computer as a young kid had a 30mb hard drive. I have a very distinct memory of my friend being very jealous cause his only had 20mb.",
+              "score": 1,
+              "created_utc": 1747172867.0,
+              "replies": [
+                {
+                  "id": "ms61hwe",
+                  "author": "running_on_empty",
+                  "body": "It's insane, right? I wish my dad was alive to see my 3 monitor, 128gb RAM beast with 3TB of SSD and HDD. Would blow his mind.",
+                  "score": 3,
+                  "created_utc": 1747173319.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ms3qnog",
+      "author": "Buzstringer",
+      "body": "Until I can buy them on Amazon at a decent price, this all means nothing.\n\n8TB on Amazon is $500 right now. We are not seeing these in the consumer space for at least 10 years",
+      "score": 6,
+      "created_utc": 1747149133.0,
+      "replies": []
+    },
+    {
+      "id": "ms1s2ou",
+      "author": "PARANOIAH",
+      "body": "Provided that the prices come down significantly. SSD prices and capacities for consumers have been largely stagnant for a pretty long time now, not sure if it's collusion/price manipulation or just technical limitations.",
+      "score": 7,
+      "created_utc": 1747117605.0,
+      "replies": [
+        {
+          "id": "ms1urto",
+          "author": "MentokGL",
+          "body": "Performance has been steadily improving with nvme drivers. SATA drives are on the way out.",
+          "score": 5,
+          "created_utc": 1747119167.0,
+          "replies": [
+            {
+              "id": "ms29fgd",
+              "author": "PARANOIAH",
+              "body": "Problem with m.2 drives is that there are typically 1-2 slots on most motherboards unless you go for higher end ones. Also, I refuse to accept QLC drives.",
+              "score": 2,
+              "created_utc": 1747128256.0,
+              "replies": [
+                {
+                  "id": "ms3psod",
+                  "author": "MentokGL",
+                  "body": "There's pcie adapters out there, good in a pinch. I'm guessing we'll start seeing more slots in the next few years",
+                  "score": 1,
+                  "created_utc": 1747148881.0,
+                  "replies": []
+                },
+                {
+                  "id": "mst1f31",
+                  "author": "redsoxVT",
+                  "body": "Yea, I chose my mobo because it has 5 slots. Using 4 in raid 0 pairs. Glorious speed. I take it for granted until every now and then I need to transfer to/from a standard drive and suddenly there is actual wait time.",
+                  "score": 1,
+                  "created_utc": 1747495670.0,
+                  "replies": [
+                    {
+                      "id": "mstqax8",
+                      "author": "PARANOIAH",
+                      "body": "Nice. Are they mounted directly on the board or are they on an add in card/daughterboard thing?",
+                      "score": 1,
+                      "created_utc": 1747503653.0,
+                      "replies": [
+                        {
+                          "id": "msu831k",
+                          "author": "redsoxVT",
+                          "body": "On the board",
+                          "score": 1,
+                          "created_utc": 1747509554.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ms1vl4a",
+          "author": "no-name-here",
+          "body": "SSD prices seem to be falling crazy fast every year https://www.reddit.com/r/DataHoarder/s/jM4cuWdvjV ?",
+          "score": 2,
+          "created_utc": 1747119636.0,
+          "replies": [
+            {
+              "id": "ms298br",
+              "author": "PARANOIAH",
+              "body": "4TB and higher capacities have increased in pricing. Managed to snag a few at a very low price about 2ish years ago and I haven't been able to find the same ones at that price since.",
+              "score": 9,
+              "created_utc": 1747128134.0,
+              "replies": []
+            },
+            {
+              "id": "ms7smkd",
+              "author": "im_thatoneguy",
+              "body": "That chart is bunk. Nobody has ever gotten SSDs that cheap. $150 for a 4TB drive? No.\n\n$13TB for spinning disks is about right.",
+              "score": 1,
+              "created_utc": 1747196073.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ms4k90c",
+      "author": "Kilobytez95",
+      "body": "They will also be made of unaffordium",
+      "score": 2,
+      "created_utc": 1747157713.0,
+      "replies": []
+    },
+    {
+      "id": "ms23pv5",
+      "author": "Randommaggy",
+      "body": "I want to know the expected sizes of M.2 drives.  \nMy 8TB m.2 onluy has 3.3TB left.",
+      "score": 1,
+      "created_utc": 1747124647.0,
+      "replies": []
+    },
+    {
+      "id": "ms2hh51",
+      "author": "Gasarakiiii",
+      "body": "Wonder what these will cost, 64 TB or 128 TB, this is so awesome!",
+      "score": 1,
+      "created_utc": 1747132840.0,
+      "replies": []
+    },
+    {
+      "id": "ms1b4sa",
+      "author": "kain459",
+      "body": "I enjoy food with electricity on.",
+      "score": 1,
+      "created_utc": 1747109130.0,
+      "replies": []
+    },
+    {
+      "id": "mrzzoyc",
+      "author": "johnryan433",
+      "body": "Unfortunately due to AI demand the price won\u2019t go down it\u2019s just gonna double with each doubling of capacity.",
+      "score": -15,
+      "created_utc": 1747092031.0,
+      "replies": [
+        {
+          "id": "ms02a4d",
+          "author": "ObviouslyTriggered",
+          "body": "The cost per TB for SSD's dropped by about a 12 fold over the past decade.....",
+          "score": 12,
+          "created_utc": 1747092850.0,
+          "replies": [
+            {
+              "id": "ms7t8en",
+              "author": "im_thatoneguy",
+              "body": "I bought nvme drives for a storage server about 4 years ago and the price is the same today.",
+              "score": 1,
+              "created_utc": 1747196337.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ms0lbus",
+          "author": "leavezukoalone",
+          "body": "You don\u2019t know much about AI, do you?",
+          "score": 6,
+          "created_utc": 1747099419.0,
+          "replies": [
+            {
+              "id": "ms20z3a",
+              "author": "johnryan433",
+              "body": "Yeah, you\u2019re right, I only work at OpenAI, but what do I know? High-density SSDs are critical for storing synthetic data used in post-training and fine-tuning of LLMs.\n\nHere\u2019s a great video explaining my reasoning, along with links to purchase a 64TB SSD for $7K and a 122TB SSD for $14.9K.\n\nhttps://youtu.be/U_PkjXwh4bc?si=qUR6EmSybIPOVIcn \n\n(64 tb SSD $7k) \n https://www.newegg.com/solidigm-61-44tb-d5-p5336/p/N82E16820318031\n\n(122 tb $14.9k)\nhttps://www.newegg.com/p/N82E16820318205",
+              "score": -1,
+              "created_utc": 1747122931.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ms0cui8",
+          "author": "kyredemain",
+          "body": "Storage isn't really a limiting factor for AI. Most models aren't really that big, 100 GB or less in many cases. At least the ones I've used.",
+          "score": 2,
+          "created_utc": 1747096409.0,
+          "replies": [
+            {
+              "id": "ms7t4d8",
+              "author": "im_thatoneguy",
+              "body": "And what is that AI model trained on or verified against? If it\u2019s Tesla that means petabytes of dashcam footage for training and validation. For multimodal LLMs that means every written word and image on the internet.",
+              "score": 1,
+              "created_utc": 1747196288.0,
+              "replies": [
+                {
+                  "id": "ms7tz4i",
+                  "author": "kyredemain",
+                  "body": "That isn't actually that much storage when you look at it at a corporate scale. \n\nYou also don't really need to keep all of that information all at once. If it saves you money by just re-scraping the web every time, you just do that. No reason to download the whole internet and hold onto it.",
+                  "score": 0,
+                  "created_utc": 1747196662.0,
+                  "replies": [
+                    {
+                      "id": "ms7ug0i",
+                      "author": "im_thatoneguy",
+                      "body": "What?? You need to push TBs of data through a rack of GPU thousands of times. You don\u2019t just plug in your modem and go download the internet every time. It would add insane amounts of latency.\n\nAlso 100,000 GPUs isn\u2019t very many in a \u201ccorporate scale\u201d but it\u2019s enough to drive GPU prices up.",
+                      "score": 0,
+                      "created_utc": 1747196876.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ms21jw4",
+              "author": "johnryan433",
+              "body": "It has nothing to do with the storage of the AI model. It\u2019s about post training or fine tuning the model itself.",
+              "score": 1,
+              "created_utc": 1747123283.0,
+              "replies": []
+            },
+            {
+              "id": "ms22oqd",
+              "author": "johnryan433",
+              "body": "It\u2019s to store the synthetic data used for fine tuning or post training an AI model.",
+              "score": 0,
+              "created_utc": 1747123992.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

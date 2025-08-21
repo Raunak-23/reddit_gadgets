@@ -1,0 +1,49 @@
+metric,value
+file,1m5rj0b.csv
+title,"Atari 2600+ PAC-MAN Edition - Backward and forward compatible Console, Joystick & Games"
+rows,110
+num_posts,1
+num_comments,109
+unique_authors,74
+max_depth,6
+avg_comment_words,57.86
+median_comment_words,47.0
+max_comment_words,264
+positive_count,23
+negative_count,86
+neutral_count,0
+positive_pct,21.101
+negative_pct,78.899
+neutral_pct,0.0
+topic_1_keywords,"et, spent, games, game, im, playable, hole, dont"
+topic_1_label,"et, spent, game, game"
+topic_2_keywords,"2600, games, still, play, remember, years, controllers, new"
+topic_2_label,2600 games still play
+topic_3_keywords,"version, pacman, 2600, game, 7800, like, ms, one"
+topic_3_label,pacman 2600 games like one
+topic_4_keywords,"game, one, games, 2600, also, et, theres, play"
+topic_4_label,Theres game in the et
+topic_5_keywords,"2600, version, edition, pacman, game, special, bad, make"
+topic_5_label,2600 version of pacman game
+topic_6_keywords,"2600, pacman, shovelware, lot, game, ms, even, games"
+topic_6_label,"pacman shovelware, games, ms"
+top_ngram_1,2600 game (20)
+top_ngram_2,version pacman (16)
+top_ngram_3,special edition (16)
+top_ngram_4,ms pacman (15)
+top_ngram_5,atari 2600 (13)
+top_ngram_6,find funny (12)
+top_ngram_7,funny chose (12)
+top_ngram_8,chose historically (12)
+top_ngram_9,historically bad (12)
+top_ngram_10,bad 2600 (12)
+ner_1,2600|MISC|39
+ner_2,##0|MISC|23
+ner_3,ET|MISC|17
+ner_4,##an|MISC|11
+ner_5,Hills|ORG|11
+ner_6,Atari|ORG|11
+ner_7,Atari 2600|MISC|9
+ner_8,Pac|MISC|9
+ner_9,##M|ORG|9
+ner_10,Video Game Crash|MISC|8

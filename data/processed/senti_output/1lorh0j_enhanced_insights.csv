@@ -1,0 +1,49 @@
+metric,value
+file,1lorh0j.csv
+title,"Apple CarPlay Ultra hands-on: more continuity, less disruption"
+rows,92
+num_posts,1
+num_comments,91
+unique_authors,68
+max_depth,9
+avg_comment_words,70.15
+median_comment_words,56.0
+max_comment_words,425
+positive_count,10
+negative_count,81
+neutral_count,0
+positive_pct,10.989
+negative_pct,89.011
+neutral_pct,0.0
+topic_1_keywords,"money, get, work, much, able, check, pretty, someone"
+topic_1_label,able to check
+topic_2_keywords,"car, like, go, hacking, ive, never, oh, thats"
+topic_2_label,hacking car
+topic_3_keywords,"fine, implementation, current, phone, gps, money, excited, anybody"
+topic_3_label,gps and money for a ps
+topic_4_keywords,"carplay, us, subscriptions, manufacturers, even, phone, cars, software"
+topic_4_label,carplay software
+topic_5_keywords,"one, aston, brother, new, software, bought, martin, android"
+topic_5_label,new software bought by brother of aston
+topic_6_keywords,"carplay, car, buy, cars, fix, still, apple, system"
+topic_6_label,"carplay, car, car, system"
+top_ngram_1,android auto (13)
+top_ngram_2,aston martin (12)
+top_ngram_3,probably doesnt (8)
+top_ngram_4,doesnt matter (8)
+top_ngram_5,matter anyway (8)
+top_ngram_6,anyway since (8)
+top_ngram_7,since manufacturers (8)
+top_ngram_8,manufacturers seem (8)
+top_ngram_9,seem opposed (8)
+top_ngram_10,opposed even (8)
+ner_1,CarPlay|MISC|25
+ner_2,Apple|ORG|9
+ner_3,Android|MISC|8
+ner_4,Aston Martin|MISC|8
+ner_5,Aston|MISC|7
+ner_6,Car|MISC|6
+ner_7,Auto|ORG|6
+ner_8,Chevy|ORG|5
+ner_9,E|MISC|5
+ner_10,Toyota|ORG|5

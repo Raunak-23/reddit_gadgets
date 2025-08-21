@@ -1,0 +1,49 @@
+metric,value
+file,1gmcfil.csv
+title,Scalpers are jacking up the price of the Ryzen 7 9800X3D 
+rows,110
+num_posts,1
+num_comments,109
+unique_authors,80
+max_depth,13
+avg_comment_words,41.43
+median_comment_words,30.0
+max_comment_words,196
+positive_count,15
+negative_count,94
+neutral_count,0
+positive_pct,13.761
+negative_pct,86.239
+neutral_pct,0.0
+topic_1_keywords,"scalpers, money, games, dont, amd, buy, scalping, cpu"
+topic_1_label,"scalpers buy money, games, cpu"
+topic_2_keywords,"around, crazy, dick, 2025, every, time, best, months"
+topic_2_label,dicks are the best in the 2025
+topic_3_keywords,"one, shit, going, patience, retaliate, cpu, go, get"
+topic_3_label,"shit, cpu, retaliate"
+topic_4_keywords,"tariffs, prices, bad, buying, dont, want, thats, buy"
+topic_4_label,"tariffs, prices, bad buying"
+topic_5_keywords,"get, still, dont, important, people, buy, want, isnt"
+topic_5_label,if you want to buy something important you want to buy it
+topic_6_keywords,"amd, cpu, years, upgrade, series, year, socket, buying"
+topic_6_label,cpu upgrade year for cpu
+top_ngram_1,higher prices (8)
+top_ngram_2,dont play (7)
+top_ngram_3,people betting (7)
+top_ngram_4,betting tariffs (7)
+top_ngram_5,tariffs increasing (7)
+top_ngram_6,increasing prices (7)
+top_ngram_7,prices therefore (7)
+top_ngram_8,therefore buying (7)
+top_ngram_9,buying stuff (7)
+top_ngram_10,stuff sell (7)
+ner_1,AMD|ORG|14
+ner_2,AMD|MISC|3
+ner_3,Intel|ORG|3
+ner_4,China|LOC|3
+ner_5,Taiwan|LOC|2
+ner_6,##D|ORG|2
+ner_7,TSMC|ORG|2
+ner_8,Crypto|ORG|2
+ner_9,J|MISC|2
+ner_10,AI|ORG|2

@@ -1,0 +1,49 @@
+metric,value
+file,1lvrpuj.csv
+title,Apple Vision Pro 2 with more comfortable strap and upgraded chip is coming later this year
+rows,24
+num_posts,1
+num_comments,23
+unique_authors,21
+max_depth,4
+avg_comment_words,49.22
+median_comment_words,39.0
+max_comment_words,156
+positive_count,4
+negative_count,19
+neutral_count,0
+positive_pct,17.391
+negative_pct,82.609
+neutral_pct,0.0
+topic_1_keywords,"still, thing, even, front, putting, setting, timers, toilet"
+topic_1_label,"Toilet still, even, toilet"
+topic_2_keywords,"screen, get, new, version, really, monitors, thing, flop"
+topic_2_label,flops on screen
+topic_3_keywords,"people, mine, im, use, using, screen, one, lot"
+topic_3_label,i am using a lot of screen
+topic_4_keywords,"version, new, strap, dont, device, isnt, seems, time"
+topic_4_label,strap doesnt seem to be working
+topic_5_keywords,"like, could, screen, affordable, option, big, much, functions"
+topic_5_label,big screen options for big screen
+topic_6_keywords,"pro, vision, getting, bigscreen, theres, youre, really, thats"
+topic_6_label,i'm gonna get a big screen
+top_ngram_1,vision pro (5)
+top_ngram_2,even use (4)
+top_ngram_3,use case (4)
+top_ngram_4,case thing (4)
+top_ngram_5,thing still (4)
+top_ngram_6,still setting (4)
+top_ngram_7,setting timers (4)
+top_ngram_8,timers putting (4)
+top_ngram_9,putting browser (4)
+top_ngram_10,browser windows (4)
+ner_1,Apple|ORG|4
+ner_2,Bigscreen|MISC|4
+ner_3,Vision Pro|MISC|3
+ner_4,AVP|MISC|2
+ner_5,Mac|MISC|2
+ner_6,Apple|MISC|2
+ner_7,##mes|ORG|1
+ner_8,BSB|ORG|1
+ner_9,##dgets|ORG|1
+ner_10,##gecomposetor|ORG|1

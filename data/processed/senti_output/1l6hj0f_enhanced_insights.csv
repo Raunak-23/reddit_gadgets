@@ -1,0 +1,49 @@
+metric,value
+file,1l6hj0f.csv
+title,Microsoft and Asus announce two Xbox Ally handhelds with new Xbox full-screen experience
+rows,265
+num_posts,1
+num_comments,264
+unique_authors,163
+max_depth,13
+avg_comment_words,61.63
+median_comment_words,46.5
+max_comment_words,358
+positive_count,23
+negative_count,241
+neutral_count,0
+positive_pct,8.712
+negative_pct,91.288
+neutral_pct,0.0
+topic_1_keywords,"steam, deck, switch, desktop, windows, like, emulation, nintendo"
+topic_1_label,"Steam, deck, switch, windows, emulation"
+topic_2_keywords,"windows, microsoft, xbox, background, doesnt, bloated, games, like"
+topic_2_label,"Windows, microsoft, xbox, background, doesnt, games"
+topic_3_keywords,"steam, one, im, think, sure, might, handheld, want"
+topic_3_label,steam i think i might want to be a handheld
+topic_4_keywords,"console, deck, steam, pc, get, still, mini, better"
+topic_4_label,"Steam, Steam, Mini, Steam"
+topic_5_keywords,"xbox, pc, games, play, game, console, stream, pass"
+topic_5_label,xbox games play stream pass
+topic_6_keywords,"windows, os, time, im, xbox, new, something, get"
+topic_6_label,xbox 's new windows os
+top_ngram_1,steam deck (69)
+top_ngram_2,windows 11 (40)
+top_ngram_3,steam os (22)
+top_ngram_4,background processes (20)
+top_ngram_5,game pass (20)
+top_ngram_6,rog ally (20)
+top_ngram_7,microsoft doesnt (18)
+top_ngram_8,doesnt load (18)
+top_ngram_9,windows desktop (18)
+top_ngram_10,bunch background (18)
+ner_1,Xbox|MISC|73
+ner_2,Microsoft|ORG|67
+ner_3,Xbox|ORG|53
+ner_4,Windows|MISC|52
+ner_5,Windows 11|MISC|29
+ner_6,Sony|ORG|23
+ner_7,PC|MISC|19
+ner_8,Nintendo|ORG|18
+ner_9,Steam OS|ORG|17
+ner_10,Ally|MISC|15

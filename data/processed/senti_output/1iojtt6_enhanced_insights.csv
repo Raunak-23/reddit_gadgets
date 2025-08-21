@@ -1,0 +1,49 @@
+metric,value
+file,1iojtt6.csv
+title,First report of an Nvidia RTX 5080 power connector melting emerges | Gamers Nexus' Steve is on the case
+rows,274
+num_posts,1
+num_comments,273
+unique_authors,193
+max_depth,8
+avg_comment_words,68.56
+median_comment_words,45.0
+max_comment_words,435
+positive_count,38
+negative_count,235
+neutral_count,0
+positive_pct,13.919
+negative_pct,86.081
+neutral_pct,0.0
+topic_1_keywords,"like, plug, one, wall, psu, im, require, rtx"
+topic_1_label,i need a plug on my wall
+topic_2_keywords,"power, voltage, cards, requirements, 5070, think, line, end"
+topic_2_label,cards with voltage 5070 think
+topic_3_keywords,"power, cable, connector, amps, one, safe, gpu, load"
+topic_3_label,"Power, cable, amps, one, safe, gpu"
+topic_4_keywords,"wire, load, wires, card, even, isnt, linus, 5080"
+topic_4_label,linus 5080 linus isnt
+topic_5_keywords,"vs, nvidia, intel, wires, connector, 3dfx, dont, gpu"
+topic_5_label,"vs, nvidia, intel, wires, 3dfx, don"
+topic_6_keywords,"4090, get, im, like, need, power, cables, cards"
+topic_6_label,"4090 I like to get power, cables and cards"
+top_ngram_1,power supply (18)
+top_ngram_2,load balancing (16)
+top_ngram_3,rtx 6080 (15)
+top_ngram_4,6080 require (15)
+top_ngram_5,require direct (15)
+top_ngram_6,direct plug (15)
+top_ngram_7,plug wall (15)
+top_ngram_8,wall rate (15)
+top_ngram_9,rtx 6080 require (15)
+top_ngram_10,6080 require direct (15)
+ner_1,Steve|PER|36
+ner_2,Nvidia|ORG|31
+ner_3,AMD|ORG|28
+ner_4,Linus|PER|21
+ner_5,PS|ORG|14
+ner_6,##vidia|ORG|9
+ner_7,Intel|ORG|7
+ner_8,GP|ORG|6
+ner_9,PCIX|MISC|5
+ner_10,N|MISC|5

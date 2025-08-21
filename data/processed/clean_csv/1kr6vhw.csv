@@ -1,0 +1,126 @@
+type,id,author,title,score,created_utc,url,num_comments,subreddit,body,parent_id,depth,post_id
+post,1kr6vhw,a_Ninja_b0y,Asus introduces 3000-watt PSU — enough capacity to power 4 RTX 5090s,596,2025-05-20 14:53:58,https://www.reddit.com/r/gadgets/comments/1kr6vhw/asus_introduces_3000watt_psu_enough_capacity_to/,132.0,gadgets,,,,
+comment,mtbb52d,mmmjtttj,,171,2025-05-20 15:49:22,,,,Definitely not for gamers This is specifically targeted at people wanting huge amounts of VRAM for tuning LLMs,,0.0,1kr6vhw
+comment,mtbgath,TehOwn,,49,2025-05-20 16:14:46,,,,Yeah or people looking for an expensive space heater,mtbb52d,1.0,1kr6vhw
+comment,mtc9vbb,ArseBurner,,26,2025-05-20 18:36:54,,,,Ahem you mean a productive space heater,mtbgath,2.0,1kr6vhw
+comment,mth48cm,101m4n,,3,2025-05-21 14:03:48,,,,Porque no los dos,mtc9vbb,3.0,1kr6vhw
+comment,mtf4ggy,saintpetejackboy,,18,2025-05-21 04:16:05,,,,Who are we kidding Some gamer is trying to do the math right now on how much larger the custom modded bazongas can be with all these extra GB in parallel,mtbb52d,1.0,1kr6vhw
+comment,mtf8oce,graywolfman,,9,2025-05-21 04:49:55,,,,Jiggle physics activate,mtf4ggy,2.0,1kr6vhw
+comment,mtb03ok,UnsorryCanadian,,198,2025-05-20 14:55:33,,,,Takes two 120v wall plugs right Thats a lot of power,,0.0,1kr6vhw
+comment,mtb11z1,tariandeath,,270,2025-05-20 15:00:10,,,,It looks like a 30 amp plug It would be stupid and dangerous for them to enable using two 120V 15 amp circuits because most people dont understand you cant just plug it into two outlets They need to be two outlets on different circuits,mtb03ok,1.0,1kr6vhw
+comment,mtbg9r8,nuclearwinterxxx,,135,2025-05-20 16:14:37,,,,Yo dawg We heard you like fires So we designed a way to burn your house down while youre burning your computer down,mtb11z1,2.0,1kr6vhw
+comment,mtbwa82,AnEvilMrDel,,12,2025-05-20 17:31:37,,,,God damn please take my upvote,mtbg9r8,3.0,1kr6vhw
+comment,mtiy83e,sixfourtykilo,,2,2025-05-21 19:20:35,,,,Who did you say did your electrical My nephew Anthony And when did your house last catch fire That was back of September Wait how did you know,mtbg9r8,3.0,1kr6vhw
+comment,mtmikh9,baguhansalupa,,1,2025-05-22 09:10:24,,,,Fire insurance companies love this one simple trick,mtbg9r8,3.0,1kr6vhw
+comment,mtbwdqb,AnEvilMrDel,,19,2025-05-20 17:32:05,,,,Split phase 240VAC would be a better option youd already be re wiring for 30A on 120 might as well use cheaper conductors,mtb11z1,2.0,1kr6vhw
+comment,mtc7pgo,djgizmo,,7,2025-05-20 18:26:18,,,,wow this cant pass any kind of certification even L530 gear is usually only rated for 24A,mtb11z1,2.0,1kr6vhw
+comment,mtdswmv,Cannabrius_Rex,,3,2025-05-20 23:20:49,,,,240v would make more sense but youd still need a 20amp feeder,mtc7pgo,3.0,1kr6vhw
+comment,mtf89zk,djgizmo,,-1,2025-05-21 04:46:37,,,,208v would make more sense but very very homes have that available This make make sense for a DIY crypto farm where youre building out a shelf full of GPU rigs but even that starts to get out of hand with power quick youd need 208v 20A service to each rig,mtdswmv,4.0,1kr6vhw
+comment,mtiamc9,Cannabrius_Rex,,2,2025-05-21 17:27:44,,,,Yeah 3 phase highly unlikely,mtf89zk,5.0,1kr6vhw
+comment,mtbmw6l,brett1081,,4,2025-05-20 16:47:06,,,,Like a darn travel trailer Those run ACs,mtb11z1,2.0,1kr6vhw
+comment,mtf6a32,DanTheMan827,,1,2025-05-21 04:30:29,,,,And people plug them into 15 amp adapters all the time usually ending in a melted adapter and nearly starting a fire,mtbmw6l,3.0,1kr6vhw
+comment,mtf62d7,DanTheMan827,,2,2025-05-21 04:28:45,,,,Its too bad they sell adapters you know people will plug this into a 15 amp outlet,mtb11z1,2.0,1kr6vhw
+comment,mtfbqx7,Shakeyshades,,1,2025-05-21 05:15:36,,,,Two different circuits Not just outlets,mtb11z1,2.0,1kr6vhw
+comment,mth0v5d,tariandeath,,1,2025-05-21 13:46:29,,,,Thats what I said,mtfbqx7,3.0,1kr6vhw
+comment,mtjvdfs,Shakeyshades,,1,2025-05-21 21:58:56,,,,Not when I read it before the edit But thats ok as long as its understandable and clear Thanks,mth0v5d,4.0,1kr6vhw
+comment,mtb1tc8,raziel686,,53,2025-05-20 15:03:54,,,,In the US youd need either a 240 line which most people wont have in places PCs are typically located or youd need two separate 120 lines on different buses which is messy and causes potential problems that wouldnt be up to code Youd essentially be creating a very sloppy 240 line which any electrician would just tell you to do a proper 240 conversion to the PC room,mtb03ok,1.0,1kr6vhw
+comment,mtb2a5o,sarhoshamiral,,51,2025-05-20 15:06:09,,,,Time to move the PCs to laundry rooms,mtb1tc8,2.0,1kr6vhw
+comment,mtdonz5,techieman33,,3,2025-05-20 22:56:49,,,,Its very possible these days its just expensive to do Which probably isnt a problem for people that can afford to have 2 5090s in their computer,mtb2a5o,3.0,1kr6vhw
+comment,mtb8zhg,Zylonite134,,-8,2025-05-20 15:38:50,,,,Or unplug the fridge when gaming,mtb2a5o,3.0,1kr6vhw
+comment,mtbibhr,fliberdygibits,,10,2025-05-20 16:24:45,,,,Most fridges in the US operate on 120v,mtb8zhg,4.0,1kr6vhw
+comment,mtbivrw,Sock-Enough,,3,2025-05-20 16:27:29,,,,The oven on the other hand,mtbibhr,5.0,1kr6vhw
+comment,mtbl00v,fliberdygibits,,6,2025-05-20 16:37:54,,,,I was GOING to say I cant unplug the oven how will I bake my cookies but I guess I can bake my cookies on my PSU,mtbivrw,6.0,1kr6vhw
+comment,mtbxmeu,curmudgeon69420,,4,2025-05-20 17:37:50,,,,thats what we call solution oriented thinking,mtbl00v,7.0,1kr6vhw
+comment,mtf4qrf,saintpetejackboy,,2,2025-05-21 04:18:19,,,,smart oven,mtbl00v,7.0,1kr6vhw
+comment,mtb2jrq,itsme_rafah,,11,2025-05-20 15:07:29,,,,Yep call your favorite electrician and ask for the 240 plug to be installed,mtb1tc8,2.0,1kr6vhw
+comment,mtb36ze,popeter45,,1,2025-05-20 15:10:37,,,,While your at it ask to swap everything to type G sockets your thank me later,mtb2jrq,3.0,1kr6vhw
+comment,mtb7vhb,danielv123,,8,2025-05-20 15:33:26,,,,If we are already switching to something that wont pass inspection you might as well go straight for type F All the important safety features smaller hurts less when you step on them and much more common,mtb36ze,4.0,1kr6vhw
+comment,mtfadfu,SupMonica,,1,2025-05-21 05:04:03,,,,I dont need to eat Ill move my PC into the kitchen and plug in to the oven outlet,mtb1tc8,2.0,1kr6vhw
+comment,mtb0wog,danielv123,,13,2025-05-20 14:59:27,,,,It uses a single standard iec19 plug It will need a 30A 120v socket or just a normal 240v socket I am mostly surprised at how small it is,mtb03ok,1.0,1kr6vhw
+comment,mtb5o0r,modix,,2,2025-05-20 15:22:39,,,,What exactly are 120v 30a used for I feel like I see 240v anytime people need more amperage Is it enough voltage to push 30a constantly,mtb0wog,2.0,1kr6vhw
+comment,mtbajol,thorscope,,5,2025-05-20 15:46:27,,,,RVs that dont support split leg 240v,mtb5o0r,3.0,1kr6vhw
+comment,mtbo8yr,blankarage,,2,2025-05-20 16:53:32,,,,i think some induction ovens or fancy appliances come in 12030A form,mtb5o0r,3.0,1kr6vhw
+comment,mtdccgk,Bassman233,,2,2025-05-20 21:48:38,,,,Not very common for residential use but L530 twist lock is fairly common in the event production world for larger amplifiers and lighting Beyond that 208240V connections are more common,mtb5o0r,3.0,1kr6vhw
+comment,mtbjkgv,ackermann,,9,2025-05-20 16:30:51,,,,The thing must be space heater when running at full power Actual 1500w space heaters and hair dryers run on a single 120v plug and this is double that The energy has to go somewhere a computer pulling 3000w is basically a 3000w space heater some ridiculously tiny amount of energy is perhaps stored in memory when setting a bit but not much,mtb03ok,1.0,1kr6vhw
+comment,mtbodmv,daCampa,,7,2025-05-20 16:54:09,,,,My GPU is a space heater already when its munching 300350W,mtbjkgv,2.0,1kr6vhw
+comment,mtbyjt7,pmth,,4,2025-05-20 17:42:14,,,,Rest of your system is probably contributing 50150 watts as well depending on what exactly youre doing,mtbodmv,3.0,1kr6vhw
+comment,mtc6fm1,daCampa,,2,2025-05-20 18:20:05,,,,Yep usually below 80 But the upgrade from a 6700XT to a 6950XT made a noticeable difference as a space heater,mtbyjt7,4.0,1kr6vhw
+comment,mtccl2r,pmth,,1,2025-05-20 18:50:05,,,,An extra 100 watts will do it lol 300 vs 400 is a big difference Have you ever tried undervolting,mtc6fm1,5.0,1kr6vhw
+comment,mtchkz0,daCampa,,1,2025-05-20 19:14:35,,,,Nope Hasnt really bothered me so far,mtccl2r,6.0,1kr6vhw
+comment,mtcmjox,pmth,,2,2025-05-20 19:39:04,,,,Oh you definitely should look into it Can probably get the exact same performance while dropping 50 watts Or more performance while dropping 2550 watts,mtchkz0,7.0,1kr6vhw
+comment,mtcnpuj,daCampa,,1,2025-05-20 19:44:54,,,,Thanks for motivating Ill give it a try when I get back to a tinkering mood,mtcmjox,8.0,1kr6vhw
+comment,mtesmqi,Killbot_Wants_Hug,,2,2025-05-21 02:53:10,,,,My computer use to run a 1600 Watt power supply for the 3 Titan Xs I had plus all the other hardware I had to install a window unit in my office because it would increase the room temperature by nearly 20 degrees Also I had to run an extension cord down the hall to my bathroom because the window unit PC would trip the breaker,mtbjkgv,2.0,1kr6vhw
+comment,mtcuk0m,tariandeath,,1,2025-05-20 20:19:02,,,,Thats not how PSUs work The energy is used on demand It is just capable of supplying 3000w in the form a PC needs,mtbjkgv,2.0,1kr6vhw
+comment,mtcxhwv,ackermann,,2,2025-05-20 20:33:28,,,,Fair I should clarify its not the power supply itself thats a space heater unless its really inefficient Its all the components that it supplies power to If the computer is demanding 3000w total under heavy load that energy is going somewhere and will eventually end up as heat one way or another,mtcuk0m,3.0,1kr6vhw
+comment,mtbcpqp,PatSajaksDick,,3,2025-05-20 15:57:01,,,,Same plug as my EV charger,mtb03ok,1.0,1kr6vhw
+comment,mtbdzss,UnsorryCanadian,,6,2025-05-20 16:03:19,,,,Which would you rather 150hp and a range of 240km on a single charge OR a theoretical 800 teraflops of processing power Hmmm,mtbcpqp,2.0,1kr6vhw
+comment,mtbrahb,PatSajaksDick,,2,2025-05-20 17:08:02,,,,How many FPS in Cyberpunk,mtbdzss,3.0,1kr6vhw
+comment,mtbsgv6,UnsorryCanadian,,1,2025-05-20 17:13:41,,,,Im thinking 60fps off the infotainment system if you install xbox cloud gaming android app OR 0fps 7000 RPM natively rendered,mtbrahb,4.0,1kr6vhw
+comment,mtdsn67,Cannabrius_Rex,,1,2025-05-20 23:19:19,,,,They better each be dedicated circuits or it wont matter,mtb03ok,1.0,1kr6vhw
+comment,mte2dcs,karatekid430,,1,2025-05-21 00:16:12,,,,Its 10A in the developed world,mtb03ok,1.0,1kr6vhw
+comment,mtfkj6b,MattInSoCal,,1,2025-05-21 06:36:30,,,,More than 13 Amps 3000 Watts 230 Volts But its not 100 efficient at converting the input power to a 3 kW output 95 would be the absolute best one could hope for so at least 14 Amps,mte2dcs,2.0,1kr6vhw
+comment,muiixag,karatekid430,,1,2025-05-27 13:41:46,,,,Sorry yeah mybad Youd need a 15A socket and they are not very common,mtfkj6b,3.0,1kr6vhw
+comment,mtftgog,Valdie29,,1,2025-05-21 08:07:35,,,,If I can recall the socket is rated for maximum of 23KW well you can go beyond that but the heat may cause melting and eventually fire,mtb03ok,1.0,1kr6vhw
+comment,mtb3r19,Pitoucc,,60,2025-05-20 15:13:19,,,,Ahh yes a psu that costs about 950 upfront and 10002000 in extra cost for the average home pc user This is not really meant for home use but a bunch of ppl are gonna go bIG wAttz Nummbr and either have to get a linepanel for their pc room or end up in their laundry room at least in USCanada,,0.0,1kr6vhw
+comment,mtbbbg6,UnsorryCanadian,,21,2025-05-20 15:50:14,,,,I need the headroom you know 300w gpu 2700w of headroom,mtb3r19,1.0,1kr6vhw
+comment,mtbqan3,lordraiden007,,6,2025-05-20 17:03:15,,,,Gotta prep for those transient demand spikes,mtbbbg6,2.0,1kr6vhw
+comment,mtc9v8u,Green-Amount2479,,3,2025-05-20 18:36:54,,,,That some clevel PSU then spend too much money to get useless headroom,mtbbbg6,2.0,1kr6vhw
+comment,mtb90ls,quietIntensity,,3,2025-05-20 15:39:00,,,,I was thinking of having a 20A circuit run to my office in case I buy a workstation but thats just to handle a 18002000W PSU,mtb3r19,1.0,1kr6vhw
+comment,mtcv2u1,moon__lander,,1,2025-05-20 20:21:38,,,,I give it a year until someone posts on PCMR their first build with this PSU,mtb3r19,1.0,1kr6vhw
+comment,mtdvdd8,Falcon3333,,1,2025-05-20 23:35:01,,,,Youre memeing but this PSU has a target demographic youre not it This exists for people who need enormous amounts of VRAM to run very high parameter LLMs locally,mtb3r19,1.0,1kr6vhw
+comment,mtfex5l,thedanyes,,1,2025-05-21 05:43:29,,,,Hey nothing wrong with computing in the laundry room Fold some shirts while youre waiting for matchmaking,mtb3r19,1.0,1kr6vhw
+comment,mtbaobr,CakeDayisaLie,,11,2025-05-20 15:47:05,,,,But can I SLI these PSUs if I want to use two,,0.0,1kr6vhw
+comment,mtbb63b,UnsorryCanadian,,6,2025-05-20 15:49:31,,,,No because SLI was dropped a decade ago You CAN use it for LLMs and crypto though,mtbaobr,1.0,1kr6vhw
+comment,mtcuqas,misterbased,,1,2025-05-20 20:19:54,,,,Also very efficient and costly 3D rendering,mtbb63b,2.0,1kr6vhw
+comment,mtbwx7m,Kerboviet_Union,,13,2025-05-20 17:34:35,,,,Yeah bro im good with an 850 and a 1080i from a coworker I priced out a modern rig last quarter at around 2200 bucks with good performance No way Im spending a used cars worth of money on a gaming rig,,0.0,1kr6vhw
+comment,mtcfl7k,boopersnoophehe,,7,2025-05-20 19:04:42,,,,Sorry to make your day worse but a used car for 2k is barely a vehicle A decent used car is gonna cost you easily 5k and that 5k is a rare sight,mtbwx7m,1.0,1kr6vhw
+comment,mtdej9s,Doctor3663,,1,2025-05-20 22:00:13,,,,These arent for gaming rigs,mtbwx7m,1.0,1kr6vhw
+comment,mte2rw1,Edarneor,,1,2025-05-21 00:18:36,,,,You can build a pretty much top rig for 2200 rtx4080 for around 1200 300 for an i7 14700k 700 for the rest,mtbwx7m,1.0,1kr6vhw
+comment,mtb6652,hello_op_i_love_you,,8,2025-05-20 15:25:08,,,,I misread this as 300watt PSU and thought finally a low wattage PSU to get power efficient idle for my home server Its more or less impossible to find a low wattage PSU these days But this obviously aint it either,,0.0,1kr6vhw
+comment,mtbr2yd,lordraiden007,,2,2025-05-20 17:07:02,,,,Ikr Companies make 270W server PSUs but nothing for consumer PCs Would be nice to have a high efficiency low wattage PSU for my streaming PC,mtb6652,1.0,1kr6vhw
+comment,mtcetvc,hello_op_i_love_you,,1,2025-05-20 19:00:57,,,,Those server PSUs are not ATI right,mtbr2yd,2.0,1kr6vhw
+comment,mtcfkqv,lordraiden007,,2,2025-05-20 19:04:38,,,,Yeah there arent standard ATI PSUs that run that low as far as Im aware You can find some from HP Dell etc but they dont use standard pin layouts or form factors preventing their use in most situations,mtcetvc,3.0,1kr6vhw
+comment,mtb8wfv,tanome4639,,6,2025-05-20 15:38:25,,,,Next miniature nuclear reactor,,0.0,1kr6vhw
+comment,mtbvjp5,mrlotato,,0,2025-05-20 17:28:10,,,,Knowing my dumbass id chernobyl this shit as soon as I plug it in,mtb8wfv,1.0,1kr6vhw
+comment,mtb5idx,ricketycrickett88,,4,2025-05-20 15:21:54,,,,gifgiphyd4W4ZshZVbrqYvVnh8downsized,,0.0,1kr6vhw
+comment,mtbj0hz,dreamer_Neet,,4,2025-05-20 16:28:06,,,,Does it come with fire insurance as an add on,,0.0,1kr6vhw
+comment,mtbra92,EnderB3nder,,3,2025-05-20 17:08:00,,,,If it powers four 5090s simultaneously Id want fire supression built in to whatever case you cram them into,mtbj0hz,1.0,1kr6vhw
+comment,mtbeedc,zezimeme,,2,2025-05-20 16:05:19,,,,Peak efficiency,,0.0,1kr6vhw
+comment,mtbfkhk,shaunrundmc,,1,2025-05-20 16:11:09,,,,For the 6060 when its released,mtbeedc,1.0,1kr6vhw
+comment,mtc82ih,mr_ji,,2,2025-05-20 18:28:05,,,,gifgiphyQMHoU66sBXqqLqYvGO,,0.0,1kr6vhw
+comment,mtg3iow,Shadowlance23,,2,2025-05-21 09:53:10,,,,Whelp time to put that 3phase circuit to work I guess,,0.0,1kr6vhw
+comment,mtgmabf,TrickOut,,2,2025-05-21 12:21:25,,,,But can it run crisis,,0.0,1kr6vhw
+comment,mtb8upw,MadOrange64,,2,2025-05-20 15:38:11,,,,Just get a nuclear reactor while youre at it,,0.0,1kr6vhw
+comment,mtb1wx1,kbn_,,2,2025-05-20 15:04:23,,,,That is so many amps,,0.0,1kr6vhw
+comment,mtbb8sa,likeable_fool,,1,2025-05-20 15:49:52,,,,For the PCclothes dryer combo Just gotta wait for the PC case manufacturers to get on board,,0.0,1kr6vhw
+comment,mtbii20,positivcheg,,1,2025-05-20 16:25:37,,,,Just dont buy from aSUS if you have a memory span of at least 1 year,,0.0,1kr6vhw
+comment,mtbq5yq,lordraiden007,,1,2025-05-20 17:02:37,,,,Or one 6090 Jensen upon hearing this news probably,,0.0,1kr6vhw
+comment,mtbvotq,SAAA2011,,1,2025-05-20 17:28:50,,,,I mean at this point they might as well make it a 240v plug,,0.0,1kr6vhw
+comment,mthn3l3,Henrik-Powers,,0,2025-05-21 15:35:56,,,,Thinking it will need to be most homes have a 15 amp circuit which is 1875 watts but safely should run at around 1500 watts a 240V circuit could run 3000 watts but most people only have those in their laundry rooms garages or for the ovenrange,mtbvotq,1.0,1kr6vhw
+comment,mtbvt5t,MagicBoyUK,,1,2025-05-20 17:29:24,,,,LOL how is that working in 110V countries,,0.0,1kr6vhw
+comment,mtc5jya,ThatGuyWhoKnocks,,1,2025-05-20 18:15:43,,,,Its fine Ill just unplug my stove GPU cooked casserole just tastes better anyway,mtbvt5t,1.0,1kr6vhw
+comment,mtce8ug,MagicBoyUK,,1,2025-05-20 18:58:05,,,,Must be all the AI generated extra flavour molecules Assuming the driver doesnt crash after it runs out of VRAM on team green,mtc5jya,2.0,1kr6vhw
+comment,mtclj2r,Dasheek,,1,2025-05-20 19:34:02,,,,So I can have either an oven or a PC,,0.0,1kr6vhw
+comment,mtcmal1,MadMike991,,1,2025-05-20 19:37:50,,,,Or one 6090,,0.0,1kr6vhw
+comment,mtcn4fo,TRKlausss,,1,2025-05-20 19:41:54,,,,Yo thats the same power used by an industrial Xray machine crazy,,0.0,1kr6vhw
+comment,mtczbzy,educofu,,1,2025-05-20 20:42:26,,,,Back when mining cripto with GPU was rewarding i used my PC as a space heater during cold nights the only waste was the monitor and the PSU CPUs and GPUs are very efficient heat generators 3000W is my water heater looks ridiculous for a computer but its understandable the point here is formfactor These kind of PSUs allows high compute power using ATX standard These are for building big computers in a consumer friendly way Though im more of a build 2 for the price of 1 guy the premium dont justify the gains,,0.0,1kr6vhw
+comment,mtd53oe,runed_golem,,1,2025-05-20 21:11:01,,,,Or you could just save yourself some money and buy a car,,0.0,1kr6vhw
+comment,mtd627p,None,,1,2025-05-20 21:16:01,,,,Are they releasing LENR generators alongside these or are we just expected to eat the cost of the energy on our electric bills,,0.0,1kr6vhw
+comment,mtddx69,Punman_5,,1,2025-05-20 21:56:57,,,,Youre going to need to run a 30 amp split phase circuit to whatever room this occupies,,0.0,1kr6vhw
+comment,mtdev5y,marry_me_jane,,1,2025-05-20 22:02:01,,,,Cool y,,0.0,1kr6vhw
+comment,mtdjvhu,eXistentialMisan,,1,2025-05-20 22:29:50,,,,Enough to power 4 RTX 5090s 1 RTX 5090 guaranteed not to melt cables,,0.0,1kr6vhw
+comment,mteompn,TopObligation8430,,1,2025-05-21 02:28:34,,,,Ai kills the environment,,0.0,1kr6vhw
+comment,mtfiuwn,Doppelkammertoaster,,1,2025-05-21 06:20:04,,,,And what power socket is able to handle this,,0.0,1kr6vhw
+comment,mtgf3eu,None,,1,2025-05-21 11:31:46,,,,Arent those the ones that catch fire and burn it all down,,0.0,1kr6vhw
+comment,mtj1mi5,no6969el,,1,2025-05-21 19:37:06,,,,I dont even think you can plug that in and use it to its potential in a typical American home,,0.0,1kr6vhw
+comment,mtmmrvy,unlimitedcode99,,1,2025-05-22 09:52:35,,,,Well you have 4 attempts for burning your home with this bad boy by cable melting,,0.0,1kr6vhw
+comment,mtbbkp6,IsThereAnythingLeft-,,1,2025-05-20 15:51:29,,,,Most US outlets can even power this,,0.0,1kr6vhw
+comment,mtdr559,CharlieParkour,,2,2025-05-20 23:10:51,,,,Most outlets run on 15 or 20 amp fuses A 30 amp PSU is going to trip those,mtbbkp6,1.0,1kr6vhw
+comment,mtforea,IsThereAnythingLeft-,,1,2025-05-21 07:18:29,,,,Most US outlets other parts of the world this will work on a normal plug,mtdr559,2.0,1kr6vhw
+comment,mtfvavd,CharlieParkour,,0,2025-05-21 08:27:17,,,,Look at a US breaker box and tell me how many breakers are rated for 30 amps,mtforea,3.0,1kr6vhw
+comment,mtfxoao,IsThereAnythingLeft-,,0,2025-05-21 08:52:30,,,,What are you talking about Im say the US isnt the world,mtfvavd,4.0,1kr6vhw
+comment,mtfxvcm,CharlieParkour,,0,2025-05-21 08:54:34,,,,Look at the original post you wrote that Im replying to dumbass Were you trying to say cant,mtfxoao,5.0,1kr6vhw
+comment,mtbc4kw,ImTooSaxy,,1,2025-05-20 15:54:10,,,,Its future proof too so it will support at least one 6090,,0.0,1kr6vhw
+comment,mtb4pii,MakesUsMighty,,0,2025-05-20 15:17:59,,,,Really feels like a jumping the shark moment,,0.0,1kr6vhw
+comment,mtb5tki,Reciprocity2209,,-1,2025-05-20 15:23:25,,,,So you can melt 4 GPUs at once,,0.0,1kr6vhw
+comment,mtbb7hi,UnsorryCanadian,,1,2025-05-20 15:49:42,,,,Mmm fire hazards,mtb5tki,1.0,1kr6vhw

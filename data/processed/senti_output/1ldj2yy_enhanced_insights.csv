@@ -1,0 +1,49 @@
+metric,value
+file,1ldj2yy.csv
+title,"Electronic armpit device uses plasma to make deodorant obsolete | A new device is claimed to prevent the stink without the use of deodorant, by killing those bacteria with plasma."
+rows,275
+num_posts,1
+num_comments,274
+unique_authors,201
+max_depth,8
+avg_comment_words,46.65
+median_comment_words,28.5
+max_comment_words,363
+positive_count,45
+negative_count,229
+neutral_count,0
+positive_pct,16.423
+negative_pct,83.577
+neutral_pct,0.0
+topic_1_keywords,"like, device, probably, use, armpit, even, deodorant, thing"
+topic_1_label,deodorant is a device that is probably used to deodorize something
+topic_2_keywords,"like, plasma, ozone, armpit, use, needed, cant, sweat"
+topic_2_label,"ozone, ozone, cant, sweat"
+topic_3_keywords,"could, people, side, also, effects, use, packaging, bacteria"
+topic_3_label,bacteria can cause side effects
+topic_4_keywords,"day, plasma, skin, twice, ros, dry, armpits, kill"
+topic_4_label,ros kills skin on day
+topic_5_keywords,"deodorant, use, device, oxygen, like, review, better, thing"
+topic_5_label,Deodorant used on device
+topic_6_keywords,"people, deodorant, dont, im, didnt, thats, sure, medical"
+topic_6_label,deodorant is a medical thing
+top_ngram_1,side effects (19)
+top_ngram_2,people allergies (17)
+top_ngram_3,allergies sensitivities (15)
+top_ngram_4,twice day (14)
+top_ngram_5,could useful (13)
+top_ngram_6,useful people (13)
+top_ngram_7,could useful people (13)
+top_ngram_8,useful people allergies (13)
+top_ngram_9,people allergies sensitivities (13)
+top_ngram_10,also could (11)
+ner_1,PlaDeo|ORG|10
+ner_2,##oc|MISC|4
+ner_3,Cory|MISC|4
+ner_4,Ion|MISC|4
+ner_5,Bo|MISC|4
+ner_6,St|MISC|4
+ner_7,MTG|MISC|3
+ner_8,Los Locos|ORG|3
+ner_9,Olestra|ORG|3
+ner_10,Los Lobos|ORG|2

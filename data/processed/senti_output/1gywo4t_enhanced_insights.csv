@@ -1,0 +1,49 @@
+metric,value
+file,1gywo4t.csv
+title,The RTX 5090 uses Nvidia's biggest die since the RTX 2080 Ti | The massive chip measures 744mm2
+rows,304
+num_posts,1
+num_comments,303
+unique_authors,221
+max_depth,16
+avg_comment_words,47.97
+median_comment_words,37.0
+max_comment_words,243
+positive_count,46
+negative_count,257
+neutral_count,0
+positive_pct,15.182
+negative_pct,84.818
+neutral_pct,0.0
+topic_1_keywords,"inches, long, cant, even, 22, wide, 4090, price"
+topic_1_label,4090 dollars for a cant of 22 inches long cant
+topic_2_keywords,"still, im, use, even, stuff, vr, gpu, games"
+topic_2_label,gpu games still use vr
+topic_3_keywords,"lol, time, think, live, gpus, like, idea, start"
+topic_3_label,gpus likes to start a new life
+topic_4_keywords,"gpus, gpu, slot, time, 5090, dont, super, pc"
+topic_4_label,"gpus, gpu, slot, time 5090, dont, super, pc"
+topic_5_keywords,"would, 70, game, 1080ti, settings, nvidia, max, yeah"
+topic_5_label,nvidia vs. nvidia : a game with a 70-80ti setting
+topic_6_keywords,"vr, would, 3d, tried, like, gpu, never, current"
+topic_6_label,"vr, 3d, gpu, never"
+top_ngram_1,max settings (34)
+top_ngram_2,yeah thats (33)
+top_ngram_3,70 would (33)
+top_ngram_4,would much (33)
+top_ngram_5,thats happening (32)
+top_ngram_6,happening 70 (32)
+top_ngram_7,much increase (32)
+top_ngram_8,increase literally (32)
+top_ngram_9,literally game (32)
+top_ngram_10,game maybe (32)
+ner_1,Nvidia|ORG|42
+ner_2,Cyberpunk|MISC|34
+ner_3,GTX 1080T|MISC|25
+ner_4,Europe|LOC|16
+ner_5,AI|ORG|12
+ner_6,EU|MISC|11
+ner_7,US|LOC|11
+ner_8,AIlmao|ORG|9
+ner_9,Ada|ORG|9
+ner_10,Crypto|ORG|9

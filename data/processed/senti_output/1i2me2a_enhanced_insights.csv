@@ -1,0 +1,49 @@
+metric,value
+file,1i2me2a.csv
+title,"Cableless GPU design supports backward compatibility and up to 1,000W | New GPUs would include motherboard power connectors and conventional 12V-2x6 connectors"
+rows,82
+num_posts,1
+num_comments,81
+unique_authors,58
+max_depth,7
+avg_comment_words,81.63
+median_comment_words,65.0
+max_comment_words,320
+positive_count,7
+negative_count,74
+neutral_count,0
+positive_pct,8.642
+negative_pct,91.358
+neutral_pct,0.0
+topic_1_keywords,"components, like, think, wireless, well, communication, copper, instead"
+topic_1_label,copper and a wireless component
+topic_2_keywords,"use, power, amp, pc, 30, homes, like, breakers"
+topic_2_label,pcs are used in homes
+topic_3_keywords,"power, still, even, would, amps, graphics, youre, pc"
+topic_3_label,pc power would be even if you plugged in a pc
+topic_4_keywords,"ups, could, wire, trip, got, much, cable, dont"
+topic_4_label,cable 's got a lot of wire
+topic_5_keywords,"fire, great, make, would, catch, mobo, connector, see"
+topic_5_label,fire great make a mobo a connector
+topic_6_keywords,"power, gpu, dont, connector, motherboard, thats, next, method"
+topic_6_label,gpu doesn't work on motherboard
+top_ngram_1,wireless communication (9)
+top_ngram_2,gpu comes (8)
+top_ngram_3,copper threaded (7)
+top_ngram_4,20 amp (7)
+top_ngram_5,arent wall (6)
+top_ngram_6,wall power (6)
+top_ngram_7,power limits (6)
+top_ngram_8,limits still (6)
+top_ngram_9,still gating (6)
+top_ngram_10,gating factor (6)
+ner_1,ASUS|ORG|4
+ner_2,Asus|ORG|4
+ner_3,Apple TAX|MISC|4
+ner_4,G|MISC|4
+ner_5,Mother|MISC|4
+ner_6,##I|MISC|3
+ner_7,Inc|MISC|3
+ner_8,PC|MISC|3
+ner_9,PS|ORG|3
+ner_10,Europe|LOC|2

@@ -1,0 +1,49 @@
+metric,value
+file,1hpks73.csv
+title,LG’s microwave has a 27-inch display that’ll be perfect for ads | From the company that displays full-screen ads on its idle televisions.
+rows,682
+num_posts,1
+num_comments,681
+unique_authors,456
+max_depth,11
+avg_comment_words,55.2
+median_comment_words,39.0
+max_comment_words,385
+positive_count,52
+negative_count,629
+neutral_count,0
+positive_pct,7.636
+negative_pct,92.364
+neutral_pct,0.0
+topic_1_keywords,"buy, would, need, product, really, level, homes, national"
+topic_1_label,home buying is really a good thing
+topic_2_keywords,"lg, tv, thats, like, dont, service, ads, 2023"
+topic_2_label,lg tv likes ad service
+topic_3_keywords,"tv, internet, ads, smart, tvs, lg, dont, use"
+topic_3_label,tv ads don t use lg
+topic_4_keywords,"ads, lg, tvs, display, microwave, home, thats, ad"
+topic_4_label,ad for microwaves
+topic_5_keywords,"microwave, dont, put, watch, 30, use, ad, health"
+topic_5_label,ad 's microwave don't put on watch
+topic_6_keywords,"ads, people, microwave, buying, dont, buy, products, get"
+topic_6_label,ads for microwaves buy people buy products
+top_ngram_1,smart tv (53)
+top_ngram_2,buy product (41)
+top_ngram_3,smart tvs (41)
+top_ngram_4,vote wallet (40)
+top_ngram_5,wallet folks (37)
+top_ngram_6,folks avoid (37)
+top_ngram_7,avoid buying (37)
+top_ngram_8,buying products (37)
+top_ngram_9,vote wallet folks (37)
+top_ngram_10,wallet folks avoid (37)
+ner_1,LG|ORG|142
+ner_2,L|MISC|48
+ner_3,Samsung|ORG|47
+ner_4,##G|ORG|47
+ner_5,TV|MISC|30
+ner_6,Amazon|ORG|25
+ner_7,Internet|MISC|19
+ner_8,PS3|MISC|16
+ner_9,Amazon Samsung|ORG|16
+ner_10,Apple TV|MISC|15

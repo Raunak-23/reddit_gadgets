@@ -1,0 +1,49 @@
+metric,value
+file,1i6i42g.csv
+title,"Second report corroborates iPhone’s fall from 1st to 3rd place in China | Increased competition from local brands is cited as one factor, the second being Apple’s inability to offer AI features in the country."
+rows,155
+num_posts,1
+num_comments,154
+unique_authors,108
+max_depth,6
+avg_comment_words,78.13
+median_comment_words,52.0
+max_comment_words,329
+positive_count,18
+negative_count,136
+neutral_count,0
+positive_pct,11.688
+negative_pct,88.312
+neutral_pct,0.0
+topic_1_keywords,"ai, apple, people, chinese, also, spending, like, market"
+topic_1_label,Chinese people like apple in the market
+topic_2_keywords,"ai, apple, dont, phone, like, foldable, people, want"
+topic_2_label,Apple doesn't like foldable phones
+topic_3_keywords,"phone, ai, people, see, thats, nobody, iphone, upgrade"
+topic_3_label,ai is a phone that is not a 'sh'
+topic_4_keywords,"xiaomi, ai, huawei, crammed, idea, two, sense, article"
+topic_4_label,Xianmi crammed in ai huawei
+topic_5_keywords,"phone, brands, ai, apple, foldable, china, top, doesnt"
+topic_5_label,Apple is foldable phone in China
+topic_6_keywords,"phone, 2012, ai, like, many, one, knew, change"
+topic_6_label,ai likes to change his phone
+top_ngram_1,top brands (51)
+top_ngram_2,apple hurting (34)
+top_ngram_3,ai features (33)
+top_ngram_4,foldable phones (29)
+top_ngram_5,foldable phone (23)
+top_ngram_6,doesnt know (22)
+top_ngram_7,status symbol (22)
+top_ngram_8,chinese brands (19)
+top_ngram_9,features like (17)
+top_ngram_10,like chinese (17)
+ner_1,Apple|ORG|96
+ner_2,iPhone|MISC|76
+ner_3,China|LOC|72
+ner_4,Chinese|MISC|47
+ner_5,Huawei|ORG|35
+ner_6,China|MISC|17
+ner_7,Xiaomi|ORG|16
+ner_8,AppleXiaomiHuawei|ORG|14
+ner_9,AI|ORG|10
+ner_10,US|LOC|9

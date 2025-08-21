@@ -1,0 +1,49 @@
+metric,value
+file,1i3glrf.csv
+title,Apple Watch saves man after upside down car crash into pool
+rows,57
+num_posts,1
+num_comments,56
+unique_authors,45
+max_depth,5
+avg_comment_words,68.61
+median_comment_words,50.5
+max_comment_words,284
+positive_count,13
+negative_count,43
+neutral_count,0
+positive_pct,23.214
+negative_pct,76.786
+neutral_pct,0.0
+topic_1_keywords,"911, watch, like, driving, first, phone, work, battery"
+topic_1_label,911 watch like driving first
+topic_2_keywords,"911, calls, saved, technology, departments, fire, 100000000, life"
+topic_2_label,911 911 calls saved by technology
+topic_3_keywords,"saving, good, garmin, lane, carpool, obviously, watch, bounce"
+topic_3_label,"Garmin, good, good, lane, carpool"
+topic_4_keywords,"service, crazy, 911, stuff, type, gforce, gyroscope, sensors"
+topic_4_label,"911 service, gforce, gyroscope, sensors"
+topic_5_keywords,"watch, car, apple, hill, pool, upside, weight, footage"
+topic_5_label,watch car watch apple and watch pool
+topic_6_keywords,"watch, battery, crash, day, ask, end, work, works"
+topic_6_label,watch battery crash on day
+top_ngram_1,apple watch (21)
+top_ngram_2,emergency services (13)
+top_ngram_3,crash detection (7)
+top_ngram_4,thank comment (7)
+top_ngram_5,comment ill (7)
+top_ngram_6,ill piggyback (7)
+top_ngram_7,piggyback ask (7)
+top_ngram_8,ask anyone (7)
+top_ngram_9,anyone explain (7)
+top_ngram_10,explain watch (7)
+ner_1,Apple Watch|ORG|11
+ner_2,Hill|PER|8
+ner_3,Apple Watch|MISC|7
+ner_4,Apple|ORG|7
+ner_5,iPhone|MISC|6
+ner_6,Hills|PER|6
+ner_7,G|MISC|5
+ner_8,MA|LOC|4
+ner_9,WesternMassNews|ORG|4
+ner_10,Easthampton|LOC|4

@@ -1,0 +1,49 @@
+metric,value
+file,1jqu62q.csv
+title,"Nvidia confirms the Switch 2 supports DLSS, G-Sync, and ray-tracing | Nvidia says the Switch 2's GPU is 10 times faster than the original Switch."
+rows,346
+num_posts,1
+num_comments,345
+unique_authors,219
+max_depth,13
+avg_comment_words,55.37
+median_comment_words,39.0
+max_comment_words,438
+positive_count,55
+negative_count,290
+neutral_count,0
+positive_pct,15.942
+negative_pct,84.058
+neutral_pct,0.0
+topic_1_keywords,"games, price, nintendo, much, people, console, thing, hardware"
+topic_1_label,"Nintendo games, price, hardware"
+topic_2_keywords,"switch, 10x, faster, gpu, dlss, nvidia, even, like"
+topic_2_label,"Switch, 10x, faster, nvidia, even"
+topic_3_keywords,"series, 5090, power, better, comment, 4k, console, point"
+topic_3_label,4k : a series with better power and a better 4k
+topic_4_keywords,"gen, frame, nvidias, isnt, record, track, trust, recently"
+topic_4_label,gen nvidias isnt in gen record
+topic_5_keywords,"drift, hall, effect, nintendo, years, last, im, never"
+topic_5_label,nintendo drifts in hall
+topic_6_keywords,"real, games, frame, one, use, frames, money, switch"
+topic_6_label,a game with a frame and money
+top_ngram_1,frame gen (62)
+top_ngram_2,hall effect (21)
+top_ngram_3,10x faster (19)
+top_ngram_4,track record (19)
+top_ngram_5,years ago (16)
+top_ngram_6,ray tracing (15)
+top_ngram_7,original switch (15)
+top_ngram_8,last gen (15)
+top_ngram_9,5000 series (14)
+top_ngram_10,nvidias track (14)
+ner_1,Nintendo|ORG|76
+ner_2,Nvidia|ORG|24
+ner_3,Switch|MISC|24
+ner_4,Switch 2|MISC|18
+ner_5,DL|MISC|14
+ner_6,Switch 1|MISC|14
+ner_7,##vidias|ORG|13
+ner_8,Transformer|MISC|11
+ner_9,nvidia|ORG|11
+ner_10,Hall|MISC|10

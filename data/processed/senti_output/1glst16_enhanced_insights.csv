@@ -1,0 +1,42 @@
+metric,value
+file,1glst16.csv
+title,Nikon’s entry-level Z50II adds a dedicated button for color styles | The 20.9-megapixel Nikon Z50II also has a faster processor and improved video capabilities.
+rows,14
+num_posts,1
+num_comments,13
+unique_authors,12
+max_depth,6
+avg_comment_words,62.77
+median_comment_words,71.0
+max_comment_words,121
+positive_count,0
+negative_count,13
+neutral_count,0
+positive_pct,0.0
+negative_pct,100.0
+neutral_pct,0.0
+topic_1_keywords,"dont, text, lightroom, dxo, exact, thing, presets, also"
+topic_1_label,dxo doesn't work in lightroom
+topic_2_keywords,"want, text, dont, presets, idea, worst, provide, forever"
+topic_2_label,i want text and don t want to provide for forever
+topic_3_keywords,"fuji, film, editing, much, want, dont, computer, simulation"
+topic_3_label,i want to edit a simulation
+topic_4_keywords,"film, fujifilm, dial, dedicated, control, cameras, simulations, great"
+topic_4_label,Fujifilm: A great film
+topic_5_keywords,"raws, small, piece, software, fuji, presets, camera, one"
+topic_5_label,A small piece of software for one camera
+topic_6_keywords,"camera, software, actually, want, one, apply, use, doesnt"
+topic_6_label,software doesn't work on camera
+top_ngram_1,small piece (6)
+top_ngram_2,film simulations (5)
+top_ngram_3,get could (4)
+top_ngram_4,could also (4)
+top_ngram_5,also bundled (4)
+top_ngram_6,bundled small (4)
+top_ngram_7,piece software (4)
+top_ngram_8,software batch (4)
+top_ngram_9,batch process (4)
+top_ngram_10,process raws (4)
+ner_1,Fuji|ORG|9
+ner_2,Fujifilm|ORG|6
+ner_3,Lightroom|ORG|2

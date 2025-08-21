@@ -1,0 +1,44 @@
+metric,value
+file,1gu75ua.csv
+title,It might be time to say goodbye to Apple's lightning to 3.5mm jack adapter
+rows,10
+num_posts,1
+num_comments,9
+unique_authors,8
+max_depth,2
+avg_comment_words,16.0
+median_comment_words,11.0
+max_comment_words,32
+positive_count,1
+negative_count,8
+neutral_count,0
+positive_pct,11.111
+negative_pct,88.889
+neutral_pct,0.0
+topic_1_keywords,"youtube, years, xcq, url, ive, trained, past, mouse"
+topic_1_label,ipod ipod ipod ipod ipod ipod ipod ipod ipod i
+topic_2_keywords,"also, usbc, replacement, alternative, hello, adapter, apples, 35mm"
+topic_2_label,Apples adapter and apple adapter
+topic_3_keywords,"also, usbc, replacement, alternative, hello, adapter, apples, 35mm"
+topic_3_label,Apples adapter and apple adapter
+topic_4_keywords,"also, replacement, alternative, usbc, hello, adapter, apples, 35mm"
+topic_4_label,Apples adapter also available for usbc
+topic_5_keywords,"usbc, jack, 35mm, hello, apples, adapter, also, replacement"
+topic_5_label,"Apples, jack, jack, jack, replacement"
+topic_6_keywords,"also, usbc, replacement, alternative, hello, adapter, apples, 35mm"
+topic_6_label,Apples adapter and apple adapter
+top_ngram_1,usbc 35mm (3)
+top_ngram_2,35mm jack (3)
+top_ngram_3,usbc 35mm jack (3)
+top_ngram_4,hello apples (2)
+top_ngram_5,apples usbc (2)
+top_ngram_6,jack adapter (2)
+top_ngram_7,hello apples usbc (2)
+top_ngram_8,apples usbc 35mm (2)
+top_ngram_9,35mm jack adapter (2)
+top_ngram_10,replacement also (2)
+ner_1,Apple|ORG|2
+ner_2,Apple|MISC|1
+ner_3,Samsung|ORG|1
+ner_4,USB|MISC|1
+ner_5,XcQ|ORG|1

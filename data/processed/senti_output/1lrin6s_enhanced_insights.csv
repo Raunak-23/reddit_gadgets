@@ -1,0 +1,42 @@
+metric,value
+file,1lrin6s.csv
+title,July 4th drone shows will light up skies in dozens of cities this year
+rows,22
+num_posts,1
+num_comments,21
+unique_authors,16
+max_depth,4
+avg_comment_words,39.33
+median_comment_words,24.0
+max_comment_words,93
+positive_count,5
+negative_count,16
+neutral_count,0
+positive_pct,23.81
+negative_pct,76.19
+neutral_pct,0.0
+topic_1_keywords,"like, im, shows, drones, drone, booms, change, dog"
+topic_1_label,"drones, booms, dog change"
+topic_2_keywords,"go, way, long, make, doesnt, firework, safer, drone"
+topic_2_label,drones go long
+topic_3_keywords,"hands, theres, round, wouldnt, head, diminish, probably, mortar"
+topic_3_label,a mortar is a sandstone
+topic_4_keywords,"drone, mortar, people, control, someone, max, going, falling"
+topic_4_label,drones control people falling
+topic_5_keywords,"booms, change, appreciates, dog, 4th, july, im, theres"
+topic_5_label,a dog is a boom in the 4th
+topic_6_keywords,"people, drone, like, scene, control, one, drones, series"
+topic_6_label,drones like drones in series
+top_ngram_1,long way (8)
+top_ngram_2,way go (8)
+top_ngram_3,long way go (8)
+top_ngram_4,control drone (5)
+top_ngram_5,drone shows (3)
+top_ngram_6,saw north (3)
+top_ngram_7,north east (3)
+top_ngram_8,east florida (3)
+top_ngram_9,florida people (3)
+top_ngram_10,people shot (3)
+ner_1,North East Florida|LOC|3
+ner_2,The Boys|MISC|3
+ner_3,Starlink|MISC|1

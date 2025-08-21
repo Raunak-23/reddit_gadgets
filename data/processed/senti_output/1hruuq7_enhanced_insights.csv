@@ -1,0 +1,49 @@
+metric,value
+file,1hruuq7.csv
+title,"Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors | New gaming monitors promise high refresh rate 4K OLED gaming without the need for a 32-inch panel."
+rows,142
+num_posts,1
+num_comments,141
+unique_authors,94
+max_depth,7
+avg_comment_words,55.09
+median_comment_words,43.0
+max_comment_words,271
+positive_count,30
+negative_count,111
+neutral_count,0
+positive_pct,21.277
+negative_pct,78.723
+neutral_pct,0.0
+topic_1_keywords,"4k, 240hz, games, new, monitors, get, dollars, oled"
+topic_1_label,240hz games get oled
+topic_2_keywords,"oled, inch, 32, money, monitor, get, going, pricing"
+topic_2_label,"oled, inch, money, monitor"
+topic_3_keywords,"monitor, tax, dell, yeah, price, also, screens, software"
+topic_3_label,"a monitor, tax, dell, and also a screen"
+topic_4_keywords,"panels, glass, oled, cut, mother, 27, like, get"
+topic_4_label,oled glass cut by mother
+topic_5_keywords,"4k, 27, monitor, 32, resolution, 5k, even, small"
+topic_5_label,"4k, 27 monitor, even, small"
+topic_6_keywords,"27, perfect, old, 4k, 32, imagine, currently, running"
+topic_6_label,'perfect' running is a perfect time for old
+top_ngram_1,inch oled (17)
+top_ngram_2,4k 27 (17)
+top_ngram_3,mother glass (17)
+top_ngram_4,4k oled (15)
+top_ngram_5,4k 240hz (14)
+top_ngram_6,32 inch (12)
+top_ngram_7,27 perfect (11)
+top_ngram_8,27 inch (11)
+top_ngram_9,awesome say (10)
+top_ngram_10,say 4k (10)
+ner_1,Samsung|ORG|12
+ner_2,##Force|ORG|10
+ner_3,Ge|MISC|10
+ner_4,FX 5600|MISC|8
+ner_5,Dell|ORG|7
+ner_6,LG|ORG|5
+ner_7,Canadian|MISC|4
+ner_8,##mis|ORG|4
+ner_9,Xiao|MISC|4
+ner_10,Black|MISC|3

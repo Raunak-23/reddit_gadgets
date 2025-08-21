@@ -1,0 +1,43 @@
+metric,value
+file,1gkt1pv.csv
+title,UK consumer champion Which? wants you to know that your air fryer might be spying on you and sharing your data with third parties for marketing purposes.
+rows,31
+num_posts,1
+num_comments,30
+unique_authors,21
+max_depth,7
+avg_comment_words,46.33
+median_comment_words,53.5
+max_comment_words,90
+positive_count,0
+negative_count,30
+neutral_count,0
+positive_pct,0.0
+negative_pct,100.0
+neutral_pct,0.0
+topic_1_keywords,"going, dishwasher, would, useful, home, wanted, imagine, pretty"
+topic_1_label,i want to imagine a dishwasher in my home
+topic_2_keywords,"start, schedule, would, dishwasher, doesnt, imagine, pretty, easier"
+topic_2_label,"if you don't have a dishwasher, you'd better have a dishwasher that doesn't have a dishwasher"
+topic_3_keywords,"oven, internet, appliances, need, go, make, dumb, turns"
+topic_3_label,A kitchen is a slammed oven
+topic_4_keywords,"app, packing, quicker, going, device, phone, press, setting"
+topic_4_label,device packing app
+topic_5_keywords,"dishwasher, tariff, use, useful, start, dont, mine, might"
+topic_5_label,dishwashers use tariffs
+topic_6_keywords,"interface, using, prefer, connecting, appliances, reason, doesnt, though"
+topic_6_label,id like to connect to appliances
+top_ngram_1,schedule start (6)
+top_ngram_2,never understand (5)
+top_ngram_3,understand dumb (5)
+top_ngram_4,dumb appliances (5)
+top_ngram_5,appliances need (5)
+top_ngram_6,need connected (5)
+top_ngram_7,connected internet (5)
+top_ngram_8,internet genuine (5)
+top_ngram_9,genuine value (5)
+top_ngram_10,value offer (5)
+ner_1,Michelin|MISC|5
+ner_2,Ratatouille|MISC|5
+ner_3,HP|ORG|1
+ner_4,Ocotopus|ORG|1

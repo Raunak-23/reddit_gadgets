@@ -1,0 +1,49 @@
+metric,value
+file,1l741n5.csv
+title,Mac-Ready and Future-Proof: A Look at Anker’s Thunderbolt 5 Docking Station
+rows,175
+num_posts,1
+num_comments,174
+unique_authors,113
+max_depth,11
+avg_comment_words,55.78
+median_comment_words,41.0
+max_comment_words,323
+positive_count,25
+negative_count,149
+neutral_count,0
+positive_pct,14.368
+negative_pct,85.632
+neutral_pct,0.0
+topic_1_keywords,"support, display, dock, great, single, thats, 400, pretty"
+topic_1_label,a great single with great support and a dock
+topic_2_keywords,"use, dock, hdmi, one, display, two, displayport, caldigit"
+topic_2_label,hdmi displayport and displayport
+topic_3_keywords,"new, like, refurbished, used, amazon, renewed, reconditioned, item"
+topic_3_label,"refurbished, reconditioned, item"
+topic_4_keywords,"usbc, one, dock, 144hz, 4k, monitors, people, need"
+topic_4_label,144hz docks need monitors
+topic_5_keywords,"future, proof, 4k, proofed, dont, want, monitor, thunderbolt"
+topic_5_label,4k proof for future
+topic_6_keywords,"m1, port, external, mbp, monitors, two, display, mba"
+topic_6_label,"m1 port, external, mbp, monitors, mba"
+top_ngram_1,future proof (45)
+top_ngram_2,like new (44)
+top_ngram_3,used like (34)
+top_ngram_4,used like new (34)
+top_ngram_5,4k 144hz (24)
+top_ngram_6,external monitors (20)
+top_ngram_7,future proofed (19)
+top_ngram_8,amazon renewed (18)
+top_ngram_9,400 dock (16)
+top_ngram_10,single display (14)
+ner_1,Amazon|ORG|19
+ner_2,HD|MISC|19
+ner_3,Amazon Renewed|MISC|14
+ner_4,Amazon|MISC|13
+ner_5,Mac|MISC|11
+ner_6,USB|MISC|10
+ner_7,HDMI|MISC|10
+ner_8,Thunderbolt|MISC|9
+ner_9,##layP|ORG|8
+ner_10,USB|ORG|8

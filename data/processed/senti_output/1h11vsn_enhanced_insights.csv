@@ -1,0 +1,49 @@
+metric,value
+file,1h11vsn.csv
+title,"Licking this “lollipop” will let you taste virtual flavors | It produces nine flavors: Sugar, salt, citric acid, cherry, passion fruit, green tea, milk, durian, and grapefruit."
+rows,142
+num_posts,1
+num_comments,141
+unique_authors,125
+max_depth,6
+avg_comment_words,28.91
+median_comment_words,17.0
+max_comment_words,200
+positive_count,51
+negative_count,90
+neutral_count,0
+positive_pct,36.17
+negative_pct,63.83
+neutral_pct,0.0
+topic_1_keywords,"like, ass, durian, taste, milk, snozberry, flavors, fruit"
+topic_1_label,"snozberry likes milk, snozberry likes fruit"
+topic_2_keywords,"people, flavors, see, thats, im, taste, like, get"
+topic_2_label,people get a taste for something
+topic_3_keywords,"smells, probably, mouth, put, technology, dont, much, less"
+topic_3_label,a smoky smell of technology
+topic_4_keywords,"durian, hit, one, kids, gonna, durians, sweet, smell"
+topic_4_label,durians gonna hit one
+topic_5_keywords,"senses, bot, music, dreams, makers, dreamers, need, many"
+topic_5_label,bots help dreamers
+topic_6_keywords,"durian, like, hungry, wolf, well, smellovision, 80s, big"
+topic_6_label,durian likes wolf and wolf
+top_ngram_1,durians gonna (11)
+top_ngram_2,gonna hit (11)
+top_ngram_3,hit kids (11)
+top_ngram_4,durians gonna hit (11)
+top_ngram_5,gonna hit kids (11)
+top_ngram_6,citric acid (10)
+top_ngram_7,taste like (9)
+top_ngram_8,music makers (7)
+top_ngram_9,makers dreamers (7)
+top_ngram_10,dreamers dreams (7)
+ner_1,Durian|MISC|10
+ner_2,Durians|MISC|9
+ner_3,##ugh|ORG|5
+ner_4,OS|ORG|5
+ner_5,##ha|MISC|5
+ner_6,Arthur William Edgar|PER|4
+ner_7,Sno|PER|4
+ner_8,##berry|PER|4
+ner_9,##z|ORG|4
+ner_10,Gwyneth Paltrow|PER|3

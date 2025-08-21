@@ -1,0 +1,49 @@
+metric,value
+file,1gpu10i.csv
+title,"Turn your smartphone into a playable wind instrument with this USB-C mouthpiece / The Zefiro might look like a vape, but it’s a tiny MIDI wind controller compatible with mobile devices and computers."
+rows,23
+num_posts,1
+num_comments,22
+unique_authors,20
+max_depth,3
+avg_comment_words,23.05
+median_comment_words,23.5
+max_comment_words,60
+positive_count,6
+negative_count,16
+neutral_count,0
+positive_pct,27.273
+negative_pct,72.727
+neutral_pct,0.0
+topic_1_keywords,"like, reed, fun, half, wetting, presents, good, midi"
+topic_1_label,midi midi : a midi
+topic_2_keywords,"phone, ocarina, installed, recesses, smule, end, digs, current"
+topic_2_label,ocarina installed on phone
+topic_3_keywords,"play, app, virtual, ocarina, turned, iphone, decade, base"
+topic_3_label,Android ocarina turns on the phone
+topic_4_keywords,"use, might, phones, usbc, play, good, one, phone"
+topic_4_label,a good phone for a good one
+topic_5_keywords,"presents, cool, good, pro, recorder, pretty, got, backed"
+topic_5_label,backed up by pro recorder
+topic_6_keywords,"cool, back, one, midi, use, touch, usbc, think"
+topic_6_label,midi midi uses one to think
+top_ngram_1,app turned (4)
+top_ngram_2,turned iphone (4)
+top_ngram_3,iphone virtual (4)
+top_ngram_4,virtual ocarina (4)
+top_ngram_5,ocarina decade (4)
+top_ngram_6,decade ago (4)
+top_ngram_7,ago blew (4)
+top_ngram_8,blew microphone (4)
+top_ngram_9,microphone base (4)
+top_ngram_10,base phone (4)
+ner_1,Ocarina|MISC|6
+ner_2,iPhone|MISC|4
+ner_3,Smule|ORG|2
+ner_4,##ica|ORG|1
+ner_5,Horn|MISC|1
+ner_6,Ocarina of Time|MISC|1
+ner_7,Ha|ORG|1
+ner_8,Casio Digital|ORG|1
+ner_9,Reed|PER|1
+ner_10,Reed|MISC|1

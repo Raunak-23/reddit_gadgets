@@ -1,0 +1,2302 @@
+{
+  "post": {
+    "title": "TP-Link routers could be banned in the US over national security concerns | TP-Link has around 65pct of the US market for routers",
+    "author": "chrisdh79",
+    "id": "1hh1ubj",
+    "score": 1534,
+    "created_utc": 1734529360.0,
+    "selftext": "",
+    "num_comments": 259,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hh1ubj/tplink_routers_could_be_banned_in_the_us_over/"
+  },
+  "comments": [
+    {
+      "id": "m2nn78n",
+      "author": "AutoModerator",
+      "body": "\nWe have a giveaway running, be sure to enter in the post linked below for your chance to win a Unihertz Jelly Max - the World\u2019s Smallest 5G Smartphone!\n\n[Click here to enter!](https://www.reddit.com/r/gadgets/comments/1hfli5p/giveaway_unihertz_jelly_max_rgadgets_win_the/)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gadgets) if you have any questions or concerns.*",
+      "score": 1,
+      "created_utc": 1734529361.0,
+      "replies": []
+    },
+    {
+      "id": "m2nrep0",
+      "author": "thisischemistry",
+      "body": "A couple of questions really.\n\n- Are the rates of vulnerabilities and exploits higher than the average for such devices?\n- Are the compromised devices delivered in that state or does it happen after they have been in use for a bit?\n- Is security for these devices increasing or decreasing?\n- Are these built-in exploits or are these failures of programming and bad security?\n\nI've used TP-Link network equipment and found them to be more stable and hardened than many alternatives. If these aren't designed backdoors and the devices are as good or better than the competition then why ban them?\n\nAccording to an [article linked](https://www.techspot.com/news/105414-tp-link-routers-center-massive-botnet-used-takeover.html) in the current article:\n\n> The hackers exploit a vulnerability in the routers to gain remote code execution capability, although the specific exploit method is still under investigation.\n\nSo this seems to be just a normal run-of-the-mill exploited vulnerability, something that should be patched but not something that should be banned under the guise of national security. This seems like a trade war instead of safety concerns.",
+      "score": 426,
+      "created_utc": 1734531023.0,
+      "replies": [
+        {
+          "id": "m2ns007",
+          "author": "gramathy",
+          "body": "I've been very happy with their wireless ecosystem for use at home",
+          "score": 117,
+          "created_utc": 1734531250.0,
+          "replies": [
+            {
+              "id": "m2nswbu",
+              "author": "thisischemistry",
+              "body": "They seem to be on top of improving their products. I've used their [Omada Controller](https://www.tp-link.com/us/business-networking/omada-sdn-controller/omada-software-controller/) and it gets updates and improvements on a fairly regular basis. Very usable and comprehensive.",
+              "score": 49,
+              "created_utc": 1734531592.0,
+              "replies": []
+            },
+            {
+              "id": "m2t1e1g",
+              "author": "howardhus",
+              "body": "same. always trusted them as good bang for the buck",
+              "score": 6,
+              "created_utc": 1734606380.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2onuws",
+          "author": "ASUS_USUS_WEALLSUS",
+          "body": "More than likely something going on behind the scenes that has nothing to do with TP link, as is the norm with these types of things.",
+          "score": 44,
+          "created_utc": 1734541926.0,
+          "replies": [
+            {
+              "id": "m2xz2ti",
+              "author": "fixITman1911",
+              "body": "It's a non-American company, building electronics that are better and cheaper than anything being built in the US... I'm sure you're wrong and it's just a security issue that the gov. is trying to protect us from...",
+              "score": 9,
+              "created_utc": 1734673106.0,
+              "replies": []
+            },
+            {
+              "id": "m2ow63e",
+              "author": "techerton",
+              "body": "Perhaps American companies have eyes set on a monopoly",
+              "score": 23,
+              "created_utc": 1734544538.0,
+              "replies": [
+                {
+                  "id": "m2p2qjx",
+                  "author": "ASUS_USUS_WEALLSUS",
+                  "body": "Or using this as a means to pressure China on something unrelated.",
+                  "score": 12,
+                  "created_utc": 1734546579.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2ovykg",
+              "author": "Aleashed",
+              "body": "That\u2019s like the only good brand plus everything hacked\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+              "score": 9,
+              "created_utc": 1734544473.0,
+              "replies": [
+                {
+                  "id": "m2p2m09",
+                  "author": "ASUS_USUS_WEALLSUS",
+                  "body": "Yeh I\u2019ve never had a problem with TP link in the 9+ years I\u2019ve used their stuff. Anecdotal evidence tho.",
+                  "score": 11,
+                  "created_utc": 1734546539.0,
+                  "replies": [
+                    {
+                      "id": "m6k2la8",
+                      "author": "None",
+                      "body": "Its top notch hardware with basic support.\u00a0\u00a0\nIf you know what you are doing and are even willing to flash new firmware there is barely a reason not to buy from TP.",
+                      "score": 1,
+                      "created_utc": 1736591155.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m33r9yx",
+              "author": "IamNickJones",
+              "body": "\ud83d\udcb0 please",
+              "score": 1,
+              "created_utc": 1734764551.0,
+              "replies": []
+            },
+            {
+              "id": "m2ppv0n",
+              "author": "tidbitsmisfit",
+              "body": "it is a Chinese router that phones home. it has remote back doors built in. war with China is coming.",
+              "score": -17,
+              "created_utc": 1734553836.0,
+              "replies": [
+                {
+                  "id": "m2qby0j",
+                  "author": "ASUS_USUS_WEALLSUS",
+                  "body": "A simple firewall would see and catch this if it was occurring lmao. They don\u2019t have some secret way to send signals back to china - it would be network traffic which would easily be detectable.",
+                  "score": 10,
+                  "created_utc": 1734560705.0,
+                  "replies": [
+                    {
+                      "id": "m2quhz1",
+                      "author": "thisischemistry",
+                      "body": "Well, if they are smart it would be pretty easy to hide that kind of traffic. They could hide it in other traffic as you visit web sites or play online games, for example. However, that's starting to get a bit paranoid about network safety.\n\nIt's a good thought, though. Layered security is best and relying on more than one ecosystem is a good thing so they cover each other's gaps.",
+                      "score": -1,
+                      "created_utc": 1734567285.0,
+                      "replies": [
+                        {
+                          "id": "m2qywt1",
+                          "author": "mithie007",
+                          "body": "No they can't.\n\nThe endpoint would have to be complicit, and at that point, the endpoint is the problem, not the router.",
+                          "score": 10,
+                          "created_utc": 1734568889.0,
+                          "replies": [
+                            {
+                              "id": "m2r491i",
+                              "author": "thisischemistry",
+                              "body": "The endpoint doesn't have a window into the local network, the router does. If both are involved then local information can be leaked easily, even with a firewall.",
+                              "score": -1,
+                              "created_utc": 1734570865.0,
+                              "replies": [
+                                {
+                                  "id": "m2r5fes",
+                                  "author": "mithie007",
+                                  "body": "Yes but the contention is how can the router leak that information? If it tries to send the traffic to an unrecognized endpoint your firewall will catch it.\n\nYou mentioned masquerading as normal traffic but that would  only work if the endpoint is complicit. Like, if it's hijacking some payload for sending to google.com then unless google.com is complicit, that hijacked packet dies at google.\n\nMy point is the router cannot magically sneak traffic past the firewall.\n\nIf it could, then your firewall is the one that's compromised.",
+                                  "score": 6,
+                                  "created_utc": 1734571296.0,
+                                  "replies": [
+                                    {
+                                      "id": "m2rhhru",
+                                      "author": "ASUS_USUS_WEALLSUS",
+                                      "body": "Yeh, no NG Firewall is going to miss anything like that getting out or in for that matter.",
+                                      "score": 3,
+                                      "created_utc": 1734575774.0,
+                                      "replies": [
+                                        {
+                                          "id": "m2xb2sh",
+                                          "author": "CloserToTheStars",
+                                          "body": "Isn\u2019t that what TikTok is for?",
+                                          "score": 1,
+                                          "created_utc": 1734662440.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2oap5q",
+          "author": "PanzerKomadant",
+          "body": "At this point anything is now bannable due to \u201cnational security risk\u201d.",
+          "score": 75,
+          "created_utc": 1734537733.0,
+          "replies": [
+            {
+              "id": "m2qf93b",
+              "author": "kneelthepetal",
+              "body": "Biggest national security risk is about to take office next month, they could start there",
+              "score": 75,
+              "created_utc": 1734561814.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2nysgb",
+          "author": "Dunkjoe",
+          "body": "Remember Huawei and their unspecified \"security risks\"? \n\nNot to mention Tiktok and the other sanctioned Chinese companies.\n\nI wouldn't believe what USA says unless it is backed by several independent and reputable agencies which are experts in this field.\n\nBias is a dangerous drug.",
+          "score": 55,
+          "created_utc": 1734533747.0,
+          "replies": [
+            {
+              "id": "m2o6u16",
+              "author": "stellvia2016",
+              "body": "tbf Huawei committed a lot of corporate espionage to get to their position, so I wouldn't support them either way. Lazy shit too, like leaving the code verbatim with comments from the original developers at Broadcom etc.",
+              "score": 107,
+              "created_utc": 1734536473.0,
+              "replies": [
+                {
+                  "id": "m2q3ppp",
+                  "author": "Xin_shill",
+                  "body": "That\u2019s not national security unless you protecting companies directly",
+                  "score": -13,
+                  "created_utc": 1734558064.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2nz6sw",
+              "author": "thisischemistry",
+              "body": "Yeah, it's probably best to have multiple independent audits and reviews of critical networking infrastructure.",
+              "score": 30,
+              "created_utc": 1734533886.0,
+              "replies": [
+                {
+                  "id": "m2o5icb",
+                  "author": "diabbb",
+                  "body": "Please don't audit Cisco though!",
+                  "score": 25,
+                  "created_utc": 1734536034.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2odezq",
+              "author": "None",
+              "body": "Eh, TikTok is pretty bad",
+              "score": 36,
+              "created_utc": 1734538621.0,
+              "replies": [
+                {
+                  "id": "m2ooozo",
+                  "author": "got-trunks",
+                  "body": "Yeah I'd ban tiktok for the sole reason that it's pure brainrot",
+                  "score": 17,
+                  "created_utc": 1734542191.0,
+                  "replies": [
+                    {
+                      "id": "m2ougzf",
+                      "author": "MachinaThatGoesBing",
+                      "body": "And Facebook is what? Rigorous mental exercise?\n\nSo far, to my knowledge, TikTok hasn't borne any responsibility at all for [any genocides](https://www.pbs.org/newshour/world/amnesty-report-finds-facebook-amplified-hate-ahead-of-rohingya-massacre-in-myanmar), either.",
+                      "score": 24,
+                      "created_utc": 1734544007.0,
+                      "replies": [
+                        {
+                          "id": "m2ova41",
+                          "author": "thisischemistry",
+                          "body": "We can ban both.\n\n(Or at least try write laws and rules to encourage them to be less brain-rotty.)",
+                          "score": 9,
+                          "created_utc": 1734544260.0,
+                          "replies": [
+                            {
+                              "id": "m2qabs2",
+                              "author": "munche",
+                              "body": "\"at least\" \n\nWe should be setting a level playing field for all companies and protecting people from danger no matter what the origin of the company is\n\nThis whack a mole bullshit is just protectionism where they're deciding who wins and who loses.",
+                              "score": 8,
+                              "created_utc": 1734560173.0,
+                              "replies": [
+                                {
+                                  "id": "m2wcz8z",
+                                  "author": "MachinaThatGoesBing",
+                                  "body": "Indeed. It's hard not to miss the xenophobic component of all this when Facebook has openly admitted to engaging in large scale psychological experimentation on people without consent.\n\nWe should regulate the behavior of *all* these companies hoovering up data. We should ban all kinds of practices they regularly engage in. The perverse incentives that made Walmart buy Vizio (the TV company) to bolster their *advertising business* should be carefully, cautiously, deliberately regulated away.\n\nBut instead we have this big, dumb freakout *specifically* about TikTok, mostly because the \"youths\" are there.\n\nAnd people on this site act like it's different, but how many horrible harassment and/or political movements has reddit helped birth, generally based on disinformation and lies? (They're often a disgusting hybrid of both of those when they come from here.)",
+                                  "score": 5,
+                                  "created_utc": 1734649597.0,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m2owo5s",
+                          "author": "No-Psychology3712",
+                          "body": "Looks like Myanmar should have banned it no?\n\nNational security is national security\n\nIt does seem with bot farms they can influence the other ones easily as well",
+                          "score": -8,
+                          "created_utc": 1734544693.0,
+                          "replies": [
+                            {
+                              "id": "m2son1n",
+                              "author": "FoRiZon3",
+                              "body": ">Looks like Myanmar should have banned it no?\n\nTake a guess who's leading that country now, and what they did...And no, no democracy either.",
+                              "score": 1,
+                              "created_utc": 1734597780.0,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "m2q30mx",
+                          "author": "ABob71",
+                          "body": "Give it time. Tiktok is 12 years younger than facebook. \n\nTo illustrate- in 2017, when the example in the link happened, Facebook was 13 years old. Tik tok was 1. It's not a fair comparison.",
+                          "score": -2,
+                          "created_utc": 1734557846.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2pq0yb",
+                          "author": "corut",
+                          "body": "It can be, but the algorithm needs regulation, and shorts/reels/etc should be banned across all platforms",
+                          "score": -1,
+                          "created_utc": 1734553888.0,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "m2qa2xq",
+                      "author": "munche",
+                      "body": "It's so weird how TikTok is the thing that broke millenials \n\nIt's consistently the least toxic social feed I use. Literally every other app feeds you 24/7 outrage bait and Reels and Shorts are just the same videos from TikTok 2 weeks ago.\n\nBut millenials decided TikTok was for The Youths therefore it's Scary and Rotting Brains so here we are",
+                      "score": 1,
+                      "created_utc": 1734560093.0,
+                      "replies": [
+                        {
+                          "id": "m2qaqdv",
+                          "author": "got-trunks",
+                          "body": "Different people have different feeds, glad yours is wholesome \n\nMy nephew's is mostly just wannabe gangsters talking shit about people, he sits there for hours scrolling that bullshit lol",
+                          "score": 6,
+                          "created_utc": 1734560305.0,
+                          "replies": [
+                            {
+                              "id": "m2qbf6c",
+                              "author": "munche",
+                              "body": "Yeah the websites show you the shit you tell it you like\n\nThe website didn't make your nephew a dipshit, your dipshit nephew told the website he liked stupid shit",
+                              "score": 6,
+                              "created_utc": 1734560529.0,
+                              "replies": [
+                                {
+                                  "id": "m2qcitj",
+                                  "author": "got-trunks",
+                                  "body": "lol true. Fact is I've never even used tiktok, I just haven't been a fan of the A.D.D. scrolling short format content since vine. But I do realize it's a personal preference thing haha. \n\nYTMND was my limit, now, if we want to talk about brainrot lmao...",
+                                  "score": 4,
+                                  "created_utc": 1734560896.0,
+                                  "replies": [
+                                    {
+                                      "id": "m2qd211",
+                                      "author": "munche",
+                                      "body": "The big difference is all of the Meta apps are constantly shoving shit into the algorithm to get you to rage click. TikTok has been a bit spammy lately with ads but the actual content stays pretty damn close to the things I like.  Meanwhile I go to YouTube and if I watch one sports highlight my feed gets slammed with Joe Rogan and Andrew Tate bullshit even though I've Not Interested it 100x",
+                                      "score": 4,
+                                      "created_utc": 1734561074.0,
+                                      "replies": [
+                                        {
+                                          "id": "m2qeszr",
+                                          "author": "got-trunks",
+                                          "body": "The YT suggestions can be baffling sometimes... I have to use the not interested/ don't recommend channel options a lot if I get linked a random video and even then it just tries to throw something at me from time to time. It's not bad for a while after a purge wave. \n\nI made the mistake of watching the game awards on youtube and I've been combating streamer channels that I just can't give a single fuck about ever since haha.",
+                                          "score": 1,
+                                          "created_utc": 1734561663.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "m2vziwt",
+                                      "author": "coughcough",
+                                      "body": "> YTMND \n\nJust reading that, Captain Jean-Luc Picard is stuck in my head again",
+                                      "score": 2,
+                                      "created_utc": 1734644989.0,
+                                      "replies": [
+                                        {
+                                          "id": "m2w01kp",
+                                          "author": "got-trunks",
+                                          "body": "U.S.S. Enterprise\n\n![gif](giphy|svPcbkauC0meA)",
+                                          "score": 2,
+                                          "created_utc": 1734645151.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2phy4v",
+              "author": "skrid54321",
+              "body": "huawei openly backdoors devices for the chinese government. Thats a security risk.",
+              "score": 13,
+              "created_utc": 1734551362.0,
+              "replies": [
+                {
+                  "id": "m2ysn76",
+                  "author": "None",
+                  "body": "Same can be said of USA and many manufacturers and services\u00a0",
+                  "score": 2,
+                  "created_utc": 1734692768.0,
+                  "replies": [
+                    {
+                      "id": "m2z4kvc",
+                      "author": "skrid54321",
+                      "body": "No, it can't. The U.S asks companies to help them get into **devices** owned by suspects, after a warrant is obtained, and not all even comply. Apple famously doesn't help law enforcement at all, so they use a 3rd party to crack apple devices. This adds up to being very different from Huawei situation, where the ccp can, at any time, demand any and all data collected, without the user ever knowing.",
+                      "score": 1,
+                      "created_utc": 1734699364.0,
+                      "replies": [
+                        {
+                          "id": "m2zffaq",
+                          "author": "None",
+                          "body": "First, thanks to Snowden, we know the NSA planted blackdoors in devices and software:\n\nhttps://www.infoworld.com/article/2179244/snowden-the-nsa-planted-backdoors-in-cisco-products.html\n\nhttps://www.independent.co.uk/tech/nsa-backdoors-encryption-spying-consumer-devices-edward-snowden-b1422933.html\n\nhttps://www.theregister.com/2013/09/19/linux_backdoor_intrigue/\n\nSecondly, we know NSA can require userdata to private companies, no warrant needed, thanks to American laws like **Foreign Intelligence Surveillance Act (FISA)** and the **USA FREEDOM Act**. If they refuse or just divulge the request they can be severely sanctioned.",
+                          "score": 3,
+                          "created_utc": 1734703951.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m6k2qd6",
+                  "author": "None",
+                  "body": "IBM does the same for the US govn lol.",
+                  "score": 1,
+                  "created_utc": 1736591244.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2xrt00",
+              "author": "davidjschloss",
+              "body": "DJI is in the process of being banned too despite nothing indicating they've done anything wrong.",
+              "score": 2,
+              "created_utc": 1734669437.0,
+              "replies": []
+            },
+            {
+              "id": "m2q7fbu",
+              "author": "Jonsj",
+              "body": "The concern is that China is using their companies to do espionage both corporate and for political gain.\n\nThat's why you did not want Chinese companies to run. Something as sensetive as your future telecom sector.",
+              "score": 3,
+              "created_utc": 1734559224.0,
+              "replies": []
+            },
+            {
+              "id": "m2phb1f",
+              "author": "drunk_intern",
+              "body": "It\u2019s all a very stupid way of justifying protectionism. They should just come out and say it\u2019s a retaliatory measure for American tech platforms such as Google, Facebook and Instagram being banned in China.",
+              "score": -1,
+              "created_utc": 1734551152.0,
+              "replies": []
+            },
+            {
+              "id": "m2v84ay",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 0,
+              "created_utc": 1734636246.0,
+              "replies": [
+                {
+                  "id": "m2y4cdo",
+                  "author": "Repulsive-Tiger5609",
+                  "body": "Not sure why you're getting down voted. Do people in this sub not know about Edward Snowdon? Lots of cope going on, probably those with TP-Link devices. And I have two myself... Not sure what to do because I actually like them and I was going to go deep on Omada for my home. They are riddled with vulnerabilities https://www.cvedetails.com/vendor/11936/Tp-link.html\n\nIt'd be good if some security experts can weigh in though",
+                  "score": 4,
+                  "created_utc": 1734676143.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2o9fm8",
+              "author": "None",
+              "body": "[deleted]",
+              "score": -16,
+              "created_utc": 1734537322.0,
+              "replies": [
+                {
+                  "id": "m2ofsqk",
+                  "author": "invokin",
+                  "body": "I\u2019m not sure what you\u2019re saying here? No one has said the dick pics and sex tapes weren\u2019t real. Even a lot of the emails were real. What they\u2019ve said is that the custody of the data/laptop was not at all secure and it was tampered with to put other things among the data. I don\u2019t have full recall since it was years ago, but didn\u2019t it go to Guiliani and it was a significant amount of time before it \u201cleaked\u201d or whatever? I seem to recall the timeline made zero sense that the store owner just \u201cdiscovered\u201d this dirt and immediately leaked it. \n\nRussian disinfo (or whoever\u2019s disinfo) was not trying to swing the election by showing the world Hunter Biden\u2019s dick. They were trying to put his dick next to their disinfo to make the disinfo look real. \n\nAnd of course, we\u2019ve had a Republican Congress investigating that laptop for years now and the best they could come up with was MTG showing his dick in a congressional hearing and some gun charges. So maybe there wasn\u2019t disinfo, but there also wasn\u2019t much else.",
+                  "score": 13,
+                  "created_utc": 1734539384.0,
+                  "replies": [
+                    {
+                      "id": "m2on5wk",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": -10,
+                      "created_utc": 1734541708.0,
+                      "replies": [
+                        {
+                          "id": "m2oqinb",
+                          "author": "invokin",
+                          "body": "Oh ok. So you\u2019re insane. Got it. \n\nPS: I live in China. Coronavirus hit Wuhan hard before anyone knew what was happening, but let\u2019s chill on the \u201cgenetically engineered\u201d bullshit. If that was the case we\u2019d have seen much harder hit areas outside of Wuhan or even better, massive anomalies in deaths among Chinese men around the world. Genes don\u2019t care about national borders. But oh wait, we didn\u2019t.",
+                          "score": 11,
+                          "created_utc": 1734542767.0,
+                          "replies": [
+                            {
+                              "id": "m2oscqa",
+                              "author": "Mandelvolt",
+                              "body": "The genome was sequenced early on, if there was genetic manipulation it would have been extremely obvious by matching known genetics from other sources instead of the natural mutation which would have been computationally impossible to calculate given our current technology. Biology is so incredibly immensely complex that sometimes the solution to a problem is like you get three guesses to select the right answer out of a data pool of 1,000,000,000,000,000,000 possible answers, because each time you guess it takes ten million in funding to check your guess.",
+                              "score": 4,
+                              "created_utc": 1734543347.0,
+                              "replies": []
+                            },
+                            {
+                              "id": "m2oshs0",
+                              "author": "None",
+                              "body": "[deleted]",
+                              "score": -5,
+                              "created_utc": 1734543391.0,
+                              "replies": [
+                                {
+                                  "id": "m2otlvd",
+                                  "author": "invokin",
+                                  "body": "All I\u2019m taking away from your comments is how fucked up Facebook moderation teams are (assuming you\u2019re not completely full of shit, which given everything else you\u2019re saying\u2026).",
+                                  "score": 5,
+                                  "created_utc": 1734543738.0,
+                                  "replies": [
+                                    {
+                                      "id": "m2ouen7",
+                                      "author": "None",
+                                      "body": "[deleted]",
+                                      "score": -1,
+                                      "created_utc": 1734543986.0,
+                                      "replies": [
+                                        {
+                                          "id": "m2oyq9w",
+                                          "author": "No-Psychology3712",
+                                          "body": "Yes dude I'm sure you can tell inappropriate pictures but your ability to discern propaganda is really poor. Btw they found the one of the Biden accusers was lying. \n\nhttps://www.pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens\n\nJust saying that after 6 years all Republicans could come up with is hunter lying on a form and not paying his taxes that he already paid off now. \n\nIt's pretty sad waste of government resources.",
+                                          "score": 2,
+                                          "created_utc": 1734545334.0,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2yiokb",
+          "author": "Alexpander4",
+          "body": "Government Source: trust me bro fr",
+          "score": 2,
+          "created_utc": 1734685805.0,
+          "replies": [
+            {
+              "id": "m2zbg6m",
+              "author": "thisischemistry",
+              "body": "You don\u2019t need a source to ask questions and I gave a source to answer some of them. So what are you blathering about?",
+              "score": 1,
+              "created_utc": 1734702337.0,
+              "replies": [
+                {
+                  "id": "m2zbmub",
+                  "author": "Alexpander4",
+                  "body": "I mean that's the government's source for this information",
+                  "score": 1,
+                  "created_utc": 1734702413.0,
+                  "replies": [
+                    {
+                      "id": "m2zcj6o",
+                      "author": "thisischemistry",
+                      "body": "That makes more sense!",
+                      "score": 1,
+                      "created_utc": 1734702782.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m6jrzb2",
+          "author": "suxatjugg",
+          "body": "If we're to ban products with vulnerabilities, there'll be nothing left except calculators",
+          "score": 2,
+          "created_utc": 1736584202.0,
+          "replies": []
+        },
+        {
+          "id": "m6k2fc3",
+          "author": "None",
+          "body": "Its simply protectionism.\u00a0\u00a0\nAll other reasons given are just excuses.\u00a0\u00a0\nSame thing as with huawei.\n\n\nI don't blame the US for it. China does it 10x harder.\u00a0\u00a0\nBut I would prefer if they'd be upfront about it.",
+          "score": 2,
+          "created_utc": 1736591049.0,
+          "replies": []
+        },
+        {
+          "id": "m2rvwvi",
+          "author": "ramriot",
+          "body": "So if the original firmware has back doors then the jokes on them because to be frank I frequently buy TP-Link as there are multiple distros of Open Source firmware.",
+          "score": 1,
+          "created_utc": 1734581658.0,
+          "replies": []
+        },
+        {
+          "id": "m2od988",
+          "author": "waxwayne",
+          "body": "Like TikTok ban you can arbitrarily make up scenarios that may happen to ban foreign owned companies.",
+          "score": 0,
+          "created_utc": 1734538569.0,
+          "replies": [
+            {
+              "id": "m2oz01b",
+              "author": "No-Psychology3712",
+              "body": "Maybe if Russia and China were friendly we wouldn't have a problem with it",
+              "score": -2,
+              "created_utc": 1734545417.0,
+              "replies": [
+                {
+                  "id": "m2p1jbf",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 2,
+                  "created_utc": 1734546203.0,
+                  "replies": [
+                    {
+                      "id": "m2pefur",
+                      "author": "No-Psychology3712",
+                      "body": "Lol well or just promise not to invade their neighbors would be a start",
+                      "score": 0,
+                      "created_utc": 1734550252.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2p1gjr",
+                  "author": "waxwayne",
+                  "body": "They are competitors in a way most of our allies aren\u2019t.",
+                  "score": 1,
+                  "created_utc": 1734546180.0,
+                  "replies": [
+                    {
+                      "id": "m2pejrd",
+                      "author": "No-Psychology3712",
+                      "body": "Right wish is why you don't want them in control of things that could hurt you.",
+                      "score": 1,
+                      "created_utc": 1734550285.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2oqfp9",
+          "author": "xAdakis",
+          "body": "I put very little stock into these reported vulnerabilities and similar security advisories.\n\nYou remember the whole Meltdown/Spectre exploit several years ago that sent everyone scrambling to patch firmware and disable- or inhibit -high-precision timing/clocks?\n\nYeah, I was tasked with implementing and analyzing that exploit for an upper elective Computer Science course. . .I discovered that, yes, it was possible, but VERY impractical to actually exploit.\n\nFor starters, you had to reconfigure/recompile a linux kernel to turn off several memory isolation features (which had been enabled by default in the kernel for a least a decade before the exploit was published) to make it work, and it took a VERY long time to scan memory once you managed to pull off the exploit.\n\nIt was going to take 30 days to dump the contents of 4GB of memory on the typical lab workstation I was testing on, and there was no guarantee that ANY sensitive information would be present in the section of memory you happened to be scanning at that time.\n\nI was never able to retrieve information from a running browser or other process. I was only ever able to retrieve data from a small target program I wrote that continuously hammered a \"flag\" into the CPUs memory cache and share that memory address with the program exploiting the vulnerability.\n\nThus, unless someone is actively exploiting something and gaining access to systems, I pay very little attention to reported vulnerabilities.",
+          "score": -6,
+          "created_utc": 1734542741.0,
+          "replies": [
+            {
+              "id": "m2q3oxx",
+              "author": "dark_sylinc",
+              "body": "**What the heck are you talking about?**\n\nMeltdown was so severe I was able to make a 50 line of code app that would get the root password out of an unpatched, unmitigated Intel CPU in around 2 seconds.\n\nOnce you get the root password, it's game over. You have full access to the entire machine.\n\nMeltdown was so severe there were proof showing the exploit working from JavaScript.\n\nSpectre was indeed much harder to exploit but it was a severe problem.\n\n[This is a working JS proof](https://www.youtube.com/watch?v=V_9cQP60ZGI) from a browser leaking around 750 bytes / second. Again, enough to get the root password (if ran from native, since Javascript cannot use the root passw to escalate).\n\nAnd the main problem were Virtual Machines. Particularly the Cloud. You could dump what every other instance was doing. You could even take-own the hypervisor; and once you're there you can dump at full speed.\n\n> For starters, you had to reconfigure/recompile a linux kernel to turn off several memory isolation features (which had been enabled by default in the kernel for a least a decade before the exploit was published) to make it work\n\nTo properly defend from Meltdown the kernel needs to be compiled with KAISER which was merged into mainline on [December 29th, 2017](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=5aa90a84589282b87666f92b6c3c917c8080a9bf).\nKASLR only made it slightly harder (instead of getting the root password instantaneously, it took up to 5 seconds).\n\nFor Spectre the kernel had to be rebuilt with retpolines.",
+              "score": 8,
+              "created_utc": 1734558057.0,
+              "replies": []
+            },
+            {
+              "id": "m2ouk8x",
+              "author": "thisischemistry",
+              "body": "They are good for jumping-off points to test the security of a device but, as you said, very many of them are highly-theoretical exploits with very few real-world applications. Often it's more important to see how good the organization. is at patching and addressing the security issues rather than simply the number or the quality of the reported vulnerabilities.",
+              "score": 3,
+              "created_utc": 1734544035.0,
+              "replies": []
+            },
+            {
+              "id": "m2pulie",
+              "author": "MachinaThatGoesBing",
+              "body": "Oh, well, if you as a *student* couldn't do anything with it, I guess that settles it. We should listen to you over experts and security researchers and just ignore any and all vulnerability reports and warnings about potential for exploitation.\n\nIt's not like there are nation states and other sophisticated actors out there with resources to hire people significantly more qualified and experienced than students, after all.",
+              "score": 7,
+              "created_utc": 1734555268.0,
+              "replies": [
+                {
+                  "id": "m2pvnjz",
+                  "author": "xAdakis",
+                  "body": "This was a project done one on one with the professor who specializes in compilers and the low-level programming involved in replicating it.\n\nHe looks at all my code and all the steps and workarounds I had to make to replicate the original research paper and agreed with my findings.\n\nYes, it was an exploitable vulnerability, but impractical.",
+                  "score": -4,
+                  "created_utc": 1734555585.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2ogqhv",
+          "author": "speedfreek101",
+          "body": "All communication equipment be it home/office/military etc will have a factory installed master/top level account hidden away somewhere and/or a work around to access it. \n\n\n\n\n\n\n\nThe more secure ones will require a specific physical connection which is why a lot of hardware comes with those ancient physical connection ports. \n\n\n\nUse to do Cisco stuff up to 2010 and that was connecting a laptop via the RJ? port from the laptops modem/RJ? port using account password gleaned from lists on the internet!\n\n\n\n\n\nSo..... your basic home equipment will not have that level of security and since everything is now remote access............",
+          "score": 0,
+          "created_utc": 1734539683.0,
+          "replies": [
+            {
+              "id": "m2oy1va",
+              "author": "thisischemistry",
+              "body": "> All communication equipment be it home/office/military etc will have a factory installed master/top level account hidden away somewhere and/or a work around to access it.\n\nNone of that should be accessible without physical access to the device or, at least, a solid cryptographic key/certificate. You should have to hold down a reset button or use a designated physical connection or similar. Unfortunately, sometimes people put this kind of crap in and allow it to be accessed remotely without adequate safeguards.",
+              "score": 5,
+              "created_utc": 1734545123.0,
+              "replies": [
+                {
+                  "id": "m2pmtao",
+                  "author": "t4thfavor",
+                  "body": "You have to put it in failsafe mode and that wipes the entire config, which will not go unnoticed.",
+                  "score": 2,
+                  "created_utc": 1734552887.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2oihil",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -7,
+          "created_utc": 1734540236.0,
+          "replies": [
+            {
+              "id": "m2old3l",
+              "author": "void_const",
+              "body": "lol I\u2019ve never heard TPlink referred to as the \u201cbest\u201d. There\u2019s some serious bot comments in this thread.",
+              "score": 2,
+              "created_utc": 1734541133.0,
+              "replies": [
+                {
+                  "id": "m2oqrxa",
+                  "author": "jjayzx",
+                  "body": "They're cheapest and just simply work on a basic level, so people just assume best. Under the hood, hardware, eh and software, ick. They are definitely not secure.",
+                  "score": 5,
+                  "created_utc": 1734542848.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2orl9i",
+                  "author": "Raztax",
+                  "body": "I switched away from TPLink a couple of months ago because I got a good price on a Nitehawk mesh setup but used TPL for several years before that. \n\nMy TPL equipment beat the pants off anything I've ever used from Linksys or Dlink. Most Linksys and Dlink gear doesn't even support loopback ffs.",
+                  "score": 0,
+                  "created_utc": 1734543105.0,
+                  "replies": [
+                    {
+                      "id": "m2owb4z",
+                      "author": "Aleashed",
+                      "body": "DLink sounds and works like a knockoff brand, the poorman\u2019s TPL.\n\nLinksys I ran out of patience with. They crash too much and run hot, stupid designs.",
+                      "score": 1,
+                      "created_utc": 1734544581.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2oz4qo",
+          "author": "None",
+          "body": "Huawei ZTE DJI TikTok Hikvision Dahua",
+          "score": -2,
+          "created_utc": 1734545458.0,
+          "replies": []
+        },
+        {
+          "id": "m2q9tu8",
+          "author": "munche",
+          "body": "The same reason they're banning TikTok. Meta has been campaigning against them for years and eliminating their biggest competition hands them a big win. \n\nThis is just the latest of \"Let's claim this Chinese company is a security concern so the US companies no longer have to compete with them\". This is cronyism and handouts masquerading as National Security. \n\nI expect we'll see a lot more of this in the next few years.",
+          "score": -3,
+          "created_utc": 1734560008.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2o3kok",
+      "author": "chicagorunner10",
+      "body": "I had no idea that TP-Link has just a dominant part of the router market.  I would've guessed that maybe Netgear was bigger;  that's the brand I've been buying for years, at least.",
+      "score": 92,
+      "created_utc": 1734535387.0,
+      "replies": [
+        {
+          "id": "m2oi5sj",
+          "author": "ashyjay",
+          "body": "they offer the best value (performance per $) I keep trying to get away from them to try something else but for the prices they are amazing I would have paid at least double for my router from someone else.",
+          "score": 59,
+          "created_utc": 1734540133.0,
+          "replies": [
+            {
+              "id": "m2ojk66",
+              "author": "chicagorunner10",
+              "body": "Ah, so turns out there was a hidden cost to that cheapness/value.",
+              "score": 26,
+              "created_utc": 1734540571.0,
+              "replies": [
+                {
+                  "id": "m2ppvyh",
+                  "author": "Stingray88",
+                  "body": "There usually is.\n\nSee also: dirt cheap smart TVs. Just wait for them to start banning TCL TVs next.",
+                  "score": 10,
+                  "created_utc": 1734553844.0,
+                  "replies": [
+                    {
+                      "id": "m2vnizp",
+                      "author": "ashyjay",
+                      "body": "It's not just dirt cheap TVs, it's all TVs that's why every remote has buttons for netflix, amazon, Disney, or any other streaming service or voice \"assistant\". TV manufacturers are getting kick backs to include the buttons and applications.",
+                      "score": 2,
+                      "created_utc": 1734641192.0,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "m2thuiz",
+                  "author": "young_mummy",
+                  "body": "Expensive network equipment also commonly have vulnerabilities.",
+                  "score": 1,
+                  "created_utc": 1734614703.0,
+                  "replies": []
+                },
+                {
+                  "id": "m6k2vnf",
+                  "author": "None",
+                  "body": "openBSD\n\n\nIts just hardware.\u00a0\u00a0\nConfigure it correctly and its cheap and realiable.\u00a0\u00a0\nOr be a clutz and pay double. Your choice.",
+                  "score": 1,
+                  "created_utc": 1736591337.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2om8kg",
+          "author": "johnnycyberpunk",
+          "body": "I used to have a WRT54G. Loved it right up until it died.  \nReplaced it with a Netgear Nighthawk... and promptly regretted it.  \n  \nI've used TP-Link ever since.",
+          "score": 20,
+          "created_utc": 1734541414.0,
+          "replies": [
+            {
+              "id": "m2p4ia7",
+              "author": "Helpmehelpyoulong",
+              "body": "Yeah the old WRT was such a beauty. My only gripe was the antennae. Every netgear unit I\u2019ve ever had failed before it was time to upgrade. Never had an issue with other brands and the TP-link stuff has been running fine even in harsh conditions for ages. Very solid gear they sell. The admin gui is usually very to the point and not loaded with a bunch of idiocy like netgear stuff is. Love their products but sucks if they have vulnerabilities that can\u2019t be patched. I suspect it\u2019s all made in CCP land and if they want to backdoor it they can.",
+              "score": 6,
+              "created_utc": 1734547144.0,
+              "replies": []
+            },
+            {
+              "id": "m2p3z6k",
+              "author": "frostedhifi",
+              "body": "I spent almost a month in an anechoic chamber trying to pass a Wi-Fi performance test which kept failing. Turns out our product worked fine, but the netgear nighthawk \u201cgaming\u201d router we were testing against wasn\u2019t up to snuff. The problem turned out to be that netgear cheaped out on the Ethernet interface (the packaging heavily implied it supported 2.5gb when it was in fact 1gb). I will never buy netgear again.",
+              "score": 11,
+              "created_utc": 1734546975.0,
+              "replies": [
+                {
+                  "id": "m2yeuv3",
+                  "author": "OnboardG1",
+                  "body": "See this? This is why electronic engineering is black magic. I spent too many hours down rabbit holes wondering why my designs didn\u2019t work and eventually finding out it was a bug in the design tool, or spec bullshit on a part or a malfunctioning light in the lab creating a \u201czone of electromagnetic misery\u201d.",
+                  "score": 1,
+                  "created_utc": 1734683071.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2x0n59",
+              "author": "TheFireStorm",
+              "body": "Still have my WRT54G and WRT54GS only pull it out if I need older WiFi for Nintendo DS or PSP stuff or XP Laptop. On an air gapped network",
+              "score": 2,
+              "created_utc": 1734658437.0,
+              "replies": []
+            },
+            {
+              "id": "m2opfep",
+              "author": "thisischemistry",
+              "body": "Yeah, the quality of the usual companies has been falling quite a bit lately. This sends people looking for alternatives.",
+              "score": 3,
+              "created_utc": 1734542423.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2ot5ii",
+          "author": "None",
+          "body": "I'm no surprised, their stuff is super cheap, probably the cheapest established brand for networking equipment.  Any cheaper and you're getting into aliexpress super sketch stuff.\n\nI still wouldn't buy one of their routers because the RAM is super low compared to other brands and I've been burned too many times by routers crashing due to insufficient memory.",
+          "score": 9,
+          "created_utc": 1734543596.0,
+          "replies": [
+            {
+              "id": "m2p9b0c",
+              "author": "rooftops",
+              "body": ">I still wouldn't buy one of their routers because the RAM is super low compared to other brands and I've been burned too many times by routers crashing due to insufficient memory.\n\n\nI've never heard of this happening personally, but what exactly causes that to happen/how can you tell? Ironically my TP-Link routers have been fine but my ISP's modem does some dumb shit sometimes and I've been trying to narrow down why.",
+              "score": 3,
+              "created_utc": 1734548638.0,
+              "replies": [
+                {
+                  "id": "m2pd1lg",
+                  "author": "None",
+                  "body": "Each connection your router has between the internet and an application on the PC takes some amount of RAM on the router to facilitate.\n\nNow if you run something like bittorrent that opens way more connections than usual it can quickly burn through the RAM available on the router and when the router runs out the only thing it can do is crash since routers lack mass storage for making a swap file.\n\nYou can configure your bittorrent client to dial back on connections but many software update clients, especially for games, run their own version of bittorrent or something similar and those don't have any facility to limit the number of connections.  Some old routers I used to use with tens of MB of RAM would frequently crap themselves whenever I updated WoW, it was super frustrating.",
+                  "score": 2,
+                  "created_utc": 1734549811.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2np9eg",
+      "author": "Reverend_Bull",
+      "body": "Intelligence can't exactly cite their sources so the public can't judge the threat for themselves.  How much of this is an actual threat and how much is just trade war wrangling as America tries to reduce our trade deficit with a potential enemy?",
+      "score": 173,
+      "created_utc": 1734530181.0,
+      "replies": [
+        {
+          "id": "m2nsn40",
+          "author": "SaltyShawarma",
+          "body": "At the same time, the American public is at an all time high for propaganda ingestion coupled with a tall glass of stupid. Only a very small percentage of us here would be able to even academically comprehend the intelligence data.",
+          "score": 83,
+          "created_utc": 1734531494.0,
+          "replies": [
+            {
+              "id": "m2o8p4k",
+              "author": "Sawses",
+              "body": "True enough, but being denied information is worse than being unable to understand it.\n\nThat shifts the blame. If you have information but can't understand it, your ignorance is your own burden. If you're being denied information in the first place, then you are the victim of the people forcing you to be ignorant.",
+              "score": 19,
+              "created_utc": 1734537082.0,
+              "replies": [
+                {
+                  "id": "m2onm0w",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -2,
+                  "created_utc": 1734541849.0,
+                  "replies": [
+                    {
+                      "id": "m2op5nk",
+                      "author": "thisischemistry",
+                      "body": "Information is a good thing but it needs context and other meta-information to judge its quality and relevance. Without that you just have a sea of noise without the ability to discriminate good signals from bad ones.",
+                      "score": 2,
+                      "created_utc": 1734542338.0,
+                      "replies": []
+                    },
+                    {
+                      "id": "m2p1kih",
+                      "author": "Sawses",
+                      "body": "I was talking about the intelligence data specifically. If they want to tell us that TikTok is full of lies and is manipulating the public, fine. \n\n...But give us the proof. The government owes us a justification for any decision they make to limit the American people in any way. I don't disagree with the choice, but they don't get to make choices like that without evidence that the people can look at.",
+                      "score": 3,
+                      "created_utc": 1734546214.0,
+                      "replies": [
+                        {
+                          "id": "m2qavpn",
+                          "author": "munche",
+                          "body": "The state of the US Govt today is TikTok can get banned because theoretically they might start doing the things all the US based social media sites are already doing",
+                          "score": 2,
+                          "created_utc": 1734560352.0,
+                          "replies": []
+                        },
+                        {
+                          "id": "m2pcr6u",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 0,
+                          "created_utc": 1734549721.0,
+                          "replies": [
+                            {
+                              "id": "m2pwc6s",
+                              "author": "MinimumArmadillo2394",
+                              "body": "You tell us, lol. Its not hard to say \"Yeah they breached X Y Z companies\".\n\nYou cant just ban the most popular product in different industries based on \"national security concerns\" that werent brought up until the last 6 months. \n\nNot only does it impact any sort of free market, but it stifles innovation simply because US companies didnt make it.\n\nI use tik tok because the content is always fresh and new unlike youtube, reddit, or meta. \n\nI use TP link because every other router requires me to make an account to locally manage my router and they have repeatedly lied to me about speeds (reporting 470 mb down when my device that was hard wired was getting 20).\n\nThe government should not be able to do that",
+                              "score": 2,
+                              "created_utc": 1734555791.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2pcxme",
+          "author": "goodnames679",
+          "body": "Tbh if it came to an actual war over Taiwan I can imagine that the company would be a huge potential threat. If any backdoors exist that would allow a foreign party to take out 65% of US routers in one go\u2026. Sheesh, the economic damage would be massive.",
+          "score": 4,
+          "created_utc": 1734549777.0,
+          "replies": []
+        },
+        {
+          "id": "m2nyyhc",
+          "author": "Dunkjoe",
+          "body": "Source: Trust me bro\n\nOh no wonder Trump gets away with his lies...",
+          "score": 14,
+          "created_utc": 1734533805.0,
+          "replies": []
+        },
+        {
+          "id": "m2oxznc",
+          "author": "ovirt001",
+          "body": "It would be nice if they could find a way to share the information with the public but then that's the nature of intelligence work - if you share how you collected data, you've told the enemy how to thwart your efforts.",
+          "score": 2,
+          "created_utc": 1734545104.0,
+          "replies": []
+        },
+        {
+          "id": "m2oxvdz",
+          "author": "scotyb",
+          "body": "Really curious on this. Actually as I just pulled one of these out of my closet to my wireless coverage in the house. I think I'm going to put it back in the closet until I hear the answer to your question.",
+          "score": 1,
+          "created_utc": 1734545067.0,
+          "replies": []
+        },
+        {
+          "id": "m6k37f5",
+          "author": "None",
+          "body": "Its a cheap was to discredit foreign made electronics.\n\n\n\"can't disclose what the risk actually is, cause that would create a risk\"\u00a0\u00a0\ncatch-22\n\n\nIn reality...\u00a0\u00a0\nThere is no real risk (not more than anywhere else), but US companies can't compete with their prices.",
+          "score": 1,
+          "created_utc": 1736591547.0,
+          "replies": []
+        },
+        {
+          "id": "m2nr2p0",
+          "author": "None",
+          "body": "This. Whenever a non American manufacturer starts to get the market share in tech America ban it",
+          "score": -19,
+          "created_utc": 1734530894.0,
+          "replies": [
+            {
+              "id": "m2nrpfh",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 27,
+              "created_utc": 1734531136.0,
+              "replies": [
+                {
+                  "id": "m2nryby",
+                  "author": "Unintended_incentive",
+                  "body": "There could be a tipping point that we\u2019ve reached or so it seems.",
+                  "score": -12,
+                  "created_utc": 1734531232.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2nzmbm",
+              "author": "Dunkjoe",
+              "body": "Not exactly, but the anti-China bias is pretty strong in recent years.\n\nLook at what happened to Huawei, it managed to be a market leader in 5G telecommunications equipment. Then USA suddenly says there are security risks and starts abandoning Huawei equipment in favor of others like Nokia and Ericsson, and also forcing its allies to do so. Not to mention a lot of other Chinese companies.",
+              "score": 7,
+              "created_utc": 1734534032.0,
+              "replies": [
+                {
+                  "id": "m2oaori",
+                  "author": "None",
+                  "body": "It was also because Huawei phones were out selling IPhone for the first time too. Sucks ass because Huawei phones were fucking great.",
+                  "score": 4,
+                  "created_utc": 1734537730.0,
+                  "replies": []
+                },
+                {
+                  "id": "m2omh74",
+                  "author": "FirmRoyal",
+                  "body": "China is doing the same thing to Western companies. If they had a free market, I think I'd be more open to criticism, but that hasn't been the case.",
+                  "score": 0,
+                  "created_utc": 1734541490.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2q6efw",
+      "author": "mollydyer",
+      "body": "Why type \"pct\" when \"%\" exists?",
+      "score": 14,
+      "created_utc": 1734558904.0,
+      "replies": [
+        {
+          "id": "m2qgp9t",
+          "author": "facest",
+          "body": "In URLs % is a special character, so it gets used a bit by news and blogs so that something like websitedotcom/politician-10pct-approval-rate reads properly.",
+          "score": 5,
+          "created_utc": 1734562309.0,
+          "replies": [
+            {
+              "id": "m2qmhbf",
+              "author": "mollydyer",
+              "body": "Except that \\`%25\\` is the url-encoded value for percent.  \n\n[website.com/politician-10%25-approval-rate](http://website.com/politician-10%25-approval-rate) reads correctly as well. \n\nAnd, that's not an url, it's the title of THIS post. The actual article title is\n\n# TP-Link routers could be banned in the US over national security\u00a0concerns\n\n# TP-Link has around 65% of the US market for\u00a0routers\n\n  \nand the actual url for this article is\n\n[https://www.techspot.com/news/106011-tp-link-routers-could-banned-us-over-national.html](https://www.techspot.com/news/106011-tp-link-routers-could-banned-us-over-national.html)",
+              "score": -1,
+              "created_utc": 1734564356.0,
+              "replies": [
+                {
+                  "id": "m2qn25y",
+                  "author": "facest",
+                  "body": "I\u2019m not arguing that this article did it right, just saying that this is why people writing titles do it this way. I will argue that 10pct is easier to read than 10%25 in a URL though!\n\nThere\u2019s some SEO cargo culting involved since not all sites make URLs based on title alone, like this one.",
+                  "score": 1,
+                  "created_utc": 1734564566.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2p24gs",
+      "author": "Dull-Contact120",
+      "body": "TP-link banned due to lack of back doors for NSA , fixed it for you. It\u2019s just reminiscent of Snowden era.",
+      "score": 51,
+      "created_utc": 1734546387.0,
+      "replies": [
+        {
+          "id": "m2q4fwg",
+          "author": "Xin_shill",
+          "body": "Cisco sitting in a corner with back door accounts access able from the web",
+          "score": 2,
+          "created_utc": 1734558287.0,
+          "replies": []
+        },
+        {
+          "id": "m2upr8y",
+          "author": "ar34m4n314",
+          "body": "I highly doubut the NSA has any issue breaking the security on a budget router. Show me one they can't hack ten different ways and I will be surprised. Actual backdoors are expensive and risky, and they just don't need them 99% of the time because everything is so insecure already.",
+          "score": 1,
+          "created_utc": 1734630177.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2npqdz",
+      "author": "ZeppyWeppyBoi",
+      "body": "Eh, I could see it happening for government systems but not consumer products.",
+      "score": 27,
+      "created_utc": 1734530365.0,
+      "replies": []
+    },
+    {
+      "id": "m2o1no8",
+      "author": "Eleven_point_five",
+      "body": "What about their Omada lines?",
+      "score": 6,
+      "created_utc": 1734534741.0,
+      "replies": []
+    },
+    {
+      "id": "m2ppn9i",
+      "author": "minuteman_d",
+      "body": "I had to switch to TP-Link because my Netgear routers all blocked my Home Assistant from updating. It baffled me for almost two years.",
+      "score": 5,
+      "created_utc": 1734553769.0,
+      "replies": []
+    },
+    {
+      "id": "m2rjcba",
+      "author": "unruly_pubic_hair",
+      "body": "When in doubt, DD-WRT",
+      "score": 4,
+      "created_utc": 1734576481.0,
+      "replies": []
+    },
+    {
+      "id": "m2pnghh",
+      "author": "Kriskao",
+      "body": "I have TP link mesh access points all over my house. I am 0% worried.",
+      "score": 8,
+      "created_utc": 1734553087.0,
+      "replies": []
+    },
+    {
+      "id": "m2nnw27",
+      "author": "time-lord",
+      "body": "Oh lovely. So who do we get our routers from? Doesn't Amazon or Google own the other major manufacturer?",
+      "score": 25,
+      "created_utc": 1734529637.0,
+      "replies": [
+        {
+          "id": "m2npu1t",
+          "author": "ar34m4n314",
+          "body": "The GL.iNet Flint 2 comes pre-loaded with OpenWRT. Got mine a month ago, works great. They are based in Hong Kong though.",
+          "score": 19,
+          "created_utc": 1734530405.0,
+          "replies": []
+        },
+        {
+          "id": "m2no400",
+          "author": "Fairuse",
+          "body": "Only government issued network equipment with US government prices and CIA backdoors for you.",
+          "score": 47,
+          "created_utc": 1734529725.0,
+          "replies": [
+            {
+              "id": "m2nziwe",
+              "author": "CIA_Chatbot",
+              "body": "Dude please, back doors are sooooooooo last year.  Wait till you see the new shit!",
+              "score": 14,
+              "created_utc": 1734534000.0,
+              "replies": [
+                {
+                  "id": "m2o0il2",
+                  "author": "english-23",
+                  "body": "\"we just use the front door now\"",
+                  "score": 28,
+                  "created_utc": 1734534347.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2nqniq",
+          "author": "redditmademeregister",
+          "body": "UniFi.",
+          "score": 25,
+          "created_utc": 1734530729.0,
+          "replies": []
+        },
+        {
+          "id": "m2o08e2",
+          "author": "KrydanX",
+          "body": "AVM (Fritz.Box), ASUS, UniFy, Netgear, Cisco.. bruh?",
+          "score": 8,
+          "created_utc": 1734534247.0,
+          "replies": []
+        },
+        {
+          "id": "m2nzaa1",
+          "author": "AtomicSymphonic_2nd",
+          "body": "Asus, Linksys/Cisco, Google Nest, etc\u2026 there are options out there that are designed by US allies.",
+          "score": 13,
+          "created_utc": 1734533919.0,
+          "replies": [
+            {
+              "id": "m2oh05b",
+              "author": "GoodPointSir",
+              "body": "Just want to point out that Linksys is not related to cisco anymore.",
+              "score": 4,
+              "created_utc": 1734539768.0,
+              "replies": [
+                {
+                  "id": "m2oial8",
+                  "author": "ashyjay",
+                  "body": "Foxconn own Linksys these days, used to be Belkin then got bought.",
+                  "score": 4,
+                  "created_utc": 1734540175.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m2ojip1",
+              "author": "xbbdc",
+              "body": "Asus is from Taiwan which China wants you to think they own.",
+              "score": 7,
+              "created_utc": 1734540558.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2np20g",
+          "author": "None",
+          "body": "Cisco equipment is known for having backdoors for US. I think US just assumes other countries behave the same way.\n\n\nBut this is of course protectionism.",
+          "score": 17,
+          "created_utc": 1734530100.0,
+          "replies": [
+            {
+              "id": "m2o97h9",
+              "author": "diacewrb",
+              "body": "Snowden even confirmed a decade ago that cisco equipment was intercepted during delivery to add backdoors that even cisco didn't know about.",
+              "score": 14,
+              "created_utc": 1734537248.0,
+              "replies": [
+                {
+                  "id": "m2p54nx",
+                  "author": "AAMCcansuckmydick",
+                  "body": "Apparently Apple thought all their servers had cia backdoors in them, so they built their own in china and had them delivered with an insane security auditing process to make sure every piece was accounted for and nothing extra was installed.",
+                  "score": 9,
+                  "created_utc": 1734547340.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2o3whc",
+          "author": "BMLortz",
+          "body": "My Chinese Security Cams are going to be so sad when their Chinese Router buddy disappears.",
+          "score": 5,
+          "created_utc": 1734535495.0,
+          "replies": []
+        },
+        {
+          "id": "m2nrsnd",
+          "author": "gramathy",
+          "body": "You could always build your own from a mini PC with opnsense\n\nAnd no, there are a decent number of options. Netgear, asus, linksys, and then yes, the mesh options from Google and Amazon",
+          "score": 1,
+          "created_utc": 1734531171.0,
+          "replies": [
+            {
+              "id": "m2o2s06",
+              "author": "Evajellyfish",
+              "body": "Yeah the majority of people are not gonna do that at all",
+              "score": 12,
+              "created_utc": 1734535119.0,
+              "replies": [
+                {
+                  "id": "m2ofd9x",
+                  "author": "NickCharlesYT",
+                  "body": "Even the people that try, I suspect don't know enough to do any better than existing commercial routers. There's a lot you have to know about how these networks and routers work before you can actually harden your home network properly. I have built out an edge firewall using opnsense that then links to my mesh wifi routers, but the amount of work it took to get everything routed properly with vlan segmentation (and working around Amazon's numerous limitations with the \"simple\" eero software that doesn't let you do much of anything in terms of configuration) was more than the vast majority of folks would have patience for, even those that are familiar enough with tech to be willing to give it a go. The *only* reason I feel like I know enough about it is because I've taken classes and understand the basics enough to know what I need to research, and what specific services, terms, and protocols to use for learning/configuration in the first place. You don't know what you don't know, and most people simply don't know.",
+                  "score": 6,
+                  "created_utc": 1734539248.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2odkm0",
+          "author": "boko_harambe_",
+          "body": "plants hat agonizing six bright adjoining encourage deserve nail onerous\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+          "score": 1,
+          "created_utc": 1734538671.0,
+          "replies": []
+        },
+        {
+          "id": "m2osdyd",
+          "author": "volfin",
+          "body": "TrendNet",
+          "score": 1,
+          "created_utc": 1734543358.0,
+          "replies": []
+        },
+        {
+          "id": "m2nok3r",
+          "author": "None",
+          "body": "[deleted]",
+          "score": -1,
+          "created_utc": 1734529905.0,
+          "replies": [
+            {
+              "id": "m2nq2hl",
+              "author": "shutterslappens",
+              "body": "Respectfully, this is not an option for probably 99.99% of that 65% of people. I wish it was.",
+              "score": 7,
+              "created_utc": 1734530497.0,
+              "replies": [
+                {
+                  "id": "m2nt6fd",
+                  "author": "thisischemistry",
+                  "body": "For those people they would buy network hardware with OpenWRT preinstalled. There's several vendors who have such a thing and they work pretty well.",
+                  "score": 2,
+                  "created_utc": 1734531697.0,
+                  "replies": [
+                    {
+                      "id": "m2oa1hr",
+                      "author": "dandroid126",
+                      "body": ">There's several vendors who have such a thing and they work pretty well.\n\nI was the lead engineer on one such product for about 3 years! It was a ton of fun.",
+                      "score": 2,
+                      "created_utc": 1734537519.0,
+                      "replies": [
+                        {
+                          "id": "m2okzdl",
+                          "author": "thisischemistry",
+                          "body": "Yeah, I definitely support it as an option. The more people/companies involved in OpenWRT the better, it is good to have a viable open-source alternative and the additional eyeballs on the code is often a good thing.",
+                          "score": 1,
+                          "created_utc": 1734541014.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m2nsbwc",
+              "author": "thisischemistry",
+              "body": "OpenWRT is a great project but it has a number of very subtle bugs and odd cases that affect its reliability and security. I don't know if it's any more or less than a commercial product but I had a lot of issues with stuff like MDNS and such.\n\nAs an open source project with lots of tricky network code, it might not be difficult to bury a few exploitable bits of code in the project where they might get past a review process. I'm definitely *not* saying this has happened or that it is likely but it's a possibility. Whether the project is open-source or closed-source, the code needs to be strictly reviewed to make sure that it's as hardened as possible.",
+              "score": 0,
+              "created_utc": 1734531374.0,
+              "replies": [
+                {
+                  "id": "m2nt6ng",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": 1,
+                  "created_utc": 1734531700.0,
+                  "replies": [
+                    {
+                      "id": "m2ntjxf",
+                      "author": "thisischemistry",
+                      "body": "> I'm definitely not saying this has happened or that it is likely but it's a possibility.\n\nI think the security of OpenWRT is at least pretty decent but my point is that I don't know if it's any better or worse than TP-Link. I moved from OpenWRT to TP-Link because of a few reliability issues which may or may not have been corrected by now.\n\nWe should *always* question the safety and reliability of such devices and strive to improve them.",
+                      "score": 0,
+                      "created_utc": 1734531839.0,
+                      "replies": [
+                        {
+                          "id": "m2nvdo5",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": 1,
+                          "created_utc": 1734532518.0,
+                          "replies": [
+                            {
+                              "id": "m2nw5rf",
+                              "author": "thisischemistry",
+                              "body": "Hardware is just a platform that software runs on. TP-Link makes both hardware and software. Yes, backdoors can occur on multiple levels.",
+                              "score": 1,
+                              "created_utc": 1734532805.0,
+                              "replies": [
+                                {
+                                  "id": "m2nx2wb",
+                                  "author": "None",
+                                  "body": "[deleted]",
+                                  "score": -1,
+                                  "created_utc": 1734533141.0,
+                                  "replies": [
+                                    {
+                                      "id": "m2nx7ep",
+                                      "author": "thisischemistry",
+                                      "body": "I didn't say that I did.",
+                                      "score": 1,
+                                      "created_utc": 1734533185.0,
+                                      "replies": [
+                                        {
+                                          "id": "m2ny2ji",
+                                          "author": "None",
+                                          "body": "[deleted]",
+                                          "score": -2,
+                                          "created_utc": 1734533494.0,
+                                          "replies": [
+                                            {
+                                              "id": "m2nyq4q",
+                                              "author": "thisischemistry",
+                                              "body": "Unknown? It's TP-Link software on either TP-Link hardware or on my own hardware. For example, their controller software can be used as a premade hardware/software solution, in their cloud, or on your own hardware:\n\n[Omada Controller](https://www.tp-link.com/us/business-networking/omada/controller/)",
+                                              "score": 1,
+                                              "created_utc": 1734533724.0,
+                                              "replies": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2onojn",
+      "author": "bellboy718",
+      "body": "I predicted that many products and services were at risk of being banned with the announcement of the countering ccp drones act but the writing was on wall when we banned Huawei. How long before memory cards and every other Chinese tech gets banned and the USA becomes an isolated country letting China lead the way.",
+      "score": 10,
+      "created_utc": 1734541871.0,
+      "replies": [
+        {
+          "id": "m2p43ps",
+          "author": "aitorbk",
+          "body": "The US will force Europe, Australia, Canada, etc to do the same.  Or at least that is the idea.  Full on trade war.",
+          "score": 3,
+          "created_utc": 1734547015.0,
+          "replies": []
+        },
+        {
+          "id": "m2qb3yu",
+          "author": "munche",
+          "body": "How long? About a month",
+          "score": 1,
+          "created_utc": 1734560427.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2wqzl7",
+      "author": "ohiocodernumerouno",
+      "body": "Well if Cisco would come down in price they wouldn't have to lie so much about their US market share.",
+      "score": 3,
+      "created_utc": 1734654798.0,
+      "replies": []
+    },
+    {
+      "id": "m2qtpwp",
+      "author": "ynys_red",
+      "body": "This security scaremongering going too far now.",
+      "score": 6,
+      "created_utc": 1734567003.0,
+      "replies": []
+    },
+    {
+      "id": "m2rl5x9",
+      "author": "MarkXIX",
+      "body": "Getting a little sick of our supposedly \u201copen\u201d government blocking shit without fully disclosing the information they supposedly have. Declassify that shit, inform us of the facts in the decision, and let China know you know their bullshit.\n\nOtherwise this all sounds like our government is taking bribes from American competitors to wipe out their competitors and continue to overcharge us for the same shit.\n\nNetgear WiFi routers are ridiculously expensive for what they are, which is basically a cell phone motherboard in a case with big antennas.",
+      "score": 5,
+      "created_utc": 1734577187.0,
+      "replies": []
+    },
+    {
+      "id": "m2q53yf",
+      "author": "SafeModeOff",
+      "body": "If I recall, DJI also posed a national security risk recently. Lucky for us, that all got resolved by *checks notes* changing nothing. Kinda makes me think this is a similar situation.\u00a0",
+      "score": 2,
+      "created_utc": 1734558498.0,
+      "replies": []
+    },
+    {
+      "id": "m2syqyi",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 2,
+      "created_utc": 1734604699.0,
+      "replies": [
+        {
+          "id": "m2wakxo",
+          "author": "stromm",
+          "body": "Percent.",
+          "score": 1,
+          "created_utc": 1734648741.0,
+          "replies": [
+            {
+              "id": "m2ygl6o",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 1,
+              "created_utc": 1734684304.0,
+              "replies": [
+                {
+                  "id": "m2z1g6n",
+                  "author": "stromm",
+                  "body": "You asked...\n\nOr were you just looking for karma.",
+                  "score": 1,
+                  "created_utc": 1734697848.0,
+                  "replies": [
+                    {
+                      "id": "m2zh7kn",
+                      "author": "None",
+                      "body": "[deleted]",
+                      "score": 1,
+                      "created_utc": 1734704655.0,
+                      "replies": [
+                        {
+                          "id": "m2zk1y3",
+                          "author": "stromm",
+                          "body": "It's an long used method starting when the use of the % symbol didn't exist.  And maintained since pre-digital days since with some systems symbols could cause problems with programs.  \n\nIt's also still commonly used in the Finance world.\n\nMaybe instead of insulting something/someone you don't understand, try to educate yourself...",
+                          "score": 0,
+                          "created_utc": 1734705748.0,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m35mw6p",
+      "author": "Newdles",
+      "body": "Honestly, I'd rather use TPLink than the other garbage companies that the government is allowing. Conspiracy or not, but this is likely shrouded in the fact the govt can't MITM TP-Link, but they can other brands. I'd also say it's retaliatory after the telecom hack. Have to show \"strong\" on China. The government never actually updates their own stuff, it's very hypocritical how outdated half the US government infrastructure is. Everyone knows how hacky they are running on a shoestring budget. It's not a secret. \n\nNone of the TPLink devices I've ever used (Cameras/routers/switches/Wireless APs) have ever called home randomly. However, other brands in my house create over 5% of overall traffic calling home. I monitor and actively block these things, but TPLink is absolutely the least of my concerns.",
+      "score": 2,
+      "created_utc": 1734799287.0,
+      "replies": []
+    },
+    {
+      "id": "m2p37gh",
+      "author": "HashMapEverything",
+      "body": "Are they going to ban Lenovo too and implode the western IT industry with their idiocy then? Show some proof first fuckwads. \n\nRegardless I\u2019m not using Cisco or Netgear so they can eat a bag of dicks.",
+      "score": 5,
+      "created_utc": 1734546726.0,
+      "replies": []
+    },
+    {
+      "id": "m2pieg0",
+      "author": "TacoOfGod",
+      "body": "TP-Link has put out the best mesh router I've ever used, and I've used a lot. Everything else was too finnicky software wise.",
+      "score": 3,
+      "created_utc": 1734551504.0,
+      "replies": []
+    },
+    {
+      "id": "m2p6kf9",
+      "author": "FrozenIceman",
+      "body": "Cisco stock is going to go to the moon.",
+      "score": 3,
+      "created_utc": 1734547787.0,
+      "replies": [
+        {
+          "id": "m2pvhnm",
+          "author": "triadwarfare",
+          "body": "Does Cisco sell wifi routers anymore? I could not find any linksys routers for sale in my country since WiFi N was introduced.",
+          "score": 1,
+          "created_utc": 1734555536.0,
+          "replies": [
+            {
+              "id": "m2qgymp",
+              "author": "DrMacintosh01",
+              "body": "Linksys was acquired by Cisco I think. That\u2019s who makes their home routers. Linksys currently does still make routers. They released their Velop Pro 7 mesh routers recently.",
+              "score": 1,
+              "created_utc": 1734562398.0,
+              "replies": [
+                {
+                  "id": "m2s7y1k",
+                  "author": "triadwarfare",
+                  "body": "I think that was a while back. Back in 2010, Linksys is (or was) Cisco's home brand of consumer grade routers. Now, their presence in our local market in the Philippines have fallen down the cliff, mostly taken over by TP Link, Dlink, and Asus.\n\nI used to have a Linksys once back when we were still on ADSL back in 2008. Our router just stopped working after I think 3-4 years with us. Though when we are now on fiber internet, we just went with whatever our ISP gave us.",
+                  "score": 1,
+                  "created_utc": 1734587429.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2o1mb2",
+      "author": "None",
+      "body": "If you dont see the link between tech moguls o\nPandering to the orange Hitler and this, you are blind.",
+      "score": 2,
+      "created_utc": 1734534728.0,
+      "replies": []
+    },
+    {
+      "id": "m2nqb6x",
+      "author": "themanfromvulcan",
+      "body": "Oh oh I have one of these.  Hmmm\u2026",
+      "score": 2,
+      "created_utc": 1734530594.0,
+      "replies": []
+    },
+    {
+      "id": "m2pnkik",
+      "author": "VapidRapidRabbit",
+      "body": "I love the XE75 WiFi 6E mesh routers I have from them. They\u2019re pretty seamless and their app is great to manage the network.",
+      "score": 2,
+      "created_utc": 1734553121.0,
+      "replies": []
+    },
+    {
+      "id": "m2psyd9",
+      "author": "BrundellFly",
+      "body": "seems more like (TPLink\u2019s) competitor propaganda-disinformation",
+      "score": 2,
+      "created_utc": 1734554778.0,
+      "replies": []
+    },
+    {
+      "id": "m2shj9b",
+      "author": "bindermichi",
+      "body": "Time to talk about banning Cisco globally for the exact same reasons.",
+      "score": 2,
+      "created_utc": 1734593055.0,
+      "replies": []
+    },
+    {
+      "id": "m2p2dbj",
+      "author": "rumski",
+      "body": "\u201c65pct\u201d for TP-Link is wild. We\u2019ve always called them ToiletPaper-Link.",
+      "score": 3,
+      "created_utc": 1734546463.0,
+      "replies": []
+    },
+    {
+      "id": "m2p3xgp",
+      "author": "invertedinfinity",
+      "body": "TP-Link has been sending off your internet usage information for years. If your router has abilities such as QoS, you shouldn't have to use an app outside the web interface to access it. Makes sense for them to subsidize the upfront cost of the router to get them in more homes/businesses if you can collect their data.\n\nhttps://www.reddit.com/r/hardware/s/6qhRCyK4vH",
+      "score": 2,
+      "created_utc": 1734546960.0,
+      "replies": []
+    },
+    {
+      "id": "m2o4skh",
+      "author": "JoshS1",
+      "body": "Wow, this comment section is shit.",
+      "score": 2,
+      "created_utc": 1734535795.0,
+      "replies": [
+        {
+          "id": "m2o5769",
+          "author": "Leewdconduct",
+          "body": "really appreciate your contributions sir",
+          "score": 15,
+          "created_utc": 1734535931.0,
+          "replies": []
+        },
+        {
+          "id": "m2ohute",
+          "author": "rbra",
+          "body": "How so? There are like 60 comments LOL. Drama queen much?",
+          "score": 1,
+          "created_utc": 1734540038.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2o5qgn",
+      "author": "jarojajan",
+      "body": "so FBI/CIA backdoors in west made routers and network devices are fine, all secret services and police pressuring Apple to give in and make a backdoor for unlocking encrypted iPhones is fine, but Chinese backdoor is not fine?",
+      "score": 3,
+      "created_utc": 1734536109.0,
+      "replies": [
+        {
+          "id": "m2p0hb7",
+          "author": "GlinnTantis",
+          "body": "That neighbor that openly hates you now has access to everything you do in your home, internet searches, PW to your bank account; knows when you're not home and how to get inside without your knowledge, and you're fine with it because you're assuming he won't do anything with that info.",
+          "score": 0,
+          "created_utc": 1734545875.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2o1vir",
+      "author": "ballinwalund",
+      "body": "I read this as \u201ctwilight princess Link\u201d\u2026. And was confused.",
+      "score": 1,
+      "created_utc": 1734534815.0,
+      "replies": [
+        {
+          "id": "m2o2ndr",
+          "author": "reebee7",
+          "body": "Dude I did the same thing, and I was like \"My brain is clearly fried.\"",
+          "score": 1,
+          "created_utc": 1734535076.0,
+          "replies": []
+        },
+        {
+          "id": "m2ogz16",
+          "author": "AkirIkasu",
+          "body": "Clearly it was talkign about toilet paper link.",
+          "score": 1,
+          "created_utc": 1734539759.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2oqb5q",
+      "author": "mark6789x",
+      "body": "So what\u2019s a good router to use ?",
+      "score": 1,
+      "created_utc": 1734542701.0,
+      "replies": [
+        {
+          "id": "m2xm4ln",
+          "author": "thisischemistry",
+          "body": "I hear TP-Link makes some good ones.",
+          "score": 1,
+          "created_utc": 1734666923.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2ovsr7",
+      "author": "None",
+      "body": "Cool, what about the drones? /s",
+      "score": 1,
+      "created_utc": 1734544424.0,
+      "replies": []
+    },
+    {
+      "id": "m2oxm8x",
+      "author": "ovirt001",
+      "body": "Mikrotik it is...",
+      "score": 1,
+      "created_utc": 1734544987.0,
+      "replies": []
+    },
+    {
+      "id": "m2p3qia",
+      "author": "TheoBoy007",
+      "body": ">TP-Link has around 65% of the US market for routers used in homes and small businesses.\n\nThey are way behind Cisco, owns about half the corporate market share in the US. TP-Link isn\u2019t a serious player in the corporate router (use) world.",
+      "score": 1,
+      "created_utc": 1734546901.0,
+      "replies": []
+    },
+    {
+      "id": "m2p3sht",
+      "author": "TheoBoy007",
+      "body": ">TP-Link has around 65% of the US market for routers used in homes and small businesses.\n\nThey are way behind Cisco, owns about half the corporate market share in the US. TP-Link isn\u2019t a serious player in the corporate router (use) world.",
+      "score": 1,
+      "created_utc": 1734546921.0,
+      "replies": []
+    },
+    {
+      "id": "m2qfoo7",
+      "author": "Riptide360",
+      "body": "Should have happened a long time ago. Free trade is for free countries.",
+      "score": 1,
+      "created_utc": 1734561963.0,
+      "replies": []
+    },
+    {
+      "id": "m2r8cia",
+      "author": "CrustyBappen",
+      "body": "I own a TP-Link. What should I be buying instead then?",
+      "score": 1,
+      "created_utc": 1734572364.0,
+      "replies": []
+    },
+    {
+      "id": "m2rog6c",
+      "author": "DienstEmery",
+      "body": "If security is the concern, banning them won't remove the millions of devices already sold, and what stock currently exists. \n\nEnded up using the Deco for my own home network, wonder if banning them would disable their web services.",
+      "score": 1,
+      "created_utc": 1734578493.0,
+      "replies": []
+    },
+    {
+      "id": "m2t9uwp",
+      "author": "Ill-Air-4908",
+      "body": "Either the government is getting hacked or the government wants to use the same thing but can't so I believe this device is valuable",
+      "score": 1,
+      "created_utc": 1734611098.0,
+      "replies": []
+    },
+    {
+      "id": "m2u5yyr",
+      "author": "GamerRadar",
+      "body": "Ugh I just bought TPLINK KASA light switches\u2026\u2026.",
+      "score": 1,
+      "created_utc": 1734623378.0,
+      "replies": [
+        {
+          "id": "m2xm96r",
+          "author": "thisischemistry",
+          "body": "Good news! They\u2019ll still work fine.",
+          "score": 1,
+          "created_utc": 1734666976.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2ywa1t",
+      "author": "balazs955",
+      "body": "%, you're welcome.",
+      "score": 1,
+      "created_utc": 1734695028.0,
+      "replies": []
+    },
+    {
+      "id": "m32t2y6",
+      "author": "seattletribune",
+      "body": "Fake news",
+      "score": 1,
+      "created_utc": 1734747721.0,
+      "replies": []
+    },
+    {
+      "id": "m2oelrb",
+      "author": "None",
+      "body": "I guess they can ban them but I'm still using mine so\n\n\nI haven't found a cheap/reliable American brand receiver that can give me 300+ up like the tp link I bought for like $20",
+      "score": 0,
+      "created_utc": 1734539002.0,
+      "replies": [
+        {
+          "id": "m2oht7c",
+          "author": "PancAshAsh",
+          "body": "The reason that TP-Link stuff is cheap is they are subsidized by the Chinese government. The reason they are so popular is because they are cheap.",
+          "score": 1,
+          "created_utc": 1734540024.0,
+          "replies": [
+            {
+              "id": "m2ojx16",
+              "author": "xbbdc",
+              "body": "But they deliver great performance also. If they were shit, even being cheap, no one would want to use them.",
+              "score": 5,
+              "created_utc": 1734540681.0,
+              "replies": []
+            },
+            {
+              "id": "m2oi5vb",
+              "author": "None",
+              "body": "Then I will be continuing to use my cheap fast receiver\u00a0",
+              "score": 3,
+              "created_utc": 1734540134.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2oc9p1",
+      "author": "Lack0fInspiration",
+      "body": "I'ts about time. So many critical vulnerabilities over the years and they STILL cant figure out how to code their firmware properly. In my book, that's called negligence.",
+      "score": 1,
+      "created_utc": 1734538248.0,
+      "replies": []
+    },
+    {
+      "id": "m2p4g6d",
+      "author": "DaringDomino3s",
+      "body": "I literally just replaced my network last month. \n\nThe govt needs to stay out of my house, unless they\u2019re offering some kind of credit to change to a different brand.",
+      "score": 1,
+      "created_utc": 1734547125.0,
+      "replies": [
+        {
+          "id": "m2plxry",
+          "author": "shWa1g",
+          "body": "What if said gov\u2019t is the Chinese gov\u2019t, and you paid to let them in?",
+          "score": 0,
+          "created_utc": 1734552612.0,
+          "replies": [
+            {
+              "id": "m2qd72b",
+              "author": "DaringDomino3s",
+              "body": "Then it\u2019s my money? I\u2019m not concerned about China",
+              "score": 6,
+              "created_utc": 1734561121.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2nxqaz",
+      "author": "jimmyjamws1108",
+      "body": "They are the most bang for you buck on Amazon . Lol . We started the whole send tech to other countries that spied on people. Only we targeted government and power . The Chinese one upped us. It had been known for a long time\n. Yet the government still allows it . ????",
+      "score": 0,
+      "created_utc": 1734533373.0,
+      "replies": []
+    },
+    {
+      "id": "m2ozg2b",
+      "author": "HabANahDa",
+      "body": "Sure a lot of banning stuff for a country claiming to be free.",
+      "score": 1,
+      "created_utc": 1734545553.0,
+      "replies": []
+    },
+    {
+      "id": "m2nqk3d",
+      "author": "cambeiu",
+      "body": "Less competition = higher prices. \n\nI have no desire to move back to the US anytime soon.",
+      "score": -5,
+      "created_utc": 1734530692.0,
+      "replies": [
+        {
+          "id": "m2nzynu",
+          "author": "CIA_Chatbot",
+          "body": "Wait till Orange Fucknuts starts throwing tariffs around, fucking guts all govt. services and destroys the economy, then blames Mexico and Canada for it to justify world war 3!  You should come back after that!  (And like pick me up and take me back to whatever country you\u2019re in now)",
+          "score": 1,
+          "created_utc": 1734534152.0,
+          "replies": []
+        },
+        {
+          "id": "m2ntb4e",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 1,
+          "created_utc": 1734531747.0,
+          "replies": [
+            {
+              "id": "m2oeocl",
+              "author": "waxwayne",
+              "body": "They have no problem with foreign goods and services as long as they are the beneficiaries.",
+              "score": 0,
+              "created_utc": 1734539026.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2o9hls",
+      "author": "IAmNotNathaniel",
+      "body": "What about TP-Link switches?\n\nI have a couple of them but no routers..",
+      "score": 1,
+      "created_utc": 1734537340.0,
+      "replies": []
+    },
+    {
+      "id": "m2rnvx5",
+      "author": "spekky1234",
+      "body": "How much did netgear pay? They will make trillions from this",
+      "score": 1,
+      "created_utc": 1734578267.0,
+      "replies": []
+    },
+    {
+      "id": "m2ny6z4",
+      "author": "pzpzpz24",
+      "body": "Thought US was land of the free.",
+      "score": -3,
+      "created_utc": 1734533538.0,
+      "replies": [
+        {
+          "id": "m2oypzs",
+          "author": "firestar268",
+          "body": "Only if the US is winning /s",
+          "score": -3,
+          "created_utc": 1734545331.0,
+          "replies": []
+        },
+        {
+          "id": "m2ozurj",
+          "author": "GlinnTantis",
+          "body": "Nope, china is the land of the free",
+          "score": -4,
+          "created_utc": 1734545679.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m2rjj8m",
+      "author": "MegaHashes",
+      "body": "You already should not use TP-link because of bad long term reliability, even if you are not concerned about security. Their equipment works great when new, but as far as networking equipment go, TP-Link ages like a coal miner with a smoking habit, whereas Netgear (for example) ages like an Asian Yoga teacher.",
+      "score": 0,
+      "created_utc": 1734576554.0,
+      "replies": []
+    },
+    {
+      "id": "m2rd5ox",
+      "author": "ericls",
+      "body": "Good call!",
+      "score": 0,
+      "created_utc": 1734574135.0,
+      "replies": []
+    },
+    {
+      "id": "m2ovvce",
+      "author": "i_suckatjavascript",
+      "body": "I love my TP-Link mesh system though.",
+      "score": -1,
+      "created_utc": 1734544446.0,
+      "replies": []
+    },
+    {
+      "id": "m2oylf5",
+      "author": "firestar268",
+      "body": "So which US companies lobbied for this one? \ud83d\ude02",
+      "score": -1,
+      "created_utc": 1734545292.0,
+      "replies": []
+    },
+    {
+      "id": "m2qrf8y",
+      "author": "zoiks66",
+      "body": "ITT:  Lots of idiots that care more about saving a little money than their privacy.",
+      "score": -2,
+      "created_utc": 1734566158.0,
+      "replies": []
+    },
+    {
+      "id": "m2o72eh",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -2,
+      "created_utc": 1734536549.0,
+      "replies": []
+    },
+    {
+      "id": "m2ntjva",
+      "author": "TheAspiringFarmer",
+      "body": "Good. I personally never have and never will have a single piece of TP-Link gear anywhere on my networks. Even if it\u2019s not a Chinese spyware gateway, their devices are routinely hit with major security vulnerabilities and issues. You get what you (don\u2019t) pay for, folks. Same with the other cheap shit like Netgear or D-Link et Al.",
+      "score": -9,
+      "created_utc": 1734531838.0,
+      "replies": [
+        {
+          "id": "m2nvhud",
+          "author": "Dangerous-Ad-170",
+          "body": "Yeah, but most people are going to buy cheap shit either way. I trust TPLink more than the average cableco rental gateway from Hitron, and Eero\u2019s dominance of the mesh market isn\u2019t much better.\u00a0",
+          "score": 10,
+          "created_utc": 1734532561.0,
+          "replies": [
+            {
+              "id": "m2o1xjy",
+              "author": "TheAspiringFarmer",
+              "body": "I don\u2019t like any of those choices, but sure, price dominates the purchase market. Like anything else. But people should be fully made aware what they are sacrificing - namely privacy and security. Some just don\u2019t care, but they should be made aware of the consequences.",
+              "score": -3,
+              "created_utc": 1734534834.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m2nzyo1",
+          "author": "Siguard_",
+          "body": "If you think cheap is netgear or dlink then what is a decent company?",
+          "score": 5,
+          "created_utc": 1734534153.0,
+          "replies": [
+            {
+              "id": "m2o1lfd",
+              "author": "TheAspiringFarmer",
+              "body": "I\u2019m a big fan of Peplink stuff. Ubiquiti is fine too. Basically, anything you can buy on a Walmart shelf should be avoided.",
+              "score": -4,
+              "created_utc": 1734534720.0,
+              "replies": [
+                {
+                  "id": "m2o48gs",
+                  "author": "Siguard_",
+                  "body": "never heard of peplink but that seems more geared at enterprise level hardware. Ubiquiti I looked at a month ago and it was way out of what I wanted to spend on a home network",
+                  "score": 3,
+                  "created_utc": 1734535607.0,
+                  "replies": [
+                    {
+                      "id": "m2omkmj",
+                      "author": "TheAspiringFarmer",
+                      "body": "You get what you pay for.",
+                      "score": -4,
+                      "created_utc": 1734541521.0,
+                      "replies": [
+                        {
+                          "id": "m2ott4w",
+                          "author": "Siguard_",
+                          "body": "I mean if I had a bigger budget sure I'd swap to the next tier of everything.\nI wanted 2.5gbit throughout the home,  home theatre and Nas storage.",
+                          "score": 1,
+                          "created_utc": 1734543801.0,
+                          "replies": [
+                            {
+                              "id": "m2p5hkr",
+                              "author": "TheAspiringFarmer",
+                              "body": "You are better off saving for quality network gear rather than buying junk that won\u2019t last and sacrifices your security and privacy.",
+                              "score": 0,
+                              "created_utc": 1734547451.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2qqha0",
+      "author": "Accomplished_Dark_37",
+      "body": "Ugh, every tp link device I\u2019ve tried in the past has been utter trash, if it wasn\u2019t doa in the first place. Who buys this crap?",
+      "score": -1,
+      "created_utc": 1734565816.0,
+      "replies": []
+    },
+    {
+      "id": "m2oiwlj",
+      "author": "blazze_eternal",
+      "body": "It always seems like the public is missing key pieces of the puzzle with these bans. It's like, the intelligence community found malicious activity, has proof, but revealing said proof would expose some of our secret capabilities, like encryption breaking.",
+      "score": 0,
+      "created_utc": 1734540368.0,
+      "replies": []
+    },
+    {
+      "id": "m2q5m4l",
+      "author": "Automatic_Llama",
+      "body": "Oh good! I guess this means we'll make them here!",
+      "score": 0,
+      "created_utc": 1734558656.0,
+      "replies": []
+    },
+    {
+      "id": "m2npgnz",
+      "author": "flux_capacitor3",
+      "body": "Yeah, that won't happen.",
+      "score": -2,
+      "created_utc": 1734530259.0,
+      "replies": []
+    },
+    {
+      "id": "m2pfn97",
+      "author": "None",
+      "body": "[deleted]",
+      "score": -3,
+      "created_utc": 1734550631.0,
+      "replies": [
+        {
+          "id": "m2qed7z",
+          "author": "thereverend808",
+          "body": "iPhone, Galaxy, or Pixel?",
+          "score": 1,
+          "created_utc": 1734561517.0,
+          "replies": [
+            {
+              "id": "m2t5hr2",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 0,
+              "created_utc": 1734608803.0,
+              "replies": [
+                {
+                  "id": "m2vk2r6",
+                  "author": "thereverend808",
+                  "body": "Still manufactured in China",
+                  "score": 1,
+                  "created_utc": 1734640091.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2ouk1d",
+      "author": "minionsweb",
+      "body": "Hmmmm. Are my kasa & tapo devices next? \ud83d\ude31",
+      "score": -1,
+      "created_utc": 1734544033.0,
+      "replies": []
+    },
+    {
+      "id": "m2p2vak",
+      "author": "PhantomGaming27249",
+      "body": "I would be really pissed, I have a wifi 7 mesh from tp link and I love it. The performance is fantastic. I don't want to need to buy another router.",
+      "score": -1,
+      "created_utc": 1734546620.0,
+      "replies": []
+    },
+    {
+      "id": "m2qaqx3",
+      "author": "GongTzu",
+      "body": "Another one bites the dust. Welcome TP to the walk of shame with Huawei \ud83d\ude02",
+      "score": -1,
+      "created_utc": 1734560309.0,
+      "replies": []
+    },
+    {
+      "id": "m2o99a9",
+      "author": "mscotch2020",
+      "body": "TP link is Chinese router? \n\nFirst time knows this.",
+      "score": -3,
+      "created_utc": 1734537264.0,
+      "replies": []
+    }
+  ]
+}

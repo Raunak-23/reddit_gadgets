@@ -1,0 +1,49 @@
+metric,value
+file,1gv6ad7.csv
+title,"Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard | “Tears in rain” Roy, not Fire Emblem Roy — just in case you didn’t know."
+rows,241
+num_posts,1
+num_comments,240
+unique_authors,157
+max_depth,13
+avg_comment_words,73.24
+median_comment_words,42.5
+max_comment_words,555
+positive_count,44
+negative_count,180
+neutral_count,16
+positive_pct,18.333
+negative_pct,75.0
+neutral_pct,6.667
+topic_1_keywords,"one, games, like, steam, didnt, controller, button, ago"
+topic_1_label,"Steam: Steam, didnt, controller, button"
+topic_2_keywords,"controller, steam, like, pad, games, work, touchpads, track"
+topic_2_label,Steam controller likes pad
+topic_3_keywords,"like, games, analogue, stick, dpad, thumb, buttons, use"
+topic_3_label,"dpad, thumb, buttons, games"
+topic_4_keywords,"controller, steam, deck, like, buttons, pads, use, would"
+topic_4_label,Steam controllers like to use pads on deck
+topic_5_keywords,"steam, next, deck, controller, one, button, oled, controllers"
+topic_5_label,"Steam, controllers, oled, steam"
+topic_6_keywords,"roy, controller, fire, emblem, steam, article, tears, rain"
+topic_6_label,roy controller fires steam in article
+top_ngram_1,steam deck (75)
+top_ngram_2,steam controller (65)
+top_ngram_3,fire emblem (26)
+top_ngram_4,blade runner (22)
+top_ngram_5,games like (20)
+top_ngram_6,track pad (20)
+top_ngram_7,tears rain (17)
+top_ngram_8,analogue stick (16)
+top_ngram_9,track pads (15)
+top_ngram_10,face buttons (14)
+ner_1,Roy|PER|33
+ner_2,Blade Runner|MISC|18
+ner_3,Xbox|MISC|17
+ner_4,Nintendo|ORG|16
+ner_5,Steam Deck|MISC|13
+ner_6,Valve|ORG|13
+ner_7,Steam Controller|MISC|11
+ner_8,Fire Emblem|ORG|11
+ner_9,Steam|ORG|10
+ner_10,##th|MISC|9

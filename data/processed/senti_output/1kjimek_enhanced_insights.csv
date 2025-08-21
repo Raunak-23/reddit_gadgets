@@ -1,0 +1,49 @@
+metric,value
+file,1kjimek.csv
+title,Philips' 'Fixables' Empower Consumers with 3D-Printable Repair Parts
+rows,87
+num_posts,1
+num_comments,86
+unique_authors,63
+max_depth,4
+avg_comment_words,70.21
+median_comment_words,61.5
+max_comment_words,205
+positive_count,21
+negative_count,65
+neutral_count,0
+positive_pct,24.419
+negative_pct,75.581
+neutral_pct,0.0
+topic_1_keywords,"cheaper, easy, ill, use, yeah, brick, plastic, remember"
+topic_1_label,Plastic is cheaper and easier to use than brick
+topic_2_keywords,"3d, shaver, dont, like, something, think, made, ive"
+topic_2_label,i dont like shaver
+topic_3_keywords,"used, device, one, making, batteries, twice, replaceable, could"
+topic_3_label,batteries used in device
+topic_4_keywords,"parts, replacement, shaver, dont, use, one, philips, get"
+topic_4_label,philips get shaver
+topic_5_keywords,"one, end, usb, proprietary, different, model, around, also"
+topic_5_label,a proprietary model and a proprietary model
+topic_6_keywords,"parts, 3d, companies, printers, products, print, something, still"
+topic_6_label,3D printing of parts for 3d printing
+top_ngram_1,barber shops (14)
+top_ngram_2,shops dont (14)
+top_ngram_3,barber shops dont (14)
+top_ngram_4,shaver head (13)
+top_ngram_5,3d printers (13)
+top_ngram_6,replacement parts (13)
+top_ngram_7,maybe useful (11)
+top_ngram_8,useful barber (11)
+top_ngram_9,dont think (11)
+top_ngram_10,think ive (11)
+ner_1,Philips|ORG|21
+ner_2,Wahl|ORG|4
+ner_3,USB A|MISC|4
+ner_4,Czech|MISC|4
+ner_5,Phillips|ORG|3
+ner_6,AC USB|MISC|3
+ner_7,3D|MISC|3
+ner_8,Corsair|ORG|3
+ner_9,##ahl|MISC|3
+ner_10,The One Blade|MISC|3

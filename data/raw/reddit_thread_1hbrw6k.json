@@ -1,0 +1,866 @@
+{
+  "post": {
+    "title": "Spotify's Car Thing Accessory is Officially Dead",
+    "author": "chrisdh79",
+    "id": "1hbrw6k",
+    "score": 1124,
+    "created_utc": 1733918407.0,
+    "selftext": "",
+    "num_comments": 98,
+    "subreddit": "gadgets",
+    "url": "https://www.reddit.com/r/gadgets/comments/1hbrw6k/spotifys_car_thing_accessory_is_officially_dead/"
+  },
+  "comments": [
+    {
+      "id": "m1igc7b",
+      "author": "M4cker85",
+      "body": "Have seen a couple of tutorials around to repurpose it with custom firmware hopefully Spotify haven't bricked it entirely with this discontinuation of the product.",
+      "score": 472,
+      "created_utc": 1733918664.0,
+      "replies": [
+        {
+          "id": "m1j6sj3",
+          "author": "None",
+          "body": "[deleted]",
+          "score": 114,
+          "created_utc": 1733929529.0,
+          "replies": [
+            {
+              "id": "m1jwgvk",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 19,
+              "created_utc": 1733937701.0,
+              "replies": [
+                {
+                  "id": "m1jxpp6",
+                  "author": "None",
+                  "body": "[deleted]",
+                  "score": -11,
+                  "created_utc": 1733938080.0,
+                  "replies": [
+                    {
+                      "id": "m1mgzdl",
+                      "author": "Spud_Spudoni",
+                      "body": "Incorrect. Spotify released the code open source to GitHub.",
+                      "score": 11,
+                      "created_utc": 1733967013.0,
+                      "replies": [
+                        {
+                          "id": "m1mlpry",
+                          "author": "None",
+                          "body": "[deleted]",
+                          "score": -2,
+                          "created_utc": 1733968736.0,
+                          "replies": [
+                            {
+                              "id": "m1mt1fy",
+                              "author": "jaeke",
+                              "body": "I saw someone link it in another thread earlier today, I'll see if I can find it.",
+                              "score": 6,
+                              "created_utc": 1733971444.0,
+                              "replies": [
+                                {
+                                  "id": "m1mvy36",
+                                  "author": "None",
+                                  "body": "[deleted]",
+                                  "score": -1,
+                                  "created_utc": 1733972538.0,
+                                  "replies": [
+                                    {
+                                      "id": "m1n0yz8",
+                                      "author": "Spud_Spudoni",
+                                      "body": "That has nothing to do with the open sourced code, but almost completely on the hardware limitations on the device itself, as it can't run the software in its current configuration.\n\nTo say there's \"zero evidence\" that the code is open source is a bold faced lie on your part. There's multiple posts on this subject that discuss the issues with the code, but its still absolutely open source.",
+                                      "score": 3,
+                                      "created_utc": 1733974524.0,
+                                      "replies": [
+                                        {
+                                          "id": "m1n1b5a",
+                                          "author": "None",
+                                          "body": "[deleted]",
+                                          "score": 0,
+                                          "created_utc": 1733974663.0,
+                                          "replies": [
+                                            {
+                                              "id": "m1n2o2l",
+                                              "author": "Spud_Spudoni",
+                                              "body": "Dude. Someone literally replied it to you [10 hours ago](https://www.reddit.com/r/gadgets/comments/1hbrw6k/comment/m1k1kmo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) with the github page that literally has the code open sourced. I feel you're just being blatantly ignorant at this point.\n\nLiteral link right directly to it: [https://github.com/spsgsb](https://github.com/spsgsb)",
+                                              "score": 1,
+                                              "created_utc": 1733975219.0,
+                                              "replies": [
+                                                {
+                                                  "id": "m1n4sjl",
+                                                  "author": "None",
+                                                  "body": "[deleted]",
+                                                  "score": 0,
+                                                  "created_utc": 1733976112.0,
+                                                  "replies": [
+                                                    {
+                                                      "id": "m1n5bvk",
+                                                      "author": "Spud_Spudoni",
+                                                      "body": "Okay buddy. There\u2019s a dozen threads discussion why this OPEN SOURCE set of files works or doesn\u2019t work based on the hardware limitations. But apparently none of them are correct. You, \u201cRodlMyPancakes\u201d apparently know more than anyone else on what open source means \ud83d\ude02\n\nHe blocked me lmao.",
+                                                      "score": 2,
+                                                      "created_utc": 1733976343.0,
+                                                      "replies": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "m1mzoyv",
+                                      "author": "jaeke",
+                                      "body": "I am ~90% sure it was the software. But I'm having a hard time hunting it down.\n\nI found it. The source is incomplete and does leave out the functionality of using a phone as the source which is obviously not great.",
+                                      "score": 1,
+                                      "created_utc": 1733974008.0,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1igf90",
+      "author": "None",
+      "body": "[deleted]",
+      "score": 225,
+      "created_utc": 1733918708.0,
+      "replies": [
+        {
+          "id": "m1ipzv8",
+          "author": "BassGaming",
+          "body": "Looked for used car thing listings on ebay and god damn those things are still pretty expensive. 100-250\u20ac for something which most people consider to be bricked (due to not knowing better) is way more than I expected.\n\nOh well, the prices will probably fall with time.",
+          "score": 83,
+          "created_utc": 1733923181.0,
+          "replies": [
+            {
+              "id": "m1isyrp",
+              "author": "Techmoji",
+              "body": "Prices were around $40-50 (until October I think?) when the first YouTube video came out about new custom firmware. Prices doubled that same day and now they\u2019re pretty much triple what they used to be. Brand new units are now $300. Btw the msrp for these was $89.99",
+              "score": 63,
+              "created_utc": 1733924396.0,
+              "replies": []
+            },
+            {
+              "id": "m1j3brm",
+              "author": "Cheezewiz239",
+              "body": "Prices increased AFTER the news lol.",
+              "score": 20,
+              "created_utc": 1733928326.0,
+              "replies": []
+            },
+            {
+              "id": "m1k3ftb",
+              "author": "RightHandMan90",
+              "body": "I uh. Have one of these I never opened and my wife never used (was a gift) I kinda just want to get rid of it now. Any takers?\u00a0",
+              "score": 7,
+              "created_utc": 1733939827.0,
+              "replies": [
+                {
+                  "id": "m1lpxwy",
+                  "author": "fairportmtg1",
+                  "body": "eBay",
+                  "score": 4,
+                  "created_utc": 1733957390.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1mhihw",
+                  "author": "InternetUser007",
+                  "body": "I'm interested depending on the price. PM me if you are serious.",
+                  "score": 2,
+                  "created_utc": 1733967210.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1iofij",
+          "author": "themaskedcanuck",
+          "body": "*throw",
+          "score": 14,
+          "created_utc": 1733922513.0,
+          "replies": []
+        },
+        {
+          "id": "m1ihqiq",
+          "author": "abarrelofmankeys",
+          "body": "Link?",
+          "score": 4,
+          "created_utc": 1733919388.0,
+          "replies": [
+            {
+              "id": "m1ioki8",
+              "author": "None",
+              "body": "[deleted]",
+              "score": 11,
+              "created_utc": 1733922573.0,
+              "replies": [
+                {
+                  "id": "m1jidtg",
+                  "author": "abarrelofmankeys",
+                  "body": "Thank you! Would really like to get some kind of use out of the thing.  It was a nice gadget. Really liked the voice control though I know/ don\u2019t think that\u2019s anything that could be put back ever.",
+                  "score": 1,
+                  "created_utc": 1733933318.0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "m1ilvz7",
+              "author": "bradye0110",
+              "body": "Google is free buddy",
+              "score": -65,
+              "created_utc": 1733921389.0,
+              "replies": [
+                {
+                  "id": "m1imh37",
+                  "author": "over__________9000",
+                  "body": "Why even comment?",
+                  "score": 18,
+                  "created_utc": 1733921653.0,
+                  "replies": [
+                    {
+                      "id": "m1izz0o",
+                      "author": "bradye0110",
+                      "body": "Why even reply?",
+                      "score": -23,
+                      "created_utc": 1733927099.0,
+                      "replies": [
+                        {
+                          "id": "m1k06yq",
+                          "author": "ThePortalsOfFrenzy",
+                          "body": "Why even?",
+                          "score": 2,
+                          "created_utc": 1733938841.0,
+                          "replies": [
+                            {
+                              "id": "m1kihts",
+                              "author": "bradye0110",
+                              "body": "Blocked and reported",
+                              "score": -11,
+                              "created_utc": 1733944246.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "m1ipsd7",
+                  "author": "WagwanMoist",
+                  "body": "And shady fucks often put their sponsored results at the top when you're looking for random software downloads. Sending you to what might not be the official source.",
+                  "score": 7,
+                  "created_utc": 1733923095.0,
+                  "replies": [
+                    {
+                      "id": "m1izxsk",
+                      "author": "bradye0110",
+                      "body": "So what if this person sends you their sponsored download and not the official source?",
+                      "score": -14,
+                      "created_utc": 1733927086.0,
+                      "replies": [
+                        {
+                          "id": "m1j6opm",
+                          "author": "WagwanMoist",
+                          "body": "There is a good chance that person would be downvoted and/or corrected.",
+                          "score": 9,
+                          "created_utc": 1733929493.0,
+                          "replies": [
+                            {
+                              "id": "m1kig5b",
+                              "author": "bradye0110",
+                              "body": "Ok?",
+                              "score": -4,
+                              "created_utc": 1733944232.0,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1igy55",
+      "author": "Brandunaware",
+      "body": "Love this era where you buy electronics and then they stop working arbitrarily when the company decides they should. LOVE IT! \n\nWho wants to own things when you can instead pay ownership prices to rent them for an undefined period? \n\nYes you can repurpose the device if you know how, but what percentage of owners actually know enough and are willing to put in the (not huge) effort to do that?",
+      "score": 255,
+      "created_utc": 1733918982.0,
+      "replies": [
+        {
+          "id": "m1iifts",
+          "author": "JaggedMetalOs",
+          "body": "You will own nothing and you will be happy, peasant!",
+          "score": 74,
+          "created_utc": 1733919742.0,
+          "replies": [
+            {
+              "id": "m1iit63",
+              "author": "andyschest",
+              "body": "That's Spotify's entire business model, so this should be no surprise.",
+              "score": 25,
+              "created_utc": 1733919927.0,
+              "replies": []
+            },
+            {
+              "id": "m1ij4e8",
+              "author": "Brandunaware",
+              "body": "I'd be okay with the first part if they could make good on the second...",
+              "score": 7,
+              "created_utc": 1733920083.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1jkqde",
+          "author": "ElectronicAmphibian7",
+          "body": "Read an article the other day about discontinuing support for visual implants because the company went under. My dude was walking to the subway and then their vision was gone. How do you cut off the blinds only source of vision?",
+          "score": 16,
+          "created_utc": 1733934060.0,
+          "replies": [
+            {
+              "id": "m1l5uqt",
+              "author": "CrimsonBrit",
+              "body": "https://spectrum.ieee.org/amp/bionic-eye-obsolete-2656624624",
+              "score": 6,
+              "created_utc": 1733951151.0,
+              "replies": []
+            },
+            {
+              "id": "m1o2nk6",
+              "author": "jl_theprofessor",
+              "body": "Well apparently the company went bankrupt. I don\u2019t know what the solution is to a case like that.",
+              "score": 2,
+              "created_utc": 1733995239.0,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "m1j7zn3",
+          "author": "Grindelbart",
+          "body": "label plants doll support smart subsequent reminiscent hungry air shy\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+          "score": 7,
+          "created_utc": 1733929934.0,
+          "replies": []
+        },
+        {
+          "id": "m1jnkox",
+          "author": "Killbot_Wants_Hug",
+          "body": "I mean functionally when you buy a single purpose device that links to an online service, that's what is going to happen eventually.\n\nThe Car Thing is really more notable for how short lived it was.",
+          "score": 12,
+          "created_utc": 1733934953.0,
+          "replies": [
+            {
+              "id": "m1jox99",
+              "author": "Brandunaware",
+              "body": "Except that companies do have the option of officially supporting opening it up and letting it run on third party services or officially supporting continued fan development. \n\nWhen Google discontinued Stadia it provided official support for using Stadia controllers with other platforms. They just extended the amount of time to activate that feature. Official support for that kind of switch over is possible, just a lot of the time companies prefer to brick the devices.",
+              "score": 4,
+              "created_utc": 1733935372.0,
+              "replies": [
+                {
+                  "id": "m1k8uq1",
+                  "author": "Killbot_Wants_Hug",
+                  "body": "They can, but they have no incentive to do it.\n\nIt's nice when companies do it, but you'd be foolish if you expect them to.",
+                  "score": 1,
+                  "created_utc": 1733941417.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1nb0l1",
+                  "author": "ungoogleable",
+                  "body": "It's very common that devices like this are built using software from third party companies that the device company doesn't have the rights to release. The software is still being sold for other devices so the third party companies are not going to approve giving it away for free.\n\nIt may not even be practical to separate out just the code they own if it's deeply intermixed. What they could publish may not be functional by itself. Reimplementing the dependencies might be a bigger effort than developing the product in the first place. All for something no one is paying them for anymore.",
+                  "score": 1,
+                  "created_utc": 1733978902.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1in8ba",
+          "author": "doubleshotofespresso",
+          "body": "MORE E-WASTE. LOVE IT.",
+          "score": 11,
+          "created_utc": 1733921990.0,
+          "replies": []
+        },
+        {
+          "id": "m1m5xdn",
+          "author": "nerdy_volcano",
+          "body": "This has been such a faff that Spotify offered refunds to all owners.",
+          "score": 1,
+          "created_utc": 1733963006.0,
+          "replies": []
+        },
+        {
+          "id": "m1qp8og",
+          "author": "drfsupercenter",
+          "body": "While I normally agree with this sentiment, what did people expect a Spotify-only-device that does nothing else besides play Spotify, to do once it can no longer play Spotify?\n\nIt's not like your refrigerator maker killing your refrigerator because they went out of business.  This \"car thing\" literally did nothing but play Spotify.  I don't understand why anyone even bought one to begin with considering you still needed a phone.  If it had a cell modem in it with its own data connection that might have been something...",
+          "score": 1,
+          "created_utc": 1734032421.0,
+          "replies": []
+        },
+        {
+          "id": "m1jegf6",
+          "author": "Owlistrator",
+          "body": "Good point. I will note that they refund your purchase in full if you email them",
+          "score": 1,
+          "created_utc": 1733932060.0,
+          "replies": []
+        },
+        {
+          "id": "m1iyil0",
+          "author": "IAMALWAYSSHOUTING",
+          "body": "Welcome to technofeudalism",
+          "score": 0,
+          "created_utc": 1733926556.0,
+          "replies": []
+        },
+        {
+          "id": "m1jkgjj",
+          "author": "Usernametaken1121",
+          "body": "Are you salty you bought a product that was destined to fail because people either have Bluetooth on their phone (that automatically connects when the vehicle turns on) or are too poor to afford a BT equipped vehicle and use an aux cord instead?",
+          "score": -5,
+          "created_utc": 1733933974.0,
+          "replies": [
+            {
+              "id": "m1k9061",
+              "author": "ModsRTryhards",
+              "body": "Not sure why it matters if it's a stupid device. Buying it should allow you to use it. Failing to sell in the past and tanking meant you had the device, but they just weren't making new ones. We are in a different age. \n\nAnd I think the point is this can happen with lots of modern tech. Even if it's useful. Google loves killing their projects, etc.",
+              "score": 5,
+              "created_utc": 1733941461.0,
+              "replies": [
+                {
+                  "id": "m1luusz",
+                  "author": "Usernametaken1121",
+                  "body": ">We are in a different age.\n\nWhat does this even mean? Because we have Internet the world works by completely different rules? That's absurd",
+                  "score": -7,
+                  "created_utc": 1733959063.0,
+                  "replies": [
+                    {
+                      "id": "m1q1btz",
+                      "author": "ModsRTryhards",
+                      "body": "Companies treat their products and customers differently. I feel that's pretty straight forward. The \"rules\" of ownership are indeed different.",
+                      "score": 2,
+                      "created_utc": 1734025080.0,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "m1kn7xc",
+              "author": "tacoheadbob",
+              "body": "Look at Mr. Moneybags here buying a new car when new Bluetooth standards are released. \n\nThis little device made older vehicles somewhat more enjoyable for music options along with trying to keep the phone out of our hands while we drive. \n\nI get it though, this was probably a dead end gadget upon delivery. I liked mine while it was working and now I will have to spend my kids college funds on a new car so you feel better about your comment.",
+              "score": 3,
+              "created_utc": 1733945636.0,
+              "replies": [
+                {
+                  "id": "m1ms76v",
+                  "author": "Pizza_Low",
+                  "body": "Nulaxy Bluetooth 5.0 FM... https://www.amazon.com/dp/B082YWZ77X\n\nI have one of these. Works well to stream music to the car radio over FM. If there is a sound quality on fm vs Bluetooth, my ears aren\u2019t sharpe enough to hear it.  Sucks it can\u2019t work for phone calls but oh well",
+                  "score": 1,
+                  "created_utc": 1733971130.0,
+                  "replies": []
+                },
+                {
+                  "id": "m1lu9we",
+                  "author": "Usernametaken1121",
+                  "body": "Sucks for you dude. Maybe should have thought out some things before you did them. Oh well, life goes on :)",
+                  "score": -8,
+                  "created_utc": 1733958861.0,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1iz3v0",
+      "author": "BigLan2",
+      "body": "Weird, mine worked a few minutes ago driving to the office. Maybe it'll be gone this afternoon in the drive home though.\n\n\nWhich reminds me, I need to contact them for a refund and then see if it's worth hacking the device for something else.",
+      "score": 21,
+      "created_utc": 1733926777.0,
+      "replies": [
+        {
+          "id": "m1nebns",
+          "author": "JDeluis",
+          "body": "Yes contact them. I bought it when it was on sale.  They ended up reimbursing me more money than what I paid for it. \n\nAll you need is your order receipt and photo proof. I sent them a screenshot of the email receipt and a photo of the serial number.",
+          "score": 5,
+          "created_utc": 1733980456.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1ifvlh",
+      "author": "chrisdh79",
+      "body": "From the article: Spotify today shut down all Car Thing accessories, several months after announcing plans to discontinue the product. As of this week, Car Thing is no longer functional and will not work with the Spotify streaming service.\n\nCar Thing owners who power on the device now only see the following message:\n\n*Car Thing is discontinued and no longer operational.*\n\n*Thank you for being on this journey with us, safe travels. For more information, visit carthing.com Contact customer service by no later than January 14, 2025 to discuss your refund options.*",
+      "score": 23,
+      "created_utc": 1733918419.0,
+      "replies": [
+        {
+          "id": "m1nhs8n",
+          "author": "notsethcohen",
+          "body": "This was announced in May btw",
+          "score": 4,
+          "created_utc": 1733982203.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1jekxf",
+      "author": "Panda_Mon",
+      "body": "Spotify killed it themselves at every step of the way. Not once did they try to make it work for consumers. I'm a mega-listener (paid premium, top 5% for minutes listened per year) with a car that doesn't have android auto. I'm the perfect target. I wanted to buy car thing but the website sucked so hard I couldn't get the answers I needed about it to know if it would work for me. The website explained basically nothing about how any part of car thing worked besides where to plug it in. So I didn't shell out the $150 or however much it costs. Glad I didn't, now.",
+      "score": 27,
+      "created_utc": 1733932100.0,
+      "replies": [
+        {
+          "id": "m1n7tr4",
+          "author": "Flashmax305",
+          "body": "Android auto and CarPlay is wayyy worth it. Look at installing a new head unit yourself. It\u2019s typically really easy.",
+          "score": 2,
+          "created_utc": 1733977452.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1iw619",
+      "author": "JonWilso",
+      "body": "Which, they killed Spotify integration with my older head unit in my car in order to force you to upgrade to this. Just straight up disabled it.",
+      "score": 5,
+      "created_utc": 1733925649.0,
+      "replies": []
+    },
+    {
+      "id": "m1ile04",
+      "author": "OreoSpeedwaggon",
+      "body": "\"Officially\" being the key word here.",
+      "score": 8,
+      "created_utc": 1733921159.0,
+      "replies": []
+    },
+    {
+      "id": "m1isc04",
+      "author": "slimdizzy",
+      "body": "Long live DeskThing!",
+      "score": 6,
+      "created_utc": 1733924143.0,
+      "replies": []
+    },
+    {
+      "id": "m1iwzws",
+      "author": "jacman224",
+      "body": "I\u2019m confused I literally just used my car thing this morning",
+      "score": 3,
+      "created_utc": 1733925975.0,
+      "replies": []
+    },
+    {
+      "id": "m1k2x7w",
+      "author": "DblDeezSqueeze",
+      "body": "I bought mine when they were liquidated for like $10, then sold it for over $100 when I got a newer car. The modding scene apparently took off and people wanted them.",
+      "score": 3,
+      "created_utc": 1733939671.0,
+      "replies": []
+    },
+    {
+      "id": "m1ktinv",
+      "author": "ibetu",
+      "body": "I have two of these, still in the box. What's the best way to repurpose them?",
+      "score": 2,
+      "created_utc": 1733947496.0,
+      "replies": [
+        {
+          "id": "m1m6wo9",
+          "author": "ShadedRest",
+          "body": "I'll buy them! Sounds fun!",
+          "score": 2,
+          "created_utc": 1733963355.0,
+          "replies": []
+        },
+        {
+          "id": "m1na289",
+          "author": "FrenzalRhomb1",
+          "body": "I had one that was brand new earlier this year, decided to sell it, got $150\u2026maybe 3 days later I heard they were going to stop supporting it!",
+          "score": 1,
+          "created_utc": 1733978459.0,
+          "replies": []
+        },
+        {
+          "id": "m1motzd",
+          "author": "so-calrider",
+          "body": "With a hammer and a recycle bin.",
+          "score": 0,
+          "created_utc": 1733969882.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1l00bk",
+      "author": "just_a_red",
+      "body": "But unofficially alive",
+      "score": 2,
+      "created_utc": 1733949431.0,
+      "replies": []
+    },
+    {
+      "id": "m1j93ec",
+      "author": "yarash",
+      "body": "All I want is to be able to hands free tell my phone to navigate, and play music at the same time. Preferably using my own library of mp3s. Ive tried google maps, alexa, spotify, waze, android auto. The voice command options on all of them are terrible, its like they want you to crash your car.",
+      "score": 3,
+      "created_utc": 1733930306.0,
+      "replies": []
+    },
+    {
+      "id": "m1kc8lo",
+      "author": "Crispy_legs",
+      "body": "My biggest flex is I got one of these for free from Spotify. It was great in my old car, but my new one has Apple CarPlay which is 1000x better, still really liked using it at my desk as a music/DJ kind of thing. Really lame they just decided to kill it like that.",
+      "score": 2,
+      "created_utc": 1733942411.0,
+      "replies": []
+    },
+    {
+      "id": "m1ige8y",
+      "author": "seanmorris",
+      "body": "I still don't understand why this was a physical object and not an app.",
+      "score": 2,
+      "created_utc": 1733918694.0,
+      "replies": [
+        {
+          "id": "m1igl9j",
+          "author": "M4cker85",
+          "body": "Some places have strict laws about touching your phone when driving.\u00a0 This allowed people in older cars to change songs on Spotify while driving legally\u00a0",
+          "score": 33,
+          "created_utc": 1733918795.0,
+          "replies": [
+            {
+              "id": "m1imlok",
+              "author": "None",
+              "body": "And it looked cool, with a beeg knob",
+              "score": 5,
+              "created_utc": 1733921711.0,
+              "replies": []
+            },
+            {
+              "id": "m1ixxtp",
+              "author": "None",
+              "body": "You could do that with a cheaper Bluetooth knob.",
+              "score": -3,
+              "created_utc": 1733926338.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1jjqe4",
+      "author": "Usernametaken1121",
+      "body": "Took long enough. Idk why I'd spend more $$ for an add on to a subscription service to do a thing my phone comes built in with.",
+      "score": 1,
+      "created_utc": 1733933745.0,
+      "replies": [
+        {
+          "id": "m1mf0zf",
+          "author": "Spunndaze",
+          "body": "Because people like things like this..it's not hard to understand.",
+          "score": 0,
+          "created_utc": 1733966302.0,
+          "replies": [
+            {
+              "id": "m1mzgrx",
+              "author": "Usernametaken1121",
+              "body": "I never said they couldn't like it. I said I don't understand why people spend $$ on products that do a thing you already possess and then are frustrated when said redundant product doesn't succeed.",
+              "score": 1,
+              "created_utc": 1733973918.0,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1jmbz4",
+      "author": "deathlyxhallow",
+      "body": "I was invited to sign up for one of these way back when, but I had Spotify emails sent to the spam folder at the time and didn\u2019t see it til it was too late. I\u2019ve always been bummed to have missed out.",
+      "score": 1,
+      "created_utc": 1733934564.0,
+      "replies": []
+    },
+    {
+      "id": "m1kebut",
+      "author": "sneakyxxrocket",
+      "body": "I got one a couple years ago, they gave me me three months of my Spotify plan as a refund so ended up making a couple bucks from buying this thing lol.",
+      "score": 1,
+      "created_utc": 1733943021.0,
+      "replies": []
+    },
+    {
+      "id": "m1kk99u",
+      "author": "None",
+      "body": "\u2026but there\u2019s another post from today about how people are keeping it alive\u2026",
+      "score": 1,
+      "created_utc": 1733944764.0,
+      "replies": []
+    },
+    {
+      "id": "m1ktk4l",
+      "author": "None",
+      "body": "I meannn who didn\u2019t see this coming?",
+      "score": 1,
+      "created_utc": 1733947508.0,
+      "replies": []
+    },
+    {
+      "id": "m1met3z",
+      "author": "Spunndaze",
+      "body": "That's really unfortunate.i kept mine on the office desk and used it every day. It was a great little piece of kit.",
+      "score": 1,
+      "created_utc": 1733966222.0,
+      "replies": []
+    },
+    {
+      "id": "m1nr2ag",
+      "author": "Huskerfan212",
+      "body": "Not surprising, honestly. It was a cool idea, but with so many cars already integrating CarPlay or Android Auto, it felt like a tough sell.",
+      "score": 1,
+      "created_utc": 1733987513.0,
+      "replies": []
+    },
+    {
+      "id": "m1o22d6",
+      "author": "MetzgerBoys",
+      "body": "How is this any different than using your phone and Bluetooth? Seems utterly pointless",
+      "score": 1,
+      "created_utc": 1733994830.0,
+      "replies": [
+        {
+          "id": "m1vyr2x",
+          "author": "PunxsutawnyFil",
+          "body": "I think it was designed for older cars that didn't have that capability, which is a rapidly shrinking market obviously",
+          "score": 2,
+          "created_utc": 1734110764.0,
+          "replies": []
+        },
+        {
+          "id": "m1oxtfh",
+          "author": "Draxtonsmitz",
+          "body": "And that\u2019s why it\u2019s dead.",
+          "score": 1,
+          "created_utc": 1734011994.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1pq0k7",
+      "author": "Zeno14",
+      "body": "im using it right now like normally",
+      "score": 1,
+      "created_utc": 1734021565.0,
+      "replies": []
+    },
+    {
+      "id": "m1wh8ad",
+      "author": "JohnniesJimmy",
+      "body": "I got mine working but without \"hey spotify\" without having to hack it",
+      "score": 1,
+      "created_utc": 1734116611.0,
+      "replies": []
+    },
+    {
+      "id": "m1m9gs8",
+      "author": "MisterB78",
+      "body": "I already had an accessory to play Spotify in my car\u2026 my phone",
+      "score": 1,
+      "created_utc": 1733964281.0,
+      "replies": []
+    },
+    {
+      "id": "m1ndpvv",
+      "author": "None",
+      "body": "So disgusting how we allow these corporations to brick things we bought to own just because they stop supporting it. Its not like they arent still running spotify. Theres no reason for this not to keep working.",
+      "score": 1,
+      "created_utc": 1733980170.0,
+      "replies": []
+    },
+    {
+      "id": "m1l3onk",
+      "author": "alex_dlc",
+      "body": "What? I just bought one!",
+      "score": 0,
+      "created_utc": 1733950507.0,
+      "replies": []
+    },
+    {
+      "id": "m1ipq06",
+      "author": "ufofarm",
+      "body": "This is the first time I've heard of this. Seemed like a dumb idea from the start since most people who might use it already have phones.",
+      "score": -10,
+      "created_utc": 1733923067.0,
+      "replies": [
+        {
+          "id": "m1iugwd",
+          "author": "jay_revolv3r",
+          "body": "In many states it is illegal to use the phone while driving. However it's not illegal to fiddle with your car's control console. This thing mounted via cd player or air vents and you could control music that way. Is it still something that distracts your attention? Yes, but it's not a phone. You could also speak commands directly to Spotify and not have go through Google/Apple command first.",
+          "score": 2,
+          "created_utc": 1733924993.0,
+          "replies": []
+        },
+        {
+          "id": "m1iyubb",
+          "author": "sharkfighter-",
+          "body": "For me, one of my cars is new enough to have Bluetooth capabilities, but just old enough that it doesn\u2019t have CarPlay. Car thing was neat because it gave a quick, usable interface for music without having to spend hundreds to update my car\u2019s stereo or without having to use my phone while driving.    \n\nFortunately, Spotify did refund me for it after I requested one when the end date was announced.",
+          "score": 1,
+          "created_utc": 1733926678.0,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m1jzi0p",
+      "author": "Paahl68",
+      "body": "Good. I hate Spotify.",
+      "score": -3,
+      "created_utc": 1733938630.0,
+      "replies": []
+    }
+  ]
+}

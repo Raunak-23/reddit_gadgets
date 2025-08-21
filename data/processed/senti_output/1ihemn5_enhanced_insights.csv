@@ -1,0 +1,49 @@
+metric,value
+file,1ihemn5.csv
+title,Omnidirectional drift bike with wheels made of circus balls glides in any direction
+rows,111
+num_posts,1
+num_comments,110
+unique_authors,90
+max_depth,5
+avg_comment_words,28.45
+median_comment_words,20.0
+max_comment_words,187
+positive_count,35
+negative_count,75
+neutral_count,0
+positive_pct,31.818
+negative_pct,68.182
+neutral_pct,0.0
+topic_1_keywords,"wheel, think, wear, cost, cool, irobot, wheels, need"
+topic_1_label,irobot wheels need to wear
+topic_2_keywords,"hes, short, one, way, watching, stuff, james, years"
+topic_2_label,james is short and one way to watch stuff
+topic_3_keywords,"ago, video, watch, still, one, days, link, sit"
+topic_3_label,video watch a video sits on a link
+topic_4_keywords,"need, wheels, weapons, im, hes, much, furze, spheres"
+topic_4_label,spheres need a lot of weapons
+topic_5_keywords,"like, thats, go, simple, get, balls, really, hard"
+topic_5_label,i like that i get hard balls
+topic_6_keywords,"hes, made, stuff, stupid, im, one, work, colin"
+topic_6_label,"hes made, stuff, colin"
+top_ngram_1,hes made (6)
+top_ngram_2,hard work (5)
+top_ngram_3,makes look (5)
+top_ngram_4,like hes (5)
+top_ngram_5,im stupid (5)
+top_ngram_6,oh hes (5)
+top_ngram_7,hes selling (5)
+top_ngram_8,selling short (5)
+top_ngram_9,short ive (5)
+top_ngram_10,ive watching (5)
+ner_1,James Bruton|PER|5
+ner_2,Audi|ORG|4
+ner_3,Colin Furze|PER|4
+ner_4,James|PER|4
+ner_5,It|MISC|4
+ner_6,iRobot|MISC|4
+ner_7,Colin|PER|3
+ner_8,Minecraft|MISC|2
+ner_9,Furze|PER|2
+ner_10,Om|MISC|2
