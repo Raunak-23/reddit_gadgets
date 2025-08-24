@@ -177,11 +177,7 @@ Key knobs in `enhanced_thread_insights.py`:
   Already truncated to **512 tokens** for stability.
 
 ---
-Contributions welcome! Ideas:  
-- Better cleaning/tokenization  
-- Improved topic labeling  
-- Entity normalization  
-- Dashboard integrations
+
 ## 👥 Contributors
 
 This project was developed collaboratively as part of a two-member team:
