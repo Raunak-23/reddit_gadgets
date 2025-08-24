@@ -187,16 +187,16 @@ Contributions welcome! Ideas:
 This project was developed collaboratively as part of a two-member team:
 
 - [Raunak-23](https://github.com/Raunak-23)  
-  *Led the project with responsibilities including end-to-end Reddit data collection (via Reddit API), repository organization, and overall pipeline management.*  
-  *Implemented the core sentiment analysis workflow using Transformers and conducted extensive model training/experimentation.*  
-  *Developed topic modeling (LDA with labeling), participation statistics, and utilities for per-thread/global rollups.*  
-  *Extracted n-grams and entities (brands, products) to enhance downstream insights.*  
+  *-Led the project with responsibilities including end-to-end Reddit data collection (via Reddit API), repository organization, and overall pipeline management.*  
+  *-Implemented the core sentiment analysis workflow using Transformers and conducted extensive model training/experimentation.*  
+  *-Developed topic modeling (LDA with labeling), participation statistics, and utilities for per-thread/global rollups.*  
+  *-Extracted n-grams and entities (brands, products) to enhance downstream insights.*  
 
 - [Swayam-Swaroop-Sahu](https://github.com/Swayam-Swaroop-Sahu)  
-  *Contributed in designing and implementing sentiment classification (positive/negative/neutral) and topic modeling (LDA) to uncover key discussion themes.*  
-  *Engineered preprocessing pipelines, conducted model experimentation, and generated structured, dashboard-ready CSVs for downstream analysis.*  
-  *Extracted n-grams and entities (brands, products) as part of the opinion-mining process.*  
-  *Contributed in finalizing sentiment modeling and opinion analysis workflows, delivering actionable, product-specific insights.*
+  *-Contributed in designing and implementing sentiment classification (positive/negative/neutral) and topic modeling (LDA) to uncover key discussion themes.*  
+  *-Engineered preprocessing pipelines, conducted model experimentation, and generated structured, dashboard-ready CSVs for downstream analysis.*  
+  *-Extracted n-grams and entities (brands, products) as part of the opinion-mining process.*  
+  *-Contributed in finalizing sentiment modeling and opinion analysis workflows, delivering actionable, product-specific insights.*
 
 Contributions welcome! Ideas:  
 - Better cleaning/tokenization  
